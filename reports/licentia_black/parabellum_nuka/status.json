@@ -1,8 +1,8 @@
 {
   "MachineURL": "licentia_black/parabellum_nuka",
   "Name": "Parabellum NUKA",
-  "Version": "1.4",
-  "ModListHash": "hcKL4hcBsdI=",
+  "Version": "1.5",
+  "ModListHash": "/e6UBSoRpH4=",
   "Archives": [
     {
       "Status": "Valid",
@@ -197,16 +197,16 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
-        "Hash": "NTdso/A5zhE=",
-        "Meta": "[General]\nmanualURL=https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/ut5wnJJI\nprompt=",
-        "Name": "Nuka Ride 6.8.2.7z",
-        "Size": 720608643,
+        "Hash": "KU8r9aEQNtM=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/W4hT3TII",
+        "Name": "Nuka Ride 6.8.3.7z",
+        "Size": 723666003,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "",
-          "Url": "https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/ut5wnJJI"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/W4hT3TII"
         }
       }
     },
@@ -6448,6 +6448,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "HdqULXwG9I0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
+        "Name": "Data_Fallout4 - Textures9.ba2",
+        "Size": 866812818,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures9.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "HdqULXwG9I0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GO12EAP3jsM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
+        "Name": "Data_Fallout4 - Textures8.ba2",
+        "Size": 603820524,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "GO12EAP3jsM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "iAVjq3kjwWQ=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
         "Name": "Data_Fallout4 - Textures7.ba2",
@@ -6522,70 +6554,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mWHypI5laIo=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
-        "Name": "Data_Fallout4 - Textures4.ba2",
-        "Size": 2005844637,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures4.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "mWHypI5laIo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2GOYPeXGmlU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
-        "Name": "Data_Fallout4 - Textures3.ba2",
-        "Size": 2095724697,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures3.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "2GOYPeXGmlU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LsNhrJ6et0k=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
-        "Name": "Data_Fallout4 - Textures1.ba2",
-        "Size": 2709070014,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures1.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "LsNhrJ6et0k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "D4p7/Fon2zw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
-        "Name": "Data_Fallout4 - Textures2.ba2",
-        "Size": 2420982983,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures2.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "D4p7/Fon2zw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "pvuWF9IKkQE=",
         "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164486",
         "Name": "2b. Quality Overhaul - Part Two-23556-1-0-1565980973.7z",
@@ -6601,59 +6569,6 @@
           "ModID": 23556,
           "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eQAdmhUI5qU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164241",
-        "Name": "2c. Main Reapack - Part Three-23556-1-0-1565605113.7z",
-        "Size": 3100799827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BiRaitBec",
-          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
-          "FileID": 164241,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
-          "IsNSFW": false,
-          "ModID": 23556,
-          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "r9atBo0vdWU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
-        "Name": "Data_Fallout4 - Startup.ba2",
-        "Size": 46451365,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Startup.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "r9atBo0vdWU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HdqULXwG9I0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
-        "Name": "Data_Fallout4 - Textures9.ba2",
-        "Size": 866812818,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures9.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "HdqULXwG9I0="
         }
       }
     },
@@ -6681,32 +6596,80 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GO12EAP3jsM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
-        "Name": "Data_Fallout4 - Textures8.ba2",
-        "Size": 603820524,
+        "Hash": "2GOYPeXGmlU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
+        "Name": "Data_Fallout4 - Textures3.ba2",
+        "Size": 2095724697,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameFile": "Data\\Fallout4 - Textures3.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "GO12EAP3jsM="
+          "Hash": "2GOYPeXGmlU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LCycwIgXDDQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
-        "Name": "Data_DLCworkshop01 - Textures.ba2",
-        "Size": 23240011,
+        "Hash": "mWHypI5laIo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 2005844637,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "LCycwIgXDDQ="
+          "Hash": "mWHypI5laIo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r9atBo0vdWU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
+        "Name": "Data_Fallout4 - Startup.ba2",
+        "Size": 46451365,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Startup.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "r9atBo0vdWU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D4p7/Fon2zw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
+        "Name": "Data_Fallout4 - Textures2.ba2",
+        "Size": 2420982983,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures2.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "D4p7/Fon2zw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LsNhrJ6et0k=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
+        "Name": "Data_Fallout4 - Textures1.ba2",
+        "Size": 2709070014,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures1.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "LsNhrJ6et0k="
         }
       }
     },
@@ -6813,6 +6776,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "pTLf+5d5EwM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures5.ba2",
+        "Name": "Data_Fallout4 - Textures5.ba2",
+        "Size": 1965886787,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures5.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "pTLf+5d5EwM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WZopB77M+oM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Size": 1477174,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "WZopB77M+oM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eqKVdwOsurc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=20445\nfileID=83689",
         "Name": "Real HD Main File-20445-1-0.7z",
@@ -6828,75 +6823,6 @@
           "ModID": 20445,
           "Name": "Real HD Face Textures 2k",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hh2EyuS1xMo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55817\nfileID=269169",
-        "Name": "SS2 Chapter 2-55817-2-3-2-1677868851.7z",
-        "Size": 691641163,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sim Settlements Team",
-          "Description": "Fight off settler disease, repopulate the world outside of your settlements, battle the Gunners, and establish your own faction headquarters to rule the Commonwealth!\n\n\n\nChapter 2 continues the story of SS2, adds in 3 new side questlines, and adds tons of new features to enjoy outside of the story content.",
-          "FileID": 269169,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55817/55817-1691005319-789076111.jpeg",
-          "IsNSFW": false,
-          "ModID": 55817,
-          "Name": "Sim Settlements 2 - Chapter 2",
-          "Version": "3.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4VzJFpoeSyY=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
-        "Name": "Data_Fallout4 - Shaders.ba2",
-        "Size": 12845022,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Shaders.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "4VzJFpoeSyY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eu5QrDBP6FE=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
-        "Name": "Data_DLCRobot - Main.ba2",
-        "Size": 364112638,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "eu5QrDBP6FE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WrzGLGYLzkg=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
-        "Name": "Data_Fallout4 - Interface.ba2",
-        "Size": 485447149,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Interface.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "WrzGLGYLzkg="
         }
       }
     },
@@ -6924,37 +6850,74 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SJv4oKpZOko=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Textures.ba2",
-        "Name": "Data_ccBGSFO4046-TesCan - Textures.ba2",
-        "Size": 13314205,
+        "Hash": "hh2EyuS1xMo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55817\nfileID=269169",
+        "Name": "SS2 Chapter 2-55817-2-3-2-1677868851.7z",
+        "Size": 691641163,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "SJv4oKpZOko="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sim Settlements Team",
+          "Description": "Fight off settler disease, repopulate the world outside of your settlements, battle the Gunners, and establish your own faction headquarters to rule the Commonwealth!\n\n\n\nChapter 2 continues the story of SS2, adds in 3 new side questlines, and adds tons of new features to enjoy outside of the story content.",
+          "FileID": 269169,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55817/55817-1691005319-789076111.jpeg",
+          "IsNSFW": false,
+          "ModID": 55817,
+          "Name": "Sim Settlements 2 - Chapter 2",
+          "Version": "3.0.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OHycU9jelEo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28809\nfileID=151701",
-        "Name": "8K Realistic Skin Textures - CBBE - Fusion Girl - ABeauty - Unique Player Compatible-28809-0-7-1549497017.zip",
-        "Size": 974887470,
+        "Hash": "LCycwIgXDDQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
+        "Name": "Data_DLCworkshop01 - Textures.ba2",
+        "Size": 23240011,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "LCycwIgXDDQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eQAdmhUI5qU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164241",
+        "Name": "2c. Main Reapack - Part Three-23556-1-0-1565605113.7z",
+        "Size": 3100799827,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Typer",
-          "Description": "8K resolution skin texture for CBBE body. Thats all there really is to it. few variations I guess too.\n\n\n\nDiffuse/specular created by Maevan2.\n\nnormal map and lots of other shit created by Typer.\n\n\n\nJust bear in mind, clipping still is an issue with this mod, but I\u0027m working on it aight?",
-          "FileID": 151701,
+          "Author": "BiRaitBec",
+          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
+          "FileID": 164241,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28809/28809-1549404362-2053185344.jpeg",
-          "IsNSFW": true,
-          "ModID": 28809,
-          "Name": "8K Realistic Skin Textures - Fusion Girl - CBBE - ABeauty - Unique Player Compatible-",
-          "Version": "0.7"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
+          "IsNSFW": false,
+          "ModID": 23556,
+          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mHUbt5Zv0s4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
+        "Name": "Data_DLCRobot - Voices_en.ba2",
+        "Size": 122977015,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "mHUbt5Zv0s4="
         }
       }
     },
@@ -6998,48 +6961,85 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mHUbt5Zv0s4=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
-        "Name": "Data_DLCRobot - Voices_en.ba2",
-        "Size": 122977015,
+        "Hash": "4VzJFpoeSyY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
+        "Name": "Data_Fallout4 - Shaders.ba2",
+        "Size": 12845022,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
+          "GameFile": "Data\\Fallout4 - Shaders.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "mHUbt5Zv0s4="
+          "Hash": "4VzJFpoeSyY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pTLf+5d5EwM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures5.ba2",
-        "Name": "Data_Fallout4 - Textures5.ba2",
-        "Size": 1965886787,
+        "Hash": "WrzGLGYLzkg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
+        "Name": "Data_Fallout4 - Interface.ba2",
+        "Size": 485447149,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures5.ba2",
+          "GameFile": "Data\\Fallout4 - Interface.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "pTLf+5d5EwM="
+          "Hash": "WrzGLGYLzkg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WZopB77M+oM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
-        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
-        "Size": 1477174,
+        "Hash": "eu5QrDBP6FE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
+        "Name": "Data_DLCRobot - Main.ba2",
+        "Size": 364112638,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+          "GameFile": "Data\\DLCRobot - Main.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "WZopB77M+oM="
+          "Hash": "eu5QrDBP6FE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SJv4oKpZOko=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Textures.ba2",
+        "Name": "Data_ccBGSFO4046-TesCan - Textures.ba2",
+        "Size": 13314205,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "SJv4oKpZOko="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OHycU9jelEo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28809\nfileID=151701",
+        "Name": "8K Realistic Skin Textures - CBBE - Fusion Girl - ABeauty - Unique Player Compatible-28809-0-7-1549497017.zip",
+        "Size": 974887470,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Typer",
+          "Description": "8K resolution skin texture for CBBE body. Thats all there really is to it. few variations I guess too.\n\n\n\nDiffuse/specular created by Maevan2.\n\nnormal map and lots of other shit created by Typer.\n\n\n\nJust bear in mind, clipping still is an issue with this mod, but I\u0027m working on it aight?",
+          "FileID": 151701,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28809/28809-1549404362-2053185344.jpeg",
+          "IsNSFW": true,
+          "ModID": 28809,
+          "Name": "8K Realistic Skin Textures - Fusion Girl - CBBE - ABeauty - Unique Player Compatible-",
+          "Version": "0.7"
         }
       }
     },
@@ -7061,7 +7061,7 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 5,
+  "Failures": 6,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/licentia_black/403d6cef57e0e63d_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/licentia_black/403d6cef57e0e63d_large.webp"
 }

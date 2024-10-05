@@ -1,15 +1,16 @@
 ## Validation Report - Parabellum NUKA (licentia_black/parabellum_nuka)
 
 
-### Invalid (5)
+### Invalid (6)
 *  [Kziitd Fetish Toolset - Bodyslide 1.0 Beta 1.7z](https://www.mediafire.com/file/flx0mao5fn7v541/Kziitd_F*t*sh_Toolset_-_Bodyslide_1.0_Beta_1.7z/file)
 *  [Nuka Ride - FaceGen for NextGen, by Dontax.zip](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/SthnQRxB)
 *  [Nuka Ride - PC Female Idles.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/a0RxhJBL)
 *  [Nuka Ride - Random Main Menu Themes 6.8.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/a0RxhJBL)
 *  [Nuka Ride 6.8 Bodyslide for CBBE 1.0.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/G5pS3bRI)
+*  [Nuka Ride 6.8.3.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/W4hT3TII)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (365)
+### Valid (364)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [1st person esp-42971-1-0-1578819803.7z](https://www.nexusmods.com/fallout4/mods/42971/?tab=files&file_id=174168)
 *  [2_5 bodyslide files patch-7718-2-5.7z](https://www.nexusmods.com/fallout4/mods/7718/?tab=files&file_id=33263)
@@ -243,7 +244,6 @@
 *  [Novatron Torso Fix-18714-1-0.rar](https://www.nexusmods.com/fallout4/mods/18714/?tab=files&file_id=75939)
 *  [NPC Drinking Fix-53980-1-0-0-1629653826.7z](https://www.nexusmods.com/fallout4/mods/53980/?tab=files&file_id=215300)
 *  [Nuka Cola and Beverage Patch-59508-1-0-1649438303.7z](https://www.nexusmods.com/fallout4/mods/59508/?tab=files&file_id=234301)
-*  [Nuka Ride 6.8.2.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/ut5wnJJI)
 *  [Nuka Ride World Patch 1.10.7z](https://www.loverslab.com/files/file/31292-nuka-ride-world-patch-wip/?do=download)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
