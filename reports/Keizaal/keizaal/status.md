@@ -687,7 +687,7 @@
 *  [Skyrim Cut Content Restoration v1.5-90744-1-5-1725150601.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90744/?tab=files&file_id=537396)
 *  [Skyrim Extended Cut - Saints and Seducers-72772-1-0-0-6-1679195731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=369854)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
-*  [Skyrim Silver-127897-1-0-8-1728095462.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127897/?tab=files&file_id=549100)
+*  [Skyrim Silver-127897-1-0-8-1728104188.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127897/?tab=files&file_id=549144)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
