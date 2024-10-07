@@ -1,10 +1,11 @@
 ## Validation Report - The Northern Experience (TNE/tne)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [GCO_Alpha3_VanGogh_Eyes.7z](https://www.patreon.com/file?h=35573588&i=5360658)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2726)
+### Valid (2725)
 *  [  StormcloakRevival 2K-70723-1-0a.7z](https://www.nexusmods.com/skyrim/mods/70723/?tab=files&file_id=1000181522)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Dyuz)HighclassHanJian_2K_1.1-55494-1-1-1632660116.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55494/?tab=files&file_id=230764)
@@ -1006,7 +1007,6 @@
 *  [Gadnor's Staff by Ave-44700-1-1-1611760310.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44700/?tab=files&file_id=182170)
 *  [GameplayTweaks v6-41953-6-1632562851.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41953/?tab=files&file_id=230499)
 *  [Garlic - A Garlic Mod-78848-0-2-1668628715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78848/?tab=files&file_id=332392)
-*  [GCO_Alpha3_VanGogh_Eyes.7z](https://www.patreon.com/file?h=35573588&i=5360658)
 *  [Geirmund's Hall Pull Chain-80218-1-0-1670436107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80218/?tab=files&file_id=338497)
 *  [GeleborTeachesSunhallowedArrowsSpell SE v1.0-26812-1-0-1561130748.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26812/?tab=files&file_id=96779)
 *  [Gemling Queen Jewelry SE - CBBE Patch-9951-1-0-1591212745.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=143681)
