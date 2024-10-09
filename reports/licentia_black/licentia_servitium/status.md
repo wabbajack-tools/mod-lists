@@ -647,7 +647,7 @@
 *  [ENB Light - patch for Quick Light SMIM Mesh-59416-1-1-1-1639663542.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59416/?tab=files&file_id=249578)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Particle Lights for Gemstones-57672-1-3-1658432693.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57672/?tab=files&file_id=300935)
-*  [enbseries_skyrimse_v0502(caco)4.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502(caco)4.zip_a1252348-a730-4d40-bf17-c83520049ea4)
+*  [enbseries_skyrimse_v0502(caco)5.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502(caco)5.zip_328acbb4-08c5-4838-9a2b-d7c5353aff54)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
