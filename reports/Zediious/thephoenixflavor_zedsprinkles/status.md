@@ -1,11 +1,10 @@
 ## Validation Report - The Phoenix Flavor - Zediious Sprinkles (Zediious/thephoenixflavor_zedsprinkles)
 
 
-### Invalid (1)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2220)
+### Valid (2221)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -175,6 +174,7 @@
 *  [At Your Own Pace - Main Quest-52704-2-1-0-1677557354.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=364095)
 *  [At Your Own Pace - Misc-52704-1-1-0-1633233207.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=232244)
 *  [Atmoran Axes-64883-1-0-1647122057.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64883/?tab=files&file_id=269702)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
 *  [Authentic Eyes v1.1-36063-1-1-1590639642.zip](https://www.nexusmods.com/skyrimspecialedition/mods/36063/?tab=files&file_id=142471)
