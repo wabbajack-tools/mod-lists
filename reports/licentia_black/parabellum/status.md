@@ -1,11 +1,10 @@
 ## Validation Report - Parabellum (licentia_black/parabellum)
 
 
-### Invalid (1)
-*  [SoTCv3.14.7z](https://drive.google.com/uc?id=1mNzb3cHWa2EX__bNQuFB1GJmc2-_DX-V&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (376)
+### Valid (377)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2.1.0 CBBE BODY AND BODYSLIDES-22431-2-1-0-1709115070.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=305057)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
@@ -343,6 +342,7 @@
 *  [Sexy Hancock-12029-1-1.zip](https://www.nexusmods.com/fallout4/mods/12029/?tab=files&file_id=48794)
 *  [Sim Settlements 2 - All Chapters Pack-73394-3-3-5-1722636239.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=328876)
 *  [Simple Offence Suppression F4SE-75292-1-0-1697083422.7z](https://www.nexusmods.com/fallout4/mods/75292/?tab=files&file_id=291539)
+*  [SoTCv3.14.7z](https://drive.google.com/uc?id=1mNzb3cHWa2EX__bNQuFB1GJmc2-_DX-V&export=download)
 *  [Spare Railroad When Playing as Institute-19835-1-52.rar](https://www.nexusmods.com/fallout4/mods/19835/?tab=files&file_id=110645)
 *  [Sprint Reload-50000-1-0-1662056618.7z](https://www.nexusmods.com/fallout4/mods/50000/?tab=files&file_id=249055)
 *  [Sprint Stutter Fix With Extras-29828-3-0-1594650895.7z](https://www.nexusmods.com/fallout4/mods/29828/?tab=files&file_id=186713)
