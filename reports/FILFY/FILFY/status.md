@@ -1146,7 +1146,7 @@
 *  [Embers XD 2K-37085-3-0-6-1725861521.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=540343)
 *  [Embershard Miners - With Voiced Dialogue-35031-2-5-1591145595.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35031/?tab=files&file_id=143594)
 *  [EMPEROR - Giant Crab Overhaul-58612-1-1-1637652768.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58612/?tab=files&file_id=243653)
-*  [ENB Anti-Aliasing-130669-1-1-2-1727912737_01d9df0d135a269e41210611b633e48986ec0a0e85a965efcffb0349eb546a59_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=548486)
+*  [ENB Anti-Aliasing-130669-1-1-2-1727912737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=548486)
 *  [ENB Extender Skyrim-99406-1-2-1725639948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=539358)
 *  [ENB Helper Plus-62743-1-0-4-1667140855.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62743/?tab=files&file_id=327653)
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
@@ -2000,8 +2000,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
+*  lex_sscebr.tlx
 *  lex_sscebr2.clx
-*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
