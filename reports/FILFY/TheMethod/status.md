@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (237)
+### Valid (236)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=470707)
@@ -199,13 +199,12 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
-*  lex_sscebr.tlx
 *  lex_sscebr2.clx
+*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
-*  Logs_Script_EditorPapyrus.0.log
 *  Low.ini
 *  Medium.ini
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
