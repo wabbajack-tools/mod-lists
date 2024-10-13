@@ -68,6 +68,8 @@
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#welcome-to-night-city)
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
+-   [Baldur's Gate 3](#baldurs-gate-3)
+    -   [Listonomicon](#Listonomicon)
 
 ---
 
@@ -907,3 +909,46 @@ Ultraviolence brings you blood, tits and women in a modlist designed to have you
 - NSFW content in the form of sexy clothes, erotic poses, romance options and the ability to use braindances you can't find at Arasaka Mart
 
 ---
+
+## Baldurs Gate 3
+
+### [Listonomicon](https://www.modlists.net/docs/7listo/Home)
+
+Listonomicon exists to celebrate _Dungeons and Dragons_ past and present, bringing old and current published material (and limited, popular, third party, OSR, and Pathfinder) to Larians adaptation of 5e. It improves UI, QoL, and gameplay mechanics while adding new options, encounters, dangers, cosmetics, and fun. The goal is not to abandon what BG3 is fundamentally by forcing it into following book RAW rules.
+
+- Brand new encounters throughout Act 1, 2, and 3
+- Custom Combat Extender config to reinvigorate various vanilla encounters
+- Several classes/subclasses, races, and subraces have been added without bloating the game with every random homebrew idea
+- Tweaks to gameplay and balance to eliminate auto-pilot selection of Eldritch Blast to solve every encounter
+- A reasonable bevy of cosmetic mods to provide new heads, hairs, skin tones, etc for base and modded races without abandoning BG3's art style or over-inflating the CC menu
+
+Listonomicon eliminates the need to use LaughinLeader's BG3 Mod Manager. You can manage your load order in MO2 and launch the game.
+
+**_Mods to get familiar with:_**
+
+[WASD movement](https://www.nexusmods.com/baldursgate3/mods/781) (use caps lock to toggle)
+
+[5e](https://www.nexusmods.com/baldursgate3/mods/125) and [Homebrew Spells](https://www.nexusmods.com/baldursgate3/mods/473), and their rebalance patches. [5e and Vanilla Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426), [Homebrew Rebalance](https://www.nexusmods.com/baldursgate3/mods/1590?tab=description).
+
+[Rebalance Feats](https://www.nexusmods.com/baldursgate3/mods/5614)
+
+[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623)
+
+[Use Highest Modifier in Dialogue](https://www.nexusmods.com/baldursgate3/mods/2171)
+
+[WiFi Potions](https://www.nexusmods.com/baldursgate3/mods/5080)
+
+[Better Dual Wielding](https://www.nexusmods.com/baldursgate3/mods/1028?tab=description)
+
+[Encounters Overhaul - Additional Enemies and Encounters](https://www.nexusmods.com/baldursgate3/mods/7740?tab=description) and [Valkrana's Undead Encounters](https://www.nexusmods.com/baldursgate3/mods/9024?tab=files)
+
+[Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207/?tab=files&topic_id=13712501). CX is further enhanced with Action Resource Passives and Goonsack's Library, adding new statuses/effects/abilities that can be granted to enemies.
+
+[Expansion 13-20](https://www.nexusmods.com/baldursgate3/mods/279?tab=description)
+
+[Illithid Powers Overhaul 2](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files)
+
+Listonomicon also comes with [several optional mods](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for further customizing the list to be wackier, or more difficult.
+
+---
+
