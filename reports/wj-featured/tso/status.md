@@ -1,7 +1,7 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (68)
+### Invalid (67)
 *  [(Royan) Ryza.7z](https://www.mediafire.com/file/vlyb03viw5h66k1/(Royan)+Ryza.7z/file)
 *  [[Christine] Altmer Archer.7z](https://www.mediafire.com/file/2ntiawmf5yzoii4/%255BChristine%255D_Altmer_Archer.7z)
 *  [[Christine] Arathia.7z](https://www.mediafire.com/file/45q12jkn68jgffs/[Christine]+Arathia.7z/file)
@@ -34,7 +34,6 @@
 *  [[Christine] Zhurong.7z](https://www.mediafire.com/file/c038efag87cbx1k/%255BChristine%255D_Zhurong.7z)
 *  [[Dint999] BDO Striker CBBE SE fomod.7z](https://www.mediafire.com/file/369mq5q15b02sie/%255BDint999%255D_BDO_Striker_CBBE_SE_fomod.7z/)
 *  [[Melodic] Mistress Lilith CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/ta679dq9dpe9pcz/%255BMelodic%255D_Mistress_Lilith_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/)
-*  [[SE] 9204 Overhit Taze by Team TAL(converted by em486).7z](https://drive.google.com/uc?id=1JoSeVzSBIa4YrbPNtrE6HNFLE4FoQ_wU&export=download)
 *  [01 Paragon Aurora Glacier Empress.7z](https://www.mediafire.com/file/rsdw21ogf433uve/Paragon+Aurora+Glacier+Empress.7z/file)
 *  [04 [Christine] Bandit Summoner.7z](https://www.mediafire.com/file/m6vcqryvl2yarb2/04_%255BChristine%255D_Bandit_Summoner.7z/file)
 *  [05 [Christine] Dragon Berserkr v4.7z](https://www.mediafire.com/file/t2jjzedv5ptphmn/[Christine]+Dragon+Berserkr+v4.7z/file)
@@ -72,7 +71,7 @@
 *  [Woodland Priestess SE.7z](https://www.mediafire.com/file/8xv30ezbg2g5gtp/Woodland_Priestess_SE.7z/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (965)
+### Valid (966)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -99,6 +98,7 @@
 *  [[SE-Alpha] 9204 Vindictus Sonic Blade by Team TAL.zip](https://drive.google.com/uc?id=1CXe4llor7UO13v_t7NXY37dm73LojIfX&export=download)
 *  [[SE] 9204 BO MD0014 by Team TAL.7z](https://drive.google.com/uc?id=1hoJxN_qq9pR2WbKYMTlibSIcfwA1-ze0&export=download)
 *  [[SE] 9204 DR Alicia by Team TAL CBBE 3BA BS.7z](https://www.loverslab.com/files/file/13662-se-team-tals-9204-dr-alicia-smp-3ba/)
+*  [[SE] 9204 Overhit Taze by Team TAL(converted by em486).7z](https://drive.google.com/uc?id=1JoSeVzSBIa4YrbPNtrE6HNFLE4FoQ_wU&export=download)
 *  [[SE] BDOR Checkmate 3BA fix.7z](https://drive.google.com/uc?id=1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9&export=download)
 *  [[SE] BDOR Grotevant by Team TAL (converted by em486).7z](https://drive.google.com/uc?id=1aLukpnhO7YNorYl11VTy8-6HEEeFPP35&export=download)
 *  [[SE] BDOR La Orzeca by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/15216-se-team-tals-dm-bdor-la-orzeca-smp-3ba/)
