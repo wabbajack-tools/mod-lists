@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (368)
+### Valid (367)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Alchemy Effects Randomizer SKSE-107301-1-0-2-1703160775.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107301/?tab=files&file_id=453818)
@@ -50,7 +50,6 @@
 *  [Crafting Recipe Distributor-52276-3-0-0-1719712612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52276/?tab=files&file_id=516243)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Custom Skill Menu-62423-1-1-7-1688378925.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62423/?tab=files&file_id=403347)
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  [Cutting Room Floor-276-3-1-19a-1725387643.7z](https://www.nexusmods.com/skyrimspecialedition/mods/276/?tab=files&file_id=538370)
