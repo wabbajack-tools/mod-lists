@@ -2,7 +2,7 @@
   "MachineURL": "AD/auriels_dream",
   "Name": "Auriels Dream",
   "Version": "12.2.0",
-  "ModListHash": "cnyV5rWMv6w=",
+  "ModListHash": "3/BM0rLM2Jg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -724,6 +724,20 @@
           "ModID": 68518,
           "Name": "DynDOLOD 3 Alpha",
           "Version": "Alpha-155"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MFcL7YF8D7c=",
+        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.30.6/Synthesis.zip",
+        "Name": "Synthesis.zip",
+        "Size": 263344575,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.30.6/Synthesis.zip"
         }
       }
     },
@@ -8282,20 +8296,6 @@
           "ModID": 48902,
           "Name": "JK\u0027s Palace of the Kings",
           "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "63DKc6I9Mjg=",
-        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.30.6/Synthesis.zip",
-        "Name": "Synthesis.zip",
-        "Size": 175006635,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.30.6/Synthesis.zip"
         }
       }
     },
@@ -17448,6 +17448,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "45524Jr3Xu8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3858\nfileID=6780",
+        "Name": "Optimized Texture for SSE-3858-1-0.zip",
+        "Size": 679637887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Abendaron",
+          "Description": "Optimized Texture For Skyrim Special Edition.\n\nReduce the filesize of unoptimized vanilla texture",
+          "FileID": 6780,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3858-0-1478903585.jpg",
+          "IsNSFW": false,
+          "ModID": 3858,
+          "Name": "Simply Optimized Textures for SSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O2FC3xeCFKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
+        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
+        "Size": 2793689727,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
+          "FileID": 209716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
+          "IsNSFW": false,
+          "ModID": 44016,
+          "Name": "Auriel\u0027s Dream - Core Texture Pack",
+          "Version": "7.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Mj8+6rxW6Es=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
@@ -17490,48 +17532,6 @@
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "MLw2ZGIzsg0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "45524Jr3Xu8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3858\nfileID=6780",
-        "Name": "Optimized Texture for SSE-3858-1-0.zip",
-        "Size": 679637887,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Abendaron",
-          "Description": "Optimized Texture For Skyrim Special Edition.\n\nReduce the filesize of unoptimized vanilla texture",
-          "FileID": 6780,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3858-0-1478903585.jpg",
-          "IsNSFW": false,
-          "ModID": 3858,
-          "Name": "Simply Optimized Textures for SSE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "O2FC3xeCFKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
-        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
-        "Size": 2793689727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
-          "FileID": 209716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
-          "IsNSFW": false,
-          "ModID": 44016,
-          "Name": "Auriel\u0027s Dream - Core Texture Pack",
-          "Version": "7.0.5"
         }
       }
     },
