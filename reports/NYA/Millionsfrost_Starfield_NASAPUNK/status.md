@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (512)
+### Valid (509)
 *  [(Beta)GC's_OrionSkins-9688-1-0-1-1718674634.zip](https://www.nexusmods.com/starfield/mods/9688/?tab=files&file_id=37804)
 *  [1 - M1911 - MW2 - Gunshot Audio-5133-1-0-1696991428.zip](https://www.nexusmods.com/starfield/mods/5133/?tab=files&file_id=17155)
 *  [1-of-a-Kind Ships-8805-2-8-1724470192.zip](https://www.nexusmods.com/starfield/mods/8805/?tab=files&file_id=42255)
@@ -76,9 +76,6 @@
 *  [Dark Universe - Takeover-11045-1-0-1-1725611145.zip](https://www.nexusmods.com/starfield/mods/11045/?tab=files&file_id=43186)
 *  Data_BlueprintShips-Starfield - Localization.ba2
 *  Data_BlueprintShips-Starfield.esm
-*  Data_Constellation - Localization.ba2
-*  Data_Constellation - Textures.ba2
-*  Data_Constellation.esm
 *  Data_data.bin
 *  Data_SFBGS003 - Main.ba2
 *  Data_SFBGS003 - Textures.ba2
