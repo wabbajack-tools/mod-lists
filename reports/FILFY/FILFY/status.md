@@ -8,7 +8,7 @@
 *  [Vanilla Chokers & Earrings [SE].7z](https://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3581)
+### Valid (3589)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -384,6 +384,7 @@
 *  [BodySlide and Outfit Studio - v5.6.3-201-5-6-3-1693153421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=421192)
 *  [Bodyslide for HIMBO V5-81085-0-3-1702809701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81085/?tab=files&file_id=452624)
 *  [Bodyslide for HIMBO V5-89496-1-2-1702809625.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89496/?tab=files&file_id=452623)
+*  [Bodyslide Output - 1.4.7-115534-1-4-7-1727294237.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=546109)
 *  [BodySlide Update - 3BA-106921-1-1-1702811064.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106921/?tab=files&file_id=452633)
 *  [BodyslideOutput14711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=553730)
 *  [Boethiah's Calling - Alternate Questline - FOMOD-121499-2-2-1718399708.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121499/?tab=files&file_id=511584)
@@ -991,6 +992,8 @@
 *  [Dovahnique's Diverse Decaying Fungal Pods - (ENB - BOS)-79068-1-1668930854.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79068/?tab=files&file_id=333133)
 *  [Dovahnique's Diverse Vendor Carts - Base Object Swapper-79883-1-1670198399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79883/?tab=files&file_id=337693)
 *  [Dovahnique's Nightshade - CACO Patch-81828-1-1-1673212707.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81828/?tab=files&file_id=347963)
+*  [DOVAJUMP Test-125550-0-3-2-1-Beta-1726173753.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125550/?tab=files&file_id=541470)
+*  [DOVAJUMP-125550-0-3-2-1-1725806548.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125550/?tab=files&file_id=540064)
 *  [DOVAJUMP-125550-0-3-5--1728591988.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125550/?tab=files&file_id=550859)
 *  [DPI Scaling Fix-95740-1-0-1689242798.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95740/?tab=files&file_id=406607)
 *  [Draft Whatever.ini - Example - Presets-107992-1-2-0-1705805405.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107992/?tab=files&file_id=463383)
@@ -1149,7 +1152,7 @@
 *  [Embers XD 2K-37085-3-0-6-1725861521.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=540343)
 *  [Embershard Miners - With Voiced Dialogue-35031-2-5-1591145595.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35031/?tab=files&file_id=143594)
 *  [EMPEROR - Giant Crab Overhaul-58612-1-1-1637652768.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58612/?tab=files&file_id=243653)
-*  [ENB Anti-Aliasing-130669-1-1-2-1727912737_01d9df0d135a269e41210611b633e48986ec0a0e85a965efcffb0349eb546a59_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=548486)
+*  [ENB Anti-Aliasing-130669-1-1-2-1727912737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=548486)
 *  [ENB Extender Skyrim-99406-1-2-1725639948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=539358)
 *  [ENB Helper Plus-62743-1-0-4-1667140855.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62743/?tab=files&file_id=327653)
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
@@ -1954,6 +1957,7 @@
 *  [KittyVFX - Lightning-124520-1-3-1727105151.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124520/?tab=files&file_id=545385)
 *  [Knight of the North-45869-3-0-1-1724478129.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45869/?tab=files&file_id=534704)
 *  [Knotwork Penitus Occulatus Consistency Patch-129414-1-1726515530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129414/?tab=files&file_id=542966)
+*  [Knotwork-128235-1-1-0-1726220339.zip](https://www.nexusmods.com/skyrimspecialedition/mods/128235/?tab=files&file_id=541632)
 *  [Knotwork-128235-1-3-0-1728542452.zip](https://www.nexusmods.com/skyrimspecialedition/mods/128235/?tab=files&file_id=550649)
 *  [Kome.Inventory.Tweaks.KIT.Patches.zip](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases/download/V2_1.08_Beta/Kome.Inventory.Tweaks.KIT.Patches.zip)
 *  [Kome.Inventory.Tweaks.KIT.zip](https://github.com/Komegaki/Komegaki-Inventory-Tweaks/releases/download/V2_1.08_Beta/Kome.Inventory.Tweaks.KIT.zip)
@@ -2008,8 +2012,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
+*  lex_sscebr.tlx
 *  lex_sscebr2.clx
-*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -2482,6 +2486,7 @@
 *  [Pride of Skyrim AIO-97595-1-2-1708762990.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97595/?tab=files&file_id=473972)
 *  [Priests Have Amulet Auto Equip - SPID-115148-2-0-0-1716381806.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115148/?tab=files&file_id=503811)
 *  [Prisoner Cart Fix SSE-8004-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8004/?tab=files&file_id=19486)
+*  [PrivateProfileRedirector AE 0.6.1 (RT 1.6.1170)-18860-0-6-1-1718892813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18860/?tab=files&file_id=513420)
 *  [PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)-18860-0-6-2-1727798544.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18860/?tab=files&file_id=548084)
 *  [Profile Sync 2.0.1-60690-2-0-1-1705242302.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=461278)
 *  [Profile Sync 2.0.2-60690-2-0-2-1715340705.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=499715)
@@ -2903,6 +2908,7 @@
 *  [Skyking Signs-112902-1-5-1719155328.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112902/?tab=files&file_id=514200)
 *  [SkyPatch Kanjs - Books AIO (1.0)-113193-1-0-1709688573.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113193/?tab=files&file_id=477399)
 *  [SkyPatch Kanjs - Soup and Stew AIO All Soup-113191-2-1-1709914156.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113191/?tab=files&file_id=478328)
+*  [SkyPatcher - AE-106659-2-6-2-1725724746.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=539703)
 *  [SkyPatcher - AE-106659-3-0-0-1728746123.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=551435)
 *  [Skyrim Extended Cut - Saints and Seducers-72772-1-0-0-6-1679195731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=369854)
 *  [Skyrim Ferries-109843-1-3-6-1720310240.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109843/?tab=files&file_id=518369)
@@ -2956,6 +2962,7 @@
 *  [SkyValor - The Forgotten CIty-110291-1-0-1-1707163366.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110291/?tab=files&file_id=468085)
 *  [SkyValor - Vigilant-109934-1-0-0-1706010472.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109934/?tab=files&file_id=464092)
 *  [SkyValor-106240-3-0-0-1717520467.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106240/?tab=files&file_id=508320)
+*  [SkyValor-106240-3-1-0-1723144962.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106240/?tab=files&file_id=529543)
 *  [SkyValor-106240-3-2-0-1727885297.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106240/?tab=files&file_id=548360)
 *  [Slayable Offspring SKSE-46826-2-1-0-1665587436.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46826/?tab=files&file_id=323494)
 *  [Sleeping Expanded for Interesting NPCs-76753-1-0-1665622790.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76753/?tab=files&file_id=323604)
@@ -3286,6 +3293,7 @@
 *  [Twinblades of Skyrim-69701-3-1661648446.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69701/?tab=files&file_id=310943)
 *  [Uchigatana - Katana moveset for NPCs (MCO - SCAR)-112145-1-0-1708450808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112145/?tab=files&file_id=472956)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
+*  [Ultimate NPC dodging-120738-2-1-2-1727067807.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120738/?tab=files&file_id=545217)
 *  [Ultimate NPC dodging-120738-2-2-0-1728137597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120738/?tab=files&file_id=549269)
 *  Ultra.ini
 *  [UMW - Vanilla Addition-78586-1-1-0-1668193073.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78586/?tab=files&file_id=330891)
