@@ -10,6 +10,7 @@
 
 -   [Skyrim Special Edition](#skyrim-special-edition)
     -   [Aldrnari](#aldrnari)
+    -   [Alpyne](#alpyne)
     -   [Anvil](#anvil)
     -   [Apostasy](#apostasy)
     -   [Arkay's Commandment](#arkays-commandment)
@@ -92,6 +93,16 @@ It has a plethora of quests, hundreds of handplaced new armors and weapons, new 
 -   [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)
 -   [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
 -   [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
+
+---
+
+### [Alpyne](https://github.com/Ferroxius/Palette/blob/main/Alpyne_Installation.md)
+Alpyne is a dark fantasy modlist for Skyrim AE. It offers a vibrant yet dramatic visual experience, refined gameplay complementing Skyrim's sandbox, and a more reactive world. It is also designed to be semi-lightweight, being performance friendly and small in installation size.
+
+Explore, fight, affect. A dark fantasy awaits the itinerant.
+
+**_Mods to get familiar with:_**
+- [Modlist Load Order](https://loadorderlibrary.com/lists/alpyne)
 
 ---
 
