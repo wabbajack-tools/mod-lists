@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1381)
+### Valid (1382)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -322,6 +322,8 @@
 *  [Dark Brotherhood Armors Retexture SE-93890-1-0-1687267107.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93890/?tab=files&file_id=399399)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
 *  [Dark spiky grass-36332-1-0-1590222909.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36332/?tab=files&file_id=141563)
+*  Data__ResourcePack.bsa
+*  Data__ResourcePack.esl
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
@@ -760,6 +762,7 @@
 *  Low.ini
 *  [Lurker Animation-83105-1-0-1674881195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83105/?tab=files&file_id=353746)
 *  [Lux - no grass in interiors-114088-1-0-1710506309.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114088/?tab=files&file_id=480748)
+*  [Lux (main)-43158-6-8-1728758354.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=551483)
 *  [Lux (patch hub)-113002-6-8-1728838471.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113002/?tab=files&file_id=551827)
 *  [Lux Orbis - Patch Hub-114169-4-2-1710587354.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114169/?tab=files&file_id=481107)
 *  [Lux Orbis Patch - Parallax-100397-1-1-1700029491.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=442761)
@@ -771,8 +774,6 @@
 *  [Lux Via (main)-63588-2-2-1713094342.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63588/?tab=files&file_id=490662)
 *  [Lux Via (patch hub)-116722-2-2-1713093664.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116722/?tab=files&file_id=490655)
 *  [Lux Via Kynareth Addon-93217-1-0-1686403336.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93217/?tab=files&file_id=396562)
-*  [Lux-43158-6-3-1689325543.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=406863)
-*  [Lux-43158-6-5-3-1710574186.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=481051)
 *  [MA- Standard Edition-77628-0-1-1666688558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77628/?tab=files&file_id=326423)
 *  [Main File Honey Nut Treat-34149-1-0-1585484757.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34149/?tab=files&file_id=131222)
 *  [Main File-59731-1-0-0-1638990035.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59731/?tab=files&file_id=247567)
@@ -950,7 +951,7 @@
 *  [Picta Series - Improved Sky Meshes-58263-1-0-2-1636718744.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58263/?tab=files&file_id=240782)
 *  [Pocky's Quirk Eyes-62438-0-1-1642948995.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62438/?tab=files&file_id=258897)
 *  [Portcullis Collision Fix (Ruins Clutter Improved)-71991-0-0-1-1658688694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71991/?tab=files&file_id=301867)
-*  [powerofthree's Tweaks-51073-1-10-1-1718163295.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=510803)
+*  [powerofthree's Tweaks-51073-1-12-1-1729526175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=554294)
 *  [PPI WR Farm Fence SE-77245-1-1-1666274687.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77245/?tab=files&file_id=325357)
 *  [PPI WR Great House Fence _ Lux Orbis Version-77245-1-0-1666814295.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77245/?tab=files&file_id=326734)
 *  [Praedy and Willow's elder scroll and amulet 2K-51082-2-1-1684754011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51082/?tab=files&file_id=390836)
@@ -1292,7 +1293,7 @@
 *  [Unofficial Material Fix Patch-44553-1-0-1611088335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=180581)
 *  [Unofficial Material Fix-21027-1-17-0-1573377063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=113020)
 *  [Unofficial Skyrim Modders Patch-49616-2-6-2b-1711549008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=484619)
-*  [Unofficial Skyrim Special Edition Patch-266-4-3-1-1713394824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=491975)
+*  [Unofficial Skyrim Special Edition Patch-266-4-3-3-1728878067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=551952)
 *  [Unreal 2K Mammoth Skeleton ReTexture-39356-1-0-1597342421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39356/?tab=files&file_id=155402)
 *  [Untarnished UI - Casting Bar 3 Patch-113836-1-0-0-1710266965.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113836/?tab=files&file_id=479796)
 *  [Untarnished UI - Ultrawide Fix-115241-0-3-1715632977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115241/?tab=files&file_id=500768)
