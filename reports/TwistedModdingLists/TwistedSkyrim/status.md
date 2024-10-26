@@ -364,7 +364,7 @@
 *  [BodySlide and Outfit Studio - v5.6.3-201-5-6-3-1693153421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=421192)
 *  [BodySlide and Outfit Studio - v5.7.0-201-5-7-0-1728223275.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=549611)
 *  [Bodyslide Output-131883-1-0-2-1729726237.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131883/?tab=files&file_id=554956)
-*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_f29a356a-4e04-48eb-90c4-13d73298331a)
+*  [Bodyslide Output-131883-1-0-3-1729922182.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131883/?tab=files&file_id=555587)
 *  [Bone Cultist Armor-111224-1-0-1707499470.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111224/?tab=files&file_id=469296)
 *  [Bonemold Armors and Weapons Retexture SE-94859-1-0-1688311557.rar](https://www.nexusmods.com/skyrimspecialedition/mods/94859/?tab=files&file_id=403122)
 *  [Boreal Boat 4K-47608-1-3-1616949935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47608/?tab=files&file_id=194175)
