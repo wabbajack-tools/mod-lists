@@ -717,7 +717,7 @@
 *  [Practical Female Vigil Enforcer Armor-87553-1-1-1717678496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87553/?tab=files&file_id=508919)
 *  [Precision Creatures-74887-2-4-1716463563.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74887/?tab=files&file_id=504063)
 *  [Precision-72347-2-0-4-1674360214.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=351862)
-*  [Press H to Horse-81195-2-3-4-1729821692.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81195/?tab=files&file_id=555272)
+*  [Press H to Horse-81195-2-3-5-1730056203.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81195/?tab=files&file_id=556157)
 *  [Prince and the Pauper Refine (2.2.0)-70037-2-2-0-1685965747.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70037/?tab=files&file_id=395277)
 *  [Prince and the Pauper SE 4.1-8354-4-1-1574351160.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8354/?tab=files&file_id=113974)
 *  [Prisoner cart fix Vanilla-8004-1-0-1571521891.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8004/?tab=files&file_id=110826)
