@@ -1,8 +1,8 @@
 {
   "MachineURL": "Deckborn/Deckborn",
   "Name": "Deckborn",
-  "Version": "0.3.2",
-  "ModListHash": "3Lg+z2SZccQ=",
+  "Version": "0.3.3",
+  "ModListHash": "62OY9nRGWbM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1999,15 +1999,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YczG2zm4eD0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=80343\nfileID=474639",
-        "Name": "SkyrimUpscaler-80343-1-2-0-1708931517.zip",
-        "Size": 5508818,
+        "Hash": "cNoIwymDLi4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=80343\nfileID=542721",
+        "Name": "SkyrimUpscaler-80343-1-2-1-1726454433.zip",
+        "Size": 7220342,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PureDark",
           "Description": "SKSE Plugin to use DLSS/FSR2/XeSS in Skyrim, also supports DLAA.",
-          "FileID": 474639,
+          "FileID": 542721,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80343/80343-1670643005-1848526440.jpeg",
           "IsNSFW": false,
@@ -3894,6 +3894,27 @@
           "ModID": 55728,
           "Name": "Keyword Item Distributor (KID)",
           "Version": "3.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YczG2zm4eD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=80343\nfileID=474639",
+        "Name": "SkyrimUpscaler-80343-1-2-0-1708931517.zip",
+        "Size": 5508818,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "SKSE Plugin to use DLSS/FSR2/XeSS in Skyrim, also supports DLAA.",
+          "FileID": 474639,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80343/80343-1670643005-1848526440.jpeg",
+          "IsNSFW": false,
+          "ModID": 80343,
+          "Name": "Skyrim Upscaler - DLSS FSR2 XeSS",
+          "Version": "1.1.5"
         }
       }
     },

@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (472)
+### Valid (473)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Reverb Interior Sounds Expansion (1.5.0)-77947-1-5-0-1675142342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77947/?tab=files&file_id=354860)
@@ -404,6 +404,7 @@
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
 *  [SkyrimUpscaler-80343-1-2-0-1708931517.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80343/?tab=files&file_id=474639)
+*  [SkyrimUpscaler-80343-1-2-1-1726454433.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80343/?tab=files&file_id=542721)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [Smooth Random Jump Animation Rework-59633-1-4-1667280167.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59633/?tab=files&file_id=328135)
 *  [SmoothCam - Modern Camera Preset-41636-1-5-1628867735.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41636/?tab=files&file_id=220887)
