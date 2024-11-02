@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (468)
+### Valid (497)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1Atronach-82382-1-1673278055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82382/?tab=files&file_id=348079)
@@ -35,6 +35,7 @@
 *  [auto skeleton patch for Fix Left Hand Sheath-92620-1-0-0-1685642545.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92620/?tab=files&file_id=393978)
 *  [AVG Main File-84743-1-9-5-6-1717206606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=507063)
 *  [Ayleid Ruins ENB Light-62415-0-2-1648515207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62415/?tab=files&file_id=273389)
+*  [B.O.O.B.I.E.S (Immsersive Icons) 2.1.3-89241-2-1-3-1730442940.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89241/?tab=files&file_id=557732)
 *  [B.O.O.B.I.E.S (Immsersive Icons)-89241-2-1-2-1711801371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89241/?tab=files&file_id=485651)
 *  [Bandit Lines Expansion-63733-1-09-1704806726.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=459566)
 *  [Bard College Expansion - Clothes Textures Tweak-129855-1-1727009388.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129855/?tab=files&file_id=544947)
@@ -59,6 +60,7 @@
 *  [Bijin NPCs SE 1.2.1-11287-1-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11287/?tab=files&file_id=30612)
 *  [Bijin Warmaidens SE v3.1.3-1825-3-1-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1825/?tab=files&file_id=22452)
 *  [Bijin Wives SE 1.1.2-11247-1-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11247/?tab=files&file_id=30461)
+*  bink2w64.dll
 *  [BodySlide and Outfit Studio - v5.7.0-201-5-7-0-1728223275.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=549611)
 *  [Bodyslide Output-84495-3-0-9-1730429647.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=557676)
 *  [Brawl Lines Expansion-94070-1-02-1688417773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94070/?tab=files&file_id=403503)
@@ -110,17 +112,32 @@
 *  [DAC v1.0-123113-1-0-1719844728.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123113/?tab=files&file_id=516677)
 *  [Dark Elf Lantern ENB Light-63176-0-2-1644165968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63176/?tab=files&file_id=262221)
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
+*  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
+*  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_MarketplaceTextures.bsa
 *  Data_Skyrim - Animations.bsa
+*  Data_Skyrim - Interface.bsa
+*  Data_Skyrim - Meshes0.bsa
+*  Data_Skyrim - Meshes1.bsa
+*  Data_Skyrim - Misc.bsa
+*  Data_Skyrim - Shaders.bsa
+*  Data_Skyrim - Sounds.bsa
+*  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
+*  Data_Video_BGS_Logo.bik
+*  Debug.log
 *  [Detection Meter v1.11 AE Support-77350-1-11-1714980233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77350/?tab=files&file_id=498363)
 *  [Detection Meter-v1.11-63057-v1-11-1710345932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=480115)
 *  [DF - Creatures by Xtudo - Draugrs-126608-1-3-1724102008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126608/?tab=files&file_id=533265)
@@ -144,6 +161,7 @@
 *  [Dynamic Collision Adjustment-76783-1-1-0-1665867655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76783/?tab=files&file_id=324310)
 *  [Dynamic String Distributor-107676-1-2-4-1727602998.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107676/?tab=files&file_id=547372)
 *  [Edge UI - Local Map Upgrade Patch-132461-v1-0-1730039782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132461/?tab=files&file_id=556083)
+*  [Edge UI - Map Markers-132793-v1-0-1730463889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132793/?tab=files&file_id=557799)
 *  [Edge UI - Wheeler Reskin-99419-1-0-1693188140.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99419/?tab=files&file_id=421341)
 *  [Edge UI 0.60  AE 1.6.1130 and above-130983-0-60b-1728211456.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130983/?tab=files&file_id=549568)
 *  [Edge UI BTPS Misalignment Fix-131896-1-0-1729378328.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131896/?tab=files&file_id=553802)
@@ -204,6 +222,7 @@
 *  [HelpExtender-74376-1-3-0-1704159967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74376/?tab=files&file_id=457112)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-3-1685145181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=392209)
 *  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+*  High.ini
 *  [Horse Mount and Dismount Double Sound Fix-99621-1-0-2-1706717975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466552)
 *  [Horse Save Load Fix-132110-0-2-1729828340.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132110/?tab=files&file_id=555297)
 *  [I'm walkin' here-77394-1-7-1666268388.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77394/?tab=files&file_id=325348)
@@ -218,6 +237,7 @@
 *  [Immersive Equipment Displays for 1.6.629 and newer-62001-1-7-4-1702213373.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=450465)
 *  [Imperial Badonkas-132287-1-0-1729880025.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132287/?tab=files&file_id=555446)
 *  [Infinity UI-74483-2-0-2-1710711915.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=481661)
+*  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
 *  [JContainers SE-16495-4-2-9-1705929247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=463765)
 *  [JContainers64-v4.2.13.1.for.1.6.1170.patch.luajit.with.gc64.7z](https://github.com/rfortier/JContainers-rwf/releases/download/v4.2.13.1/JContainers64-v4.2.13.1.for.1.6.1170.patch.luajit.with.gc64.7z)
@@ -253,6 +273,7 @@
 *  [Locational Encounter Zones-85212-1-0-2-1676905795.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85212/?tab=files&file_id=361658)
 *  [LOD Unloading Bug Fix-61251-0-2-1728699151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=551262)
 *  [LORKHAN - Soundtrack Replacer-115096-1-0-1711479257.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115096/?tab=files&file_id=484391)
+*  Low.ini
 *  [Lux - USSEP latest version update-113002-6-8-1728892327.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113002/?tab=files&file_id=551991)
 *  [Lux (main)-43158-6-8-1728758354.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=551483)
 *  [Lux (patch hub)-113002-6-8-1728838471.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113002/?tab=files&file_id=551827)
@@ -271,6 +292,7 @@
 *  [MaxsuBlockOverhaul-v0.22.7z](https://github.com/max-su-2019/MaxuBlockOverhaul/releases/download/v0.22/MaxsuBlockOverhaul-v0.22.7z)
 *  [MCM Helper-53000-1-5-0-1702843613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=452755)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
+*  Medium.ini
 *  [MergeMapper-74689-1-5-0-1683883576.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74689/?tab=files&file_id=387258)
 *  [MfgFix-11669-1-6-1-1664520342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11669/?tab=files&file_id=320400)
 *  [MFgFixNG-114095-0-1-5-1710791306.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114095/?tab=files&file_id=481980)
@@ -387,7 +409,7 @@
 *  [Skyland AIO 1k-34179-4-32-1700282181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=443516)
 *  [Skyland bits and Bobs - Performance Version-95032-1-91-1725506698.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95032/?tab=files&file_id=538816)
 *  [Skyland Offset Shingles Fixed - Whiterun Roofs-94294-0-3-1688818296.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94294/?tab=files&file_id=405086)
-*  [SkyPatcher - AE-106659-3-2-0-1730149900.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=556543)
+*  [SkyPatcher - AE-106659-3-2-1-1730479369.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=557896)
 *  [SkyPatcher Keyword Framework-127024-1-2-1-1730196436.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127024/?tab=files&file_id=556725)
 *  [SkyRem Economy-26325-4-0-1-1707660753.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26325/?tab=files&file_id=469849)
 *  [SkyRem Encounter Zones-27103-2-3-0-1665011753.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27103/?tab=files&file_id=321934)
@@ -395,7 +417,12 @@
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
+*  Skyrim_Default.ini
+*  Skyrim_SkyrimPrefs.ini
+*  Skyrim.ccc
 *  [Skyrim.Together.Reborn.for.Modded.Animation.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.6.7.11-dev-animation/Skyrim.Together.Reborn.for.Modded.Animation.7z)
+*  SkyrimSE.exe
+*  SkyrimSELauncher.exe
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
 *  [SkyUI - Ghost Item Bug Fix-49106-1-0-0-1633192591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49106/?tab=files&file_id=232098)
 *  [SkyUI 3D Item Offset Fix - MCM Helper-92602-1-1-0-1685838384.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92602/?tab=files&file_id=394786)
@@ -421,6 +448,7 @@
 *  [Stagger Effect Fix-110508-1-0-2-1706813139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110508/?tab=files&file_id=466805)
 *  [Static Skill Leveling Rewriten-89940-1-8-1716997976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89940/?tab=files&file_id=506308)
 *  [Stay At System Page-76927-1-6-1665472279.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76927/?tab=files&file_id=323246)
+*  steam_api64.dll
 *  [Stuck on Sleeper Fix - Exit Noble Bed Double 02-131173-0-1-1728454935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131173/?tab=files&file_id=550390)
 *  [Survival Mode - Disable Permanently-59049-1-0-0-1637864411.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59049/?tab=files&file_id=244331)
 *  [The Dragon Cult - A Draugr Overhaul-81422-1-4-3-1710108558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81422/?tab=files&file_id=479195)
@@ -438,6 +466,7 @@
 *  [TUDM Pandora Patch-127728-v1-0-0-1724684914.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127728/?tab=files&file_id=535566)
 *  [TUDM Reborn Loose Files-63000-1-0-0-1643925894.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63000/?tab=files&file_id=261594)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
+*  Ultra.ini
 *  [Unclench - A Behavior Fix-117695-1-0-1714089890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117695/?tab=files&file_id=494821)
 *  [Underwear.dll - Fixed Biped Slots-115703-1-0-0-1712077554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115703/?tab=files&file_id=486867)
 *  [Underwear.dll-99021-1-3-0-1729656727.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99021/?tab=files&file_id=554726)
