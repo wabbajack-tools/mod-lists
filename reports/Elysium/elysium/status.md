@@ -1843,7 +1843,7 @@
 *  [Relationship Dialogue Overhaul - Update and MCM 1.0.5-44601-1-0-5-1635353663.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44601/?tab=files&file_id=237381)
 *  [Relic Hunter- Guildmaster Start-12253-2-0-3-1576955397.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12253/?tab=files&file_id=116940)
 *  [RelicHunter_Grass_Patch-12253-2-0-1576569829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12253/?tab=files&file_id=116476)
-*  [Reliquary of Myth - Artifacts of Skyrim-31612-4-6-7-1679637190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31612/?tab=files&file_id=371594)
+*  [Reliquary of Myth - Artifacts of Skyrim-31612-4-6-7-1679637190.7z](https://authored-files.wabbajack.org/Reliquary of Myth - Artifacts of Skyrim-31612-4-6-7-1679637190.7z_2f4b838f-ed5a-41e8-8a2c-5e6cf0616745)
 *  [Remastered Ash Piles Of Skyrim-44971-1-1-1611883469.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44971/?tab=files&file_id=182506)
 *  [Remember Lockpick Angle-26838-4-2-1666611500.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26838/?tab=files&file_id=326266)
 *  [Remiros' Ancient Falmer Armor-22458-1-0-1546966271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22458/?tab=files&file_id=77653)
