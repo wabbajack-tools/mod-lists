@@ -2589,7 +2589,7 @@
 *  [Relationship Dialogue Overhaul - Update and MCM - Settings Loader-57212-1-0-1634580770.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57212/?tab=files&file_id=235657)
 *  [Relationship Dialogue Overhaul - Update and MCM 1.0.5-44601-1-0-5-1635353663.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44601/?tab=files&file_id=237381)
 *  [Relaxed Sneak Animations-37260-1-0-1592084552.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37260/?tab=files&file_id=145534)
-*  [Reliquary of Myth - Artifacts of Skyrim-31612-4-8-1-1709061849.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31612/?tab=files&file_id=475182)
+*  [Reliquary of Myth - Artifacts of Skyrim-31612-4-8-1-1709061849.7z](https://authored-files.wabbajack.org/Reliquary of Myth - Artifacts of Skyrim-31612-4-8-1-1709061849.7z_8d5a9225-5903-476b-85d4-9bd61fb6d7b9)
 *  [Reliquary of Myth Patch-41254-2-0-1617951163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41254/?tab=files&file_id=197032)
 *  [Remarks of Dragonborn-120564-1-0-1717110076.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120564/?tab=files&file_id=506728)
 *  [Remastered Paragon Gems-45734-1-4-1613500289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45734/?tab=files&file_id=186286)
