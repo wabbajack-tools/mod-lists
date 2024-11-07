@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (543)
+### Valid (544)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1 - DynDOLOD DLL SE - Scripts-57264-2-82-9-1714234014.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=495330)
@@ -189,7 +189,7 @@
 *  [Edge UI misalignment fix-131315-0-61-Fix3-1730017664.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131315/?tab=files&file_id=555983)
 *  [eFPS - AnniversaryEditionFreeCC-58727-1-1-1638904431.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58727/?tab=files&file_id=247343)
 *  [eFPS - Exterior FPS boost-54907-2-4-2-1661953157.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54907/?tab=files&file_id=311974)
-*  [Elemental Reaction-131195-1-0-1-1728580914.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131195/?tab=files&file_id=550807)
+*  [Elemental Reaction 1.1.0-131195-1-1-0-1730910238.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131195/?tab=files&file_id=559493)
 *  [Elytra and Bliss Bug ENB Light - Scrambled Bugs Version-64824-0-4-1648518498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64824/?tab=files&file_id=273401)
 *  [ENB Dynamic Cubemap Textures-98122-1-0-1691780953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98122/?tab=files&file_id=416154)
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
@@ -416,6 +416,7 @@
 *  [Rudy HQ - More dramatic Red Mountain Plume-89103-1-2-1685394162.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89103/?tab=files&file_id=393165)
 *  [RUSTIC CLOTHING - Special Edition - 2K-1K-4703-3-0-1597023786.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?tab=files&file_id=154782)
 *  [Sandbox When Idle-131350-1-3-0-1729693314.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131350/?tab=files&file_id=554841)
+*  [Sandbox When Idle-131350-1-3-1-1730913102.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131350/?tab=files&file_id=559510)
 *  [Save System Overhaul 3-122343-1-13-1726596881.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122343/?tab=files&file_id=543278)
 *  [Save Unbaker-85565-1-0-4-1677453959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85565/?tab=files&file_id=363731)
 *  [ScaleformTranslationPP-77359-1-8-1709114434.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=475314)
@@ -462,7 +463,7 @@
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
-*  [Skyrim.Together.Reborn.for.Modded.Animation.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.6.7.12-dev-animation/Skyrim.Together.Reborn.for.Modded.Animation.7z)
+*  [Skyrim.Together.Reborn.for.Modded.Animation+.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.6.7-animation-b5a37c0e/Skyrim.Together.Reborn.for.Modded.Animation+.7z)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
