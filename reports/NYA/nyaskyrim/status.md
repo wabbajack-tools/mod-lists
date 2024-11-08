@@ -2078,7 +2078,7 @@
 *  [Mysticism FleshFX Patch-46997-1-2-1662163665.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46997/?tab=files&file_id=312664)
 *  [Mythic Dawn Armor SE - SPID-121535-1-0-1717962944.rar](https://www.nexusmods.com/skyrimspecialedition/mods/121535/?tab=files&file_id=510035)
 *  [Mythos of Skyrim - Immersive Artifact Descriptions-105974-1-3-0-1702929073.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105974/?tab=files&file_id=453064)
-*  [N.Y.A - Bodyslide Output v2.rar](https://authored-files.wabbajack.org/N.Y.A - Bodyslide Output v2.rar_3a42f7ad-6b3e-44c8-9298-19a895d37c0e)
+*  [N.Y.A - Bodyslide Output v2.rar](https://authored-files.wabbajack.org/N.Y.A - Bodyslide Output v2.rar_78d3bad9-c122-47dd-acb8-17c39f214bf6)
 *  [N.Y.A - Bodyslide Output v3.rar](https://authored-files.wabbajack.org/N.Y.A - Bodyslide Output v3.rar_3154aeb9-00a3-4bca-ba5a-2efdae14c7cb)
 *  [N.Y.A - KS Hairs 3BA Bodyslide Output v2.rar](https://authored-files.wabbajack.org/N.Y.A - KS Hairs 3BA Bodyslide Output v2.rar_447e8331-05e6-40e8-a89c-628522ba0ccf)
 *  [N.Y.A - xLODGen Output v2.rar](https://authored-files.wabbajack.org/N.Y.A - xLODGen Output v2.rar_2372aef7-5de2-405a-b93f-a451bbf8aeba)
