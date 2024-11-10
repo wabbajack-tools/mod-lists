@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2667)
+### Valid (2669)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -600,8 +600,11 @@
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-0-1-1646171614.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=267541)
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data__ResourcePack.bsa
+*  Data_ccasvsse001-almsivi.bsa
+*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1868,7 +1871,6 @@
 *  [Reich Corigate - Hammet Dungeon Patch By Kierep-58869-2-0-1638561737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58869/?tab=files&file_id=246359)
 *  [Reich Corigate-58214-1-00-0-1636549908.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58214/?tab=files&file_id=240326)
 *  [Relationship Dialogue Overhaul - RDO Final-1187-Final.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1187/?tab=files&file_id=1171)
-*  [Reliquary of Myth - Artifact Overhaul-31612-4-5-2-1654530470.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31612/?tab=files&file_id=289273)
 *  [Remiros' Ancient Falmer Armor-22458-1-0-1546966271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22458/?tab=files&file_id=77653)
 *  [Remiros' Bloodskal Blade HD-18626-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18626/?tab=files&file_id=60075)
 *  [Remiros' Dragonborn Alcohol HD 2k-41972-1-0-1604359442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41972/?tab=files&file_id=168352)
@@ -2098,7 +2100,7 @@
 *  [SkFO SE - Skin Feature Overlays- 2K-20183-1-6-1562446371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98405)
 *  [Skinchangers v1-34900-1-0-1587221211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34900/?tab=files&file_id=134917)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
+*  [skse64_2_00_19.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=154651)
 *  [Sky Haven Temple - Gardens-8537-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8537/?tab=files&file_id=21832)
 *  [Sky Idles FOMOD-45794-4-4-3-1659619543.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=304527)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
