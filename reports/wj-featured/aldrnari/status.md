@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2669)
+### Valid (2671)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -605,6 +605,7 @@
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1871,6 +1872,7 @@
 *  [Reich Corigate - Hammet Dungeon Patch By Kierep-58869-2-0-1638561737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58869/?tab=files&file_id=246359)
 *  [Reich Corigate-58214-1-00-0-1636549908.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58214/?tab=files&file_id=240326)
 *  [Relationship Dialogue Overhaul - RDO Final-1187-Final.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1187/?tab=files&file_id=1171)
+*  [Reliquary of Myth - Artifacts of Skyrim-31612-4-8-1-1709061849.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31612/?tab=files&file_id=475182)
 *  [Remiros' Ancient Falmer Armor-22458-1-0-1546966271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22458/?tab=files&file_id=77653)
 *  [Remiros' Bloodskal Blade HD-18626-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18626/?tab=files&file_id=60075)
 *  [Remiros' Dragonborn Alcohol HD 2k-41972-1-0-1604359442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41972/?tab=files&file_id=168352)
