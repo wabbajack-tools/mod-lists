@@ -66,6 +66,7 @@
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
+    -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
 
 ---
 
@@ -906,4 +907,34 @@ Listonomicon eliminates the need to use LaughinLeader's BG3 Mod Manager. You can
 Listonomicon also comes with [several optional mods](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for further customizing the list to be wackier, or more difficult.
 
 ---
+### [Baldur's Gate 3 Enhanced Edition](https://github.com/reyqune/Baldur-s-Gate-3-Enhanced-Edition)
 
+A minimalist curated Baldur's Gate 3 mod list that stays (somewhat) true to the vanilla experience but also a bit more difficult, featuring a handful of quality-of-life improvements, bug fixes, and several visual enhancements for a smoother and more polished gameplay.
+The list is meant to be played on the tactician mode difficulty, or higher. But there are options to play on lower difficulty by disabling the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207).
+It does deviate somewhat in order to have a bit more balance, most of which can be toggled off if you prefer, but I cannot guarantee that any such changes will work perfectly fine, as the list is intended to be played as is.
+
+
+What is included:
+https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition
+
+- QoL additions and fixes for the UI
+- Better CPU performance
+- [Camera overhaul](https://www.nexusmods.com/baldursgate3/mods/945)
+- Some minor overhauls of the visuals, mostly fixes to minor issues.
+- Gameplay changes are mostly QoL changes, and bug fixes to make the overall experience less tedious, and a few balance changes like via the mod [Relative Ability Boost Items](https://www.nexusmods.com/baldursgate3/mods/11057).
+- There are a few gameplay changes to increase the overall difficulty via the mod [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207)
+- Other than that the rest of the changes are bug fixes, or fixes to parts of the game that seemed broken, but weren't technically bugs
+
+What the list isn't:
+- [Listonomicon](https://www.nexusmods.com/baldursgate3/mods/8976), you should go play it instead if you want what it provides, say hello to the devs from me. <3
+- additional races/classes
+- changes that deviate way too much from the original experience designed by Larian
+- adult mods, or frameworks
+- a kitchen sink of every mod available on nexusmods, mashed together into one strange cursed mix
+- cheats, unbalanced content, or too punishing content
+- a list to play regular honour mode, use custom mode instead. There are too many issues to break the game without mods, and it's unpredictable how these mods will affect a genuine honour mode play-through
+
+
+A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
+
+---
