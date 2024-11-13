@@ -2,9 +2,7 @@
 
 #### This document will provide a short summary of each modlist, and what mods you should familiarize yourself with prior to playing the game.
 
-#### Looking for a specific mod? Check the [Archive Search](https://www.wabbajack.org/#/modlists/search/all)! Check the box next to “Name” and click the Cloud, give it a few seconds to load, then search for whatever mod you want!
-
-#### The list below only covers official modlists. Unofficial modlists can be viewed by ticking the checkbox in the Wabbajack application.
+#### The list below only covers featured modlists. Other modlists can be viewed by adjusting the gallery filters in the Wabbajack application.
 
 ---
 
@@ -28,14 +26,11 @@
     -   [Ro](#ro)
     -   [Ruvaak](#ruvaak)
     -   [Skyrim Modding Essentials](#skyrim-modding-essentials)
-    -   [Tales From the Northern Lands](#tales-from-the-northern-lands)
     -   [The Northern Experience](#the-northern-experience)
     -   [The Phoenix Flavour](#the-phoenix-flavour)
     -   [Tempus Maledictum](#tempus-maledictum)
     -   [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
     -   [Wildlander](#wildlander)
-    -   [(NSFW)Licentia(NSFW)](#nsfwlicentiansfw)
-    -   [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 -   [Fallout 4](#fallout-4)
     -   [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
     -   [Life in the Ruins](#life-in-the-ruins)
@@ -375,22 +370,6 @@ Check out the [full modlist](https://loadorderlibrary.com/lists/skyrim-modding-e
 
 ---
 
-### [Tales From the Northern Lands](https://www.wabbajack.org/#/modlists/info?machineURL=TalesFromTheNorthernLands)
-
-Tales from the Northern Lands is a list that focuses primarily on offering a stylized look similar to Borderlands, the Tales of/from … or the TellTale Walking Dead games. A very welcome side effect of this is that it will even run on older hardware like a GTX 950 and possibly lower. The gameplay features a unique inventory overhaul that allows you to only focus on your armor, weapons and potions.
-
-_Please note that Luca (the modlist author) does not support changes to the list, as this Basics profile was only made by request._
-
-**_Mods to get familiar with:_**
-
-[Race Abilities Enhanced (SkyRem - Rae)](https://www.nexusmods.com/skyrimspecialedition/mods/23223)
-[Constellations - A Standing Stones Improvement (SkyRem - Cassi)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)
-[All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)
-
-[Full List on LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
-
----
-
 ### [The Northern Experience](https://github.com/mnikjom/The-Northern-Experience)
 
 Official wabbajack version of The Northern Experience - Skyrim Modding Guide. This is a list that focuses on improving visuals, adding new content that still fits the original game design, and enhancing gameplay mechanics.
@@ -442,41 +421,6 @@ Wildlander is a total conversion modpack for The Elder Scrolls V: Skyrim Special
 
 -   [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
 -   [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
-
----
-
-### [(NSFW)Licentia(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=Licentia)
-
-A kitchen-sink power fantasy list with tough enemies and an even tougher Dragonborn. Sexy without rubbing your nose in it. Legacy of the Dragonborn, full Creation Club required, piles of mobs packing every surface and loot and artifacts stashed in every corner. Way more ridiculous stuff than you'd ever find the time for.
-
-**_Mods to get familiar with_**
-
--   [Skyrim Anniversary Edition with all Creation Club Content]
--   [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
--   [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
--   [Vokriinator - Choice Cuts](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
--   [OStim - OSex Overhaul & API](https://www.nexusmods.com/skyrimspecialedition/mods/40725)
-
-### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/modlist/wj-featured/tsukiro)
-
-You ever thought Skyrim combat sucked? Yeah so did everyone. Tsukiro aims to bring combat to the next level with hundreds of hand-picked animations among a wide variety of weapon styles.
-
-This won't just be your standard Skyrim playthrough with better combat though, hundreds of hours of additional quest content can be found through Legacy of the Dragonborn, Vigilant, Unslaad, Glenmoril, Interesting NPCs, The Shire, Maids 2: Deception, The Shadow of Meresis, Clockwork and more!
-
-For the sexier side of things, you'll find most NPCs are more attractive than usual, including enemies. Full levelled list integration for hundreds of skimpy, sexy and spicy outfits. Can you collect them all?
-
-And last but not least, the spicier side of things: Yamete provides a great advancement over the old defeat mods, an extra layer of punishment should you so desire. Also including 1000+ scenes for Sexlab including gay, group, Futa and creature support. Random scenes can also trigger via Scrappies Matchmaker (same author as Yamete) and Sexlab Solutions provides less violent ways to quest.
-
-For a brief introduction to the combat and visuals please check the video here: [showcase and trailer here.](https://www.youtube.com/watch?v=I2hlkN-OEqA)
-
-Some fantastic screenshots from a fan of the modlist: https://www.youtube.com/watch?v=LiADst1IVo0
-
-**_Mods to get familiar with:_**
-
--   [Inpa - Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/41428)
--   [Yamete!](https://www.loverslab.com/files/file/16057-yamete/)
--   [Static Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
--   [Grimy Utilities](https://www.nexusmods.com/skyrim/mods/36328)
 
 ---
 
