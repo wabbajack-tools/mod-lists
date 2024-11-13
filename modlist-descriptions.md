@@ -71,7 +71,7 @@
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
-    -   [Baldur's Gate 3 Enhanced Edition](#Baldur's-Gate-3-Enhanced-Edition)
+    -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
 
 ---
 
