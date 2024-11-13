@@ -263,7 +263,7 @@
 *  [HD Signs Part 3-82778-1-1-1697135326.7z](https://www.nexusmods.com/newvegas/mods/82778/?tab=files&file_id=1000117606)
 *  [Hi Res Posters-64589-0-7-1547670614.7z](https://www.nexusmods.com/newvegas/mods/64589/?tab=files&file_id=1000051593)
 *  [Hidden Valley Overhauled-70859-1-4-1686529965.zip](https://www.nexusmods.com/newvegas/mods/70859/?tab=files&file_id=1000110916)
-*  [High and Dry INI Presets-88167-1-1-1731368469.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000142811)
+*  [High and Dry INI Presets-88167-1-1-1731445065.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000142848)
 *  [High and Dry Patches-88167-1-1-1731366864.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000142805)
 *  [High Priority Core-88898-2-5-1728453039.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000140941)
 *  [High Priority LOD - NVMIM-88898-2-5-1728453301.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000140948)
