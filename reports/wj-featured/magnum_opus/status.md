@@ -290,6 +290,7 @@
 *  [David Hunter - Part 2-16808-2-5-1624627174.zip](https://www.nexusmods.com/fallout4/mods/16808/?tab=files&file_id=211100)
 *  [David Hunter Typo Patch-56501-1-0-1639286722.7z](https://www.nexusmods.com/fallout4/mods/56501/?tab=files&file_id=223647)
 *  [DD_Stackable_concrete_blocks 2.0-6362-2-0.7z](https://www.nexusmods.com/fallout4/mods/6362/?tab=files&file_id=29457)
+*  [deacon_trust-88920-0-1-1730665496.7z](https://www.nexusmods.com/fallout4/mods/88920/?tab=files&file_id=338858)
 *  [Defense Gun - Unofficial Update-63430-1-1-1670132959.zip](https://www.nexusmods.com/fallout4/mods/63430/?tab=files&file_id=259151)
 *  [DefenseGunV1.1-14598-1-1.7z](https://www.nexusmods.com/fallout4/mods/14598/?tab=files&file_id=64512)
 *  [Deirdre Bugfix - No Trade Check-49271-1-0-1609955753.zip](https://www.nexusmods.com/fallout4/mods/49271/?tab=files&file_id=198419)
@@ -342,13 +343,12 @@
 *  [Eye Liner Masks-4398-0-3.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=31749)
 *  [Eyewear and mask retexture-5021-1-6.7z](https://www.nexusmods.com/fallout4/mods/5021/?tab=files&file_id=91218)
 *  [F4ECC - 1.2-5060-1-2.rar](https://www.nexusmods.com/fallout4/mods/5060/?tab=files&file_id=16830)
-*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
+*  [f4se_0_06_23.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
 *  [FaceGen - TOTC-54872-1-0-1633778051.7z](https://www.nexusmods.com/fallout4/mods/54872/?tab=files&file_id=218851)
 *  [Faction Reinforcements - True Damage-82791-1-0-1-1715720073.zip](https://www.nexusmods.com/fallout4/mods/82791/?tab=files&file_id=316545)
 *  [Faction Reinforcements-68166-1-3-1674941901.rar](https://www.nexusmods.com/fallout4/mods/68166/?tab=files&file_id=265323)
 *  [Fallout 4 Combat Shotgun and Rifle retexture - 2048 tex-4046-1-1.7z](https://www.nexusmods.com/fallout4/mods/4046/?tab=files&file_id=14492)
 *  [Fallout 4 Configuration Tool-102-1-3-5-2024.zip](https://www.nexusmods.com/fallout4/mods/102/?tab=files&file_id=71172)
-*  [Fallout Priority 3.0.0-52515-3-0-0-1624187291.zip](https://www.nexusmods.com/fallout4/mods/52515/?tab=files&file_id=210692)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
 *  Fallout4.ccc
