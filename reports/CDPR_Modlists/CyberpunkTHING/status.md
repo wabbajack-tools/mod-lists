@@ -222,7 +222,7 @@
 *  [Stealthrunner compatibility-15308-1-0-3-1722332590.zip](https://www.nexusmods.com/cyberpunk2077/mods/15308/?tab=files&file_id=83710)
 *  [Stealthrunner-7616-1-5-5-1727224415.zip](https://www.nexusmods.com/cyberpunk2077/mods/7616/?tab=files&file_id=87767)
 *  [Stencil Text Enhanced-15154-1-0-0-1717711536.zip](https://www.nexusmods.com/cyberpunk2077/mods/15154/?tab=files&file_id=79521)
-*  [SynthDose-14094-1-3-2-1731852506.zip](https://www.nexusmods.com/cyberpunk2077/mods/14094/?tab=files&file_id=92329)
+*  [SynthDose - Toxic Edition-14094-1-3-3-1731965308.zip](https://www.nexusmods.com/cyberpunk2077/mods/14094/?tab=files&file_id=92490)
 *  [The Passenger - Less spawns-10731-1-5-0-1716731084.zip](https://www.nexusmods.com/cyberpunk2077/mods/10731/?tab=files&file_id=78590)
 *  [Throttled Activity Log-17674-1-0-1731100029.zip](https://www.nexusmods.com/cyberpunk2077/mods/17674/?tab=files&file_id=91601)
 *  [Trace Position Overhaul-12445-1-4-4-1726392214.zip](https://www.nexusmods.com/cyberpunk2077/mods/12445/?tab=files&file_id=87107)
