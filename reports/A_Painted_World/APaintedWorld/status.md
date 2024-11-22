@@ -75,7 +75,6 @@
 *  [4k - MOO Loading Screens - New Pics Themed Vanilla Style-51109-1-0-1622969551.7z](https://www.nexusmods.com/oblivion/mods/51109/?tab=files&file_id=1000028013)
 *  [4K Map 1_0_0-45768-1-0-0.7z](https://www.nexusmods.com/oblivion/mods/45768/?tab=files&file_id=1000008685)
 *  [4K Upscaled - Elsweyr Anequina Themed Loading Scre-54451-1-0-1726734521.7z](https://www.nexusmods.com/oblivion/mods/54451/?tab=files&file_id=1000039402)
-*  [4k Upscaled - LSTR - Filter Patch For Mods-54437-1-0-1726378230.7z](https://www.nexusmods.com/oblivion/mods/54437/?tab=files&file_id=1000039367)
 *  [4k Upscaled Default loadscreens replacer-54589-1-0-1730608161.7z](https://www.nexusmods.com/oblivion/mods/54589/?tab=files&file_id=1000039825)
 *  [5_Miscellaneous Patch Collection by Dispensation-52874-1-2-2-1693934341.7z](https://www.nexusmods.com/oblivion/mods/52874/?tab=files&file_id=1000036033)
 *  [900 Butterflies-46785-.zip](https://www.nexusmods.com/oblivion/mods/46785/?tab=files&file_id=1000013118)
@@ -261,13 +260,13 @@
 *  [Dark Ebony Gold-52881-1-1-1681408231.7z](https://www.nexusmods.com/oblivion/mods/52881/?tab=files&file_id=1000034391)
 *  [Darker and Bloody Daedric Equipment-52887-2-0-1685114622.7z](https://www.nexusmods.com/oblivion/mods/52887/?tab=files&file_id=1000034771)
 *  [DarNified UI 132 7z Archive-10763.7z](https://www.nexusmods.com/oblivion/mods/10763/?tab=files&file_id=34632)
+*  Data_Credits.txt
 *  Data_DLCBattlehornCastle.bsa
 *  Data_DLCBattlehornCastle.esp
 *  Data_DLCFrostcrag.bsa
 *  Data_DLCFrostcrag.esp
 *  Data_DLCHorseArmor.bsa
 *  Data_DLCHorseArmor.esp
-*  Data_DLCList.txt
 *  Data_DLCMehrunesRazor.esp
 *  Data_DLCOrrery.bsa
 *  Data_DLCOrrery.esp
@@ -683,6 +682,7 @@
 *  [NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip](https://www.nexusmods.com/oblivion/mods/50923/?tab=files&file_id=1000027251)
 *  [Nascent - Racial Overhaul-52428-1-0-1666522962.7z](https://www.nexusmods.com/oblivion/mods/52428/?tab=files&file_id=1000032622)
 *  [Natural Vanilla Horses 2k-51610-1-0-1639457539.7z](https://www.nexusmods.com/oblivion/mods/51610/?tab=files&file_id=1000029788)
+*  [New Detection Oblivion (sneak_stealth rebalance)-54302-1-0-1723479454.zip](https://www.nexusmods.com/oblivion/mods/54302/?tab=files&file_id=1000039068)
 *  [New Eyes for OCOv2-46995-1-5.7z](https://www.nexusmods.com/oblivion/mods/46995/?tab=files&file_id=1000018581)
 *  [New icon for Eye and Crosshair-43978-1-0.7z](https://www.nexusmods.com/oblivion/mods/43978/?tab=files&file_id=1000002860)
 *  [New Oblivion Gate FX-45609-1-1.rar](https://www.nexusmods.com/oblivion/mods/45609/?tab=files&file_id=1000008151)
@@ -859,6 +859,7 @@
 *  [Thievery in the Imperial City - Tweaks and Fixes - Enhanced Economy Patch-52785-4-3-1679752511.7z](https://www.nexusmods.com/oblivion/mods/52785/?tab=files&file_id=1000034160)
 *  [Thievery in the Imperial City - Tweaks and Fixes-52785-2-0-1678424898.7z](https://www.nexusmods.com/oblivion/mods/52785/?tab=files&file_id=1000033941)
 *  [Thieves Den Barter for Upgrades-48226-1-0.zip](https://www.nexusmods.com/oblivion/mods/48226/?tab=files&file_id=1000018326)
+*  [Thieves Guild HQ - Unhealthy Competition - Voiced-54633-1-0-1732233700.zip](https://www.nexusmods.com/oblivion/mods/54633/?tab=files&file_id=1000039959)
 *  [Thieves Guild HQ - Unhealthy Competition-34465.7z](https://www.nexusmods.com/oblivion/mods/34465/?tab=files&file_id=67812)
 *  [TIBs Compact Quivers - Arrow of Extrication addon-53031-1-0-1685893390.7z](https://www.nexusmods.com/oblivion/mods/53031/?tab=files&file_id=1000034893)
 *  [Traveler's Tent-49654-1-2-1576449891.7z](https://www.nexusmods.com/oblivion/mods/49654/?tab=files&file_id=1000023464)
@@ -908,7 +909,6 @@
 *  [WalkBlessed-49067-Beta15-5-1560188414.7z](https://www.nexusmods.com/oblivion/mods/49067/?tab=files&file_id=1000022312)
 *  [Weapon Improvement Project - UOPClubStatic.nif Fix-53031-1-0-1685893877.7z](https://www.nexusmods.com/oblivion/mods/53031/?tab=files&file_id=1000034901)
 *  [Weapon Improvement Project-43852-1-9.7z](https://www.nexusmods.com/oblivion/mods/43852/?tab=files&file_id=1000007552)
-*  [Weapon Reach And Speed Overhaul-50007-2-0-1586239502.7z](https://www.nexusmods.com/oblivion/mods/50007/?tab=files&file_id=1000024433)
 *  [WellDiver121-30271-1-21.rar](https://www.nexusmods.com/oblivion/mods/30271/?tab=files&file_id=73444)
 *  [WellDiver124-30271.rar](https://www.nexusmods.com/oblivion/mods/30271/?tab=files&file_id=74598)
 *  [Weynon Priory Alive-43004-.7z](https://www.nexusmods.com/oblivion/mods/43004/?tab=files&file_id=93094)
