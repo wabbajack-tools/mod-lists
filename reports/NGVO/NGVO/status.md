@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1382)
+### Valid (1374)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -240,6 +240,7 @@
 *  [Butterflies-37302-1-0-1592165051.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=145715)
 *  [Buy and Sell Torches - bug fix-96387-0-3-1690234234.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96387/?tab=files&file_id=410332)
 *  [Cabbage ENB-103042-1-2-1713077375.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103042/?tab=files&file_id=490589)
+*  [Cabbage ENB-103042-1-2-2-1731486995.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103042/?tab=files&file_id=561795)
 *  [Caliente's Beautiful Bodies Enhancer CBBE - v2.0.2-198-2-0-2-1698759611.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=438549)
 *  [Camera Persistence Fixes-94490-1-0-1687914475.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94490/?tab=files&file_id=401713)
 *  [Capture Warmer-103900-1-2-0-1707322918.zip](https://www.nexusmods.com/skyrimspecialedition/mods/103900/?tab=files&file_id=468656)
@@ -286,6 +287,7 @@
 *  [Chitin Armors Retexture SE-94529-1-0-1687960117.rar](https://www.nexusmods.com/skyrimspecialedition/mods/94529/?tab=files&file_id=401890)
 *  [CK Platform Extended 0.2-71371-0-2-1712774441.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=489326)
 *  [CK Platform Extended 0.4-71371-0-4-b59-1721433018.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=522887)
+*  [CK Platform Extended 0.4-b822-71371-0-4-b822-1732115264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=564254)
 *  [CK64Fixes Release 3.2-20061-3-2-1616560054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=193264)
 *  [Classic Sprinting Redone (Anniversary Edition)-20166-2-3-1-1708891434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=474483)
 *  [Colored And Animated Celtic Icons For SkyUI-23054-1-0-1548949225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23054/?tab=files&file_id=80245)
@@ -306,6 +308,7 @@
 *  [CrashLogger-59818-1-14-1-1716098655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=502665)
 *  CreationKit.exe
 *  CreationKit.ini
+*  CreationKitPrefs.ini
 *  [CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=484532)
 *  [Crusty Loaves - 2k Bread Retextures All-In-One-27003-1-2-1561878379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27003/?tab=files&file_id=97711)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
@@ -356,6 +359,7 @@
 *  [DDS Workshop - Scars Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Scars Retexture.7z_a1cd40e9-aadc-4a1b-97ae-ed1c2d139a47)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
 *  [Dear Diary Dark Mode (texts - white color)-60837-1-1-1-1667594519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60837/?tab=files&file_id=328989)
+*  Debug.log
 *  [Default eye retexture-68912-2-1-1683033043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68912/?tab=files&file_id=384057)
 *  [Deiform Alduin Particle Lights-44329-1-1-1610655111.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=179501)
 *  [Detailed Rugs SE v1-5-9030-1-5.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9030/?tab=files&file_id=52553)
@@ -451,7 +455,7 @@
 *  [ENB Particle Lights for Gemstones-57672-1-3-1658432693.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57672/?tab=files&file_id=300935)
 *  [ENB Particle Lights Praedy Edition -h.d- Lava Med-54657-1-1-1683587845.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54657/?tab=files&file_id=386163)
 *  [ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
-*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_f10a1147-dc11-472d-b6aa-2dddd4a63376)
+*  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_8174ec82-ab77-4d32-ac7c-55efdb505921)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Invisibility-61950-1-3-0-1665511169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=323345)
 *  [Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246044)
@@ -471,7 +475,6 @@
 *  [Eyes AO Clipping Fix - Ruhmastered-25753-1-3-1577066722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25753/?tab=files&file_id=117092)
 *  [Eyes of the Falmer - Gemstones Replacers HD SE PATCH-65984-1-1-1649205704.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65984/?tab=files&file_id=275131)
 *  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
-*  [FaceFXWrapper 0.4-20061-0-4-1631087053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=226894)
 *  [Falmer Animation-83572-1-0-1674868487.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83572/?tab=files&file_id=353707)
 *  [Falmer Armors and Weapons Retexture SE-90711-1-0-1683300027.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90711/?tab=files&file_id=384939)
 *  [Falmer Hut 2K Red Cloth-19290-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19290/?tab=files&file_id=63569)
@@ -1092,6 +1095,7 @@
 *  [Shrubbery Symphony - Enhanced Greenery-108442-2-0-0-1704649360.rar](https://www.nexusmods.com/skyrimspecialedition/mods/108442/?tab=files&file_id=458908)
 *  [Silent Horizons 2 - Universal Core-99398-1-4-1713389513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99398/?tab=files&file_id=491954)
 *  [Silent Horizons 2 - Universal Core-99398-1-5-1720734918.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99398/?tab=files&file_id=520061)
+*  [Silent Horizons 2 - Universal Core-99398-1-6-1727649905.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99398/?tab=files&file_id=547566)
 *  [Silver Armor and Weapons Retexture SE-89109-2-0-1-1717271820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89109/?tab=files&file_id=507325)
 *  [Silver Objects SMIMed Floating Goblet Fix-74113-1-1661531864.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74113/?tab=files&file_id=310568)
 *  [Silver Objects SMIMed-70787-0-4-1669391277.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70787/?tab=files&file_id=334527)
@@ -1259,18 +1263,6 @@
 *  [Tomato's V2 Farmhouse Parallax 1K-112279-1-0-1708579406.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112279/?tab=files&file_id=473420)
 *  [Tomato's Whiterun - 1.1 fixes-122064-1-1-1718753126.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122064/?tab=files&file_id=512989)
 *  [Tomato's Whiterun Parallax 2K-122064-1-0-1718598019.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122064/?tab=files&file_id=512396)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_readme.txt
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
-*  Tools_LipGen_LipFuzer_LIPFuzer.exe
-*  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_LipGen_LipGenerator_FonixData.cdf
-*  Tools_LipGen_LipGenerator_LipGenerator.exe
-*  Tools_RoboVoicer.exe
 *  [Troll Animation-84026-1-0-1676427888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84026/?tab=files&file_id=359886)
 *  [Troll.4k-2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9408)
 *  [True Directional Movement-51614-2-2-5-1698369428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=437371)

@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1777)
+### Valid (1765)
 *  [- Skyrim 202X - 1K-68307-10-0-1-1710639844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=481353)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -610,6 +610,7 @@
 *  [Elven Armors and Weapons Retexture SE-87283-1-01-1686693106.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87283/?tab=files&file_id=397609)
 *  [Elytra and Bliss Bug ENB Light - Scrambled Bugs Version-64824-0-4-1648518498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64824/?tab=files&file_id=273401)
 *  [Embers XD 2K-37085-2-9-7-1712073879.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=486833)
+*  [Embers XD Torch Edit-134219-1-12-1731891103.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134219/?tab=files&file_id=563459)
 *  [ENB Anti-Aliasing-130669-1-2-3-1728259215.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=549787)
 *  [ENB Dynamic Cubemap Textures-98122-1-0-1691780953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98122/?tab=files&file_id=416154)
 *  [ENB Extender Skyrim-99406-1-2-1-1727647824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=547553)
@@ -649,7 +650,6 @@
 *  [F) Ignoble Beds - BOS plus Rally's Noble Furniture-114607-1-0-3-1720648690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114607/?tab=files&file_id=519764)
 *  [Fabled Forests-94462-2-1A-1707973326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94462/?tab=files&file_id=470986)
 *  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
-*  [FaceFXWrapper 0.4-20061-0-4-1631087053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=226894)
 *  [Falling Rocks Removed-94397-1-0-3-1701782345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94397/?tab=files&file_id=448993)
 *  [Falmer Armors and Weapons Retexture SE-90711-1-0-1683300027.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90711/?tab=files&file_id=384939)
 *  [Falmer Hut 2K Red Cloth-19290-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19290/?tab=files&file_id=63569)
@@ -1624,18 +1624,6 @@
 *  [Tomato's Subdued Green Tundra Parallax - 2K-115649-1-4-1720571929.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115649/?tab=files&file_id=519514)
 *  [Tomato's V2 Farmhouse Parallax 1K-112279-1-0-1708579406.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112279/?tab=files&file_id=473420)
 *  [Tomato's Whiterun - Complex Material 2K-122064-1-3-1724101011.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122064/?tab=files&file_id=533259)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_readme.txt
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
-*  Tools_LipGen_LipFuzer_LIPFuzer.exe
-*  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_LipGen_LipGenerator_FonixData.cdf
-*  Tools_LipGen_LipGenerator_LipGenerator.exe
-*  Tools_RoboVoicer.exe
 *  [Troll.4k-2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9408)
 *  [True Directional Movement-51614-2-2-5-1698369428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=437371)
 *  [TrueHUD_Widgets-85869-1-0-0-1682339704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85869/?tab=files&file_id=381550)
