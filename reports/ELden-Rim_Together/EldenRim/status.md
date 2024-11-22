@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (585)
+### Valid (586)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1 - DynDOLOD DLL SE - Scripts-57264-2-82-9-1714234014.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=495330)
@@ -157,7 +157,6 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  Debug.log
 *  [Detection Meter v1.11 AE Support-77350-1-11-1714980233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77350/?tab=files&file_id=498363)
 *  [Detection Meter-v1.11-63057-v1-11-1710345932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=480115)
 *  [DF - Creatures by Xtudo - Draugrs-126608-1-3-1724102008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126608/?tab=files&file_id=533265)
@@ -296,6 +295,7 @@
 *  [King Olaf's Fire Festival Not Ending Fix-65849-0-1-1648899684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65849/?tab=files&file_id=274311)
 *  [King-Priest - Enhanced Dragon Priests-59652-4-0-2-1717031478.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59652/?tab=files&file_id=506454)
 *  [KittyVFX - Dragon Breath-118431-1-32-1715102250.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118431/?tab=files&file_id=498825)
+*  [KittyVFX - ENBHands-133936-1-1-1731795808.rar](https://www.nexusmods.com/skyrimspecialedition/mods/133936/?tab=files&file_id=563057)
 *  [KittyVFX - Fire-109414-1-23-1705561113.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109414/?tab=files&file_id=462514)
 *  [KittyVFX - Frost-112509-1-2-1709542965.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112509/?tab=files&file_id=476861)
 *  [KittyVFX - Healing-133774-1-3-1731613112.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133774/?tab=files&file_id=562261)
@@ -356,6 +356,7 @@
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Moddern.Stagger.Lock.Framework.7z](https://github.com/SkyHorizon3/ModernStaggerLock/releases/download/v1.07/Moddern.Stagger.Lock.Framework.7z)
 *  [Modern Female Sitting Overhaul OAR-85599-1-9-1713129336.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85599/?tab=files&file_id=490798)
+*  [Modlist Update Checker-98464-1-0-4-1706292810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98464/?tab=files&file_id=465080)
 *  [Moons And Stars - Sky Overhaul SKSE-73336-2-0-2-1665609139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73336/?tab=files&file_id=323576)
 *  [More Consistent Stamina Costs Shield of Stamina-91626-1-2-2-1684502959.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91626/?tab=files&file_id=389716)
 *  [More Informative Console 1.2.2-19250-1-2-2-1726885673.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=544360)

@@ -2,7 +2,7 @@
   "MachineURL": "WastelandReborn/wasteland_reborn",
   "Name": "Wasteland Reborn",
   "Version": "1.0.1",
-  "ModListHash": "gxHnnhD/2qo=",
+  "ModListHash": "3y7bau56/GM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1232,14 +1232,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "Fz2h4Th/TuU=",
-        "Meta": "[General]\ndirectURL=http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file",
+        "Meta": "[General]\nmanualURL=http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file\nprompt=Please download both files on this page.",
         "Name": "MoreHairstyles-Beards.rar",
         "Size": 10051,
         "State": {
-          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download both files on this page.",
           "Url": "http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file"
         }
       }
@@ -4955,14 +4956,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "ycAcNOw6g0M=",
-        "Meta": "[General]\ndirectURL=http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file",
+        "Meta": "[General]\nmanualURL=http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file\nprompt=Please download both files on this page.",
         "Name": "MiscHairstyle1.6 by Atherisz.7z",
         "Size": 57265025,
         "State": {
-          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download both files on this page.",
           "Url": "http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file"
         }
       }
@@ -20202,86 +20204,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iAVjq3kjwWQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
-        "Name": "Data_Fallout4 - Textures7.ba2",
-        "Size": 547749609,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures7.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "iAVjq3kjwWQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "r9atBo0vdWU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
-        "Name": "Data_Fallout4 - Startup.ba2",
-        "Size": 46451365,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Startup.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "r9atBo0vdWU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "z6G0Qe+U11c=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
-        "Name": "Data_Fallout4 - Textures6.ba2",
-        "Size": 1399972840,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures6.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "z6G0Qe+U11c="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mWHypI5laIo=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
-        "Name": "Data_Fallout4 - Textures4.ba2",
-        "Size": 2005844637,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures4.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "mWHypI5laIo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LsNhrJ6et0k=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
-        "Name": "Data_Fallout4 - Textures1.ba2",
-        "Size": 2709070014,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures1.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "LsNhrJ6et0k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "2GOYPeXGmlU=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
         "Name": "Data_Fallout4 - Textures3.ba2",
@@ -20314,21 +20236,64 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pnXFl8retdI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=76287\nmodName=Another Deliverer Reanimation - Addon\ndescription=Activates tactical reload and adds extended mag animations as well as 3rd person animations.\nversion=1.0\nfileID=295069",
-        "Name": "Another Deliverer Reanimation - Addon-76287-1-0-1700881673.7z",
-        "Size": 231170,
+        "Hash": "LsNhrJ6et0k=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
+        "Name": "Data_Fallout4 - Textures1.ba2",
+        "Size": 2709070014,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MrLameGaming",
-          "Description": "Activates tactical reload and adds extended mag animations as well as 3rd person animations.",
-          "FileID": 295069,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76287/76287-1700985306-513559126.jpeg",
-          "IsNSFW": false,
-          "ModID": 76287,
-          "Name": "Another Deliverer Reanimation - Addon",
-          "Version": "1.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures1.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "LsNhrJ6et0k="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mWHypI5laIo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 2005844637,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "mWHypI5laIo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iAVjq3kjwWQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
+        "Name": "Data_Fallout4 - Textures7.ba2",
+        "Size": 547749609,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures7.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "iAVjq3kjwWQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r9atBo0vdWU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
+        "Name": "Data_Fallout4 - Startup.ba2",
+        "Size": 46451365,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Startup.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "r9atBo0vdWU="
         }
       }
     },
@@ -20351,6 +20316,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "z6G0Qe+U11c=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
+        "Name": "Data_Fallout4 - Textures6.ba2",
+        "Size": 1399972840,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures6.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "z6G0Qe+U11c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "JO30VXmk58A=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
         "Name": "Data_DLCRobot - Textures.ba2",
@@ -20367,16 +20348,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vc0CTLVB0ew=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
-        "Name": "Data_Fallout4 - Materials.ba2",
-        "Size": 1770496,
+        "Hash": "pnXFl8retdI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=76287\nmodName=Another Deliverer Reanimation - Addon\ndescription=Activates tactical reload and adds extended mag animations as well as 3rd person animations.\nversion=1.0\nfileID=295069",
+        "Name": "Another Deliverer Reanimation - Addon-76287-1-0-1700881673.7z",
+        "Size": 231170,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Materials.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "vc0CTLVB0ew="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MrLameGaming",
+          "Description": "Activates tactical reload and adds extended mag animations as well as 3rd person animations.",
+          "FileID": 295069,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76287/76287-1700985306-513559126.jpeg",
+          "IsNSFW": false,
+          "ModID": 76287,
+          "Name": "Another Deliverer Reanimation - Addon",
+          "Version": "1.0"
         }
       }
     },
@@ -20415,6 +20401,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vc0CTLVB0ew=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
+        "Name": "Data_Fallout4 - Materials.ba2",
+        "Size": 1770496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Materials.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "vc0CTLVB0ew="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "LCycwIgXDDQ=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
         "Name": "Data_DLCworkshop01 - Textures.ba2",
@@ -20429,8 +20431,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WastelandReborn/wasteland_reborn_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WastelandReborn/wasteland_reborn_large.webp"
 }

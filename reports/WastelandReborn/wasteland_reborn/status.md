@@ -1,12 +1,10 @@
 ## Validation Report - Wasteland Reborn (WastelandReborn/wasteland_reborn)
 
 
-### Invalid (2)
-*  [MiscHairstyle1.6 by Atherisz.7z](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
-*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (994)
+### Valid (996)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-2-0-0-1720138420.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=325518)
@@ -642,6 +640,7 @@
 *  [Minutemen Enforcer-80157-1-3-1712377654.rar](https://www.nexusmods.com/fallout4/mods/80157/?tab=files&file_id=309212)
 *  [Minutemen Faces Overhaul-30563-1-0.7z](https://www.nexusmods.com/fallout4/mods/30563/?tab=files&file_id=124774)
 *  [Misc anim tweaks and fixes-53597-1-6-1-1715706661.7z](https://www.nexusmods.com/fallout4/mods/53597/?tab=files&file_id=316512)
+*  [MiscHairstyle1.6 by Atherisz.7z](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
 *  [Mod.Organizer-2.5.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.0/Mod.Organizer-2.5.0.7z)
 *  [ModernHouseLOD-62975-1-0-1659782210.zip](https://www.nexusmods.com/fallout4/mods/62975/?tab=files&file_id=245809)
@@ -653,6 +652,7 @@
 *  [More Clothes and Textures (CBBE)-40315-1-5-5-1722001669.rar](https://www.nexusmods.com/fallout4/mods/40315/?tab=files&file_id=328049)
 *  [More Clothes And Textures MEW-UNIBODY-78697-1-0-1708206687.zip](https://www.nexusmods.com/fallout4/mods/78697/?tab=files&file_id=303894)
 *  [More Weapons On Super Mutants-86583-1-0-1-1723428842.zip](https://www.nexusmods.com/fallout4/mods/86583/?tab=files&file_id=329849)
+*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [Movement Speeds Revised - Slightly Adjusted Sneak Walk-57866-1-1-1644148970.7z](https://www.nexusmods.com/fallout4/mods/57866/?tab=files&file_id=228784)
 *  msvcp110.dll
 *  msvcr110.dll
