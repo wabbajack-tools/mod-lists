@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2155)
+### Valid (2153)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -410,7 +410,6 @@
 *  [CrashLogger-59818-1-14-1-1716098655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=502665)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Crime Overhaul - Contraband Confiscation Patch-19647-2-06-1672301572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19647/?tab=files&file_id=344407)
 *  [Crime Overhaul-19647-2-06-1672300960.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19647/?tab=files&file_id=344404)
 *  [CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=484532)
@@ -986,7 +985,6 @@
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Ivy-113578-1-3-1711834371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=485815)
 *  [High_Poly_Head_v1.4_(SE)_d39b590f4a1913dd0fe34f61ea7db197408e458dbf79e97d895d8f60e9709414_.zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [HITS - 2K-23076-1-0-1549020352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23076/?tab=files&file_id=80316)
 *  [Holy Templar Magic - SkyPatched-122362-1-1-1719023896.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122362/?tab=files&file_id=513785)
@@ -1222,9 +1220,9 @@
 *  [Markarth Braziers Improved-67386-0-2-2-1654668052.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67386/?tab=files&file_id=289634)
 *  [Markarth Fixed AF-82728-1-4-1-1675088847.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82728/?tab=files&file_id=354601)
 *  [Masser and Secunda-122339-1-1-1718903831.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122339/?tab=files&file_id=513456)
-*  [MaxsuBlockOverhaul-v0.22.7z](https://github.com/max-su-2019/MaxuBlockOverhaul/releases/download/v0.22/MaxsuBlockOverhaul-v0.22.7z)
-*  [MaxsuDetectionMeter.zip](https://authored-files.wabbajack.org/MaxsuDetectionMeter.zip_137e1814-519c-4147-b696-f4de0864bbb1)
-*  [MaxsuPoise.v0.34.7z](https://authored-files.wabbajack.org/MaxsuPoise-v0.34.7z_023c4554-592d-4aa2-aacb-5ed3b74bbc56)
+*  [MaxsuBlockOverhaul-v0.22.7z](https://authored-files.wabbajack.org/MaxsuBlockOverhaul-v0.22.7z_0ab9f412-c89d-4b59-8b58-d3e3f7d37fe7)
+*  [MaxsuDetectionMeter.zip](https://authored-files.wabbajack.org/MaxsuDetectionMeter.zip_def6d4d0-c31b-40d7-a539-dee9f68460fc)
+*  [MaxsuPoise.v0.34.7z](https://authored-files.wabbajack.org/MaxsuPoise.v0.34.7z_e5601f65-39a3-4690-9583-6ee8255fe5c9)
 *  [MCM Helper-53000-1-5-0-1702843613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=452755)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
 *  [MCO - First Person Patch-113670-1-0-1710109800.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113670/?tab=files&file_id=479212)
