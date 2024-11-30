@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "NVMP RADD Modlist",
-  "Version": "1.0.3",
-  "ModListHash": "+pLGWEEfW2U=",
+  "Version": "1.0.4",
+  "ModListHash": "FVKrDSOVZ5g=",
   "Archives": [
     {
       "Status": "Valid",
@@ -42,13 +42,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cT6qcp+tPpw=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_eb24c523-b1fe-442d-81c7-d7866e150000",
+        "Hash": "v18opV6hv6g=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_3ed28be1-813f-4048-a68b-1cf5b2c09972",
         "Name": "RADD Server Mods.7z",
-        "Size": 1751915565,
+        "Size": 1921378186,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_eb24c523-b1fe-442d-81c7-d7866e150000"
+          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_3ed28be1-813f-4048-a68b-1cf5b2c09972"
         }
       }
     },
@@ -76,14 +76,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e1hmGxt0MZw=",
-        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/7.12/build_release_client.zip",
+        "Hash": "bJ1r710jy4A=",
+        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/7.3/build_release_client.zip",
         "Name": "build_release_client.zip",
-        "Size": 42453790,
+        "Size": 46122109,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/7.12/build_release_client.zip"
+          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/7.3/build_release_client.zip"
         }
       }
     },
@@ -147,27 +147,6 @@
           "ModID": 75414,
           "Name": "Clean Pip-Boy 2022",
           "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9ViLYvKpPQA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=64102\nfileID=1000050605",
-        "Name": "Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z",
-        "Size": 1523059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BmanBlazer",
-          "Description": "This mod is designed to update the HUD for 1080p resolutions or higher (1440p, 4K, etc) while maintaining the same original look and style.",
-          "FileID": 1000050605,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64102/64102-1509918517-1324910935.png",
-          "IsNSFW": false,
-          "ModID": 64102,
-          "Name": "Vanilla HUD Remastered (4K)",
-          "Version": "1.83"
         }
       }
     },
@@ -245,6 +224,27 @@
           "ModID": 1003,
           "Name": "Kezyma\u0027s Wabbajack Post-Setup Tool",
           "Version": "0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9ViLYvKpPQA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64102\nfileID=1000050605",
+        "Name": "Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z",
+        "Size": 1523059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BmanBlazer",
+          "Description": "This mod is designed to update the HUD for 1080p resolutions or higher (1440p, 4K, etc) while maintaining the same original look and style.",
+          "FileID": 1000050605,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64102/64102-1509918517-1324910935.png",
+          "IsNSFW": false,
+          "ModID": 64102,
+          "Name": "Vanilla HUD Remastered (4K)",
+          "Version": "1.83"
         }
       }
     },
