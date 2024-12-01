@@ -1,8 +1,8 @@
 {
   "MachineURL": "Animonculory/ADT",
   "Name": "ADT",
-  "Version": "7.0",
-  "ModListHash": "lsqyx1zoDFc=",
+  "Version": "7.0.1",
+  "ModListHash": "Cbv8CdXBh7I=",
   "Archives": [
     {
       "Status": "Valid",
@@ -432,7 +432,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r5x4QxHL1YM=",
+        "Hash": "l5DKmmXk+og=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Scripts.zip",
         "Name": "Data_Scripts.zip",
         "Size": 13634796,
@@ -441,7 +441,7 @@
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Scripts.zip",
           "GameVersion": "1.6.1170.0",
-          "Hash": "r5x4QxHL1YM="
+          "Hash": "l5DKmmXk+og="
         }
       }
     },
@@ -468,15 +468,15 @@
         "Size": 751136,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SKSE Team",
-          "Description": "The Skyrim Script Extender (SKSE) is a tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.",
+          "Author": null,
+          "Description": "Compatible with Skyrim Special Edition 1.6.1170 from Steam",
           "FileID": 462377,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30379/30379-1573836905-2108386036.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 30379,
           "Name": "Skyrim Script Extender (SKSE64)",
-          "Version": "2.2.3"
+          "Version": "2.2.6"
         }
       }
     },
@@ -1480,22 +1480,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "c/TV9hIgfJM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Debug.log",
-        "Name": "Debug.log",
-        "Size": 22,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Debug.log",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "c/TV9hIgfJM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "750xyQs09MU=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\accent.tlx",
         "Name": "lex_accent.tlx",
@@ -2266,16 +2250,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i349bhAvByI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\HavokBehaviorPostProcess\\readme.txt",
-        "Name": "Tools_HavokBehaviorPostProcess_readme.txt",
-        "Size": 488,
+        "Hash": "t8J9FyUJeu4=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/AMM_ENB_0499_26Apr24.zip_7a87c3ed-48e8-4fb1-a3aa-5230266e6f63",
+        "Name": "AMM_ENB_0499_26Apr24.zip",
+        "Size": 3254745,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "i349bhAvByI="
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/AMM_ENB_0499_26Apr24.zip_7a87c3ed-48e8-4fb1-a3aa-5230266e6f63"
         }
       }
     },
@@ -3195,22 +3176,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FQbA20bA5Dw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
-        "Name": "Data_ccbgssse037-curios.bsa",
-        "Size": 111740475,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse037-curios.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "FQbA20bA5Dw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "H+5Nz0tMcy4=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
@@ -3290,16 +3255,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "boyqeB3rQJ8=",
+        "Hash": "L2BR8WpC2M0=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=CreationKit.exe",
         "Name": "CreationKit.exe",
-        "Size": 47725568,
+        "Size": 47954944,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "CreationKit.exe",
           "GameVersion": "1.6.1170.0",
-          "Hash": "boyqeB3rQJ8="
+          "Hash": "L2BR8WpC2M0="
         }
       }
     },
@@ -3338,7 +3303,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "it6+eSu4OCw=",
+        "Hash": "STK4THfMHzw=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.esl",
         "Name": "Data_ccbgssse037-curios.esl",
         "Size": 37476,
@@ -3470,16 +3435,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gcIDnNlnnQk=",
+        "Hash": "RjpKxrFxfP8=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=CreationKit.ini",
         "Name": "CreationKit.ini",
-        "Size": 2852,
+        "Size": 2881,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "CreationKit.ini",
           "GameVersion": "1.6.1170.0",
-          "Hash": "gcIDnNlnnQk="
+          "Hash": "RjpKxrFxfP8="
         }
       }
     },
@@ -3787,19 +3752,6 @@
           "ModID": 1428,
           "Name": "Better MessageBox Controls",
           "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "t8J9FyUJeu4=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/AMM_ENB_0499_26Apr24.zip_7a87c3ed-48e8-4fb1-a3aa-5230266e6f63",
-        "Name": "AMM_ENB_0499_26Apr24.zip",
-        "Size": 3254745,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/AMM_ENB_0499_26Apr24.zip_7a87c3ed-48e8-4fb1-a3aa-5230266e6f63"
         }
       }
     },
@@ -4482,6 +4434,22 @@
           "ModID": 76927,
           "Name": "Stay At The System Page NG",
           "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DG3YZQj7xwk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
+        "Name": "Data_ccbgssse037-curios.bsa",
+        "Size": 111740475,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse037-curios.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "FQbA20bA5Dw="
         }
       }
     }

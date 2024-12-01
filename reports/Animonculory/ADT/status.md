@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (236)
+### Valid (234)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -99,7 +99,6 @@
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [DbMiscFunctions-65410-7-4-1726125873.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=541304)
-*  Debug.log
 *  [Dual Casting Fix-92454-1-0-1685396946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=393174)
 *  [DynDOLOD 3.00-68518-Alpha-169-1711743591.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=485428)
 *  [ENB Extender for Skyrim-99406-1-0-4-1713389492.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=491952)
@@ -223,7 +222,6 @@
 *  Tools_Elric_xg.dll
 *  Tools_Elric_xtexconv.exe
 *  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_readme.txt
 *  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  Tools_LipGen_LipFuzer_LIPFuzer.exe
 *  Tools_LipGen_LipFuzer_LIPFuzer.txt
