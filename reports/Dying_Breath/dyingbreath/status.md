@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (518)
+### Valid (519)
 *  [.38 Machine Pistol-80048-1-0-2-1724516804.zip](https://www.nexusmods.com/fallout4/mods/80048/?tab=files&file_id=331476)
 *  [1 Starlight Drive-In And Diner - Lighting-10089-2-1-1666327140.7z](https://www.nexusmods.com/fallout4/mods/10089/?tab=files&file_id=254092)
 *  [1. Select Blaster ESP 1.0.2-80521-1-0-2-1715045438.zip](https://www.nexusmods.com/fallout4/mods/80521/?tab=files&file_id=314797)
@@ -265,6 +265,7 @@
 *  flexExtRelease_x64.dll
 *  flexRelease_x64.dll
 *  [FO4 Particle Patch v1-3-2-68599-1-3-2-1719216836.rar](https://www.nexusmods.com/fallout4/mods/68599/?tab=files&file_id=324194)
+*  [FO4Edit 4.1.5f-2737-4-1-5f-1714279051.7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=312782)
 *  [FO4FI HD Series (HD Creatures and Robots)-83223-1-0-1716303604.rar](https://www.nexusmods.com/fallout4/mods/83223/?tab=files&file_id=318056)
 *  [Fog Remover II ESL (Main) v2.2 Installer-31976-2-2-1671214076.7z](https://www.nexusmods.com/fallout4/mods/31976/?tab=files&file_id=260696)
 *  [Fourville-43979-1-14-1713603892.zip](https://www.nexusmods.com/fallout4/mods/43979/?tab=files&file_id=310943)
