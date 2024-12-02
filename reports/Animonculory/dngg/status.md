@@ -741,7 +741,7 @@
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Light Detection Fix-107693-1-0-0-1703458227.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107693/?tab=files&file_id=454885)
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
-*  [enbseries_skyrimse_v0499(caco)7.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)7.zip_e15b95bb-25a2-41be-875b-5f213d275b1a)
+*  [enbseries_skyrimse_v0499(caco)7.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)7.zip_8028f6f1-269b-4405-ac20-967e23e9ddf7)
 *  [Enchantable Special Item Fix-65154-1-0-2-1664574060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=320587)
 *  [Enemy Load Door Travel Fixes-79506-eldtf1-0-1692842516.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79506/?tab=files&file_id=419942)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
