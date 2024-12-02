@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (519)
+### Valid (516)
 *  [(Beta)GC's_OrionSkins-9688-1-0-1-1718674634.zip](https://www.nexusmods.com/starfield/mods/9688/?tab=files&file_id=37804)
 *  [1 - M1911 - MW2 - Gunshot Audio-5133-1-0-1696991428.zip](https://www.nexusmods.com/starfield/mods/5133/?tab=files&file_id=17155)
 *  [1_Immersive Driving - SFSE-11253-3-1-1727814117.zip](https://www.nexusmods.com/starfield/mods/11253/?tab=files&file_id=44705)
@@ -80,9 +80,6 @@
 *  Data_BlueprintShips-Starfield - Localization.ba2
 *  Data_BlueprintShips-Starfield.esm
 *  Data_data.bin
-*  Data_OldMars - Localization.ba2
-*  Data_OldMars - Textures.ba2
-*  Data_OldMars.esm
 *  Data_SFBGS003 - Main.ba2
 *  Data_SFBGS003 - Textures.ba2
 *  Data_SFBGS003 - Voices_de.ba2
