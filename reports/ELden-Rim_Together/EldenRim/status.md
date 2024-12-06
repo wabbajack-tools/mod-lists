@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (595)
+### Valid (596)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [0-Elden Rim-Base 3.4.5-65625-3-4-5-1726314852.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=541997)
@@ -164,6 +164,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  Debug.log
 *  [Detection Meter v1.11 AE Support-77350-1-11-1714980233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77350/?tab=files&file_id=498363)
 *  [Detection Meter-v1.11-63057-v1-11-1710345932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=480115)
 *  [DF - Creatures by Xtudo - Draugrs-126608-1-3-1724102008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126608/?tab=files&file_id=533265)
@@ -188,7 +189,6 @@
 *  [Dual Casting Fix-92454-1-0-1685396946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=393174)
 *  [Dynamic Animation Casting NG Plus-73293-3-2-4-1686888583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73293/?tab=files&file_id=398206)
 *  [Dynamic Collision Adjustment-76783-1-1-0-1665867655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76783/?tab=files&file_id=324310)
-*  [Dynamic Dialogue Replacement-135618-1-0-0-1733417958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135618/?tab=files&file_id=569236)
 *  [Dynamic Dodge-79598-1-5-1695708046.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79598/?tab=files&file_id=429066)
 *  [Dynamic Female Hand Warming-88506-1-6-1688345968.zip](https://www.nexusmods.com/skyrimspecialedition/mods/88506/?tab=files&file_id=403259)
 *  [Dynamic Female Ledge Sitting OAR-90252-1-3-1688343848.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90252/?tab=files&file_id=403254)
@@ -308,6 +308,7 @@
 *  [KittyVFX - Healing-133774-1-3-1731613112.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133774/?tab=files&file_id=562261)
 *  [KittyVFX - Lightning-124520-1-3-1727105151.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124520/?tab=files&file_id=545385)
 *  [KittyVFX - Portals-135614-1-0-1733417468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135614/?tab=files&file_id=569231)
+*  [KittyVFX - Portals-135614-1-02-1733467880.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135614/?tab=files&file_id=569448)
 *  [Komegaki's Inventory Tweaks - Patches-116713-1-21-1716155557.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116713/?tab=files&file_id=502912)
 *  [Komegaki's Inventory Tweaks-116713-1-21-1716139747.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116713/?tab=files&file_id=502827)
 *  [Landscape Fixes For Grass Mods-9005-5-6-1728100805.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=549134)
