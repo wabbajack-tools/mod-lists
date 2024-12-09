@@ -1,76 +1,194 @@
-[
-  {
-    "title": "Skyrim REMASTERED Edition",
-    "description": "A flashed-out experience that you had back in 2011.",
-    "author": "Τριάς",
-    "maintainers": [
-      "github/Tpiac"
-    ],
+{
+    "title": "Elder Souls",
+    "description": "Elder Souls is an attempt to bring some Soulsborne flavor to Skyrim. You should expect challenging but fair combat, an awesome dark fantasy vibe and a plethora of new content. Among this new content you will find a variety of new hand placed monster types, atleast four player houses per hold and many new dungeons and quests. Leveling and death are modelled after the Dark Souls system but utilizing gold rather than souls. Sleep to raise skills and level up.",
+    "version": "1.1.10",
+    "author": "jdsmith2816",
     "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Lore-friendly",
-      "Official",
-      "Special Edition",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "tags": ["Official"],
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Tpiac/Skyrim-REMASTERED/main/Skyrim_REMASTERED_Banner.png",
-      "readme": "https://github.com/Tpiac/Skyrim-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20REMASTERED%20Edition.wabbajack_76a2430d-fe5f-49a9-b27d-8e0102cb5ed8",
-      "machineURL": "Skyrim_REMASTERED",
-      "discordURL": "https://discord.gg/AHW33bnUb5"
+        "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/elder_souls/elder-souls.png",
+        "readme": "https://raw.githubusercontent.com/jdsmith2816/eldersouls/master/README.md",
+        "download": "https://wabbajack.b-cdn.net/Elder%20Souls.wabbajack_0d37983c-57fe-40b4-af95-d57ea80e1c10",
+        "machineURL": "eldersouls"
     },
     "download_metadata": {
-      "Hash":"UK+iWz/YeMk=",
-      "Size":1403298526,
-      "NumberOfArchives":1744,
-      "SizeOfArchives":103746286405,
-      "NumberOfInstalledFiles":104507,
-      "SizeOfInstalledFiles":108766072538
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "u13tzlp6qyY=",
+      "Size": 1384853571,
+      "NumberOfArchives": 1093,
+      "SizeOfArchives": 100711668564,
+      "NumberOfInstalledFiles": 196464,
+      "SizeOfInstalledFiles": 136623831721
+    }
+  },
+
+  {
+    "title": "Nice Overall Improvement SE",
+    "description": "NOISE is a Modlist with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim++.",
+    "version": "2.2.1",
+    "author": "DoubleDog(Shelb) maintained by Helidoc65 and johanlh",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/noise/noise.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/noise/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/NOISE%202.2.1-1949acbb-62bc-4087-a57b-30ce1fedd127.wabbajack",
+      "machineURL": "noise"
     },
-    "version": "2.0.1"
+    "download_metadata": {
+      "Hash": "sWumOgNBDRY=",
+      "Size": 210108327,
+      "NumberOfArchives": 382,
+      "SizeOfArchives": 45199695928,
+      "NumberOfInstalledFiles": 33259,
+      "SizeOfInstalledFiles": 58887628380
+    }
+  },
+
+  {
+    "title": "Lexy's LOTD Unofficial",
+    "description": "Lexy's Legacy of the Dragonborn is a massive overhaul of Skyrim with Legacy of the Dragonborn being the core mod that it is built around. Lexy's LOTD was created by DarkLadyLexy and her guide is located here: https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE",
+    "version": "1.6.2",
+    "author": "Mdc211",
+    "game": "skyrimspecialedition",
+    "tags": ["Unofficial"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Lexy's_LOTD_Unofficial_Autoinstaller/image.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Lexy's_LOTD_Unofficial_Autoinstaller/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/Lexys%20LOTD%20SE%20Unofficial%20Autoinstaller-88ab287a-0b94-4686-973e-82c9f40d2c77.wabbajack",
+      "machineURL": "lexys_lotd"
+    },
+    "download_metadata": {
+      "Hash": "W3MOD41KxFY=",
+      "Size": 102272158,
+      "NumberOfArchives": 683,
+      "SizeOfArchives": 60350837030,
+      "NumberOfInstalledFiles": 158638,
+      "SizeOfInstalledFiles": 93969269594
+    }
+  },
+
+{
+    "title": "Living Skyrim",
+    "description": "Living Skyrim is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of the modlist. All of this on top of a beautiful graphics package intended for higher-end PCs.",
+    "version": "1.8.1",
+    "author": "ForgottenGlory",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "nsfw": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/living_skyrim/Living_Skyrim_Logo.png",
+      "readme": "https://raw.githubusercontent.com/ForgottenGlory/Living-Skyrim/master/README.md",
+      "download": "https://wabbajack.b-cdn.net/Living%20Skyrim%201.8.1.wabbajack_55c2d343-31a2-4552-883b-a2096e8275cb",
+      "machineURL": "living_skyrim"
+    },
+    "download_metadata": {
+      "Hash": "COQrK8tU01s=",
+      "Size": 1323136836,
+      "NumberOfArchives": 532,
+      "SizeOfArchives": 44877127129,
+      "NumberOfInstalledFiles": 164038,
+      "SizeOfInstalledFiles": 90768471961
+    }
   },
   {
-    "title": "Fallout 4 REMASTERED",
-    "description": "This mod list enhances Fallout as a first-person shooter with RPG elements, where combat is unforgiving and lethal, especially without proper protection. Only the best equipment and your skill will help you survive. The mods are curated to avoid bloat and remain lore-friendly, enriching your experience while respecting the game's authentic atmosphere. Prepare for a challenging journey where every bullet counts!",
-    "author": "Τριάς",
-    "maintainers": [
-      "github/Tpiac"
-    ],
-    "game": "fallout4",
-    "official": false,
-    "tags": [
-      "Official",
-      "Nevernude",
-      "Lore-Friendly"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "title": "Dungeons & Deviousness",
+    "description": "Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme.",
+    "version": "1.0.0",
+    "author": "ForgottenGlory",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "nsfw": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/Tpiac/Fallout-4-REMASTERED/refs/heads/main/Fallout4_REMASTERED.png",
-      "readme": "https://github.com/Tpiac/Fallout-4-REMASTERED/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/F4%20REMASTERED.wabbajack_c62ff147-ab7e-46a4-a422-16beffcd5239",
-      "machineURL": "Fallout_4_REMASTERED",
-      "discordURL": "https://discord.gg/AHW33bnUb5"
+      "image": "https://raw.githubusercontent.com/ForgottenGlory/Dungeons-Deviousness/master/D%26D%20Logo.png",
+      "readme": "https://raw.githubusercontent.com/ForgottenGlory/Dungeons-Deviousness/master/README.md",
+      "download": "https://wabbajack.b-cdn.net/Dungeons%20&%20Deviousness.wabbajack_ccb233e1-0e1d-4d55-ac8c-cd6eac2cef65",
+      "machineURL": "dungeons_and_deviousness"
     },
     "download_metadata": {
-      "Hash": "jiFkoz5PLTA=",
-      "Size": 615544880,
-      "NumberOfArchives": 519,
-      "SizeOfArchives": 102102401240,
-      "NumberOfInstalledFiles": 39025,
-      "SizeOfInstalledFiles": 93645932053
+      "Hash": "VPANWax0Nt4=",
+      "Size": 1251933681,
+      "NumberOfArchives": 541,
+      "SizeOfArchives": 60587233425,
+      "NumberOfInstalledFiles": 135898,
+      "SizeOfInstalledFiles": 136570345107
     },
-    "version": "1.7"
+      
+},
+	{
+		"title": "Viva New Vegas",
+		"description": "An unofficial modlist that is slightly modified from the original vanilla+ viva new vegas guide created by Qolore7.",
+		"version": "3.2.6",
+		"author": "LadyZeefa",
+		"game": "falloutnewvegas",
+		"tags": ["Unofficial"],
+		"links": {
+			"image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/VNV.png",
+			"readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/readme.md",
+			"download": "https://wabbajack.b-cdn.net/Unofficial%20VNV.wabbajack_bfbc5182-450d-447f-9c1d-7849c691e6ed",
+			"machineURL": "vnv"
+		},
+		"download_metadata": {
+			"Hash": "lgiBCBu+GBc=",
+			"Size": 4186344,
+			"NumberOfArchives": 267,
+			"SizeOfArchives": 7642474412,
+			"NumberOfInstalledFiles": 54869,
+			"SizeOfInstalledFiles": 17147689125
+		}
   }
 ]
+
+
+	{
+		"title": "Elysium",
+		"description": "Elysium is a fork of the Phoenix Flavour that expands this already excellent guide with over a hundred new additions and optional Creation Club support—extending the base setup with Enai Siaion's full suite of gameplay overhauls as well as various new quests and encounters.",
+		"version": "1.3.4",
+		"author": "TitansBane",
+		"game": "skyrimspecialedition",
+		"tags": ["Official"],
+		"links": {
+			"image": "https://raw.githubusercontent.com/TitansBane/Elysium/master/image/Elysium_Logo.png",
+			"readme": "https://raw.githubusercontent.com/TitansBane/Elysium/master/README.md",
+			"download": "https://wabbajack.b-cdn.net/Elysium%20-%20A%20TPF%20Fork.wabbajack_7db27daa-1873-4673-9e6d-06afd17b0335",
+			"machineURL": "elysium"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "AgjMYm9oNbA=",
+			"Size": 501802767,
+			"NumberOfArchives": 867,
+			"SizeOfArchives": 55550924292,
+			"NumberOfInstalledFiles": 76219,
+			"SizeOfInstalledFiles": 83835653068
+		}
+	},
+
+
+
+
+ 
+  {
+    "title": "Licentia",
+    "description": "A light touch of Lover's Lab added to an expanded Skyrim experience featuring Legacy of the Dragonborn and Maids II: Deception.",
+    "version": "7.0",
+    "author": "cacophony",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "nsfw": true,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Licentia_et_Servitium/elagabalus.png",
+      "readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
+      "download": "https://wabbajack.b-cdn.net/Licentia.wabbajack_0f47ec2b-925f-4628-bb33-8be9b5e30de9",
+      "machineURL": "Licentia"
+    },
+    "download_metadata": {
+        "Hash": "yLBJFufM9Rw=",
+        "Size": 226872427,
+        "NumberOfArchives": 491,
+        "SizeOfArchives": 78113553077,
+        "NumberOfInstalledFiles": 211806,
+        "SizeOfInstalledFiles": 109362712525
+    }
+  },
