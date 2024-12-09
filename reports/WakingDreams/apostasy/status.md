@@ -734,7 +734,7 @@
 *  [Dual Casting Fix-92454-1-0-1685396946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=393174)
 *  [Dual Wield Parrying SKSE-85505-1-7-0-1689508403.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85505/?tab=files&file_id=407592)
 *  [Dungeon Quests are not Miscellaneous-123559-1-0-0-1720298455.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123559/?tab=files&file_id=518307)
-*  [Dungeon Revisted AIO Patch-131057-1-01-1732372165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131057/?tab=files&file_id=565204)
+*  [Dungeon Revisted AIO Patch-131057-1-02-1732471879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131057/?tab=files&file_id=565650)
 *  [Dungeon Revisted AIO Patch-132119-1-01-1731516080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132119/?tab=files&file_id=561884)
 *  [Dungeon Revisted AIO Patch-133337-1-0-1730998268.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133337/?tab=files&file_id=559816)
 *  [Dungeons - Revisited-51798-1-1-1-1674024658.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51798/?tab=files&file_id=350669)
