@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2011)
+### Valid (2012)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
@@ -1669,6 +1668,7 @@
 *  [Sleeping Heals Diseases-97490-1-1-1697022087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/97490/?tab=files&file_id=433078)
 *  [slightly Better Honey in a Jar (Replacer)-104496-1-0-1699694042.rar](https://www.nexusmods.com/skyrimspecialedition/mods/104496/?tab=files&file_id=441667)
 *  [Slightly Less Divine Elegance-72211-1-1-1659160865.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72211/?tab=files&file_id=303280)
+*  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
 *  [Small Tweaks - Add Dremora Faces-Lines Expansion-79506-STdle1-1-1700280490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79506/?tab=files&file_id=443510)
 *  [Smelters for Falkreath and Riverwood-27760-1-6-1672402970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27760/?tab=files&file_id=344891)
 *  [Smelters for Riften and Solitude-22566-3-0-1668381833.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22566/?tab=files&file_id=331636)
