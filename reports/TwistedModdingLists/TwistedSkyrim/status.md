@@ -1,11 +1,10 @@
 ## Validation Report - Twisted Skyrim (TwistedModdingLists/TwistedSkyrim)
 
 
-### Invalid (1)
-*  [Mofu_EldenRing Attack Animations GreatSword SE MCO.zip](https://drive.google.com/uc?id=1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3567)
+### Valid (3568)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -2155,6 +2154,7 @@
 *  [Modlist Update Checker-98464-1-0-4-1706292810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98464/?tab=files&file_id=465080)
 *  [Modular SMP Hairstyles - 4K Textures-93608-1-03-1712379802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93608/?tab=files&file_id=487921)
 *  [Modular SMP Hairstyles-93608-1-031-1712415755.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93608/?tab=files&file_id=488035)
+*  [Mofu_EldenRing Attack Animations GreatSword SE MCO.zip](https://drive.google.com/uc?id=1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE&export=download)
 *  [Momentary Solitude - Ladies for OStim Standalone-107982-1-0-1703853109.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107982/?tab=files&file_id=456033)
 *  [Moon Amulet 4K-103647-1-1-1698876347.zip](https://www.nexusmods.com/skyrimspecialedition/mods/103647/?tab=files&file_id=438959)
 *  [Moon Crest Retexture-45788-1-2-1613859281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45788/?tab=files&file_id=187079)

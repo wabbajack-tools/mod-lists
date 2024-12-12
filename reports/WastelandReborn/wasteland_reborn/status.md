@@ -1,10 +1,11 @@
 ## Validation Report - Wasteland Reborn (WastelandReborn/wasteland_reborn)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Colt Single Action Army - F4NV-47820-1-1-1602801790.rar](https://drive.google.com/uc?id=1WmGuPCblM-L22O38qs939FRRs9ehnLsU&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1005)
+### Valid (1004)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-2-0-0-1720138420.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=325518)
@@ -218,7 +219,6 @@
 *  [Close Quarters Pack 1.0-60890-1-0-1653981172.zip](https://www.nexusmods.com/fallout4/mods/60890/?tab=files&file_id=239133)
 *  [Clothing Scrapping Redone-69715-1-3-1-1695594069.7z](https://www.nexusmods.com/fallout4/mods/69715/?tab=files&file_id=290388)
 *  [Colorful Bottle Lanterns-22309-2-01-1662911896.zip](https://www.nexusmods.com/fallout4/mods/22309/?tab=files&file_id=250329)
-*  [Colt Single Action Army - F4NV-47820-1-1-1602801790.rar](https://drive.google.com/uc?id=1WmGuPCblM-L22O38qs939FRRs9ehnLsU&export=download)
 *  [Combat Armor Knee Pads (Semi-Replacer)-68774-1-0-2-1686475279.7z](https://www.nexusmods.com/fallout4/mods/68774/?tab=files&file_id=280099)
 *  [Combined Combat XP-56650-1-1-1715702120.zip](https://www.nexusmods.com/fallout4/mods/56650/?tab=files&file_id=316496)
 *  [Commonwealth Cuts 2.5.1-11402-2-5-1-1547056792.rar](https://www.nexusmods.com/fallout4/mods/11402/?tab=files&file_id=149695)
