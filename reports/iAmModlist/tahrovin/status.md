@@ -1,10 +1,11 @@
 ## Validation Report - Tahrovin (iAmModlist/tahrovin)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (977)
+### Valid (976)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
@@ -866,7 +867,6 @@
 *  [Tahrovin v1.0 Misc Custom Files.7z](https://authored-files.wabbajack.org/Tahrovin v1.0 Misc Custom Files.7z_719df902-6706-4e65-985a-190682dd3bc3)
 *  [Tahrovin2.5.0.3 Bodyslide Outpt.7z](https://authored-files.wabbajack.org/Tahrovin2.5.0.3 Bodyslide Outpt.7z_ceb18ab2-47f3-4678-a17a-49175f9298f0)
 *  [Tawoba 6.1 unofficial tweaks and fixes-111200-1-6-1708448801.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111200/?tab=files&file_id=472950)
-*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 *  [Tempered Skins for Males - SOS Full version-7902-2-06-1601375163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=163103)
 *  [Terrain Parallax 1.5 - 4K2K-54860-1-5-1670317926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54860/?tab=files&file_id=338096)
 *  [Teru Apex V2 CBBE 3BA 3BBB 2.0-50232-2-0-1623704887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50232/?tab=files&file_id=209118)

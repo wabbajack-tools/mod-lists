@@ -1,11 +1,10 @@
 ## Validation Report - Fallout Anomaly (FAnomaly/Fallout_Anomaly)
 
 
-### Invalid (1)
-*  [Bethini Pie-631-4-11-1714357636.zip](https://authored-files.wabbajack.org/Bethini Pie-631-4-11-1714357636.zip_8d5490ed-e045-4014-8657-d377124733ec)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (993)
+### Valid (994)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
@@ -384,6 +383,7 @@
 *  [FO4 HD Overhaul HD 2k - LOD Textures-65720-1-0-1667494006.rar](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=255646)
 *  [FO4 NPCs Travel-16987-2-9-7-1718105667.7z](https://www.nexusmods.com/fallout4/mods/16987/?tab=files&file_id=322173)
 *  [FO4 Particle Patch v1-3-2-68599-1-3-2-1719216836.rar](https://www.nexusmods.com/fallout4/mods/68599/?tab=files&file_id=324194)
+*  [FO4Edit 4.0.4-2737-4-0-4-1636548744.7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=221103)
 *  [FO4Edit 4.1.5f-2737-4-1-5f-1714279051(2).7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=312782)
 *  [FO4FI HD Series (HD Creatures and Robots)-83223-1-0-1716303604.rar](https://www.nexusmods.com/fallout4/mods/83223/?tab=files&file_id=318056)
 *  [FO4FI HD Series (HD DLC Clothes and Armor)-81465-1-2-1714820605.rar](https://www.nexusmods.com/fallout4/mods/81465/?tab=files&file_id=314061)

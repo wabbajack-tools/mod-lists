@@ -1,10 +1,11 @@
 ## Validation Report - Merethic (iAmModlist/merethic)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1950)
+### Valid (1949)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -1729,7 +1730,6 @@
 *  [Tamrielic Distribution-71372-1-3-4-1709353073.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=476119)
 *  [Taproot 4K Enblight-112609-1-2-1710158430.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112609/?tab=files&file_id=479372)
 *  [Tawoba 6.1 unofficial tweaks and fixes-111200-1-9-1709122972.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111200/?tab=files&file_id=475333)
-*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 *  [TDM - Tail Behavior Fix-53757-1-0-1628824407.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53757/?tab=files&file_id=220772)
 *  [TDM Target Fix - Bristleback-77843-1-3-1667174214.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77843/?tab=files&file_id=327791)
 *  [TDM Target Fix - Ice Wraith-77843-1-0-1667174388.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77843/?tab=files&file_id=327793)
