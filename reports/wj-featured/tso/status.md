@@ -1,11 +1,10 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (1)
-*  [DM BDOR Ivish by Team TAL, Caenarvon, em486.7z](https://drive.google.com/uc?id=1HhKZwprqrh0w8ybw5NUROgderVA2IANY&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1032)
+### Valid (1033)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -363,6 +362,7 @@
 *  [DM Amazons-34593-1-0-1586670463.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34593/?tab=files&file_id=133771)
 *  [DM Athletic Fitness Bodyslide Preset-18936-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18936/?tab=files&file_id=61374)
 *  [DM BDOR Darkborne Rose by Team TAL.zip](https://drive.google.com/uc?id=1r8kngKdDHKb9nIJQpWywhciBn4-Sirgy&export=download)
+*  [DM BDOR Ivish by Team TAL, Caenarvon, em486.7z](https://drive.google.com/uc?id=1HhKZwprqrh0w8ybw5NUROgderVA2IANY&export=download)
 *  [Dragon Carved Armor Set 1.41.-4253-1-42.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4253/?tab=files&file_id=27318)
 *  [Dragon Lilly -Definitive Edition-.7z](https://www.mediafire.com/file/ftrq4eywwn2bmjb/Dragon+Lilly+-Definitive+Edition-.7z/file)
 *  [Dragon Priest Fix - Behaviour Overhaul-51608-1-6-1-1651223283.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51608/?tab=files&file_id=280288)
