@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1901)
+### Valid (1900)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-2-1685974739.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=395292)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Merged) Improved Adoptions Multiple Adoptions Version 3.0-4713-3-0-1553792264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4713/?tab=files&file_id=86643)
@@ -570,7 +570,6 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
