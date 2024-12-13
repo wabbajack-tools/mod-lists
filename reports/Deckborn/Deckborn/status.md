@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (473)
+### Valid (474)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Reverb Interior Sounds Expansion (1.5.0)-77947-1-5-0-1675142342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77947/?tab=files&file_id=354860)
@@ -248,6 +248,7 @@
 *  [Dear Diary Squish Fixes FOMOD-107216-0-9-1-1724119928 (1).7z](https://www.nexusmods.com/skyrimspecialedition/mods/107216/?tab=files&file_id=533377)
 *  Debug.log
 *  [Deckborn - Config-129937-0-2-1-1727099054.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129937/?tab=files&file_id=545352)
+*  [Deckborn - Config-129937-0-3-1728670657.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129937/?tab=files&file_id=551151)
 *  [Deckborn - Dyndolod Battery-129937-0-2-1-1727095090.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129937/?tab=files&file_id=545321)
 *  [Deckborn - Dyndolod Output Graphics-129937-0-2-1-1727095436.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129937/?tab=files&file_id=545324)
 *  [Deckborn - Nemesis Output-129937-0-2-1-1727093710.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129937/?tab=files&file_id=545317)
