@@ -168,7 +168,6 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  Debug.log
 *  [Detection Meter AE-135875-1-0-1733642871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135875/?tab=files&file_id=570234)
 *  [DF - Creatures by Xtudo - Draugrs-126608-1-3-1724102008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126608/?tab=files&file_id=533265)
 *  [Dialogue History - Untarnished UI Patch-115250-v1-1-1713211190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115250/?tab=files&file_id=491179)
@@ -391,6 +390,7 @@
 *  [Object Categorization Framework-81469-6-0-2-1728459472.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81469/?tab=files&file_id=550406)
 *  [Oblivion Interaction Icons - DSD-52743-2-55a-1726166519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=541449)
 *  [OBody NG-77016-4-2-0-1694045048.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77016/?tab=files&file_id=423864)
+*  [OMEAR Addition - Skyrim Extended Cut S-and-S-67968-1-8-2-1734274182.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67968/?tab=files&file_id=572669)
 *  [OnMagicEffectApply Replacer Effective-67968-1-8-2-1708954935.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67968/?tab=files&file_id=474739)
 *  [Open Animation Replacer - Detection Plugin-104806-2-1-2-1728562240.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104806/?tab=files&file_id=550711)
 *  [Open Animation Replacer - IED conditions-98308-1-0-3-1693587943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/98308/?tab=files&file_id=422544)
@@ -433,7 +433,7 @@
 *  [PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)-18860-0-6-2-1727798544.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18860/?tab=files&file_id=548084)
 *  [Profile Sync 2.0.1-60690-2-0-1-1705242302.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=461278)
 *  [Project Gap Close - Disabled Dynamic CPR-130830-1-5-0-1729374712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130830/?tab=files&file_id=553774)
-*  [QuickLoot IE - A QuickLoot EE Fork-120075-2-0-0-1723923509.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120075/?tab=files&file_id=532417)
+*  [QuickLoot IE - A QuickLoot EE Fork-120075-3-0-0-1734302880.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120075/?tab=files&file_id=572821)
 *  [Race Compatibility SKSE - Patch Hub-122592-1-0-5-1732194645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122592/?tab=files&file_id=564551)
 *  [Race Compatibility SKSE-122592-1-0-5-1732194616.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122592/?tab=files&file_id=564550)
 *  [RaceMenu Anniversary Edition v0-4-19-16-19080-0-4-19-16-1706297897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=465102)
@@ -450,7 +450,7 @@
 *  [RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90734/?tab=files&file_id=408042)
 *  [Reverie-64314-1-11-2-1727366169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64314/?tab=files&file_id=546430)
 *  [RG Main File-99482-1-0-0-1-1693794412.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99482/?tab=files&file_id=423172)
-*  [RMB SPIDified - Core-63625-5-1-3-1733499444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63625/?tab=files&file_id=569576)
+*  [RMB SPIDified - Core-63625-5-2-0-1734287170.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63625/?tab=files&file_id=572724)
 *  [RMB SPIDified - Regional Keyword Framework-100637-1-3-2-1695739478.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100637/?tab=files&file_id=429149)
 *  [Rogues 'n Raiders SE FOMOD Installer v4.2-47504-4-2-1732347900.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47504/?tab=files&file_id=565124)
 *  [RoL - IUTBADBLY Compatibility Patch-119217-1-1-1720571269.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119217/?tab=files&file_id=519510)
