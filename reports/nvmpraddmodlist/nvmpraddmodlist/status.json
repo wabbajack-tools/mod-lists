@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "NVMP RADD Modlist",
-  "Version": "1.0.4",
-  "ModListHash": "5VmaIm/iqws=",
+  "Version": "1.0.5",
+  "ModListHash": "WzfUWtaiNhc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,34 +21,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I2VFsm3KBbA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
-        "Name": "MTUI-34902.zip",
-        "Size": 424681,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Tael",
-          "Description": "Fallout: New Vegas UI improvements.",
-          "FileID": 68836,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
-          "IsNSFW": false,
-          "ModID": 34902,
-          "Name": "MTUI",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y5Si+KOCuJ0=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_ac8b0763-8b6a-4f61-863e-3eaf8504cd03",
+        "Hash": "sVGw0JyWbAQ=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_f51d5b9c-ec7f-4db3-b592-373bfa5f1511",
         "Name": "RADD Server Mods.7z",
-        "Size": 1921378169,
+        "Size": 1952394590,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_ac8b0763-8b6a-4f61-863e-3eaf8504cd03"
+          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_f51d5b9c-ec7f-4db3-b592-373bfa5f1511"
         }
       }
     },
@@ -76,35 +55,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bJ1r710jy4A=",
-        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/7.3/build_release_client.zip",
+        "Hash": "F+CRZXScNjc=",
+        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/7.32/build_release_client.zip",
         "Name": "build_release_client.zip",
-        "Size": 46122109,
+        "Size": 46124558,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/7.3/build_release_client.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cSalPK2cKG4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=67883\nfileID=1000117373",
-        "Name": "nvse_6_3_4.7z",
-        "Size": 3438812,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xNVSE Team",
-          "Description": "The New Vegas Script Extender, or NVSE for short, is a modder\u0027s resource that expands the scripting capabilities of Fallout: NV. It does so without modifying the executable files on disk, so there are no permanent side effects.",
-          "FileID": 1000117373,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67883/67883-1591101502-360653333.jpeg",
-          "IsNSFW": false,
-          "ModID": 67883,
-          "Name": "New Vegas Script Extender (NVSE xNVSE)",
-          "Version": "6.3.4"
+          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/7.32/build_release_client.zip"
         }
       }
     },
@@ -147,6 +105,48 @@
           "ModID": 75414,
           "Name": "Clean Pip-Boy 2022",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I2VFsm3KBbA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
+        "Name": "MTUI-34902.zip",
+        "Size": 424681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Max Tael",
+          "Description": "Fallout: New Vegas UI improvements.",
+          "FileID": 68836,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
+          "IsNSFW": false,
+          "ModID": 34902,
+          "Name": "MTUI",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9ViLYvKpPQA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64102\nfileID=1000050605",
+        "Name": "Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z",
+        "Size": 1523059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BmanBlazer",
+          "Description": "This mod is designed to update the HUD for 1080p resolutions or higher (1440p, 4K, etc) while maintaining the same original look and style.",
+          "FileID": 1000050605,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64102/64102-1509918517-1324910935.png",
+          "IsNSFW": false,
+          "ModID": 64102,
+          "Name": "Vanilla HUD Remastered (4K)",
+          "Version": "1.83"
         }
       }
     },
@@ -230,42 +230,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9ViLYvKpPQA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=64102\nfileID=1000050605",
-        "Name": "Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z",
-        "Size": 1523059,
+        "Hash": "BpTYcStjmS8=",
+        "Meta": "[General]\ngameName=site\nmodID=729\nfileID=2535",
+        "Name": "Loot Preventifier-729-2023-12-07-1701907617.zip",
+        "Size": 898,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BmanBlazer",
-          "Description": "This mod is designed to update the HUD for 1080p resolutions or higher (1440p, 4K, etc) while maintaining the same original look and style.",
-          "FileID": 1000050605,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64102/64102-1509918517-1324910935.png",
+          "Author": "Lost Dragonist and Miss Corruption",
+          "Description": "MO2 plugins originally made by LostDragonist updated to work with the latest version of MO2.",
+          "FileID": 2535,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/729/729-1701907354-799625403.png",
           "IsNSFW": false,
-          "ModID": 64102,
-          "Name": "Vanilla HUD Remastered (4K)",
-          "Version": "1.83"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bkdnuFJFva4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
-        "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
-        "Size": 110679,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Queue",
-          "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
-          "FileID": 1000039152,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
-          "IsNSFW": false,
-          "ModID": 53635,
-          "Name": "NVAC - New Vegas Anti Crash",
-          "Version": "7.5.1.0"
+          "ModID": 729,
+          "Name": "Lost Dragonists MO2 Plugins - Updated for MO2 2.5.0",
+          "Version": "1.0"
         }
       }
     },
@@ -293,21 +272,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BpTYcStjmS8=",
-        "Meta": "[General]\ngameName=site\nmodID=729\nfileID=2535",
-        "Name": "Loot Preventifier-729-2023-12-07-1701907617.zip",
-        "Size": 898,
+        "Hash": "cSalPK2cKG4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=67883\nfileID=1000117373",
+        "Name": "nvse_6_3_4.7z",
+        "Size": 3438812,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lost Dragonist and Miss Corruption",
-          "Description": "MO2 plugins originally made by LostDragonist updated to work with the latest version of MO2.",
-          "FileID": 2535,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/729/729-1701907354-799625403.png",
+          "Author": "xNVSE Team",
+          "Description": "The New Vegas Script Extender, or NVSE for short, is a modder\u0027s resource that expands the scripting capabilities of Fallout: NV. It does so without modifying the executable files on disk, so there are no permanent side effects.",
+          "FileID": 1000117373,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67883/67883-1591101502-360653333.jpeg",
           "IsNSFW": false,
-          "ModID": 729,
-          "Name": "Lost Dragonists MO2 Plugins - Updated for MO2 2.5.0",
-          "Version": "1.0"
+          "ModID": 67883,
+          "Name": "New Vegas Script Extender (NVSE xNVSE)",
+          "Version": "6.3.4"
         }
       }
     },
@@ -329,6 +308,48 @@
           "ModID": 1003,
           "Name": "Kezyma\u0027s Wabbajack Post-Setup Tool",
           "Version": "0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ezqZlIIPPZc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79211\nfileID=1000105230",
+        "Name": "OneTweak-79211-2-1-0-4-1676812882.7z",
+        "Size": 80276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nucleoprotein AKA virusek - Wall_SoGB",
+          "Description": "Truly updated OneTweak.",
+          "FileID": 1000105230,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79211/79211-1670268232-1388795756.png",
+          "IsNSFW": false,
+          "ModID": 79211,
+          "Name": "OneTweak but Really Updated",
+          "Version": "2.1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bkdnuFJFva4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
+        "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
+        "Size": 110679,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Queue",
+          "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
+          "FileID": 1000039152,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
+          "IsNSFW": false,
+          "ModID": 53635,
+          "Name": "NVAC - New Vegas Anti Crash",
+          "Version": "7.5.1.0"
         }
       }
     }
