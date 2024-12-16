@@ -13,7 +13,7 @@
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [MTUI-34902.zip](https://www.nexusmods.com/newvegas/mods/34902/?tab=files&file_id=68836)
 *  [NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip](https://www.nexusmods.com/newvegas/mods/53635/?tab=files&file_id=1000039152)
-*  [nvse_6_3_4.7z](https://www.nexusmods.com/newvegas/mods/67883/?tab=files&file_id=1000117373)
+*  [nvse_6_3_4.7z](https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z)
 *  [nvtf.7z](https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z)
 *  [OneTweak-79211-2-1-0-4-1676812882.7z](https://www.nexusmods.com/newvegas/mods/79211/?tab=files&file_id=1000105230)
 *  [Profile Sync 2.1.0-60690-2-1-0-1720652244.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=519782)
