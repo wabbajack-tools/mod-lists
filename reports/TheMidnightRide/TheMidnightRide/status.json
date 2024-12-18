@@ -1,8 +1,8 @@
 {
   "MachineURL": "TheMidnightRide/TheMidnightRide",
   "Name": "The Midnight Ride",
-  "Version": "17.12.24",
-  "ModListHash": "65sa2RVbYfQ=",
+  "Version": "18.12.24",
+  "ModListHash": "lWSLtmddccI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -70,21 +70,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+pb6vgEUwlw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=36205\nfileID=147205",
-        "Name": "General Atomics Mr Gutsy Guards-36205-1-0-1543864893.rar",
-        "Size": 240388,
+        "Hash": "Av8Dk++97gE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27445\nfileID=255106",
+        "Name": "Fixed Gobo Effects-27445-2-1-2-1667131938.zip",
+        "Size": 25514842,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LarannKiar",
-          "Description": "This mod fixes the silent Guard Gutsy robots at General Atmoics Galleria.",
-          "FileID": 147205,
+          "Author": "Ablaze666",
+          "Description": "This mod fixes artefacts, pixelation and color banding in textures that are used for special light effects. Zero performance loss, little to nothing strain for your VRAM, no esp needed, no reason to not use it.",
+          "FileID": 255106,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36205/36205-1543772243-514221138.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27445-0-1508564064.jpg",
           "IsNSFW": false,
-          "ModID": 36205,
-          "Name": "General Atomics Galleria Speaking Guard Gutsy Voice Fix",
-          "Version": "1.0"
+          "ModID": 27445,
+          "Name": "Fixed Gobo Effects",
+          "Version": "2.1.2"
         }
       }
     },
@@ -112,63 +112,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YaiR4Ufvhoo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60074\nfileID=236353",
-        "Name": "Random Encounter Framework-60074-1-01-1651337467.zip",
-        "Size": 4676,
+        "Hash": "CnokRHLReog=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=237865",
+        "Name": "LOD Fixes and Additions-56138-1-0-1652730587.7z",
+        "Size": 383213,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "A simple framework that allows mod authors to safely use the base game\u0027s random encounter story manager.",
-          "FileID": 236353,
+          "Author": "Phlunder",
+          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
+          "FileID": 237865,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60074/60074-1651191503-792821491.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
           "IsNSFW": false,
-          "ModID": 60074,
-          "Name": "Random Encounter Framework",
-          "Version": "1.01"
+          "ModID": 56138,
+          "Name": "HD LOD Textures",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ByPA6mHEcP8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122471",
-        "Name": "Depth of Field Effect ESP-29922-1-0.zip",
-        "Size": 877,
+        "Hash": "NTfU0Y8RZsA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56885\nfileID=340533",
+        "Name": "Ownership Fixes-56885-1-5-1731896899.7z",
+        "Size": 178471,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deleted29017635",
-          "Description": "Overlay replacement for the standard aim through scope effect and reticles (Ballistic and plasma rifle scope only).",
-          "FileID": 122471,
+          "Author": "VishVadeva - Audixas",
+          "Description": "Fixes incorrect or missing ownership data assigned to junk and containers.",
+          "FileID": 340533,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29922/29922-1518907973-1172895636.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56885/56885-1680149984-94624916.png",
           "IsNSFW": false,
-          "ModID": 29922,
-          "Name": "Sniper Scope Overlay And Reticles Replacement",
+          "ModID": 56885,
+          "Name": "Ownership Fixes",
+          "Version": "1.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UzDd4OkpMTo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=76924\nfileID=299655",
+        "Name": "Implementation Patch-76924-ImplementationPatch-1705269087.zip",
+        "Size": 7220,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DegenerateDak and Pig",
+          "Description": "It\u0027s finally here! Can you believe it! The long awaited attachment pack has arrived! Merry Christmas!",
+          "FileID": 299655,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76924/76924-1703292873-1868730422.png",
+          "IsNSFW": false,
+          "ModID": 76924,
+          "Name": "The Attachment Pack (Version 1)",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lXlPk1cwJT8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73259\nfileID=284450",
+        "Name": "ToYourFaceFO4-73259-1-0-1690288779.zip",
+        "Size": 113986,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "underthesky and PK0",
+          "Description": "NPCs will not speak greetings towards the Nate/Nora\u0027s back. F4SE",
+          "FileID": 284450,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73259/73259-1690287667-263131278.png",
+          "IsNSFW": false,
+          "ModID": 73259,
+          "Name": "To Your Face FO4",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3/k54bJm11s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=337014",
-        "Name": "1 - Keep Radiants in the Commonwealth Patch-59019-1-11-1729120929.zip",
-        "Size": 15061,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "A mod for players who dislike being asked to report back to Preston Garvey.",
-          "FileID": 337014,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59019/59019-1650834121-1822255204.png",
-          "IsNSFW": false,
-          "ModID": 59019,
-          "Name": "Who\u0027s The General - Minutemen Quest Cleanup",
-          "Version": "1.05"
         }
       }
     },
@@ -217,42 +238,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l96wffObpro=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=79726\nfileID=329089",
-        "Name": "Hostile NPC Respawn Fix ESL-79726-1-4-1722784466.zip",
-        "Size": 17951,
+        "Hash": "yIfvJ0JNodI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61411\nfileID=333558",
+        "Name": "Legendaries They Can Use-61411-2-5-1726033836.7z",
+        "Size": 68212,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LarannKiar",
-          "Description": "Fixes a few issues that prevent hostile NPCs from respawning after a while.",
-          "FileID": 329089,
+          "Author": "WhiskyTangoFox",
+          "Description": "Changes how legendary enemies get legendary items to actually make sense.",
+          "FileID": 333558,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79726/79726-1710728123-1527145216.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61411/61411-1655503652-1263445432.jpeg",
           "IsNSFW": false,
-          "ModID": 79726,
-          "Name": "Hostile NPC Respawn Fix - F4SE - Garden of Eden SE",
-          "Version": "1.1"
+          "ModID": 61411,
+          "Name": "Legendaries They Can Use",
+          "Version": "2.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ume9hjtjdTg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122365",
-        "Name": "Sniper Scope Overlay And Reticle Replacement-29922-1-0.zip",
-        "Size": 60340,
+        "Hash": "4worEYKy2mQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=335703",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-7-1727752409.7z",
+        "Size": 38663285,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deleted29017635",
-          "Description": "Overlay replacement for the standard aim through scope effect and reticles (Ballistic and plasma rifle scope only).",
-          "FileID": 122365,
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 335703,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29922/29922-1518907973-1172895636.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
           "IsNSFW": false,
-          "ModID": 29922,
-          "Name": "Sniper Scope Overlay And Reticles Replacement",
-          "Version": "1.0"
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch - UFO4P",
+          "Version": "2.1.5"
         }
       }
     },
@@ -301,21 +322,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "maBWS+/0xz0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73333\nfileID=285200",
-        "Name": "Blocking Overhaul-73333-1-2-0-1690986813.zip",
-        "Size": 124823,
+        "Hash": "o4msXwmmYQ4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=336673",
+        "Name": "Buffout4 NG-64880-1-36-0-1728807293.7z",
+        "Size": 14601624,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Fallout 4 melee combat will change forever. Blocking Overhaul revamps the Fallout 4s blocking system on the engine level.",
-          "FileID": 285200,
+          "Author": "alandtse",
+          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
+          "FileID": 336673,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73333/73333-1690544783-1568673908.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
           "IsNSFW": false,
-          "ModID": 73333,
-          "Name": "Blocking Overhaul",
-          "Version": "1.2.0"
+          "ModID": 64880,
+          "Name": "Buffout 4 NG with PDB support",
+          "Version": "1.31.0"
         }
       }
     },
@@ -364,21 +385,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w5XoK4YdP7I=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=82592\nfileID=340295",
-        "Name": "Hit Those Explosives-82592-1-6-0-1731709845.7z",
-        "Size": 2328,
+        "Hash": "fip2JiSFxeY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=85755\nfileID=342531",
+        "Name": "Hit Those Objects-85755-2-0-2-1733933229.7z",
+        "Size": 4334,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SoleVaultBoy",
-          "Description": "Hitting explosive weapons and ammo will now cause them to explode, allowing for chain reactions for total destruction.",
-          "FileID": 340295,
+          "Author": "bp42s",
+          "Description": "Adds contextual hit reactivity to various objects and items in the world.",
+          "FileID": 342531,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82592/82592-1715455445-2086026895.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85755/85755-1721077880-1395477717.png",
           "IsNSFW": false,
-          "ModID": 82592,
-          "Name": "Hit Those Explosives",
-          "Version": "1.3.0"
+          "ModID": 85755,
+          "Name": "Hit Those Objects",
+          "Version": "1.1.0"
         }
       }
     },
@@ -469,48 +490,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6Wql/l6hLVI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
-        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
-        "Size": 145150,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
-          "FileID": 172411,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
-          "IsNSFW": false,
-          "ModID": 27479,
-          "Name": "Crafting Highlight Fix",
-          "Version": "1.8.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2PBrWM0Wai4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=74160\nfileID=342138",
-        "Name": "Garden of Eden Papyrus Script Extender-74160-19-3-1733440217.zip",
-        "Size": 912035,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LarannKiar",
-          "Description": "F4SE plugin that extends the capabilites of the game\u0027s scripting language with over 510 new native functions.",
-          "FileID": 342138,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/74160/74160-1692823324-1408658065.png",
-          "IsNSFW": false,
-          "ModID": 74160,
-          "Name": "Garden of Eden Papyrus Script Extender",
-          "Version": "13.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Pp5DZxEvBKs=",
         "Meta": "[General]\ngameName=fallout4\nmodID=63198\nfileID=321895",
         "Name": "Optimized Vanilla Tree LODs-63198-3-2-1717978141.7z",
@@ -526,6 +505,27 @@
           "ModID": 63198,
           "Name": "Optimized Vanilla Tree LODs",
           "Version": "3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WRR7uARaUeQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35661\nfileID=144981",
+        "Name": "Hair Specular Map Removal Thingy-35661-2-0-1541043541.zip",
+        "Size": 1362,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DeathWrench",
+          "Description": "The specular maps originally present on hair are buggy when under certain lighting. So I tracked them down and \u0022deleted\u0022 them by making them invisible, it doesn\u0027t fix it completely but it does help mitigate it a lot. New version that doesn\u0027t edit textures at all, but the material file, produces the same results.",
+          "FileID": 144981,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35661/35661-1541037128-273718638.png",
+          "IsNSFW": false,
+          "ModID": 35661,
+          "Name": "Hair Specular Map Removal Thingy",
+          "Version": "1.0"
         }
       }
     },
@@ -574,27 +574,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CnokRHLReog=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=237865",
-        "Name": "LOD Fixes and Additions-56138-1-0-1652730587.7z",
-        "Size": 383213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phlunder",
-          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
-          "FileID": 237865,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
-          "IsNSFW": false,
-          "ModID": 56138,
-          "Name": "HD LOD Textures",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "N+u7rpB0k9k=",
         "Meta": "[General]\ngameName=fallout4\nmodID=70013\nfileID=272346",
         "Name": "Faster Workbench Exit-70013--1-3-1680141051.zip",
@@ -610,174 +589,6 @@
           "ModID": 70013,
           "Name": "Faster Workbench Exit",
           "Version": ".1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dNyNZvgLKLY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53980\nfileID=215300",
-        "Name": "NPC Drinking Fix-53980-1-0-0-1629653826.7z",
-        "Size": 129974,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Elzee",
-          "Description": "Vanilla NPC drinking animations are missing sounds and facial animations. This MOD fix this. For a little immersion.",
-          "FileID": 215300,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53980/53980-1629653474-1100547015.png",
-          "IsNSFW": false,
-          "ModID": 53980,
-          "Name": "NPC Drinking Fix",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Av8Dk++97gE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27445\nfileID=255106",
-        "Name": "Fixed Gobo Effects-27445-2-1-2-1667131938.zip",
-        "Size": 25514842,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ablaze666",
-          "Description": "This mod fixes artefacts, pixelation and color banding in textures that are used for special light effects. Zero performance loss, little to nothing strain for your VRAM, no esp needed, no reason to not use it.",
-          "FileID": 255106,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27445-0-1508564064.jpg",
-          "IsNSFW": false,
-          "ModID": 27445,
-          "Name": "Fixed Gobo Effects",
-          "Version": "2.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NTfU0Y8RZsA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56885\nfileID=340533",
-        "Name": "Ownership Fixes-56885-1-5-1731896899.7z",
-        "Size": 178471,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva - Audixas",
-          "Description": "Fixes incorrect or missing ownership data assigned to junk and containers.",
-          "FileID": 340533,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56885/56885-1680149984-94624916.png",
-          "IsNSFW": false,
-          "ModID": 56885,
-          "Name": "Ownership Fixes",
-          "Version": "1.3.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UzDd4OkpMTo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=76924\nfileID=299655",
-        "Name": "Implementation Patch-76924-ImplementationPatch-1705269087.zip",
-        "Size": 7220,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DegenerateDak and Pig",
-          "Description": "It\u0027s finally here! Can you believe it! The long awaited attachment pack has arrived! Merry Christmas!",
-          "FileID": 299655,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76924/76924-1703292873-1868730422.png",
-          "IsNSFW": false,
-          "ModID": 76924,
-          "Name": "The Attachment Pack (Version 1)",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lXlPk1cwJT8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73259\nfileID=284450",
-        "Name": "ToYourFaceFO4-73259-1-0-1690288779.zip",
-        "Size": 113986,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "underthesky and PK0",
-          "Description": "NPCs will not speak greetings towards the Nate/Nora\u0027s back. F4SE",
-          "FileID": 284450,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73259/73259-1690287667-263131278.png",
-          "IsNSFW": false,
-          "ModID": 73259,
-          "Name": "To Your Face FO4",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yIfvJ0JNodI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=61411\nfileID=333558",
-        "Name": "Legendaries They Can Use-61411-2-5-1726033836.7z",
-        "Size": 68212,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WhiskyTangoFox",
-          "Description": "Changes how legendary enemies get legendary items to actually make sense.",
-          "FileID": 333558,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61411/61411-1655503652-1263445432.jpeg",
-          "IsNSFW": false,
-          "ModID": 61411,
-          "Name": "Legendaries They Can Use",
-          "Version": "2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4worEYKy2mQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=335703",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-7-1727752409.7z",
-        "Size": 38663285,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Unofficial Patch Project Team",
-          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 335703,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
-          "IsNSFW": false,
-          "ModID": 4598,
-          "Name": "Unofficial Fallout 4 Patch - UFO4P",
-          "Version": "2.1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o4msXwmmYQ4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=336673",
-        "Name": "Buffout4 NG-64880-1-36-0-1728807293.7z",
-        "Size": 14601624,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
-          "FileID": 336673,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
-          "IsNSFW": false,
-          "ModID": 64880,
-          "Name": "Buffout 4 NG with PDB support",
-          "Version": "1.31.0"
         }
       }
     },
@@ -952,42 +763,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fip2JiSFxeY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=85755\nfileID=342531",
-        "Name": "Hit Those Objects-85755-2-0-2-1733933229.7z",
-        "Size": 4334,
+        "Hash": "ornwsVlAVAg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62975\nfileID=245809",
+        "Name": "ModernHouseLOD-62975-1-0-1659782210.zip",
+        "Size": 6312846,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "Adds contextual hit reactivity to various objects and items in the world.",
-          "FileID": 342531,
+          "Author": "Trsdib",
+          "Description": "Adds HD texture lod, made by hand.Install the files in the Data folder and run xLODGen.",
+          "FileID": 245809,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85755/85755-1721077880-1395477717.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62975/62975-1659780095-1401554908.png",
           "IsNSFW": false,
-          "ModID": 85755,
-          "Name": "Hit Those Objects",
-          "Version": "1.1.0"
+          "ModID": 62975,
+          "Name": "ModernHouseLOD",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WRR7uARaUeQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35661\nfileID=144981",
-        "Name": "Hair Specular Map Removal Thingy-35661-2-0-1541043541.zip",
-        "Size": 1362,
+        "Hash": "clQnMg7cn9M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72546\nfileID=285666",
+        "Name": "Enhanced Vanilla Armor and Clothing 2k-72546-1-2-1691287529.zip",
+        "Size": 2145361244,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeathWrench",
-          "Description": "The specular maps originally present on hair are buggy when under certain lighting. So I tracked them down and \u0022deleted\u0022 them by making them invisible, it doesn\u0027t fix it completely but it does help mitigate it a lot. New version that doesn\u0027t edit textures at all, but the material file, produces the same results.",
-          "FileID": 144981,
+          "Author": "DoubleYou",
+          "Description": "Enhanced Vanilla Clothing and Armor (EVAC) is a complete overhaul of the appearance of armor and clothing.",
+          "FileID": 285666,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35661/35661-1541037128-273718638.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72546/72546-1689178953-79671479.png",
           "IsNSFW": false,
-          "ModID": 35661,
-          "Name": "Hair Specular Map Removal Thingy",
-          "Version": "1.0"
+          "ModID": 72546,
+          "Name": "Enhanced Vanilla Armor and Clothing - EVAC",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dNyNZvgLKLY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53980\nfileID=215300",
+        "Name": "NPC Drinking Fix-53980-1-0-0-1629653826.7z",
+        "Size": 129974,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elzee",
+          "Description": "Vanilla NPC drinking animations are missing sounds and facial animations. This MOD fix this. For a little immersion.",
+          "FileID": 215300,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53980/53980-1629653474-1100547015.png",
+          "IsNSFW": false,
+          "ModID": 53980,
+          "Name": "NPC Drinking Fix",
+          "Version": "1.0.0"
         }
       }
     },
@@ -1057,42 +889,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ornwsVlAVAg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62975\nfileID=245809",
-        "Name": "ModernHouseLOD-62975-1-0-1659782210.zip",
-        "Size": 6312846,
+        "Hash": "SibpcXg1MQk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72904\nfileID=283994",
+        "Name": "Interior NavCut Fix-72904-1-0-3-1689890239.zip",
+        "Size": 3190161,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Trsdib",
-          "Description": "Adds HD texture lod, made by hand.Install the files in the Data folder and run xLODGen.",
-          "FileID": 245809,
+          "Author": "Snapdragon",
+          "Description": "Fixes the engine bug that causes workshop navmesh cuts to persist throughout all interior cells.",
+          "FileID": 283994,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62975/62975-1659780095-1401554908.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72904/72904-1689267366-1074876324.png",
           "IsNSFW": false,
-          "ModID": 62975,
-          "Name": "ModernHouseLOD",
-          "Version": "1.0"
+          "ModID": 72904,
+          "Name": "Interior NavCut Fix",
+          "Version": "1.0.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "clQnMg7cn9M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72546\nfileID=285666",
-        "Name": "Enhanced Vanilla Armor and Clothing 2k-72546-1-2-1691287529.zip",
-        "Size": 2145361244,
+        "Hash": "rUxo6imF4CY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75430\nfileID=329353",
+        "Name": "No Sneaking In Power Armor-75430-3-0-0-1722997359.zip",
+        "Size": 1794,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DoubleYou",
-          "Description": "Enhanced Vanilla Clothing and Armor (EVAC) is a complete overhaul of the appearance of armor and clothing.",
-          "FileID": 285666,
+          "Author": "bp42s",
+          "Description": "Sneaking is now far, far harder in power armor. Powered by Robco Patcher.",
+          "FileID": 329353,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72546/72546-1689178953-79671479.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75430/75430-1697580947-408233383.png",
           "IsNSFW": false,
-          "ModID": 72546,
-          "Name": "Enhanced Vanilla Armor and Clothing - EVAC",
-          "Version": "1.2"
+          "ModID": 75430,
+          "Name": "No Sneaking in Power Armor",
+          "Version": "1.0"
         }
       }
     },
@@ -1162,41 +994,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SibpcXg1MQk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72904\nfileID=283994",
-        "Name": "Interior NavCut Fix-72904-1-0-3-1689890239.zip",
-        "Size": 3190161,
+        "Hash": "8KsmA/7Mk6s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64795\nfileID=252346",
+        "Name": "New Swimming Anims  -  Standard-64795-1-0-1664804369.rar",
+        "Size": 21853,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Snapdragon",
-          "Description": "Fixes the engine bug that causes workshop navmesh cuts to persist throughout all interior cells.",
-          "FileID": 283994,
+          "Author": "934575829",
+          "Description": "Fully recreated neeher\u0027s swimming animations,reduce the camera bobbing.",
+          "FileID": 252346,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72904/72904-1689267366-1074876324.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64795/64795-1664764511-1719246417.jpeg",
           "IsNSFW": false,
-          "ModID": 72904,
-          "Name": "Interior NavCut Fix",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rUxo6imF4CY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75430\nfileID=329353",
-        "Name": "No Sneaking In Power Armor-75430-3-0-0-1722997359.zip",
-        "Size": 1794,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "Sneaking is now far, far harder in power armor. Powered by Robco Patcher.",
-          "FileID": 329353,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75430/75430-1697580947-408233383.png",
-          "IsNSFW": false,
-          "ModID": 75430,
-          "Name": "No Sneaking in Power Armor",
+          "ModID": 64795,
+          "Name": "First-Person Swimming Animations Tweak",
           "Version": "1.0"
         }
       }
@@ -1330,21 +1141,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8KsmA/7Mk6s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64795\nfileID=252346",
-        "Name": "New Swimming Anims  -  Standard-64795-1-0-1664804369.rar",
-        "Size": 21853,
+        "Hash": "ZYKd4Dn3zjU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=85053\nfileID=336001",
+        "Name": "Fixed Vanilla Sighted Additive Animations-85053-1-0-1728051287.7z",
+        "Size": 1621,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "934575829",
-          "Description": "Fully recreated neeher\u0027s swimming animations,reduce the camera bobbing.",
-          "FileID": 252346,
+          "Author": "CarbonWaffle",
+          "Description": "Mainly fixes movement direction locks, moving in wrong direction and other junk related to input in third person. Note that its not a panacea and there are still bugs left to fix. Subject to updates.",
+          "FileID": 336001,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64795/64795-1664764511-1719246417.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85053/85053-1719241313-914862091.png",
           "IsNSFW": false,
-          "ModID": 64795,
-          "Name": "First-Person Swimming Animations Tweak",
-          "Version": "1.0"
+          "ModID": 85053,
+          "Name": "Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)",
+          "Version": "0.95-beta"
         }
       }
     },
@@ -1435,41 +1246,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZYKd4Dn3zjU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=85053\nfileID=336001",
-        "Name": "Fixed Vanilla Sighted Additive Animations-85053-1-0-1728051287.7z",
-        "Size": 1621,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CarbonWaffle",
-          "Description": "Mainly fixes movement direction locks, moving in wrong direction and other junk related to input in third person. Note that its not a panacea and there are still bugs left to fix. Subject to updates.",
-          "FileID": 336001,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85053/85053-1719241313-914862091.png",
-          "IsNSFW": false,
-          "ModID": 85053,
-          "Name": "Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)",
-          "Version": "0.95-beta"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rV3uu+0Pa08=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=316511",
-        "Name": "Better Console-26582-v1-5-1-1715706512.7z",
-        "Size": 206488,
+        "Hash": "aPiVlapz4vc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=316517",
+        "Name": "Unlimited Survival Mode - F4SE-26163-v1-5-1-1715709285.7z",
+        "Size": 114324,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kassent",
-          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
-          "FileID": 316511,
+          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
+          "FileID": 316517,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
           "IsNSFW": false,
-          "ModID": 26582,
-          "Name": "Better Console - F4SE",
+          "ModID": 26163,
+          "Name": "Unlimited Survival Mode - F4SE",
           "Version": "v1.4.0"
         }
       }
@@ -1498,20 +1288,104 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aPiVlapz4vc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=316517",
-        "Name": "Unlimited Survival Mode - F4SE-26163-v1-5-1-1715709285.7z",
-        "Size": 114324,
+        "Hash": "cro2eWV39uo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=316412",
+        "Name": "Address Library - All In One-47327-AIO-1715667241.zip",
+        "Size": 42786126,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+          "FileID": 316412,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "IsNSFW": false,
+          "ModID": 47327,
+          "Name": "Address Library for F4SE Plugins",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eRaBcpxid4Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
+        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
+        "Size": 240029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shavkacagarikia",
+          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+          "FileID": 209407,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": "Bullet Counted Reload System (BCR)",
+          "Version": "2.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eCSytsZyhzQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84440\nfileID=342603",
+        "Name": "Assorted Modular Tweaks - ESPless-84440-1-3-2-1734025030.7z",
+        "Size": 8427,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bp42s - SoleVaultBoy",
+          "Description": "Compilation of small gameplay tweaks and fixes from various micro-mods, in one convenient, configurable, and modular ESPless package.",
+          "FileID": 342603,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84440/84440-1727474542-774505464.png",
+          "IsNSFW": false,
+          "ModID": 84440,
+          "Name": "Assorted Modular Tweaks - ESPless",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+pb6vgEUwlw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36205\nfileID=147205",
+        "Name": "General Atomics Mr Gutsy Guards-36205-1-0-1543864893.rar",
+        "Size": 240388,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LarannKiar",
+          "Description": "This mod fixes the silent Guard Gutsy robots at General Atmoics Galleria.",
+          "FileID": 147205,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36205/36205-1543772243-514221138.png",
+          "IsNSFW": false,
+          "ModID": 36205,
+          "Name": "General Atomics Galleria Speaking Guard Gutsy Voice Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rV3uu+0Pa08=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=316511",
+        "Name": "Better Console-26582-v1-5-1-1715706512.7z",
+        "Size": 206488,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kassent",
-          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
-          "FileID": 316517,
+          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+          "FileID": 316511,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
           "IsNSFW": false,
-          "ModID": 26163,
-          "Name": "Unlimited Survival Mode - F4SE",
+          "ModID": 26582,
+          "Name": "Better Console - F4SE",
           "Version": "v1.4.0"
         }
       }
@@ -1597,153 +1471,6 @@
           "ModID": 20775,
           "Name": "WET - Water Enhancement Textures",
           "Version": "2.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cro2eWV39uo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=316412",
-        "Name": "Address Library - All In One-47327-AIO-1715667241.zip",
-        "Size": 42786126,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
-          "FileID": 316412,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
-          "IsNSFW": false,
-          "ModID": 47327,
-          "Name": "Address Library for F4SE Plugins",
-          "Version": "1.10.163.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eRaBcpxid4Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
-        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
-        "Size": 240029,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shavkacagarikia",
-          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
-          "FileID": 209407,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
-          "IsNSFW": false,
-          "ModID": 41178,
-          "Name": "Bullet Counted Reload System (BCR)",
-          "Version": "2.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eCSytsZyhzQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84440\nfileID=342603",
-        "Name": "Assorted Modular Tweaks - ESPless-84440-1-3-2-1734025030.7z",
-        "Size": 8427,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s - SoleVaultBoy",
-          "Description": "Compilation of small gameplay tweaks and fixes from various micro-mods, in one convenient, configurable, and modular ESPless package.",
-          "FileID": 342603,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84440/84440-1727474542-774505464.png",
-          "IsNSFW": false,
-          "ModID": 84440,
-          "Name": "Assorted Modular Tweaks - ESPless",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vVweAMns0+U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=82222\nfileID=325104",
-        "Name": "Extended Fake Interior - CC Enclave Remnants Patch-82222-1-8-1-1719781230.7z",
-        "Size": 13269,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xeniu",
-          "Description": "Simple plugin that fixes various roofs around Commonwealth to properly cover you from the rain.",
-          "FileID": 325104,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82222%2F82222-1715004848-819357276.png",
-          "IsNSFW": false,
-          "ModID": 82222,
-          "Name": "Extended Fake Interiors - Commonwealth buildings fixes",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "U0VWUlE7ssc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63929\nfileID=250281",
-        "Name": "Legendary Mutation Messages Fix - Cut Content Restored-63929-1-1-1662876171.zip",
-        "Size": 712,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Crash",
-          "Description": "A small fix to restore unique messages when legendary enemies mutate.",
-          "FileID": 250281,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63929/63929-1691697804-836896167.png",
-          "IsNSFW": false,
-          "ModID": 63929,
-          "Name": "Legendary Mutation Messages Fix - Cut Content Restored",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5kCBxYPiaBM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=341539",
-        "Name": "Simple Creation Club Delayed NG-84393-1-0-6-1732792276.7z",
-        "Size": 13576,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SoleVaultBoy",
-          "Description": "Delays the start of the Next Gen Creation Club content until meet certain requirements.",
-          "FileID": 341539,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84393%2F84393-1718047059-2034869186.png",
-          "IsNSFW": false,
-          "ModID": 84393,
-          "Name": "Simple Creation Club Delayed NG",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Hw9aan1e+gI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=78925\nfileID=322904",
-        "Name": "You And What Army 2-78925-1-06-1718469624.zip",
-        "Size": 1989773,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game\u0027s world.",
-          "FileID": 322904,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/78925/78925-1712531017-643056661.png",
-          "IsNSFW": false,
-          "ModID": 78925,
-          "Name": "You And What Army 2",
-          "Version": "1.00"
         }
       }
     },
@@ -1855,6 +1582,111 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vVweAMns0+U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=82222\nfileID=325104",
+        "Name": "Extended Fake Interior - CC Enclave Remnants Patch-82222-1-8-1-1719781230.7z",
+        "Size": 13269,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xeniu",
+          "Description": "Simple plugin that fixes various roofs around Commonwealth to properly cover you from the rain.",
+          "FileID": 325104,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82222%2F82222-1715004848-819357276.png",
+          "IsNSFW": false,
+          "ModID": 82222,
+          "Name": "Extended Fake Interiors - Commonwealth buildings fixes",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U0VWUlE7ssc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63929\nfileID=250281",
+        "Name": "Legendary Mutation Messages Fix - Cut Content Restored-63929-1-1-1662876171.zip",
+        "Size": 712,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Crash",
+          "Description": "A small fix to restore unique messages when legendary enemies mutate.",
+          "FileID": 250281,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63929/63929-1691697804-836896167.png",
+          "IsNSFW": false,
+          "ModID": 63929,
+          "Name": "Legendary Mutation Messages Fix - Cut Content Restored",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5kCBxYPiaBM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=341539",
+        "Name": "Simple Creation Club Delayed NG-84393-1-0-6-1732792276.7z",
+        "Size": 13576,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Delays the start of the Next Gen Creation Club content until meet certain requirements.",
+          "FileID": 341539,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84393%2F84393-1718047059-2034869186.png",
+          "IsNSFW": false,
+          "ModID": 84393,
+          "Name": "Simple Creation Club Delayed NG",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Hw9aan1e+gI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=78925\nfileID=322904",
+        "Name": "You And What Army 2-78925-1-06-1718469624.zip",
+        "Size": 1989773,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glitchfinder",
+          "Description": "Expands the minutemen into a proper faction the player rebuilds by playing the game, complete with integration into the game\u0027s world.",
+          "FileID": 322904,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/78925/78925-1712531017-643056661.png",
+          "IsNSFW": false,
+          "ModID": 78925,
+          "Name": "You And What Army 2",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q9z4pA4Yqok=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=337030",
+        "Name": "X-Cell Fallout 4 1.5-b84-84214-1-5-b84-1729128349.zip",
+        "Size": 315816,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "perchik71",
+          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
+          "FileID": 337030,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
+          "IsNSFW": false,
+          "ModID": 84214,
+          "Name": "X-Cell Fallout 4",
+          "Version": "1.2-b2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UINNo1bpApQ=",
         "Meta": "[General]\ngameName=fallout4\nmodID=71990\nfileID=279796",
         "Name": "Diamond City Billboards-71990-1-01-1686254002.zip",
@@ -1918,84 +1750,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "q9z4pA4Yqok=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=337030",
-        "Name": "X-Cell Fallout 4 1.5-b84-84214-1-5-b84-1729128349.zip",
-        "Size": 315816,
+        "Hash": "maBWS+/0xz0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73333\nfileID=285200",
+        "Name": "Blocking Overhaul-73333-1-2-0-1690986813.zip",
+        "Size": 124823,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "perchik71",
-          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
-          "FileID": 337030,
+          "Author": "Zzyxzz",
+          "Description": "Fallout 4 melee combat will change forever. Blocking Overhaul revamps the Fallout 4s blocking system on the engine level.",
+          "FileID": 285200,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73333/73333-1690544783-1568673908.jpeg",
           "IsNSFW": false,
-          "ModID": 84214,
-          "Name": "X-Cell Fallout 4",
-          "Version": "1.2-b2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i7Qio2N1hYg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=74945\nfileID=340222",
-        "Name": "Community Fixes Merged - Weapon Mod Fixes Patch-74945-2-0-5-1731684557.7z",
-        "Size": 6086,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Community",
-          "Description": "A collection of fixes made by the community over the years, with open permissions.",
-          "FileID": 340222,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/74945/74945-1695487863-22784247.png",
-          "IsNSFW": false,
-          "ModID": 74945,
-          "Name": "Community Fixes Merged",
-          "Version": "2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WvkKX6EBISI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=82222\nfileID=325092",
-        "Name": "Extended Fake Interior DLC-82222-1-8-1-1719772087.7z",
-        "Size": 794414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xeniu",
-          "Description": "Simple plugin that fixes various roofs around Commonwealth to properly cover you from the rain.",
-          "FileID": 325092,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82222%2F82222-1715004848-819357276.png",
-          "IsNSFW": false,
-          "ModID": 82222,
-          "Name": "Extended Fake Interiors - Commonwealth buildings fixes",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CvWZU21renY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=11838\nfileID=47037",
-        "Name": "Less Annoying Berry Mentats-11838-1-0.zip",
-        "Size": 832,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Old Nick",
-          "Description": "Prevents the Berry Mentats effect from highlighting your current companion and disables the effect entirely while your weapon is holstered or you are in dialogue.\r\n\n\r\n\nAlso includes the fix to stop the effect from turning certain neutral NPCs hostile.",
-          "FileID": 47037,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11838-0-1460287986.jpg",
-          "IsNSFW": false,
-          "ModID": 11838,
-          "Name": "Less Annoying Berry Mentats",
-          "Version": "1.0"
+          "ModID": 73333,
+          "Name": "Blocking Overhaul",
+          "Version": "1.2.0"
         }
       }
     },
@@ -2080,6 +1849,174 @@
           "ModID": 44798,
           "Name": "High FPS Physics Fix",
           "Version": "0.8.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i7Qio2N1hYg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=74945\nfileID=340222",
+        "Name": "Community Fixes Merged - Weapon Mod Fixes Patch-74945-2-0-5-1731684557.7z",
+        "Size": 6086,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Community",
+          "Description": "A collection of fixes made by the community over the years, with open permissions.",
+          "FileID": 340222,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/74945/74945-1695487863-22784247.png",
+          "IsNSFW": false,
+          "ModID": 74945,
+          "Name": "Community Fixes Merged",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WvkKX6EBISI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=82222\nfileID=325092",
+        "Name": "Extended Fake Interior DLC-82222-1-8-1-1719772087.7z",
+        "Size": 794414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xeniu",
+          "Description": "Simple plugin that fixes various roofs around Commonwealth to properly cover you from the rain.",
+          "FileID": 325092,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82222%2F82222-1715004848-819357276.png",
+          "IsNSFW": false,
+          "ModID": 82222,
+          "Name": "Extended Fake Interiors - Commonwealth buildings fixes",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CvWZU21renY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11838\nfileID=47037",
+        "Name": "Less Annoying Berry Mentats-11838-1-0.zip",
+        "Size": 832,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Old Nick",
+          "Description": "Prevents the Berry Mentats effect from highlighting your current companion and disables the effect entirely while your weapon is holstered or you are in dialogue.\r\n\n\r\n\nAlso includes the fix to stop the effect from turning certain neutral NPCs hostile.",
+          "FileID": 47037,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11838-0-1460287986.jpg",
+          "IsNSFW": false,
+          "ModID": 11838,
+          "Name": "Less Annoying Berry Mentats",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6iGJYPFvk+M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=86290\nfileID=328666",
+        "Name": "Console Autocomplete-86290-1-0-0-1722455458.7z",
+        "Size": 2380395,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Adds command autocompletion to the in-game console.",
+          "FileID": 328666,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86290/86290-1722454630-1634506981.png",
+          "IsNSFW": false,
+          "ModID": 86290,
+          "Name": "Console Autocomplete",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WJFqBuJRGks=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45674\nfileID=184238",
+        "Name": "Encounter Zone Recalculation-45674-1-0-1592086483.zip",
+        "Size": 61527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ea6t",
+          "Description": "Allows encounter zone levels to be recalculated after initial entry.",
+          "FileID": 184238,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45674/45674-1592085691-594991857.png",
+          "IsNSFW": false,
+          "ModID": 45674,
+          "Name": "Encounter Zone Recalculation (Continuous Level Scaling)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EyXPOsfnXnk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=223112",
+        "Name": "LOD Terrain Noise and Detail Normals-56138-1-0-1638704425.7z",
+        "Size": 1233829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phlunder",
+          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
+          "FileID": 223112,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
+          "IsNSFW": false,
+          "ModID": 56138,
+          "Name": "HD LOD Textures",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3JsbwjVd1kQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64426\nfileID=252499",
+        "Name": "AmmoRemover v1.0.5-64426-1-0-5-1664930424.rar",
+        "Size": 53173,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ScottyDoesKnow",
+          "Description": "Removes ammo from guns on corpses and adds it to the corpse\u0027s inventory.",
+          "FileID": 252499,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64426/64426-1663981183-1719603656.png",
+          "IsNSFW": false,
+          "ModID": 64426,
+          "Name": "Remove Ammo from Dropped Guns",
+          "Version": "1.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tx/Rc3++Th0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75292\nfileID=291539",
+        "Name": "Simple Offence Suppression F4SE-75292-1-0-1697083422.7z",
+        "Size": 189834,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "F4SE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
+          "FileID": 291539,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75292/75292-1697083300-1292132501.png",
+          "IsNSFW": false,
+          "ModID": 75292,
+          "Name": "Simple Offence Suppression F4",
+          "Version": "1.0"
         }
       }
     },
@@ -2212,105 +2149,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6iGJYPFvk+M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=86290\nfileID=328666",
-        "Name": "Console Autocomplete-86290-1-0-0-1722455458.7z",
-        "Size": 2380395,
+        "Hash": "2PBrWM0Wai4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=74160\nfileID=342138",
+        "Name": "Garden of Eden Papyrus Script Extender-74160-19-3-1733440217.zip",
+        "Size": 912035,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SoleVaultBoy",
-          "Description": "Adds command autocompletion to the in-game console.",
-          "FileID": 328666,
+          "Author": "LarannKiar",
+          "Description": "F4SE plugin that extends the capabilites of the game\u0027s scripting language with over 510 new native functions.",
+          "FileID": 342138,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86290/86290-1722454630-1634506981.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/74160/74160-1692823324-1408658065.png",
           "IsNSFW": false,
-          "ModID": 86290,
-          "Name": "Console Autocomplete",
-          "Version": "1.0.0"
+          "ModID": 74160,
+          "Name": "Garden of Eden Papyrus Script Extender",
+          "Version": "13.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WJFqBuJRGks=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=45674\nfileID=184238",
-        "Name": "Encounter Zone Recalculation-45674-1-0-1592086483.zip",
-        "Size": 61527,
+        "Hash": "lW3FRlg9Ivk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=85053\nfileID=336419",
+        "Name": "Main File-85053-1-10-1728505810.7z",
+        "Size": 83930,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ea6t",
-          "Description": "Allows encounter zone levels to be recalculated after initial entry.",
-          "FileID": 184238,
+          "Author": "CarbonWaffle",
+          "Description": "Mainly fixes movement direction locks, moving in wrong direction and other junk related to input in third person. Note that its not a panacea and there are still bugs left to fix. Subject to updates.",
+          "FileID": 336419,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45674/45674-1592085691-594991857.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85053/85053-1719241313-914862091.png",
           "IsNSFW": false,
-          "ModID": 45674,
-          "Name": "Encounter Zone Recalculation (Continuous Level Scaling)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EyXPOsfnXnk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=223112",
-        "Name": "LOD Terrain Noise and Detail Normals-56138-1-0-1638704425.7z",
-        "Size": 1233829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phlunder",
-          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
-          "FileID": 223112,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
-          "IsNSFW": false,
-          "ModID": 56138,
-          "Name": "HD LOD Textures",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3JsbwjVd1kQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64426\nfileID=252499",
-        "Name": "AmmoRemover v1.0.5-64426-1-0-5-1664930424.rar",
-        "Size": 53173,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ScottyDoesKnow",
-          "Description": "Removes ammo from guns on corpses and adds it to the corpse\u0027s inventory.",
-          "FileID": 252499,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64426/64426-1663981183-1719603656.png",
-          "IsNSFW": false,
-          "ModID": 64426,
-          "Name": "Remove Ammo from Dropped Guns",
-          "Version": "1.0.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tx/Rc3++Th0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75292\nfileID=291539",
-        "Name": "Simple Offence Suppression F4SE-75292-1-0-1697083422.7z",
-        "Size": 189834,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "F4SE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
-          "FileID": 291539,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75292/75292-1697083300-1292132501.png",
-          "IsNSFW": false,
-          "ModID": 75292,
-          "Name": "Simple Offence Suppression F4",
-          "Version": "1.0"
+          "ModID": 85053,
+          "Name": "Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)",
+          "Version": "0.95-beta"
         }
       }
     },
@@ -2353,132 +2227,6 @@
           "ModID": 41568,
           "Name": "WAVE - Wave Animation Vanilla Enhanced",
           "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lW3FRlg9Ivk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=85053\nfileID=336419",
-        "Name": "Main File-85053-1-10-1728505810.7z",
-        "Size": 83930,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CarbonWaffle",
-          "Description": "Mainly fixes movement direction locks, moving in wrong direction and other junk related to input in third person. Note that its not a panacea and there are still bugs left to fix. Subject to updates.",
-          "FileID": 336419,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85053/85053-1719241313-914862091.png",
-          "IsNSFW": false,
-          "ModID": 85053,
-          "Name": "Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)",
-          "Version": "0.95-beta"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p3Kf8JyK/qo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=80888\nfileID=310875",
-        "Name": "Companion Jump Fall Pose Fix-80888-1-0-1713569968.zip",
-        "Size": 6627,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LarannKiar",
-          "Description": "Bug fix for the \u0022companions stuck in falling pose\u0022 bug.",
-          "FileID": 310875,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80888/80888-1713569114-1415819052.jpeg",
-          "IsNSFW": false,
-          "ModID": 80888,
-          "Name": "Companion Jump Fall Pose Fix - F4SE - Garden of Eden SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Iu49Q7Sipgw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=79543\nfileID=306450",
-        "Name": "Dogmeat Follow Behind-79543-1-1710147746.7z",
-        "Size": 585,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kraag",
-          "Description": "Makes Dogmeat travel behind you instead of out in front. Simple, lightweight and ESPFE.",
-          "FileID": 306450,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79543/79543-1710147791-723354028.png",
-          "IsNSFW": false,
-          "ModID": 79543,
-          "Name": "Dogmeat Follow Behind",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GER9IMpA0Lw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62240\nfileID=244135",
-        "Name": "Running Hands ESL 1.1-62240-1-1-1658520716.zip",
-        "Size": 9638,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neeher",
-          "Description": "Simply adds arms to the first person running animations, open and closed hand styles available. Includes Power Armor. Archive, loose files, or empty ESL versions.",
-          "FileID": 244135,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62240/62240-1657951233-332819416.jpeg",
-          "IsNSFW": false,
-          "ModID": 62240,
-          "Name": "First-Person Running with Hands Animations",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "U/dVVR3dq1E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=82195\nfileID=314438",
-        "Name": "Lightweight Lighting - Radstorm Restored-82195-4-0-1714927425.7z",
-        "Size": 20903,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Revert the change made to radstorms by lightweight lighting so they still appear in the commonwealth at the vanilla frequency, also delete the \u0022Polluted\u0022 type weather.",
-          "FileID": 314438,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82195/82195-1714920560-2118161027.png",
-          "IsNSFW": false,
-          "ModID": 82195,
-          "Name": "Lightweight Lighting - Radstorm Restored",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kX3njXAuZC0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53597\nfileID=316512",
-        "Name": "Misc anim tweaks and fixes-53597-1-6-1-1715706661.7z",
-        "Size": 12177847,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "akir4",
-          "Description": "Small animation tweaks and fixes.",
-          "FileID": 316512,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53597/53597-1633718688-1268051978.jpeg",
-          "IsNSFW": false,
-          "ModID": 53597,
-          "Name": "Misc anim tweaks and fixes",
-          "Version": "1.5"
         }
       }
     },
@@ -2569,6 +2317,174 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "w5XoK4YdP7I=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=82592\nfileID=340295",
+        "Name": "Hit Those Explosives-82592-1-6-0-1731709845.7z",
+        "Size": 2328,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Hitting explosive weapons and ammo will now cause them to explode, allowing for chain reactions for total destruction.",
+          "FileID": 340295,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82592/82592-1715455445-2086026895.png",
+          "IsNSFW": false,
+          "ModID": 82592,
+          "Name": "Hit Those Explosives",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p3Kf8JyK/qo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=80888\nfileID=310875",
+        "Name": "Companion Jump Fall Pose Fix-80888-1-0-1713569968.zip",
+        "Size": 6627,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LarannKiar",
+          "Description": "Bug fix for the \u0022companions stuck in falling pose\u0022 bug.",
+          "FileID": 310875,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80888/80888-1713569114-1415819052.jpeg",
+          "IsNSFW": false,
+          "ModID": 80888,
+          "Name": "Companion Jump Fall Pose Fix - F4SE - Garden of Eden SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Iu49Q7Sipgw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=79543\nfileID=306450",
+        "Name": "Dogmeat Follow Behind-79543-1-1710147746.7z",
+        "Size": 585,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kraag",
+          "Description": "Makes Dogmeat travel behind you instead of out in front. Simple, lightweight and ESPFE.",
+          "FileID": 306450,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79543/79543-1710147791-723354028.png",
+          "IsNSFW": false,
+          "ModID": 79543,
+          "Name": "Dogmeat Follow Behind",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GER9IMpA0Lw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62240\nfileID=244135",
+        "Name": "Running Hands ESL 1.1-62240-1-1-1658520716.zip",
+        "Size": 9638,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neeher",
+          "Description": "Simply adds arms to the first person running animations, open and closed hand styles available. Includes Power Armor. Archive, loose files, or empty ESL versions.",
+          "FileID": 244135,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62240/62240-1657951233-332819416.jpeg",
+          "IsNSFW": false,
+          "ModID": 62240,
+          "Name": "First-Person Running with Hands Animations",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l96wffObpro=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=79726\nfileID=329089",
+        "Name": "Hostile NPC Respawn Fix ESL-79726-1-4-1722784466.zip",
+        "Size": 17951,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LarannKiar",
+          "Description": "Fixes a few issues that prevent hostile NPCs from respawning after a while.",
+          "FileID": 329089,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79726/79726-1710728123-1527145216.jpeg",
+          "IsNSFW": false,
+          "ModID": 79726,
+          "Name": "Hostile NPC Respawn Fix - F4SE - Garden of Eden SE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U/dVVR3dq1E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=82195\nfileID=314438",
+        "Name": "Lightweight Lighting - Radstorm Restored-82195-4-0-1714927425.7z",
+        "Size": 20903,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Revert the change made to radstorms by lightweight lighting so they still appear in the commonwealth at the vanilla frequency, also delete the \u0022Polluted\u0022 type weather.",
+          "FileID": 314438,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82195/82195-1714920560-2118161027.png",
+          "IsNSFW": false,
+          "ModID": 82195,
+          "Name": "Lightweight Lighting - Radstorm Restored",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kX3njXAuZC0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53597\nfileID=316512",
+        "Name": "Misc anim tweaks and fixes-53597-1-6-1-1715706661.7z",
+        "Size": 12177847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "akir4",
+          "Description": "Small animation tweaks and fixes.",
+          "FileID": 316512,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53597/53597-1633718688-1268051978.jpeg",
+          "IsNSFW": false,
+          "ModID": 53597,
+          "Name": "Misc anim tweaks and fixes",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6Wql/l6hLVI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
+        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+        "Size": 145150,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
+          "FileID": 172411,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
+          "IsNSFW": false,
+          "ModID": 27479,
+          "Name": "Crafting Highlight Fix",
+          "Version": "1.8.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "pew4HUER5YM=",
         "Meta": "[General]\ngameName=fallout4\nmodID=57838\nfileID=228595",
         "Name": "Cinematic Legendary Slow Time-57838-1-0-0-1643962427.7z",
@@ -2584,6 +2500,90 @@
           "ModID": 57838,
           "Name": "Deadeye Weapon Effect Fix",
           "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YaiR4Ufvhoo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60074\nfileID=236353",
+        "Name": "Random Encounter Framework-60074-1-01-1651337467.zip",
+        "Size": 4676,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glitchfinder",
+          "Description": "A simple framework that allows mod authors to safely use the base game\u0027s random encounter story manager.",
+          "FileID": 236353,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60074/60074-1651191503-792821491.png",
+          "IsNSFW": false,
+          "ModID": 60074,
+          "Name": "Random Encounter Framework",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ByPA6mHEcP8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122471",
+        "Name": "Depth of Field Effect ESP-29922-1-0.zip",
+        "Size": 877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deleted29017635",
+          "Description": "Overlay replacement for the standard aim through scope effect and reticles (Ballistic and plasma rifle scope only).",
+          "FileID": 122471,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29922/29922-1518907973-1172895636.png",
+          "IsNSFW": false,
+          "ModID": 29922,
+          "Name": "Sniper Scope Overlay And Reticles Replacement",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3/k54bJm11s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=337014",
+        "Name": "1 - Keep Radiants in the Commonwealth Patch-59019-1-11-1729120929.zip",
+        "Size": 15061,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glitchfinder",
+          "Description": "A mod for players who dislike being asked to report back to Preston Garvey.",
+          "FileID": 337014,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59019/59019-1650834121-1822255204.png",
+          "IsNSFW": false,
+          "ModID": 59019,
+          "Name": "Who\u0027s The General - Minutemen Quest Cleanup",
+          "Version": "1.05"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ume9hjtjdTg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122365",
+        "Name": "Sniper Scope Overlay And Reticle Replacement-29922-1-0.zip",
+        "Size": 60340,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deleted29017635",
+          "Description": "Overlay replacement for the standard aim through scope effect and reticles (Ballistic and plasma rifle scope only).",
+          "FileID": 122365,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29922/29922-1518907973-1172895636.png",
+          "IsNSFW": false,
+          "ModID": 29922,
+          "Name": "Sniper Scope Overlay And Reticles Replacement",
+          "Version": "1.0"
         }
       }
     }
