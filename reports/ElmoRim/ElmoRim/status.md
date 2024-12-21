@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (422)
+### Valid (424)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -47,6 +47,7 @@
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
+*  [Auto Input Switch-54309-1-1-2-1630404989.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=225158)
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
 *  [Autorun-45451-1-0-1612756843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45451/?tab=files&file_id=184691)
 *  [Autosave After Combat-119324-0-0-3-1721989023.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119324/?tab=files&file_id=525098)
@@ -93,6 +94,7 @@
 *  [creation_organizer-1.1.0-66329-1-1-0-1704763830.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66329/?tab=files&file_id=459388)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
 *  [curationclub-1.1.0a.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/curationclub/curationclub.1.1.0.zip)
+*  [customControl_0_1_0-16057-0-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16057/?tab=files&file_id=49153)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
