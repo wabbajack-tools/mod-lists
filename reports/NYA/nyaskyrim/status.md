@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3414)
+### Valid (3415)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [- Vivid Eyes - Abyss Pack-74410-1-0-2-1661983152.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312090)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -2985,6 +2985,7 @@
 *  [Stay Save. Stay Sexy-116145-1-01-1712775258.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116145/?tab=files&file_id=489332)
 *  [STB Widget Revamp-136670-1-2-1734743283.rar](https://www.nexusmods.com/skyrimspecialedition/mods/136670/?tab=files&file_id=574414)
 *  [STB Widgets-136148-1-2-1734801965.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=574650)
+*  [STB Widgets-136148-1-3-1735039616.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=575640)
 *  [Stealth Meter Tweak - Settings Loader-64212-1-0-0-1645800993.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64212/?tab=files&file_id=266670)
 *  [StealthMeterTweak-se-28511-1-1-1566759142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28511/?tab=files&file_id=104316)
 *  steam_api64.dll
