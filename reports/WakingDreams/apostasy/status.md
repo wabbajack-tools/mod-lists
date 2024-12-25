@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3168)
+### Valid (3169)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
@@ -152,7 +152,7 @@
 *  [Alternate Perspective - Solstheim Fix-112709-1-0-1709064474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112709/?tab=files&file_id=475187)
 *  [Alternate Perspective - Voiced Addon-96865-1-11-1727908722.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96865/?tab=files&file_id=548465)
 *  [Alternate Perspective-50307-3-1-0-1718214257.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=510955)
-*  [Alternate Perspective-50307-4-0-2-1730498640.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=557981)
+*  [Alternate Perspective-50307-4-0-3-1731841209.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=563201)
 *  [Alternate Texture - Dirtier-132480-1-0-1-1730313257.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132480/?tab=files&file_id=557241)
 *  [Alternative Snowy 2K-69403-1-2-1665598161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69403/?tab=files&file_id=323543)
 *  [Am Chubby - Bodyslide Preset-88735-1-0-1680899281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88735/?tab=files&file_id=376120)
@@ -592,6 +592,7 @@
 *  [Dark Witch Armor-112260-1-4-1711577253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112260/?tab=files&file_id=484714)
 *  [Darkend 2K-104528-1-10-1699895199.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104528/?tab=files&file_id=442318)
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-3-1683869859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=387217)
+*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
@@ -779,7 +780,7 @@
 *  [Dynamic Dodge Shot-114101-1-5-1712415038.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114101/?tab=files&file_id=488033)
 *  [Dynamic Dodge-79598-1-5-1695708046.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79598/?tab=files&file_id=429066)
 *  [Dynamic Impact - Slash Effects X-86071-1-20b-1701505263.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86071/?tab=files&file_id=448056)
-*  [Dynamic Interface Patcher-96891-v2-1-3-1732138632.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96891/?tab=files&file_id=564379)
+*  [Dynamic Interface Patcher-96891-v2-1-4-1734298812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96891/?tab=files&file_id=572793)
 *  [Dynamic Looting and Harvesting-114547-1-7-1715257460.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114547/?tab=files&file_id=499397)
 *  [Dynamic Random Dragons-94410-2-0-1716157254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94410/?tab=files&file_id=502915)
 *  [Dynamic Sprint-95561-2-4-1723896283.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95561/?tab=files&file_id=532310)
