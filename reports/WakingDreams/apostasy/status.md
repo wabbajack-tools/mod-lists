@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3169)
+### Valid (3168)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
@@ -592,7 +592,6 @@
 *  [Dark Witch Armor-112260-1-4-1711577253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112260/?tab=files&file_id=484714)
 *  [Darkend 2K-104528-1-10-1699895199.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104528/?tab=files&file_id=442318)
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-3-1683869859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=387217)
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
