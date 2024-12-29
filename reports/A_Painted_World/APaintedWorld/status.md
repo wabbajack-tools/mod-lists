@@ -88,7 +88,6 @@
 *  [Addon SoB 341 ENG-20572-3-4-1.7z](https://www.nexusmods.com/oblivion/mods/20572/?tab=files&file_id=74305)
 *  [AgarVariedSpellSounds-14799.zip](https://www.nexusmods.com/oblivion/mods/14799/?tab=files&file_id=19194)
 *  [AI Enhanced - Elsweyr Desert of Anequina Textures-52131-1-0-1656989398.rar](https://www.nexusmods.com/oblivion/mods/52131/?tab=files&file_id=1000031700)
-*  [AI Enhanced - Oblivion Character Overhaul v203 Textures-52135-1-0-1657042577.rar](https://www.nexusmods.com/oblivion/mods/52135/?tab=files&file_id=1000031704)
 *  [AI Voice Addon for Mages Guild Quests (11Labs)-53409-1-1-1695763917.rar](https://www.nexusmods.com/oblivion/mods/53409/?tab=files&file_id=1000036279)
 *  [AI Voice Addon for Mudwater (11Labs)-53391-1-3-1696199741.rar](https://www.nexusmods.com/oblivion/mods/53391/?tab=files&file_id=1000036327)
 *  [AI Voice Addon for The Well of Minlorada (11Labs)-53401-1-1-1695577318.rar](https://www.nexusmods.com/oblivion/mods/53401/?tab=files&file_id=1000036268)
@@ -266,6 +265,7 @@
 *  [Daedroth Reptilian 2K-54407-1-0-1725564304.7z](https://www.nexusmods.com/oblivion/mods/54407/?tab=files&file_id=1000039307)
 *  [Dahyka's Vanilla Racials and Birthsigns Improvedv2.2-47639-2-2.rar](https://www.nexusmods.com/oblivion/mods/47639/?tab=files&file_id=1000016680)
 *  [Dark Ebony Gold-52881-1-1-1681408231.7z](https://www.nexusmods.com/oblivion/mods/52881/?tab=files&file_id=1000034391)
+*  [Dark Elf Fix for Better Necks for OCOv2-53477-1-0-1697416536.7z](https://www.nexusmods.com/oblivion/mods/53477/?tab=files&file_id=1000036504)
 *  [Darker and Bloody Daedric Equipment-52887-2-0-1685114622.7z](https://www.nexusmods.com/oblivion/mods/52887/?tab=files&file_id=1000034771)
 *  [DarNified UI 132 7z Archive-10763.7z](https://www.nexusmods.com/oblivion/mods/10763/?tab=files&file_id=34632)
 *  Data_Credits.txt

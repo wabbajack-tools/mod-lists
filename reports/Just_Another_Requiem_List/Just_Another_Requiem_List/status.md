@@ -4,11 +4,12 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (693)
+### Valid (695)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
+*  [1 - DynDOLOD DLL SE - Scripts-57264-2-82-9-1714234014.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=495330)
 *  [1. Majestic Mountains Main File-11052-4-02-1665910537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=324452)
 *  [1Atronach-82382-1-1673278055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82382/?tab=files&file_id=348079)
 *  [1k - Green-91449-1-0-0-1684192471.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91449/?tab=files&file_id=388497)
@@ -148,6 +149,7 @@
 *  [Creation Club - Widescreen Fix-1778-2-0-1592665361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146621)
 *  CreationKit.exe
 *  CreationKit.ini
+*  CreationKitPrefs.ini
 *  [CreepClusterFIX-35207-1-0-1587872723.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35207/?tab=files&file_id=136360)
 *  [Creepy Chaurus Eggs SE-22894-1-0-1548375387.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22894/?tab=files&file_id=79524)
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
