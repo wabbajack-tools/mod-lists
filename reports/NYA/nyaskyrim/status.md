@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3423)
+### Valid (3419)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [- Vivid Eyes - Abyss Pack-74410-1-0-2-1661983152.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312090)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -273,7 +273,6 @@
 *  [AnimObject Swapper-75167-1-1-0-1666410165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=325663)
 *  [Animunculi - Dwarven Sphere SFX Redesigned (Aggressive Version) --87528-1-1-1679432314.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87528/?tab=files&file_id=370809)
 *  [Animunculi - Dwarven Spider SFX Redesigned --90638-1-0-1683201736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90638/?tab=files&file_id=384582)
-*  [Aniya - A Custom Voiced Follower - v0.5.6-63208-0-5-6-1735065659.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63208/?tab=files&file_id=575747)
 *  [Aniya - A Custom Voiced Follower - v0.5.6.1-63208-v0-5-6-1-1735266033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63208/?tab=files&file_id=576386)
 *  [Aniya - Chooey's Choice-122983-2-0-0-1725708013.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122983/?tab=files&file_id=539601)
 *  [Aniya - Chooey's Choice-122983-2-0-1-1728484412.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122983/?tab=files&file_id=550484)
@@ -402,7 +401,7 @@
 *  [Based Boar 2K-1K-55073-1-0-1630755213.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55073/?tab=files&file_id=226058)
 *  [Bash Bug Fix-83581-3-0-0-1677373489.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83581/?tab=files&file_id=363399)
 *  [Basic Dining Set Replacer 2k-30055-1-0-1572348970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30055/?tab=files&file_id=111777)
-*  [Bathing in Skyrim - Renewed-135288-2-0-0-1733181056.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135288/?tab=files&file_id=568426)
+*  [Bathing in Skyrim - Renewed-135288-2-2-0-1735245772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135288/?tab=files&file_id=576316)
 *  [BBB1K - Better Browner Bread 1k-11113-1-1-1603185027.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11113/?tab=files&file_id=166258)
 *  [BCC-SkyUI-ESL-v31-25271-3-1-1638044938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25271/?tab=files&file_id=244867)
 *  [Beach MX - a Tinraa Body-94324-1-0-1687731737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94324/?tab=files&file_id=401047)
@@ -696,6 +695,7 @@
 *  [Cryomancy - Custom Skill Tree-121265-1-0-2-1717717743.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121265/?tab=files&file_id=509156)
 *  [crystal golem 2.1 sse-24591-2-1-1640105038.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24591/?tab=files&file_id=250791)
 *  [Crystalwind Estate V5-62955-5-0-1663918682.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62955/?tab=files&file_id=318677)
+*  [Crystalwind Estate V6-62955-6-1728110816.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62955/?tab=files&file_id=549179)
 *  [Cubes of Magnus-120018-1-0-1716344704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120018/?tab=files&file_id=503702)
 *  [Custom Map Markers for Traditional Skyrim and Solstheim Paper Maps-64777-1-0-1-1647392574.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64777/?tab=files&file_id=270421)
 *  [Custom Skill - HandToHand v11a-46425-1-1-a-1678990821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46425/?tab=files&file_id=369148)
@@ -900,14 +900,7 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
-*  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Textures6.bsa
-*  Data_Skyrim - Textures7.bsa
-*  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
@@ -1989,7 +1982,7 @@
 *  [Lydia of Whiterun - SerketHetyt's Housecarls-127167-1-0-1724126808.rar](https://www.nexusmods.com/skyrimspecialedition/mods/127167/?tab=files&file_id=533407)
 *  [Lyru's Tattoo pack collection 2-113993-1-0-1669923978.7z](https://www.nexusmods.com/skyrim/mods/113993/?tab=files&file_id=1000359189)
 *  [Lyru's Tattoo pack collection-75222-1-10-1669247669.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75222/?tab=files&file_id=334028)
-*  [Lyssia - Chooey's Choice-105910-1-0-0-1701388235.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105910/?tab=files&file_id=447575)
+*  [Lyssia - Chooey's Choice-105910-1-3-1-1734630126.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105910/?tab=files&file_id=573978)
 *  [Lyssia - SexLab-95253-1-0-1688721104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95253/?tab=files&file_id=404614)
 *  [Lyssia-92898-2-1-1692182559.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92898/?tab=files&file_id=417598)
 *  [Madness and Order-99144-3-3-1708384448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99144/?tab=files&file_id=472726)
@@ -2945,6 +2938,7 @@
 *  [Sovngarde Paper Map for FWMF-54255-1-72-1675262228.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54255/?tab=files&file_id=355256)
 *  [Sparkles-8936-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8936/?tab=files&file_id=22636)
 *  [Spartan Hoplite Female Version - CBBE 3BA-91257-1-2-1693949721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91257/?tab=files&file_id=423606)
+*  [SPE-115164-2-1-3-1732901078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115164/?tab=files&file_id=567325)
 *  [Spear of Skyrim-89785-1-0-1682181028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89785/?tab=files&file_id=380896)
 *  [Spectris - Illusion Spell Audio-95636-0-1-1689103945.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95636/?tab=files&file_id=406245)
 *  [Spell Knight Armor Overhaul - Divergence-103165-1-1-1698261832.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103165/?tab=files&file_id=437039)
@@ -3057,6 +3051,7 @@
 *  [Tel Mithryn Overhaul - Parallax Meshes-100397-1-1-1700029293.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=442757)
 *  [Temptations Body - 3BA 3BBB CBBE Bodyslide Preset-95868-1-0-1689385899.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95868/?tab=files&file_id=407128)
 *  [Tent -No Collision - JPSteel2's Mesh-101359-1-0-1696601012.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101359/?tab=files&file_id=431607)
+*  [Terra Umbra Fixes and QoL 1.1-48449-1-1-1-1618852420.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48449/?tab=files&file_id=199086)
 *  [Terra Umbra SSE-23845-1-0-1551506328.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23845/?tab=files&file_id=83480)
 *  [Terrain Parallax 1.5 - 4K2K-54860-1-5-1670317926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54860/?tab=files&file_id=338096)
 *  [Terrain Parallax Blending Fix FOMOD-88261-4-3-0-1718080283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88261/?tab=files&file_id=510463)
@@ -3268,6 +3263,7 @@
 *  [Vanilla hair remake SMP-63979-0-7-1658534797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63979/?tab=files&file_id=301289)
 *  [Vanilla HDR-76521-1-1-1-1665265181.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76521/?tab=files&file_id=322573)
 *  [Vanilla Item Descriptions-105970-1-1-1701739804.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105970/?tab=files&file_id=448903)
+*  [Vanilla Player Homes Revamped-118675-1-3-1716563647.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118675/?tab=files&file_id=504408)
 *  [Vanilla version-92592-1-0-1699848742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92592/?tab=files&file_id=442199)
 *  [Vanilla Warpaints Absolution - FOMOD Installer - All Inclusive-20751-1-4-1540581882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20751/?tab=files&file_id=70357)
 *  [Varied Chests SE-44447-0-91-1611001333.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44447/?tab=files&file_id=180316)
