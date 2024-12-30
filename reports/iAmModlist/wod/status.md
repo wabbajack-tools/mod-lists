@@ -634,7 +634,7 @@
 *  [Kunio Face Preset V1-24028-1.rar](https://www.nexusmods.com/fallout4/mods/24028/?tab=files&file_id=99029)
 *  [Kunio Face Preset-24028-1.rar](https://www.nexusmods.com/fallout4/mods/24028/?tab=files&file_id=97871)
 *  [Kunio V3-24028-1.rar](https://www.nexusmods.com/fallout4/mods/24028/?tab=files&file_id=100367)
-*  [Kziitd Fetish Toolset 1.0 Beta 2.4.7z](https://www.loverslab.com/files/file/32791-kft-kziitd-fetish-toolset/)
+*  [Kziitd Fetish Toolset 1.0 Beta 3.7z](https://www.loverslab.com/files/file/32791-kft-kziitd-fetish-toolset/)
 *  [KziitdFusionGirlSkin_130_ALL.rar](https://www.loverslab.com/files/file/16973-fusion-girls-non-realistic-skin/)
 *  [Langleys HD Textures Workshop-1897-0-8.7z](https://www.nexusmods.com/fallout4/mods/1897/?tab=files&file_id=47589)
 *  [Laser Bolt FX FO4 v1.2 FOMOD Install FIXED-8513-1-2.zip](https://www.nexusmods.com/fallout4/mods/8513/?tab=files&file_id=37119)
