@@ -64,7 +64,7 @@
 *  [AAF_AutonomyEnhanced_v3.305beta.7z](https://www.loverslab.com/files/file/17954-aaf-autonomy-enhanced-redux/)
 *  [AAF_SEU_V1.19.7z](https://www.loverslab.com/files/file/7281-aaf-sex-em-up)
 *  [AAF_VanillaKinkyCreatureAnimations_Themes_V210819.0.7z](https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/)
-*  [AAF_Violate_V1.60 FOMOD.7z](https://www.loverslab.com/files/file/6657-aaf-violate/)
+*  [AAF_Violate_V1.61 FOMOD.7z](https://www.loverslab.com/files/file/6657-aaf-violate/)
 *  [AAF-Creature-Resources v1.1.6-1.7z](https://www.loverslab.com/files/file/9465-aaf-creature-resources/)
 *  [aBitBetterRaidersFaces_1.4.5-64850-1-4-5-1724605491.7z](https://www.nexusmods.com/fallout4/mods/64850/?tab=files&file_id=331679)
 *  [aBitPrettierBOSFaces 1.1-71961-1-1-1707401344.7z](https://www.nexusmods.com/fallout4/mods/71961/?tab=files&file_id=302861)
