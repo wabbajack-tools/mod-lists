@@ -17,7 +17,7 @@
 *  [Apartment Cats - Northside Motel-6379-2-2-0-1710981729.zip](https://www.nexusmods.com/cyberpunk2077/mods/6379/?tab=files&file_id=72411)
 *  [Apartment Cats - The Glen-6276-2-1-0-1710981789.zip](https://www.nexusmods.com/cyberpunk2077/mods/6276/?tab=files&file_id=72413)
 *  [Apartment Cats Customs - Base files-6837-1-2-0-1697984181.zip](https://www.nexusmods.com/cyberpunk2077/mods/6837/?tab=files&file_id=54315)
-*  [ArchiveXL-4198-1-19-3-1736096873.zip](https://www.nexusmods.com/cyberpunk2077/mods/4198/?tab=files&file_id=96868)
+*  [ArchiveXL-4198-1-19-4-1736120429.zip](https://www.nexusmods.com/cyberpunk2077/mods/4198/?tab=files&file_id=96892)
 *  [Artistic-13066-1-3--3-1735706030.zip](https://www.nexusmods.com/cyberpunk2077/mods/13066/?tab=files&file_id=96384)
 *  [Aurore Romanced (Lady Marmalade)-11097-1-2-0-1716730213.zip](https://www.nexusmods.com/cyberpunk2077/mods/11097/?tab=files&file_id=78574)
 *  [Authentic Shift v2.12.39-6823-2-12-39-1701849057.zip](https://www.nexusmods.com/cyberpunk2077/mods/6823/?tab=files&file_id=59975)
