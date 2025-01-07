@@ -1,10 +1,11 @@
 ## Validation Report - Twisted Skyrim (TwistedModdingLists/TwistedSkyrim)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Kaidan Extended All-In-One 3.0.4C.7z](https://drive.google.com/uc?id=1px_bs2dGWMWODO0hqAu1ivIhlzatbct9&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3622)
+### Valid (3621)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -1844,7 +1845,6 @@
 *  [Kaidan 2 - IF - Misc Overhauls Patches Fomod-133800-1-1-1731528677.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133800/?tab=files&file_id=561936)
 *  [Kaidan 2.1.1-19075-2-1-1-1571995302.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19075/?tab=files&file_id=111369)
 *  [Kaidan Banter Patch-11278-0-2-1683300371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=384945)
-*  [Kaidan Extended All-In-One 3.0.4C.7z](https://drive.google.com/uc?id=1px_bs2dGWMWODO0hqAu1ivIhlzatbct9&export=download)
 *  [Kaidan Redemption - A visual replacer-117969-1-0-1714346219.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117969/?tab=files&file_id=495815)
 *  [Kaidan's Armory-76618-2-0-1676671966.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76618/?tab=files&file_id=360766)
 *  [Kala Orsimer Eyes-ESP-42050-1-0-1605116056.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42050/?tab=files&file_id=169633)

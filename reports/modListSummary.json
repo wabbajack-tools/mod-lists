@@ -668,8 +668,8 @@
     "report": "reports/FUSION/FUSION/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FUSION/FUSION_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FUSION/FUSION_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "MO2077",
@@ -1626,14 +1626,14 @@
   {
     "name": "Twisted Skyrim",
     "machineURL": "TwistedModdingLists/TwistedSkyrim",
-    "failed": 0,
-    "passed": 3622,
+    "failed": 1,
+    "passed": 3621,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TwistedModdingLists/TwistedSkyrim/status.json",
     "report": "reports/TwistedModdingLists/TwistedSkyrim/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TwistedModdingLists/TwistedSkyrim_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TwistedModdingLists/TwistedSkyrim_large.webp"
   },
@@ -1739,7 +1739,7 @@
     "name": "SICKnasty",
     "machineURL": "SICKnasty-FO4/sicknastyfo4",
     "failed": 0,
-    "passed": 1690,
+    "passed": 1768,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SICKnasty-FO4/sicknastyfo4/status.json",
