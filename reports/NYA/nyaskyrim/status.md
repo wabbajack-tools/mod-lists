@@ -942,7 +942,7 @@
 *  [Demara Blade DXP(MCO)-125916-1-1c-1732720165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/125916/?tab=files&file_id=566612)
 *  [Demon Slayer Armor Mashup (ESL)-97731-4-0-1732730000.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97731/?tab=files&file_id=566650)
 *  [Demon Slayer Armor Mashup LUX ESL-97731-4-0-1732730255.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97731/?tab=files&file_id=566652)
-*  [Demonic Creatures PATCH V1.91.7z](https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v191/)
+*  [Demonic Creatures PATCH V1.93 AE_SE.7z](https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v193/)
 *  [Demonic Creatures V1.9 SE_AE_any version.7z](https://www.loverslab.com/files/file/26322-demonic-creatures-mod-version-v19-patch-v191/)
 *  [Derketo Priestess 3BA Patch (Bodyslides)-137642-1-0-1735559092.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137642/?tab=files&file_id=577628)
 *  [Description Framework-105799-2-1-1-1716528666.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105799/?tab=files&file_id=504312)
