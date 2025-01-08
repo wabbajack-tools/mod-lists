@@ -49,7 +49,6 @@
     -   [Somnium: In Every Shadow](#somnium-in-every-shadow)
 -   [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
     -   [Auriels Dream](#auriels-dream)
-    -   [Diabolist VR](#diabolist-vr)
     -   [FUS](#fus)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
     -   [Yggdrasil](#yggdrasil)
@@ -662,29 +661,6 @@ Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on st
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
 [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
-
----
-
-### [Diabolist VR](https://ex0-tekk.github.io/Diabolist-VR/)
-
-Diabolist VR is a theme focused performance friendly modlist that pays homage to the Action RPG of the late 90s, DIABLO.
-It does this by adding 10 series inspired mods, 67 additional dungeons, 100s of unique monsters, a 3 tier enchanted loot system and much more! Most enemies are generated randomly and respawn often for variation, with bosses and chests having over-the-top loot pools.
-
-Welcome to Diabolist VR...
-More Monsters, More Loot!
-
-**_Mods to get familiar with:_**
-
-[PLANCK](https://www.nexusmods.com/skyrimspecialedition/mods/66025)
-[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)
-[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
-[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
-[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
-[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)
-[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)
-[Nethers Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
-[Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)
 
 ---
 
