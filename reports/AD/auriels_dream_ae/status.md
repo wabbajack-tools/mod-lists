@@ -1,4 +1,4 @@
-## Validation Report - Auriel's Dream - AE (ADAE/auriels_dream_ae)
+## Validation Report - Auriel's Dream - AE (AD/auriels_dream_ae)
 
 
 ### Invalid (0)

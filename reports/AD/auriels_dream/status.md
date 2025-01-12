@@ -1,4 +1,4 @@
-## Validation Report - Auriels Dream (AD/auriels_dream)
+## Validation Report - Auriels Dream - VR (AD/auriels_dream)
 
 
 ### Invalid (0)
