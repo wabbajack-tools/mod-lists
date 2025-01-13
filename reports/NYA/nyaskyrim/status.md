@@ -40,6 +40,7 @@
 *  [[SunJeong] Ninirim Collection 6.0 FOMOD.7z](http://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z)
 *  [00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=282528)
 *  [00- Demon Hunter Armor - SE-40287-1-1-1599780448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40287/?tab=files&file_id=160101)
+*  [01 - Evanora DBVO - Main FOMOD Installer-102829-2-3-1736773055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/102829/?tab=files&file_id=582882)
 *  [01 My Road Signs are Beautiful - English-46564-1-6-1EN-1688901539.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=405465)
 *  [01_Farodadestin's follower assets CBBE-71228-1-3-1706626244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71228/?tab=files&file_id=466269)
 *  [02 PAN_NPCs - alternative faces SE-91572-1-0-1-1708428690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91572/?tab=files&file_id=472862)
@@ -3019,8 +3020,7 @@
 *  [Stay At System Page-76927-1-6-1665472279.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76927/?tab=files&file_id=323246)
 *  [Stay Save. Stay Sexy-116145-1-01-1712775258.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116145/?tab=files&file_id=489332)
 *  [STB Widget Revamp-136670-1-2-1734743283.rar](https://www.nexusmods.com/skyrimspecialedition/mods/136670/?tab=files&file_id=574414)
-*  [STB Widgets-136148-1-2-1734801965.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=574650)
-*  [STB Widgets-136148-1-4-1735761530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=578448)
+*  [STB Widgets-136148-1-5-1736697378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=582540)
 *  [Stealth Meter Tweak - Settings Loader-64212-1-0-0-1645800993.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64212/?tab=files&file_id=266670)
 *  [StealthMeterTweak-se-28511-1-1-1566759142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28511/?tab=files&file_id=104316)
 *  steam_api64.dll
