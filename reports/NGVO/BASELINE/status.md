@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (304)
+### Valid (311)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Behavior Data Injector-78146-v0-13-1667564855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328879)
@@ -20,6 +20,7 @@
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Auto Input Switch-54309-1-2-3-1702841492.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=452745)
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
+*  [Automation Tools r6c-49373-1-5c.zip](https://www.nexusmods.com/skyrim/mods/49373/?tab=files&file_id=1000129948)
 *  [AVG Main File-84743-1-9-5-6-1717206606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=507063)
 *  [Barter Limit Fix-77173-1-0-1665868879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77173/?tab=files&file_id=324312)
 *  [Base Object Swapper-60805-3-3-1-1729815569.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=555251)
@@ -52,8 +53,10 @@
 *  [ConsoleUtilSSE NG-76649-1-5-1-1704108553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=456904)
 *  [Crashlog Tools-113668-1-0-4-0-1725208949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=537656)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
+*  [Create outfit from armor script-70907-1-0-1657211444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70907/?tab=files&file_id=296891)
 *  CreationKit.exe
 *  CreationKit.ini
+*  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
 *  Data_ccbgssse001-fish.bsa
@@ -89,6 +92,7 @@
 *  [Dual Casting Fix-92454-1-0-1685396946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=393174)
 *  [dunPOISoldiersRaidOnStart Script Tweak-62925-1-0-0-1643724953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62925/?tab=files&file_id=260981)
 *  [Dustman's Cairn Farkas Scene Fix-116472-1-00-1712856111.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116472/?tab=files&file_id=489665)
+*  [Dynamic Interface Patcher-96891-v2-1-4-1734298812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96891/?tab=files&file_id=572793)
 *  [DynDOLOD 3.00-68518-Alpha-182-1728598274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=550883)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-33-1728547525.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=550668)
 *  [DynDOLOD NG - Settings Loader-95193-2-1-1-1728568229.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95193/?tab=files&file_id=550741)
@@ -106,6 +110,7 @@
 *  [Faster HDT-SMP-57339-2-2-1-1707481148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=469232)
 *  [Favorite Misc Items-42750-3-7-1-1665247156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=322497)
 *  [FileAccess Interface for Skyrim SE Scripts - FISSES (Anniversary Edition) BETA-13956-1-4-1-1664092979.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=319211)
+*  [Find dangerous ESL plugins-68889-1-3-1657058231.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68889/?tab=files&file_id=296575)
 *  [FISSES for Skyrim AE 1.6.1130 (or later)-107513-1-4-2-1703191369.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107513/?tab=files&file_id=453941)
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
 *  [FixToggleWalkRun-61671-3-1724360460.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61671/?tab=files&file_id=534249)
@@ -140,9 +145,11 @@
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
+*  [lilebonymace xEdit scripts-36042-s2-29-1658655446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=301721)
 *  [LOD Model Library - FOMOD-87521-1-6-1712935857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87521/?tab=files&file_id=489951)
 *  [LOD Unloading Bug Fix-61251-0-1-1642048241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
 *  [Log Parsing Manager for Mod Organizer 2-135040-1-1-2-1732982767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/135040/?tab=files&file_id=567647)
+*  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip)
 *  Low.ini
 *  [Magic Student (WIChangeLocation04) Quest Fix-80676-0-1-1671093954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80676/?tab=files&file_id=340731)
 *  [Master Automatic Records Cleaner v0.2-138115-0-2-1736603188.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138115/?tab=files&file_id=582010)
@@ -187,7 +194,7 @@
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-4-1664236996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=319680)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
-*  [ParallaxGen-120946-0-7-3-1733766521.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120946/?tab=files&file_id=570763)
+*  [ParallaxGen-120946-0-8-0-1736701530.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120946/?tab=files&file_id=582563)
 *  [Patch - SkyHUD v090B-463-0-90-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=65410)
 *  [Payload Interpreter - Nemesis Less Patch-78146-v1-0-1667564948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328880)
 *  [Payload Interpreter-65089-1-1-0-1685672813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65089/?tab=files&file_id=394150)
