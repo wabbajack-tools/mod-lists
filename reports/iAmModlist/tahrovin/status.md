@@ -1,11 +1,10 @@
 ## Validation Report - Tahrovin (iAmModlist/tahrovin)
 
 
-### Invalid (1)
-*  [Tahrovin_ParallaxGen_Output.7z](https://authored-files.wabbajack.org/Tahrovin_ParallaxGen_Output.7z_5dcb4cc9-e13a-4899-9904-4dcb0e46e04c)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1027)
+### Valid (1028)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
@@ -184,6 +183,7 @@
 *  [Community Shaders-86492-1-1-0-1733926135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=571348)
 *  [Community Shaders-86492-1-1-6-1736172224.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=579997)
 *  [Compatibility patch for Archery-30404-1-0-1598305456.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30404/?tab=files&file_id=157505)
+*  [Complex Parallax Meshes (Alpha)-96921-4-1690914581.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96921/?tab=files&file_id=413147)
 *  [Conditional Expressions Extended-91438-2-0-6-1729511720.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91438/?tab=files&file_id=554232)
 *  [Conditional Expressions-45148-1-27-1679991906.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=372750)
 *  [Conduit-58023-2-7-1663677468.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58023/?tab=files&file_id=317904)
