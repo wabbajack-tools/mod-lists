@@ -227,7 +227,8 @@
 *  [Equip Enchantment Fix for 1.6.629 and newer-42839-1-3-6-1702212166.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=450462)
 *  [Ethereal Skill Menu Overhaul Downscale-138480-1-1736675240.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138480/?tab=files&file_id=582473)
 *  [Ethereal Skill Menu Overhaul-138515-1-1-1736490122.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138515/?tab=files&file_id=581410)
-*  [Experience-17751-3-5-0-1730042866.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17751/?tab=files&file_id=556096)
+*  [Experience - MCM-65880-1-4-0-1719661135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65880/?tab=files&file_id=516064)
+*  [Experience-17751-3-2-0-1691235455.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17751/?tab=files&file_id=414323)
 *  [Expressive Facegen Morphs SE-35785-1-0-1595174141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151138)
 *  [Extended Vanilla Menus-67946-2-4-1719187326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67946/?tab=files&file_id=514351)
 *  [Falmer Armors and Weapons Retexture SE - Half Res-90711-1-0-1683300113.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90711/?tab=files&file_id=384941)
@@ -554,7 +555,6 @@
 *  [Skyrim Remastered - High Hrothgar v2 Downscale-138415-1-1736346675.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138415/?tab=files&file_id=580771)
 *  [Skyrim Remastered - High Hrothgar v2 Performance Version-51788-1-00-1625003475.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51788/?tab=files&file_id=211810)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
-*  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc

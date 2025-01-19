@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (311)
+### Valid (310)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Behavior Data Injector-78146-v0-13-1667564855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328879)
@@ -82,8 +82,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  [DbMiscFunctions-65410-6-3-1720758326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=520124)
-*  [Debug Menu-136456-1-0-3-1735064807.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136456/?tab=files&file_id=575742)
+*  [Debug Menu-136456-1-1-2-1737298330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136456/?tab=files&file_id=585133)
 *  Debug.log
 *  [DiskCacheEnabler-1.2-100975-1-2-1705561431.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100975/?tab=files&file_id=462516)
 *  [DPI Scaling Fix-95740-1-0-1689242798.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95740/?tab=files&file_id=406607)
