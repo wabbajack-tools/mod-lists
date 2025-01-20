@@ -987,7 +987,7 @@
 *  [Wasteland Debris - 2K-86554-1-1-1723786045.zip](https://www.nexusmods.com/fallout4/mods/86554/?tab=files&file_id=330303)
 *  [Wasteland Gardening-65683-1-03-1678728163.zip](https://www.nexusmods.com/fallout4/mods/65683/?tab=files&file_id=270423)
 *  [Wasteland Graffiti - ESL-74482-1-2-1723230925.zip](https://www.nexusmods.com/fallout4/mods/74482/?tab=files&file_id=329589)
-*  [Wasteland Reborn Master Patch-89155-1-1-0-1736140870.zip](https://www.nexusmods.com/fallout4/mods/89155/?tab=files&file_id=344450)
+*  [Wasteland Reborn Master Patch-89155-1-1-5-1737332274.zip](https://www.nexusmods.com/fallout4/mods/89155/?tab=files&file_id=345760)
 *  [Wastleland Weather for DC and GN-84889-0-2-1718969908.7z](https://www.nexusmods.com/fallout4/mods/84889/?tab=files&file_id=323815)
 *  [Wattz 3000 mkII 2k Textures-87734-1-1-4-1729365976.zip](https://www.nexusmods.com/fallout4/mods/87734/?tab=files&file_id=337290)
 *  [WAVE-41568-1-2-1586794752.7z](https://www.nexusmods.com/fallout4/mods/41568/?tab=files&file_id=179403)
