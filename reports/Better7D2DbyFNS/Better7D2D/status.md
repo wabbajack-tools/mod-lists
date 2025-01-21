@@ -143,7 +143,7 @@
 *  [Main file.-5500-1-0-1721917721.zip](https://www.nexusmods.com/7daystodie/mods/5500/?tab=files&file_id=19247)
 *  [Mega Crush 1.0 Update-3190-1-1-1727441531.zip](https://www.nexusmods.com/7daystodie/mods/3190/?tab=files&file_id=22298)
 *  [mjPlays_ToolTimeMag-5636-1-0-0-3-1724781862.zip](https://www.nexusmods.com/7daystodie/mods/5636/?tab=files&file_id=21331)
-*  [Mod.Organizer-2.5.2.7z](https://www.nexusmods.com/7daystodie/mods/2/?tab=files&file_id=0)
+*  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Molotov cocktail_OilShale-6181-1-0-1726578291.zip](https://www.nexusmods.com/7daystodie/mods/6181/?tab=files&file_id=22062)
 *  [More Quests 1.1-6467-1-1-0-0-1731335884.zip](https://www.nexusmods.com/7daystodie/mods/6467/?tab=files&file_id=23314)
 *  [More Quests 1.2.2-6467-1-2-2-0-1734834647.zip](https://www.nexusmods.com/7daystodie/mods/6467/?tab=files&file_id=24241)
