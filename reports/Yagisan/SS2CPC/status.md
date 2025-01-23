@@ -1,4 +1,4 @@
-## Validation Report - Sim Settlements 2 City Plan Contest Helper (SS2CPC/SS2CPC)
+## Validation Report - Sim Settlements 2 City Plan Contest Helper (Yagisan/SS2CPC)
 
 
 ### Invalid (0)

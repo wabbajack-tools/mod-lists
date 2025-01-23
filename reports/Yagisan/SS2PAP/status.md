@@ -1,4 +1,4 @@
-## Validation Report - Plotaplaooza Contest Helper (SS2PAP/SS2PAP)
+## Validation Report - Plotaplaooza Contest Helper (Yagisan/SS2PAP)
 
 
 ### Invalid (0)
