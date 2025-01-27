@@ -2396,7 +2396,7 @@
 *  [LoreRim - Normal DynDOLOD-112590-3-0-1734980269.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=575390)
 *  [LoreRim - Normal TexGen-112590-3-0-1734972633.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=575369)
 *  [LoreRim - TexGen Output-112590-3-0-1734904629.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=575120)
-*  [LoreRim - xLodGen Output-112590-3-1-1737934310.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=587855)
+*  [LoreRim - xLodGen Output-112590-3-0-1735013778.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=575557)
 *  [LoreRim Arcane Arsenal-128928-1-0-0-1733617442.zip](https://www.nexusmods.com/skyrimspecialedition/mods/128928/?tab=files&file_id=570137)
 *  [LoreRIM Conventional Naming-115305-1-0-1711676380.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115305/?tab=files&file_id=485152)
 *  [LoreRim Trapper-128928-1-0-0-1730501322.zip](https://www.nexusmods.com/skyrimspecialedition/mods/128928/?tab=files&file_id=557996)
