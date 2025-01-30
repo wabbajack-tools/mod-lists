@@ -97,7 +97,7 @@
 *  [ELFX and UIL Merged Patch-57608-0-5-1654183700.rar](https://www.nexusmods.com/fallout4/mods/57608/?tab=files&file_id=239347)
 *  [Empty Vendor List Engine Bug Fix-83252-1-0-1716335717.zip](https://www.nexusmods.com/fallout4/mods/83252/?tab=files&file_id=318202)
 *  [ENB Helper for Fallout 4-56566-1-0-2-1677522163.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=268795)
-*  [enbseries_fallout4_v0501.zip](http://enbdev.com/enbseries_fallout4_v0501.zip)
+*  [enbseries_fallout4_v0501.zip](http://enbdev.com/download_mod_fallout4.html)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Enhanced Lights and FX-13596-1-0.7z](https://www.nexusmods.com/fallout4/mods/13596/?tab=files&file_id=126232)
 *  [Enhanced Vanilla Armor and Clothing 2k-72546-1-2-1691287529.zip](https://www.nexusmods.com/fallout4/mods/72546/?tab=files&file_id=285666)
