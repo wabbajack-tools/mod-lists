@@ -1,8 +1,7 @@
 ## Validation Report - Twisted Skyrim (TwistedModdingLists/TwistedSkyrim)
 
 
-### Invalid (1)
-*  [Improved camera.7z](https://authored-files.wabbajack.org/Improved camera.7z_7faedbf6-880e-4f72-bb57-2b6f26a265df)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (3866)
