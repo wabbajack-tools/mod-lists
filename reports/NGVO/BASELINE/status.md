@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (357)
+### Valid (506)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Behavior Data Injector-78146-v0-13-1667564855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328879)
@@ -20,6 +20,7 @@
 *  [Animation Queue Fix-82395-1-0-1-1673338766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348271)
 *  [AnimObject Swapper-75167-1-1-0-1666410165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=325663)
 *  [Arcane Blacksmith's Apron - Hood Fixes-78927-1-01-1723219708.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78927/?tab=files&file_id=529887)
+*  [Assorted Animation Fixes-93271-1-02-1691850867.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93271/?tab=files&file_id=416390)
 *  [Assorted Mesh Fixes-32117-0-126-1736822797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=583110)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Auto Input Switch-54309-1-2-3-1702841492.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=452745)
@@ -50,6 +51,7 @@
 *  [Camera Persistence Fixes-94490-1-0-1687914475.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94490/?tab=files&file_id=401713)
 *  [CARP Main File-89042-1-1-2-11-1723568686.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89042/?tab=files&file_id=531260)
 *  [Cathedral Assets Optimizer 64-23316-5-3-15-1687526925.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=400106)
+*  [CC Myrwatch Bug fix-USSEP-58823-1-0-1637599802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58823/?tab=files&file_id=243499)
 *  [CK Platform Extended 0.4-b952-71371-0-4-b952-1735142537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=575985)
 *  [Classic Sprinting Redone (Anniversary Edition)-20166-2-3-1-1708891434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=474483)
 *  [College of Winterhold Quest Start Fixes-53817-0-4-1659219863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=303446)
@@ -67,14 +69,154 @@
 *  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
+*  Data_ccafdsse001-dwesanctuary.bsa
+*  Data_ccafdsse001-dwesanctuary.esm
+*  Data_ccasvsse001-almsivi.bsa
+*  Data_ccasvsse001-almsivi.esm
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse002-exoticarrows.bsa
+*  Data_ccbgssse002-exoticarrows.esl
+*  Data_ccbgssse003-zombies.bsa
+*  Data_ccbgssse003-zombies.esl
+*  Data_ccbgssse004-ruinsedge.bsa
+*  Data_ccbgssse004-ruinsedge.esl
+*  Data_ccbgssse005-goldbrand.bsa
+*  Data_ccbgssse005-goldbrand.esl
+*  Data_ccbgssse006-stendarshammer.bsa
+*  Data_ccbgssse006-stendarshammer.esl
+*  Data_ccbgssse007-chrysamere.bsa
+*  Data_ccbgssse007-chrysamere.esl
+*  Data_ccbgssse008-wraithguard.bsa
+*  Data_ccbgssse008-wraithguard.esl
+*  Data_ccbgssse010-petdwarvenarmoredmudcrab.bsa
+*  Data_ccbgssse010-petdwarvenarmoredmudcrab.esl
+*  Data_ccbgssse011-hrsarmrelvn.bsa
+*  Data_ccbgssse011-hrsarmrelvn.esl
+*  Data_ccbgssse012-hrsarmrstl.bsa
+*  Data_ccbgssse012-hrsarmrstl.esl
+*  Data_ccbgssse013-dawnfang.bsa
+*  Data_ccbgssse013-dawnfang.esl
+*  Data_ccbgssse014-spellpack01.bsa
+*  Data_ccbgssse014-spellpack01.esl
+*  Data_ccbgssse016-umbra.bsa
+*  Data_ccbgssse016-umbra.esm
+*  Data_ccbgssse018-shadowrend.bsa
+*  Data_ccbgssse018-shadowrend.esl
+*  Data_ccbgssse019-staffofsheogorath.bsa
+*  Data_ccbgssse019-staffofsheogorath.esl
+*  Data_ccbgssse020-graycowl.bsa
+*  Data_ccbgssse020-graycowl.esl
+*  Data_ccbgssse021-lordsmail.bsa
+*  Data_ccbgssse021-lordsmail.esl
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse031-advcyrus.bsa
+*  Data_ccbgssse031-advcyrus.esm
+*  Data_ccbgssse034-mntuni.bsa
+*  Data_ccbgssse034-mntuni.esl
+*  Data_ccbgssse035-petnhound.bsa
+*  Data_ccbgssse035-petnhound.esl
+*  Data_ccbgssse036-petbwolf.bsa
+*  Data_ccbgssse036-petbwolf.esl
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse038-bowofshadows.bsa
+*  Data_ccbgssse038-bowofshadows.esl
+*  Data_ccbgssse040-advobgobs.bsa
+*  Data_ccbgssse040-advobgobs.esl
+*  Data_ccbgssse041-netchleather.bsa
+*  Data_ccbgssse041-netchleather.esl
+*  Data_ccbgssse043-crosselv.bsa
+*  Data_ccbgssse043-crosselv.esl
+*  Data_ccbgssse045-hasedoki.bsa
+*  Data_ccbgssse045-hasedoki.esl
+*  Data_ccbgssse050-ba_daedric.bsa
+*  Data_ccbgssse050-ba_daedric.esl
+*  Data_ccbgssse051-ba_daedricmail.bsa
+*  Data_ccbgssse051-ba_daedricmail.esl
+*  Data_ccbgssse052-ba_iron.bsa
+*  Data_ccbgssse052-ba_iron.esl
+*  Data_ccbgssse053-ba_leather.bsa
+*  Data_ccbgssse053-ba_leather.esl
+*  Data_ccbgssse054-ba_orcish.bsa
+*  Data_ccbgssse054-ba_orcish.esl
+*  Data_ccbgssse055-ba_orcishscaled.bsa
+*  Data_ccbgssse055-ba_orcishscaled.esl
+*  Data_ccbgssse056-ba_silver.bsa
+*  Data_ccbgssse056-ba_silver.esl
+*  Data_ccbgssse057-ba_stalhrim.bsa
+*  Data_ccbgssse057-ba_stalhrim.esl
+*  Data_ccbgssse058-ba_steel.bsa
+*  Data_ccbgssse058-ba_steel.esl
+*  Data_ccbgssse059-ba_dragonplate.bsa
+*  Data_ccbgssse059-ba_dragonplate.esl
+*  Data_ccbgssse060-ba_dragonscale.bsa
+*  Data_ccbgssse060-ba_dragonscale.esl
+*  Data_ccbgssse061-ba_dwarven.bsa
+*  Data_ccbgssse061-ba_dwarven.esl
+*  Data_ccbgssse062-ba_dwarvenmail.bsa
+*  Data_ccbgssse062-ba_dwarvenmail.esl
+*  Data_ccbgssse063-ba_ebony.bsa
+*  Data_ccbgssse063-ba_ebony.esl
+*  Data_ccbgssse064-ba_elven.bsa
+*  Data_ccbgssse064-ba_elven.esl
+*  Data_ccbgssse066-staves.bsa
+*  Data_ccbgssse066-staves.esl
+*  Data_ccbgssse067-daedinv.bsa
+*  Data_ccbgssse067-daedinv.esm
+*  Data_ccbgssse068-bloodfall.bsa
+*  Data_ccbgssse068-bloodfall.esl
+*  Data_ccbgssse069-contest.bsa
+*  Data_ccbgssse069-contest.esl
+*  Data_cccbhsse001-gaunt.bsa
+*  Data_cccbhsse001-gaunt.esl
+*  Data_ccedhsse001-norjewel.bsa
+*  Data_ccedhsse001-norjewel.esl
+*  Data_ccedhsse002-splkntset.bsa
+*  Data_ccedhsse002-splkntset.esl
+*  Data_ccedhsse003-redguard.bsa
+*  Data_ccedhsse003-redguard.esl
+*  Data_cceejsse001-hstead.bsa
+*  Data_cceejsse001-hstead.esm
+*  Data_cceejsse002-tower.bsa
+*  Data_cceejsse002-tower.esl
+*  Data_cceejsse003-hollow.bsa
+*  Data_cceejsse003-hollow.esl
+*  Data_cceejsse004-hall.bsa
+*  Data_cceejsse004-hall.esl
+*  Data_cceejsse005-cave.bsa
+*  Data_cceejsse005-cave.esm
+*  Data_ccffbsse001-imperialdragon.bsa
+*  Data_ccffbsse001-imperialdragon.esl
+*  Data_ccffbsse002-crossbowpack.bsa
+*  Data_ccffbsse002-crossbowpack.esl
+*  Data_ccfsvsse001-backpacks.bsa
+*  Data_ccfsvsse001-backpacks.esl
+*  Data_cckrtsse001_altar.bsa
+*  Data_cckrtsse001_altar.esl
+*  Data_ccmtysse001-knightsofthenine.bsa
+*  Data_ccmtysse001-knightsofthenine.esl
+*  Data_ccmtysse002-ve.bsa
+*  Data_ccmtysse002-ve.esl
+*  Data_ccpewsse002-armsofchaos.bsa
+*  Data_ccpewsse002-armsofchaos.esl
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
+*  Data_ccqdrsse002-firewood.bsa
+*  Data_ccqdrsse002-firewood.esl
+*  Data_ccrmssse001-necrohouse.bsa
+*  Data_ccrmssse001-necrohouse.esl
+*  Data_cctwbsse001-puzzledungeon.bsa
+*  Data_cctwbsse001-puzzledungeon.esm
+*  Data_ccvsvsse001-winter.bsa
+*  Data_ccvsvsse001-winter.esl
+*  Data_ccvsvsse002-pets.bsa
+*  Data_ccvsvsse002-pets.esl
+*  Data_ccvsvsse003-necroarts.bsa
+*  Data_ccvsvsse003-necroarts.esl
+*  Data_ccvsvsse004-beafarmer.bsa
+*  Data_ccvsvsse004-beafarmer.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -98,6 +240,7 @@
 *  [dTry's Key Utils AE-69944-1-1-1655790332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69944/?tab=files&file_id=292793)
 *  [Dual Casting Fix-92454-1-0-1685396946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=393174)
 *  [dunPOISoldiersRaidOnStart Script Tweak-62925-1-0-0-1643724953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62925/?tab=files&file_id=260981)
+*  [Durak Teleport Fix-65735-1-0-1648697020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65735/?tab=files&file_id=273790)
 *  [Dynamic Interface Patcher-96891-v2-1-4-1734298812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96891/?tab=files&file_id=572793)
 *  [DynDOLOD 3.00-68518-Alpha-182-1728598274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=550883)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-33-1728547525.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=550668)
@@ -167,7 +310,7 @@
 *  [lilebonymace xEdit scripts-36042-s2-29-1658655446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=301721)
 *  [Locked Empty Container Activate Text Fix-99441-1-0-0-1693201167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99441/?tab=files&file_id=421400)
 *  [LOD Model Library - FOMOD-87521-1-6-1712935857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87521/?tab=files&file_id=489951)
-*  [LOD Unloading Bug Fix-61251-0-1-1642048241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
+*  [LOD Unloading Bug Fix-61251-0-2-1728699151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=551262)
 *  [Log Parsing Manager for Mod Organizer 2-135040-1-1-2-1732982767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/135040/?tab=files&file_id=567647)
 *  [loot_0.24.1-win64.7z](https://github.com/loot/loot/releases/download/0.24.1/loot_0.24.1-win64.7z)
 *  [LOOTConfigLoader-main.zip](https://github.com/loicreynier/LOOTConfigLoader/archive/refs/heads/main.zip)
@@ -189,6 +332,9 @@
 *  [More Informative Console 1.2.2-19250-1-2-2-1726885673.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=544360)
 *  [Mount Anthor Dragon Fix-38510-1-0-3-1620809169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38510/?tab=files&file_id=203001)
 *  [Music - HQ-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
+*  [MYrwatch - House Fix - USCCCP Patch-64108-1-0-0-1645592154.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64108/?tab=files&file_id=266257)
+*  [Myrwatch - House Fix-64108-1-1-1-1658728465.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64108/?tab=files&file_id=302020)
+*  [Native EditorID Fix-85260-1-2-2-1712605528.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85260/?tab=files&file_id=488800)
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
 *  [Nemesis Creature Behaivour Compatiblity-45966-1-4-1679764715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=371953)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
@@ -238,6 +384,7 @@
 *  [RaceMenu Anniversary Edition v0-4-19-16-19080-0-4-19-16-1706297897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=465102)
 *  [RaceMenu Undress-56437-1-1-0-1633225200.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56437/?tab=files&file_id=232218)
 *  [Recursion Fix-76867-1-2-1666911818.rar](https://www.nexusmods.com/skyrimspecialedition/mods/76867/?tab=files&file_id=326984)
+*  [Remember Installation Choices-140678-1-2-1-1738869396.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140678/?tab=files&file_id=591824)
 *  [RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90734/?tab=files&file_id=408042)
 *  [Rob's Bug Fixes - Our xEdit Scripts-66652-2-0-1650192960.rar](https://www.nexusmods.com/skyrimspecialedition/mods/66652/?tab=files&file_id=277757)
 *  [Rock Traps Trigger Fixes-81587-1-6-1718730113.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81587/?tab=files&file_id=512888)
@@ -247,6 +394,7 @@
 *  [ScaleformTranslationPP-77359-1-8-1709114434.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=475314)
 *  [Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368378)
 *  [Script Effect Archetype Crash Fix-43532-1-1678779345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368379)
+*  [Self-targeting Staff Animation Fix-92993-0-1-1686104012.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92993/?tab=files&file_id=395685)
 *  [Serana's Hood Fix-20243-3-1-0-1627660653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=217670)
 *  [Set CPU Affinity-94636-1-2-0-1688135119.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94636/?tab=files&file_id=402479)
 *  [Shadow Boost-73133-1-3-0-1674058869.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73133/?tab=files&file_id=350765)
@@ -336,6 +484,7 @@
 *  [Universal Rim Lighting Fix-119367-1-1-1715731621.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119367/?tab=files&file_id=501171)
 *  [Universal Unwanted Effects Clearer-93977-0-3-1-1690091871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93977/?tab=files&file_id=409740)
 *  [Unofficial Material Fix-21027-1-17-0-1573377063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=113020)
+*  [Unofficial Skyrim Creation Club Content Patch-18975-7-10-1704763868.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=459390)
 *  [Unofficial Skyrim Modder's Patch - USMP SE 2.6.4b-49616-2-6-4-1730638774.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=558517)
 *  [Unofficial Skyrim Modder's Patch - USMP SE-49616-2-6-5-1736955136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=583620)
 *  [Unofficial Skyrim Special Edition Patch-266-4-3-3-1728878067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=551952)
