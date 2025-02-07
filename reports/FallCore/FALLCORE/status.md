@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (288)
+### Valid (286)
 *  [Address Library - All In One-47327-AIO-1715667241.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=316412)
 *  [Alex's Male First Person Camera Height Fix-27582-2-0.zip](https://www.nexusmods.com/fallout4/mods/27582/?tab=files&file_id=139005)
 *  [Alternative Activation Prompts-75680-2-7-2-1729606853.7z](https://www.nexusmods.com/fallout4/mods/75680/?tab=files&file_id=337575)
@@ -31,7 +31,6 @@
 *  [Collective Modding Toolkit-87907-0-5-1-1736475138.zip](https://www.nexusmods.com/fallout4/mods/87907/?tab=files&file_id=344771)
 *  [Community Fixes Merged-74945-3-7-1-1737242680.7z](https://www.nexusmods.com/fallout4/mods/74945/?tab=files&file_id=345620)
 *  [Community Fixes Merged-74945-3-8-0-1738874863.7z](https://www.nexusmods.com/fallout4/mods/74945/?tab=files&file_id=347337)
-*  [Companion Jump Fall Pose Fix-80888-1-0-1713569968.zip](https://www.nexusmods.com/fallout4/mods/80888/?tab=files&file_id=310875)
 *  [Companion Shoots At Player Fix - Next-Gen-81758-1-0-1731157452.zip](https://www.nexusmods.com/fallout4/mods/81758/?tab=files&file_id=339387)
 *  [ConsoleUtilF4-51951-1-0-1-1628395200.zip](https://www.nexusmods.com/fallout4/mods/51951/?tab=files&file_id=214323)
 *  [Crafting Highlight Fix 1.9-27479-1-9-1718721187.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=323378)
@@ -206,13 +205,12 @@
 *  [FOLIP xEdit Scripts-61884-6-0-1731906176.zip](https://www.nexusmods.com/fallout4/mods/61884/?tab=files&file_id=340545)
 *  [Follower Stealth Distance Fix (No Free Hugs)-15823-7-0-1620076972.7z](https://www.nexusmods.com/fallout4/mods/15823/?tab=files&file_id=207199)
 *  [Garden of Eden Papyrus Script Extender - Next-Gen-74160-19-3-1733440252.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=342139)
-*  [Garden of Eden Papyrus Script Extender-74160-19-4-1738776863.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=347269)
+*  [Garden of Eden Papyrus Script Extender - Next-Gen-74160-19-4-1738776883.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=347270)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
 *  [Goodneighbor View-72021-1-00-1686337059.zip](https://www.nexusmods.com/fallout4/mods/72021/?tab=files&file_id=279930)
 *  [High FPS Physics Fix-44798-0-8-11-1734373932.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=342947)
 *  High.ini
-*  [Hostile NPC Respawn Fix ESL-79726-1-4-1722784466.zip](https://www.nexusmods.com/fallout4/mods/79726/?tab=files&file_id=329089)
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
 *  [Im Talking to You-60363-3-0-1704234568.zip](https://www.nexusmods.com/fallout4/mods/60363/?tab=files&file_id=298421)
 *  [ImGui Fonts-88107-1-0-0-1727642124.7z](https://www.nexusmods.com/fallout4/mods/88107/?tab=files&file_id=335587)
