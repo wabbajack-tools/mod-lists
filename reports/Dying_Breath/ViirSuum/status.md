@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2287)
+### Valid (2286)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -439,7 +439,6 @@
 *  [CrashLogger-59818-1-14-1-1716098655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=502665)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Crime Overhaul - Contraband Confiscation Patch-19647-2-06-1672301572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19647/?tab=files&file_id=344407)
 *  [Crime Overhaul-19647-2-06-1672300960.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19647/?tab=files&file_id=344404)
 *  [CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=484532)
