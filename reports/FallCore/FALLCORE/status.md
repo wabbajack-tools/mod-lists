@@ -1,11 +1,17 @@
 ## Validation Report - FallCore (FallCore/FALLCORE)
 
 
-### Invalid (1)
+### Invalid (7)
 *  [Bethesda Plugin Manager-111236-0-1-5-1708000234.7z](https://authored-files.wabbajack.org/Bethesda Plugin Manager-111236-0-1-5-1708000234 (1).7z_b3788f1d-6c2d-4cbd-843d-198d7002f590)
+*  [Creation Club Organizer Wabbajack JSON-66329-0-0-6-1651533139.zip](https://authored-files.wabbajack.org/Creation Club Organizer Wabbajack JSON-66329-0-0-6-1651533139.zip_c0af7a64-5b0f-49d0-9535-72e93097bedd)
+*  [creation_organizer-1.1.0-66329-1-1-0-1704763830.zip](https://authored-files.wabbajack.org/creation_organizer-1.1.0-66329-1-1-0-1704763830.zip_d078c991-ee28-4e1b-bd01-b1df7f1f2daa)
+*  [DynDOLOD 3.00-68518-Alpha-182-1728598274.7z](https://authored-files.wabbajack.org/DynDOLOD 3.00-68518-Alpha-182-1728598274.7z_b2aaf03d-102f-4e90-94ec-1a9c9005683a)
+*  [enbseries_fallout4_v0501.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0501.zip_53b9987b-1584-4189-a829-73dc1e05397c)
+*  [Mod.Organizer-2.5.2.7z](https://authored-files.wabbajack.org/Mod.Organizer-2.5.2.7z_c9e260ee-b2ac-4950-b8c1-6dbeebccc77b)
+*  [xLODGen.129.7z](https://authored-files.wabbajack.org/xLODGen.129.7z_12e433c1-fa16-42b6-9d0c-3d2a576df310)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (285)
+### Valid (279)
 *  [Address Library - All In One-47327-AIO-1715667241.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=316412)
 *  [Alex's Male First Person Camera Height Fix-27582-2-0.zip](https://www.nexusmods.com/fallout4/mods/27582/?tab=files&file_id=139005)
 *  [Alternative Activation Prompts-75680-2-7-2-1729606853.7z](https://www.nexusmods.com/fallout4/mods/75680/?tab=files&file_id=337575)
@@ -35,8 +41,6 @@
 *  [ConsoleUtilF4-51951-1-0-1-1628395200.zip](https://www.nexusmods.com/fallout4/mods/51951/?tab=files&file_id=214323)
 *  [Crafting Highlight Fix 1.9-27479-1-9-1718721187.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=323378)
 *  [Creation Club Delayed Main File-42753-1-4-1639375828.rar](https://www.nexusmods.com/fallout4/mods/42753/?tab=files&file_id=223764)
-*  [Creation Club Organizer Wabbajack JSON-66329-0-0-6-1651533139.zip](https://authored-files.wabbajack.org/Creation Club Organizer Wabbajack JSON-66329-0-0-6-1651533139.zip_c0af7a64-5b0f-49d0-9535-72e93097bedd)
-*  [creation_organizer-1.1.0-66329-1-1-0-1704763830.zip](https://authored-files.wabbajack.org/creation_organizer-1.1.0-66329-1-1-0-1704763830.zip_d078c991-ee28-4e1b-bd01-b1df7f1f2daa)
 *  cudart64_75.dll
 *  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
@@ -161,9 +165,7 @@
 *  [Dependency Quest Fix v2.1-10892-2-1-1687076122.rar](https://www.nexusmods.com/fallout4/mods/10892/?tab=files&file_id=280823)
 *  [Diamond City Billboards-71990-1-01-1686254002.zip](https://www.nexusmods.com/fallout4/mods/71990/?tab=files&file_id=279796)
 *  [Dynamic Activation Key-75679-1-5-0-1727620273.7z](https://www.nexusmods.com/fallout4/mods/75679/?tab=files&file_id=335568)
-*  [DynDOLOD 3.00-68518-Alpha-182-1728598274.7z](https://authored-files.wabbajack.org/DynDOLOD 3.00-68518-Alpha-182-1728598274.7z_b2aaf03d-102f-4e90-94ec-1a9c9005683a)
 *  [Empty Vendor List Engine Bug Fix - Next-Gen-83252-1-0-1716335895.zip](https://www.nexusmods.com/fallout4/mods/83252/?tab=files&file_id=318205)
-*  [enbseries_fallout4_v0501.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0501.zip_53b9987b-1584-4189-a829-73dc1e05397c)
 *  [Enhanced Vanilla Asphalt Roads-90675-1-1-1736734784.zip](https://www.nexusmods.com/fallout4/mods/90675/?tab=files&file_id=345067)
 *  [Enhanced Vanilla Plants-70540-1-6-1684125207.zip](https://www.nexusmods.com/fallout4/mods/70540/?tab=files&file_id=277302)
 *  [Enhanced Vanilla Rocks-70879-1-0-1682738811.7z](https://www.nexusmods.com/fallout4/mods/70879/?tab=files&file_id=275583)
@@ -240,7 +242,6 @@
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
 *  [Mod Configuration Menu 1.40 BETA 2-21497-1-40-BETA2-1715646081.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=316359)
 *  [Mod Organizer 2 Batch Plugin Cleaner-83123-0-1ea-1716192949.7z](https://www.nexusmods.com/fallout4/mods/83123/?tab=files&file_id=317782)
-*  [Mod.Organizer-2.5.2.7z](https://authored-files.wabbajack.org/Mod.Organizer-2.5.2.7z_c9e260ee-b2ac-4950-b8c1-6dbeebccc77b)
 *  [Moon Rotation Fix-80005-1-1-0-1714851776.zip](https://www.nexusmods.com/fallout4/mods/80005/?tab=files&file_id=314236)
 *  msvcp110.dll
 *  msvcr110.dll
@@ -289,5 +290,4 @@
 *  [Wetness Shader Fix-23389-3-6-3-1716206524.7z](https://www.nexusmods.com/fallout4/mods/23389/?tab=files&file_id=317812)
 *  [Workshop Framework-35004-2-4-4-1735006785.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=343469)
 *  [Workshop Framework-35004-2-4-5-1737745848.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=346166)
-*  [xLODGen.129.7z](https://authored-files.wabbajack.org/xLODGen.129.7z_12e433c1-fa16-42b6-9d0c-3d2a576df310)
 *  [xSE PluginPreloader F4 0.3-33946-0-3-1718686029.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=323314)

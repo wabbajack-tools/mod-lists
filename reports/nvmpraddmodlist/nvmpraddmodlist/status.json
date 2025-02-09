@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "NVMP RADD Modlist",
-  "Version": "1.0.7",
-  "ModListHash": "l/efgGEmPzM=",
+  "Version": "1.0.8",
+  "ModListHash": "uotQMadOdRc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,40 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TNj2MAK6qbs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_bbc2fbba-7bf0-4b49-bb2f-31cd5f5dcba0",
-        "Name": "RADD Server Mods.7z",
-        "Size": 1952939497,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RADD Server Mods.7z_bbc2fbba-7bf0-4b49-bb2f-31cd5f5dcba0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kAcFPvVdmaQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=65094\nfileID=1000100792",
-        "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4-65094-v1-4-1667751016.zip",
-        "Size": 6134945,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kcat",
-          "Description": "Enables 3D positional audio in Fallout: New Vegas or any other game that supports DirectSound3D. You\u0027ll be able to hear if sounds are in front, behind, above, or below you in a full 360 degrees. Optionally, you can use this mod to enable up to 7.0 speakers, 3rd order Ambisonics, or up to EAX 4.0 in other compatible games.",
-          "FileID": 1000100792,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65094/65094-1667750762-969603928.png",
-          "IsNSFW": false,
-          "ModID": 65094,
-          "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
-          "Version": "v1.4"
         }
       }
     },
@@ -70,6 +36,40 @@
           "ModID": 34902,
           "Name": "MTUI",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yYn82S+DW+I=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_674b3d59-f00c-43cf-940f-d6a3556e416c",
+        "Name": "RADD Server Mods.7z",
+        "Size": 1514607858,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_674b3d59-f00c-43cf-940f-d6a3556e416c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kAcFPvVdmaQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=65094\nfileID=1000100792",
+        "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4-65094-v1-4-1667751016.zip",
+        "Size": 6134945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kcat",
+          "Description": "Enables 3D positional audio in Fallout: New Vegas or any other game that supports DirectSound3D. You\u0027ll be able to hear if sounds are in front, behind, above, or below you in a full 360 degrees. Optionally, you can use this mod to enable up to 7.0 speakers, 3rd order Ambisonics, or up to EAX 4.0 in other compatible games.",
+          "FileID": 1000100792,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65094/65094-1667750762-969603928.png",
+          "IsNSFW": false,
+          "ModID": 65094,
+          "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
+          "Version": "v1.4"
         }
       }
     },
@@ -244,48 +244,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BpTYcStjmS8=",
-        "Meta": "[General]\ngameName=site\nmodID=729\nfileID=2535",
-        "Name": "Loot Preventifier-729-2023-12-07-1701907617.zip",
-        "Size": 898,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lost Dragonist and Miss Corruption",
-          "Description": "MO2 plugins originally made by LostDragonist updated to work with the latest version of MO2.",
-          "FileID": 2535,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/729/729-1701907354-799625403.png",
-          "IsNSFW": false,
-          "ModID": 729,
-          "Name": "Lost Dragonists MO2 Plugins - Updated for MO2 2.5.0",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wIr6OtEmXbk=",
-        "Meta": "[General]\ngameName=site\nmodID=1003\nfileID=3826",
-        "Name": "Wabbajack Post-Setup Tool Plugin-1003-0-0-4-1723733330.7z",
-        "Size": 578,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "A small tool to be included in Wabbajack modlists that allows for automation of some post-install steps, designed to make installing lists marginally simpler for users.",
-          "FileID": 3826,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/1003/1003-1723488648-1119186110.png",
-          "IsNSFW": false,
-          "ModID": 1003,
-          "Name": "Kezyma\u0027s Wabbajack Post-Setup Tool",
-          "Version": "0.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "dh+xUCYZfH4=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
         "Name": "4GB Patcher-62552-1-5-1618787921.7z",
@@ -307,6 +265,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "BpTYcStjmS8=",
+        "Meta": "[General]\ngameName=site\nmodID=729\nfileID=2535",
+        "Name": "Loot Preventifier-729-2023-12-07-1701907617.zip",
+        "Size": 898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lost Dragonist and Miss Corruption",
+          "Description": "MO2 plugins originally made by LostDragonist updated to work with the latest version of MO2.",
+          "FileID": 2535,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/729/729-1701907354-799625403.png",
+          "IsNSFW": false,
+          "ModID": 729,
+          "Name": "Lost Dragonists MO2 Plugins - Updated for MO2 2.5.0",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ezqZlIIPPZc=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=79211\nfileID=1000105230",
         "Name": "OneTweak-79211-2-1-0-4-1676812882.7z",
@@ -322,6 +301,27 @@
           "ModID": 79211,
           "Name": "OneTweak but Really Updated",
           "Version": "2.1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wIr6OtEmXbk=",
+        "Meta": "[General]\ngameName=site\nmodID=1003\nfileID=3826",
+        "Name": "Wabbajack Post-Setup Tool Plugin-1003-0-0-4-1723733330.7z",
+        "Size": 578,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "A small tool to be included in Wabbajack modlists that allows for automation of some post-install steps, designed to make installing lists marginally simpler for users.",
+          "FileID": 3826,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/1003/1003-1723488648-1119186110.png",
+          "IsNSFW": false,
+          "ModID": 1003,
+          "Name": "Kezyma\u0027s Wabbajack Post-Setup Tool",
+          "Version": "0.0.1"
         }
       }
     },

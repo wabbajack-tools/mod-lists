@@ -17,7 +17,7 @@
 *  [nvtf.7z](https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z)
 *  [OneTweak-79211-2-1-0-4-1676812882.7z](https://www.nexusmods.com/newvegas/mods/79211/?tab=files&file_id=1000105230)
 *  [Profile Sync 2.1.0-60690-2-1-0-1720652244.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=519782)
-*  [RADD Server Mods.7z](https://authored-files.wabbajack.org/RADD Server Mods.7z_bbc2fbba-7bf0-4b49-bb2f-31cd5f5dcba0)
+*  [RADD Server Mods.7z](https://authored-files.wabbajack.org/RADD Server Mods.7z_674b3d59-f00c-43cf-940f-d6a3556e416c)
 *  [rootbuilder.5.0.5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=528774)
 *  [Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z](https://www.nexusmods.com/newvegas/mods/64102/?tab=files&file_id=1000050605)
 *  [Wabbajack Post-Setup Tool Plugin-1003-0-0-4-1723733330.7z](https://www.nexusmods.com/site/mods/1003/?tab=files&file_id=3826)
