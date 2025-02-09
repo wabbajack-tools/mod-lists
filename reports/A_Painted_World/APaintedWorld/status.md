@@ -193,7 +193,7 @@
 *  [Black Hand Robe Replacer-47719-.7z](https://www.nexusmods.com/oblivion/mods/47719/?tab=files&file_id=1000016675)
 *  [Blade of Woe Replacer - Nine Tongues-43129-1-0.7z](https://www.nexusmods.com/oblivion/mods/43129/?tab=files&file_id=93542)
 *  [Blockhead-43752-11-1-1640043918.7z](https://www.nexusmods.com/oblivion/mods/43752/?tab=files&file_id=1000029844)
-*  [Bloody Spray Pack v1_6-19331.zip](https://www.nexusmods.com/oblivion/mods/19331/?tab=files&file_id=78524)
+*  [Bloody Spray Pack v1_6 BAIN-50330-1-6-1596506716.7z](https://www.nexusmods.com/oblivion/mods/50330/?tab=files&file_id=1000025479)
 *  [Blue Darker Glass-52978-1-2-1696117663.7z](https://www.nexusmods.com/oblivion/mods/52978/?tab=files&file_id=1000036309)
 *  [Bomret's Texture Pack for Shivering Isles with meshes from USIP-46162-1-0.7z](https://www.nexusmods.com/oblivion/mods/46162/?tab=files&file_id=1000010426)
 *  [Boofs Skinned Hound Retex-45370-1-2.rar](https://www.nexusmods.com/oblivion/mods/45370/?tab=files&file_id=1000007507)
