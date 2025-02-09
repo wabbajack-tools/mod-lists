@@ -1,10 +1,11 @@
 ## Validation Report - FallCore (FallCore/FALLCORE)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Bethesda Plugin Manager-111236-0-1-5-1708000234.7z](https://authored-files.wabbajack.org/Bethesda Plugin Manager-111236-0-1-5-1708000234 (1).7z_b3788f1d-6c2d-4cbd-843d-198d7002f590)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (286)
+### Valid (285)
 *  [Address Library - All In One-47327-AIO-1715667241.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=316412)
 *  [Alex's Male First Person Camera Height Fix-27582-2-0.zip](https://www.nexusmods.com/fallout4/mods/27582/?tab=files&file_id=139005)
 *  [Alternative Activation Prompts-75680-2-7-2-1729606853.7z](https://www.nexusmods.com/fallout4/mods/75680/?tab=files&file_id=337575)
@@ -14,7 +15,6 @@
 *  [BakaFramework-43627-2-0-1-1715443149.7z](https://www.nexusmods.com/fallout4/mods/43627/?tab=files&file_id=315807)
 *  [BakaScrapHeap-46340-2-0-0-1715235935.7z](https://www.nexusmods.com/fallout4/mods/46340/?tab=files&file_id=315287)
 *  [Base Object Swapper-67528-2-1-1-1718816804.7z](https://www.nexusmods.com/fallout4/mods/67528/?tab=files&file_id=323548)
-*  [Bethesda Plugin Manager-111236-0-1-5-1708000234.7z](https://authored-files.wabbajack.org/Bethesda Plugin Manager-111236-0-1-5-1708000234 (1).7z_b3788f1d-6c2d-4cbd-843d-198d7002f590)
 *  [BethINI Standalone Version-67-3-6-1-1651358958.zip](https://www.nexusmods.com/fallout4/mods/67/?tab=files&file_id=236370)
 *  [Better Console-26582-v1-5-1-1715706512.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=316511)
 *  [Better Landscape Grass-38360-3-1-1689888048.7z](https://www.nexusmods.com/fallout4/mods/38360/?tab=files&file_id=283992)
