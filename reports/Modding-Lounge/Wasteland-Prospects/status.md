@@ -7,6 +7,7 @@
 ### Valid (1108)
 *  [00 - Alcohol Bottles - Overhaul  - AIO Installer-73919-1-1-1700071972.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000119091)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-2-1714772524.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000129694)
+*  [1_Character Kit Remake - Hair-82147-1-0-1690857031.rar](https://www.nexusmods.com/newvegas/mods/82147/?tab=files&file_id=1000114037)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [1. Radiant Infinium-83610-2-1-1707117400.zip](https://www.nexusmods.com/newvegas/mods/83610/?tab=files&file_id=1000123184)
 *  [1. Radiant Infinium-83610-2-2-1717243756.zip](https://www.nexusmods.com/newvegas/mods/83610/?tab=files&file_id=1000133061)
@@ -135,7 +136,6 @@
 *  [CFWR - Butcher Pete Animation Patch-79271-1-0-1670723085_488055dcc656b74a02964a9f12ed8b7a3c5462a44c0e6b8ea834659739fed28f_.7z](https://www.nexusmods.com/newvegas/mods/79271/?tab=files&file_id=1000102228)
 *  [Challenges Tracker VUI Patch-80452-1-0-1714548158.7z](https://www.nexusmods.com/newvegas/mods/80452/?tab=files&file_id=1000129364)
 *  [Challenges Tracker-80452-0-12b-1715116871.7z](https://www.nexusmods.com/newvegas/mods/80452/?tab=files&file_id=1000130235)
-*  [Character Kit Remake - Hair-82147-1-0-1690857031_00e7abe0563e60766bb1a5b6b8f527c154c2b3f3d388596cdd7c010697d79e97_.rar](https://www.nexusmods.com/newvegas/mods/82147/?tab=files&file_id=1000114037)
 *  [Character Kit Remake - Hands-82148-1-1-1691365351.rar](https://www.nexusmods.com/newvegas/mods/82148/?tab=files&file_id=1000114421)
 *  [Character Kit Remake - IVMB - T4-82145-1-2-1694697257.rar](https://www.nexusmods.com/newvegas/mods/82145/?tab=files&file_id=1000116345)
 *  [Character Kit Remake - Teeth-82146-1-0-1689501066.rar](https://www.nexusmods.com/newvegas/mods/82146/?tab=files&file_id=1000113142)
@@ -187,6 +187,7 @@
 *  [Crash Logger-82540-4-6-1716062880.7z](https://www.nexusmods.com/newvegas/mods/82540/?tab=files&file_id=1000131525)
 *  [Creatures HD 2K-82849-1-0-1693354423.7z](https://www.nexusmods.com/newvegas/mods/82849/?tab=files&file_id=1000115644)
 *  [Critters 1.01-86131-1-01-1713813022.7z](https://www.nexusmods.com/newvegas/mods/86131/?tab=files&file_id=1000128282)
+*  [Custom Main Menu-80145-3-5-1-1739153768.7z](https://www.nexusmods.com/newvegas/mods/80145/?tab=files&file_id=1000146594)
 *  Data_CaravanPack - Main.bsa
 *  Data_CaravanPack.esm
 *  Data_CaravanPack.nam
@@ -1080,7 +1081,6 @@
 *  [Veronica Outfit Replacer - Scavenger Variant-71823-2-1-1694182857.7z](https://www.nexusmods.com/newvegas/mods/71823/?tab=files&file_id=1000116133)
 *  [Version 1.0-83316-1-0-1696325110.zip](https://www.nexusmods.com/newvegas/mods/83316/?tab=files&file_id=1000117223)
 *  VeryHigh.ini
-*  [VICE - Visuals Improved Content Expanded-83282-1-4-1713924889.rar](https://www.nexusmods.com/newvegas/mods/83282/?tab=files&file_id=1000128452)
 *  [Vicious Wastes-56671-4-31-5-1717191303.zip](https://www.nexusmods.com/newvegas/mods/56671/?tab=files&file_id=1000133007)
 *  [Viewmodel Shading Fix - NVSE-84781-2-0-1710109446.zip](https://www.nexusmods.com/newvegas/mods/84781/?tab=files&file_id=1000125365)
 *  [Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000124732)
