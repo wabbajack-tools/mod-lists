@@ -4,12 +4,15 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (218)
+### Valid (229)
+*  [1. Ultimate HD Fire Effects SSE - Ultra Resolution-20654-1-3-1634412219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20654/?tab=files&file_id=235215)
 *  [A Quality World Map - Classic with All Roads-5804-8-4CA.zip](https://www.nexusmods.com/skyrimspecialedition/mods/5804/?tab=files&file_id=13017)
+*  [Animated Forge Water-52322-0-9-1728437710.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=550349)
 *  [Believable weapons-37737-1-5-1643576065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=260562)
 *  [Bellyaches Animal and Creature Pack SSE-6839-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6839/?tab=files&file_id=36649)
 *  bink2w64.dll
 *  [Cathedral Armory Believable Weapons Patch-46199-1-0-1614226721.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46199/?tab=files&file_id=187879)
+*  [Cathedral Armory for CC - Anniversary Edition-85977-1-3-2-1683437262.rar](https://www.nexusmods.com/skyrimspecialedition/mods/85977/?tab=files&file_id=385558)
 *  [Cathedral Armory-20199-3-19-1656862976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=295873)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
@@ -185,6 +188,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [Deadly Spell Impacts v1.9-12939-1-9-0-1724962001.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=536557)
 *  Debug.log
 *  [Enhanced Vanilla Trees SE-Basic-11008-2-2-2-1690599404.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11008/?tab=files&file_id=411639)
 *  [Expressive Facegen Morphs SE-35785-1-0-1595174141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151138)
@@ -203,8 +207,10 @@
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Nordic Faces - FaceGen - Loose Files-40658-5-0-1717749276.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40658/?tab=files&file_id=509239)
 *  [Nordic Faces - Textures and Body Meshes-40658-5-0-1717748221.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40658/?tab=files&file_id=509230)
+*  [Remove Small Rocks v1.1-8733-1-1-1594863373.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8733/?tab=files&file_id=150621)
 *  [Root Builder 5.0.5-31720-5-0-5-1722935359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=528774)
 *  [Rudy HQ - Miscellaneous SE-19867-1-02-1605037093.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19867/?tab=files&file_id=169509)
+*  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [Skyland AIO-34179-4-32-1700281282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=443514)
 *  [Skyland Landscapes Parallax-86821-1-2-1683000576.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86821/?tab=files&file_id=383974)
 *  Skyrim_Default.ini
@@ -215,6 +221,7 @@
 *  [SMIM SE 2-08-659-2-08.7z](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files&file_id=59069)
 *  steam_api64.dll
 *  [TB's HD Cubemaps-46644-2-1615124869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46644/?tab=files&file_id=190028)
+*  [Terrain Lod Noise perfect darker-29032-1-1-1733739699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29032/?tab=files&file_id=570663)
 *  [The Vanilla ENB Two 2023.2-78124-2023-2-1684975256.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78124/?tab=files&file_id=391640)
 *  [Tree Bark in High Definition-20336-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20336/?tab=files&file_id=68117)
 *  [treepineforestbranch 8k sse lighten-25517-1-3-1662377042.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25517/?tab=files&file_id=313511)
@@ -223,3 +230,7 @@
 *  [Vanilla hair - Salt and Wind-45147-1-0-1612188024.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45147/?tab=files&file_id=183349)
 *  [Verdant - A Skyrim Grass Plugin - ESPFE-2296-1-9-1704159277.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2296/?tab=files&file_id=457107)
 *  [Veyrah Reshade for The Vanilla ENB-141371-1-0-1739148903.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141371/?tab=files&file_id=592925)
+*  [Vivid Clouds and Fogs-59809-2-90.7z](https://www.nexusmods.com/skyrim/mods/59809/?tab=files&file_id=1000192636)
+*  [Voltage 4-2K-15565-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15565/?tab=files&file_id=52702)
+*  [Water Effects Brightness and Reflection Fix-63862-0-5-1667245683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63862/?tab=files&file_id=328036)
+*  [Water Mod-56520-0-7-1700807193.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56520/?tab=files&file_id=445463)
