@@ -4,21 +4,22 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (909)
-*  [Add-on Maker's Toolkit for Sim Settlements 2-48521-3-3-1-1713231780.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=310353)
+### Valid (911)
+*  [Add-on Maker's Toolkit for Sim Settlements 2-48521-3-4-0-1729992071.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=338042)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [BA2 Archive Version Patcher-82114-1-0-1714846044.7z](https://www.nexusmods.com/fallout4/mods/82114/?tab=files&file_id=314201)
 *  [BackportedBA2Support-1_0-81859-1-0-1714516128.zip](https://www.nexusmods.com/fallout4/mods/81859/?tab=files&file_id=313321)
 *  [Better Console-26582-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=120757)
 *  bink2w64.dll
-*  [Buffout4 NG-64880-1-35-1-1720237181.7z](https://www.nexusmods.com/fallout4/mods/64880/?tab=files&file_id=325686)
+*  [Buffout4 NG-64880-1-36-0-1728807293.7z](https://www.nexusmods.com/fallout4/mods/64880/?tab=files&file_id=336673)
 *  [Canary v 1.0.0-44949-1-0-0-1588955837.7z](https://www.nexusmods.com/fallout4/mods/44949/?tab=files&file_id=181383)
-*  [CK Platform Extended 0.4-b200-51165-0-4-b200-1724452010.zip](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=331384)
+*  [CK Platform Extended 0.4-b968-51165-0-4-b968-1736978059.zip](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=345331)
 *  [Corner Wall Snappy-60955-1-0-1-1655440961.7z](https://www.nexusmods.com/fallout4/mods/60955/?tab=files&file_id=240801)
 *  [Corridor Snappy-61770-1-0-1656602842.7z](https://www.nexusmods.com/fallout4/mods/61770/?tab=files&file_id=242013)
 *  [Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=172411)
 *  CreationKit.exe
 *  CreationKit.ini
+*  CreationKitPrefs.ini
 *  cudart64_75.dll
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
@@ -123,6 +124,7 @@
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
+*  [loot_0.23.0-win64.7z](https://github.com/loot/loot/releases/download/0.23.0/loot_0.23.0-win64.7z)
 *  Low.ini
 *  [Magic Effect and Spell Engine Fixes-83433-1-0-1716598468.zip](https://www.nexusmods.com/fallout4/mods/83433/?tab=files&file_id=318758)
 *  [MCM Booster-56997-1-0-1641058633.rar](https://www.nexusmods.com/fallout4/mods/56997/?tab=files&file_id=225311)
@@ -136,7 +138,7 @@
 *  [NSO - Base Pack 5.0-13959-5-0.7z](https://www.nexusmods.com/fallout4/mods/13959/?tab=files&file_id=71471)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
-*  [Old-Gen Replacers-35004-2-4-1b-1723688631.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=330186)
+*  [Old-Gen Replacers-35004-2-4-5-1737745926.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=346167)
 *  [Outfit ReDress Fix-72657-1-0-0-1688509648.zip](https://www.nexusmods.com/fallout4/mods/72657/?tab=files&file_id=282361)
 *  Papyrus Compiler_Antlr3.Runtime.dll
 *  Papyrus Compiler_Antlr3.StringTemplate.dll
@@ -151,13 +153,13 @@
 *  [Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z](https://www.nexusmods.com/fallout4/mods/9424/?tab=files&file_id=172081)
 *  [rootbuilder.5.0.2.zip](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip)
 *  [Scaffolding Snapping 1.1-61017-1-1-1654857804.7z](https://www.nexusmods.com/fallout4/mods/61017/?tab=files&file_id=240171)
-*  [Sim Settlements 2-47976-3-3-5-1722636207.zip](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=328873)
+*  [Sim Settlements 2-47976-3-4-4-1737771063.zip](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=346185)
 *  [Snappy Half Walls-61248-1-0-1655024715.7z](https://www.nexusmods.com/fallout4/mods/61248/?tab=files&file_id=240391)
 *  [Snappy Railings-61850-1-0-1656829946.7z](https://www.nexusmods.com/fallout4/mods/61850/?tab=files&file_id=242304)
 *  [Snappy Stairs-62534-1-0-1658649409.7z](https://www.nexusmods.com/fallout4/mods/62534/?tab=files&file_id=244300)
-*  [SS2 Chapter 2-55817-3-3-5-1722636220.zip](https://www.nexusmods.com/fallout4/mods/55817/?tab=files&file_id=328874)
-*  [SS2 Chapter 3-73394-3-3-5-1722636234.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=328875)
-*  [SS2 Extended-73394-3-3-5-1722636246.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=328877)
+*  [SS2 Chapter 2-55817-3-4-4-1737771066.zip](https://www.nexusmods.com/fallout4/mods/55817/?tab=files&file_id=346186)
+*  [SS2 Chapter 3-73394-3-4-4-1737771072.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=346188)
+*  [SS2 Extended-73394-3-4-4-1737771077.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=346189)
 *  [SS2 Workshop HUD Override-47976-1-0-1-1605295694.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=194876)
 *  ssce5564.dll
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
@@ -911,6 +913,6 @@
 *  [Useful Posts for Behemoth's-61294-1-1-1656823588.7z](https://www.nexusmods.com/fallout4/mods/61294/?tab=files&file_id=242302)
 *  [Wasteland Reconstruction Kit-48960-3-3-5-1722636359.zip](https://www.nexusmods.com/fallout4/mods/48960/?tab=files&file_id=328879)
 *  [Wasteland Workshop Snappable Posters-62564-1-0-1658702991.rar](https://www.nexusmods.com/fallout4/mods/62564/?tab=files&file_id=244395)
-*  [Workshop Framework-35004-2-4-1b-1722447493.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=328647)
+*  [Workshop Framework-35004-2-4-5-1737745848.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=346166)
 *  [Workshop Plus-35005-1-0-15a-1712338821.zip](https://www.nexusmods.com/fallout4/mods/35005/?tab=files&file_id=309160)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
