@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (911)
+### Valid (910)
 *  [Add-on Maker's Toolkit for Sim Settlements 2-48521-3-4-0-1729992071.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=338042)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [BA2 Archive Version Patcher-82114-1-0-1714846044.7z](https://www.nexusmods.com/fallout4/mods/82114/?tab=files&file_id=314201)
@@ -19,7 +19,6 @@
 *  [Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=172411)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  cudart64_75.dll
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
