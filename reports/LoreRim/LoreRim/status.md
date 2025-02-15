@@ -628,7 +628,7 @@
 *  [C.) GoT HotD Dragons - Wyrmstooth replacer-83718-1-0-1675185578.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83718/?tab=files&file_id=355006)
 *  [C.O.C.K.S. for Skyrim 1.5-81723-2-2-1716076783.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81723/?tab=files&file_id=502586)
 *  [C.O.I.N. - Merchant Echange-70644-2-1-1-1727796406.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70644/?tab=files&file_id=548074)
-*  [C.O.I.N.-51439-3-1-5-1729924804.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=555594)
+*  [C.O.I.N.-51439-3-2-0-1739495607.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=594353)
 *  [Cabbage ENB-103042-1-2-2-1731486995.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103042/?tab=files&file_id=561795)
 *  [Cabbage ENB-103042-1-2-3-1732516825.zip](https://www.nexusmods.com/skyrimspecialedition/mods/103042/?tab=files&file_id=565860)
 *  [Cabbage ENB-103042-1-2-5-1734028165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103042/?tab=files&file_id=571727)
