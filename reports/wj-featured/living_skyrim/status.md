@@ -412,7 +412,7 @@
 *  [ER Extra Greatsword-71233-1-0-1657618497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71233/?tab=files&file_id=298323)
 *  [ER moveset collection  (MCO)-72220-1-0-1658928197.rar](https://www.nexusmods.com/skyrimspecialedition/mods/72220/?tab=files&file_id=302611)
 *  [ER moveset collection (OAR)-72220-1-1-1686482090.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72220/?tab=files&file_id=396900)
-*  [ESLify Everything - ESPFE Everything-75248-3-2-1-1666022766.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75248/?tab=files&file_id=324806)
+*  [ESLifyEverything.rar](https://github.com/Michael-wigontherun/ESLifyEverything/releases/download/V3.2.1/ESLifyEverything.rar)
 *  [ESO Style Cursor-39670-1-0-1598059614.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39670/?tab=files&file_id=156959)
 *  [Essential Favorites SE-42997-2-2-0-1637889161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42997/?tab=files&file_id=244390)
 *  [esv-di4756-patch-jkskyrim-havaswares-87648-1-1679608936.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87648/?tab=files&file_id=371466)

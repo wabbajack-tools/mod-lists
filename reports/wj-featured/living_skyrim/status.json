@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/living_skyrim",
   "Name": "Living Skyrim",
   "Version": "4.2.0.4",
-  "ModListHash": "jTGCEB2bIwA=",
+  "ModListHash": "MhQjmxAENeg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1464,20 +1464,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "WiG2+vAEQ6A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=75248\nfileID=324806",
-        "Name": "ESLify Everything - ESPFE Everything-75248-3-2-1-1666022766.rar",
+        "Meta": "[General]\ndirectURL=https://github.com/Michael-wigontherun/ESLifyEverything/releases/download/V3.2.1/ESLifyEverything.rar",
+        "Name": "ESLifyEverything.rar",
         "Size": 10253383,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WigOnTheRun",
-          "Description": "Eslifies all Form Data in files.",
-          "FileID": 324806,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/75248/75248-1692712176-833083633.png",
-          "IsNSFW": false,
-          "ModID": 75248,
-          "Name": "ESLify Everything - ESPFE and Mergify Everything",
-          "Version": "4.10.0"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Michael-wigontherun/ESLifyEverything/releases/download/V3.2.1/ESLifyEverything.rar"
         }
       }
     },
@@ -29142,6 +29135,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DSzVIN5Ht2Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2227\nfileID=156230",
+        "Name": "Khajiit Will Follow-2227-4-6-1-1597714670.zip",
+        "Size": 258692004,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "robbobert",
+          "Description": "Adds 4 custom-voiced, marriageable khajiit followers (3 male, 1 female) to the world, each with their own unique quests, backstories, personalities, and play styles. Includes 10,000\u002B lines of dialogue and massive content patches for both The Forgotten City and Vigilant quest mods.",
+          "FileID": 156230,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2227/2227-1545443699-930583308.jpeg",
+          "IsNSFW": false,
+          "ModID": 2227,
+          "Name": "Khajiit Will Follow",
+          "Version": "4.7.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "H+5Nz0tMcy4=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
@@ -29158,21 +29172,226 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DSzVIN5Ht2Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2227\nfileID=156230",
-        "Name": "Khajiit Will Follow-2227-4-6-1-1597714670.zip",
-        "Size": 258692004,
+        "Hash": "f+OVJlWp6cA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378762772,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "f+OVJlWp6cA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZrqTVjcgRhg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33541\nfileID=137941",
+        "Name": "Northbourne NPCs of Riverwood Full Version-33541-1-3-1588572248.7z",
+        "Size": 38138783,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "robbobert",
-          "Description": "Adds 4 custom-voiced, marriageable khajiit followers (3 male, 1 female) to the world, each with their own unique quests, backstories, personalities, and play styles. Includes 10,000\u002B lines of dialogue and massive content patches for both The Forgotten City and Vigilant quest mods.",
-          "FileID": 156230,
+          "Author": "Southpawe",
+          "Description": "This is a NPC high poly face replacer/redesign for all the named male and female NPCs in Riverwood (except children).",
+          "FileID": 137941,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2227/2227-1545443699-930583308.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33541/33541-1584070871-1431226136.jpeg",
           "IsNSFW": false,
-          "ModID": 2227,
-          "Name": "Khajiit Will Follow",
-          "Version": "4.7.1"
+          "ModID": 33541,
+          "Name": "Northbourne NPCs of Riverwood",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gXiBCURGUqg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10902\nfileID=138832",
+        "Name": "The Men of Winter SSE-10902-V5-3-1588967939.7z",
+        "Size": 131878445,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sette",
+          "Description": "Improves some of the male NPCs found in Skyrim.",
+          "FileID": 138832,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10902/10902-1570414390-814088745.jpeg",
+          "IsNSFW": false,
+          "ModID": 10902,
+          "Name": "The Men of Winter SSE",
+          "Version": "V5.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M9gla3VTNVM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56988\nfileID=234473",
+        "Name": "Modpocalypse NPCs (v3) Carriage and Ferry Travel Overhaul-56988-1-0-1634086750.7z",
+        "Size": 8092797,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Carriage and Ferry Travel Overhaul\u0022.",
+          "FileID": 234473,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56988/56988-1634086613-60888666.jpeg",
+          "IsNSFW": false,
+          "ModID": 56988,
+          "Name": "Modpocalypse NPCs - Carriage and Ferry Travel Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YO1kTCevy0k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42635\nfileID=174296",
+        "Name": "Beards of Power - BSA version-42635-0-3beard-1607797942.zip",
+        "Size": 314260248,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mharlek1",
+          "Description": "Beards",
+          "FileID": 174296,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42635/42635-1605975517-882099118.png",
+          "IsNSFW": false,
+          "ModID": 42635,
+          "Name": "Beards of Power",
+          "Version": "0.3beard"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A7aSa4s+o1g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21972\nfileID=75694",
+        "Name": "Metalsabers Elegant Elves of Skyrim-21972-1-1-1545249188.7z",
+        "Size": 30613591,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Metalsaber",
+          "Description": "This mod is an overhaul of the Elves of Skyrim.  I didn\u0027t touch the ones from the Bijin mod series.  This mod includes new facegen/facetint data.  It includes hair as well.   This mod will use YOUR skin textures.  I\u0027ve also updated a few of the characters outfits to non-hooded versions.",
+          "FileID": 75694,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21972/21972-1545314991-771710350.jpeg",
+          "IsNSFW": false,
+          "ModID": 21972,
+          "Name": "Metalsabers Elegant Elves of Skyrim",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JHW5QvVlVFw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22025\nfileID=75781",
+        "Name": "Metalsabers Beautiful Orcs of Skyrim-22025-1-0-1545341006.7z",
+        "Size": 29812443,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Metalsaber",
+          "Description": "This mod is an overhaul of the Orcs of Skyrim. I didn\u0027t touch the ones from the Bijin mod series. This mod includes new facegen/facetint data. It includes hair as well. This mod will use YOUR skin textures. I\u0027ve also updated a few of the characters outfits to non-hooded versions.",
+          "FileID": 75781,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22025/22025-1545341510-1608432808.jpeg",
+          "IsNSFW": false,
+          "ModID": 22025,
+          "Name": "Metalsabers Beautiful Orcs of Skyrim",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F0I0soeZp4c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24931\nfileID=240630",
+        "Name": "PAN_Serana SE-24931-1-2-1-1636662697.rar",
+        "Size": 47403374,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "\u0022This must be that beautiful Skyrim weather I\u0027ve always heard about.\u0022",
+          "FileID": 240630,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24931/24931-1634076731-1782486122.png",
+          "IsNSFW": false,
+          "ModID": 24931,
+          "Name": "Pandorable\u0027s Serana",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s22hF4O5cfI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
+        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
+        "Size": 861471059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of every NPC in the base game.",
+          "FileID": 223358,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
+          "IsNSFW": false,
+          "ModID": 54422,
+          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ew1K+iTdTwg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54590\nfileID=224017",
+        "Name": "Modpocalypse NPCs (v3) Citizens of Tamriel-54590-1-0-1630028328.7z",
+        "Size": 9786511,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of the new NPCs added by Citizens of Tamriel SE.",
+          "FileID": 224017,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54590/54590-1630028036-896631085.jpeg",
+          "IsNSFW": false,
+          "ModID": 54590,
+          "Name": "Modpocalypse NPCs - Citizens of Tamriel",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XY0Pi4AImYw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31273\nfileID=117550",
+        "Name": "Pandorable\u0027s Frea and Frida-31273-1-0-1577410371.rar",
+        "Size": 30608407,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A small holiday gift. Includes both a replacer \u0026amp; standalone follower version.",
+          "FileID": 117550,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31273/31273-1577400582-974125650.png",
+          "IsNSFW": false,
+          "ModID": 31273,
+          "Name": "Pandorable\u0027s Frea",
+          "Version": "1.0"
         }
       }
     },
@@ -29195,22 +29414,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FC+yJIfHEZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
-        "Name": "Data_ccbgssse001-fish.bsa",
-        "Size": 377675522,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse001-fish.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "FC+yJIfHEZY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "fRzc4wAVRPI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=56479\nfileID=232202",
         "Name": "Modpocalypse NPCs (v3) Obscure\u0027s College of Winterhold-56479-1-0-1633220920.7z",
@@ -29225,27 +29428,6 @@
           "IsNSFW": false,
           "ModID": 56479,
           "Name": "Modpocalypse NPCs - Obscure\u0027s College of Winterhold",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M9gla3VTNVM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56988\nfileID=234473",
-        "Name": "Modpocalypse NPCs (v3) Carriage and Ferry Travel Overhaul-56988-1-0-1634086750.7z",
-        "Size": 8092797,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Carriage and Ferry Travel Overhaul\u0022.",
-          "FileID": 234473,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56988/56988-1634086613-60888666.jpeg",
-          "IsNSFW": false,
-          "ModID": 56988,
-          "Name": "Modpocalypse NPCs - Carriage and Ferry Travel Overhaul",
           "Version": "1.0"
         }
       }
@@ -29316,48 +29498,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ew1K+iTdTwg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54590\nfileID=224017",
-        "Name": "Modpocalypse NPCs (v3) Citizens of Tamriel-54590-1-0-1630028328.7z",
-        "Size": 9786511,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of the new NPCs added by Citizens of Tamriel SE.",
-          "FileID": 224017,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54590/54590-1630028036-896631085.jpeg",
-          "IsNSFW": false,
-          "ModID": 54590,
-          "Name": "Modpocalypse NPCs - Citizens of Tamriel",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s22hF4O5cfI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
-        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
-        "Size": 861471059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of every NPC in the base game.",
-          "FileID": 223358,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
-          "IsNSFW": false,
-          "ModID": 54422,
-          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Qz4j54KtLQI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=62213\nfileID=257876",
         "Name": "Northbourne NPCs of Hjaalmarch-62213-1-0-1642588052.7z",
@@ -29379,27 +29519,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZrqTVjcgRhg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33541\nfileID=137941",
-        "Name": "Northbourne NPCs of Riverwood Full Version-33541-1-3-1588572248.7z",
-        "Size": 38138783,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Southpawe",
-          "Description": "This is a NPC high poly face replacer/redesign for all the named male and female NPCs in Riverwood (except children).",
-          "FileID": 137941,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33541/33541-1584070871-1431226136.jpeg",
-          "IsNSFW": false,
-          "ModID": 33541,
-          "Name": "Northbourne NPCs of Riverwood",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "duDsTwxEbrg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=59531\nfileID=246662",
         "Name": "PAN_DevotedDames SE-59531-1-0-1638658274.rar",
@@ -29415,27 +29534,6 @@
           "ModID": 59531,
           "Name": "Pandorable\u0027s Devoted Dames - Aranea Eola Senna",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "A7aSa4s+o1g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21972\nfileID=75694",
-        "Name": "Metalsabers Elegant Elves of Skyrim-21972-1-1-1545249188.7z",
-        "Size": 30613591,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Metalsaber",
-          "Description": "This mod is an overhaul of the Elves of Skyrim.  I didn\u0027t touch the ones from the Bijin mod series.  This mod includes new facegen/facetint data.  It includes hair as well.   This mod will use YOUR skin textures.  I\u0027ve also updated a few of the characters outfits to non-hooded versions.",
-          "FileID": 75694,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21972/21972-1545314991-771710350.jpeg",
-          "IsNSFW": false,
-          "ModID": 21972,
-          "Name": "Metalsabers Elegant Elves of Skyrim",
-          "Version": "1.1"
         }
       }
     },
@@ -29484,27 +29582,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gXiBCURGUqg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10902\nfileID=138832",
-        "Name": "The Men of Winter SSE-10902-V5-3-1588967939.7z",
-        "Size": 131878445,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sette",
-          "Description": "Improves some of the male NPCs found in Skyrim.",
-          "FileID": 138832,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10902/10902-1570414390-814088745.jpeg",
-          "IsNSFW": false,
-          "ModID": 10902,
-          "Name": "The Men of Winter SSE",
-          "Version": "V5.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "hgutbu/a2MQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=58196\nfileID=240234",
         "Name": "Modpocalypse NPCs (v3) Moon and Star-58196-1-0-1636505364.7z",
@@ -29547,27 +29624,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XY0Pi4AImYw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31273\nfileID=117550",
-        "Name": "Pandorable\u0027s Frea and Frida-31273-1-0-1577410371.rar",
-        "Size": 30608407,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A small holiday gift. Includes both a replacer \u0026amp; standalone follower version.",
-          "FileID": 117550,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31273/31273-1577400582-974125650.png",
-          "IsNSFW": false,
-          "ModID": 31273,
-          "Name": "Pandorable\u0027s Frea",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9tWFqg5SSJc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=56743\nfileID=233338",
         "Name": "Modpocalypse NPCs (v3) Carved Brink-56743-1-0-1633654884.7z",
@@ -29604,90 +29660,6 @@
           "ModID": 35799,
           "Name": "Pandorable\u0027s Valerica",
           "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "F0I0soeZp4c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24931\nfileID=240630",
-        "Name": "PAN_Serana SE-24931-1-2-1-1636662697.rar",
-        "Size": 47403374,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "\u0022This must be that beautiful Skyrim weather I\u0027ve always heard about.\u0022",
-          "FileID": 240630,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24931/24931-1634076731-1782486122.png",
-          "IsNSFW": false,
-          "ModID": 24931,
-          "Name": "Pandorable\u0027s Serana",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YO1kTCevy0k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42635\nfileID=174296",
-        "Name": "Beards of Power - BSA version-42635-0-3beard-1607797942.zip",
-        "Size": 314260248,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mharlek1",
-          "Description": "Beards",
-          "FileID": 174296,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42635/42635-1605975517-882099118.png",
-          "IsNSFW": false,
-          "ModID": 42635,
-          "Name": "Beards of Power",
-          "Version": "0.3beard"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JHW5QvVlVFw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22025\nfileID=75781",
-        "Name": "Metalsabers Beautiful Orcs of Skyrim-22025-1-0-1545341006.7z",
-        "Size": 29812443,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Metalsaber",
-          "Description": "This mod is an overhaul of the Orcs of Skyrim. I didn\u0027t touch the ones from the Bijin mod series. This mod includes new facegen/facetint data. It includes hair as well. This mod will use YOUR skin textures. I\u0027ve also updated a few of the characters outfits to non-hooded versions.",
-          "FileID": 75781,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22025/22025-1545341510-1608432808.jpeg",
-          "IsNSFW": false,
-          "ModID": 22025,
-          "Name": "Metalsabers Beautiful Orcs of Skyrim",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UV7C5JRMY+I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55877\nfileID=229684",
-        "Name": "PAN_NPCs - Sovngarde-55877-1-0-1632163033.rar",
-        "Size": 102148728,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "Dead people deserve to be pretty too.",
-          "FileID": 229684,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55877/109031-1632154005-789479461.png",
-          "IsNSFW": false,
-          "ModID": 55877,
-          "Name": "Pandorable\u0027s Heroes of Sovngarde",
-          "Version": "1.0"
         }
       }
     },
@@ -29771,6 +29743,27 @@
           "IsNSFW": false,
           "ModID": 56694,
           "Name": "Modpocalypse NPCs - The Great Town of Ivarstead",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UV7C5JRMY+I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55877\nfileID=229684",
+        "Name": "PAN_NPCs - Sovngarde-55877-1-0-1632163033.rar",
+        "Size": 102148728,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "Dead people deserve to be pretty too.",
+          "FileID": 229684,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55877/109031-1632154005-789479461.png",
+          "IsNSFW": false,
+          "ModID": 55877,
+          "Name": "Pandorable\u0027s Heroes of Sovngarde",
           "Version": "1.0"
         }
       }
@@ -29862,16 +29855,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "f+OVJlWp6cA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 378762772,
+        "Hash": "FC+yJIfHEZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
+        "Name": "Data_ccbgssse001-fish.bsa",
+        "Size": 377675522,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameFile": "Data\\ccbgssse001-fish.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "f+OVJlWp6cA="
+          "Hash": "FC+yJIfHEZY="
         }
       }
     }
