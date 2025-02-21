@@ -4,9 +4,10 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (229)
+### Valid (231)
 *  [1. Ultimate HD Fire Effects SSE - Ultra Resolution-20654-1-3-1634412219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20654/?tab=files&file_id=235215)
 *  [A Quality World Map - Classic with All Roads-5804-8-4CA.zip](https://www.nexusmods.com/skyrimspecialedition/mods/5804/?tab=files&file_id=13017)
+*  [All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=470707)
 *  [Animated Forge Water-52322-0-9-1728437710.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=550349)
 *  [Believable weapons-37737-1-5-1643576065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=260562)
 *  [Bellyaches Animal and Creature Pack SSE-6839-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6839/?tab=files&file_id=36649)
@@ -213,6 +214,7 @@
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [Skyland AIO-34179-4-32-1700281282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=443514)
 *  [Skyland Landscapes Parallax-86821-1-2-1683000576.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86821/?tab=files&file_id=383974)
+*  [Skyrim Together Reborn-69993-1-7-1-1733172081.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69993/?tab=files&file_id=568379)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
