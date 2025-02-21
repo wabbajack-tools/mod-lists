@@ -260,7 +260,7 @@
 *  [Daedric Shrines - Mehrunes Dagon - Tomato's 4K-76942-3-2-1718195538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76942/?tab=files&file_id=510888)
 *  [Daedric Shrines AIO by Xtudo - FIXES No Map Marker-78809-4-3-1724842945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78809/?tab=files&file_id=536108)
 *  [Daedric Shrines AIO Complex Material-135679-1-0-1733712296.rar](https://www.nexusmods.com/skyrimspecialedition/mods/135679/?tab=files&file_id=570541)
-*  [DALC Fix Preset-103052-8-3-1738814653.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103052/?tab=files&file_id=591567)
+*  [DALC Fix Preset-103052-8-6-1740072412.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103052/?tab=files&file_id=596972)
 *  [Dark Brotherhood Armors Retexture SE-93890-1-0-1687267107.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93890/?tab=files&file_id=399399)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
 *  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
