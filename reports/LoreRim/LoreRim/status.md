@@ -2267,7 +2267,7 @@
 *  [Karstaag - The Frost King Reborn-14328-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14328/?tab=files&file_id=42262)
 *  [Kart_CSSET_Overwrite_LATEST-38775-1-2-3-2-1639242215.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38775/?tab=files&file_id=248251)
 *  [Katana - Journey in the Shadows-69622-3-0-2-1736797139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69622/?tab=files&file_id=582995)
-*  [Katana - Raven Replacer - LoreCut - Reqtificated-132964-1-8KRL-1736797478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132964/?tab=files&file_id=582996)
+*  [Katana - Raven Replacer - LoreCut - Reqtificated-132964-1-8-1KRL-1740443644.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132964/?tab=files&file_id=598739)
 *  [Katana - Raven Replacer-69622-1-1-1-1734189554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69622/?tab=files&file_id=572338)
 *  [Katana 2H WIP-109489-0-1-1705536008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109489/?tab=files&file_id=462436)
 *  [Katariah Ship Stairs Fix-127434-1-0-1724364459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127434/?tab=files&file_id=534273)
