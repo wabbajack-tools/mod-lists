@@ -41,7 +41,7 @@
 *  [Better Various Widgets All-In-One-5291-1-0-6-1725523638.zip](https://www.nexusmods.com/baldursgate3/mods/5291/?tab=files&file_id=68803)
 *  [BetterDualWielding-1028-3-2-1715084458.zip](https://www.nexusmods.com/baldursgate3/mods/1028/?tab=files&file_id=56228)
 *  [BG2 Mouse Cursors (Pak)-1923-1-2p-1725904215.zip](https://www.nexusmods.com/baldursgate3/mods/1923/?tab=files&file_id=70176)
-*  [BG3-Plugin-2.2.0.zip](https://www.nexusmods.com/site/mods/807/?tab=files&file_id=3993)
+*  [BG3-MO2-Unofficial-Plugin 0.6.5-14407-0-6-5-1735232165.zip](https://www.nexusmods.com/baldursgate3/mods/14407/?tab=files&file_id=82833)
 *  [BotT Buff ANY-11566-1-1723621286.zip](https://www.nexusmods.com/baldursgate3/mods/11566/?tab=files&file_id=67064)
 *  [BS-AdjustableShovePull-0_1_0_6-9371-0-1-0-6-1723819838.zip](https://www.nexusmods.com/baldursgate3/mods/9371/?tab=files&file_id=67308)
 *  [BS-PreferredCastingAbilityFix-0_2_0_7-10209-0-2-0-7-1723820031.zip](https://www.nexusmods.com/baldursgate3/mods/10209/?tab=files&file_id=67309)
