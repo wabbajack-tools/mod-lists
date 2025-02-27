@@ -233,7 +233,7 @@
 *  [Colored Quests - Updated-49966-1-1-1632815597.7z](https://www.nexusmods.com/oblivion/mods/49966/?tab=files&file_id=1000029211)
 *  [Colovian Barrow Mounds-46677-1-1.7z](https://www.nexusmods.com/oblivion/mods/46677/?tab=files&file_id=1000012931)
 *  [Colovian Carpets-52995-1-0-1684679406.7z](https://www.nexusmods.com/oblivion/mods/52995/?tab=files&file_id=1000034734)
-*  [Combat Reshoveled-54863-1-2-2-1740272461.zip](https://www.nexusmods.com/oblivion/mods/54863/?tab=files&file_id=1000040929)
+*  [Combat Reshoveled-54863-1-2-3-1740654871.zip](https://www.nexusmods.com/oblivion/mods/54863/?tab=files&file_id=1000040989)
 *  [Combat Stance Reanimation v3.0-43695-3-0.rar](https://www.nexusmods.com/oblivion/mods/43695/?tab=files&file_id=1000012821)
 *  [CompanionViljaALL_IN_ONE_V4_04-28977-4-04.7z](https://www.nexusmods.com/oblivion/mods/28977/?tab=files&file_id=1000008346)
 *  [Compiled Version-40923-v1-1.zip](https://www.nexusmods.com/oblivion/mods/40923/?tab=files&file_id=1000009931)
