@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (987)
+### Valid (1002)
 *  [''I HAVE NO GREETING'' Fix for Oblivion-49115-V2-1687570593.zip](https://www.nexusmods.com/oblivion/mods/49115/?tab=files&file_id=1000035117)
 *  ['Big Tony's Deli' Lore Friendly Sign Replacement-51800-1-1645921915.zip](https://www.nexusmods.com/oblivion/mods/51800/?tab=files&file_id=1000030476)
 *  [00SnowyRoadToBruma Fighters Guild Quests-49605-1-1567078857.7z](https://www.nexusmods.com/oblivion/mods/49605/?tab=files&file_id=1000022865)
@@ -331,7 +331,21 @@
 *  Data_Oblivion - Voices1.bsa
 *  Data_Oblivion - Voices2.bsa
 *  Data_Oblivion.esm
+*  Data_Shaders_shaderpackage001.sdp
 *  Data_Shaders_shaderpackage002.sdp
+*  Data_Shaders_shaderpackage003.sdp
+*  Data_Shaders_shaderpackage004.sdp
+*  Data_Shaders_shaderpackage005.sdp
+*  Data_Shaders_shaderpackage007.sdp
+*  Data_Shaders_shaderpackage009.sdp
+*  Data_Shaders_shaderpackage010.sdp
+*  Data_Shaders_shaderpackage011.sdp
+*  Data_Shaders_shaderpackage012.sdp
+*  Data_Shaders_shaderpackage013.sdp
+*  Data_Shaders_shaderpackage016.sdp
+*  Data_Shaders_shaderpackage017.sdp
+*  Data_Shaders_shaderpackage018.sdp
+*  Data_Shaders_shaderpackage019.sdp
 *  Data_Video_2k games.bik
 *  Data_Video_bethesda softworks HD720p.bik
 *  Data_Video_CreditsMenu.bik
@@ -543,6 +557,7 @@
 *  [Fully Voiced Vile Lair DLC Overhaul 1.31-52028-1-31-1692563265.rar](https://www.nexusmods.com/oblivion/mods/52028/?tab=files&file_id=1000035832)
 *  [Fundament R4 U3-41005-4-03.zip](https://www.nexusmods.com/oblivion/mods/41005/?tab=files&file_id=1000008481)
 *  [Fur and Leather Armor - Visual Edits-53510-1-1697979073.7z](https://www.nexusmods.com/oblivion/mods/53510/?tab=files&file_id=1000036617)
+*  [Gamblers of Cyrodiil Voices (ElevenLabs)-54930-1-0-1740925598.7z](https://www.nexusmods.com/oblivion/mods/54930/?tab=files&file_id=1000041030)
 *  [Gamblers of Cyrodiil-4170.zip](https://www.nexusmods.com/oblivion/mods/4170/?tab=files&file_id=3498)
 *  [GasClouds4096-49978-1-0-1602930224.zip](https://www.nexusmods.com/oblivion/mods/49978/?tab=files&file_id=1000025955)
 *  [Gecko's Ayleid Ruins Textures-46023-1.zip](https://www.nexusmods.com/oblivion/mods/46023/?tab=files&file_id=1000009914)
@@ -567,7 +582,6 @@
 *  [Hackdirt Alive-42948-.7z](https://www.nexusmods.com/oblivion/mods/42948/?tab=files&file_id=92936)
 *  [Hackdirt The Deep Ones 3.3-36224-3-3-1739169224.7z](https://www.nexusmods.com/oblivion/mods/36224/?tab=files&file_id=1000040771)
 *  [Harvest Flora No Laggy Harrada-53938-1-0-1712548859.zip](https://www.nexusmods.com/oblivion/mods/53938/?tab=files&file_id=1000038157)
-*  [Harvest Flora v3_0_1-2037.zip](https://www.nexusmods.com/oblivion/mods/2037/?tab=files&file_id=21250)
 *  [HD Cobwebs-50488-1-0-1603993466.7z](https://www.nexusmods.com/oblivion/mods/50488/?tab=files&file_id=1000026010)
 *  [HD Elsweyr - Road Signs-44033-1-0.7z](https://www.nexusmods.com/oblivion/mods/44033/?tab=files&file_id=1000003109)
 *  [HD Fonts for Darnified UI-49266-1-02-1740013952.7z](https://www.nexusmods.com/oblivion/mods/49266/?tab=files&file_id=1000040896)
@@ -769,9 +783,11 @@
 *  [OCOv2 uses merged teeth-48378-1.rar](https://www.nexusmods.com/oblivion/mods/48378/?tab=files&file_id=1000019010)
 *  [OCRAFT - Compatilbility Settings-53220-1-2-1691500438.zip](https://www.nexusmods.com/oblivion/mods/53220/?tab=files&file_id=1000035658)
 *  [OCRAFT - Stations for Sale-54541-1-27-1739812402.7z](https://www.nexusmods.com/oblivion/mods/54541/?tab=files&file_id=1000040854)
+*  [OCRAFT - Stations for Sale-54541-1-3-1740838739.7z](https://www.nexusmods.com/oblivion/mods/54541/?tab=files&file_id=1000041015)
 *  [OCRAFT - Stations-53877-1-0-0-1709895026.7z](https://www.nexusmods.com/oblivion/mods/53877/?tab=files&file_id=1000037972)
 *  [OCRAFT-51796-1-04-1738777732.7z](https://www.nexusmods.com/oblivion/mods/51796/?tab=files&file_id=1000040735)
 *  [ODOS 1.2-54217-1-2-1725193505.zip](https://www.nexusmods.com/oblivion/mods/54217/?tab=files&file_id=1000039245)
+*  [only file needed-48872-1-0-1541185795.7z](https://www.nexusmods.com/oblivion/mods/48872/?tab=files&file_id=1000020618)
 *  [OOO - Treasure-53877-1-0-0-1709894942.7z](https://www.nexusmods.com/oblivion/mods/53877/?tab=files&file_id=1000037967)
 *  [OOO BSA-46199-1-5-15-1717285415.7z](https://www.nexusmods.com/oblivion/mods/46199/?tab=files&file_id=1000038495)
 *  [OOO Enhanced - Resources-47187-5-2-1738701955.rar](https://www.nexusmods.com/oblivion/mods/47187/?tab=files&file_id=1000040728)
@@ -787,7 +803,7 @@
 *  [Optimized VWD-49595-2-0-1621031055.7z](https://www.nexusmods.com/oblivion/mods/49595/?tab=files&file_id=1000027797)
 *  [Optional torch-38061-1-1.7z](https://www.nexusmods.com/oblivion/mods/38061/?tab=files&file_id=78383)
 *  [OR Additional Effects-50563-0-93-1608497627.zip](https://www.nexusmods.com/oblivion/mods/50563/?tab=files&file_id=1000026435)
-*  [ORC193-51927-1-9-3-1701938672(1).7z](https://www.nexusmods.com/oblivion/mods/51927/?tab=files&file_id=1000037139)
+*  [ORC216-51927-2-1-6-1739144045.7z](https://www.nexusmods.com/oblivion/mods/51927/?tab=files&file_id=1000040769)
 *  [Particled Ayleid Stones 1.0-47245-1-0.7z](https://www.nexusmods.com/oblivion/mods/47245/?tab=files&file_id=1000015081)
 *  [Patch - Knights of the Nine DLC-31668-1-0.zip](https://www.nexusmods.com/oblivion/mods/31668/?tab=files&file_id=82996)
 *  [Performance Sound-50304-1-1595849211.zip](https://www.nexusmods.com/oblivion/mods/50304/?tab=files&file_id=1000025411)
@@ -974,7 +990,6 @@
 *  [WalkBlessed-49067-Beta15-5-1560188414.7z](https://www.nexusmods.com/oblivion/mods/49067/?tab=files&file_id=1000022312)
 *  [Wanderer's Wharf Lite-54881-1-0-1739308797.7z](https://www.nexusmods.com/oblivion/mods/54881/?tab=files&file_id=1000040786)
 *  [Waterfalls replacer-54703-1-03-1734901494.7z](https://www.nexusmods.com/oblivion/mods/54703/?tab=files&file_id=1000040205)
-*  [watertexture-33431.zip](https://www.nexusmods.com/oblivion/mods/33431/?tab=files&file_id=64881)
 *  [Weapon 4K-52507-0-0-2-1690226499.7z](https://www.nexusmods.com/oblivion/mods/52507/?tab=files&file_id=1000035508)
 *  [Weapon Improvement Project - UOPClubStatic.nif Fix-53031-1-0-1685893877.7z](https://www.nexusmods.com/oblivion/mods/53031/?tab=files&file_id=1000034901)
 *  [Weapon Improvement Project-43852-1-9.7z](https://www.nexusmods.com/oblivion/mods/43852/?tab=files&file_id=1000007552)
