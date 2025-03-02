@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4399)
+### Valid (4401)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -3640,6 +3640,7 @@
 *  [Skyrim's Got Talent - Show in UI-135473-1-0-0-1733277784.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135473/?tab=files&file_id=568771)
 *  [Skyrim's Paraglider - ONE LoreRim-134795-3-0-1740015267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134795/?tab=files&file_id=596768)
 *  [SkyrimCharacterSheet-56069-1-1-4-1708629465.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56069/?tab=files&file_id=473589)
+*  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
@@ -3785,6 +3786,7 @@
 *  [Spell Breaker HD-32430-1-1-1581042375.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32430/?tab=files&file_id=122986)
 *  [Spell Knight Armor Faction Variants-84620-1-0-1676017663.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84620/?tab=files&file_id=358357)
 *  [Spell Knight Armors Retexture SE-111518-1-1-0-1708212715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111518/?tab=files&file_id=471968)
+*  [Spell Organizer - Hide Remove Delete Erase Forget-15558-3-0-4-1718236040.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15558/?tab=files&file_id=511036)
 *  [Spell Perk Item Distributor-36869-6-8-2-1705467141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=462158)
 *  [Spell Tomes - I4 icons 1.1-96117-1-1-1689686405.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96117/?tab=files&file_id=408221)
 *  [SpellSword Moveset-69736-2-2-1688786758.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69736/?tab=files&file_id=404953)
