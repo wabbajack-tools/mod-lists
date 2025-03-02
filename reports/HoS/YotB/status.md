@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (73)
+### Valid (72)
 *  [Advanced Tactics 31-181.dazip](https://www.nexusmods.com/dragonage/mods/181/?tab=files&file_id=6942)
 *  [Armored Ogres of Ferelden-3257-1-0.zip](https://www.nexusmods.com/dragonage/mods/3257/?tab=files&file_id=16760)
 *  [Awakening Lore-Friendly Epilogue Rewrite-5287-1-2-1719791002.zip](https://www.nexusmods.com/dragonage/mods/5287/?tab=files&file_id=1000011644)
@@ -24,7 +24,6 @@
 *  [Dalish Armor Replacement-5035-1-1552089884.7z](https://www.nexusmods.com/dragonage/mods/5035/?tab=files&file_id=1000006213)
 *  [dao_extradogslot_1_41-664.dazip](https://www.nexusmods.com/dragonage/mods/664/?tab=files&file_id=3572)
 *  [DLC Fix Tool 1-14-883-1-14.zip](https://www.nexusmods.com/dragonage/mods/883/?tab=files&file_id=18266)
-*  docs_EA Help_en-us_Electronic_Arts_Technical_Support.glo
 *  [DP_DAO_Additional_Kid_Clothing-4393-1-1.7z](https://www.nexusmods.com/dragonage/mods/4393/?tab=files&file_id=1000003145)
 *  [Dragon Age Redesigned Manual Version 1.0-686-1-0-1635410667.zip](https://www.nexusmods.com/dragonage/mods/686/?tab=files&file_id=1000008458)
 *  [Elelith_textures_DAO_Enviroment-3973-.7z](https://www.nexusmods.com/dragonage/mods/3973/?tab=files&file_id=1000003495)

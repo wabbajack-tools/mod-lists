@@ -1,8 +1,8 @@
 {
   "MachineURL": "HoS/YotB",
   "Name": "Year of the Blight",
-  "Version": "1.0.1",
-  "ModListHash": "saHYElZdiGo=",
+  "Version": "1.0.2",
+  "ModListHash": "Hs0ypuVIKQI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -839,22 +839,6 @@
         "State": {
           "$type": "ModDBDownloader, Wabbajack.Lib",
           "Url": "https://www.moddb.com/downloads/start/110424"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "menYUTfbRu8=",
-        "Meta": "[General]\ngameName=DragonAgeOrigins\ngameFile=docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
-        "Name": "docs_EA Help_en-us_Electronic_Arts_Technical_Support.glo",
-        "Size": 0,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonAgeOrigins",
-          "GameFile": "docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
-          "GameVersion": "1.05.13263.0",
-          "Hash": "menYUTfbRu8="
         }
       }
     },
