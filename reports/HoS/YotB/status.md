@@ -4,12 +4,11 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (72)
+### Valid (71)
 *  [Advanced Tactics 31-181.dazip](https://www.nexusmods.com/dragonage/mods/181/?tab=files&file_id=6942)
 *  [Armored Ogres of Ferelden-3257-1-0.zip](https://www.nexusmods.com/dragonage/mods/3257/?tab=files&file_id=16760)
 *  [Awakening Lore-Friendly Epilogue Rewrite-5287-1-2-1719791002.zip](https://www.nexusmods.com/dragonage/mods/5287/?tab=files&file_id=1000011644)
 *  [Better Fereldan Kids-5125-1-0-1572637787.7z](https://www.nexusmods.com/dragonage/mods/5125/?tab=files&file_id=1000006563)
-*  bin_ship_DAOrigins.exe
 *  [Blackblade Drop Fix-1112.7z](https://www.nexusmods.com/dragonage/mods/1112/?tab=files&file_id=5574)
 *  [Casteless Brand and Dwarven Tattoo Restoration-4781-2.7z](https://www.nexusmods.com/dragonage/mods/4781/?tab=files&file_id=1000005742)
 *  [Chantry of Ferelden-3255-1-0.zip](https://www.nexusmods.com/dragonage/mods/3255/?tab=files&file_id=16754)
