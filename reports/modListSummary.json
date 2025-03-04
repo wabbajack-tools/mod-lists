@@ -451,7 +451,7 @@
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
     "failed": 0,
-    "passed": 2033,
+    "passed": 2034,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
@@ -670,20 +670,6 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/CyberpunkTHING_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/CyberpunkTHING_large.webp"
-  },
-  {
-    "name": "Dungeons \u0026 Daedra",
-    "machineURL": "dnd/dnd",
-    "failed": 0,
-    "passed": 0,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/dnd/dnd/status.json",
-    "report": "reports/dnd/dnd/status.md",
-    "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
   },
   {
     "name": "Nordic Souls",
@@ -1860,5 +1846,19 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NGVO/NGVO_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NGVO/NGVO_large.webp"
+  },
+  {
+    "name": "Mages \u0026 Vikings",
+    "machineURL": "MagesAndVikings/MagesAndVikings",
+    "failed": 1,
+    "passed": 3013,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/MagesAndVikings/MagesAndVikings/status.json",
+    "report": "reports/MagesAndVikings/MagesAndVikings/status.md",
+    "modlist_missing": false,
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/MagesAndVikings/MagesAndVikings_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/MagesAndVikings/MagesAndVikings_large.webp"
   }
 ]
