@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (993)
+### Valid (992)
 *  [''I HAVE NO GREETING'' Fix for Oblivion-49115-V2-1687570593.zip](https://www.nexusmods.com/oblivion/mods/49115/?tab=files&file_id=1000035117)
 *  ['Big Tony's Deli' Lore Friendly Sign Replacement-51800-1-1645921915.zip](https://www.nexusmods.com/oblivion/mods/51800/?tab=files&file_id=1000030476)
 *  [00SnowyRoadToBruma Fighters Guild Quests-49605-1-1567078857.7z](https://www.nexusmods.com/oblivion/mods/49605/?tab=files&file_id=1000022865)
@@ -752,7 +752,6 @@
 *  [Oblivion Content Restoration Project-45909-1-3.7z](https://www.nexusmods.com/oblivion/mods/45909/?tab=files&file_id=1000014694)
 *  [Oblivion Display Tweaks-50348-1-3-1597794116.zip](https://www.nexusmods.com/oblivion/mods/50348/?tab=files&file_id=1000025586)
 *  [Oblivion Realm HD-43100-1-0.7z](https://www.nexusmods.com/oblivion/mods/43100/?tab=files&file_id=93430)
-*  [Oblivion Reloaded E3 with Volumetric Light Preset-51032-3-5-0mc-1739813148.zip](https://www.nexusmods.com/oblivion/mods/51032/?tab=files&file_id=1000040857)
 *  [Oblivion Stereo Sound Overhaul-5861.7z](https://www.nexusmods.com/oblivion/mods/5861/?tab=files&file_id=4866)
 *  [Oblivion XP Update-51817-4-5-1646459284.7z](https://www.nexusmods.com/oblivion/mods/51817/?tab=files&file_id=1000030540)
 *  Oblivion_default.ini
