@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1007)
+### Valid (993)
 *  [''I HAVE NO GREETING'' Fix for Oblivion-49115-V2-1687570593.zip](https://www.nexusmods.com/oblivion/mods/49115/?tab=files&file_id=1000035117)
 *  ['Big Tony's Deli' Lore Friendly Sign Replacement-51800-1-1645921915.zip](https://www.nexusmods.com/oblivion/mods/51800/?tab=files&file_id=1000030476)
 *  [00SnowyRoadToBruma Fighters Guild Quests-49605-1-1567078857.7z](https://www.nexusmods.com/oblivion/mods/49605/?tab=files&file_id=1000022865)
@@ -52,6 +52,7 @@
 *  [1_Nirnroot retexture-45018-1-0.rar](https://www.nexusmods.com/oblivion/mods/45018/?tab=files&file_id=1000006482)
 *  [1_Oblivion Window Reflection Replacer-46774-.zip](https://www.nexusmods.com/oblivion/mods/46774/?tab=files&file_id=1000013055)
 *  [1_OCO Eye Glow Revised-53033-1-1-1-1686075468.7z](https://www.nexusmods.com/oblivion/mods/53033/?tab=files&file_id=1000034928)
+*  [1_OCRAFT - Stations for Sale-54541-1-3-1740838739.7z](https://www.nexusmods.com/oblivion/mods/54541/?tab=files&file_id=1000041015)
 *  [1_OSPS BC Imperial Isle Patch Compendium v6.1.2-45817-6-1-2-1666434427.7z](https://www.nexusmods.com/oblivion/mods/45817/?tab=files&file_id=1000032612)
 *  [1_Palm Trees Update10-46118-.zip](https://www.nexusmods.com/oblivion/mods/46118/?tab=files&file_id=1000013476)
 *  [1_SkyBSA-49568-1-1-0-1566477186.zip](https://www.nexusmods.com/oblivion/mods/49568/?tab=files&file_id=1000022815)
@@ -74,6 +75,7 @@
 *  [4K Map 1_0_0-45768-1-0-0.7z](https://www.nexusmods.com/oblivion/mods/45768/?tab=files&file_id=1000008685)
 *  [4k Upscaled Vanilla Loading Screens-51126-1-0-1623466244.7z](https://www.nexusmods.com/oblivion/mods/51126/?tab=files&file_id=1000028090)
 *  [900 Butterflies-46785-.zip](https://www.nexusmods.com/oblivion/mods/46785/?tab=files&file_id=1000013118)
+*  [A Painted World Reshade Preset - ORC 1.9.3-54215-0-6-1733870431.zip](https://www.nexusmods.com/oblivion/mods/54215/?tab=files&file_id=1000040100)
 *  [Accurate Skyrim Camera Preset for WalkBlessed-53503-1-1697850718.7z](https://www.nexusmods.com/oblivion/mods/53503/?tab=files&file_id=1000036595)
 *  [Add some flavor - Bridges-53888-1-2-1722029953.zip](https://www.nexusmods.com/oblivion/mods/53888/?tab=files&file_id=1000038946)
 *  [Add some flavor - priories-53149-1-5-1726362338.zip](https://www.nexusmods.com/oblivion/mods/53149/?tab=files&file_id=1000039365)
@@ -332,21 +334,7 @@
 *  Data_Oblivion - Voices1.bsa
 *  Data_Oblivion - Voices2.bsa
 *  Data_Oblivion.esm
-*  Data_Shaders_shaderpackage001.sdp
 *  Data_Shaders_shaderpackage002.sdp
-*  Data_Shaders_shaderpackage003.sdp
-*  Data_Shaders_shaderpackage004.sdp
-*  Data_Shaders_shaderpackage005.sdp
-*  Data_Shaders_shaderpackage007.sdp
-*  Data_Shaders_shaderpackage009.sdp
-*  Data_Shaders_shaderpackage010.sdp
-*  Data_Shaders_shaderpackage011.sdp
-*  Data_Shaders_shaderpackage012.sdp
-*  Data_Shaders_shaderpackage013.sdp
-*  Data_Shaders_shaderpackage016.sdp
-*  Data_Shaders_shaderpackage017.sdp
-*  Data_Shaders_shaderpackage018.sdp
-*  Data_Shaders_shaderpackage019.sdp
 *  Data_Video_2k games.bik
 *  Data_Video_bethesda softworks HD720p.bik
 *  Data_Video_CreditsMenu.bik
@@ -785,8 +773,6 @@
 *  [OCOv2 uses merged teeth-48378-1.rar](https://www.nexusmods.com/oblivion/mods/48378/?tab=files&file_id=1000019010)
 *  [OCRAFT - Cobl Glue-54430-1-01-1738947167.7z](https://www.nexusmods.com/oblivion/mods/54430/?tab=files&file_id=1000040755)
 *  [OCRAFT - Compatilbility Settings-53220-1-2-1691500438.zip](https://www.nexusmods.com/oblivion/mods/53220/?tab=files&file_id=1000035658)
-*  [OCRAFT - Stations for Sale-54541-1-27-1739812402.7z](https://www.nexusmods.com/oblivion/mods/54541/?tab=files&file_id=1000040854)
-*  [OCRAFT - Stations for Sale-54541-1-3-1740838739.7z](https://www.nexusmods.com/oblivion/mods/54541/?tab=files&file_id=1000041015)
 *  [OCRAFT - Stations-53877-1-0-0-1709895026.7z](https://www.nexusmods.com/oblivion/mods/53877/?tab=files&file_id=1000037972)
 *  [OCRAFT-51796-1-04-1738777732.7z](https://www.nexusmods.com/oblivion/mods/51796/?tab=files&file_id=1000040735)
 *  [ODOS 1.2-54217-1-2-1725193505.zip](https://www.nexusmods.com/oblivion/mods/54217/?tab=files&file_id=1000039245)
@@ -806,7 +792,7 @@
 *  [Optimized VWD-49595-2-0-1621031055.7z](https://www.nexusmods.com/oblivion/mods/49595/?tab=files&file_id=1000027797)
 *  [Optional torch-38061-1-1.7z](https://www.nexusmods.com/oblivion/mods/38061/?tab=files&file_id=78383)
 *  [OR Additional Effects-50563-0-93-1608497627.zip](https://www.nexusmods.com/oblivion/mods/50563/?tab=files&file_id=1000026435)
-*  [ORC216-51927-2-1-6-1739144045.7z](https://www.nexusmods.com/oblivion/mods/51927/?tab=files&file_id=1000040769)
+*  [ORC193-51927-1-9-3-1701938672.7z](https://www.nexusmods.com/oblivion/mods/51927/?tab=files&file_id=1000037139)
 *  [Particled Ayleid Stones 1.0-47245-1-0.7z](https://www.nexusmods.com/oblivion/mods/47245/?tab=files&file_id=1000015081)
 *  [Patch - Knights of the Nine DLC-31668-1-0.zip](https://www.nexusmods.com/oblivion/mods/31668/?tab=files&file_id=82996)
 *  [Performance Sound-50304-1-1595849211.zip](https://www.nexusmods.com/oblivion/mods/50304/?tab=files&file_id=1000025411)
