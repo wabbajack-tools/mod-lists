@@ -1,11 +1,10 @@
 ## Validation Report - NGVO (NGVO/NGVO)
 
 
-### Invalid (1)
-*  [NGVO - DynDOLOD Output.zip](https://authored-files.wabbajack.org/NGVO - DynDOLOD Output.zip_6a0bb20f-c79e-41e8-807a-ce36166fd204)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1504)
+### Valid (1505)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.17.7z_3c14b05c-adfb-407e-90a3-fc14108fe3f5)
@@ -949,6 +948,7 @@
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [NGIO - Anniversary Edition (1.6.1130 and later)-42161-1-2-4-1734319064.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=572876)
 *  [NGVO - BodySlide Output-119972-4-0-1739506658.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119972/?tab=files&file_id=594383)
+*  [NGVO - DynDOLOD Output.zip](https://authored-files.wabbajack.org/NGVO - DynDOLOD Output.zip_6a0bb20f-c79e-41e8-807a-ce36166fd204)
 *  [NGVO - TexGen Output-119972-4-0-1739506841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119972/?tab=files&file_id=594385)
 *  [NGVO - xLodGen Output-119972-4-0-1739506812.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119972/?tab=files&file_id=594384)
 *  [NIF Preview-137741-0-4-0-1736003588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/137741/?tab=files&file_id=579327)
