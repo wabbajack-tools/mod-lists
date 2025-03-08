@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "NVMP RADD Modlist",
-  "Version": "2.0.0",
-  "ModListHash": "SP+e08MmElI=",
+  "Version": "2.0.1",
+  "ModListHash": "NdDhnZn2vco=",
   "Archives": [
     {
       "Status": "Valid",
@@ -28,34 +28,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I2VFsm3KBbA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
-        "Name": "MTUI-34902.zip",
-        "Size": 424681,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Tael",
-          "Description": "Fallout: New Vegas UI improvements.",
-          "FileID": 68836,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
-          "IsNSFW": false,
-          "ModID": 34902,
-          "Name": "MTUI",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "A1ls8hTUWeM=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_2a5be6aa-e7ff-4424-a8db-2dd8ac99ab80",
         "Name": "RADD Server Mods.7z",
         "Size": 1518663087,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_2a5be6aa-e7ff-4424-a8db-2dd8ac99ab80"
+          "Url": "https://authored-files.wabbajack.org/RADD Server Mods.7z_2a5be6aa-e7ff-4424-a8db-2dd8ac99ab80"
         }
       }
     },
@@ -77,6 +56,27 @@
           "ModID": 65094,
           "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
           "Version": "v1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I2VFsm3KBbA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
+        "Name": "MTUI-34902.zip",
+        "Size": 424681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Max Tael",
+          "Description": "Fallout: New Vegas UI improvements.",
+          "FileID": 68836,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
+          "IsNSFW": false,
+          "ModID": 34902,
+          "Name": "MTUI",
+          "Version": "1.0"
         }
       }
     },
@@ -153,20 +153,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hPliaaVlWnU=",
-        "Meta": "[General]\ndirectURL=https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z",
-        "Name": "nvtf.7z",
-        "Size": 834632,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9ViLYvKpPQA=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=64102\nfileID=1000050605",
         "Name": "Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z",
@@ -188,27 +174,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k8IY6nIjp+Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
-        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
-        "Size": 44180,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
-          "FileID": 1000107287,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
-          "IsNSFW": false,
-          "ModID": 80666,
-          "Name": "ActorCause Save Bloat Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "RkbL1IhMIpY=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=82979\nfileID=1000116126",
         "Name": "World Map HD-82979-1-0-1694172081.7z",
@@ -223,6 +188,41 @@
           "IsNSFW": false,
           "ModID": 82979,
           "Name": "World Map HD",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hPliaaVlWnU=",
+        "Meta": "[General]\ndirectURL=https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z",
+        "Name": "nvtf.7z",
+        "Size": 834632,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k8IY6nIjp+Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
+        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
+        "Size": 44180,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
+          "FileID": 1000107287,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
+          "IsNSFW": false,
+          "ModID": 80666,
+          "Name": "ActorCause Save Bloat Fix",
           "Version": "1.0"
         }
       }
