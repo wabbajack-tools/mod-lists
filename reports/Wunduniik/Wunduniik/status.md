@@ -1,11 +1,10 @@
 ## Validation Report - Wunduniik - Chapter V (Wunduniik/Wunduniik)
 
 
-### Invalid (1)
-*  [Troll+MCO-DXP+v2.0.1.zip](https://www.distaranimation.com/s/Troll-MCO-DXP-v201.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (5278)
+### Valid (5279)
 *  [_m texture update-104183-1-1722754839.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104183/?tab=files&file_id=528072)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -4888,6 +4887,7 @@
 *  [Traveling Mage HDT-SMP Armor - French-109342-1-3FRDSD-1733645542.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109342/?tab=files&file_id=570241)
 *  [Traveling Mage Light Armor-69394-1-3-1655047883.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69394/?tab=files&file_id=290647)
 *  [Traveling Mage Wizard Brim Hats - SPID Skypatcher-141630-1-4-1740850709.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141630/?tab=files&file_id=600553)
+*  [Troll+MCO-DXP+v2.0.1.zip](https://www.distaranimation.com/s/Troll-MCO-DXP-v201.zip)
 *  [Trolls of Cyrodiil - Mihail Monsters and Animals --109958-1-0FR-1706028505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109958/?tab=files&file_id=464166)
 *  [Trolls of Cyrodiil - My textures SE by Xtudo - 2K-99865-1-1693769009.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99865/?tab=files&file_id=423087)
 *  [trolls of cyrodiil (se-ae)-99847-1-1693751901.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99847/?tab=files&file_id=423035)
