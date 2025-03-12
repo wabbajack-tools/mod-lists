@@ -1,11 +1,10 @@
 ## Validation Report - Chaos Mage Randomized Challenge (OmnisWorld/Chaos-Mage-Randomized-Challenge)
 
 
-### Invalid (1)
-*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_dc5041cf-8876-4cd6-8eca-097cac7f27f2)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1746)
+### Valid (1747)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorDaemon.rar](https://www.patreon.com/file?h=109829703&m=339148708)
 *  [_Fuse00_ArmorFreija_CBBE_1.1.rar](https://www.patreon.com/file?h=93095428&m=248004338)
@@ -318,6 +317,7 @@
 *  [CMRC-Grass Bound Records.7z](https://authored-files.wabbajack.org/CMRC-Grass Bound Records.7z_d17039d9-313b-4411-8f1b-9145232a4724)
 *  [CMRC-Grass Cache.7z](https://authored-files.wabbajack.org/CMRC-Grass Cache.7z_332acad5-8391-44a6-89f5-533ee5e2520d)
 *  [CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z](https://authored-files.wabbajack.org/CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z_4626de55-3b6f-4974-81f5-d9c1926d67c5)
+*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_3a227b3a-de79-4865-b1dd-1624f4b4db4b)
 *  [CMRC-SSELODGen_Output.7z](https://authored-files.wabbajack.org/CMRC-SSELODGen_Output.7z_cd18fb1a-2467-4cfa-a848-66973884fc51)
 *  [CMRC-TexGen_Output.7z](https://authored-files.wabbajack.org/CMRC-TexGen_Output.7z_10b4f56b-173f-4001-831c-858fc744a540)
 *  [ColdSun's Visions - Assets - 3BA-CBBE-TBD-109528-2-3-1719858957.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109528/?tab=files&file_id=516765)
