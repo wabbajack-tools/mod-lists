@@ -886,7 +886,7 @@
 *  [Swap Drop and Hold Add Spells-55983-2-1632862272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55983/?tab=files&file_id=231292)
 *  [Swap Drop and Hold-49425-0-0-1-1620085763.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49425/?tab=files&file_id=201581)
 *  [Synthesis Output.7z](https://authored-files.wabbajack.org/Synthesis Output.7z_25994a83-f522-411c-9f30-bad33965c0cb)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.30.3/Synthesis.zip)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.33.3/Synthesis.zip)
 *  [Tahrovin 2.0 Nemesis Output.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113161/?tab=files&file_id=602135)
 *  [Tahrovin 2.7.0 Dyndolod output.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113161/?tab=files&file_id=602137)
 *  [Tahrovin 2.7.0 LODGEN output.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113161/?tab=files&file_id=602138)
