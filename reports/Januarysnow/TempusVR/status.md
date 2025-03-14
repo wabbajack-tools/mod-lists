@@ -1,10 +1,11 @@
 ## Validation Report - Tempus Maledictum VR (Januarysnow/TempusVR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [tempusvr_DynDOLOD_Output.zip](https://authored-files.wabbajack.org/tempusvr_DynDOLOD_Output.zip_b181d2d9-8331-4bfd-b177-a1a70f8b7ab7)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1799)
+### Valid (1798)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -1573,7 +1574,6 @@
 *  [Temple of Kynareth Mosaic Retexture - Alternative Mosaic - 2K-83752-0-2-1675013416.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83752/?tab=files&file_id=354285)
 *  [Tempus Maledictum - Bodyslide Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Bodyslide Output.7z_25452d2b-1d44-43c7-8282-5a125a998c48)
 *  [Tempus Maledictum - Pandora Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Pandora Output.7z_09d1dcf2-055d-4a9c-ae89-bc6995ed4b94)
-*  [tempusvr_DynDOLOD_Output.zip](https://authored-files.wabbajack.org/tempusvr_DynDOLOD_Output.zip_b181d2d9-8331-4bfd-b177-a1a70f8b7ab7)
 *  [tempusvr_grasscache.7z](https://authored-files.wabbajack.org/tempusvr_grasscache.7z_1964b30d-b930-472c-9e1f-d7c693f6dac9)
 *  [Tempusvr_TexGen_Output.zip](https://authored-files.wabbajack.org/Tempusvr_TexGen_Output.zip_3f9d7c69-410f-4d7c-85f3-9d19d82e2510)
 *  [tempusvr_xLODGen_Output.7z](https://authored-files.wabbajack.org/tempusvr_xLODGen_Output.7z_dbd9bcf0-0abe-4cd4-ba91-55c5cf2fc2a6)
