@@ -1790,7 +1790,7 @@
 *  [Mage College Tree-132712-1-0-1730283155.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132712/?tab=files&file_id=557106)
 *  [Mage Glass Sword-38798-1-1596055939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38798/?tab=files&file_id=152771)
 *  [Magecore - hdt SMP (CBBE 3BA)-113540-1-2-1722168483.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113540/?tab=files&file_id=525892)
-*  [Mages & Vikings - ParallaxGen Output.rar](https://authored-files.wabbajack.org/Mages & Vikings - ParallaxGen Output.rar_cdc26936-8266-4ee5-9048-a454cd8a47d4)
+*  [Mages & Vikings - ParallaxGen Output.rar](https://authored-files.wabbajack.org/Mages & Vikings - ParallaxGen Output.rar_b5a6507f-4f98-4715-af5a-7067d9f5936a)
 *  [Magic Student (WIChangeLocation04) Quest Fix-80676-0-1-1671093954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80676/?tab=files&file_id=340731)
 *  [Magical Jumping-89233-2-7-1728075730.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89233/?tab=files&file_id=549041)
 *  [Magical Potion Sounds-138932-1-1-1737167673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138932/?tab=files&file_id=584620)
