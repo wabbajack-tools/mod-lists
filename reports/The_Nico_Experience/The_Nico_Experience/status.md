@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2112)
+### Valid (2116)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -619,7 +619,6 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
@@ -680,6 +679,8 @@
 *  [Dragonborn - Wheeler Reskin by borokoshow-100043-1-7-1-1701284595.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100043/?tab=files&file_id=447183)
 *  [Dragonborn Voice Over - Plugin Replacer-90417-1-5-1693912503.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90417/?tab=files&file_id=423462)
 *  [Dragonborn Voice Over-84329-1-1-1-1691780943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84329/?tab=files&file_id=416153)
+*  [Dragonborn's Bestiary RIB - SIC-125807-1-1722807220.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125807/?tab=files&file_id=528347)
+*  [Dragonborn's Bestiary- Race Based Identification-125807-1-1722555524.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125807/?tab=files&file_id=527424)
 *  [DragonLord Armor SE HotFix 2-8463-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8463/?tab=files&file_id=21385)
 *  [DragonLord Armor-8463-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8463/?tab=files&file_id=21002)
 *  [Dragons_CP-105031-1-0-1715648196.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=500828)
@@ -759,7 +760,7 @@
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
 *  [ENB Refract Icicle Patch-2458-0-488-1680909826.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2458/?tab=files&file_id=376187)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
-*  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_de062d31-0851-4504-acf4-debf8b26852d)
+*  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_ac05acc9-5af3-478b-aae5-b4e6a5914627)
 *  [Enchanted Arsenal For 1.5.97-37318-2-23b-1592566788.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37318/?tab=files&file_id=146419)
 *  [Enchanting Stations Candles 2.0-30140-2-0-1577115863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30140/?tab=files&file_id=117149)
 *  [Enderal Font For Skyrim SE-2004-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2004/?tab=files&file_id=4356)
@@ -886,6 +887,7 @@
 *  [FranklyHD Dawnguard Armor and Weapons-19663-1-3-1540912350.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19663/?tab=files&file_id=70809)
 *  [Freezing Cold Frost Salts - SE-65292-v1-0-1647817078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65292/?tab=files&file_id=271499)
 *  [Frida Follower (ver2 SSE)-193-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/193/?tab=files&file_id=7200)
+*  [Frogs (se-ae)- 2k textures-120998-1-1717429204.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120998/?tab=files&file_id=507929)
 *  [Frost Atronach Animation-84568-1-0-1676430096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84568/?tab=files&file_id=359896)
 *  [Frost_River_Fixes - Nico-105031-1-0-1714176698.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=495131)
 *  [Frozen Electrocuted Combustion-3532-5-1-0-1668639002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3532/?tab=files&file_id=332417)
@@ -972,6 +974,7 @@
 *  [HeavyBlade Normal and Power For MCO-76997-1-0-1665595797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76997/?tab=files&file_id=323521)
 *  [Heimskr -IC - Patch-105031-1-0-1713836744.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=493809)
 *  [Hevnoraak's Staff by Ave-57642-1-0-1635522850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57642/?tab=files&file_id=237738)
+*  [HFs - Aretino Family Heirloom - remodel - 2K-140723-1-1738523290.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140723/?tab=files&file_id=590337)
 *  [Hide Quest Items in Container Menu-51243-0-8-1647622538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
 *  [High Poly Blackreach Mushrooms-40418-1-1-1617711701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=196429)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
@@ -1225,7 +1228,7 @@
 *  [Locked Chests Have Keys-74565-1-02-1671359288.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74565/?tab=files&file_id=341515)
 *  [LOD Unloading Bug Fix-61251-0-1-1642048241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
-*  [loot_0.25.0-win64.7z](https://github.com/loot/loot/releases/download/0.25.0/loot_0.25.0-win64.7z)
+*  [loot_0.25.2-win64.7z](https://github.com/loot/loot/releases/download/0.25.2/loot_0.25.2-win64.7z)
 *  Low.ini
 *  [Lower Gore Sound Mod-76729-1-0-1665190358.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76729/?tab=files&file_id=322354)
 *  [Lunar Guard - 2k Textures-75349-1-3-1677929821.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75349/?tab=files&file_id=365343)
@@ -1540,6 +1543,7 @@
 *  [QuestsAreInSkyrim_USSEP_1_3-18416-1-3-1647194854.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18416/?tab=files&file_id=269931)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
 *  [Quiet Dog - Sit-6066-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6066/?tab=files&file_id=13928)
+*  [Quieter Croaks - Decreased Frog Volume-129643-1-0-1726768698.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129643/?tab=files&file_id=543901)
 *  [Quieter Zombies esp-131-4-6-1-1604481158.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=168547)
 *  [RaceMenu 0.4.16 Memory Leak Hotfix (SE)-70161-1-0-0-1656002259.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70161/?tab=files&file_id=293455)
 *  [RaceMenu High Heels Fixes-18045-1-3-1552859840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18045/?tab=files&file_id=85313)
