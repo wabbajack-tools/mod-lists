@@ -1,11 +1,10 @@
 ## Validation Report - Fahluaan (WakingDreams/fahluaan)
 
 
-### Invalid (1)
-*  [DDS Workshop - Eyes Mod 3 Replacer.7z](https://authored-files.wabbajack.org/DDS Workshop - Eyes Mod 3 Replacer.7z_2171b6c5-3d43-4b2c-a089-7db068276894)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2849)
+### Valid (2850)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(2) Community Overlays 3 - Main - CBBE-35339-1-0-1588116779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136886)
@@ -806,6 +805,7 @@
 *  [DCDT - Dremora Lines Expansion-93583-1-1-1697304241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93583/?tab=files&file_id=433913)
 *  [DDS Workshop - Books and Paper Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Books and Paper Retexture.7z_4e17f485-5671-4b2b-af62-9aa2e0c772b6)
 *  [DDS Workshop - Dizona Body Textures for Vanilla.7z](https://authored-files.wabbajack.org/DDS Workshop - Dizona Body Textures for Vanilla.7z_ec0fbb99-9707-4dc0-be6e-46301dcbfdd5)
+*  [DDS Workshop - Eyes Mod 3 Replacer.7z](https://authored-files.wabbajack.org/DDS Workshop - Eyes Mod 3 Replacer.7z_2171b6c5-3d43-4b2c-a089-7db068276894)
 *  [DDS Workshop - Facial Hair Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Facial Hair Retexture.7z_6949140e-581c-408c-b62d-866ce4a67b32)
 *  [DDS Workshop - Scars Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Scars Retexture.7z_a1cd40e9-aadc-4a1b-97ae-ed1c2d139a47)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)

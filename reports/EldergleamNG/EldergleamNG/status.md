@@ -1,11 +1,10 @@
 ## Validation Report - Eldergleam Next-Gen (EldergleamNG/EldergleamNG)
 
 
-### Invalid (1)
-*  [DDS Workshop - Eyes Mod 3 Replacer.7z](https://authored-files.wabbajack.org/DDS Workshop - Eyes Mod 3 Replacer.7z_2171b6c5-3d43-4b2c-a089-7db068276894)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1931)
+### Valid (1932)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460512)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -579,6 +578,7 @@
 *  [Dawnstar Shore - A Texture Fix-56577-1-01-1655671373.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56577/?tab=files&file_id=292389)
 *  [Dax Controller Predone ini files-140010-1-1-2-1738162899.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140010/?tab=files&file_id=588771)
 *  [DbMiscFunctions-65410-7-9-1737275296.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=585031)
+*  [DDS Workshop - Eyes Mod 3 Replacer.7z](https://authored-files.wabbajack.org/DDS Workshop - Eyes Mod 3 Replacer.7z_2171b6c5-3d43-4b2c-a089-7db068276894)
 *  [DDS Workshop - Scars Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Scars Retexture.7z_a1cd40e9-aadc-4a1b-97ae-ed1c2d139a47)
 *  [Deadly Nightshades - Cathedral Nightshade Recolors-81709-1-2-1693932052.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81709/?tab=files&file_id=423541)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
