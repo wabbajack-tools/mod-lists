@@ -1612,7 +1612,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "kn5/Zn7/X3o=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_570c5520-d825-48db-b031-b6fa8a9ac6a0",
@@ -8576,7 +8576,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "OVX2VdrSFbk=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/CMRC-TexGen_Output.7z_37845fbe-21c5-4a5e-b34a-896f4de294c6",
@@ -37723,8 +37723,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 2,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/OmnisWorld/Chaos-Mage-Randomized-Challenge_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/OmnisWorld/Chaos-Mage-Randomized-Challenge_large.webp"
 }
