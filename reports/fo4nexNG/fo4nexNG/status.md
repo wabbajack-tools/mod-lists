@@ -4,7 +4,8 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1208)
+### Valid (1329)
+*  [1_HN66Fo4_EasyGirl_BS_V5.01-19596-5-01.rar](https://www.nexusmods.com/fallout4/mods/19596/?tab=files&file_id=103229)
 *  [1. VTAC REDUX v.2 - Main File 4k-81751-v-2-1725575575.7z](https://www.nexusmods.com/fallout4/mods/81751/?tab=files&file_id=332912)
 *  [Address Library - All In One-47327-AIO-1715667241.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=316412)
 *  [All-in-one with recommended settings.-2819-v0-10.7z](https://www.nexusmods.com/fallout4/mods/2819/?tab=files&file_id=62242)
@@ -68,9 +69,126 @@
 *  [CROSS_BrotherhoodRecon_091b2-27418-091b2.zip](https://www.nexusmods.com/fallout4/mods/27418/?tab=files&file_id=114435)
 *  cudart64_75.dll
 *  [Dartmouth Penthouse-87252-1-0-3-1726917800.zip](https://www.nexusmods.com/fallout4/mods/87252/?tab=files&file_id=334662)
+*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
+*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
+*  Data_ccBGSFO4016-Prey - Main.ba2
+*  Data_ccBGSFO4016-Prey - Textures.ba2
+*  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
+*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
+*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
+*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
+*  Data_ccBGSFO4038-HorseArmor - Main.ba2
+*  Data_ccBGSFO4038-HorseArmor - Textures.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccBGSFO4046-TesCan - Main.ba2
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
+*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccBGSFO4096-AS_Enclave - Main.ba2
+*  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
+*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccBGSFO4110-WS_Enclave - Main.ba2
+*  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
+*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccBGSFO4115-X02 - Main.ba2
+*  Data_ccBGSFO4115-X02 - Textures.ba2
+*  Data_ccBGSFO4115-X02.esl
+*  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
+*  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
+*  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
+*  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
+*  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
+*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
+*  Data_ccFSVFO4007-Halloween - Main.ba2
+*  Data_ccFSVFO4007-Halloween - Textures.ba2
+*  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccOTMFO4001-Remnants - Main.ba2
+*  Data_ccOTMFO4001-Remnants - Textures.ba2
+*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccSBJFO4003-Grenade - Main.ba2
+*  Data_ccSBJFO4003-Grenade - Textures.ba2
+*  Data_ccSBJFO4003-Grenade.esl
+*  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
+*  Data_DLCCoast - Textures.ba2
+*  Data_DLCCoast - Voices_en.ba2
+*  Data_DLCCoast.cdx
+*  Data_DLCCoast.esm
+*  Data_DLCNukaWorld - Geometry.csg
 *  Data_DLCNukaWorld - Main.ba2
+*  Data_DLCNukaWorld - Textures.ba2
+*  Data_DLCNukaWorld - Voices_en.ba2
+*  Data_DLCNukaWorld.cdx
+*  Data_DLCNukaWorld.esm
+*  Data_DLCRobot - Geometry.csg
+*  Data_DLCRobot - Main.ba2
+*  Data_DLCRobot - Textures.ba2
+*  Data_DLCRobot - Voices_en.ba2
+*  Data_DLCRobot.cdx
+*  Data_DLCRobot.esm
+*  Data_DLCworkshop01 - Geometry.csg
+*  Data_DLCworkshop01 - Main.ba2
+*  Data_DLCworkshop01 - Textures.ba2
+*  Data_DLCworkshop01.cdx
+*  Data_DLCworkshop01.esm
+*  Data_DLCworkshop02 - Main.ba2
+*  Data_DLCworkshop02 - Textures.ba2
+*  Data_DLCworkshop02.esm
+*  Data_DLCworkshop03 - Geometry.csg
+*  Data_DLCworkshop03 - Main.ba2
+*  Data_DLCworkshop03 - Textures.ba2
+*  Data_DLCworkshop03 - Voices_en.ba2
+*  Data_DLCworkshop03.cdx
+*  Data_DLCworkshop03.esm
+*  Data_Fallout4 - Animations.ba2
+*  Data_Fallout4 - Geometry.csg
+*  Data_Fallout4 - Interface.ba2
+*  Data_Fallout4 - Materials.ba2
 *  Data_Fallout4 - Meshes.ba2
+*  Data_Fallout4 - MeshesExtra.ba2
+*  Data_Fallout4 - Misc.ba2
+*  Data_Fallout4 - Nvflex.ba2
+*  Data_Fallout4 - Shaders.ba2
+*  Data_Fallout4 - Sounds.ba2
+*  Data_Fallout4 - Startup.ba2
+*  Data_Fallout4 - Textures1.ba2
+*  Data_Fallout4 - Textures2.ba2
+*  Data_Fallout4 - Textures3.ba2
+*  Data_Fallout4 - Textures4.ba2
+*  Data_Fallout4 - Textures5.ba2
+*  Data_Fallout4 - Textures6.ba2
+*  Data_Fallout4 - Textures7.ba2
+*  Data_Fallout4 - Textures8.ba2
+*  Data_Fallout4 - Textures9.ba2
+*  Data_Fallout4 - Voices.ba2
+*  Data_Fallout4.cdx
+*  Data_Fallout4.esm
+*  Data_Video_AGILITY.bk2
+*  Data_Video_CHARISMA.bk2
+*  Data_Video_Endgame_FEMALE_A.bk2
+*  Data_Video_Endgame_FEMALE_B.bk2
+*  Data_Video_Endgame_MALE_A.bk2
+*  Data_Video_Endgame_MALE_B.bk2
+*  Data_Video_ENDURANCE.bk2
+*  Data_Video_GameIntro_V3_B.bk2
+*  Data_Video_INTELLIGENCE.bk2
+*  Data_Video_Intro.bk2
+*  Data_Video_LUCK.bk2
+*  Data_Video_MainMenuLoop.bk2
+*  Data_Video_PERCEPTION.bk2
+*  Data_Video_STRENGTH.bk2
 *  [Demo Finch Farm - Previsibines PRP-81060-1-0-1713971866.7z](https://www.nexusmods.com/fallout4/mods/81060/?tab=files&file_id=311956)
 *  [Demo Finch Farm-81060-1-0-1713971825.7z](https://www.nexusmods.com/fallout4/mods/81060/?tab=files&file_id=311955)
 *  [Demo Outpost Zimonja - Previsibines PRP-81059-1-0-1713817397.7z](https://www.nexusmods.com/fallout4/mods/81059/?tab=files&file_id=311613)
@@ -92,7 +210,6 @@
 *  [Ear refinement - HiPoly Faces FG-75127-1-0-1696448335.zip](https://www.nexusmods.com/fallout4/mods/75127/?tab=files&file_id=291018)
 *  [Easy Girl BT3-49863-1-0-1614933887.7z](https://www.nexusmods.com/fallout4/mods/49863/?tab=files&file_id=202905)
 *  [Easy Girl Corset Fix-49863-1-3-1-1630315473.7z](https://www.nexusmods.com/fallout4/mods/49863/?tab=files&file_id=215781)
-*  [Easy Girl HH FG-49863-1-3-1626087616.7z](https://www.nexusmods.com/fallout4/mods/49863/?tab=files&file_id=212418)
 *  [EBSO-42074-v1-2-1574625905.7z](https://www.nexusmods.com/fallout4/mods/42074/?tab=files&file_id=171491)
 *  [ECO-67679-4-10-9-1736078261.7z](https://www.nexusmods.com/fallout4/mods/67679/?tab=files&file_id=344368)
 *  EditorTips.txt
@@ -193,6 +310,7 @@
 *  [Hit Those Explosives-82592-1-6-0-1731709845.7z](https://www.nexusmods.com/fallout4/mods/82592/?tab=files&file_id=340295)
 *  [Hit Those Objects-85755-2-0-2-1733933229.7z](https://www.nexusmods.com/fallout4/mods/85755/?tab=files&file_id=342531)
 *  [HN66 Sirius 16 Assault Suit Fusion Girl 3BBB BodySlide-59032-1-0-1647976112.7z](https://www.nexusmods.com/fallout4/mods/59032/?tab=files&file_id=232679)
+*  [HN66Fo4_EasyGirl_BS_V5.01 - PATCH B-19596-5-01B.rar](https://www.nexusmods.com/fallout4/mods/19596/?tab=files&file_id=103409)
 *  [HN66nXAZOMN_FO4_DistinctiveTeeth_V1-20946-1-00.rar](https://www.nexusmods.com/fallout4/mods/20946/?tab=files&file_id=85660)
 *  [Homemaker 1.76-1478-1-76-1692227761.zip](https://www.nexusmods.com/fallout4/mods/1478/?tab=files&file_id=286913)
 *  [Homeplate Linked Workbenches and Sink2-17188-.zip](https://www.nexusmods.com/fallout4/mods/17188/?tab=files&file_id=69504)
@@ -228,6 +346,9 @@
 *  [LMCC 2k Face Textures-24830-v10.rar](https://www.nexusmods.com/fallout4/mods/24830/?tab=files&file_id=101547)
 *  [LOD Fixes and Additions-56138-1-0-1652730587.7z](https://www.nexusmods.com/fallout4/mods/56138/?tab=files&file_id=237865)
 *  [LOD Terrain Noise and Detail Normals-56138-1-0-1638704425.7z](https://www.nexusmods.com/fallout4/mods/56138/?tab=files&file_id=223112)
+*  Logs_BNet_BNet.0.log
+*  Logs_Script_EditorPapyrus.0.log
+*  Logs_Script_EditorPapyrus.1.log
 *  [Long Loading Times Fix-73469-1-1-1-1715183580.zip](https://www.nexusmods.com/fallout4/mods/73469/?tab=files&file_id=315159)
 *  [Looks Menu Customization Compendium-24830-v10.rar](https://www.nexusmods.com/fallout4/mods/24830/?tab=files&file_id=101255)
 *  [LooksMenu Body Tattoos (CBBE)(EVB or Vanilla)-25000-1-3-2.7z](https://www.nexusmods.com/fallout4/mods/25000/?tab=files&file_id=142642)
