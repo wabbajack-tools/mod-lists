@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (916)
+### Valid (919)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
@@ -84,7 +84,7 @@
 *  [Ayame's Hourglass v2 - CBBE 3BA BodySlide Preset-78479-1-1668030491.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78479/?tab=files&file_id=330451)
 *  [Baka SOS SMP Patch.7z](https://authored-files.wabbajack.org/Baka SOS SMP Patch.7z_32c2777b-6050-409b-913f-c4410c8e20b2)
 *  [Baka's ABC 3.16.7z](https://authored-files.wabbajack.org/Baka's ABC 3.16.7z_4d31597e-fb4a-41eb-bb86-c9fbabd9cf12)
-*  [Balance Adjustments for Apocalypse - Vokriinator-104987-1-0-1700292027.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104987/?tab=files&file_id=443533)
+*  [Balance Adjustments for Apocalypse - Vokriinator-104987-1-1-1741880035.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104987/?tab=files&file_id=605148)
 *  [Bandit Lines Expansion-63733-1-09-1704806726.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=459566)
 *  [Base Object Swapper VR-61734-2-6-1-1702714462.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61734/?tab=files&file_id=452301)
 *  [Believable weapons-37737-1-5-1643576065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=260562)
@@ -207,6 +207,7 @@
 *  Data_SkyrimVR.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [Dawn of Skyrim - Dawnwolves Fix (BlueYellow)-121776-1-2-1732588965.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121776/?tab=files&file_id=566102)
 *  [Dawn of Skyrim-9074-1-5-1591832820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9074/?tab=files&file_id=144970)
 *  [DCO UPGRADED UNOFFICIAL Tweak Fix and Patches-60822-3-06b-1708227284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60822/?tab=files&file_id=472037)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
@@ -215,6 +216,7 @@
 *  [Demon of Dream-118719-1-1-1715540562.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118719/?tab=files&file_id=500482)
 *  [Dialogue Movement Enabler VR-59816-2-2-0-1654850813.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59816/?tab=files&file_id=290122)
 *  [Discord Moderator preset-54696-239059-112-1630175691.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54696/?tab=files&file_id=224431)
+*  [Disguise-133426-5-0-1741402887.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133426/?tab=files&file_id=602930)
 *  [DiskCacheEnabler-Universal-100975-1-0-Universal-1695193100.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100975/?tab=files&file_id=427530)
 *  [Dismembering Framework - Latest Version-126203-1-0-6-1733276109.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126203/?tab=files&file_id=568763)
 *  [DllLoader-3619-1-0-0-4.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3619/?tab=files&file_id=35843)
@@ -435,6 +437,7 @@
 *  [Lil Patches-105436-2-1-1725555428.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105436/?tab=files&file_id=539010)
 *  [Locational Encounter Zones-85212-1-0-2-1676905795.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85212/?tab=files&file_id=361658)
 *  [LocationalDamageSKSE VR 0.7.2-26447-0-7-2-1638129484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26447/?tab=files&file_id=245200)
+*  [Lock Related Loot-11342-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11342/?tab=files&file_id=32126)
 *  [LootPreventifier_a20b1aa1f7041596f4a9c57b17b4706caeb852abbe33d7be1a0d764edb1c01a6_.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip)
 *  [LOTD CBBE Patch v5-44045-1-0-4-1660415994.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44045/?tab=files&file_id=307216)
 *  [LotD Dome retexture-46452-1-0-1614719554.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46452/?tab=files&file_id=189039)
@@ -796,7 +799,7 @@
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
 *  [SSoS - Installer Fix-3375-v1-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3375/?tab=files&file_id=9840)
-*  [Stable Hands-118579-1-1-0-1715480100.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118579/?tab=files&file_id=500288)
+*  [Stable Hands-118579-1-1-1-1742063201.rar](https://www.nexusmods.com/skyrimspecialedition/mods/118579/?tab=files&file_id=606026)
 *  [StatFX - new default configs included-112605-1-1-0-1709775119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112605/?tab=files&file_id=477768)
 *  steam_api64.dll
 *  [Steeds of Ultima - VR-81220-1-1-0-1705789495.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81220/?tab=files&file_id=463301)
