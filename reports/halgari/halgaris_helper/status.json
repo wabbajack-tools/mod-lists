@@ -3,9 +3,24 @@
   "Name": "Halgari\u0027s Helper",
   "Version": "3.0",
   "ModListHash": "83fJglT61Dk=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/halgari/halgaris_helper_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/halgari/halgaris_helper_large.webp"
 }
