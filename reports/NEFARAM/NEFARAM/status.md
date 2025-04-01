@@ -1906,7 +1906,7 @@
 *  [STR - SkyHaven 2K-10375-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10375/?tab=files&file_id=27582)
 *  [Striding Silt Strider-109619-1-3-1707062998.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109619/?tab=files&file_id=467705)
 *  [Stros M'Kai Rum Replacer 1K-43830-1-2-1609421380.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43830/?tab=files&file_id=177052)
-*  [SubmissiveLolaResubmission 2.1.12.7z](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/)
+*  [SubmissiveLolaResubmission 2.1.13.7z](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/)
 *  [Subtitles-113214-0-6-1-1710663521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113214/?tab=files&file_id=481414)
 *  [Succubus Heart - 5.3.1 Release-92433-5-3-1-Release-1706755383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92433/?tab=files&file_id=466653)
 *  [Sunhelm - Bottle of Water Retexture-105394-1-0-1700763203.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105394/?tab=files&file_id=445331)
