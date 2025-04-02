@@ -297,7 +297,7 @@
 *  [Hair Specular Map Removal Thingy-35661-2-0-1541043541.zip](https://www.nexusmods.com/fallout4/mods/35661/?tab=files&file_id=144981)
 *  [HD LOD Textures-56138-1-1-1652529794.7z](https://www.nexusmods.com/fallout4/mods/56138/?tab=files&file_id=237603)
 *  [HFR - 2K Face texture compatibility pack-58950-1-5-Fix1-1705013335.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=299343)
-*  [High FPS Physics Fix-44798-0-8-11-1734374053.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=342948)
+*  [High FPS Physics Fix-44798-0-8-11-1734373932.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=342947)
 *  High.ini
 *  [HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)-58950-1-6-1723973155.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=330670)
 *  [HiPoly Faces REDUX (Fusion Girl Seamless)-58950-1-5-1696593616.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=291126)
