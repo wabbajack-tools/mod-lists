@@ -1,4 +1,4 @@
-## Validation Report - Apostasy - Allow Death (Animonculory/Curseadelica)
+## Validation Report - Cursedelica (Animonculory/Curseadelica)
 
 
 ### Invalid (0)
