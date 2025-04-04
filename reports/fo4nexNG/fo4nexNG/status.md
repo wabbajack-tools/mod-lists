@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (560)
+### Valid (535)
 *  [1. VTAC REDUX v.2 - Main File 4k-81751-v-2-1725575575.7z](https://www.nexusmods.com/fallout4/mods/81751/?tab=files&file_id=332912)
 *  [Address Library - All In One-47327-AIO-1715667241.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=316412)
 *  [All-in-one with recommended settings.-2819-v0-10.7z](https://www.nexusmods.com/fallout4/mods/2819/?tab=files&file_id=62242)
@@ -66,24 +66,6 @@
 *  [CROSS_BrotherhoodRecon_091b2-27418-091b2.zip](https://www.nexusmods.com/fallout4/mods/27418/?tab=files&file_id=114435)
 *  cudart64_75.dll
 *  [Dartmouth Penthouse-87252-1-0-3-1726917800.zip](https://www.nexusmods.com/fallout4/mods/87252/?tab=files&file_id=334662)
-*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
-*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
-*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
-*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
-*  Data_ccBGSFO4016-Prey - Main.ba2
-*  Data_ccBGSFO4016-Prey - Textures.ba2
-*  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
-*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
-*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
-*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
-*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
-*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
-*  Data_ccBGSFO4038-HorseArmor - Main.ba2
-*  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor.esl
@@ -102,12 +84,6 @@
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
 *  Data_ccBGSFO4116-HeavyFlamer.esl
-*  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
-*  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
-*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
-*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
 *  Data_ccFSVFO4007-Halloween.esl
@@ -562,6 +538,5 @@
 *  [XM2010 TAS Add Attachments Nexar-90856-1-0-1737213030.7z](https://www.nexusmods.com/fallout4/mods/90856/?tab=files&file_id=345575)
 *  [XM2010..MAIN.data-36750-2023-9-20-1695409671.zip](https://www.nexusmods.com/fallout4/mods/36750/?tab=files&file_id=290218)
 *  [XXL Nukes (Nuclear Explosions Overhaul) - Fixed-89658-0-93-1733075942.7z](https://www.nexusmods.com/fallout4/mods/89658/?tab=files&file_id=341858)
-*  [XXX-17267-1.7z](https://www.nexusmods.com/fallout4/mods/17267/?tab=files&file_id=69188)
 *  [You And What Army 2-78925-1-06-1718469624.zip](https://www.nexusmods.com/fallout4/mods/78925/?tab=files&file_id=322904)
 *  [ZeX - ZaZ Extended Skeleton-36702-6-0-1687293851.zip](https://www.nexusmods.com/fallout4/mods/36702/?tab=files&file_id=281082)
