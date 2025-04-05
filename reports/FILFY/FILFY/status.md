@@ -1109,7 +1109,6 @@
 *  [DynDOLOD 3.00-68518-Alpha-169-1711743591.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=485428)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-33-1728547525.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=550668)
 *  [DynDOLOD NG - Settings Loader-95193-2-1-1-1728568229.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95193/?tab=files&file_id=550741)
-*  [DynDOLOD Output - 2.0.0-115534-2-0-0-1743547633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=612839)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-55-1740333043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=598290)
 *  [DynDOLOD TexGen Fixes-69323-2-3-1731733787.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69323/?tab=files&file_id=562775)
 *  [DynDoLod V 3.0 Lod pack (all versions)-11052-4-01-1665301976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=322680)
@@ -1375,8 +1374,8 @@
 *  [Ferries - Wyrmstooth Addon-109843-1-0-1708216799.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109843/?tab=files&file_id=472006)
 *  [FILFY - 2.0.0 - Secondary Installs.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=613226)
 *  [FILFY - Output - Bodyslide - 2.0.4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=613621)
+*  [FILFY - Output - DynDOLOD.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=612839)
 *  [FILFY - Output - VRAMr - Quality.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=613475)
-*  [FILFY - ReShade Presets-115534-1-3-0-1717109100.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=506724)
 *  [FILFY - VRAMr - Performance - 2.0.2-115534-2-0-2-1743695625.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=613418)
 *  [Final Farewell - ESL 1.0.3-127894-1-0-3-1726836311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127894/?tab=files&file_id=544155)
 *  [Fire Ignites Arrows-118544-1-1-1715758153_52adb08695ba731e3721cc26e03ae57b76bcb157d881b40e7a9433ce61ee59c4_.rar](https://www.nexusmods.com/skyrimspecialedition/mods/118544/?tab=files&file_id=501273)
@@ -1855,7 +1854,7 @@
 *  [Infinite Stamina Out of Combat-70134-1-1-1656001507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70134/?tab=files&file_id=293449)
 *  [Infinity UI-74483-2-0-3-1730049690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=556134)
 *  [Ingredients Have Description-129755-1-6-1743336898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129755/?tab=files&file_id=611651)
-*  [INI Settings - 2.0.0-115534-2-0-0-1743556033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=612860)
+*  [INI Settings - 2.0.5-115534-2-0-5-1743872078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=614210)
 *  [INIGO - 2.4C Patch-96150-1-0-1689725788.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96150/?tab=files&file_id=408398)
 *  [INIGO_V2.4C SE-1461-2-4C.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1461/?tab=files&file_id=10496)
 *  [Injured Falmer-117258-1-1-1714769706.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117258/?tab=files&file_id=497512)
@@ -2103,8 +2102,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
-*  lex_sscebr.tlx
 *  lex_sscebr2.clx
+*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -2742,6 +2741,7 @@
 *  [RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90734/?tab=files&file_id=408042)
 *  [Required Files and Configurations-117327-v5-9-1742785048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117327/?tab=files&file_id=609106)
 *  [Resaver 6.0.643-5031-6-0-643-1694115572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5031/?tab=files&file_id=424051)
+*  [ReShade Presets - 2.0.5-115534-2-0-5-1743850684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=614063)
 *  [Resistance Potions-110791-1-1-0-1706996813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110791/?tab=files&file_id=467478)
 *  [Return Aegisbane 1.2-108242-1-2-1717698915.rar](https://www.nexusmods.com/skyrimspecialedition/mods/108242/?tab=files&file_id=509072)
 *  [Revealing Rune 1.1-120935-1-1-1717699727.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120935/?tab=files&file_id=509083)
@@ -3085,6 +3085,7 @@
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
 *  [SkyrimUncapperBetaForAE(Latest)-46536-0-1-7-1664661752.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46536/?tab=files&file_id=320848)
+*  [SkyrimUpscaler-80343-1-2-1-1726454433.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80343/?tab=files&file_id=542721)
 *  [Skyshards - ENB Addon-68443-1-0-1653163522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68443/?tab=files&file_id=285516)
 *  [Skyshards v1.6.0-60748-1-6-0-1640462572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60748/?tab=files&file_id=251721)
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
@@ -3210,7 +3211,6 @@
 *  [Sprites or Specters - LeanWolf's - Patch-115848-1-0-1712489434.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115848/?tab=files&file_id=488341)
 *  [Squatter Shacks - Riverwood v1.2-61692-1-2-1741636529.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61692/?tab=files&file_id=604131)
 *  [SSE Display Tweaks-34705-0-5-16-1703410713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=454679)
-*  [SSE ReShade Helper-78961-1-0-1668715094.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78961/?tab=files&file_id=332611)
 *  [SSIRT SE v4.1-1523-v4-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1523/?tab=files&file_id=31674)
 *  [Stackable Stones of Barenziah with Optional Quest Markers-22395-2-0-0-1642285736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22395/?tab=files&file_id=257036)
 *  [Stacks of Septims - 3d Coin Piles-113071-0-1-2-1709618096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113071/?tab=files&file_id=477123)
