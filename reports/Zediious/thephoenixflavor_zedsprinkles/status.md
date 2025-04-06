@@ -1,4 +1,4 @@
-## Validation Report - The Phoenix Flavor - Zediious Sprinkles (Zediious/thephoenixflavor_zedsprinkles)
+## Validation Report - Aurbaesence (Zediious/thephoenixflavor_zedsprinkles)
 
 
 ### Invalid (0)
