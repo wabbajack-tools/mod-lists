@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum VR (Januarysnow/TempusVR)
 
 
-### Invalid (1)
-*  [tempusvr_grasscache.7z](https://authored-files.wabbajack.org/tempusvr_grasscache.7z_0e0d14b0-bac7-41db-ae09-9a11e882d1a9)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1841)
+### Valid (1842)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -1616,6 +1615,7 @@
 *  [Tempus Maledictum - Bodyslide Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Bodyslide Output.7z_25452d2b-1d44-43c7-8282-5a125a998c48)
 *  [Tempus Maledictum - Pandora Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Pandora Output.7z_09d1dcf2-055d-4a9c-ae89-bc6995ed4b94)
 *  [TempusVR_DynDOLOD_Output.zip](https://authored-files.wabbajack.org/TempusVR_DynDOLOD_Output.zip_85ced49a-f412-40c6-a4d7-8c0989190bca)
+*  [tempusvr_grasscache.7z](https://authored-files.wabbajack.org/tempusvr_grasscache.7z_68283841-6520-4514-a051-96fe39d3b518)
 *  [tempusvr_performance_grass_cache.7z](https://authored-files.wabbajack.org/tempusvr_performance_grass_cache.7z_7ca1b871-9ee7-40f8-bca6-99815a5fb4fe)
 *  [Tempusvr_TexGen_Output.zip](https://authored-files.wabbajack.org/Tempusvr_TexGen_Output.zip_82881cf6-cbc7-4340-af33-abab4d40406d)
 *  [tempusvr_xLODGen_Output.7z](https://authored-files.wabbajack.org/tempusvr_xLODGen_Output.7z_791a4851-c587-4a9f-8c30-e7bfab2a4088)

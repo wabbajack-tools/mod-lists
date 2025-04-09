@@ -1,8 +1,8 @@
 {
   "MachineURL": "Januarysnow/TempusVR",
   "Name": "Tempus Maledictum VR",
-  "Version": "0.50",
-  "ModListHash": "rb4QPOUWFaw=",
+  "Version": "0.51",
+  "ModListHash": "xv9AWdskn6I=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2866,15 +2866,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "zT2wC+QKWMw=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/tempusvr_grasscache.7z_0e0d14b0-bac7-41db-ae09-9a11e882d1a9",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/tempusvr_grasscache.7z_68283841-6520-4514-a051-96fe39d3b518",
         "Name": "tempusvr_grasscache.7z",
         "Size": 2865599947,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/tempusvr_grasscache.7z_0e0d14b0-bac7-41db-ae09-9a11e882d1a9"
+          "Url": "https://authored-files.wabbajack.org/tempusvr_grasscache.7z_68283841-6520-4514-a051-96fe39d3b518"
         }
       }
     },
@@ -37377,6 +37377,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+3wySu9IpRI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=159\nfileID=128715",
+        "Name": "Even Better Quest Objectives SE v1.8.4-159-1-8-4-1584285856.7z",
+        "Size": 6121829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "whickus with fixes and expansions by WilliamImm and Techangel85",
+          "Description": "Enhances the quest descriptions in the vanilla game. A now an officially endorsed update to whickus\u0027s Better Quest Objectives.",
+          "FileID": 128715,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32695-1-1362266042.png",
+          "IsNSFW": false,
+          "ModID": 159,
+          "Name": "Even Better Quest Objectives SE - EBQO SE",
+          "Version": "1.9.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "tuZR7VgHONY=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures5.bsa",
         "Name": "Data_Skyrim - Textures5.bsa",
@@ -37387,43 +37408,6 @@
           "GameFile": "Data\\Skyrim - Textures5.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "tuZR7VgHONY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8LzXRU4x9Sw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Sounds.bsa",
-        "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1535523399,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "8LzXRU4x9Sw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7gJZDEihMv0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38845\nfileID=290809",
-        "Name": "Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION-38845-AE-v3-1655122805.7z",
-        "Size": 111923655,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xtudo",
-          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM, Anniversary Edition and vanilla.",
-          "FileID": 290809,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
-          "IsNSFW": false,
-          "ModID": 38845,
-          "Name": "Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn",
-          "Version": "AE-v3"
         }
       }
     },
@@ -37467,16 +37451,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6by7EhPzAOQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 25248518,
+        "Hash": "7gJZDEihMv0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38845\nfileID=290809",
+        "Name": "Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION-38845-AE-v3-1655122805.7z",
+        "Size": 111923655,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "6by7EhPzAOQ="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xtudo",
+          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM, Anniversary Edition and vanilla.",
+          "FileID": 290809,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
+          "IsNSFW": false,
+          "ModID": 38845,
+          "Name": "Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn",
+          "Version": "AE-v3"
         }
       }
     },
@@ -37600,6 +37589,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "8LzXRU4x9Sw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1535523399,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "8LzXRU4x9Sw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fWI9+PDSGQk=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
         "Name": "Data_Strings_HearthFires_SPANISH.ILSTRINGS",
@@ -37717,42 +37722,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y7aWi2RAKYU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41463\nfileID=417521",
-        "Name": "Word Wall Transparency Fix for ENB-41463-0-3-1692153527.7z",
-        "Size": 838469,
+        "Hash": "6by7EhPzAOQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 25248518,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Remove a subtle dark rectangle around word of power on word walls and greybeard shouts for ENB users",
-          "FileID": 417521,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41463/41463-1645285247-494134377.png",
-          "IsNSFW": false,
-          "ModID": 41463,
-          "Name": "Word Wall Transparency Fix for ENB",
-          "Version": "0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+3wySu9IpRI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=159\nfileID=128715",
-        "Name": "Even Better Quest Objectives SE v1.8.4-159-1-8-4-1584285856.7z",
-        "Size": 6121829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "whickus with fixes and expansions by WilliamImm and Techangel85",
-          "Description": "Enhances the quest descriptions in the vanilla game. A now an officially endorsed update to whickus\u0027s Better Quest Objectives.",
-          "FileID": 128715,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32695-1-1362266042.png",
-          "IsNSFW": false,
-          "ModID": 159,
-          "Name": "Even Better Quest Objectives SE - EBQO SE",
-          "Version": "1.9.2"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "6by7EhPzAOQ="
         }
       }
     },
@@ -37833,6 +37812,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "y7aWi2RAKYU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41463\nfileID=417521",
+        "Name": "Word Wall Transparency Fix for ENB-41463-0-3-1692153527.7z",
+        "Size": 838469,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Remove a subtle dark rectangle around word of power on word walls and greybeard shouts for ENB users",
+          "FileID": 417521,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41463/41463-1645285247-494134377.png",
+          "IsNSFW": false,
+          "ModID": 41463,
+          "Name": "Word Wall Transparency Fix for ENB",
+          "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xAzagm0Oscc=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Shaders.bsa",
         "Name": "Data_Skyrim - Shaders.bsa",
@@ -37847,8 +37847,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_large.webp"
 }
