@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3754)
+### Valid (3757)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -369,6 +369,7 @@
 *  [BIRDS-123068-v1-02-1727634319.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123068/?tab=files&file_id=547488)
 *  [Bittercup - Lost Passages The Hidden City Patch-134495-1-0-1732186891.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134495/?tab=files&file_id=564514)
 *  [Bittercup - Tweaks and Enhancements-81665-1-4-1729963347.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81665/?tab=files&file_id=555766)
+*  [Bjorn - Bear SFX-147345-0-1-1744392189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147345/?tab=files&file_id=616180)
 *  [Blackreach Eerie Ambience-112114-2-0-1723653558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112114/?tab=files&file_id=531506)
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
 *  [Blades Armors and Weapons Retexture SE - Half res-86568-1-01-1686692768.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86568/?tab=files&file_id=397606)
@@ -679,7 +680,6 @@
 *  [Currency Swapper-127686-1-2-0-1732947029.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127686/?tab=files&file_id=567503)
 *  [Custom Doors Add-on-56731-1-0-1-1633975942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56731/?tab=files&file_id=234182)
 *  [Custom Icons CSF-106000-2-0-1715802637.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106000/?tab=files&file_id=501449)
-*  [Custom Race Compatibility Patch-112415-1-3-1709365429.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112415/?tab=files&file_id=476165)
 *  [Custom Skill Menu Basic Icon Pack-62423-1-0-1642939412.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62423/?tab=files&file_id=258865)
 *  [Custom Skill Menu-62423-1-1-7-1688378925.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62423/?tab=files&file_id=403347)
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
@@ -1307,6 +1307,8 @@
 *  [Extra Skeleton Nodes - Physics for IED-92244-1-2-1692474966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92244/?tab=files&file_id=418709)
 *  [Extra Skeleton Nodes-92244-1-5-1721618114.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92244/?tab=files&file_id=523644)
 *  [Eyes AO Clipping Fix-25753-1-3-1558284484.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25753/?tab=files&file_id=92806)
+*  [F.T.F.Y. - Freyr Standing Stones for Custom Races.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147465/?tab=files&file_id=616617)
+*  [F.T.F.Y. - Race Compatability SKSE - Configuration-147472-1-0-1-1744520177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147472/?tab=files&file_id=616651)
 *  [Fabled Aspens Ablaz-108019-1-0-1703883155.zip](https://www.nexusmods.com/skyrimspecialedition/mods/108019/?tab=files&file_id=456168)
 *  [Fabled Forests - Ivy on Trees-96782-1-1-0-1693560770.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96782/?tab=files&file_id=422481)
 *  [Fabled Forests - Revert Reach Trees (AE)-99137-2-0-1693002307.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99137/?tab=files&file_id=420550)
@@ -1512,7 +1514,7 @@
 *  [Gelatinous Cubes and Voriplasms - SE by Xtudo - 2K-108447-1-1704398569.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108447/?tab=files&file_id=457874)
 *  [GeleborTeachesSunhallowedArrowsSpell SE - All Arrows At Once-26812-1-0-1601731768.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26812/?tab=files&file_id=163746)
 *  [Gems in Gold Purses-90654-1-0-1683227478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90654/?tab=files&file_id=384662)
-*  [General - T.I.T.S. U.P.-112061-1-1-7-1713172207.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112061/?tab=files&file_id=490969)
+*  [General - T.I.T.S. U.P. - 1.1.9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112061/?tab=files&file_id=616607)
 *  [Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=474419)
 *  [ghosts and souls (se-ae)  1.1-82058-1-1-1738768747.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82058/?tab=files&file_id=591322)
 *  [Ghosts float DAR animations-70574-1-0-1-1657941240.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70574/?tab=files&file_id=299304)
@@ -2130,8 +2132,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
+*  lex_sscebr.tlx
 *  lex_sscebr2.clx
-*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -2694,10 +2696,10 @@
 *  [QuickLoot IE - A QuickLoot EE Fork-120075-3-4-1-1739389633.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120075/?tab=files&file_id=593878)
 *  [Quickloot IE - Untarnished UI Patch 1.1.3-140287-1-1-3-1740932358.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140287/?tab=files&file_id=601022)
 *  [R.A.S.S. - Rain Ash And Snow Shaders-22780-3-5-1-1676742582.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22780/?tab=files&file_id=361021)
-*  [Race Compatibility Dialogue SSE-17595-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17595/?tab=files&file_id=55750)
+*  [Race Compatibility SKSE - Patch Hub-122592-2-1-1-1743849243.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122592/?tab=files&file_id=614054)
+*  [Race Compatibility SKSE-122592-2-1-0-1743431985.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122592/?tab=files&file_id=612126)
 *  [Race Distribution Framework-113825-1-5-5-1743299058.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113825/?tab=files&file_id=611516)
 *  [Race Menu Player Rotation-91146-1-2-1-1701856691.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91146/?tab=files&file_id=449200)
-*  [RaceCompatibilty All-In-One Scripted Installer-2853-2-16-1682448886.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2853/?tab=files&file_id=381971)
 *  [RaceMenu Anniversary Edition v0-4-19-14-19080-0-4-19-14-1667000011_173a4184640de107d796a653d39e016097f747806ca537b07f2335fa3e755feb_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=327229)
 *  [Racemenu Outfit Toggle-98072-1-0-1691732111.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98072/?tab=files&file_id=415980)
 *  [Racial Skin Variance - SPID 2K Version-81668-2-5-1-1733771259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81668/?tab=files&file_id=570777)
@@ -2915,6 +2917,7 @@
 *  [Sa'chil - Custom Voiced Khajiit Follower - 1.0.3-106892-1-0-3-1703179362.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106892/?tab=files&file_id=453902)
 *  [Sa'chil Addon - Fluffy Tails - Physics-106892-1-0-0-1703181935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106892/?tab=files&file_id=453908)
 *  [Sacrilege - Fishing Compatibility Patch-42408-2-1-0-1642774302.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42408/?tab=files&file_id=258376)
+*  [Sacrilege - Wintersun-72575-1-00-1659448216.rar](https://www.nexusmods.com/skyrimspecialedition/mods/72575/?tab=files&file_id=304120)
 *  [Sacrilege 2.1.0-42408-2-1-0-1642773358.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42408/?tab=files&file_id=258370)
 *  [Sacrosanct - Custom I4 Icons-105177-1-1-1702878276.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105177/?tab=files&file_id=452875)
 *  [Safe Version (V1)-42022-1-7-1-1739533601.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42022/?tab=files&file_id=594482)
@@ -3045,7 +3048,6 @@
 *  [Simplicity of Snow - Cities of The North-58559-0-1-1637068034.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58559/?tab=files&file_id=241931)
 *  [Simplicity of Snow - Parallax Meshes-56235-0-23-1-1739651544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=595169)
 *  [Simplicity of Snow-56235-0-24-1-1743290063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=611486)
-*  [Simplicity of Stalking - Automatically Follow NPCs-111867-0-7-1728417944.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111867/?tab=files&file_id=550301)
 *  [Simply Balanced - 1.4.6 - Optional Enchantment Fix-15541-1-4-6-1631884907.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=228943)
 *  [Simply Balanced - 1.4.6-15541-1-4-6-1631273416.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=227380)
 *  [Simply Balanced - 1.4.7-15541-1-4-7-1719230030.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=514466)
@@ -3373,6 +3375,7 @@
 *  [The Dragonborn's Bestiary - Mihail Addons-123389-1-8-1735518164.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=577527)
 *  [The Dragonborn's Bestiary - Natura Addon-123389-1-0-1720823823.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=520483)
 *  [The Dragonborn's Bestiary - SkyTEST Addon-123389-1-0-1720317658.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=518397)
+*  [The Dragonborn's Bestiary - Sun Spells Addon-123871-1-0-0-1720556316.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123871/?tab=files&file_id=519456)
 *  [The Dragonborn's Bestiary - Untarnished UI Patch-123774-v1-4-1722296752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123774/?tab=files&file_id=526488)
 *  [The Dragonborn's Bestiary - Vanilla Addon-123389-1-3-1721186051.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=522045)
 *  [The Dragonborn's Bestiary Add-On-143275-1-0-1740873606.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143275/?tab=files&file_id=600701)
