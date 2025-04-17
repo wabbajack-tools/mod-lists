@@ -30,6 +30,7 @@
     -   [The Phoenix Flavour](#the-phoenix-flavour)
     -   [Tempus Maledictum](#tempus-maledictum)
     -   [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
+    -   [Twisted Skyrim](#twisted-skyrim)
     -   [Wildlander](#wildlander)
 -   [Fallout 4](#fallout-4)
     -   [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
@@ -411,6 +412,14 @@ Tempus Maledictum is a LotD-and-quest-focused modlist, complete with the old sch
 TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost everything has been modified by hand, and is meant to be a challenging experience unlike any you’ve had before. This is very much a game you are meant to experience for yourself without asking for a walkthrough, so be prepared to die a lot while you learn how best to handle the new mechanics.
 
 [TSO Gameplay Guide](https://github.com/NotTotal/Total-Skyrim-Overhaul/blob/master/README.md#gameplay-guide)
+
+---
+
+### [Twisted Skyrim](https://github.com/TwistedModding/TwistedModdingLists)
+
+Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you'll feel like your playing a modern age Skyrim. 
+
+[Twisted Skyrim Gameplay Guide](https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md)
 
 ---
 
