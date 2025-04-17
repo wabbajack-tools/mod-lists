@@ -1,4 +1,4 @@
-## Validation Report - Chrome & Blood (Chrome_and_Blood/SchoolBoyQ)
+## Validation Report - Chrome and Blood (Chrome_and_Blood/SchoolBoyQ)
 
 
 ### Invalid (0)
