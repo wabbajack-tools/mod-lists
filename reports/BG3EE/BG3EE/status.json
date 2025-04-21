@@ -1,8 +1,8 @@
 {
   "MachineURL": "BG3EE/BG3EE",
   "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
-  "Version": "2.0.0.0",
-  "ModListHash": "5Lz6x4PW28o=",
+  "Version": "2.0.0.1",
+  "ModListHash": "aJdreBNlQjs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -245,42 +245,35 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sL918somfHY=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14407\nfileID=82833",
-        "Name": "BG3-MO2-Unofficial-Plugin 0.6.5-14407-0-6-5-1735232165.zip",
-        "Size": 1348744,
+        "Hash": "+bCaYKmFOm4=",
+        "Meta": "[General]\ndirectURL=https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip",
+        "Name": "BG3-MO2-Unofficial-Plugin.zip",
+        "Size": 1349199,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dragozino",
-          "Description": "A Mod Organizer 2 Plugin for Baldur\u0027s Gate 3 that offers multiple features including load order generation.",
-          "FileID": 82833,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14407/14407-1735039875-411094663.png",
-          "IsNSFW": false,
-          "ModID": 14407,
-          "Name": "Baldur\u0027s Gate 3 - Unofficial MO2 Support",
-          "Version": "0.6.5"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y0M0hJcjlj8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
-        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
-        "Size": 41598,
+        "Hash": "8aYHTje0eR8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=757\nfileID=89901",
+        "Name": "Better Loading Screens-757-1-0-4-1745167488.7z",
+        "Size": 3509,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hoagsie",
-          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
-          "FileID": 11379,
+          "Author": "Aether",
+          "Description": "Removes padding around the loading screen image, also removes the vignette. Adds a drop shadow and stroke to hints",
+          "FileID": 89901,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/757/757-1704835742-1904129094.png",
           "IsNSFW": false,
-          "ModID": 1561,
-          "Name": "Faster Rolls Quartered",
-          "Version": "1.1"
+          "ModID": 757,
+          "Name": "Aether\u0027s Better Loading Screens",
+          "Version": "1.03"
         }
       }
     },
@@ -497,42 +490,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hvu0ZhfFOik=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=781\nfileID=89296",
-        "Name": "WASD-781-1-9-6-1744848102.zip",
-        "Size": 419794,
+        "Hash": "y0M0hJcjlj8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
+        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
+        "Size": 41598,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ch4nKyy",
-          "Description": "Explore Faer\u00FBn in an immersive Third-Person-View and use WASD to move your Heroes.",
-          "FileID": 89296,
+          "Author": "hoagsie",
+          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
+          "FileID": 11379,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/781/781-1691761313-2064208011.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
           "IsNSFW": false,
-          "ModID": 781,
-          "Name": "WASD Character Movement",
-          "Version": "1.9.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "O+4IL28zhrs=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2113\nfileID=14938",
-        "Name": "Smaller Lyre-2113-1-0-1694421449.zip",
-        "Size": 47554,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Makes the lyre smaller.",
-          "FileID": 14938,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2113/2113-1694421185-1522920521.png",
-          "IsNSFW": false,
-          "ModID": 2113,
-          "Name": "Smaller Lyre",
-          "Version": "1.0"
+          "ModID": 1561,
+          "Name": "Faster Rolls Quartered",
+          "Version": "1.1"
         }
       }
     },
@@ -707,20 +679,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PP4sYMAdNj0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2248\nfileID=15704",
-        "Name": "Smaller Torches-2248-1-0-1694682452.zip",
-        "Size": 117567,
+        "Hash": "hvu0ZhfFOik=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=781\nfileID=89296",
+        "Name": "WASD-781-1-9-6-1744848102.zip",
+        "Size": 419794,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ch4nKyy",
+          "Description": "Explore Faer\u00FBn in an immersive Third-Person-View and use WASD to move your Heroes.",
+          "FileID": 89296,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/781/781-1691761313-2064208011.png",
+          "IsNSFW": false,
+          "ModID": 781,
+          "Name": "WASD Character Movement",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O+4IL28zhrs=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2113\nfileID=14938",
+        "Name": "Smaller Lyre-2113-1-0-1694421449.zip",
+        "Size": 47554,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Team Me",
-          "Description": "Makes the torches smaller, less like they\u0027re from a MOBA.",
-          "FileID": 15704,
+          "Description": "Makes the lyre smaller.",
+          "FileID": 14938,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2248/2248-1694682359-857220469.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2113/2113-1694421185-1522920521.png",
           "IsNSFW": false,
-          "ModID": 2248,
-          "Name": "Smaller Torches",
+          "ModID": 2113,
+          "Name": "Smaller Lyre",
           "Version": "1.0"
         }
       }
@@ -875,21 +868,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d8RiTz1VioI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9663\nfileID=57912",
-        "Name": "Version A-9663-1-0-1716201056.rar",
-        "Size": 14155,
+        "Hash": "PP4sYMAdNj0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2248\nfileID=15704",
+        "Name": "Smaller Torches-2248-1-0-1694682452.zip",
+        "Size": 117567,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "starcityjespar",
-          "Description": "Replaces Astarion\u0027s \u0022grinch\u0022 smile with one of his other smile animations (Now includes an option to make the grinch face permanent)",
-          "FileID": 57912,
+          "Author": "Team Me",
+          "Description": "Makes the torches smaller, less like they\u0027re from a MOBA.",
+          "FileID": 15704,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9663/9663-1716443539-672233871.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2248/2248-1694682359-857220469.png",
           "IsNSFW": false,
-          "ModID": 9663,
-          "Name": "Astarion Unusual Smile Animation Replacer",
-          "Version": "2.0"
+          "ModID": 2248,
+          "Name": "Smaller Torches",
+          "Version": "1.0"
         }
       }
     },
@@ -1058,6 +1051,27 @@
           "ModID": 5899,
           "Name": "Smart Autosaving",
           "Version": "2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d8RiTz1VioI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9663\nfileID=57912",
+        "Name": "Version A-9663-1-0-1716201056.rar",
+        "Size": 14155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "starcityjespar",
+          "Description": "Replaces Astarion\u0027s \u0022grinch\u0022 smile with one of his other smile animations (Now includes an option to make the grinch face permanent)",
+          "FileID": 57912,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9663/9663-1716443539-672233871.png",
+          "IsNSFW": false,
+          "ModID": 9663,
+          "Name": "Astarion Unusual Smile Animation Replacer",
+          "Version": "2.0"
         }
       }
     },
@@ -1582,27 +1596,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mW4YwSTlGq8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15305\nfileID=87065",
-        "Name": "Custom Loading Screen-15305-1-1-10-1741715734.7z",
-        "Size": 11520619,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reyqune",
-          "Description": "A curated Baldur\u0027s Gate 3 mod list focused on a polished, slightly harder vanilla-like experience with quality-of-life upgrades and bug fixes for smoother gameplay.",
-          "FileID": 87065,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15305/15305-1741714853-436369333.jpeg",
-          "IsNSFW": false,
-          "ModID": 15305,
-          "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
-          "Version": "1.1.10"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oo4POYJL0BM=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=14069\nfileID=80901",
         "Name": "HT_LeakingBloodBag_PAK-14069-1-0-0-2-1733189669.zip",
@@ -1765,6 +1758,27 @@
           "ModID": 14661,
           "Name": "Stop accidentally dating Gale",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mW4YwSTlGq8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15305\nfileID=87065",
+        "Name": "Custom Loading Screen-15305-1-1-10-1741715734.7z",
+        "Size": 11520619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reyqune",
+          "Description": "A curated Baldur\u0027s Gate 3 mod list focused on a polished, slightly harder vanilla-like experience with quality-of-life upgrades and bug fixes for smoother gameplay.",
+          "FileID": 87065,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15305/15305-1741714853-436369333.jpeg",
+          "IsNSFW": false,
+          "ModID": 15305,
+          "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
+          "Version": "1.1.10"
         }
       }
     },
@@ -2611,27 +2625,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+NeRsMNN7YI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1911\nfileID=13756",
-        "Name": "Even Smaller Flute-1911-1-0-1-1694034315.zip",
-        "Size": 15085,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Mainly makes the flute less bulky, and while keeping the length.",
-          "FileID": 13756,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1911/1911-1694034402-1998454809.png",
-          "IsNSFW": false,
-          "ModID": 1911,
-          "Name": "Smaller Flute",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "fhdz/TijjMA=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=6188\nfileID=68893",
         "Name": "Auto Lockpicking 2.0.1-6188-2-0-1-1725549382.zip",
@@ -2794,6 +2787,27 @@
           "ModID": 7676,
           "Name": "Volition Cabinet",
           "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+NeRsMNN7YI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1911\nfileID=13756",
+        "Name": "Even Smaller Flute-1911-1-0-1-1694034315.zip",
+        "Size": 15085,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Me",
+          "Description": "Mainly makes the flute less bulky, and while keeping the length.",
+          "FileID": 13756,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1911/1911-1694034402-1998454809.png",
+          "IsNSFW": false,
+          "ModID": 1911,
+          "Name": "Smaller Flute",
+          "Version": "1.0.1"
         }
       }
     },
@@ -2983,27 +2997,6 @@
           "ModID": 5080,
           "Name": "Wifi potions v2 tm",
           "Version": "2.0.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cwA/o6dKs7s=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=757\nfileID=39011",
-        "Name": "Better Loading Screens-757-1-03-1704836250.7z",
-        "Size": 3559,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Aether",
-          "Description": "Removes padding around the loading screen image, also removes the vignette. Adds a drop shadow and stroke to hints",
-          "FileID": 39011,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/757/757-1704835742-1904129094.png",
-          "IsNSFW": false,
-          "ModID": 757,
-          "Name": "Aether\u0027s Better Loading Screens",
-          "Version": "1.03"
         }
       }
     }
