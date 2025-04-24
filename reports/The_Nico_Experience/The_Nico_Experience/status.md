@@ -1,10 +1,11 @@
 ## Validation Report - The Nico Experience (The_Nico_Experience/The_Nico_Experience)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [_Fuse00_ArmorRedWarrior_CBBE.rar](https://www.patreon.com/file?h=85266060&i=14743517)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2138)
+### Valid (2137)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -15,7 +16,6 @@
 *  [_Fuse00_ArmorNetflixGeralt.rar](https://www.patreon.com/file?h=73969210&i=12155354)
 *  [_Fuse00_ArmorPhantom_CBBE_V1.1.rar](https://www.patreon.com/file?h=72580026&i=12781393)
 *  [_Fuse00_ArmorPhantom_VanillaMale.rar](https://www.patreon.com/file?h=72580026&i=11878009)
-*  [_Fuse00_ArmorRedWarrior_CBBE.rar](https://www.patreon.com/file?h=85266060&i=14743517)
 *  [_Fuse00_ArmorRedWarrior_VanillaMale.rar](https://www.patreon.com/file?h=85266060&i=14743519)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
