@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2138)
+### Valid (2133)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -259,7 +259,6 @@
 *  [Better Dirt Cliffs - Complete lighting fix (roots and skirts)-34035-3-4-1587751641.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34035/?tab=files&file_id=136093)
 *  [Better Dirt Cliffs and Alphas (2K)-34035-4-0-1588921242.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34035/?tab=files&file_id=138678)
 *  [Better Dynamic Ash SE v2.1.1-54754-2-1-1-1630276704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54754/?tab=files&file_id=224790)
-*  [Better Dynamic Snow - Complex Parallax Materials-115401-3-2-1721629346.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115401/?tab=files&file_id=523679)
 *  [Better Dynamic Snow - Patch-20290-1-3-1606414308.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20290/?tab=files&file_id=171698)
 *  [Better Dynamic Snow SE v2.11.0-9121-2-11-0-1588317147.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9121/?tab=files&file_id=137290)
 *  [Better FaceLight and Conversation Redux-69397-3-30-1688312675.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69397/?tab=files&file_id=403127)
@@ -429,7 +428,7 @@
 *  [Convenient Horses Special Edition Patch-9519-7-1-1641573692.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9519/?tab=files&file_id=254744)
 *  [Convenient Horses-9519-7-1-1641573606.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9519/?tab=files&file_id=254743)
 *  [Cooking with Fire-73607-0-2-1660929265.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73607/?tab=files&file_id=308699)
-*  [Core Impact Framework - Latest Version-146873-1-0-1-1744722456.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=617562)
+*  [Core Impact Framework - Latest Version-146873-1-0-3-1745173935.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=619492)
 *  [Countess Armor HDT-SMP Body Physics-71116-1-1-1657491913.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71116/?tab=files&file_id=297963)
 *  [Countess Armor-71116-1-2-1657865145.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71116/?tab=files&file_id=299060)
 *  [CoverKhajiits 2K-71067-1-3-1674574017.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71067/?tab=files&file_id=352569)
@@ -618,7 +617,7 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
@@ -1356,6 +1355,7 @@
 *  [Morrowind Creatures Add-On-123521-1-0-1720369117.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123521/?tab=files&file_id=518647)
 *  [Morthal Carriage Stop Patch - Nico-105031-2-0-2-1732756148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=566764)
 *  [MouseCam v1.3-90620-v1-3-1699770214.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90620/?tab=files&file_id=441932)
+*  [Moveable Chain-69764-2-2-1655999937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69764/?tab=files&file_id=293447)
 *  [Movement Behavior Overhaul SE-38950-1-5-1664514459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38950/?tab=files&file_id=320392)
 *  [Mu Skeleton Editor-91563-0-4-3-1696779339.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91563/?tab=files&file_id=432300)
 *  [Music Merged-4625-1-4-2-1638162189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4625/?tab=files&file_id=245273)
@@ -1516,11 +1516,8 @@
 *  [Patches for the Nico Expewrience Wabbajack-105031-1-0-1700335722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=443695)
 *  [Patches-22671-5-5a-1551466050.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22671/?tab=files&file_id=83430)
 *  [Payload Interpreter-65089-1-1-0-1685672813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65089/?tab=files&file_id=394150)
-*  [PC - Head Tracking - Geralt Expanded-94234-1-0-1687681297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94234/?tab=files&file_id=400797)
 *  [PC Head Tracking - MCM v4.8 SE-11993-v4-8-1629727400.zip](https://www.nexusmods.com/skyrimspecialedition/mods/11993/?tab=files&file_id=223187)
-*  [PC Head tracking Bella-86413-1-1-1689004360.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86413/?tab=files&file_id=405921)
 *  [PC Head Tracking Ciri - Righteous Adventurer-93141-2-699-1723656177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93141/?tab=files&file_id=531513)
-*  [PC Head Tracking Voice Pack - Yennefer-70728-1-0-1656943275.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70728/?tab=files&file_id=296118)
 *  [Pelt Cloaks for Wet and Cold-121038-1-3-1726756279.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121038/?tab=files&file_id=543851)
 *  [PELTAPALOOZA  Special Edition - FULL-5442-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5442/?tab=files&file_id=11948)
 *  [Pelts 'o' Plenty - Fur Pelt Gear-120726-3-93-1737217677.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120726/?tab=files&file_id=584796)
@@ -2000,7 +1997,6 @@
 *  [Trees Addon SE-22053-1-2-8-1614116932_db6f564aa3edfe9babde7532a4eef8d3bdd54ddb810ccae911bdf208a5e2734b_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=187650)
 *  [Tribal Sorceress Mashup-30364-1-1-1573839002.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30364/?tab=files&file_id=113473)
 *  [Triss DBVO Pack-87296-1-2-1684420644.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87296/?tab=files&file_id=389413)
-*  [Triss Merigold - PC Head Tracking Voice - EXTRA-61414-1-1-1641558973.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61414/?tab=files&file_id=254689)
 *  [Troll Animation-84026-1-0-1676427888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84026/?tab=files&file_id=359886)
 *  [Troll.2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9411)
 *  [True Meeko Plugin - ESL-12193-1-2-1642018502.rar](https://www.nexusmods.com/skyrimspecialedition/mods/12193/?tab=files&file_id=256205)
@@ -2056,7 +2052,6 @@
 *  [Valkyrie Armor-8463-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8463/?tab=files&file_id=21001)
 *  [Vampire DBVO Pack-96150-1-0-1689725423.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96150/?tab=files&file_id=408391)
 *  [Vampire Lines Expansion-83484-1-0-1676564833.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83484/?tab=files&file_id=360315)
-*  [Vampire PC Head Tracking Pack-96150-1-01-1690788198.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96150/?tab=files&file_id=412638)
 *  [Vampires Cast No Shadow 2-46107-1-2-1-1665255159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46107/?tab=files&file_id=322523)
 *  [Vanilla Enhanced 2.0-43092-2-0-1643842608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43092/?tab=files&file_id=261356)
 *  [Vanilla Script MicroOptimizations-54061-1-17-1696891566.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=432771)
