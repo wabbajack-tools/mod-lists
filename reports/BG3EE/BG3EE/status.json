@@ -1,8 +1,8 @@
 {
   "MachineURL": "BG3EE/BG3EE",
   "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
-  "Version": "2.0.0.1",
-  "ModListHash": "aJdreBNlQjs=",
+  "Version": "2.0.0.2",
+  "ModListHash": "gUPxV3oaPEE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,433 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fhdz/TijjMA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6188\nfileID=68893",
+        "Name": "Auto Lockpicking 2.0.1-6188-2-0-1-1725549382.zip",
+        "Size": 7539,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Automatically initiate lockpicking when interacting with locked chests and doors if you don\u0027t have the key. \n\nConfigurable through a JSON file.",
+          "FileID": 68893,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6188/6188-1706149350-548172634.png",
+          "IsNSFW": false,
+          "ModID": 6188,
+          "Name": "Auto Lockpicking",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oEfvet3zODs=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2256\nfileID=68840",
+        "Name": "Better Map Icons-2256-1-2-3-1725531185.zip",
+        "Size": 18494,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Full collection of my map improvements - minimap widget scaling, no grid/shroud on the map, new better NPC markers and more.",
+          "FileID": 68840,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2256/2256-1694702590-667270162.jpeg",
+          "IsNSFW": false,
+          "ModID": 2256,
+          "Name": "Better Maps All-In-One",
+          "Version": "1.15"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N1SqKi2ZxuI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9282\nfileID=88527",
+        "Name": "Combat Console Commands-9282-1-02-01-1744129566.zip",
+        "Size": 3282,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sailor Cat",
+          "Description": "Summon won\u0027t end its turn? Forcibly end the current turn or combat with these Script Extender console commands.",
+          "FileID": 88527,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9282/9282-1715023552-1206860450.png",
+          "IsNSFW": false,
+          "ModID": 9282,
+          "Name": "Combat Console Commands",
+          "Version": "1.01.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HFJm3njX17o=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=3214\nfileID=89166",
+        "Name": "Druid Quality of Life-3214-2-4-0-1744796160.zip",
+        "Size": 1279659,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Syrchalis",
+          "Description": "Quality of Life and Fixes - Druid is among the least played classes in Baldurs Gate 3 and 5e DnD and feels neglected. As face of the party or Tav it is especially unpleasant. This mod fixes that and much more.Re-casting spells, lockpicking, pickpocketing \u0026amp; more in Wild Shape, ritual Wild Shapes and many other QoL features and bug fixes.",
+          "FileID": 89166,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3214/3214-1701951023-1573288494.png",
+          "IsNSFW": false,
+          "ModID": 3214,
+          "Name": "Druid Quality of Life",
+          "Version": "2.1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k62HRvSN92o=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=366\nfileID=90270",
+        "Name": "ImpUI Patch 8 CC fixes-366-2-1-0-82-1745351675.zip",
+        "Size": 356759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AlanaSP ShinyHobo Djmr and Zee",
+          "Description": "Changes existing UI to enhance the current modding scene by removing intrusive in-game warning and enhancing character creation options. Also provides optional files that replace UI elements based on player feedback",
+          "FileID": 90270,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/366/366-1696670339-2002892487.jpeg",
+          "IsNSFW": false,
+          "ModID": 366,
+          "Name": "ImprovedUI ReleaseReady",
+          "Version": "3.15.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qt4WKi6QdkU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7034\nfileID=71979",
+        "Name": "Reduce NPC Banter Repetitiveness 1.0.2-7034-1-0-2-1726873058.zip",
+        "Size": 13783,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Reduces repetitive NPC banter by introducing delays before they repeat. Fully configurable through MCM.",
+          "FileID": 71979,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7034/7034-1721777140-1265417675.png",
+          "IsNSFW": false,
+          "ModID": 7034,
+          "Name": "Reduce NPC Banter Repetitiveness",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cGopqIJ61R8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7640\nfileID=57020",
+        "Name": "Vanilla Missing Icons-7640-1-3-1715650190.zip",
+        "Size": 276334,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kilay",
+          "Description": "Fix icons of Auntie Ethel\u0027s Boon, BOOOAL\u0027s Blessing, Forbidden Knowledge and Slayer Knowledge",
+          "FileID": 57020,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7640/7640-1709765358-1141204961.png",
+          "IsNSFW": false,
+          "ModID": 7640,
+          "Name": "Vanilla Missing Icons",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2MBP8BiCbMU=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip",
+        "Name": "rootbuilder.5.0.5.zip",
+        "Size": 948891,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iSv1ybiOsjE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=944\nfileID=8910",
+        "Name": "NativeModLoader-944-1-1692533783.zip",
+        "Size": 325905,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kassent",
+          "Description": "This is NativeModLoader, used to load any native dll plugins within bin\u0026#92;NativeMods\u0026#92; folder.",
+          "FileID": 8910,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/944/944-1692046259-904663716.png",
+          "IsNSFW": false,
+          "ModID": 944,
+          "Name": "Native Mod Loader",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+bCaYKmFOm4=",
+        "Meta": "[General]\ndirectURL=https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip",
+        "Name": "BG3-MO2-Unofficial-Plugin.zip",
+        "Size": 1349199,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Nv6C4Nf+MsQ=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=3902\nfileID=55124",
+        "Name": "See Invisibility Rework-3902-1-0-3-4-1714249282.zip",
+        "Size": 12332,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "drkekyll",
+          "Description": "Reworks See Invisibility to reveal invisible creatures without removing their invisibility (no save). Also changes the conditions for losing invisibility to better reflect RAW.",
+          "FileID": 55124,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3902/3902-1698891261-1326573694.png",
+          "IsNSFW": false,
+          "ModID": 3902,
+          "Name": "(See) Invisibility Rework",
+          "Version": "1.0.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B4LBxLAtfwk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10922\nfileID=90309",
+        "Name": "Automated Summons SE-10922-1-00-15-1745377272.zip",
+        "Size": 26137,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sailor Cat",
+          "Description": "Adds a toggleable passive for automation (AI control) of all summons during combat.",
+          "FileID": 90309,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10922/10922-1720896557-728646274.png",
+          "IsNSFW": false,
+          "ModID": 10922,
+          "Name": "Automated Summons",
+          "Version": "1.00.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8CDV6E6xCYE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15831\nfileID=89703",
+        "Name": "Better Photo Mode 1.0.1-15831-1-0-1-1745075967.zip",
+        "Size": 13887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Enhances photo mode by allowing real-time customization of camera parameters. Adjust camera speed, rotation speed, range, and focus smoothing via MCM. Features quick speed modifiers (fast/slow modes) via hotkeys.",
+          "FileID": 89703,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15831/15831-1744830985-564242183.png",
+          "IsNSFW": false,
+          "ModID": 15831,
+          "Name": "Better Photo Mode",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8PXEsWWpdew=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1933\nfileID=63029",
+        "Name": "Compatibility Framework-1933-2-6-3-12-1720117306.zip",
+        "Size": 18999,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BG3 Community Library Team",
+          "Description": "This is the Compatibility Framework. Split off from BG3 Community Library, this mod provides an API for other mods to use improve compatibility. Initially designed for Subclass Compatibility, the Framework has API endpoints that Script-Extender Enabled mods can hook into to insert values into Progressions, Feats, and Lists at Runtime.",
+          "FileID": 63029,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1933/1933-1695145601-616819095.png",
+          "IsNSFW": false,
+          "ModID": 1933,
+          "Name": "Compatibility Framework",
+          "Version": "2.6.3.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9AAeY0qglRo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5877\nfileID=41108",
+        "Name": "Druid Quality of Life - Hotbar Restore-5877-1-0-1-1705846324.zip",
+        "Size": 4270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Syrchalis",
+          "Description": "A script that copies your hotbar when you enter Wild Shape and restores it upon leaving it. Works with other polymorph effects that change your hotbar.",
+          "FileID": 41108,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5877/5877-1705117783-936923963.png",
+          "IsNSFW": false,
+          "ModID": 5877,
+          "Name": "Druid Quality of Life - Hotbar Restore",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "35uuOWerWVk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11613\nfileID=67415",
+        "Name": "CounterspellFixes.zip v1.1-11613-1-1-0-1723918327.zip",
+        "Size": 2259,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CunningShrike",
+          "Description": "Invisible or hidden casters cannot be counterspelled. Blinded creatures cannot cast counterspell. v1.1: Stealthy spells including Subtle Spell cannot be counterspelled.",
+          "FileID": 67415,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11613/11613-1723849074-401118870.png",
+          "IsNSFW": false,
+          "ModID": 11613,
+          "Name": "Invisibiilty Counters Counterspell",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3MixtSyhHtA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9701\nfileID=89092",
+        "Name": "Mod Uninstaller 1.6.0-9701-1-6-0-1744776244.zip",
+        "Size": 25877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Allows easily uninstalling mods, making it possible to remove them from the load order, via the MCM window or SE console.",
+          "FileID": 89092,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9701/9701-1716300223-1175514049.png",
+          "IsNSFW": false,
+          "ModID": 9701,
+          "Name": "Mod Uninstaller",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jznlYLnldEc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5046\nfileID=33957",
+        "Name": "No Camera Move-5046-1-1-1702300831.zip",
+        "Size": 1294,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gycicada",
+          "Description": "Removes the annoying camera move from projectile attack and spells.",
+          "FileID": 33957,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5046/5046-1702295777-193463860.png",
+          "IsNSFW": false,
+          "ModID": 5046,
+          "Name": "Remove Camera Move",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MlnPQUhpcbM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7676\nfileID=84509",
+        "Name": "VolitionCabinet 1.13.2-7676-1-13-2-1737487440.zip",
+        "Size": 64498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "A library mod for my other mods. Forked from Focus Core.",
+          "FileID": 84509,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7676/7676-1709954590-2036555062.png",
+          "IsNSFW": false,
+          "ModID": 7676,
+          "Name": "Volition Cabinet",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+NeRsMNN7YI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1911\nfileID=13756",
+        "Name": "Even Smaller Flute-1911-1-0-1-1694034315.zip",
+        "Size": 15085,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Me",
+          "Description": "Mainly makes the flute less bulky, and while keeping the length.",
+          "FileID": 13756,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1911/1911-1694034402-1998454809.png",
+          "IsNSFW": false,
+          "ModID": 1911,
+          "Name": "Smaller Flute",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AP1WailIc5g=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=12555\nfileID=72882",
+        "Name": "Emperor Finale Follower Dialogue Extended 1.0-12555-1-0-1727424810.zip",
+        "Size": 1676621,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SASUKE31",
+          "Description": "Allows the player to have a conversation with The Emperor when he is in the party during the finale and give him a hug if his romance arc was completed.",
+          "FileID": 72882,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12555/12555-1727423505-1833472942.png",
+          "IsNSFW": false,
+          "ModID": 12555,
+          "Name": "Emperor Finale Follower Dialogue Extended",
+          "Version": "1.0"
         }
       }
     },
@@ -126,154 +553,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gwv0w8dxWYo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15134\nfileID=87389",
-        "Name": "HT_KarlachRomance_BetterHotDate-15134-1-0-0-1-1742198330.zip",
-        "Size": 70163,
+        "Hash": "S4rJ8YOjGXE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8903\nfileID=54359",
+        "Name": "Invisibility Rules - Movement Line Fix-8903-1-1713632034.zip",
+        "Size": 2280,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HyperspaceTowel",
-          "Description": "Spend more time getting to know Karlach on your hot date",
-          "FileID": 87389,
+          "Author": "Primalfire",
+          "Description": "This mod fixes the dreaded issue of, \u0022movement destination line\u0022,  revealing the location of invisible entities.\n\nView mod page for pictures if you are not sure what this is.",
+          "FileID": 54359,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15134/15134-1741431199-1234547798.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8903/8903-1713631653-1849411876.png",
           "IsNSFW": false,
-          "ModID": 15134,
-          "Name": "Karlach Romance - Better Hot Date",
-          "Version": "1.0.0.1"
+          "ModID": 8903,
+          "Name": "Invisibility Rules - Movement Line Fix",
+          "Version": "1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TGDAXlMKhOg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1877\nfileID=60608",
-        "Name": "Mol Stolen Belongings Bug Fix (Set Flag)-1877-1-1-1718073779.zip",
-        "Size": 135871,
+        "Hash": "aDQIBJm+S0g=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1149\nfileID=60606",
+        "Name": "Mol Persuasion Bug Fix-1149-1-2-1718072982.zip",
+        "Size": 79760,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KickingWriter",
-          "Description": "Fixes bug where the dialogue for Mol does not appear to return your stolen belongings.",
-          "FileID": 60608,
+          "Description": "Fixes dialogue with Mol. \n\n\n\nIf you Stole Mattis\u0027 Ring, Grabbed Silfy etc... you will have to persuade Mol to give you another chance. However, after persuading, Mol refuses to talk to you.",
+          "FileID": 60606,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1877/1877-1693887664-915089403.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1149/1149-1692420707-1270669920.png",
           "IsNSFW": false,
-          "ModID": 1877,
-          "Name": "Mol Stolen Belongings Bug Fix",
-          "Version": "1.1"
+          "ModID": 1149,
+          "Name": "Mol Persuasion Bug Fix",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PUKX4VZeccM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15867\nfileID=89563",
-        "Name": "Shadow Blade Upcasting BUGFIX-15867-1-0-1745000765.rar",
-        "Size": 513080,
+        "Hash": "rouv6mTvW4E=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=13114\nfileID=88235",
+        "Name": "Sensible Ambushing-13114-1-1-1-1743622950.zip",
+        "Size": 40811,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ChizFreak",
-          "Description": "Fixes the upcasting bug of the new Shadow Blade that makes it lose its damage bonus whenever any status ends on the weapon.",
-          "FileID": 89563,
+          "Author": "OsirisofGit",
+          "Description": "(BETA BUILD) - Fixes the frustrating mix of turn-based and real-time gameplay when attempting to launch an ambush against enemies. Pulls your party into your attack, maintaining their stealth status, ensures surprise rounds happen, and enables actual stealth-combat, reapplying sneak status when you would otherwise lose it. 100% MCM Configurable!",
+          "FileID": 88235,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15867/15867-1745000669-1485058929.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/13114/13114-1729080071-426931051.png",
           "IsNSFW": false,
-          "ModID": 15867,
-          "Name": "Shadow Blade Upcasting BUGFIX",
-          "Version": "1.0"
+          "ModID": 13114,
+          "Name": "Sensible Ambushing - Stealth Combat Overhaul",
+          "Version": "0.5.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BxLN8wKzry8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4913\nfileID=32921",
-        "Name": "Yield to Temptation - Tutorial Chest Anti-Cheat-4913-1-0-0-1701871013.zip",
-        "Size": 2200,
+        "Hash": "RGywGd/CPIw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5080\nfileID=54833",
+        "Name": "Wifi_potions_2.0.4.0-5080-2-0-4-0-1713974102.zip",
+        "Size": 32052,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Syrchalis",
-          "Description": "No modded items in the nautiloid tutorial chest. Summoned tutorial chests still contain mod items! For everyone who can\u0027t control their dark urge and gives in to temptation when seeing the tutorial chest (and for multiplayer).",
-          "FileID": 32921,
+          "Author": "FallenStar",
+          "Description": "Magical healing potions that look for any available healing potion of the same type in the party\u0027s inventory for convenience, no more splitting potion or looking for them inside 50 bags\n\n\n\nMay activate your 5G chip.",
+          "FileID": 54833,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4913/4913-1701869702-749517948.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5080/5080-1702410478-1452314869.png",
           "IsNSFW": false,
-          "ModID": 4913,
-          "Name": "Yield to Temptation - Tutorial Chest Anti-Cheat",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2MBP8BiCbMU=",
-        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip",
-        "Name": "rootbuilder.5.0.5.zip",
-        "Size": 948891,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gQmkILzdXC4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=89090",
-        "Name": "Native Camera Tweaks-945-2-4-4-1744772780.zip",
-        "Size": 307207,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
-          "FileID": 89090,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
-          "IsNSFW": false,
-          "ModID": 945,
-          "Name": "Native Camera Tweaks",
-          "Version": "2.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+bCaYKmFOm4=",
-        "Meta": "[General]\ndirectURL=https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip",
-        "Name": "BG3-MO2-Unofficial-Plugin.zip",
-        "Size": 1349199,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/0.7.0/BG3-MO2-Unofficial-Plugin.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8aYHTje0eR8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=757\nfileID=89901",
-        "Name": "Better Loading Screens-757-1-0-4-1745167488.7z",
-        "Size": 3509,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Aether",
-          "Description": "Removes padding around the loading screen image, also removes the vignette. Adds a drop shadow and stroke to hints",
-          "FileID": 89901,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/757/757-1704835742-1904129094.png",
-          "IsNSFW": false,
-          "ModID": 757,
-          "Name": "Aether\u0027s Better Loading Screens",
-          "Version": "1.03"
+          "ModID": 5080,
+          "Name": "Wifi potions v2 tm",
+          "Version": "2.0.2.0"
         }
       }
     },
@@ -294,27 +651,6 @@
           "IsNSFW": false,
           "ModID": 985,
           "Name": "Smaller Lutes",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AP1WailIc5g=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=12555\nfileID=72882",
-        "Name": "Emperor Finale Follower Dialogue Extended 1.0-12555-1-0-1727424810.zip",
-        "Size": 1676621,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SASUKE31",
-          "Description": "Allows the player to have a conversation with The Emperor when he is in the party during the finale and give him a hug if his romance arc was completed.",
-          "FileID": 72882,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12555/12555-1727423505-1833472942.png",
-          "IsNSFW": false,
-          "ModID": 12555,
-          "Name": "Emperor Finale Follower Dialogue Extended",
           "Version": "1.0"
         }
       }
@@ -427,41 +763,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eji6QFh58bM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8502\nfileID=78865",
-        "Name": "Karlach\u0027s Barbarian Clothes 1.1.0-8502-1-1-0-1731556336.zip",
-        "Size": 1577,
+        "Hash": "gwv0w8dxWYo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15134\nfileID=87389",
+        "Name": "HT_KarlachRomance_BetterHotDate-15134-1-0-0-1-1742198330.zip",
+        "Size": 70163,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lumaterian",
-          "Description": "Changes the look of Karlach\u0027s starter clothes",
-          "FileID": 78865,
+          "Author": "HyperspaceTowel",
+          "Description": "Spend more time getting to know Karlach on your hot date",
+          "FileID": 87389,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8502/8502-1712235868-1342592524.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15134/15134-1741431199-1234547798.png",
           "IsNSFW": false,
-          "ModID": 8502,
-          "Name": "Karlach\u0027s Barbarian Clothes - Starting Equipment",
-          "Version": "1.0.0"
+          "ModID": 15134,
+          "Name": "Karlach Romance - Better Hot Date",
+          "Version": "1.0.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/alTPNnS3yE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8015\nfileID=50311",
-        "Name": "Moonrise Towers Tadpole Cargo Dialogue Bug Fix-8015-1-0-1710639344.zip",
-        "Size": 26813,
+        "Hash": "TGDAXlMKhOg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1877\nfileID=60608",
+        "Name": "Mol Stolen Belongings Bug Fix (Set Flag)-1877-1-1-1718073779.zip",
+        "Size": 135871,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KickingWriter",
-          "Description": "Fixes bug with Illithid and True Soul dialogue options.",
-          "FileID": 50311,
+          "Description": "Fixes bug where the dialogue for Mol does not appear to return your stolen belongings.",
+          "FileID": 60608,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8015/8015-1710638886-1478308579.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1877/1877-1693887664-915089403.png",
           "IsNSFW": false,
-          "ModID": 8015,
-          "Name": "Moonrise Towers Tadpole Cargo Dialogue Bug Fix",
+          "ModID": 1877,
+          "Name": "Mol Stolen Belongings Bug Fix",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PUKX4VZeccM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15867\nfileID=89563",
+        "Name": "Shadow Blade Upcasting BUGFIX-15867-1-0-1745000765.rar",
+        "Size": 513080,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ChizFreak",
+          "Description": "Fixes the upcasting bug of the new Shadow Blade that makes it lose its damage bonus whenever any status ends on the weapon.",
+          "FileID": 89563,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15867/15867-1745000669-1485058929.png",
+          "IsNSFW": false,
+          "ModID": 15867,
+          "Name": "Shadow Blade Upcasting BUGFIX",
           "Version": "1.0"
         }
       }
@@ -469,42 +826,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bi1aSg6npdo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=12649\nfileID=73340",
-        "Name": "Show Me My Dream Guardian-12649-1-0-0-0-1727690986.zip",
-        "Size": 3627447,
+        "Hash": "BxLN8wKzry8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4913\nfileID=32921",
+        "Name": "Yield to Temptation - Tutorial Chest Anti-Cheat-4913-1-0-0-1701871013.zip",
+        "Size": 2200,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cheek",
-          "Description": "Due to an incorrect shapeshift rule, your Dream Guardian probably didn\u0027t show up when fighting against the Emperor if you customised their appearance. This mod fixes that by changing the shapeshift rule to no longer ignore custom looks!",
-          "FileID": 73340,
+          "Author": "Syrchalis",
+          "Description": "No modded items in the nautiloid tutorial chest. Summoned tutorial chests still contain mod items! For everyone who can\u0027t control their dark urge and gives in to temptation when seeing the tutorial chest (and for multiplayer).",
+          "FileID": 32921,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12649/12649-1727690173-274365832.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4913/4913-1701869702-749517948.png",
           "IsNSFW": false,
-          "ModID": 12649,
-          "Name": "Show me my Dream Guardian",
-          "Version": "1.0.0.0"
+          "ModID": 4913,
+          "Name": "Yield to Temptation - Tutorial Chest Anti-Cheat",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y0M0hJcjlj8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
-        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
-        "Size": 41598,
+        "Hash": "gQmkILzdXC4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=89090",
+        "Name": "Native Camera Tweaks-945-2-4-4-1744772780.zip",
+        "Size": 307207,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hoagsie",
-          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
-          "FileID": 11379,
+          "Author": "Ersh",
+          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
+          "FileID": 89090,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
           "IsNSFW": false,
-          "ModID": 1561,
-          "Name": "Faster Rolls Quartered",
-          "Version": "1.1"
+          "ModID": 945,
+          "Name": "Native Camera Tweaks",
+          "Version": "2.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8aYHTje0eR8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=757\nfileID=89901",
+        "Name": "Better Loading Screens-757-1-0-4-1745167488.7z",
+        "Size": 3509,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aether",
+          "Description": "Removes padding around the loading screen image, also removes the vignette. Adds a drop shadow and stroke to hints",
+          "FileID": 89901,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/757/757-1704835742-1904129094.png",
+          "IsNSFW": false,
+          "ModID": 757,
+          "Name": "Aether\u0027s Better Loading Screens",
+          "Version": "1.03"
         }
       }
     },
@@ -616,6 +994,174 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "eji6QFh58bM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8502\nfileID=78865",
+        "Name": "Karlach\u0027s Barbarian Clothes 1.1.0-8502-1-1-0-1731556336.zip",
+        "Size": 1577,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lumaterian",
+          "Description": "Changes the look of Karlach\u0027s starter clothes",
+          "FileID": 78865,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8502/8502-1712235868-1342592524.png",
+          "IsNSFW": false,
+          "ModID": 8502,
+          "Name": "Karlach\u0027s Barbarian Clothes - Starting Equipment",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/alTPNnS3yE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8015\nfileID=50311",
+        "Name": "Moonrise Towers Tadpole Cargo Dialogue Bug Fix-8015-1-0-1710639344.zip",
+        "Size": 26813,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KickingWriter",
+          "Description": "Fixes bug with Illithid and True Soul dialogue options.",
+          "FileID": 50311,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8015/8015-1710638886-1478308579.png",
+          "IsNSFW": false,
+          "ModID": 8015,
+          "Name": "Moonrise Towers Tadpole Cargo Dialogue Bug Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bi1aSg6npdo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=12649\nfileID=73340",
+        "Name": "Show Me My Dream Guardian-12649-1-0-0-0-1727690986.zip",
+        "Size": 3627447,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cheek",
+          "Description": "Due to an incorrect shapeshift rule, your Dream Guardian probably didn\u0027t show up when fighting against the Emperor if you customised their appearance. This mod fixes that by changing the shapeshift rule to no longer ignore custom looks!",
+          "FileID": 73340,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12649/12649-1727690173-274365832.png",
+          "IsNSFW": false,
+          "ModID": 12649,
+          "Name": "Show me my Dream Guardian",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y0M0hJcjlj8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
+        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
+        "Size": 41598,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hoagsie",
+          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
+          "FileID": 11379,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
+          "IsNSFW": false,
+          "ModID": 1561,
+          "Name": "Faster Rolls Quartered",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PDX6ZrG+Xjg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4597\nfileID=88943",
+        "Name": "Addon for Better Inventory UI-4597-1-2-9-1744740644.zip",
+        "Size": 9022390,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Makes inventories easier to read and organize. Adds new mini-icons, back and foregrounds to distinct useful loot from trash.",
+          "FileID": 88943,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4597/4597-1701033511-1069058799.jpeg",
+          "IsNSFW": false,
+          "ModID": 4597,
+          "Name": "Better Inventory UI (with Mark Books as Read support)",
+          "Version": "1.11"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l1/SM5ddqKM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1333\nfileID=90133",
+        "Name": "Community Library-1333-2-2-8-8-1745270857.zip",
+        "Size": 7229334,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BG3 Community Library Team",
+          "Description": "Baldur\u0027s Gate 3 Community Library is designed to be a set of common data that any mod may draw from. This includes Scripts, Spells, Statuses, Passives, etc.",
+          "FileID": 90133,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1333/1333-1692738344-1439338822.png",
+          "IsNSFW": false,
+          "ModID": 1333,
+          "Name": "Baldur\u0027s Gate 3 Community Library",
+          "Version": "2.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hYsyeYEEepY=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2790\nfileID=88964",
+        "Name": "Better Topbar 16 to 10-2790-1-2-9-1744745136.zip",
+        "Size": 315516,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Improves initiative tracker - makes it tighter and adds more info about combatants.",
+          "FileID": 88964,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2790/2790-1696070088-522466964.jpeg",
+          "IsNSFW": false,
+          "ModID": 2790,
+          "Name": "Slightly Better Topbar",
+          "Version": "1.22"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xv1sb2Y/1Sc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15168\nfileID=86577",
+        "Name": "Darker Cazador\u0027s Palace-15168-1-0-0-4-1740877918.zip",
+        "Size": 3923955,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Stanto",
+          "Description": "Do you feel for a vampire lair, it\u0027s too bright with its ambient lighting?\n\nDo you have an OLED and crave for more inky blacks in your game?\n\nBe sure to check out \u0027Darker Underdark\u0027, \u0027Darker Shar Temple\u0027, \u0027Darker Shadowlands\u0027 and \u0027Darker Grymforge\u0027.",
+          "FileID": 86577,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15168/15168-1740877495-1301964811.jpeg",
+          "IsNSFW": false,
+          "ModID": 15168,
+          "Name": "Darker Cazador\u0027s Palace",
+          "Version": "1.0.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "nCeqwVn6S38=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=9746\nfileID=75405",
         "Name": "Less Crowd Characters - Half-9746-1-0-0-0-1728975124.zip",
@@ -714,174 +1260,6 @@
           "IsNSFW": false,
           "ModID": 2113,
           "Name": "Smaller Lyre",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PDX6ZrG+Xjg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4597\nfileID=88943",
-        "Name": "Addon for Better Inventory UI-4597-1-2-9-1744740644.zip",
-        "Size": 9022390,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Makes inventories easier to read and organize. Adds new mini-icons, back and foregrounds to distinct useful loot from trash.",
-          "FileID": 88943,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4597/4597-1701033511-1069058799.jpeg",
-          "IsNSFW": false,
-          "ModID": 4597,
-          "Name": "Better Inventory UI (with Mark Books as Read support)",
-          "Version": "1.11"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oO5SaJmSj4E=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1333\nfileID=69724",
-        "Name": "Community Library-1333-2-2-8-5-1725759043.zip",
-        "Size": 6395846,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BG3 Community Library Team",
-          "Description": "Baldur\u0027s Gate 3 Community Library is designed to be a set of common data that any mod may draw from. This includes Scripts, Spells, Statuses, Passives, etc.",
-          "FileID": 69724,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1333/1333-1692738344-1439338822.png",
-          "IsNSFW": false,
-          "ModID": 1333,
-          "Name": "Baldur\u0027s Gate 3 Community Library",
-          "Version": "2.2.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hYsyeYEEepY=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2790\nfileID=88964",
-        "Name": "Better Topbar 16 to 10-2790-1-2-9-1744745136.zip",
-        "Size": 315516,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Improves initiative tracker - makes it tighter and adds more info about combatants.",
-          "FileID": 88964,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2790/2790-1696070088-522466964.jpeg",
-          "IsNSFW": false,
-          "ModID": 2790,
-          "Name": "Slightly Better Topbar",
-          "Version": "1.22"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xv1sb2Y/1Sc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15168\nfileID=86577",
-        "Name": "Darker Cazador\u0027s Palace-15168-1-0-0-4-1740877918.zip",
-        "Size": 3923955,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Stanto",
-          "Description": "Do you feel for a vampire lair, it\u0027s too bright with its ambient lighting?\n\nDo you have an OLED and crave for more inky blacks in your game?\n\nBe sure to check out \u0027Darker Underdark\u0027, \u0027Darker Shar Temple\u0027, \u0027Darker Shadowlands\u0027 and \u0027Darker Grymforge\u0027.",
-          "FileID": 86577,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15168/15168-1740877495-1301964811.jpeg",
-          "IsNSFW": false,
-          "ModID": 15168,
-          "Name": "Darker Cazador\u0027s Palace",
-          "Version": "1.0.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6AjDV1nQVPo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15125\nfileID=89424",
-        "Name": "HT_LesserRestoration-15125-1-0-1-1-1744925452.zip",
-        "Size": 4142697,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HyperspaceTowel",
-          "Description": "Restores missing reactivity and bugged content across the game",
-          "FileID": 89424,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15125/15125-1744190879-296322216.png",
-          "IsNSFW": false,
-          "ModID": 15125,
-          "Name": "Lesser Restoration - Assorted Bug Fixes",
-          "Version": "1.0.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tUa51xbfHtc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15035\nfileID=86397",
-        "Name": "HT_NightsongPointsBugFix-15035-1-0-0-2-1740590545.zip",
-        "Size": 16961764,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HyperspaceTowel",
-          "Description": "Fixes a Nightsong Points bug that prevents Shadowheart from making a big decision on her own in Act 3",
-          "FileID": 86397,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15035/15035-1740050556-668794575.png",
-          "IsNSFW": false,
-          "ModID": 15035,
-          "Name": "Nightsong Points Bug Fix",
-          "Version": "1.0.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qHUlRQ5GgY4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6762\nfileID=44840",
-        "Name": "Smaller Boo-6762-1-0-1-1708065780.7z",
-        "Size": 1379,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "spacefaces",
-          "Description": "Shrinks the \u0022Boo\u0022 created from \u0022Find Familiar: Boo\u0022 down to the size he appears as in Minsc\u0027s hands/cutscenes.\n\n\n\nFinally, a MINITURE giant space hamster.",
-          "FileID": 44840,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6762/6762-1707891138-964005525.jpeg",
-          "IsNSFW": false,
-          "ModID": 6762,
-          "Name": "Smaller Boo",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PP4sYMAdNj0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2248\nfileID=15704",
-        "Name": "Smaller Torches-2248-1-0-1694682452.zip",
-        "Size": 117567,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Makes the torches smaller, less like they\u0027re from a MOBA.",
-          "FileID": 15704,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2248/2248-1694682359-857220469.png",
-          "IsNSFW": false,
-          "ModID": 2248,
-          "Name": "Smaller Torches",
           "Version": "1.0"
         }
       }
@@ -994,41 +1372,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2VOlWj4PSEw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14393\nfileID=85201",
-        "Name": "Light Utility-14393-1-1-1738445361.zip",
-        "Size": 6706,
+        "Hash": "6AjDV1nQVPo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15125\nfileID=89424",
+        "Name": "HT_LesserRestoration-15125-1-0-1-1-1744925452.zip",
+        "Size": 4142697,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dehuman--Sinbane",
-          "Description": "Alters the Light, Daylight and Dancing Lights spells with some quality of life features such as reapplying the effects, auto-dimming in sunlight, toggling them off/on and a full rework of Dancing Lights to make it behave more like Candlelight from Skyrim. Light when you need, not when you don\u0027t!",
-          "FileID": 85201,
+          "Author": "HyperspaceTowel",
+          "Description": "Restores missing reactivity and bugged content across the game",
+          "FileID": 89424,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14393/14393-1735522249-714186039.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15125/15125-1744190879-296322216.png",
           "IsNSFW": false,
-          "ModID": 14393,
-          "Name": "Light Utility (QoL - Autolight - Toggle - Reapply - Autodim - Candlelight)",
-          "Version": "1.1"
+          "ModID": 15125,
+          "Name": "Lesser Restoration - Assorted Bug Fixes",
+          "Version": "1.0.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YgTK+JSAeW4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=12906\nfileID=74854",
-        "Name": "No Free NPC Heals-12906-1-1-0-1728595334.zip",
-        "Size": 2572,
+        "Hash": "tUa51xbfHtc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15035\nfileID=86397",
+        "Name": "HT_NightsongPointsBugFix-15035-1-0-0-2-1740590545.zip",
+        "Size": 16961764,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "tinybike",
-          "Description": "Disables the free heal-to-full many NPCs get when they\u0027re out-of-combat.",
-          "FileID": 74854,
+          "Author": "HyperspaceTowel",
+          "Description": "Fixes a Nightsong Points bug that prevents Shadowheart from making a big decision on her own in Act 3",
+          "FileID": 86397,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12906/12906-1728413489-129208748.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15035/15035-1740050556-668794575.png",
           "IsNSFW": false,
-          "ModID": 12906,
-          "Name": "No Free NPC Heals",
+          "ModID": 15035,
+          "Name": "Nightsong Points Bug Fix",
+          "Version": "1.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qHUlRQ5GgY4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6762\nfileID=44840",
+        "Name": "Smaller Boo-6762-1-0-1-1708065780.7z",
+        "Size": 1379,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "spacefaces",
+          "Description": "Shrinks the \u0022Boo\u0022 created from \u0022Find Familiar: Boo\u0022 down to the size he appears as in Minsc\u0027s hands/cutscenes.\n\n\n\nFinally, a MINITURE giant space hamster.",
+          "FileID": 44840,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6762/6762-1707891138-964005525.jpeg",
+          "IsNSFW": false,
+          "ModID": 6762,
+          "Name": "Smaller Boo",
           "Version": "1.0.0"
         }
       }
@@ -1036,42 +1435,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WUs764rCQKY=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5899\nfileID=84510",
-        "Name": "Smart Autosaving 3.2.1-5899-3-2-1-1737487582.zip",
-        "Size": 21091,
+        "Hash": "PP4sYMAdNj0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2248\nfileID=15704",
+        "Name": "Smaller Torches-2248-1-0-1694682452.zip",
+        "Size": 117567,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Create autosaves at intervals while avoiding saving during action - postpone saves for after dialogue, trading, combat, etc (fully configurable with a JSON file). \n\nInspired by Aether\u0027s Auto Saver.",
-          "FileID": 84510,
+          "Author": "Team Me",
+          "Description": "Makes the torches smaller, less like they\u0027re from a MOBA.",
+          "FileID": 15704,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5899/5899-1705441176-2032054057.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2248/2248-1694682359-857220469.png",
           "IsNSFW": false,
-          "ModID": 5899,
-          "Name": "Smart Autosaving",
-          "Version": "2.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d8RiTz1VioI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9663\nfileID=57912",
-        "Name": "Version A-9663-1-0-1716201056.rar",
-        "Size": 14155,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "starcityjespar",
-          "Description": "Replaces Astarion\u0027s \u0022grinch\u0022 smile with one of his other smile animations (Now includes an option to make the grinch face permanent)",
-          "FileID": 57912,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9663/9663-1716443539-672233871.png",
-          "IsNSFW": false,
-          "ModID": 9663,
-          "Name": "Astarion Unusual Smile Animation Replacer",
-          "Version": "2.0"
+          "ModID": 2248,
+          "Name": "Smaller Torches",
+          "Version": "1.0"
         }
       }
     },
@@ -1183,62 +1561,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8XjYQME0IoU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=12055\nfileID=72798",
-        "Name": "LighterHalfIllithid - Bugfix - 1.1.0 (half-color)-12055-1-1-0-1727363431.zip",
-        "Size": 2984720,
+        "Hash": "2VOlWj4PSEw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14393\nfileID=85201",
+        "Name": "Light Utility-14393-1-1-1738445361.zip",
+        "Size": 6706,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Clowee",
-          "Description": "Removes Half-Illithid eyes and lessens the intensity of the scarring. If you want to fully remove the scarring, use my other mod, \u0027Normal Half Illithid\u0027.",
-          "FileID": 72798,
+          "Author": "Dehuman--Sinbane",
+          "Description": "Alters the Light, Daylight and Dancing Lights spells with some quality of life features such as reapplying the effects, auto-dimming in sunlight, toggling them off/on and a full rework of Dancing Lights to make it behave more like Candlelight from Skyrim. Light when you need, not when you don\u0027t!",
+          "FileID": 85201,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12055/12055-1725819132-845824158.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14393/14393-1735522249-714186039.jpeg",
           "IsNSFW": false,
-          "ModID": 12055,
-          "Name": "Lighter Half Illithid",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WgPfRuOojxU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7900\nfileID=71352",
-        "Name": "No Nature\u0027s Step Effects-7900-3-0-1726435859.zip",
-        "Size": 1800,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "robogena",
-          "Description": "Removes visual effects for Nature\u2019s Step, so you can get back to looking at the dryad. I mean, the gameplay.",
-          "FileID": 71352,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7900/7900-1710366063-489189488.png",
-          "IsNSFW": false,
-          "ModID": 7900,
-          "Name": "No Nature\u0027s Step Effects",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PZlDSMz/OqE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9608\nfileID=57907",
-        "Name": "Spell List Sorter-9608-1-2-1716188912.zip",
-        "Size": 2916,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wesslen",
-          "Description": "Sorts spell lists by level and (localised) name.",
-          "FileID": 57907,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9608/9608-1716048813-807879131.jpeg",
-          "IsNSFW": false,
-          "ModID": 9608,
-          "Name": "Spell List Sorter",
+          "ModID": 14393,
+          "Name": "Light Utility (QoL - Autolight - Toggle - Reapply - Autodim - Candlelight)",
           "Version": "1.1"
         }
       }
@@ -1246,14 +1582,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jIPNM6y/myk=",
-        "Meta": "[General]\ndirectURL=https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip",
-        "Name": "BG3SE-Updater-20240430.zip",
-        "Size": 493526,
+        "Hash": "YgTK+JSAeW4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=12906\nfileID=74854",
+        "Name": "No Free NPC Heals-12906-1-1-0-1728595334.zip",
+        "Size": 2572,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tinybike",
+          "Description": "Disables the free heal-to-full many NPCs get when they\u0027re out-of-combat.",
+          "FileID": 74854,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12906/12906-1728413489-129208748.png",
+          "IsNSFW": false,
+          "ModID": 12906,
+          "Name": "No Free NPC Heals",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WUs764rCQKY=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5899\nfileID=84510",
+        "Name": "Smart Autosaving 3.2.1-5899-3-2-1-1737487582.zip",
+        "Size": 21091,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Create autosaves at intervals while avoiding saving during action - postpone saves for after dialogue, trading, combat, etc (fully configurable with a JSON file). \n\nInspired by Aether\u0027s Auto Saver.",
+          "FileID": 84510,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5899/5899-1705441176-2032054057.png",
+          "IsNSFW": false,
+          "ModID": 5899,
+          "Name": "Smart Autosaving",
+          "Version": "2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d8RiTz1VioI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9663\nfileID=57912",
+        "Name": "Version A-9663-1-0-1716201056.rar",
+        "Size": 14155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "starcityjespar",
+          "Description": "Replaces Astarion\u0027s \u0022grinch\u0022 smile with one of his other smile animations (Now includes an option to make the grinch face permanent)",
+          "FileID": 57912,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9663/9663-1716443539-672233871.png",
+          "IsNSFW": false,
+          "ModID": 9663,
+          "Name": "Astarion Unusual Smile Animation Replacer",
+          "Version": "2.0"
         }
       }
     },
@@ -1365,63 +1750,77 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gX9WPB65Vso=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8089\nfileID=50701",
-        "Name": "Mage Armour - Quality of Life-8089-1-0-1710874623.zip",
-        "Size": 1884,
+        "Hash": "8XjYQME0IoU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=12055\nfileID=72798",
+        "Name": "LighterHalfIllithid - Bugfix - 1.1.0 (half-color)-12055-1-1-0-1727363431.zip",
+        "Size": 2984720,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kharneth",
-          "Description": "Turns Mage Armour inactive instead of removing it when you equip armor, and reactivate it when you unequip armor.",
-          "FileID": 50701,
+          "Author": "Clowee",
+          "Description": "Removes Half-Illithid eyes and lessens the intensity of the scarring. If you want to fully remove the scarring, use my other mod, \u0027Normal Half Illithid\u0027.",
+          "FileID": 72798,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8089/8089-1710875597-157353520.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12055/12055-1725819132-845824158.png",
           "IsNSFW": false,
-          "ModID": 8089,
-          "Name": "Mage Armour - Quality of Life",
-          "Version": "1.0"
+          "ModID": 12055,
+          "Name": "Lighter Half Illithid",
+          "Version": "1.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VI5mps0ZHs8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=745\nfileID=89247",
-        "Name": "No Press Any Key Menu for MCM-745-1-9-0-1744828870.zip",
-        "Size": 270698,
+        "Hash": "WgPfRuOojxU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7900\nfileID=71352",
+        "Name": "No Nature\u0027s Step Effects-7900-3-0-1726435859.zip",
+        "Size": 1800,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "No \u0022Press Any Key to continue\u0022 stop to Main menu.",
-          "FileID": 89247,
+          "Author": "robogena",
+          "Description": "Removes visual effects for Nature\u2019s Step, so you can get back to looking at the dryad. I mean, the gameplay.",
+          "FileID": 71352,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/745/745-1692340457-1091955407.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7900/7900-1710366063-489189488.png",
           "IsNSFW": false,
-          "ModID": 745,
-          "Name": "No Press Any Key Menu",
-          "Version": "1.66"
+          "ModID": 7900,
+          "Name": "No Nature\u0027s Step Effects",
+          "Version": "3.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4hHRzmhkax0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7081\nfileID=46255",
-        "Name": "Stacking Carry Weight (Additive)-7081-1-0-0-1708756270.zip",
-        "Size": 5616,
+        "Hash": "PZlDSMz/OqE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9608\nfileID=57907",
+        "Name": "Spell List Sorter-9608-1-2-1716188912.zip",
+        "Size": 2916,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cephelos",
-          "Description": "In the vanilla game, effects that increase your carry weight do not stack. With this mod, they will.",
-          "FileID": 46255,
+          "Author": "wesslen",
+          "Description": "Sorts spell lists by level and (localised) name.",
+          "FileID": 57907,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7081/7081-1708755291-1006417102.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9608/9608-1716048813-807879131.jpeg",
           "IsNSFW": false,
-          "ModID": 7081,
-          "Name": "Stacking Carry Weight",
-          "Version": "1.0.0"
+          "ModID": 9608,
+          "Name": "Spell List Sorter",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jIPNM6y/myk=",
+        "Meta": "[General]\ndirectURL=https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip",
+        "Name": "BG3SE-Updater-20240430.zip",
+        "Size": 493526,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip"
         }
       }
     },
@@ -1512,20 +1911,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9gcO+Mmf8JE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14396\nfileID=83438",
-        "Name": "Goon\u0027s Companion Protection-14396-1-2-1736061573.zip",
-        "Size": 6557,
+        "Hash": "e3Jp++kSbGg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=12093\nfileID=70470",
+        "Name": "Gold Weights Nothing-12093-1-1-1726063245.zip",
+        "Size": 46021,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Goonsack",
-          "Description": "Sick of Wyll getting turned to paste by your difficulty mods? Sick of grandma elf and her suicidal AI? This mod gives some potential companion characters buffs prior to being recruited, to save some hassle and even the playing field.",
-          "FileID": 83438,
+          "Author": "JiMarti",
+          "Description": "Makes gold weight absolutely nothing.",
+          "FileID": 70470,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14396/14396-1734947287-1934088843.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12093/12093-1726011000-835653241.png",
           "IsNSFW": false,
-          "ModID": 14396,
-          "Name": "Goon\u0027s Companion Protection",
+          "ModID": 12093,
+          "Name": "Gold Weights Nothing",
           "Version": "1.1"
         }
       }
@@ -1533,20 +1932,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oPcTNKHXbBg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9061\nfileID=55265",
-        "Name": "Minsc Dialogue Flow Fix-9061-1-0-1714348695.zip",
-        "Size": 205415,
+        "Hash": "gX9WPB65Vso=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8089\nfileID=50701",
+        "Name": "Mage Armour - Quality of Life-8089-1-0-1710874623.zip",
+        "Size": 1884,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KickingWriter",
-          "Description": "Fixes flow of dialogue when asking Minsc - \u0022I\u0027d like to know a little more about you\u0022.",
-          "FileID": 55265,
+          "Author": "kharneth",
+          "Description": "Turns Mage Armour inactive instead of removing it when you equip armor, and reactivate it when you unequip armor.",
+          "FileID": 50701,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9061/9061-1714348223-1472913168.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8089/8089-1710875597-157353520.png",
           "IsNSFW": false,
-          "ModID": 9061,
-          "Name": "Minsc Dialogue Flow Fix",
+          "ModID": 8089,
+          "Name": "Mage Armour - Quality of Life",
           "Version": "1.0"
         }
       }
@@ -1554,41 +1953,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HQ96iBgDJt8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7257\nfileID=71187",
-        "Name": "No Temporary HP Effects Plus-7257-3-0-1726364847.zip",
-        "Size": 3201,
+        "Hash": "VI5mps0ZHs8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=745\nfileID=89247",
+        "Name": "No Press Any Key Menu for MCM-745-1-9-0-1744828870.zip",
+        "Size": 270698,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "robogena",
-          "Description": "Removes VFX and SFX for temporary HP, plus Tharchiate Vigour visuals. Optional VFX/SFX removal for other buffs.",
-          "FileID": 71187,
+          "Author": "Caites",
+          "Description": "No \u0022Press Any Key to continue\u0022 stop to Main menu.",
+          "FileID": 89247,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7257/7257-1709082362-661214772.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/745/745-1692340457-1091955407.jpeg",
           "IsNSFW": false,
-          "ModID": 7257,
-          "Name": "No Temporary HP Effects",
-          "Version": "2.0"
+          "ModID": 745,
+          "Name": "No Press Any Key Menu",
+          "Version": "1.66"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Zpe6QVTIuK8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9808\nfileID=58589",
-        "Name": "StatueBlessFix-9808-1-0-0-1716594552.zip",
-        "Size": 1552,
+        "Hash": "4hHRzmhkax0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7081\nfileID=46255",
+        "Name": "Stacking Carry Weight (Additive)-7081-1-0-0-1708756270.zip",
+        "Size": 5616,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zarnos",
-          "Description": "This mod prevents other versions of Bless from overwriting Sweet Stone Features (the buff from purchasing a statue of yourself). Most other ways of obtaining Bless only last a few turns so it makes no sense that the would overwrite Sweet Stone Features which is supposed to be permanent.",
-          "FileID": 58589,
+          "Author": "Cephelos",
+          "Description": "In the vanilla game, effects that increase your carry weight do not stack. With this mod, they will.",
+          "FileID": 46255,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9808%2F9808-1716593757-1461131179.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7081/7081-1708755291-1006417102.png",
           "IsNSFW": false,
-          "ModID": 9808,
-          "Name": "StatueBlessFix",
+          "ModID": 7081,
+          "Name": "Stacking Carry Weight",
           "Version": "1.0.0"
         }
       }
@@ -1674,6 +2073,174 @@
           "ModID": 5612,
           "Name": "Database Cleaner",
           "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9gcO+Mmf8JE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14396\nfileID=83438",
+        "Name": "Goon\u0027s Companion Protection-14396-1-2-1736061573.zip",
+        "Size": 6557,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Goonsack",
+          "Description": "Sick of Wyll getting turned to paste by your difficulty mods? Sick of grandma elf and her suicidal AI? This mod gives some potential companion characters buffs prior to being recruited, to save some hassle and even the playing field.",
+          "FileID": 83438,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14396/14396-1734947287-1934088843.png",
+          "IsNSFW": false,
+          "ModID": 14396,
+          "Name": "Goon\u0027s Companion Protection",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oPcTNKHXbBg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9061\nfileID=55265",
+        "Name": "Minsc Dialogue Flow Fix-9061-1-0-1714348695.zip",
+        "Size": 205415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KickingWriter",
+          "Description": "Fixes flow of dialogue when asking Minsc - \u0022I\u0027d like to know a little more about you\u0022.",
+          "FileID": 55265,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9061/9061-1714348223-1472913168.png",
+          "IsNSFW": false,
+          "ModID": 9061,
+          "Name": "Minsc Dialogue Flow Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HQ96iBgDJt8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7257\nfileID=71187",
+        "Name": "No Temporary HP Effects Plus-7257-3-0-1726364847.zip",
+        "Size": 3201,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "robogena",
+          "Description": "Removes VFX and SFX for temporary HP, plus Tharchiate Vigour visuals. Optional VFX/SFX removal for other buffs.",
+          "FileID": 71187,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7257/7257-1709082362-661214772.png",
+          "IsNSFW": false,
+          "ModID": 7257,
+          "Name": "No Temporary HP Effects",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zpe6QVTIuK8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9808\nfileID=58589",
+        "Name": "StatueBlessFix-9808-1-0-0-1716594552.zip",
+        "Size": 1552,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zarnos",
+          "Description": "This mod prevents other versions of Bless from overwriting Sweet Stone Features (the buff from purchasing a statue of yourself). Most other ways of obtaining Bless only last a few turns so it makes no sense that the would overwrite Sweet Stone Features which is supposed to be permanent.",
+          "FileID": 58589,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9808%2F9808-1716593757-1461131179.png",
+          "IsNSFW": false,
+          "ModID": 9808,
+          "Name": "StatueBlessFix",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OPZMTlabTw8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14775\nfileID=87577",
+        "Name": "HT_AstarionConfessionEdit2-14775-1-0-1-1-1742464468.zip",
+        "Size": 2021800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HyperspaceTowel",
+          "Description": "Overhauls Astarion\u0027s big Act 2 romance and platonic scenes. Get both romance scenes in one playthrough. Be Astarion\u0027s friend even when not romancing him.",
+          "FileID": 87577,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14775/14775-1739852466-1890699910.png",
+          "IsNSFW": false,
+          "ModID": 14775,
+          "Name": "Astarion Confession Edit 2",
+          "Version": "1.0.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UqYkXy+QC+Q=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=3617\nfileID=89151",
+        "Name": "Better Context Menu-3617-1-3-2-1744793299.zip",
+        "Size": 429270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Adds icons for contextual actions and makes widget slimmer and snappier.",
+          "FileID": 89151,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3617/3617-1698233395-1161163059.png",
+          "IsNSFW": false,
+          "ModID": 3617,
+          "Name": "Better Context Menu",
+          "Version": "1.17"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TYIbXW6N8tI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=13727\nfileID=87920",
+        "Name": "Bonk Enhanced-13727-2-6-0-1743021462.zip",
+        "Size": 5974,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BaldursGoonsack",
+          "Description": "Prevent NPCs dying while Non-Lethal Attacks are toggled on, overhauls the system for knocking characters out to be streamlined and foolproof.",
+          "FileID": 87920,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/13727/13727-1731300364-1778565175.png",
+          "IsNSFW": false,
+          "ModID": 13727,
+          "Name": "Bonk Enhanced - Knocked Out Failsafe - Non-Lethal Attacks and Damage Overhaul",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "svoLVelAukA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7629\nfileID=48506",
+        "Name": "Main File-7629-1-0-1709750966.zip",
+        "Size": 1968,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MegaCoolBlood",
+          "Description": "Disables the combat log for the \u0022Burning\u0022 Effect, so that your log is not spammed by candles",
+          "FileID": 48506,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7629/7629-1709750895-1962628890.jpeg",
+          "IsNSFW": false,
+          "ModID": 7629,
+          "Name": "Disable combat log for Burning",
+          "Version": "1.0"
         }
       }
     },
@@ -1785,83 +2352,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OPZMTlabTw8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14775\nfileID=87577",
-        "Name": "HT_AstarionConfessionEdit2-14775-1-0-1-1-1742464468.zip",
-        "Size": 2021800,
+        "Hash": "ZwSuPO9VIzk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14048\nfileID=80592",
+        "Name": "HT_AstarionDocksNarration_PAK-14048-1-0-0-2-1732987599.zip",
+        "Size": 69990,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "HyperspaceTowel",
-          "Description": "Overhauls Astarion\u0027s big Act 2 romance and platonic scenes. Get both romance scenes in one playthrough. Be Astarion\u0027s friend even when not romancing him.",
-          "FileID": 87577,
+          "Description": "Unlocks the narrator\u0027s comments on the docks when Spawn Astarion runs from the sun. The narration exists in the vanilla game, but only plays if no other companions are around to comment.",
+          "FileID": 80592,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14775/14775-1739852466-1890699910.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14048/14048-1732917690-1677206013.png",
           "IsNSFW": false,
-          "ModID": 14775,
-          "Name": "Astarion Confession Edit 2",
-          "Version": "1.0.1.1"
+          "ModID": 14048,
+          "Name": "Astarion Docks Narration Unlocked",
+          "Version": "1.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UqYkXy+QC+Q=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=3617\nfileID=89151",
-        "Name": "Better Context Menu-3617-1-3-2-1744793299.zip",
-        "Size": 429270,
+        "Hash": "0tDpUQLkD6Y=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5673\nfileID=88956",
+        "Name": "Better Dyeing Lite-5673-1-2-9-1744742577.zip",
+        "Size": 911425,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caites",
-          "Description": "Adds icons for contextual actions and makes widget slimmer and snappier.",
-          "FileID": 89151,
+          "Description": "Makes dyeing UI faster and more convenient and dyes more recognizable in inventory.",
+          "FileID": 88956,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3617/3617-1698233395-1161163059.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5673/5673-1704471812-1193620349.jpeg",
           "IsNSFW": false,
-          "ModID": 3617,
-          "Name": "Better Context Menu",
-          "Version": "1.17"
+          "ModID": 5673,
+          "Name": "Slightly Better Dyeing (with all dye mods support)",
+          "Version": "1.16"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TYIbXW6N8tI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=13727\nfileID=87920",
-        "Name": "Bonk Enhanced-13727-2-6-0-1743021462.zip",
-        "Size": 5974,
+        "Hash": "tMGkRwbWEJM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15879\nfileID=89645",
+        "Name": "Booming Blade BUGFIX-15879-1-0-1745042228.rar",
+        "Size": 854479,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BaldursGoonsack",
-          "Description": "Prevent NPCs dying while Non-Lethal Attacks are toggled on, overhauls the system for knocking characters out to be streamlined and foolproof.",
-          "FileID": 87920,
+          "Author": "ChizFreak",
+          "Description": "Fixes the bug that prevents Booming Blade from interacting with various elemental-boosting items.",
+          "FileID": 89645,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/13727/13727-1731300364-1778565175.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15879/15879-1745042126-200210849.png",
           "IsNSFW": false,
-          "ModID": 13727,
-          "Name": "Bonk Enhanced - Knocked Out Failsafe - Non-Lethal Attacks and Damage Overhaul",
-          "Version": "2.1"
+          "ModID": 15879,
+          "Name": "Booming Blade BUGFIX",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "svoLVelAukA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7629\nfileID=48506",
-        "Name": "Main File-7629-1-0-1709750966.zip",
-        "Size": 1968,
+        "Hash": "WB23swSJ7zU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7641\nfileID=48546",
+        "Name": "Main File-7641-1-0-1709765721.zip",
+        "Size": 1731,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MegaCoolBlood",
-          "Description": "Disables the combat log for the \u0022Burning\u0022 Effect, so that your log is not spammed by candles",
-          "FileID": 48506,
+          "Description": "Disables the combat log for Crusader\u0027s Mantle, so that you are not spammed with Log Notifications anymore",
+          "FileID": 48546,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7629/7629-1709750895-1962628890.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7641/7641-1709765733-1338316974.jpeg",
           "IsNSFW": false,
-          "ModID": 7629,
-          "Name": "Disable combat log for Burning",
+          "ModID": 7641,
+          "Name": "Disable combat log for Crusader\u0027s Mantle",
           "Version": "1.0"
         }
       }
@@ -1953,62 +2520,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZwSuPO9VIzk=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14048\nfileID=80592",
-        "Name": "HT_AstarionDocksNarration_PAK-14048-1-0-0-2-1732987599.zip",
-        "Size": 69990,
+        "Hash": "bfX6ljKeQh8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=13306\nfileID=76565",
+        "Name": "Astarion\u0027s Greetings-13306-1-1-1729789287.zip",
+        "Size": 204433,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HyperspaceTowel",
-          "Description": "Unlocks the narrator\u0027s comments on the docks when Spawn Astarion runs from the sun. The narration exists in the vanilla game, but only plays if no other companions are around to comment.",
-          "FileID": 80592,
+          "Author": "Cerberry",
+          "Description": "Makes romanced Astarion\u0027s greetings more varied",
+          "FileID": 76565,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14048/14048-1732917690-1677206013.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/13306/13306-1729684318-1200069913.jpeg",
           "IsNSFW": false,
-          "ModID": 14048,
-          "Name": "Astarion Docks Narration Unlocked",
-          "Version": "1.0.0.0"
+          "ModID": 13306,
+          "Name": "Astarion\u0027s Greetings Edit",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0tDpUQLkD6Y=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5673\nfileID=88956",
-        "Name": "Better Dyeing Lite-5673-1-2-9-1744742577.zip",
-        "Size": 911425,
+        "Hash": "iDeJStP6rwg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2417\nfileID=89545",
+        "Name": "(Vova\u0027s Edition) Better Hotbar 2-2417-2-0-0-34-1744994087.zip",
+        "Size": 1401900,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caites",
-          "Description": "Makes dyeing UI faster and more convenient and dyes more recognizable in inventory.",
-          "FileID": 88956,
+          "Description": "Increases number of slots on a hotbar\u0027s grid and adds one more slot category to main deck. Plus a few minor  QoL improvements.",
+          "FileID": 89545,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5673/5673-1704471812-1193620349.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2417/2417-1695037240-448193958.jpeg",
           "IsNSFW": false,
-          "ModID": 5673,
-          "Name": "Slightly Better Dyeing (with all dye mods support)",
-          "Version": "1.16"
+          "ModID": 2417,
+          "Name": "Better Hotbar 2",
+          "Version": "1.22"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tMGkRwbWEJM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15879\nfileID=89645",
-        "Name": "Booming Blade BUGFIX-15879-1-0-1745042228.rar",
-        "Size": 854479,
+        "Hash": "0IFe/+zcoc4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15878\nfileID=89644",
+        "Name": "Booming Blade No Extra Attack Nerf-15878-1-0-1745041011.rar",
+        "Size": 864032,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ChizFreak",
-          "Description": "Fixes the bug that prevents Booming Blade from interacting with various elemental-boosting items.",
-          "FileID": 89645,
+          "Description": "Makes Booming Blade not trigger Extra Attack, so it\u0027s not so overpowered.",
+          "FileID": 89644,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15879/15879-1745042126-200210849.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15878/15878-1745040844-700495494.png",
           "IsNSFW": false,
-          "ModID": 15879,
-          "Name": "Booming Blade BUGFIX",
+          "ModID": 15878,
+          "Name": "Booming Blade No Extra Attack Nerf",
           "Version": "1.0"
         }
       }
@@ -2016,20 +2583,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WB23swSJ7zU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7641\nfileID=48546",
-        "Name": "Main File-7641-1-0-1709765721.zip",
-        "Size": 1731,
+        "Hash": "xTrRGDgSOl8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7612\nfileID=48371",
+        "Name": "Main File-7612-1-0-1709677427.zip",
+        "Size": 1690,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MegaCoolBlood",
-          "Description": "Disables the combat log for Crusader\u0027s Mantle, so that you are not spammed with Log Notifications anymore",
-          "FileID": 48546,
+          "Description": "Disables the combat log for Silvanus Blessing, so that you are not spammed with Log Notifications anymore",
+          "FileID": 48371,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7641/7641-1709765733-1338316974.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7612/7612-1709677259-1654992350.jpeg",
           "IsNSFW": false,
-          "ModID": 7641,
-          "Name": "Disable combat log for Crusader\u0027s Mantle",
+          "ModID": 7612,
+          "Name": "Disable combat log for Silvanus Blessing",
           "Version": "1.0"
         }
       }
@@ -2121,62 +2688,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bfX6ljKeQh8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=13306\nfileID=76565",
-        "Name": "Astarion\u0027s Greetings-13306-1-1-1729789287.zip",
-        "Size": 204433,
+        "Hash": "dYdbe94kD6Y=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8363\nfileID=52189",
+        "Name": "Auntie Ethel - Dark Urge Dialogue Bug Fix (NoPrio)-8363-1-0-NoPrio-1711971985.zip",
+        "Size": 65544,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cerberry",
-          "Description": "Makes romanced Astarion\u0027s greetings more varied",
-          "FileID": 76565,
+          "Author": "KickingWriter",
+          "Description": "Fixes bugs with Auntie Ethel\u0027s scene in the grove when playing as the Dark Urge.",
+          "FileID": 52189,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/13306/13306-1729684318-1200069913.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8363/8363-1711755173-649074857.png",
           "IsNSFW": false,
-          "ModID": 13306,
-          "Name": "Astarion\u0027s Greetings Edit",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iDeJStP6rwg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2417\nfileID=89545",
-        "Name": "(Vova\u0027s Edition) Better Hotbar 2-2417-2-0-0-34-1744994087.zip",
-        "Size": 1401900,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Increases number of slots on a hotbar\u0027s grid and adds one more slot category to main deck. Plus a few minor  QoL improvements.",
-          "FileID": 89545,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2417/2417-1695037240-448193958.jpeg",
-          "IsNSFW": false,
-          "ModID": 2417,
-          "Name": "Better Hotbar 2",
-          "Version": "1.22"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0IFe/+zcoc4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15878\nfileID=89644",
-        "Name": "Booming Blade No Extra Attack Nerf-15878-1-0-1745041011.rar",
-        "Size": 864032,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ChizFreak",
-          "Description": "Makes Booming Blade not trigger Extra Attack, so it\u0027s not so overpowered.",
-          "FileID": 89644,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15878/15878-1745040844-700495494.png",
-          "IsNSFW": false,
-          "ModID": 15878,
-          "Name": "Booming Blade No Extra Attack Nerf",
+          "ModID": 8363,
+          "Name": "Auntie Ethel - Dark Urge Dialogue Bug Fix (with Optional Astarion Priority)",
           "Version": "1.0"
         }
       }
@@ -2184,20 +2709,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xTrRGDgSOl8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7612\nfileID=48371",
-        "Name": "Main File-7612-1-0-1709677427.zip",
-        "Size": 1690,
+        "Hash": "S0quTOMMASg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4597\nfileID=89189",
+        "Name": "Better Inventory UI-4597-1-4-3-1744802966.zip",
+        "Size": 471500,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MegaCoolBlood",
-          "Description": "Disables the combat log for Silvanus Blessing, so that you are not spammed with Log Notifications anymore",
-          "FileID": 48371,
+          "Author": "Caites",
+          "Description": "Makes inventories easier to read and organize. Adds new mini-icons, back and foregrounds to distinct useful loot from trash.",
+          "FileID": 89189,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7612/7612-1709677259-1654992350.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4597/4597-1701033511-1069058799.jpeg",
           "IsNSFW": false,
-          "ModID": 7612,
-          "Name": "Disable combat log for Silvanus Blessing",
+          "ModID": 4597,
+          "Name": "Better Inventory UI (with Mark Books as Read support)",
+          "Version": "1.11"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JjtOKD4cNl0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14979\nfileID=87000",
+        "Name": "Call Your Companions-14979-1-1-1-1-1741579972.zip",
+        "Size": 1891874,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cheek",
+          "Description": "Adds your companions to the list of allies able to be summoned during the Final Battle.",
+          "FileID": 87000,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14979/14979-1739436663-2144869094.png",
+          "IsNSFW": false,
+          "ModID": 14979,
+          "Name": "Call Your Companions",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y0AuqSCzzBI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=12077\nfileID=70195",
+        "Name": "Do Not Eat Owlbear Egg-12077-1-0-1725918914.zip",
+        "Size": 4175,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Belinn",
+          "Description": "Owlbear Egg can no longer be used as camp supplies.",
+          "FileID": 70195,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12077/12077-1725918750-1430876154.png",
+          "IsNSFW": false,
+          "ModID": 12077,
+          "Name": "Do Not Eat Owlbear Egg",
           "Version": "1.0"
         }
       }
@@ -2289,195 +2856,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dYdbe94kD6Y=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8363\nfileID=52189",
-        "Name": "Auntie Ethel - Dark Urge Dialogue Bug Fix (NoPrio)-8363-1-0-NoPrio-1711971985.zip",
-        "Size": 65544,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KickingWriter",
-          "Description": "Fixes bugs with Auntie Ethel\u0027s scene in the grove when playing as the Dark Urge.",
-          "FileID": 52189,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8363/8363-1711755173-649074857.png",
-          "IsNSFW": false,
-          "ModID": 8363,
-          "Name": "Auntie Ethel - Dark Urge Dialogue Bug Fix (with Optional Astarion Priority)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S0quTOMMASg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4597\nfileID=89189",
-        "Name": "Better Inventory UI-4597-1-4-3-1744802966.zip",
-        "Size": 471500,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Makes inventories easier to read and organize. Adds new mini-icons, back and foregrounds to distinct useful loot from trash.",
-          "FileID": 89189,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4597/4597-1701033511-1069058799.jpeg",
-          "IsNSFW": false,
-          "ModID": 4597,
-          "Name": "Better Inventory UI (with Mark Books as Read support)",
-          "Version": "1.11"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JjtOKD4cNl0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14979\nfileID=87000",
-        "Name": "Call Your Companions-14979-1-1-1-1-1741579972.zip",
-        "Size": 1891874,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cheek",
-          "Description": "Adds your companions to the list of allies able to be summoned during the Final Battle.",
-          "FileID": 87000,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14979/14979-1739436663-2144869094.png",
-          "IsNSFW": false,
-          "ModID": 14979,
-          "Name": "Call Your Companions",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y0AuqSCzzBI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=12077\nfileID=70195",
-        "Name": "Do Not Eat Owlbear Egg-12077-1-0-1725918914.zip",
-        "Size": 4175,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Belinn",
-          "Description": "Owlbear Egg can no longer be used as camp supplies.",
-          "FileID": 70195,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/12077/12077-1725918750-1430876154.png",
-          "IsNSFW": false,
-          "ModID": 12077,
-          "Name": "Do Not Eat Owlbear Egg",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6UlQEJTcVN4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14196\nfileID=81520",
-        "Name": "Hyperlegible GUI-14196-1-5-1733857366.zip",
-        "Size": 134710,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Berry",
-          "Description": "Replaces game fonts with Atkinson Hyperlegible and changes certain UI assets to aid in low vision reading.",
-          "FileID": 81520,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14196/14196-1733851406-1010992127.png",
-          "IsNSFW": false,
-          "ModID": 14196,
-          "Name": "Hyperlegible Readability (A font for Dyslexia and Low Vision)",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fwCHgDxT7SY=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9162\nfileID=89701",
-        "Name": "Mod Configuration Menu 1.28.2-9162-1-28-2-1745075745.zip",
-        "Size": 2416735,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Provides an in-game graphical interface that allows players to intuitively manage mod settings and custom mod widgets.",
-          "FileID": 89701,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9162%2F9162-1714705869-384109775.png",
-          "IsNSFW": false,
-          "ModID": 9162,
-          "Name": "Mod Configuration Menu",
-          "Version": "1.4.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dFaH3KjsA9U=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14695\nfileID=89369",
-        "Name": "Raphael Bed Story-14695-2-0-8-0-1744893192.zip",
-        "Size": 17984454,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SwissFred",
-          "Description": "Raphael Bed Story Learn that Raphael is bad in bed even after killing Haarlep.",
-          "FileID": 89369,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14695/14695-1737207435-2079178526.png",
-          "IsNSFW": false,
-          "ModID": 14695,
-          "Name": "Raphael Bed Story",
-          "Version": "2.0.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QBLzTr0gmLo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2171\nfileID=16567",
-        "Name": "Use Highest Modifier Mod-2171-1-12-1694965306.zip",
-        "Size": 11518,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PlainOldCookies",
-          "Description": "In dialogue skill checks, use the highest modifier in your party.",
-          "FileID": 16567,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2171/2171-1694635732-1263876657.png",
-          "IsNSFW": false,
-          "ModID": 2171,
-          "Name": "Use Highest Modifier in dialogue",
-          "Version": "1.12"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iSv1ybiOsjE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=944\nfileID=8910",
-        "Name": "NativeModLoader-944-1-1692533783.zip",
-        "Size": 325905,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kassent",
-          "Description": "This is NativeModLoader, used to load any native dll plugins within bin\u0026#92;NativeMods\u0026#92; folder.",
-          "FileID": 8910,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/944/944-1692046259-904663716.png",
-          "IsNSFW": false,
-          "ModID": 944,
-          "Name": "Native Mod Loader",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "5mbz7lRToMM=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=14890\nfileID=85359",
         "Name": "AuraOfMurderRebalance-14890-1-0-1-1738721156.zip",
@@ -2562,441 +2940,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "59sYlV3T3vQ=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=366\nfileID=89415",
-        "Name": "ImpUI Patch 8 Slim-366-2-0-0-49-1744923566.zip",
-        "Size": 272934,
+        "Hash": "6UlQEJTcVN4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14196\nfileID=81520",
+        "Name": "Hyperlegible GUI-14196-1-5-1733857366.zip",
+        "Size": 134710,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AlanaSP ShinyHobo Djmr and Zee",
-          "Description": "Changes existing UI to enhance the current modding scene by removing intrusive in-game warning and enhancing character creation options. Also provides optional files that replace UI elements based on player feedback",
-          "FileID": 89415,
+          "Author": "Berry",
+          "Description": "Replaces game fonts with Atkinson Hyperlegible and changes certain UI assets to aid in low vision reading.",
+          "FileID": 81520,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/366/366-1696670339-2002892487.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14196/14196-1733851406-1010992127.png",
           "IsNSFW": false,
-          "ModID": 366,
-          "Name": "ImprovedUI ReleaseReady",
-          "Version": "3.15.1"
+          "ModID": 14196,
+          "Name": "Hyperlegible Readability (A font for Dyslexia and Low Vision)",
+          "Version": "1.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qt4WKi6QdkU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7034\nfileID=71979",
-        "Name": "Reduce NPC Banter Repetitiveness 1.0.2-7034-1-0-2-1726873058.zip",
-        "Size": 13783,
+        "Hash": "D/Y4turWkVg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9162\nfileID=90144",
+        "Name": "Mod Configuration Menu 1.29.0-9162-1-29-0-1745274786.zip",
+        "Size": 2419682,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Volitio",
-          "Description": "Reduces repetitive NPC banter by introducing delays before they repeat. Fully configurable through MCM.",
-          "FileID": 71979,
+          "Description": "Provides an in-game graphical interface that allows players to intuitively manage mod settings and custom mod widgets.",
+          "FileID": 90144,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7034/7034-1721777140-1265417675.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9162%2F9162-1714705869-384109775.png",
           "IsNSFW": false,
-          "ModID": 7034,
-          "Name": "Reduce NPC Banter Repetitiveness",
-          "Version": "1.0.0"
+          "ModID": 9162,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.4.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cGopqIJ61R8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7640\nfileID=57020",
-        "Name": "Vanilla Missing Icons-7640-1-3-1715650190.zip",
-        "Size": 276334,
+        "Hash": "dFaH3KjsA9U=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14695\nfileID=89369",
+        "Name": "Raphael Bed Story-14695-2-0-8-0-1744893192.zip",
+        "Size": 17984454,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kilay",
-          "Description": "Fix icons of Auntie Ethel\u0027s Boon, BOOOAL\u0027s Blessing, Forbidden Knowledge and Slayer Knowledge",
-          "FileID": 57020,
+          "Author": "SwissFred",
+          "Description": "Raphael Bed Story Learn that Raphael is bad in bed even after killing Haarlep.",
+          "FileID": 89369,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7640/7640-1709765358-1141204961.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14695/14695-1737207435-2079178526.png",
           "IsNSFW": false,
-          "ModID": 7640,
-          "Name": "Vanilla Missing Icons",
-          "Version": "1.3"
+          "ModID": 14695,
+          "Name": "Raphael Bed Story",
+          "Version": "2.0.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fhdz/TijjMA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6188\nfileID=68893",
-        "Name": "Auto Lockpicking 2.0.1-6188-2-0-1-1725549382.zip",
-        "Size": 7539,
+        "Hash": "QBLzTr0gmLo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2171\nfileID=16567",
+        "Name": "Use Highest Modifier Mod-2171-1-12-1694965306.zip",
+        "Size": 11518,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Automatically initiate lockpicking when interacting with locked chests and doors if you don\u0027t have the key. \n\nConfigurable through a JSON file.",
-          "FileID": 68893,
+          "Author": "PlainOldCookies",
+          "Description": "In dialogue skill checks, use the highest modifier in your party.",
+          "FileID": 16567,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6188/6188-1706149350-548172634.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2171/2171-1694635732-1263876657.png",
           "IsNSFW": false,
-          "ModID": 6188,
-          "Name": "Auto Lockpicking",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oEfvet3zODs=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2256\nfileID=68840",
-        "Name": "Better Map Icons-2256-1-2-3-1725531185.zip",
-        "Size": 18494,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Full collection of my map improvements - minimap widget scaling, no grid/shroud on the map, new better NPC markers and more.",
-          "FileID": 68840,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2256/2256-1694702590-667270162.jpeg",
-          "IsNSFW": false,
-          "ModID": 2256,
-          "Name": "Better Maps All-In-One",
-          "Version": "1.15"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N1SqKi2ZxuI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9282\nfileID=88527",
-        "Name": "Combat Console Commands-9282-1-02-01-1744129566.zip",
-        "Size": 3282,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sailor Cat",
-          "Description": "Summon won\u0027t end its turn? Forcibly end the current turn or combat with these Script Extender console commands.",
-          "FileID": 88527,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9282/9282-1715023552-1206860450.png",
-          "IsNSFW": false,
-          "ModID": 9282,
-          "Name": "Combat Console Commands",
-          "Version": "1.01.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HFJm3njX17o=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=3214\nfileID=89166",
-        "Name": "Druid Quality of Life-3214-2-4-0-1744796160.zip",
-        "Size": 1279659,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Syrchalis",
-          "Description": "Quality of Life and Fixes - Druid is among the least played classes in Baldurs Gate 3 and 5e DnD and feels neglected. As face of the party or Tav it is especially unpleasant. This mod fixes that and much more.Re-casting spells, lockpicking, pickpocketing \u0026amp; more in Wild Shape, ritual Wild Shapes and many other QoL features and bug fixes.",
-          "FileID": 89166,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3214/3214-1701951023-1573288494.png",
-          "IsNSFW": false,
-          "ModID": 3214,
-          "Name": "Druid Quality of Life",
-          "Version": "2.1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "35uuOWerWVk=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11613\nfileID=67415",
-        "Name": "CounterspellFixes.zip v1.1-11613-1-1-0-1723918327.zip",
-        "Size": 2259,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CunningShrike",
-          "Description": "Invisible or hidden casters cannot be counterspelled. Blinded creatures cannot cast counterspell. v1.1: Stealthy spells including Subtle Spell cannot be counterspelled.",
-          "FileID": 67415,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11613/11613-1723849074-401118870.png",
-          "IsNSFW": false,
-          "ModID": 11613,
-          "Name": "Invisibiilty Counters Counterspell",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3MixtSyhHtA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9701\nfileID=89092",
-        "Name": "Mod Uninstaller 1.6.0-9701-1-6-0-1744776244.zip",
-        "Size": 25877,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Allows easily uninstalling mods, making it possible to remove them from the load order, via the MCM window or SE console.",
-          "FileID": 89092,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9701/9701-1716300223-1175514049.png",
-          "IsNSFW": false,
-          "ModID": 9701,
-          "Name": "Mod Uninstaller",
-          "Version": "1.3.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jznlYLnldEc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5046\nfileID=33957",
-        "Name": "No Camera Move-5046-1-1-1702300831.zip",
-        "Size": 1294,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gycicada",
-          "Description": "Removes the annoying camera move from projectile attack and spells.",
-          "FileID": 33957,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5046/5046-1702295777-193463860.png",
-          "IsNSFW": false,
-          "ModID": 5046,
-          "Name": "Remove Camera Move",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MlnPQUhpcbM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7676\nfileID=84509",
-        "Name": "VolitionCabinet 1.13.2-7676-1-13-2-1737487440.zip",
-        "Size": 64498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "A library mod for my other mods. Forked from Focus Core.",
-          "FileID": 84509,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7676/7676-1709954590-2036555062.png",
-          "IsNSFW": false,
-          "ModID": 7676,
-          "Name": "Volition Cabinet",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+NeRsMNN7YI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1911\nfileID=13756",
-        "Name": "Even Smaller Flute-1911-1-0-1-1694034315.zip",
-        "Size": 15085,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Mainly makes the flute less bulky, and while keeping the length.",
-          "FileID": 13756,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1911/1911-1694034402-1998454809.png",
-          "IsNSFW": false,
-          "ModID": 1911,
-          "Name": "Smaller Flute",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Nv6C4Nf+MsQ=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=3902\nfileID=55124",
-        "Name": "See Invisibility Rework-3902-1-0-3-4-1714249282.zip",
-        "Size": 12332,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "drkekyll",
-          "Description": "Reworks See Invisibility to reveal invisible creatures without removing their invisibility (no save). Also changes the conditions for losing invisibility to better reflect RAW.",
-          "FileID": 55124,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3902/3902-1698891261-1326573694.png",
-          "IsNSFW": false,
-          "ModID": 3902,
-          "Name": "(See) Invisibility Rework",
-          "Version": "1.0.3.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1UldDPRYukE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10922\nfileID=88916",
-        "Name": "Automated Summons SE-10922-1-00-14-1744733677.zip",
-        "Size": 24707,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sailor Cat",
-          "Description": "Adds a toggleable passive for automation (AI control) of all summons during combat.",
-          "FileID": 88916,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10922/10922-1720896557-728646274.png",
-          "IsNSFW": false,
-          "ModID": 10922,
-          "Name": "Automated Summons",
-          "Version": "1.00.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8CDV6E6xCYE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15831\nfileID=89703",
-        "Name": "Better Photo Mode 1.0.1-15831-1-0-1-1745075967.zip",
-        "Size": 13887,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Enhances photo mode by allowing real-time customization of camera parameters. Adjust camera speed, rotation speed, range, and focus smoothing via MCM. Features quick speed modifiers (fast/slow modes) via hotkeys.",
-          "FileID": 89703,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15831/15831-1744830985-564242183.png",
-          "IsNSFW": false,
-          "ModID": 15831,
-          "Name": "Better Photo Mode",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8PXEsWWpdew=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1933\nfileID=63029",
-        "Name": "Compatibility Framework-1933-2-6-3-12-1720117306.zip",
-        "Size": 18999,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BG3 Community Library Team",
-          "Description": "This is the Compatibility Framework. Split off from BG3 Community Library, this mod provides an API for other mods to use improve compatibility. Initially designed for Subclass Compatibility, the Framework has API endpoints that Script-Extender Enabled mods can hook into to insert values into Progressions, Feats, and Lists at Runtime.",
-          "FileID": 63029,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1933/1933-1695145601-616819095.png",
-          "IsNSFW": false,
-          "ModID": 1933,
-          "Name": "Compatibility Framework",
-          "Version": "2.6.3.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9AAeY0qglRo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5877\nfileID=41108",
-        "Name": "Druid Quality of Life - Hotbar Restore-5877-1-0-1-1705846324.zip",
-        "Size": 4270,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Syrchalis",
-          "Description": "A script that copies your hotbar when you enter Wild Shape and restores it upon leaving it. Works with other polymorph effects that change your hotbar.",
-          "FileID": 41108,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5877/5877-1705117783-936923963.png",
-          "IsNSFW": false,
-          "ModID": 5877,
-          "Name": "Druid Quality of Life - Hotbar Restore",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S4rJ8YOjGXE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8903\nfileID=54359",
-        "Name": "Invisibility Rules - Movement Line Fix-8903-1-1713632034.zip",
-        "Size": 2280,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Primalfire",
-          "Description": "This mod fixes the dreaded issue of, \u0022movement destination line\u0022,  revealing the location of invisible entities.\n\nView mod page for pictures if you are not sure what this is.",
-          "FileID": 54359,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8903/8903-1713631653-1849411876.png",
-          "IsNSFW": false,
-          "ModID": 8903,
-          "Name": "Invisibility Rules - Movement Line Fix",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aDQIBJm+S0g=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1149\nfileID=60606",
-        "Name": "Mol Persuasion Bug Fix-1149-1-2-1718072982.zip",
-        "Size": 79760,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KickingWriter",
-          "Description": "Fixes dialogue with Mol. \n\n\n\nIf you Stole Mattis\u0027 Ring, Grabbed Silfy etc... you will have to persuade Mol to give you another chance. However, after persuading, Mol refuses to talk to you.",
-          "FileID": 60606,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1149/1149-1692420707-1270669920.png",
-          "IsNSFW": false,
-          "ModID": 1149,
-          "Name": "Mol Persuasion Bug Fix",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rouv6mTvW4E=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=13114\nfileID=88235",
-        "Name": "Sensible Ambushing-13114-1-1-1-1743622950.zip",
-        "Size": 40811,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OsirisofGit",
-          "Description": "(BETA BUILD) - Fixes the frustrating mix of turn-based and real-time gameplay when attempting to launch an ambush against enemies. Pulls your party into your attack, maintaining their stealth status, ensures surprise rounds happen, and enables actual stealth-combat, reapplying sneak status when you would otherwise lose it. 100% MCM Configurable!",
-          "FileID": 88235,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/13114/13114-1729080071-426931051.png",
-          "IsNSFW": false,
-          "ModID": 13114,
-          "Name": "Sensible Ambushing - Stealth Combat Overhaul",
-          "Version": "0.5.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RGywGd/CPIw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5080\nfileID=54833",
-        "Name": "Wifi_potions_2.0.4.0-5080-2-0-4-0-1713974102.zip",
-        "Size": 32052,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FallenStar",
-          "Description": "Magical healing potions that look for any available healing potion of the same type in the party\u0027s inventory for convenience, no more splitting potion or looking for them inside 50 bags\n\n\n\nMay activate your 5G chip.",
-          "FileID": 54833,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5080/5080-1702410478-1452314869.png",
-          "IsNSFW": false,
-          "ModID": 5080,
-          "Name": "Wifi potions v2 tm",
-          "Version": "2.0.2.0"
+          "ModID": 2171,
+          "Name": "Use Highest Modifier in dialogue",
+          "Version": "1.12"
         }
       }
     }
