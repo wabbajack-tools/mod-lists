@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1527)
+### Valid (1528)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.17.7z_3c14b05c-adfb-407e-90a3-fc14108fe3f5)
@@ -276,6 +276,8 @@
 *  [DALC Fix Preset-103052-8-6-1740072412.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103052/?tab=files&file_id=596972)
 *  [Dark Brotherhood Armors Retexture SE-93890-1-1-0-1740935388.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93890/?tab=files&file_id=601045)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
+*  [Dark Souls Undressed - NeverNude - CBBE-66845-3-2-1745250802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66845/?tab=files&file_id=619833)
+*  [Dark Souls Undressed - NeverNude-66845-3-2-1745250670.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66845/?tab=files&file_id=619831)
 *  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
@@ -883,7 +885,6 @@
 *  [Magic Student (WIChangeLocation04) Quest Fix-80676-0-1-1671093954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80676/?tab=files&file_id=340731)
 *  [Magical Potion Sounds-138932-1-1-1737167673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138932/?tab=files&file_id=584620)
 *  [Main File Honey Nut Treat-34149-1-0-1585484757.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34149/?tab=files&file_id=131222)
-*  [Main File-86343-1-0-1678004273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86343/?tab=files&file_id=365631)
 *  [Main Menu Redone - Without logo - 1080p-59993-1-6-1729522791.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59993/?tab=files&file_id=554280)
 *  [MainMenuRandomizer-33574-2-0-4-1709893053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33574/?tab=files&file_id=478209)
 *  [Malacath's Chosen - An Orc Furniture Replacer-133717-1-0-2-1731526659.rar](https://www.nexusmods.com/skyrimspecialedition/mods/133717/?tab=files&file_id=561924)

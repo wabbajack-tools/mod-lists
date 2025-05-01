@@ -24,7 +24,6 @@
 *  [02 PAN_NPCs - alternative faces SE-91572-1-0-1-1708428690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91572/?tab=files&file_id=472862)
 *  [1_2K ElSopa HD Strider And Netches-22238-1-0-1546145240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22238/?tab=files&file_id=76674)
 *  [1_Capital Windhelm - Embers XD ESP-FE Patch for 2.2.3 and later-42990-1-1620323559.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42990/?tab=files&file_id=202019)
-*  [1_Crash Log Tools-66743-1-0-1-1650374513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66743/?tab=files&file_id=278241)
 *  [1_ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [1_Icy Windhelm - Capital Windhelm Expansion patch-55329-1-6-1703949336.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55329/?tab=files&file_id=456408)
 *  [1_Icy Windhelm - Throne Fix-96367-1-0-1690002064.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96367/?tab=files&file_id=409349)
@@ -863,6 +862,7 @@
 *  [Crafting Grants XP-126443-1-0-2-1735451204.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126443/?tab=files&file_id=577247)
 *  [Crafting recipes-134088-1-2-1732305443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134088/?tab=files&file_id=564972)
 *  [CRAP FOMOD-106790-3-1-0-1721807005.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106790/?tab=files&file_id=524352)
+*  [Crash Log Tools-66743-1-0-1-1650374513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66743/?tab=files&file_id=278241)
 *  [CrashLogger-59818-1-14-1-1716098655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=502665)
 *  [Create leveled list xEdit scripts-84967-1-2-1679739025.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84967/?tab=files&file_id=371861)
 *  [Creation Club - Gallows Hall Vaermina Statue-71202-1-0-1657581347.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71202/?tab=files&file_id=298232)
@@ -927,6 +927,8 @@
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
 *  [Dark Hierophant Magic-108499-1-43-1705020631.zip](https://www.nexusmods.com/skyrimspecialedition/mods/108499/?tab=files&file_id=460451)
+*  [Dark Souls Undressed - NeverNude - CBBE-66845-3-2-1745250802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66845/?tab=files&file_id=619833)
+*  [Dark Souls Undressed - NeverNude-66845-3-2-1745250670.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66845/?tab=files&file_id=619831)
 *  [Dark spiky grass-36332-1-0-1590222909.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36332/?tab=files&file_id=141563)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
@@ -1090,7 +1092,6 @@
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures4.bsa
-*  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -2486,7 +2487,6 @@
 *  [Main file-136837-1-0-1-1734820625.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136837/?tab=files&file_id=574724)
 *  [Main File-50840-1-2-1623052905.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50840/?tab=files&file_id=207903)
 *  [Main file-64707-1-0-1647737321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64707/?tab=files&file_id=271293)
-*  [Main File-86343-1-0-1678004273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86343/?tab=files&file_id=365631)
 *  [Main Files-68656-2-0-2-1701526801.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68656/?tab=files&file_id=448133)
 *  [Main Menu Design Replacer (just centered)-30810-1-0-1-1622517420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30810/?tab=files&file_id=206698)
 *  [Main Menu Redone - 4K-59993-1-3-1639545611.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59993/?tab=files&file_id=249229)
