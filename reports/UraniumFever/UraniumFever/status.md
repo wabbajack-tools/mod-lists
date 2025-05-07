@@ -1,11 +1,10 @@
 ## Validation Report - Uranium Fever (UraniumFever/UraniumFever)
 
 
-### Invalid (1)
-*  [bsp_textures2.zip](https://drive.google.com/uc?id=1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1292)
+### Valid (1293)
 *  [- CDN - .32 Pistol - Capital Wasteland .32 Pistol - By Conzo.zip](https://authored-files.wabbajack.org/- CDN - .32 Pistol - Capital Wasteland .32 Pistol - By Conzo.zip_6344721c-34e3-4ba0-8c99-db973b18d28c)
 *  [- CDN - 3DNPC - NV - Sweet's 3DNPC Tweaks - By Sweet6Shooter.zip](https://authored-files.wabbajack.org/- CDN - 3DNPC - NV - Sweet's 3DNPC Tweaks - By Sweet6Shooter.zip_7b529541-4d69-4a5d-89da-023cf43f9118)
 *  [- CDN - Auto Axe - Capital Wasteland Auto Axe - By Conzo.zip](https://authored-files.wabbajack.org/- CDN - Auto Axe - Capital Wasteland Auto Axe - By Conzo.zip_8f1286e3-8ac6-4844-a0d8-e67499c3673e)
@@ -207,6 +206,7 @@
 *  [Brave New World - Revoice Only (Scripted) Hotfix-69562-1-6-1-1647427354.7z](https://www.nexusmods.com/newvegas/mods/69562/?tab=files&file_id=1000089294)
 *  [Brave New World-69562-1-6-1647207951.7z](https://www.nexusmods.com/newvegas/mods/69562/?tab=files&file_id=1000089130)
 *  [BraveNewWorld - Voices (.wav version)-69562-1-6-1647208114.7z](https://www.nexusmods.com/newvegas/mods/69562/?tab=files&file_id=1000089132)
+*  [bsp_textures2.zip](https://drive.google.com/uc?id=1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM&export=download)
 *  [Bullet Casings Redone-69925-2-0-1-1688747826.zip](https://www.nexusmods.com/newvegas/mods/69925/?tab=files&file_id=1000112637)
 *  [Bullet feed framework-91831-1-0-0-1744629275.7z](https://www.nexusmods.com/newvegas/mods/91831/?tab=files&file_id=1000150155)
 *  [Bullet Time - Perk Consistancy Patch-91557-1-0-1742947034.7z](https://www.nexusmods.com/newvegas/mods/91557/?tab=files&file_id=1000148945)
