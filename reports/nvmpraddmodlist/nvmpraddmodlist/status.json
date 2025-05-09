@@ -2,7 +2,7 @@
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "NVMP RADD Modlist",
   "Version": "2.1.6",
-  "ModListHash": "EPt3PpzXlHY=",
+  "ModListHash": "OJhbnjaMAxQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -28,21 +28,34 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dh+xUCYZfH4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
-        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
-        "Size": 104303,
+        "Hash": "gYV9iWZiq6E=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_361eaff0-f30d-4928-bd6c-15802a9d212e",
+        "Name": "RADD Server Mods.7z",
+        "Size": 1541406708,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_361eaff0-f30d-4928-bd6c-15802a9d212e"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2MBP8BiCbMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=528774",
+        "Name": "rootbuilder.5.0.5.zip",
+        "Size": 948891,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roy Batty - LuthienAnarion",
-          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The EPIC Games, Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
-          "FileID": 1000075100,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 528774,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
           "IsNSFW": false,
-          "ModID": 62552,
-          "Name": "FNV 4GB Patcher",
-          "Version": "1.5"
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.5.2"
         }
       }
     },
@@ -64,6 +77,27 @@
           "ModID": 65094,
           "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
           "Version": "v1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I2VFsm3KBbA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
+        "Name": "MTUI-34902.zip",
+        "Size": 424681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Max Tael",
+          "Description": "Fallout: New Vegas UI improvements.",
+          "FileID": 68836,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
+          "IsNSFW": false,
+          "ModID": 34902,
+          "Name": "MTUI",
+          "Version": "1.0"
         }
       }
     },
@@ -98,27 +132,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2MBP8BiCbMU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=528774",
-        "Name": "rootbuilder.5.0.5.zip",
-        "Size": 948891,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
-          "FileID": 528774,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
-          "IsNSFW": false,
-          "ModID": 31720,
-          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.5.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "C0cRDy1wMhk=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=75414\nfileID=1000088141",
         "Name": "Clean Pip-Boy 2022-75414-1-1-1645486260.zip",
@@ -140,21 +153,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I2VFsm3KBbA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
-        "Name": "MTUI-34902.zip",
-        "Size": 424681,
+        "Hash": "hPliaaVlWnU=",
+        "Meta": "[General]\ndirectURL=https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z",
+        "Name": "nvtf.7z",
+        "Size": 834632,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Tael",
-          "Description": "Fallout: New Vegas UI improvements.",
-          "FileID": 68836,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
-          "IsNSFW": false,
-          "ModID": 34902,
-          "Name": "MTUI",
-          "Version": "1.0"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z"
         }
       }
     },
@@ -182,54 +188,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RkbL1IhMIpY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=82979\nfileID=1000116126",
-        "Name": "World Map HD-82979-1-0-1694172081.7z",
-        "Size": 34653329,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "chilloucik",
-          "Description": "A simple HD upscale of all world maps.",
-          "FileID": 1000116126,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82979/82979-1694171521-2002590833.png",
-          "IsNSFW": false,
-          "ModID": 82979,
-          "Name": "World Map HD",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i4W3EJGZBm0=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_25aa98d1-0720-45a5-94f7-cbb7ef976303",
-        "Name": "RADD Server Mods.7z",
-        "Size": 1541403838,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_25aa98d1-0720-45a5-94f7-cbb7ef976303"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hPliaaVlWnU=",
-        "Meta": "[General]\ndirectURL=https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z",
-        "Name": "nvtf.7z",
-        "Size": 834632,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "k8IY6nIjp+Q=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
         "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
@@ -244,6 +202,27 @@
           "IsNSFW": false,
           "ModID": 80666,
           "Name": "ActorCause Save Bloat Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RkbL1IhMIpY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=82979\nfileID=1000116126",
+        "Name": "World Map HD-82979-1-0-1694172081.7z",
+        "Size": 34653329,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "chilloucik",
+          "Description": "A simple HD upscale of all world maps.",
+          "FileID": 1000116126,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82979/82979-1694171521-2002590833.png",
+          "IsNSFW": false,
+          "ModID": 82979,
+          "Name": "World Map HD",
           "Version": "1.0"
         }
       }
@@ -308,6 +287,27 @@
           "ModID": 53635,
           "Name": "NVAC - New Vegas Anti Crash",
           "Version": "7.5.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dh+xUCYZfH4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
+        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
+        "Size": 104303,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Roy Batty - LuthienAnarion",
+          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The EPIC Games, Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
+          "FileID": 1000075100,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
+          "IsNSFW": false,
+          "ModID": 62552,
+          "Name": "FNV 4GB Patcher",
+          "Version": "1.5"
         }
       }
     }
