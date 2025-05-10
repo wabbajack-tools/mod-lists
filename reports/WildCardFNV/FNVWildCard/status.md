@@ -1,4 +1,4 @@
-## Validation Report - FNV Wild Card (WildCardFNV/FNV WildCard)
+## Validation Report - FNV Wild Card (WildCardFNV/FNVWildCard)
 
 
 ### Invalid (0)
