@@ -1,4 +1,4 @@
-## Validation Report - LostProphecies (LostProphecies/LostProphecies)
+## Validation Report - Lost Prophecies (LostProphecies/LostProphecies)
 
 
 ### Invalid (0)
