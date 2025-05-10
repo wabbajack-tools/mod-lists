@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2133)
+### Valid (2136)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -617,7 +617,7 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures1.bsa
+*  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
@@ -1239,7 +1239,7 @@
 *  [Locked Chests Have Keys-74565-1-02-1671359288.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74565/?tab=files&file_id=341515)
 *  [LOD Unloading Bug Fix-61251-0-1-1642048241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
-*  [loot_0.25.2-win64.7z](https://github.com/loot/loot/releases/download/0.25.2/loot_0.25.2-win64.7z)
+*  [loot_0.26.0-win64.7z](https://github.com/loot/loot/releases/download/0.26.0/loot_0.26.0-win64.7z)
 *  Low.ini
 *  [Lower Gore Sound Mod-76729-1-0-1665190358.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76729/?tab=files&file_id=322354)
 *  [Lunar Guard - 2k Textures-75349-1-3-1677929821.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75349/?tab=files&file_id=365343)
@@ -1859,6 +1859,7 @@
 *  [Statue of Shalidor - Fire Shock Version-52483-1-0-1626464175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52483/?tab=files&file_id=214949)
 *  [Statue of Sithis 2k-73735-1-0-1661047828.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73735/?tab=files&file_id=309063)
 *  [STB Widgets-136148-1-4-1735761530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=578448)
+*  [STB Widgets-136148-1-7-1746446445.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=623931)
 *  steam_api64.dll
 *  [Steaming Hot Soups and Stews SE - SMIM-63580-v1-1-1644873843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63580/?tab=files&file_id=264195)
 *  [Stellaris-86833-2-0-7-1708251803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86833/?tab=files&file_id=472106)
@@ -1986,6 +1987,7 @@
 *  [TMD The Rift Leaves - Seasons Patch-111461-1-0-1707859675.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111461/?tab=files&file_id=470537)
 *  [TMD The Rift Leaves - Seasons Patch-111461-1-01-1708029379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111461/?tab=files&file_id=471212)
 *  [TMD The Rift Leaves 2K-111461-1-01-1707859846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111461/?tab=files&file_id=470540)
+*  [TNE_CC_SnS Bow and Arrow Replacer-105031-1-0-1745976225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=622255)
 *  [TNTR-107836-0-50-1730387290.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107836/?tab=files&file_id=557474)
 *  [Tools not weapons DAR animations-70117-1-5-1661621282.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70117/?tab=files&file_id=310837)
 *  [Torch Cremation SE (esl and bash)-59203-2-0-1639605027.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59203/?tab=files&file_id=249445)
@@ -2081,6 +2083,7 @@
 *  [Waterplantsx3DLandscapes-36229-0-1-1590002709.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36229/?tab=files&file_id=141080)
 *  [Weapon Sheathed Firstperson Dodge Animations-56956-V1-0-1635957823.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56956/?tab=files&file_id=238826)
 *  [Weapon Styles for IED-85085-1-1-1692474587.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85085/?tab=files&file_id=418701)
+*  [Weapons Repositioner SE-58273-1-5-1638663923.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58273/?tab=files&file_id=246683)
 *  [WEBS SE x2048-4873-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4873/?tab=files&file_id=10208)
 *  [Welwas SE Add-On-123521-1-0-1720369215.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123521/?tab=files&file_id=518651)
 *  [Wet and Cold SE Snowy Texture Replacer 2k-75253-1-1-1663143713.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75253/?tab=files&file_id=315966)
