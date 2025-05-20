@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1138)
+### Valid (1137)
 *  [00 - Alcohol Bottles - Overhaul  - AIO Installer-73919-1-1-1700071972.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000119091)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-2-1714772524.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000129694)
 *  [01 - zzjay Textures - FOMOD - T3 - T4-55174-6-0-a-1733577015.zip](https://www.nexusmods.com/newvegas/mods/55174/?tab=files&file_id=1000143903)
@@ -443,8 +443,8 @@
 *  Data_Shaders_shaderpackage009.sdp
 *  Data_Shaders_shaderpackage010.sdp
 *  Data_Shaders_shaderpackage012.sdp
-*  Data_Shaders_shaderpackage014.sdp
-*  Data_Shaders_shaderpackage016.sdp
+*  Data_Shaders_shaderpackage015.sdp
+*  Data_Shaders_shaderpackage017.sdp
 *  Data_Shaders_shaderpackage018.sdp
 *  Data_Sound_songs_radionv_MUS_Aint_That_A_Kick_In_the_Head.mp3
 *  Data_Sound_songs_radionv_MUS_American_Swing.mp3
@@ -675,7 +675,6 @@
 *  [Item Cards-85868-1-5-1713824037.zip](https://www.nexusmods.com/newvegas/mods/85868/?tab=files&file_id=1000128306)
 *  [ITEM-85622-1-3-1711575785.zip](https://www.nexusmods.com/newvegas/mods/85622/?tab=files&file_id=1000126406)
 *  [ITEM-85622-2-0-1739076394.zip](https://www.nexusmods.com/newvegas/mods/85622/?tab=files&file_id=1000146556)
-*  [itembrowser-83980-11-1701665102.rar](https://www.nexusmods.com/newvegas/mods/83980/?tab=files&file_id=1000119912)
 *  [JIP Companions Command and Control-50468-2-60.7z](https://www.nexusmods.com/newvegas/mods/50468/?tab=files&file_id=1000042126)
 *  [JIP Improved Recipe Menu ESPless-75920-1-2-1648550774.7z](https://www.nexusmods.com/newvegas/mods/75920/?tab=files&file_id=1000090081)
 *  [JIP LN NVSE Plugin-58277-57-21-1694289677.7z](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000116193)
