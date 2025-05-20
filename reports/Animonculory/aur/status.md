@@ -1,10 +1,11 @@
 ## Validation Report - Aurora - A Visual Overhaul (Animonculory/aur)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1098)
+### Valid (1097)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
@@ -901,7 +902,6 @@
 *  [Skeleton Replacer HD 2K SE-52845-1-1-1627666084.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=217702)
 *  [SkeletonReplacer - LuxPatch-52845-1-1-1630357561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=225042)
 *  [SkeletonReplacer - PatchCollection-52845-1-1-1630233459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=224556)
-*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [Skyland - Better Imperial Forts-90367-1-0-1682858443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90367/?tab=files&file_id=383282)
 *  [Skyland AIO - Hotfix-34179-1-0-1692631596.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=419328)
