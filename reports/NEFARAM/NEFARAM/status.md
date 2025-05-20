@@ -1823,7 +1823,7 @@
 *  [SLAL v1.6 SE.7z](https://www.loverslab.com/files/file/23737-sexlab-animation-loader/)
 *  [SLAL_AnimationsByLeito_v1.6SE.7z](https://www.loverslab.com/files/file/6357-slal-animation-pack-by-leito-se/)
 *  [SLAL_Billyy_Animations v8.8 SE.7z](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2025-3-2/)
-*  [SlaveTatsNG-0.6.11.7z](https://www.loverslab.com/topic/236178-slavetatsng/)
+*  [SlaveTatsNG-0.7.3.7z](https://www.loverslab.com/files/file/35989-slavetatsng/)
 *  [Sleeping Expanded for Interesting NPCs-76753-1-0-1665622790.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76753/?tab=files&file_id=323604)
 *  [Sleeping Expanded-59250-1-22-1670752210.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=339580)
 *  [SLHH Expansion.7z](https://www.loverslab.com/files/file/6217-sexlab-horrible-harassment-expansion-lese/)
