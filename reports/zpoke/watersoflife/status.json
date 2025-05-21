@@ -1,8 +1,8 @@
 {
   "MachineURL": "zpoke/watersoflife",
   "Name": "Waters of Life",
-  "Version": "1.2.7",
-  "ModListHash": "7SlnpOFD4Kc=",
+  "Version": "1.2.8",
+  "ModListHash": "BkmGqBhOZyI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -42,48 +42,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2r4C20h5xjo=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=70001\nfileID=1000095129",
-        "Name": "Clean Vanilla Hud-70001-0-59b-1656662658.7z",
-        "Size": 1930345,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
-          "Description": "Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed. The cleaning consists of removing the old noise, and sometimes i replace the old noise with a new one.",
-          "FileID": 1000095129,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70001/70001-1652260474-1855783111.png",
-          "IsNSFW": false,
-          "ModID": 70001,
-          "Name": "Clean Vanilla Hud",
-          "Version": "0.60"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QUHmO0kZXHM=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=442\nfileID=33214",
-        "Name": "Enhanced Night Sky-442.zip",
-        "Size": 270804,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CptJoker",
-          "Description": "A high-resolution replacement for the default night sky taken from real astrophotography.",
-          "FileID": 33214,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/442-1-1226777484.jpg",
-          "IsNSFW": false,
-          "ModID": 442,
-          "Name": "Enhanced Night Sky",
-          "Version": "0.1b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "UfjEmurzeRM=",
         "Meta": "[General]\ngameName=fallout3\nmodID=8606\nfileID=1000023643",
         "Name": "Fallout Script Extender (FOSE)-8606-1-3-2-newloader-1666407520.7z",
@@ -105,84 +63,58 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1kut419R5OA=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=16924\nfileID=81907",
-        "Name": "DCStreet v2-16924-2.rar",
-        "Size": 2861185,
+        "Hash": "Fq6SS/tCsxE=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25319\nfileID=1000027568",
+        "Name": "Simple Sprint FO3-25319-1-5-1731259327.zip",
+        "Size": 2765,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Some Chump",
-          "Description": "Adds in the street and bus from the intro movie.\r\nAnd aligns the GNR building in Chevy Chase with the rear of the building in Dupont Circle, as well as aligns Dupont circle with the in game map.\r\n",
-          "FileID": 81907,
+          "Author": "Voidwalker",
+          "Description": "Adds sprinting to Fallout 3, but updated for 2022.",
+          "FileID": 1000027568,
           "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/16924-1-1319250613.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25319/25319-1659501914-1868346926.png",
           "IsNSFW": false,
-          "ModID": 16924,
-          "Name": "Intro Street Bus and Dupont Alignment",
-          "Version": "2"
+          "ModID": 25319,
+          "Name": "Simple Sprint Fallout 3",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MTs3UwYN2Nk=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26655\nfileID=1000027902",
-        "Name": "No Exit to Main Menu-26655-1-0-1738117201.zip",
-        "Size": 661,
+        "Hash": "eulQp3OlozI=",
+        "Meta": "[General]\ngameName=Fallout3\ngameFile=Data\\Anchorage.esm",
+        "Name": "Data_Anchorage.esm",
+        "Size": 13880961,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout3",
+          "GameFile": "Data\\Anchorage.esm",
+          "GameVersion": "1.7.0.3",
+          "Hash": "eulQp3OlozI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z64HEhHRPd4=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26081\nfileID=1000028409",
+        "Name": "Waters of Life LOD Output - Vanilla-26081-1-2-3-1746586293.7z",
+        "Size": 202162472,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Stentorious",
-          "Description": "Removes the Pause Menu option for exiting to the Main Menu, helping prevent issues that can arise from loading saves / starting a new game after exiting.",
-          "FileID": 1000027902,
+          "Author": "poke808",
+          "Description": "A Vanilla\u002B Wabbajack for Fallout 3 (Unreleased)",
+          "FileID": 1000028409,
           "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26655/26655-1738117076-1970301155.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26081/26081-1712200778-1405341120.jpeg",
           "IsNSFW": false,
-          "ModID": 26655,
-          "Name": "No Exit to Main Menu",
+          "ModID": 26081,
+          "Name": "Waters of Life",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QWU44yAA344=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25932\nfileID=1000025390",
-        "Name": "UnKillable Trader Mod - FO3-25932-1-1-1698947277.zip",
-        "Size": 1005,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Superfly Johnson",
-          "Description": "Makes the Canterburry Commons caravans impervious to the wasteland, but not to the player.",
-          "FileID": 1000025390,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25932/25932-1698860483-1044341117.png",
-          "IsNSFW": false,
-          "ModID": 25932,
-          "Name": "UnKillable Traders Mod",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dqzlfbjWHd0=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=19122\nfileID=1000027806",
-        "Name": "Updated Unofficial Fallout 3 Patch-19122-3-4-9-1737270698.7z",
-        "Size": 1745946744,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hairylegs222 RoyBatterian",
-          "Description": "Entirely remade patch that fixes bugs and fixes/restores cut content.",
-          "FileID": 1000027806,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/19122-1-1371569430.jpg",
-          "IsNSFW": false,
-          "ModID": 19122,
-          "Name": "Updated Unofficial Fallout 3 Patch",
-          "Version": "3.3.6"
         }
       }
     },
@@ -231,15 +163,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mgHMlqmxmo0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000147933",
-        "Name": "DXVK 2.5.3 - HDR-79299-2-5-3-1741513665.7z",
-        "Size": 1072226,
+        "Hash": "p2kf4CRiyxc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000102855",
+        "Name": "DXVK 1.10.1-79299-1-10-1-1672125216.7z",
+        "Size": 817571,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN - Lilium - Wall_SoGB",
           "Description": "Latest release of DXVK and its HDR variant. Preconfigured for FNV compatibility.",
-          "FileID": 1000147933,
+          "FileID": 1000102855,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
           "IsNSFW": false,
@@ -267,6 +199,27 @@
           "ModID": 26765,
           "Name": "FO3 Decal Flickering Fix",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RW5xY5gQrn0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=61265\nfileID=1000077784",
+        "Name": "Ogg Vorbis Libraries-61265-6-1624186094.7z",
+        "Size": 223562,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KaneWright",
+          "Description": "Latest compiled Ogg Vorbis Libraries",
+          "FileID": 1000077784,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61265-0-1453169633.gif",
+          "IsNSFW": false,
+          "ModID": 61265,
+          "Name": "Ogg Vorbis Libraries",
+          "Version": "6"
         }
       }
     },
@@ -350,6 +303,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2r4C20h5xjo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=70001\nfileID=1000095129",
+        "Name": "Clean Vanilla Hud-70001-0-59b-1656662658.7z",
+        "Size": 1930345,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
+          "Description": "Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed. The cleaning consists of removing the old noise, and sometimes i replace the old noise with a new one.",
+          "FileID": 1000095129,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70001/70001-1652260474-1855783111.png",
+          "IsNSFW": false,
+          "ModID": 70001,
+          "Name": "Clean Vanilla Hud",
+          "Version": "0.60"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5znn5mO8byk=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=70247\nfileID=1000120703",
         "Name": "Enhanced Vanilla Stars-70247-3-0-1703191556.7z",
@@ -413,14 +387,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SradKAx+5GU=",
-        "Meta": "[General]\ndirectURL=https://github.com/c6-dev/fose-fps-fix/releases/download/1.1/HighFPSFix.zip",
-        "Name": "HighFPSFix.zip",
-        "Size": 6850,
+        "Hash": "Titic7JWu1M=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=17743\nfileID=84337",
+        "Name": "Improved LOD Noise Texture-17743-1-00.rar",
+        "Size": 2096053,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/c6-dev/fose-fps-fix/releases/download/1.1/HighFPSFix.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cyberlazy",
+          "Description": "Vastly improves the LOD noise texture used on all distant land. Uses only minimal video memory and greatly improves quality.",
+          "FileID": 84337,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/17743-1-1339105312.png",
+          "IsNSFW": false,
+          "ModID": 17743,
+          "Name": "Improved LOD Noise Texture",
+          "Version": "1.00"
         }
       }
     },
@@ -469,15 +450,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lVWwPbkfg/w=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26085\nfileID=1000028223",
-        "Name": "Stewie Tweaks Essentials INI - No Ironsights-26085-1-04-1743048515.7z",
-        "Size": 6843,
+        "Hash": "jZ2Hh0p0XJ8=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26085\nfileID=1000028225",
+        "Name": "Stewie Tweaks Essentials INI - WASD Menu keys-26085-1-04-1743048795.7z",
+        "Size": 6840,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "A Stewie Tweaks INI with just the essential fixes and QoL settings enabled (mostly) (if i\u0027m remembering correctly)",
-          "FileID": 1000028223,
+          "FileID": 1000028225,
           "GameName": "Fallout3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26085/26085-1712435927-238180840.png",
           "IsNSFW": false,
@@ -574,6 +555,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "rT/s18G+IYM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71577\nfileID=1000072852",
+        "Name": "EGT Files-71577-1-1614978406.7z",
+        "Size": 3946499,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MorningSpice",
+          "Description": "Mostly effective fungal treatment for facegen.",
+          "FileID": 1000072852,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71577/71577-1615078817-1060249391.png",
+          "IsNSFW": false,
+          "ModID": 71577,
+          "Name": "Mostly Fixed FaceGen Tints (NV or TTW)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4f41DlJgn50=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=70599\nfileID=1000119323",
         "Name": "FNV Clean Animations - Anniversary Edition-70599-2-3-1700595406.rar",
@@ -610,27 +612,6 @@
           "ModID": 21174,
           "Name": "FO3LODGen",
           "Version": "3.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nIGrfWVb1Q8=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26590\nfileID=1000027689",
-        "Name": "I Like You A LOD-26590-1-1734988293.zip",
-        "Size": 456336,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FaramH",
-          "Description": "Adds Lod for Barns, Water Tanks, and 5 types of overpass objects",
-          "FileID": 1000027689,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26590/26590-1734987337-1021463362.png",
-          "IsNSFW": false,
-          "ModID": 26590,
-          "Name": "More LOD",
-          "Version": "1"
         }
       }
     },
@@ -700,13 +681,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wDApiPiwYds=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=100KlafE3tkv_sgqwaWJIvsLeihCZei2G\u0026export=download",
-        "Name": "MetroMapReplacer.7z",
-        "Size": 2287381,
+        "Hash": "nIGrfWVb1Q8=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26590\nfileID=1000027689",
+        "Name": "I Like You A LOD-26590-1-1734988293.zip",
+        "Size": 456336,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "100KlafE3tkv_sgqwaWJIvsLeihCZei2G"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FaramH",
+          "Description": "Adds Lod for Barns, Water Tanks, and 5 types of overpass objects",
+          "FileID": 1000027689,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26590/26590-1734987337-1021463362.png",
+          "IsNSFW": false,
+          "ModID": 26590,
+          "Name": "More LOD",
+          "Version": "1"
         }
       }
     },
@@ -839,21 +828,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R1OfasiQWBI=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26081\nfileID=1000026148",
-        "Name": "Fugacity Config-26081-1-0-1712437859.7z",
-        "Size": 731,
+        "Hash": "1kut419R5OA=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=16924\nfileID=81907",
+        "Name": "DCStreet v2-16924-2.rar",
+        "Size": 2861185,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "poke808",
-          "Description": "A Vanilla\u002B Wabbajack for Fallout 3 (Unreleased)",
-          "FileID": 1000026148,
+          "Author": "Some Chump",
+          "Description": "Adds in the street and bus from the intro movie.\r\nAnd aligns the GNR building in Chevy Chase with the rear of the building in Dupont Circle, as well as aligns Dupont circle with the in game map.\r\n",
+          "FileID": 81907,
           "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26081/26081-1712200778-1405341120.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/16924-1-1319250613.jpg",
           "IsNSFW": false,
-          "ModID": 26081,
-          "Name": "Waters of Life",
-          "Version": "1.0"
+          "ModID": 16924,
+          "Name": "Intro Street Bus and Dupont Alignment",
+          "Version": "2"
         }
       }
     },
@@ -923,163 +912,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TMDL7oW/lO4=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25321\nfileID=1000023285",
-        "Name": "No Muzzle Flash Lights-25321-2-0-1659534789.7z",
-        "Size": 722,
+        "Hash": "dqzlfbjWHd0=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=19122\nfileID=1000027806",
+        "Name": "Updated Unofficial Fallout 3 Patch-19122-3-4-9-1737270698.7z",
+        "Size": 1745946744,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "c6",
-          "Description": "Improves game performance in combat by disabling lights produced by muzzle flashes.",
-          "FileID": 1000023285,
+          "Author": "Hairylegs222 RoyBatterian",
+          "Description": "Entirely remade patch that fixes bugs and fixes/restores cut content.",
+          "FileID": 1000027806,
           "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25321/25321-1659534663-954242533.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/19122-1-1371569430.jpg",
           "IsNSFW": false,
-          "ModID": 25321,
-          "Name": "No Muzzle Flash Lights",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Fq6SS/tCsxE=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25319\nfileID=1000027568",
-        "Name": "Simple Sprint FO3-25319-1-5-1731259327.zip",
-        "Size": 2765,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Voidwalker",
-          "Description": "Adds sprinting to Fallout 3, but updated for 2022.",
-          "FileID": 1000027568,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25319/25319-1659501914-1868346926.png",
-          "IsNSFW": false,
-          "ModID": 25319,
-          "Name": "Simple Sprint Fallout 3",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eulQp3OlozI=",
-        "Meta": "[General]\ngameName=Fallout3\ngameFile=Data\\Anchorage.esm",
-        "Name": "Data_Anchorage.esm",
-        "Size": 13880961,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout3",
-          "GameFile": "Data\\Anchorage.esm",
-          "GameVersion": "1.7.0.3",
-          "Hash": "eulQp3OlozI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z64HEhHRPd4=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26081\nfileID=1000028409",
-        "Name": "Waters of Life LOD Output - Vanilla-26081-1-2-3-1746586293.7z",
-        "Size": 202162472,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "poke808",
-          "Description": "A Vanilla\u002B Wabbajack for Fallout 3 (Unreleased)",
-          "FileID": 1000028409,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26081/26081-1712200778-1405341120.jpeg",
-          "IsNSFW": false,
-          "ModID": 26081,
-          "Name": "Waters of Life",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p2kf4CRiyxc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000102855",
-        "Name": "DXVK 1.10.1-79299-1-10-1-1672125216.7z",
-        "Size": 817571,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN - Lilium - Wall_SoGB",
-          "Description": "Latest release of DXVK and its HDR variant. Preconfigured for FNV compatibility.",
-          "FileID": 1000102855,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
-          "IsNSFW": false,
-          "ModID": 79299,
-          "Name": "DXVK",
-          "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RW5xY5gQrn0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=61265\nfileID=1000077784",
-        "Name": "Ogg Vorbis Libraries-61265-6-1624186094.7z",
-        "Size": 223562,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KaneWright",
-          "Description": "Latest compiled Ogg Vorbis Libraries",
-          "FileID": 1000077784,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61265-0-1453169633.gif",
-          "IsNSFW": false,
-          "ModID": 61265,
-          "Name": "Ogg Vorbis Libraries",
-          "Version": "6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Titic7JWu1M=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=17743\nfileID=84337",
-        "Name": "Improved LOD Noise Texture-17743-1-00.rar",
-        "Size": 2096053,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cyberlazy",
-          "Description": "Vastly improves the LOD noise texture used on all distant land. Uses only minimal video memory and greatly improves quality.",
-          "FileID": 84337,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/17743-1-1339105312.png",
-          "IsNSFW": false,
-          "ModID": 17743,
-          "Name": "Improved LOD Noise Texture",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jZ2Hh0p0XJ8=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26085\nfileID=1000028225",
-        "Name": "Stewie Tweaks Essentials INI - WASD Menu keys-26085-1-04-1743048795.7z",
-        "Size": 6840,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "A Stewie Tweaks INI with just the essential fixes and QoL settings enabled (mostly) (if i\u0027m remembering correctly)",
-          "FileID": 1000028225,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26085/26085-1712435927-238180840.png",
-          "IsNSFW": false,
-          "ModID": 26085,
-          "Name": "Stewie Tweaks Essentials INI",
-          "Version": "1.0"
+          "ModID": 19122,
+          "Name": "Updated Unofficial Fallout 3 Patch",
+          "Version": "3.3.6"
         }
       }
     },
@@ -1201,6 +1048,19 @@
           "ModID": 26124,
           "Name": "Viewmodel Shading Fix - FOSE",
           "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wDApiPiwYds=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=100KlafE3tkv_sgqwaWJIvsLeihCZei2G\u0026export=download",
+        "Name": "MetroMapReplacer.7z",
+        "Size": 2287381,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "100KlafE3tkv_sgqwaWJIvsLeihCZei2G"
         }
       }
     },
@@ -1343,48 +1203,6 @@
           "ModID": 84495,
           "Name": "Better Damage Multipliers",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "x/yB/ozIqes=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=21363\nfileID=1000008646",
-        "Name": "Alternative Megaton Lighting Plus No Neon Sign Glow-21363-1-0.rar",
-        "Size": 3488,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Polcsi",
-          "Description": "For very dark nights. Doesn\u0027t cause any ground light glitches.",
-          "FileID": 1000008646,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/21363-7-1434635827.jpg",
-          "IsNSFW": false,
-          "ModID": 21363,
-          "Name": "Alternative Megaton Lighting",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "f7J+sUkvrjE=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26394\nfileID=1000027244",
-        "Name": "Character Overhaul-26394-1-1-1723567381.7z",
-        "Size": 15218366,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RuyN21",
-          "Description": "Fixed and cleaned Project Beauty version that uses only vanilla resources.",
-          "FileID": 1000027244,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26394/26394-1722596657-1652036073.png",
-          "IsNSFW": false,
-          "ModID": 26394,
-          "Name": "Character Overhaul",
-          "Version": "1.1"
         }
       }
     },
@@ -1596,6 +1414,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "x/yB/ozIqes=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=21363\nfileID=1000008646",
+        "Name": "Alternative Megaton Lighting Plus No Neon Sign Glow-21363-1-0.rar",
+        "Size": 3488,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Polcsi",
+          "Description": "For very dark nights. Doesn\u0027t cause any ground light glitches.",
+          "FileID": 1000008646,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/21363-7-1434635827.jpg",
+          "IsNSFW": false,
+          "ModID": 21363,
+          "Name": "Alternative Megaton Lighting",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wyAJKtV3GpU=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26394\nfileID=1000028515",
+        "Name": "Character Overhaul-26394-1-2-1747466178.7z",
+        "Size": 11025917,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RuyN21",
+          "Description": "Fixed and cleaned Project Beauty version that uses only vanilla resources.",
+          "FileID": 1000028515,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26394/26394-1722596657-1652036073.png",
+          "IsNSFW": false,
+          "ModID": 26394,
+          "Name": "Character Overhaul",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eEROQbDJmw4=",
         "Meta": "[General]\ngameName=Fallout3\ngameFile=Data\\ThePitt.esm",
         "Name": "Data_ThePitt.esm",
@@ -1612,15 +1472,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l6k4r1k5E+Y=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=26358\nfileID=1000027881",
-        "Name": "ButcherPete FOSE-26358-2-5-1737790143.zip",
-        "Size": 99264,
+        "Hash": "82Wl50OPXXQ=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26358\nfileID=1000028388",
+        "Name": "ButcherPete FOSE-26358-2-6-1746264469.zip",
+        "Size": 101688,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "c6",
           "Description": "Say, turn this record over, you ain\u0027t heard nothing yet",
-          "FileID": 1000027881,
+          "FileID": 1000028388,
           "GameName": "Fallout3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26358/26358-1720424284-1389780887.jpeg",
           "IsNSFW": false,
@@ -1796,6 +1656,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vpLUz097rfk=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25681\nfileID=1000024471",
+        "Name": "Fort Monuments Restored-25681-1-0-1684711760.zip",
+        "Size": 1432,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ludo",
+          "Description": "Fallout 3 Fort Monuments Restored is a lore-friendly attempt to restore the custom signs intended for Fallout 3\u0027s pre-war military bases.",
+          "FileID": 1000024471,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25681/25681-1684711360-2084129263.png",
+          "IsNSFW": false,
+          "ModID": 25681,
+          "Name": "Fallout 3 Fort Monuments Restored",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "JgMDKHBl0wo=",
         "Meta": "[General]\ngameName=fallout3\nmodID=25720\nfileID=1000027599",
         "Name": "FO3 BSA Decompressor-25720-1-1-0-1731794301.7z",
@@ -1817,20 +1698,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vpLUz097rfk=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25681\nfileID=1000024471",
-        "Name": "Fort Monuments Restored-25681-1-0-1684711760.zip",
-        "Size": 1432,
+        "Hash": "5CfXYBu1GqA=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25558\nfileID=1000027059",
+        "Name": "Fugacity-25558-1-1-2-1721546371.7z",
+        "Size": 54483,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ludo",
-          "Description": "Fallout 3 Fort Monuments Restored is a lore-friendly attempt to restore the custom signs intended for Fallout 3\u0027s pre-war military bases.",
-          "FileID": 1000024471,
+          "Author": "PushTheWinButton",
+          "Description": "Fugacity is a lightweight, vanilla-plus difficulty and balance mod that provides a comprehensive set of balance tweaks to make the game subtly harder, but preserves the spirit of the vanilla game.",
+          "FileID": 1000027059,
           "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25681/25681-1684711360-2084129263.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25558/25558-1676736982-1139913654.png",
           "IsNSFW": false,
-          "ModID": 25681,
-          "Name": "Fallout 3 Fort Monuments Restored",
+          "ModID": 25558,
+          "Name": "Fugacity - Vanilla-Plus Balance and Difficulty Overhaul",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XLzlQxdUCTQ=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=23806\nfileID=1000017495",
+        "Name": "Nicer Goodbye to Wastelander Ghouls-23806-1-0-1571270060.zip",
+        "Size": 14606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kyndra72",
+          "Description": "Adds an additional dialogue option when speaking to the randomly encountered Wastelander ghouls that enables the player to kindly say goodbye, rather than a single rude option that the player is normally forced to use to exit the conversation.",
+          "FileID": 1000017495,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/23806/23806-1571269726-1418495111.jpeg",
+          "IsNSFW": false,
+          "ModID": 23806,
+          "Name": "Nicer Goodbye to Wastelander Ghouls",
           "Version": "1.0"
         }
       }
@@ -1859,27 +1761,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5CfXYBu1GqA=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25558\nfileID=1000027059",
-        "Name": "Fugacity-25558-1-1-2-1721546371.7z",
-        "Size": 54483,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PushTheWinButton",
-          "Description": "Fugacity is a lightweight, vanilla-plus difficulty and balance mod that provides a comprehensive set of balance tweaks to make the game subtly harder, but preserves the spirit of the vanilla game.",
-          "FileID": 1000027059,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25558/25558-1676736982-1139913654.png",
-          "IsNSFW": false,
-          "ModID": 25558,
-          "Name": "Fugacity - Vanilla-Plus Balance and Difficulty Overhaul",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Be+c8Q96UvE=",
         "Meta": "[General]\ngameName=fallout3\nmodID=25813\nfileID=1000025046",
         "Name": "Clarity - UUF3P Patch-25813-1-0-1691822729.7z",
@@ -1894,27 +1775,6 @@
           "IsNSFW": false,
           "ModID": 25813,
           "Name": "Clarity - UUF3P Patch",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XLzlQxdUCTQ=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=23806\nfileID=1000017495",
-        "Name": "Nicer Goodbye to Wastelander Ghouls-23806-1-0-1571270060.zip",
-        "Size": 14606,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kyndra72",
-          "Description": "Adds an additional dialogue option when speaking to the randomly encountered Wastelander ghouls that enables the player to kindly say goodbye, rather than a single rude option that the player is normally forced to use to exit the conversation.",
-          "FileID": 1000017495,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/23806/23806-1571269726-1418495111.jpeg",
-          "IsNSFW": false,
-          "ModID": 23806,
-          "Name": "Nicer Goodbye to Wastelander Ghouls",
           "Version": "1.0"
         }
       }
@@ -1985,27 +1845,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dN0QB8I93kk=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=23425\nfileID=1000015945",
-        "Name": "FOSE Patcher-23425-1-0-1548979436.zip",
-        "Size": 302338,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl - Roy Batty - LuthienAnarion - jazzisparis - nukem - carxt",
-          "Description": "Project to extend GECK functionality and bug fixes. Ported from the New Vegas version.",
-          "FileID": 1000015945,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/23425/23425-1547395406-629248587.png",
-          "IsNSFW": false,
-          "ModID": 23425,
-          "Name": "GECK Extender",
-          "Version": "0.12"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "FgTlzurx2Ds=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=85898\nfileID=1000127494",
         "Name": "Contrasted LOD Noise 1k-85898-1-2-1713025395.zip",
@@ -2069,6 +1908,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "bliEcU6dWgE=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25249\nfileID=1000022734",
+        "Name": "Nicer Goodbye to Zip-25249-1-0-1654725511.zip",
+        "Size": 860,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kyndra72",
+          "Description": "Changes the rude \u0022goodbye\u0022 dialogue option when speaking to Zip in Little Lamplight.",
+          "FileID": 1000022734,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25249/25249-1654725361-1040560791.jpeg",
+          "IsNSFW": false,
+          "ModID": 25249,
+          "Name": "Nicer Goodbye to Zip",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ZggTEwMpGC0=",
         "Meta": "[General]\ngameName=fallout3\nmodID=25435\nfileID=1000023681",
         "Name": "Abandoned Safehouse-25435-3-1-1666837741.zip",
@@ -2105,6 +1965,27 @@
           "ModID": 79211,
           "Name": "OneTweak but Really Updated",
           "Version": "2.1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dN0QB8I93kk=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=23425\nfileID=1000015945",
+        "Name": "FOSE Patcher-23425-1-0-1548979436.zip",
+        "Size": 302338,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl - Roy Batty - LuthienAnarion - jazzisparis - nukem - carxt",
+          "Description": "Project to extend GECK functionality and bug fixes. Ported from the New Vegas version.",
+          "FileID": 1000015945,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/23425/23425-1547395406-629248587.png",
+          "IsNSFW": false,
+          "ModID": 23425,
+          "Name": "GECK Extender",
+          "Version": "0.12"
         }
       }
     },
@@ -2195,27 +2076,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bliEcU6dWgE=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25249\nfileID=1000022734",
-        "Name": "Nicer Goodbye to Zip-25249-1-0-1654725511.zip",
-        "Size": 860,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kyndra72",
-          "Description": "Changes the rude \u0022goodbye\u0022 dialogue option when speaking to Zip in Little Lamplight.",
-          "FileID": 1000022734,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25249/25249-1654725361-1040560791.jpeg",
-          "IsNSFW": false,
-          "ModID": 25249,
-          "Name": "Nicer Goodbye to Zip",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "7SNfvNh45k8=",
         "Meta": "[General]\ngameName=fallout3\nmodID=23390\nfileID=1000017160",
         "Name": "Console Clipboard-23390-1-0-1566236650.zip",
@@ -2252,6 +2112,27 @@
           "ModID": 23425,
           "Name": "GECK Extender",
           "Version": "0.12"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BVp/bCD15iw=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25607\nfileID=1000024159",
+        "Name": "Nicer Red and Shorty\u0027s Death Dialogue-25607-1-0-1681241365.zip",
+        "Size": 754,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kyndra72",
+          "Description": "Changes the dialogue you can use to tell Red and Shorty\u0027s friends if they\u0027re dead to a much nicer version.",
+          "FileID": 1000024159,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25607/25607-1681241291-1183113278.png",
+          "IsNSFW": false,
+          "ModID": 25607,
+          "Name": "Nicer Red and Shorty Death Dialogue",
+          "Version": "1.0"
         }
       }
     },
@@ -2321,27 +2202,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "00zsStueiHc=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=15685\nfileID=1000024196",
-        "Name": "Auto Gates v14-15685-1-4-1681645707.7z",
-        "Size": 5436,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WillieSea",
-          "Description": "Auto Opens and Closes the Megaton, Paradise Falls, Rivet City, Citadel and both Little Lamplight Gates and the Tenpenny Tower gate.",
-          "FileID": 1000024196,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/15685-3-1296515168.jpg",
-          "IsNSFW": false,
-          "ModID": 15685,
-          "Name": "Auto Gates v13",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "B0BQ3JLvec8=",
         "Meta": "[General]\ngameName=fallout3\nmodID=26081\nfileID=1000026312",
         "Name": "Fugacity Tweaks-26081-1-0-1713940170.7z",
@@ -2356,27 +2216,6 @@
           "IsNSFW": false,
           "ModID": 26081,
           "Name": "Waters of Life",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BVp/bCD15iw=",
-        "Meta": "[General]\ngameName=fallout3\nmodID=25607\nfileID=1000024159",
-        "Name": "Nicer Red and Shorty\u0027s Death Dialogue-25607-1-0-1681241365.zip",
-        "Size": 754,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kyndra72",
-          "Description": "Changes the dialogue you can use to tell Red and Shorty\u0027s friends if they\u0027re dead to a much nicer version.",
-          "FileID": 1000024159,
-          "GameName": "Fallout3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25607/25607-1681241291-1183113278.png",
-          "IsNSFW": false,
-          "ModID": 25607,
-          "Name": "Nicer Red and Shorty Death Dialogue",
           "Version": "1.0"
         }
       }
@@ -2426,6 +2265,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "00zsStueiHc=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=15685\nfileID=1000024196",
+        "Name": "Auto Gates v14-15685-1-4-1681645707.7z",
+        "Size": 5436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WillieSea",
+          "Description": "Auto Opens and Closes the Megaton, Paradise Falls, Rivet City, Citadel and both Little Lamplight Gates and the Tenpenny Tower gate.",
+          "FileID": 1000024196,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/15685-3-1296515168.jpg",
+          "IsNSFW": false,
+          "ModID": 15685,
+          "Name": "Auto Gates v13",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "u4qxyQ7w43Q=",
         "Meta": "[General]\ngameName=fallout3\nmodID=26805\nfileID=1000028355",
         "Name": "Damage To Armor Fix-26805-1-1745661627.zip",
@@ -2447,6 +2307,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "QUHmO0kZXHM=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=442\nfileID=33214",
+        "Name": "Enhanced Night Sky-442.zip",
+        "Size": 270804,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CptJoker",
+          "Description": "A high-resolution replacement for the default night sky taken from real astrophotography.",
+          "FileID": 33214,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/442-1-1226777484.jpg",
+          "IsNSFW": false,
+          "ModID": 442,
+          "Name": "Enhanced Night Sky",
+          "Version": "0.1b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MTs3UwYN2Nk=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26655\nfileID=1000027902",
+        "Name": "No Exit to Main Menu-26655-1-0-1738117201.zip",
+        "Size": 661,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Stentorious",
+          "Description": "Removes the Pause Menu option for exiting to the Main Menu, helping prevent issues that can arise from loading saves / starting a new game after exiting.",
+          "FileID": 1000027902,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26655/26655-1738117076-1970301155.png",
+          "IsNSFW": false,
+          "ModID": 26655,
+          "Name": "No Exit to Main Menu",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mgHMlqmxmo0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000147933",
+        "Name": "DXVK 2.5.3 - HDR-79299-2-5-3-1741513665.7z",
+        "Size": 1072226,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN - Lilium - Wall_SoGB",
+          "Description": "Latest release of DXVK and its HDR variant. Preconfigured for FNV compatibility.",
+          "FileID": 1000147933,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
+          "IsNSFW": false,
+          "ModID": 79299,
+          "Name": "DXVK",
+          "Version": "2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ORDsMs6aGUQ=",
         "Meta": "[General]\ngameName=fallout3\nmodID=25363\nfileID=1000023492",
         "Name": "High Resolution Water Fog-25363-1-0-1663439110.zip",
@@ -2461,6 +2384,104 @@
           "IsNSFW": false,
           "ModID": 25363,
           "Name": "High Resolution Water Fog - Water Aliasing Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TMDL7oW/lO4=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25321\nfileID=1000023285",
+        "Name": "No Muzzle Flash Lights-25321-2-0-1659534789.7z",
+        "Size": 722,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "c6",
+          "Description": "Improves game performance in combat by disabling lights produced by muzzle flashes.",
+          "FileID": 1000023285,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25321/25321-1659534663-954242533.png",
+          "IsNSFW": false,
+          "ModID": 25321,
+          "Name": "No Muzzle Flash Lights",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QWU44yAA344=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=25932\nfileID=1000025390",
+        "Name": "UnKillable Trader Mod - FO3-25932-1-1-1698947277.zip",
+        "Size": 1005,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Superfly Johnson",
+          "Description": "Makes the Canterburry Commons caravans impervious to the wasteland, but not to the player.",
+          "FileID": 1000025390,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/25932/25932-1698860483-1044341117.png",
+          "IsNSFW": false,
+          "ModID": 25932,
+          "Name": "UnKillable Traders Mod",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SradKAx+5GU=",
+        "Meta": "[General]\ndirectURL=https://github.com/c6-dev/fose-fps-fix/releases/download/1.1/HighFPSFix.zip",
+        "Name": "HighFPSFix.zip",
+        "Size": 6850,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/c6-dev/fose-fps-fix/releases/download/1.1/HighFPSFix.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lVWwPbkfg/w=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26085\nfileID=1000028223",
+        "Name": "Stewie Tweaks Essentials INI - No Ironsights-26085-1-04-1743048515.7z",
+        "Size": 6843,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "A Stewie Tweaks INI with just the essential fixes and QoL settings enabled (mostly) (if i\u0027m remembering correctly)",
+          "FileID": 1000028223,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26085/26085-1712435927-238180840.png",
+          "IsNSFW": false,
+          "ModID": 26085,
+          "Name": "Stewie Tweaks Essentials INI",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R1OfasiQWBI=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=26081\nfileID=1000026148",
+        "Name": "Fugacity Config-26081-1-0-1712437859.7z",
+        "Size": 731,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "poke808",
+          "Description": "A Vanilla\u002B Wabbajack for Fallout 3 (Unreleased)",
+          "FileID": 1000026148,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/26081/26081-1712200778-1405341120.jpeg",
+          "IsNSFW": false,
+          "ModID": 26081,
+          "Name": "Waters of Life",
           "Version": "1.0"
         }
       }
