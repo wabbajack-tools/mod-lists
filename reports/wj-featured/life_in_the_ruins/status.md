@@ -814,7 +814,7 @@
 *  [True Nights v0.3-9253-v0-3.7z](https://www.nexusmods.com/fallout4/mods/9253/?tab=files&file_id=68806)
 *  [True Sight ENB-55743-1-1-1641079244.rar](https://www.nexusmods.com/fallout4/mods/55743/?tab=files&file_id=225350)
 *  [True Storms - MCM Settings Menu-65541-1-4-1-r4-1669872660.rar](https://www.nexusmods.com/fallout4/mods/65541/?tab=files&file_id=258791)
-*  [True Storms FO4-4472-1-4-3-1742263772.rar](https://www.nexusmods.com/fallout4/mods/4472/?tab=files&file_id=351138)
+*  [True Storms - Wasteland Edition-4472-1-4-3-1748220663.rar](https://www.nexusmods.com/fallout4/mods/4472/?tab=files&file_id=357273)
 *  [TrueAmmoRemover v1.0.5-64426-1-0-5-1664930475.rar](https://www.nexusmods.com/fallout4/mods/64426/?tab=files&file_id=252500)
 *  [TrueGrass v0-3-23469-0-3.zip](https://www.nexusmods.com/fallout4/mods/23469/?tab=files&file_id=96678)
 *  [TrueNights-FH-NW-65289-0-5-0-1666313776.7z](https://www.nexusmods.com/fallout4/mods/65289/?tab=files&file_id=254077)
