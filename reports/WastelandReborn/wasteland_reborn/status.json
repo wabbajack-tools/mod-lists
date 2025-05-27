@@ -1,8 +1,8 @@
 {
   "MachineURL": "WastelandReborn/wasteland_reborn",
   "Name": "Wasteland Reborn",
-  "Version": "2.2",
-  "ModListHash": "t/cgB6J9FbQ=",
+  "Version": "2.2.2",
+  "ModListHash": "K9XqFNj7iC8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -20384,38 +20384,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r9atBo0vdWU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
-        "Name": "Data_Fallout4 - Startup.ba2",
-        "Size": 46451365,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Startup.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "r9atBo0vdWU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vc0CTLVB0ew=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
-        "Name": "Data_Fallout4 - Materials.ba2",
-        "Size": 1770496,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Materials.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "vc0CTLVB0ew="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "eu5QrDBP6FE=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
         "Name": "Data_DLCRobot - Main.ba2",
@@ -20426,38 +20394,6 @@
           "GameFile": "Data\\DLCRobot - Main.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "eu5QrDBP6FE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WrzGLGYLzkg=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
-        "Name": "Data_Fallout4 - Interface.ba2",
-        "Size": 485447149,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Interface.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "WrzGLGYLzkg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LCycwIgXDDQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
-        "Name": "Data_DLCworkshop01 - Textures.ba2",
-        "Size": 23240011,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "LCycwIgXDDQ="
         }
       }
     },
@@ -20480,6 +20416,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "LCycwIgXDDQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
+        "Name": "Data_DLCworkshop01 - Textures.ba2",
+        "Size": 23240011,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "LCycwIgXDDQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "JO30VXmk58A=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
         "Name": "Data_DLCRobot - Textures.ba2",
@@ -20496,6 +20448,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "WrzGLGYLzkg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
+        "Name": "Data_Fallout4 - Interface.ba2",
+        "Size": 485447149,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Interface.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "WrzGLGYLzkg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vc0CTLVB0ew=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
+        "Name": "Data_Fallout4 - Materials.ba2",
+        "Size": 1770496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Materials.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "vc0CTLVB0ew="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4VzJFpoeSyY=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
         "Name": "Data_Fallout4 - Shaders.ba2",
@@ -20506,6 +20490,22 @@
           "GameFile": "Data\\Fallout4 - Shaders.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "4VzJFpoeSyY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r9atBo0vdWU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
+        "Name": "Data_Fallout4 - Startup.ba2",
+        "Size": 46451365,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Startup.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "r9atBo0vdWU="
         }
       }
     }
