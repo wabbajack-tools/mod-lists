@@ -442,7 +442,7 @@
 *  [Unlimited Survival Mode - F4SE-26163-v1-5-1-1715709285.7z](https://www.nexusmods.com/fallout4/mods/26163/?tab=files&file_id=316517)
 *  [Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=270951)
 *  [Unrestrictive Power Armor V1.01-14073-1-01.zip](https://www.nexusmods.com/fallout4/mods/14073/?tab=files&file_id=55658)
-*  [USE PA Manual-94027-1-0-1748375018.rar](https://www.nexusmods.com/fallout4/mods/94027/?tab=files&file_id=357367)
+*  [USE PA Manual-94027-2-0-1748433303.rar](https://www.nexusmods.com/fallout4/mods/94027/?tab=files&file_id=357407)
 *  [VAFS Redux-36519-1-4-2-1589120985.zip](https://www.nexusmods.com/fallout4/mods/36519/?tab=files&file_id=181578)
 *  [Vault Crates Retexture - Worn-44409-Worn-1586707337.rar](https://www.nexusmods.com/fallout4/mods/44409/?tab=files&file_id=179330)
 *  [Vertibird Replacer - 1.0-53485-1-0-1627338181.rar](https://www.nexusmods.com/fallout4/mods/53485/?tab=files&file_id=213399)
