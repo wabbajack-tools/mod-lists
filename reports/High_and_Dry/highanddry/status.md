@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (844)
+### Valid (843)
 *  [(No static) Pip-Boy 2000 Counters-87916-1-1-1719280641.7z](https://www.nexusmods.com/newvegas/mods/87916/?tab=files&file_id=1000135003)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-3-1718394986.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000134231)
@@ -217,7 +217,6 @@
 *  [Crowded Central Freeside-88625-1-3-1724263155.zip](https://www.nexusmods.com/newvegas/mods/88625/?tab=files&file_id=1000138485)
 *  Data_Fallout - Textures.bsa
 *  Data_HonestHearts - Main.bsa
-*  Data_OldWorldBlues - Main.bsa
 *  [DB Shotgun FNV-90363-1-1-1735019931.7z](https://www.nexusmods.com/newvegas/mods/90363/?tab=files&file_id=1000144597)
 *  [DB Shotgun Resources-90363-1-2-1735074783.7z](https://www.nexusmods.com/newvegas/mods/90363/?tab=files&file_id=1000144620)
 *  [DB Shotgun RTR patch-90363-1-2-1735074821.zip](https://www.nexusmods.com/newvegas/mods/90363/?tab=files&file_id=1000144621)
