@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (405)
+### Valid (407)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1 - DynDOLOD DLL SE - Scripts-57264-2-82-9-1714234014.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=495330)
@@ -115,6 +115,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [ddd - ddd-151474-1-0-1748701216.7z](https://www.nexusmods.com/skyrimspecialedition/mods/151474/?tab=files&file_id=633202)
 *  [Death Hound Loading Screen Eye Fix-98210-1-0-1691892285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98210/?tab=files&file_id=416562)
 *  [deorder-plugins.zip](https://github.com/deorder/mo2-plugins/releases/download/1.4/deorder-plugins.zip)
 *  [Disarming Traps Is Dangerous ESL Version-21691-1-0-1544200197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21691/?tab=files&file_id=74392)
@@ -124,6 +125,7 @@
 *  [dunPOISoldiersRaidOnStart Script Tweak-62925-1-0-0-1643724953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62925/?tab=files&file_id=260981)
 *  [Dynamic Animation Casting NG Plus-73293-3-2-4-1686888583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73293/?tab=files&file_id=398206)
 *  [Dynamic Interior Ambient Lighting (DIAL)-149920-1-0-1747090808.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149920/?tab=files&file_id=626559)
+*  [Dynamically Darker Dungeons-41498-0-1-1603025046.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41498/?tab=files&file_id=165988)
 *  [DynDOLOD 3.00-68518-Alpha-190-1740380372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=598486)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-55-1740333043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=598290)
 *  [EasyNPC-52313-0-9-6-1668365284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52313/?tab=files&file_id=331568)
@@ -397,7 +399,7 @@
 *  [Voices EN - Part 1-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57972)
 *  [Volumetric Mists-29273-1-4-2-1585565974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29273/?tab=files&file_id=131426)
 *  [Wander - A Weather Mod-24439-3-1-1601211391.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24439/?tab=files&file_id=162803)
-*  [Wander - HDR-151364-1-1-1748567737.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151364/?tab=files&file_id=632728)
+*  [Wander - HDR-151364-1-2-1748619372.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151364/?tab=files&file_id=632912)
 *  [Water Effects-112762-1-0-0-1733538121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112762/?tab=files&file_id=569739)
 *  [WE05 Script Fix-49851-1-0-1-1620879756.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49851/?tab=files&file_id=203176)
 *  [Wetness Effects-112739-2-0-0-1733538076.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112739/?tab=files&file_id=569738)
