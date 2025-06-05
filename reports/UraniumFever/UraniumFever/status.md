@@ -1,11 +1,10 @@
 ## Validation Report - Uranium Fever (UraniumFever/UraniumFever)
 
 
-### Invalid (1)
-*  [- CDN - SOFT AF - Misc Patching Pack.zip](https://authored-files.wabbajack.org/- CDN - SOFT AF - Misc Patching Pack.zip_14884fbd-932a-4be7-a917-03446f997f2c)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1292)
+### Valid (1293)
 *  [- CDN - .32 Pistol - Capital Wasteland .32 Pistol - By Conzo.zip](https://authored-files.wabbajack.org/- CDN - .32 Pistol - Capital Wasteland .32 Pistol - By Conzo.zip_6344721c-34e3-4ba0-8c99-db973b18d28c)
 *  [- CDN - 3DNPC - NV - Sweet's 3DNPC Tweaks - By Sweet6Shooter.zip](https://authored-files.wabbajack.org/- CDN - 3DNPC - NV - Sweet's 3DNPC Tweaks - By Sweet6Shooter.zip_7b529541-4d69-4a5d-89da-023cf43f9118)
 *  [- CDN - Auto Axe - Capital Wasteland Auto Axe - By Conzo.zip](https://authored-files.wabbajack.org/- CDN - Auto Axe - Capital Wasteland Auto Axe - By Conzo.zip_8f1286e3-8ac6-4844-a0d8-e67499c3673e)
@@ -23,6 +22,7 @@
 *  [- CDN - NCR Armor - Cold War Retexture Pack - By MedRenace.zip](https://authored-files.wabbajack.org/- CDN - NCR Armor - Cold War Retexture Pack - By MedRenace.zip_f2eff4cc-3682-4c81-8611-649b56018ecc)
 *  [- CDN - Pitt Armor - Iconoclast - By MedRenace.zip](https://authored-files.wabbajack.org/- CDN - Pitt Armor - Iconoclast - By MedRenace.zip_4c324ac1-5836-4e57-9334-0747635f1218)
 *  [- CDN - SOFT AF - Main Patching Pack.zip](https://authored-files.wabbajack.org/- CDN - SOFT AF - Main Patching Pack.zip_fc001189-02de-4823-9c90-d073d02b1178)
+*  [- CDN - SOFT AF - Misc Patching Pack.zip](https://authored-files.wabbajack.org/- CDN - SOFT AF - Misc Patching Pack.zip_14884fbd-932a-4be7-a917-03446f997f2c)
 *  [- CDN - SOFT AF - Weapons Patching Pack.zip](https://authored-files.wabbajack.org/- CDN - SOFT AF - Weapons Patching Pack.zip_2923b699-ae8a-4f28-8d59-0482b8a314db)
 *  [- CDN - Swampfolk - By MedRenance.zip](https://authored-files.wabbajack.org/- CDN - Swampfolk - By MedRenance.zip_80d1d0d1-272c-4b42-80b4-27231d5e905a)
 *  [- CDN - Tunnelers - Terrible Tunnelers - By MedRenace.zip](https://authored-files.wabbajack.org/- CDN - Tunnelers - Terrible Tunnelers - By MedRenace.zip_0799ffd5-9d04-4302-9da7-49daf3573580)
