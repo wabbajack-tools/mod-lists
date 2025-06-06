@@ -3608,7 +3608,7 @@
 *  [Sons of Skyrim v2.0 - 3BA-88218-2-0-1703441740.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88218/?tab=files&file_id=454784)
 *  [Sorcerer Outfits by Collygon - BHUNP 3BA HIMBO-138514-1-0-1736375413.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138514/?tab=files&file_id=580978)
 *  [Sorcerer Outfits-137725-1-2-1737922741.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137725/?tab=files&file_id=587795)
-*  [SOS Respawn - Death Overhaul - Lorerim - ESL-121558-1-2-1749177473.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121558/?tab=files&file_id=635085)
+*  [SOS Respawn - Death Overhaul - Lorerim - ESL-121558-1-3-1749195560.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121558/?tab=files&file_id=635139)
 *  [SOS V2.0 - SE by Xtudo - Desaturated textures 2K-104126-1-1699217400.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104126/?tab=files&file_id=440242)
 *  [SOS_ADXP_Patch-112745-1-0-1709106036.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112745/?tab=files&file_id=475299)
 *  [Soul Cairn Paper Map for FWMF FOMOD-55387-1-8-1674314048.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=351659)
