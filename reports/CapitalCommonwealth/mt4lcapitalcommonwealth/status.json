@@ -2,7 +2,7 @@
   "MachineURL": "CapitalCommonwealth/mt4lcapitalcommonwealth",
   "Name": "Capital Commonwealth",
   "Version": "1.0.0",
-  "ModListHash": "3R6dvHCXBPE=",
+  "ModListHash": "jAN5Ag13cWs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,21 +21,30 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AzU6diZiL+s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63168\nfileID=246453",
-        "Name": "Fallout 3 ENB-63168-1-0-1660281625.zip",
-        "Size": 268678,
+        "Hash": "QMwBa4Vdk50=",
+        "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/enbseries_fallout4_v0501.zip_ddb9a97e-45ba-4c80-824c-1fb4ed4a8dda",
+        "Name": "enbseries_fallout4_v0501.zip",
+        "Size": 3229730,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "vOblivi0n",
-          "Description": "A personal edit of Mink555\u0027s Fallout 3 lighting ENB, I liked it well enough, but some of the effects weren\u0027t applied automatically. I added more of a fallout 3 green tinting to more values and made several other tweaks.",
-          "FileID": 246453,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63168/63168-1660281345-1684309234.png",
-          "IsNSFW": false,
-          "ModID": 63168,
-          "Name": "Classic Fallout 3 ENB",
-          "Version": "1.0"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://build.wabbajack.org/authored_files/direct_link/enbseries_fallout4_v0501.zip_ddb9a97e-45ba-4c80-824c-1fb4ed4a8dda"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YUPgMom+RCg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=flexRelease_x64.dll",
+        "Name": "flexRelease_x64.dll",
+        "Size": 1299968,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "flexRelease_x64.dll",
+          "GameVersion": "1.10.984.0",
+          "Hash": "YUPgMom+RCg="
         }
       }
     },
@@ -63,6 +72,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "G+vM9JQ8SjQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81587\nfileID=338056",
+        "Name": "Anti Power Armor Rifle-81587-1-0-7-1729998719.zip",
+        "Size": 115785582,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DegenerateDak and CSEP",
+          "Description": "Nice power armor, counter point: 20mm sniper rifle.",
+          "FileID": 338056,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81587/81587-1714161100-739787202.png",
+          "IsNSFW": false,
+          "ModID": 81587,
+          "Name": "20mm Anti Power Armor Rifle (PTRD-41) - Commonwealth Weaponry Expansion",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I7oSXHWwZG0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=76284\nfileID=308302",
+        "Name": "America Rising 2 - New Enclave Gas Mask-76284-1-2-1711676895.7z",
+        "Size": 15510331,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LittleWindow",
+          "Description": "Adds a new gas mask to be used by Enclave personnel.\n\n\n\nHas a replacer and a 50/50 spawn rate version.",
+          "FileID": 308302,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76284/76284-1711677199-949598707.png",
+          "IsNSFW": false,
+          "ModID": 76284,
+          "Name": "America Rising 2 - New Enclave Gas Mask",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "3E2mkObf3Cg=",
         "Meta": "[General]\ngameName=fallout4\nmodID=51787\nfileID=311880",
         "Name": "Attack of The Lobotomites - High Quality Version-51787-1-1-0-1713929730.7z",
@@ -78,6 +129,27 @@
           "ModID": 51787,
           "Name": "Attack of the Lobotomites",
           "Version": "1.0.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2K8sTHMox3o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19744\nfileID=102921",
+        "Name": "Buffed Minutemen Militia-19744-3-0.rar",
+        "Size": 64265,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dragonovith",
+          "Description": "The Minutemen are now a stronger militia, with better equipment and different units.",
+          "FileID": 102921,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19744-0-1485735678.png",
+          "IsNSFW": false,
+          "ModID": 19744,
+          "Name": "Buffed Minutemen Militia",
+          "Version": "3.0"
         }
       }
     },
@@ -126,20 +198,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OUa+wis/KSo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50007\nfileID=201225",
-        "Name": "CW Raiders-50007-1-1612995150.rar",
-        "Size": 194336985,
+        "Hash": "wg2s4JirF8Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58729\nfileID=231721",
+        "Name": "Capital Wasteland Radscorpions-58729-1-1646944505.rar",
+        "Size": 17666787,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DogtoothCG - TheFriedturkey - HcGxGrill",
-          "Description": "The Raiders have teamed up with their Commonwealth counterparts to reak havoc in style... well psycho style anyway. They can be found spawning alongside any other raider and spawn with a brand new look!",
-          "FileID": 201225,
+          "Author": "TheFriedturkey and HcGxGrill",
+          "Description": "This mod adds in the classic look of the Radscorpions from Fallout 3 and NV alongside the existing ones, this includes the basic blue Radscorpion, albino and glowing which all looks closer to their Fallout 3 and NV counter parts. Pretty much does exactly as it says on the tin.",
+          "FileID": 231721,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50007/50007-1612991768-1283311440.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58729/58729-1646926897-630738588.jpeg",
           "IsNSFW": false,
-          "ModID": 50007,
-          "Name": "Capital Wasteland Raider Pack",
+          "ModID": 58729,
+          "Name": "Capital Wasteland Radscorpions",
           "Version": "1"
         }
       }
@@ -147,105 +219,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "p/pAbtyYs/o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=68485\nfileID=266251",
-        "Name": "Capital Wasteland Rock-It Launcher 1 - Integrated-68485-1-1-1675554438.rar",
-        "Size": 39242727,
+        "Hash": "MuT3em8L/X4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40738\nfileID=224968",
+        "Name": "Classic Vault Outfits Pack-40738-2-1640704121.rar",
+        "Size": 90040305,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zanthir",
-          "Description": "This mod adds the Rock-It Launcher and Rock-It Launcher backpack from Fallout 3 to Fallout 4.",
-          "FileID": 266251,
+          "Author": "TheFriedturkey and HcG x Grill",
+          "Description": "Today I finally release my vault outfits after having them done for like 4 months I think its time to release them, this includes all the vault outfits from Fallout 3 in there old style.",
+          "FileID": 224968,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68485/68485-1675470984-858666669.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40738/40738-1640705978-587984965.jpeg",
           "IsNSFW": false,
-          "ModID": 68485,
-          "Name": "Capital Wasteland Rock-It Launcher",
-          "Version": "1.1"
+          "ModID": 40738,
+          "Name": "Classic Vault Outfits Pack",
+          "Version": "2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r52tdAryKzg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65671\nfileID=256455",
-        "Name": "Classic Power Armor Training-65671-1-3-1668023095.7z",
-        "Size": 26401621,
+        "Hash": "VaK3ClpVFqM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24981\nfileID=114863",
+        "Name": "Courser Crusher Version 1.2-24981-1-2.zip",
+        "Size": 86925685,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Varangian Studio",
-          "Description": "A small mod to bring back power armor training. You will no longer be able to use Power Armor right out of the Vault and will need to find trainers in the world to teach you. Little mod big changes.",
-          "FileID": 256455,
+          "Author": "Trainwiz and Niero",
+          "Description": "An overhaul to coursers, giving them new abilities and behaviors, as well as restoring their cut weapon Institute bioweapon from the concept art!",
+          "FileID": 114863,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65671/65671-1667332389-1169462075.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24981-0-1497892818.png",
           "IsNSFW": false,
-          "ModID": 65671,
-          "Name": "Classic Power Armor Training",
-          "Version": "1.3"
+          "ModID": 24981,
+          "Name": "Courser Crusher",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "am8tYuTQD/E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28009\nfileID=115702",
-        "Name": "CROSS_CourserStrigidae_090c.zip-28009-090c.zip",
-        "Size": 127792858,
+        "Hash": "cUvwlnWizZE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=15909\nfileID=89032",
+        "Name": "DKS-501 Sniper Rifle 1.5-15909-1-5.7z",
+        "Size": 89550935,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Niero",
-          "Description": "",
-          "FileID": 115702,
+          "Author": "LtCommander",
+          "Description": "The iconic long range weapon of the Fallout Series makes its return as a fully moddable gun in the Commonwealth!",
+          "FileID": 89032,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28009/28009-1512176807-804938340.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15909-0-1475346348.jpg",
           "IsNSFW": false,
-          "ModID": 28009,
-          "Name": "CROSS_Courser Strigidae",
-          "Version": "090c"
+          "ModID": 15909,
+          "Name": "DKS-501 Sniper Rifle - Standalone",
+          "Version": "1.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Iu49Q7Sipgw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=79543\nfileID=306450",
-        "Name": "Dogmeat Follow Behind-79543-1-1710147746.7z",
-        "Size": 585,
+        "Hash": "alzviRIzEAA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=212\nfileID=54175",
+        "Name": "EBT_Basic v101-212-1-01.7z",
+        "Size": 143296254,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kraag",
-          "Description": "Makes Dogmeat travel behind you instead of out in front. Simple, lightweight and ESPFE.",
-          "FileID": 306450,
+          "Author": "dDefinder",
+          "Description": "High-resolution blood decals that complement the violence level of the Fallout series",
+          "FileID": 54175,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79543/79543-1710147791-723354028.png",
-          "IsNSFW": false,
-          "ModID": 79543,
-          "Name": "Dogmeat Follow Behind",
-          "Version": "1"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/212-0-1451356951.png",
+          "IsNSFW": true,
+          "ModID": 212,
+          "Name": "Enhanced Blood Textures",
+          "Version": "1.01"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BfeJTatTP0U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13596\nfileID=126232",
-        "Name": "Enhanced Lights and FX-13596-1-0.7z",
-        "Size": 5637246,
+        "Hash": "fwYC//IgjVw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=5021\nfileID=91218",
+        "Name": "Eyewear and mask retexture-5021-1-6.7z",
+        "Size": 18482047,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Anamorfus",
-          "Description": "Enhanced Lights and FX has the goal to create a more atmospheric and realistic lighting. It overhauls the lights, effects, ambient light and creates a new mood for interiors.",
-          "FileID": 126232,
+          "Author": "Castell",
+          "Description": "Retextured sunglasses and goggles.",
+          "FileID": 91218,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13596-0-1485726444.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5021-0-1466015604.png",
           "IsNSFW": false,
-          "ModID": 13596,
-          "Name": "Enhanced Lights and FX",
-          "Version": "1.0"
+          "ModID": 5021,
+          "Name": "Eyewear and mask retexture",
+          "Version": "1.6"
         }
       }
     },
@@ -273,15 +345,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1Bb5tP+cQ7U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=242233",
-        "Name": "Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar",
-        "Size": 1033419,
+        "Hash": "B0f+54novkQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37907\nfileID=153902",
+        "Name": "F3Gatler-37907-1-1552223045.zip",
+        "Size": 64828279,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nul_del",
+          "Description": "Fallout 3 Gatling Laser",
+          "FileID": 153902,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37907/37907-1552222823-429029219.jpeg",
+          "IsNSFW": false,
+          "ModID": 37907,
+          "Name": "Fallout 3 Gatling Laser",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zbeAlMDiGy0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=237355",
+        "Name": "Fallout 4 - Point Lookout-60330-1-1652278869.rar",
+        "Size": 4520837998,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Capital Wasteland Team",
           "Description": "Fallout 4: Point Lookout is a fan recreation of Fallout 3\u0027s Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs.",
-          "FileID": 242233,
+          "FileID": 237355,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60330/60330-1652201203-280592258.jpeg",
           "IsNSFW": false,
@@ -294,63 +387,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7MryzZ475tc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65362\nfileID=265240",
-        "Name": "Fatigue-65362-1-3-0-1674898378.zip",
-        "Size": 6775,
+        "Hash": "xASjFL64Wbo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57101\nfileID=261169",
+        "Name": "Fast Start - Skip Prewar Sanctuary-57101-1-2-6-1671648926.zip",
+        "Size": 342451,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "msalaba",
+          "Description": "In a new game, wake up in the cryopod after character creation.",
+          "FileID": 261169,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57101/57101-1651419097-593441413.jpeg",
+          "IsNSFW": false,
+          "ModID": 57101,
+          "Name": "Fast Start - Skip Sanctuary Prologue",
+          "Version": "1.2.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PR/El/D0wRI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=85372\nfileID=326093",
+        "Name": "Food Sanitizer-85372-1-0-1-1720467951.zip",
+        "Size": 2951035,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bp42s - jkruse05",
+          "Description": "Faithfully re-implements the Food Sanitizer from Fallout 3. Fully functional, and complete with custom meshes, textures, and 2D animations.",
+          "FileID": 326093,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85372/85372-1720200130-1195543875.png",
+          "IsNSFW": false,
+          "ModID": 85372,
+          "Name": "Food Sanitizer",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0EtX8VoWW/M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=160697",
+        "Name": "GCM DLC Far Harbor-33759-0-6-1561641689.zip",
+        "Size": 420,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zzyxzz",
-          "Description": "Fatigue - ECR removes the the static aim behavior when using guns. Your character stats influence your gun handling and will improve it, the more you invest in it. The weight of your gun, now slowly drains your Action Points, while aiming and handling the recoil. The lower your Action Points fall, the wobble of your weapon will increase.",
-          "FileID": 265240,
+          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
+          "FileID": 160697,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65362/65362-1666518163-1233055423.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
           "IsNSFW": false,
-          "ModID": 65362,
-          "Name": "Fatigue - Enhanced Combat Realism",
-          "Version": "1.3.0"
+          "ModID": 33759,
+          "Name": "Game Configuration Menu",
+          "Version": "0.7.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i9/J2j3ftvA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=82574\nfileID=331257",
-        "Name": "No Rats-82574-1-0-0-1724378748.7z",
-        "Size": 28773,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Exoclyps",
-          "Description": "Patch for \u0022Forced Evolution - Super Mutant Addons\u0022 that comes in two part. ESLified master file and eXoPatch to apply some tweaks and buffs to the new Mutants. And no Psi-Mannequins.",
-          "FileID": 331257,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82574/82574-1715434776-269459891.jpeg",
-          "IsNSFW": false,
-          "ModID": 82574,
-          "Name": "Forced Evolution - eXoPatch",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HJhnIIwa1BU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=228169",
-        "Name": "Gunner Outfit Pack-43686-4-8-1643542537.rar",
-        "Size": 245853454,
+        "Hash": "OZoctstHhF0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=228171",
+        "Name": "Heavy Outfit 1stPerson pipboy fix-43686-4-8-1643542719.rar",
+        "Size": 97513929,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Defalt - Mavmanzero",
           "Description": "This adds 215 Gunner themed Outfits/Hats/Helmets/Masks (75 Outfits, 112 Hats/Helmets, 10 Masks, 11 Backpacks, 2 Goggles and 5 Standalone Kevlar armors) \u002B Gunner themed Paint Jobs for the T-45, T-51, T-60 and X-01 Power Armors to the game.",
-          "FileID": 228169,
+          "FileID": 228171,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43686/43686-1635470519-829274344.png",
           "IsNSFW": false,
           "ModID": 43686,
           "Name": "Gunner Outfit Pack (STANDALONE)",
           "Version": "4.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Idv9xgWFN08=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37559\nfileID=200463",
+        "Name": "Hollywood Laser Bolts-37559-2-3-1612202417.7z",
+        "Size": 6843,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "flecked",
+          "Description": "Lasers will become laser bolts and glow bright to the color of the laser for the player and NPCs.",
+          "FileID": 200463,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37559/37559-1612123941-1917730240.jpeg",
+          "IsNSFW": false,
+          "ModID": 37559,
+          "Name": "Hollywood Laser Bolts",
+          "Version": "2.3"
         }
       }
     },
@@ -378,21 +513,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bV/elbAZHdQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30868\nfileID=150134",
-        "Name": "LAER 1.24 hotfix 1-30868-1-24hotfix1-1547570375.rar",
-        "Size": 140629197,
+        "Hash": "7Qi0waE6sao=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30868\nfileID=147614",
+        "Name": "LAER Automatron support version 3-30868-1-1-1544366273.rar",
+        "Size": 289938,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Rizzler - Wanaming0 - Ha_ru - Pie_Savvy - guicool - Vicyorus and friends",
           "Description": "An Electrolaser-based weapon that gains bonus damage against Robots and Power Armor users, as well as the ability to shut down and/or paralyze enemies with critical attacks.",
-          "FileID": 150134,
+          "FileID": 147614,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30868/30868-1522810203-2097171619.png",
           "IsNSFW": false,
           "ModID": 30868,
           "Name": "LAER (Laser Assisted Electrical Rifle)",
           "Version": "1.24hotfix1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iBcOKgLQEwE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63914\nfileID=342777",
+        "Name": "LIF-63914-3-0-6-1734196143.7z",
+        "Size": 69914,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dank Rafft",
+          "Description": "This mod fixes bugs and inconsistencies within Leveled Item forms, standardises and extends some instances, and controls DLC item distribution. Comes with a configuration holotape and optional MCM.",
+          "FileID": 342777,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63914/63914-1690719216-316215506.jpeg",
+          "IsNSFW": false,
+          "ModID": 63914,
+          "Name": "Leveled Item Fixes (LIF)",
+          "Version": "2.4.0"
         }
       }
     },
@@ -441,6 +597,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "fw4j8R3xebM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11082\nfileID=43570",
+        "Name": "No Health Crippled PopUps-11082-1-0.rar",
+        "Size": 1303,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "chucksteel",
+          "Description": "This mod was done on request. It changes the Health and Crippled limb pop-up messages into desplay messages that do not stop the game. They show on the Left side of the screen.",
+          "FileID": 43570,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11082-0-1458417300.jpg",
+          "IsNSFW": false,
+          "ModID": 11082,
+          "Name": "No Health and Crippled Pop-Ups",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "pTInvg3pqgQ=",
         "Meta": "[General]\ngameName=fallout4\nmodID=9048\nfileID=209138",
         "Name": "Old World Radio - Boston v6.02-9048-6-02-1622419664.rar",
@@ -462,99 +639,78 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gjy9LcQqdxE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=34053\nfileID=138361",
-        "Name": "PollutedTrueStorms-34053-1-0.rar",
-        "Size": 13191,
+        "Hash": "LwwDi7nTGus=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33774\nfileID=142592",
+        "Name": "Polluted Climate 1.08-33774-1-08.zip",
+        "Size": 10637525,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Echelon117",
-          "Description": "This is a patch that merges Polluted Climate by Mandragorasprouts and the widely popular True Storms",
-          "FileID": 138361,
+          "Author": "mandragorasprouts",
+          "Description": "I find fallout 4 overly vibrant and colorful for post apocalyptic world,  climate must be harsh and unforgiving , so I tweaked weathers a bit.\n\nNothing too fancy, it\u0027s just subtle visual overhaul to give fo4 same desolate look  that older fallout games had.",
+          "FileID": 142592,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34053/34053-1534111897-1317126374.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33774/33774-1536181104-1885317588.png",
           "IsNSFW": false,
-          "ModID": 34053,
-          "Name": "Polluted Climate TrueStorms Patch",
-          "Version": "1.0"
+          "ModID": 33774,
+          "Name": "Polluted Climate",
+          "Version": "1.08"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AVA5vx/tNQc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60267\nfileID=237046",
-        "Name": "Project Zeta-60267-1-1652014173.rar",
-        "Size": 351860131,
+        "Hash": "xrbEp2So/9M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35904\nfileID=156466",
+        "Name": "Project Reality Footsteps FO4 1.7 BA2-35904-1-7-1555770045.zip",
+        "Size": 3829420,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HcGxGrill - TheFriedturkey - Zanthir - MrColonelMustard",
-          "Description": "Project Zeta is a little project we have made based on Mothership Zeta and Invaders from Beyond, This mod adds a load of new workshop constructibles, 3 New weapons (3 uniques aswell), 1 new outfit, one new companion, two new enemy types as well as two new workshops.",
-          "FileID": 237046,
+          "Author": "HULKHOD3N x PR BF2 DevTeam",
+          "Description": "Changes almost all footstep sounds into more realistic ones. Including subtle gear and backpack rattle. *Snow Edition* available.",
+          "FileID": 156466,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60267/60267-1652004816-31784776.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35904/35904-1579241797-1924239260.jpeg",
           "IsNSFW": false,
-          "ModID": 60267,
-          "Name": "Project Zeta",
-          "Version": "1"
+          "ModID": 35904,
+          "Name": "Project Reality Footsteps FO4",
+          "Version": "1.7"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "o2jG4XKNLKI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47628\nfileID=215547",
-        "Name": "S.R.O. - Syringe Overhaul-47628-1-3-2-1629988522.zip",
-        "Size": 189208474,
+        "Hash": "0yQHHuNvdzw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40220\nfileID=162727",
+        "Name": "Real Water HD for ENB-40220-1-2-1563978432.rar",
+        "Size": 32717842,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lKocMoHaBTl",
-          "Description": "Visual and gameplay overhaul for vanilla Syringer. New look, new modifications, new syringes, more science. From a pure abomination to a elegant piece of metal.",
-          "FileID": 215547,
+          "Author": "luxor8071",
+          "Description": "HD Textures for the Water with Alpha Channel Heightmap. This Version is for ENB Users only. ba2 Archive. esl plugin.",
+          "FileID": 162727,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47628/47628-1601252523-935409250.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40220/40220-1563968506-167571328.jpeg",
           "IsNSFW": false,
-          "ModID": 47628,
-          "Name": "S.R.O. - Syringer Overhaul",
-          "Version": "1.3.2"
+          "ModID": 40220,
+          "Name": "Real Water HD for ENB",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6I6cEAjXoQY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75577\nfileID=292469",
-        "Name": "Shield Expansion-75577-1-0-1698094336.zip",
-        "Size": 103334755,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeadlyStr1ke",
-          "Description": "Shield Expansion is an addon mod for Shield Integration Project, bringing 1 new shield, 40\u002B paint jobs, dynamic naming system and other small tweaks to the existing SIP shields.",
-          "FileID": 292469,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75577/75577-1698092645-86082939.jpeg",
-          "IsNSFW": false,
-          "ModID": 75577,
-          "Name": "Shield Expansion - SIP Addon",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J+bDfNsv1jQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72925\nfileID=289642",
-        "Name": "SuperAlloys - Enhancement - Cubemap-72925-1-0-1694714565.7z",
-        "Size": 756808,
+        "Hash": "9/OkXVAu8VM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72925\nfileID=289646",
+        "Name": "SuperAlloys - Cohesion - 2K-72925-1-0-1694716556.7z",
+        "Size": 1483537522,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Emerald Reign",
           "Description": "A modular collection of enhancements for Power Armor, including updated and improved textures, tweaked meshes and additional materials.",
-          "FileID": 289642,
+          "FileID": 289646,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72925/72925-1690802838-1115666825.jpeg",
           "IsNSFW": false,
@@ -567,105 +723,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yGCt0j6q7Co=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62958\nfileID=357162",
-        "Name": "Targeted Textures-62958-2-5-1748113550.7z",
-        "Size": 1741916299,
+        "Hash": "EpoB7lQ93Dc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19246\nfileID=111630",
+        "Name": "The Laser Cannon - 1.2.1-19246-1-2-1.zip",
+        "Size": 11267278,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Fixes numerous texture sizing, coloration and specular errors, with the help of AI upscaling and other sources from around the Nexus.",
-          "FileID": 357162,
+          "Author": "MikeMoore",
+          "Description": "The Laser Cannon is a shoulder mounted heavy laser weapon meant to fill the void that is \u0027useful laser weapons other than the rifle\u0027\r\n\n\r\n\nThis weapon basically serves as an energy version of the rocket launcher, and is used exclusively by gunners. It does a pile of damage, but is slow to fire, and consumed fusion core charges when f",
+          "FileID": 111630,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62958/62958-1659732238-1592009786.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19246-0-1476431992.jpg",
           "IsNSFW": false,
-          "ModID": 62958,
-          "Name": "Targeted Textures - Vanilla textures upscaled fixed and sized",
-          "Version": "2.2"
+          "ModID": 19246,
+          "Name": "The Laser Cannon - No it\u0027s not a Spartan Laser or a Tesla Cannon",
+          "Version": "1.2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Y2OwxnMbP1U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4472\nfileID=351138",
-        "Name": "True Storms FO4-4472-1-4-3-1742263772.rar",
-        "Size": 42785175,
+        "Hash": "/E/jsef0OxE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65541\nfileID=258791",
+        "Name": "True Storms - MCM Settings Menu-65541-1-4-1-r4-1669872660.rar",
+        "Size": 428710,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fadingsignal",
-          "Description": "One of the highest ranked Skyrim mods comes to Fallout 4 with even more features than ever!  True Storms: Wasteland Edition is a complete overhaul to the storm systems in Fallout 4. Heavy rains, dust storms, radiation rains.  New unique weathers, sound effects, particle effects, textures and more including configurable ghoul hordes during radstorms",
-          "FileID": 351138,
+          "Author": "m8r98a4f2",
+          "Description": "MCM Settings Menu for True Storms by fadingsignal",
+          "FileID": 258791,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4472-2-1467304977.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65541/65541-1666973268-1287933982.png",
           "IsNSFW": false,
-          "ModID": 4472,
-          "Name": "True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)",
-          "Version": "1.4.2"
+          "ModID": 65541,
+          "Name": "True Storms - MCM Settings Menu with Hotkeys",
+          "Version": "1.4.1-r4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Mts5eXSoWUg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=36519\nfileID=181578",
-        "Name": "VAFS Redux-36519-1-4-2-1589120985.zip",
-        "Size": 2616024,
+        "Hash": "Hs+0rslLX2M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=352275",
+        "Name": "Who\u0027s The General-59019-1-12-1743287203.zip",
+        "Size": 290631,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Itzal713",
-          "Description": "Replace VATS with bullet time. Manualy use critical outside of VATS.",
-          "FileID": 181578,
+          "Author": "Glitchfinder",
+          "Description": "A mod for players who dislike being asked to report back to Preston Garvey.",
+          "FileID": 352275,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36519/36519-1545507699-1496339759.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59019/59019-1650834121-1822255204.png",
           "IsNSFW": false,
-          "ModID": 36519,
-          "Name": "VAFS Redux - Bullet Time and Manual Critical",
-          "Version": "1.4.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6DkbAujfOzk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=86384\nfileID=331421",
-        "Name": "America Rising 2 FaceGen-86384-2-0-0-1724481620.7z",
-        "Size": 759331392,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wxMichael",
-          "Description": "Glue those heads back on for X-Cell! A collection of FaceGen packs for your mods, and taking requests for more!",
-          "FileID": 331421,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86384/86384-1722735650-585732127.png",
-          "IsNSFW": false,
-          "ModID": 86384,
-          "Name": "Wasteland Wonderglue - FaceGen Edition",
-          "Version": "2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4MtKmUe80uQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53927\nfileID=215298",
-        "Name": "ODW - Winchester Model 1873-53927-I-1-1629652719.zip",
-        "Size": 123175814,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Oh Deer and Subleader",
-          "Description": "Get your cowboy boots on.",
-          "FileID": 215298,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53927/53927-1629632486-1109972241.png",
-          "IsNSFW": false,
-          "ModID": 53927,
-          "Name": "Winchester Model 1873 - Lever Action Rifle",
-          "Version": "I.6"
+          "ModID": 59019,
+          "Name": "Who\u0027s The General - Minutemen Quest Cleanup",
+          "Version": "1.05"
         }
       }
     },
@@ -735,32 +849,48 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tyLRjoIIfxU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
-        "Name": "Data_DLCNukaWorld - Textures.ba2",
-        "Size": 2348553100,
+        "Hash": "enQfKf4uPUM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Geometry.csg",
+        "Name": "Data_DLCNukaWorld - Geometry.csg",
+        "Size": 104296054,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+          "GameFile": "Data\\DLCNukaWorld - Geometry.csg",
           "GameVersion": "1.10.984.0",
-          "Hash": "tyLRjoIIfxU="
+          "Hash": "enQfKf4uPUM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cOE0AgYtiZk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Animations.ba2",
-        "Name": "Data_Fallout4 - Animations.ba2",
-        "Size": 359787743,
+        "Hash": "6kSvV9UAFjA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.cdx",
+        "Name": "Data_DLCworkshop03.cdx",
+        "Size": 696408,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Animations.ba2",
+          "GameFile": "Data\\DLCworkshop03.cdx",
           "GameVersion": "1.10.984.0",
-          "Hash": "cOE0AgYtiZk="
+          "Hash": "6kSvV9UAFjA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "np4wH3me9OI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.esm",
+        "Name": "Data_Fallout4.esm",
+        "Size": 330777465,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4.esm",
+          "GameVersion": "1.10.984.0",
+          "Hash": "np4wH3me9OI="
         }
       }
     },
@@ -780,21 +910,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T1c+e5sBhuc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=80043\nfileID=309070",
-        "Name": "Dynamic Body Weight-80043-1-0-1-1712249438.zip",
-        "Size": 76114,
+        "Hash": "jsg/vmxm0rc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=14598\nfileID=64512",
+        "Name": "DefenseGunV1.1-14598-1-1.7z",
+        "Size": 27836258,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "Implements dynamic body weight in the style of Red Dead Redemption 2. Your character now changes weight and muscle mass in-game, depending on your actions. Highly configurable, and features an entire script library for modders.",
-          "FileID": 309070,
+          "Author": "Yona",
+          "Description": "",
+          "FileID": 64512,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80043/80043-1711935435-1927892993.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/14598-0-1467941339.jpg",
           "IsNSFW": false,
-          "ModID": 80043,
-          "Name": "Dynamic Body Weight",
-          "Version": "1.0.1"
+          "ModID": 14598,
+          "Name": "DefenseGun",
+          "Version": "1.1"
         }
       }
     },
@@ -843,42 +973,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fEszeM/smbU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23258\nfileID=97792",
-        "Name": "Mosin Nagant - Sniper Rifle - Script Reload v1.2-23258-1-2.rar",
-        "Size": 68629773,
+        "Hash": "CD2vFu7bc4c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50679\nfileID=205385",
+        "Name": "modofonto-fonts-v3-50679-3-1617841983.zip",
+        "Size": 853770,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FX0x01 - WarDaddy - Navaro - shavkacagarikia - Covadonga - and other",
-          "Description": "This mod adds a Mosin Nagant into Fallout 4. It features Custom animations and Sounds. Its also highly customizable.",
-          "FileID": 97792,
+          "Author": "lizin5ths",
+          "Description": "Replace the vanilla fonts with Monofonto and Fixedsys as seen in Fallout 3 and New Vegas.",
+          "FileID": 205385,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23258-0-1491241950.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50679/50679-1615392978-1110237565.png",
           "IsNSFW": false,
-          "ModID": 23258,
-          "Name": "Mosin Nagant - Sniper Rifle",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G6YTBBle0PQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=86222\nfileID=348757",
-        "Name": "Papyrus Common Library-86222-1-6-1-1740345497.7z",
-        "Size": 8561355,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SoleVaultBoy",
-          "Description": "Provides a common set of tools to be used with Papyrus. Includes temporary global variables, 2D-arrays, maps, extensive file management, console interaction and more.",
-          "FileID": 348757,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86222/86222-1722277185-375493055.png",
-          "IsNSFW": false,
-          "ModID": 86222,
-          "Name": "Papyrus Common Library",
-          "Version": "1.2.0"
+          "ModID": 50679,
+          "Name": "Modofonto - Classic Fallout 3 and New Vegas Fonts (Monofonto and Fixedsys Font Replacer)",
+          "Version": "3"
         }
       }
     },
@@ -927,6 +1036,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Mts5eXSoWUg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36519\nfileID=181578",
+        "Name": "VAFS Redux-36519-1-4-2-1589120985.zip",
+        "Size": 2616024,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Itzal713",
+          "Description": "Replace VATS with bullet time. Manualy use critical outside of VATS.",
+          "FileID": 181578,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36519/36519-1545507699-1496339759.jpeg",
+          "IsNSFW": false,
+          "ModID": 36519,
+          "Name": "VAFS Redux - Bullet Time and Manual Critical",
+          "Version": "1.4.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "21h4TOKduN0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
         "Name": "f4se_0_06_23.7z",
@@ -948,22 +1078,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+ZhbHNdji0g=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\AGILITY.bk2",
-        "Name": "Data_Video_AGILITY.bk2",
-        "Size": 381902820,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\AGILITY.bk2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "+ZhbHNdji0g="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "/WSGCjqqDec=",
         "Meta": "[General]\ngameName=fallout4\nmodID=2737\nfileID=312782",
         "Name": "FO4Edit 4.1.5f-2737-4-1-5f-1714279051.7z",
@@ -979,48 +1093,6 @@
           "ModID": 2737,
           "Name": "FO4Edit",
           "Version": "4.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G+vM9JQ8SjQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=81587\nfileID=338056",
-        "Name": "Anti Power Armor Rifle-81587-1-0-7-1729998719.zip",
-        "Size": 115785582,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DegenerateDak and CSEP",
-          "Description": "Nice power armor, counter point: 20mm sniper rifle.",
-          "FileID": 338056,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81587/81587-1714161100-739787202.png",
-          "IsNSFW": false,
-          "ModID": 81587,
-          "Name": "20mm Anti Power Armor Rifle (PTRD-41) - Commonwealth Weaponry Expansion",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cro2eWV39uo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=316412",
-        "Name": "Address Library - All In One-47327-AIO-1715667241.zip",
-        "Size": 42786126,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
-          "FileID": 316412,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
-          "IsNSFW": false,
-          "ModID": 47327,
-          "Name": "Address Library for F4SE Plugins",
-          "Version": "1.10.163.0"
         }
       }
     },
@@ -1111,21 +1183,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hX0eAq03RcY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46101\nfileID=242541",
-        "Name": "Classic Holstered Weapons - v1.06b-46101-1-06b-1657039902.zip",
-        "Size": 253082,
+        "Hash": "7jz+H+Aqokc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=87594\nfileID=353602",
+        "Name": "Capital Brotherhood - FO3 Version-87594-V2-1744539212.7z",
+        "Size": 10906817,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shavkacagarikia",
-          "Description": "Finally, a proper engine-level system for showing holstered weapons on characters, with various customization options.",
-          "FileID": 242541,
+          "Author": "DraugrOfRagnarok MikeMoore GrilledTurkey realNevar",
+          "Description": "This comprehensive mod reimagines the Brotherhood of Steel in Fallout 4, offering a more authentic Fallout 3 experience. The mod replaces the T-60 power armor with the iconic T-45, featuring a unique paint job inspired by Fallout 3.",
+          "FileID": 353602,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46101/46101-1594217479-1210733348.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/87594/87594-1726152254-187016377.png",
           "IsNSFW": false,
-          "ModID": 46101,
-          "Name": "Classic Holstered Weapons System (CHW)",
-          "Version": "1.06b"
+          "ModID": 87594,
+          "Name": "Classic FO3 Style Brotherhood Overhaul",
+          "Version": "1"
         }
       }
     },
@@ -1174,42 +1246,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "enqAqQaloPk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=79662\nfileID=332048",
-        "Name": "Enemies Fear Power Armor-79662-3-0-0-1724907357.zip",
-        "Size": 8359,
+        "Hash": "T1c+e5sBhuc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=80043\nfileID=309070",
+        "Name": "Dynamic Body Weight-80043-1-0-1-1712249438.zip",
+        "Size": 76114,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "bp42s",
-          "Description": "Finally, enemies actually notice and fear you while you\u0027re wearing power armor!",
-          "FileID": 332048,
+          "Description": "Implements dynamic body weight in the style of Red Dead Redemption 2. Your character now changes weight and muscle mass in-game, depending on your actions. Highly configurable, and features an entire script library for modders.",
+          "FileID": 309070,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79662/79662-1710537145-2004559078.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80043/80043-1711935435-1927892993.png",
           "IsNSFW": false,
-          "ModID": 79662,
-          "Name": "Enemies Fear Power Armor",
-          "Version": "2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "alzviRIzEAA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=212\nfileID=54175",
-        "Name": "EBT_Basic v101-212-1-01.7z",
-        "Size": 143296254,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dDefinder",
-          "Description": "High-resolution blood decals that complement the violence level of the Fallout series",
-          "FileID": 54175,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/212-0-1451356951.png",
-          "IsNSFW": true,
-          "ModID": 212,
-          "Name": "Enhanced Blood Textures",
-          "Version": "1.01"
+          "ModID": 80043,
+          "Name": "Dynamic Body Weight",
+          "Version": "1.0.1"
         }
       }
     },
@@ -1237,6 +1288,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Wq9MDHJma3Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49300\nfileID=255499",
+        "Name": "FallUI - Workbench-49300-1-4-1-r2-1667395902.rar",
+        "Size": 962776,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Better workbench interface optimized for PC. Bigger display size. Data columns. Comparision columns for mods. Item icon tag support. Icon menu for choosing your icon tag. Item subtitles. Autobuilding modules with zero cost. All languages included.",
+          "FileID": 255499,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49300/49300-1610042654-1439715988.png",
+          "IsNSFW": false,
+          "ModID": 49300,
+          "Name": "FallUI - Workbench",
+          "Version": "1.4.1-r2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b4r4SakW51c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=91832\nfileID=349028",
+        "Name": "dp stimpak_healthdis 1k esl-91832-1-1740615470.rar",
+        "Size": 9212629,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "newly created models for fallout 4, an HD stimpak,  and a returning item from Fallout 3, a health dispenser. in 4k, 2k and 1k texture sizes.",
+          "FileID": 349028,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91832/91832-1740611303-67550608.jpeg",
+          "IsNSFW": false,
+          "ModID": 91832,
+          "Name": "HD Chems Project_Stimpaks and Health Dispensers",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Iis71zpJ6I4=",
         "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=237603",
         "Name": "HD LOD Textures-56138-1-1-1652529794.7z",
@@ -1246,27 +1339,6 @@
           "Author": "Phlunder",
           "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
           "FileID": 237603,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
-          "IsNSFW": false,
-          "ModID": 56138,
-          "Name": "HD LOD Textures",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EyXPOsfnXnk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=223112",
-        "Name": "LOD Terrain Noise and Detail Normals-56138-1-0-1638704425.7z",
-        "Size": 1233829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phlunder",
-          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
-          "FileID": 223112,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
           "IsNSFW": false,
@@ -1357,6 +1429,27 @@
           "ModID": 89337,
           "Name": "New Vegas Skill System - A 2024 Merry Modding Days Mod",
           "Version": "1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G6YTBBle0PQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=86222\nfileID=348757",
+        "Name": "Papyrus Common Library-86222-1-6-1-1740345497.7z",
+        "Size": 8561355,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Provides a common set of tools to be used with Papyrus. Includes temporary global variables, 2D-arrays, maps, extensive file management, console interaction and more.",
+          "FileID": 348757,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86222/86222-1722277185-375493055.png",
+          "IsNSFW": false,
+          "ModID": 86222,
+          "Name": "Papyrus Common Library",
+          "Version": "1.2.0"
         }
       }
     },
@@ -1510,21 +1603,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BSs0GP271Pk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75184\nfileID=291160",
-        "Name": "Bastion - A Power Armor Overhaul-75184-1-0-0-1696620444.zip",
-        "Size": 125845,
+        "Hash": "kxDVAIxOyiM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=284106",
+        "Name": "Buffout 4-47359-1-28-6-1690000405.zip",
+        "Size": 1238510,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Power Armor is now able to absorb and prevent damage. Each armor part will work individually and absorb the damage of the body part it covers. Once the armor parts start to break, you can take damage on the body part that got exposed. Some weapons are also able to penetrate armor and deal damage to the wearer.",
-          "FileID": 291160,
+          "Author": "Ryan",
+          "Description": "It\u0027s like buffout but for the engine",
+          "FileID": 284106,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75184/75184-1696617033-1327818253.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
           "IsNSFW": false,
-          "ModID": 75184,
-          "Name": "Bastion - A Power Armor Overhaul",
-          "Version": "1.0.0"
+          "ModID": 47359,
+          "Name": "Buffout 4",
+          "Version": "1.28.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vHwVw5v/OYc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=94181\nfileID=358336",
+        "Name": "(ASMR) Another Super Mutant Retexture-94181-1-0-1749345409.rar",
+        "Size": 101725313,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MT4L",
+          "Description": "I was tired of seeing the weird green color on the mutants of Fallout 4, and the other super mutant mods that add in DC mutants also added in things like nightkin, and I wasn\u0027t interested in that. So I spent a little time altering these textures from",
+          "FileID": 358336,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/94181/94181-1748902728-2027523236.png",
+          "IsNSFW": false,
+          "ModID": 94181,
+          "Name": "(ASMR) Another Super Mutant Retexture",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S4ebZM/KjwY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43627\nfileID=315807",
+        "Name": "1_BakaFramework-43627-2-0-1-1715443149.7z",
+        "Size": 200800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shad0wshayd3",
+          "Description": "A small plugin that exposes some new data to other mods, and fixes a few bugs.",
+          "FileID": 315807,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43627/43627-1602315760-410850224.png",
+          "IsNSFW": false,
+          "ModID": 43627,
+          "Name": "Baka Framework",
+          "Version": "1.10.0"
         }
       }
     },
@@ -1594,27 +1729,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P02Lp4ab2ZY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57344\nfileID=226818",
-        "Name": "Classic Frags Replacer Standalone-57344-1-0-1642297914.rar",
-        "Size": 18301843,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zanthir",
-          "Description": "This mod adds Fallout 3 style Frag Grenades and Mines to Fallout 4. Available as either a replacer or as separate weapons.\n\nOptionally includes Demolition Charges and Holy Frag Grenades from Fallout: New Vegas.",
-          "FileID": 226818,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57344/57344-1642360177-1718900253.png",
-          "IsNSFW": false,
-          "ModID": 57344,
-          "Name": "Classic Frag Grenades and Mines",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Dv3eBHgkQ/g=",
         "Meta": "[General]\ngameName=fallout4\nmodID=10484\nfileID=59787",
         "Name": "Crossbows of the Commonwealth 1.4-10484-1-4.7z",
@@ -1657,42 +1771,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jsg/vmxm0rc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=14598\nfileID=64512",
-        "Name": "DefenseGunV1.1-14598-1-1.7z",
-        "Size": 27836258,
+        "Hash": "t+IwEjD0Vw4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47011\nfileID=190794",
+        "Name": "CROSS_VertibirdFlightsuit_091-47011-091-1599428008.zip",
+        "Size": 137061123,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Yona",
-          "Description": "",
-          "FileID": 64512,
+          "Author": "Niero",
+          "Description": ".",
+          "FileID": 190794,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/14598-0-1467941339.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47011/47011-1598834457-1113071572.png",
           "IsNSFW": false,
-          "ModID": 14598,
-          "Name": "DefenseGun",
-          "Version": "1.1"
+          "ModID": 47011,
+          "Name": "CROSS_VertibirdFlightsuit",
+          "Version": "091"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cUvwlnWizZE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=15909\nfileID=89032",
-        "Name": "DKS-501 Sniper Rifle 1.5-15909-1-5.7z",
-        "Size": 89550935,
+        "Hash": "BfeJTatTP0U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13596\nfileID=126232",
+        "Name": "Enhanced Lights and FX-13596-1-0.7z",
+        "Size": 5637246,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LtCommander",
-          "Description": "The iconic long range weapon of the Fallout Series makes its return as a fully moddable gun in the Commonwealth!",
-          "FileID": 89032,
+          "Author": "Anamorfus",
+          "Description": "Enhanced Lights and FX has the goal to create a more atmospheric and realistic lighting. It overhauls the lights, effects, ambient light and creates a new mood for interiors.",
+          "FileID": 126232,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15909-0-1475346348.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13596-0-1485726444.jpg",
           "IsNSFW": false,
-          "ModID": 15909,
-          "Name": "DKS-501 Sniper Rifle - Standalone",
-          "Version": "1.5"
+          "ModID": 13596,
+          "Name": "Enhanced Lights and FX",
+          "Version": "1.0"
         }
       }
     },
@@ -1804,27 +1918,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Wq9MDHJma3Q=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49300\nfileID=255499",
-        "Name": "FallUI - Workbench-49300-1-4-1-r2-1667395902.rar",
-        "Size": 962776,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Better workbench interface optimized for PC. Bigger display size. Data columns. Comparision columns for mods. Item icon tag support. Icon menu for choosing your icon tag. Item subtitles. Autobuilding modules with zero cost. All languages included.",
-          "FileID": 255499,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49300/49300-1610042654-1439715988.png",
-          "IsNSFW": false,
-          "ModID": 49300,
-          "Name": "FallUI - Workbench",
-          "Version": "1.4.1-r2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "RTSBzyli8Cw=",
         "Meta": "[General]\ngameName=fallout4\nmodID=31662\nfileID=129176",
         "Name": "FO3 First Aid Kit - All DLCs-31662-1-0.rar",
@@ -1930,63 +2023,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b4r4SakW51c=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=91832\nfileID=349028",
-        "Name": "dp stimpak_healthdis 1k esl-91832-1-1740615470.rar",
-        "Size": 9212629,
+        "Hash": "gUoCEXNIP4A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=79843\nfileID=307632",
+        "Name": "Infiltrator - Lockpicking Overhaul-79843-2-0-0-1711148499.zip",
+        "Size": 7404,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "newly created models for fallout 4, an HD stimpak,  and a returning item from Fallout 3, a health dispenser. in 4k, 2k and 1k texture sizes.",
-          "FileID": 349028,
+          "Author": "bp42s",
+          "Description": "An in-depth lockpicking expansion that features new ways to deal with locks, including lock bashing, shooting, and the return of the \u0022Force Lock\u0022 system from Fallout 3 and Fallout New Vegas,. All options come with consequences and rewards.",
+          "FileID": 307632,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91832/91832-1740611303-67550608.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79843/79843-1711141458-1795523067.png",
           "IsNSFW": false,
-          "ModID": 91832,
-          "Name": "HD Chems Project_Stimpaks and Health Dispensers",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lS4gJzRTdPc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=66762\nfileID=259546",
-        "Name": "JOURNEY - Survival Settlement Fast travel - MCM Settings Menu-66762-1-6-1-1670434825.rar",
-        "Size": 118213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Full featured MCM Settings Menu for JOURNEY by Maduin81. Configure your Journey with the comfort MCM can give you.",
-          "FileID": 259546,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66762/66762-1670434616-297880655.png",
-          "IsNSFW": false,
-          "ModID": 66762,
-          "Name": "JOURNEY - Survival Settlement Fast travel - MCM Settings Menu",
-          "Version": "1.6.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iBcOKgLQEwE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63914\nfileID=342777",
-        "Name": "LIF-63914-3-0-6-1734196143.7z",
-        "Size": 69914,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dank Rafft",
-          "Description": "This mod fixes bugs and inconsistencies within Leveled Item forms, standardises and extends some instances, and controls DLC item distribution. Comes with a configuration holotape and optional MCM.",
-          "FileID": 342777,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63914/63914-1690719216-316215506.jpeg",
-          "IsNSFW": false,
-          "ModID": 63914,
-          "Name": "Leveled Item Fixes (LIF)",
-          "Version": "2.4.0"
+          "ModID": 79843,
+          "Name": "Infiltrator - Lockpicking Overhaul",
+          "Version": "5.0.0"
         }
       }
     },
@@ -2014,21 +2065,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NoNEKlIKKSQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30509\nfileID=125114",
-        "Name": "Minutemen Takeover - Nuka World-30509-0-6.zip",
-        "Size": 133271,
+        "Hash": "fEszeM/smbU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23258\nfileID=97792",
+        "Name": "Mosin Nagant - Sniper Rifle - Script Reload v1.2-23258-1-2.rar",
+        "Size": 68629773,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hxhunter15",
-          "Description": "This mod makes the \u0022Open Season\u0022 quest more interesting by allowing you to invade Nuka-World with the minutemen",
-          "FileID": 125114,
+          "Author": "FX0x01 - WarDaddy - Navaro - shavkacagarikia - Covadonga - and other",
+          "Description": "This mod adds a Mosin Nagant into Fallout 4. It features Custom animations and Sounds. Its also highly customizable.",
+          "FileID": 97792,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30509/30509-1521522298-1216960341.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23258-0-1491241950.jpg",
           "IsNSFW": false,
-          "ModID": 30509,
-          "Name": "Minutemen Takeover - Nuka World",
-          "Version": "0.6"
+          "ModID": 23258,
+          "Name": "Mosin Nagant - Sniper Rifle",
+          "Version": "1.2"
         }
       }
     },
@@ -2056,21 +2107,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KZkALUuv7vY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=81827\nfileID=318989",
-        "Name": "Pip-Boy Glove Integration Patch-81827-1-0-0-1716678794.zip",
-        "Size": 3118,
+        "Hash": "/hFNzKZfG1w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=10840\nfileID=137624",
+        "Name": "Pip-Boy Flashlight v6 BETA 3.02-10840-v6b3-02.rar",
+        "Size": 1382563,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "Smoothly and immersively integrates QwibQwib\u0027s Pip-Boy Glove into Fallout 4.",
-          "FileID": 318989,
+          "Author": "AKcelsior",
+          "Description": "Turns your omnidirectional Pip-Boy light into a projectile beam!",
+          "FileID": 137624,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81827/81827-1716680084-1538425892.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10840-0-1457930276.jpg",
           "IsNSFW": false,
-          "ModID": 81827,
-          "Name": "Pip-Boy Glove Integration Patch",
-          "Version": "1.0.0"
+          "ModID": 10840,
+          "Name": "Pip-Boy Flashlight (Pipboy - Power Armor - Lamp Overhaul)",
+          "Version": "5.0.2"
         }
       }
     },
@@ -2113,6 +2164,27 @@
           "ModID": 68411,
           "Name": "Shield Framework",
           "Version": "v0.63"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FZv3UbQv89w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55419\nfileID=305956",
+        "Name": "SUP F4SE Plugin-55419-11-70-1709825241.rar",
+        "Size": 662448,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TommInfinite",
+          "Description": "F4SE plugin which adds new engine fixes, new permanent events and many functions for modders.",
+          "FileID": 305956,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55419/55419-1635702234-2013120660.gif",
+          "IsNSFW": false,
+          "ModID": 55419,
+          "Name": "SUP F4SE",
+          "Version": "11.30"
         }
       }
     },
@@ -2218,27 +2290,6 @@
           "ModID": 26025,
           "Name": "TheKite\u0027s MilitiaWoman Outfit",
           "Version": "91a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ArWkm36YLd8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56789\nfileID=297537",
-        "Name": "Uneducated Shooter-56789-1-11-1703353835.7z",
-        "Size": 167665,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bingle",
-          "Description": "A WIP F4SE plugin that adds Tarkov style inertia to the gun animation and leaning mechanism",
-          "FileID": 297537,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56789/56789-1640174635-1546871423.png",
-          "IsNSFW": false,
-          "ModID": 56789,
-          "Name": "Uneducated Shooter - QE Leaning and Gun Inertia",
-          "Version": "v0.93"
         }
       }
     },
@@ -2392,6 +2443,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "P02Lp4ab2ZY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57344\nfileID=226818",
+        "Name": "Classic Frags Replacer Standalone-57344-1-0-1642297914.rar",
+        "Size": 18301843,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zanthir",
+          "Description": "This mod adds Fallout 3 style Frag Grenades and Mines to Fallout 4. Available as either a replacer or as separate weapons.\n\nOptionally includes Demolition Charges and Holy Frag Grenades from Fallout: New Vegas.",
+          "FileID": 226818,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57344/57344-1642360177-1718900253.png",
+          "IsNSFW": false,
+          "ModID": 57344,
+          "Name": "Classic Frag Grenades and Mines",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "3inji7m0iTA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=57552\nfileID=227486",
         "Name": "Classic Pulse 1 - Replacer-57552-1-0-1642886178.rar",
@@ -2407,6 +2479,48 @@
           "ModID": 57552,
           "Name": "Classic Pulse Grenades and Mines",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Dlt/tok1ReA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40607\nfileID=164503",
+        "Name": "Classic Underwear Replacer - CBBE and BodySlide-40607-v1-0-1566003002.7z",
+        "Size": 34457997,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheFriedturkey",
+          "Description": "This is a simple underwear replacement for fallout 4 made for the Capital Wasteland project and due to demand i decided to release it.",
+          "FileID": 164503,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40607/40607-1565642119-472594933.jpeg",
+          "IsNSFW": false,
+          "ModID": 40607,
+          "Name": "Classic Underwear Replacer",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "am8tYuTQD/E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28009\nfileID=115702",
+        "Name": "CROSS_CourserStrigidae_090c.zip-28009-090c.zip",
+        "Size": 127792858,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Niero",
+          "Description": "",
+          "FileID": 115702,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28009/28009-1512176807-804938340.jpeg",
+          "IsNSFW": false,
+          "ModID": 28009,
+          "Name": "CROSS_Courser Strigidae",
+          "Version": "090c"
         }
       }
     },
@@ -2455,6 +2569,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "i7LtKe4/dFE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29687\nfileID=144676",
+        "Name": "Fallout 3 Holotape Replacer 1.3-29687-1-3-1540773029.zip",
+        "Size": 10199638,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RyceKaeks",
+          "Description": "This Mod Replaces the Fallout 4 Holotape with the Version found in Fallout 3/ Fallout NV.",
+          "FileID": 144676,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29687/29687-1540773422-1258788529.jpeg",
+          "IsNSFW": false,
+          "ModID": 29687,
+          "Name": "Fallout 3 Holotape",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "RBL3urempJc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=93682\nfileID=355954",
         "Name": "Fallout 4 Power Armor Audio Overhaul-93682-1-0-1746948467.zip",
@@ -2470,6 +2605,27 @@
           "ModID": 93682,
           "Name": "Fallout 4 Power Armor Audio Overhaul",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V7vLB6+D+MI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
+        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
+        "Size": 2375261,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
+          "FileID": 257220,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
+          "IsNSFW": false,
+          "ModID": 51813,
+          "Name": "FallUI - HUD",
+          "Version": "1.7.1"
         }
       }
     },
@@ -2497,6 +2653,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "enNHIb+amso=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=5013\nfileID=28827",
+        "Name": "All-in-One Pack-5013-0-6.zip",
+        "Size": 409414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cilbas",
+          "Description": "A HD lore-friendly retexture mod for all ghoul eyes. More versions to come!",
+          "FileID": 28827,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5013-0-1450563248.jpg",
+          "IsNSFW": false,
+          "ModID": 5013,
+          "Name": "Ghastly - Ghoul Eyes Texture",
+          "Version": "0.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "mR/NGzAM0Y4=",
         "Meta": "[General]\ngameName=fallout4\nmodID=92016\nfileID=352236",
         "Name": "Integrated Addons - GOG Edition-92016-1-04-1743262694.zip",
@@ -2512,27 +2689,6 @@
           "ModID": 92016,
           "Name": "Integrated Addons",
           "Version": "1.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lhIxwcL+NaQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=80425\nfileID=310870",
-        "Name": "KARMA - Fallout 3 Icons-80425-1-0-0-1713569376.zip",
-        "Size": 29496,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "Karma is back! Experience a fully fledged, integrated, and polished version of Fallout 3/New Vegas\u2019s Karma system, with custom-animated icons. Highly reactive, customizable, and includes extensive utility for modders.",
-          "FileID": 310870,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80425/80425-1712718136-1863821276.png",
-          "IsNSFW": false,
-          "ModID": 80425,
-          "Name": "KARMA",
-          "Version": "1.0.3"
         }
       }
     },
@@ -2581,21 +2737,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8FL8QdERw7s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
-        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
-        "Size": 138229,
+        "Hash": "z8+RHSSVvws=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=10669\nfileID=64228",
+        "Name": "The M2019 PKD Detective Special - That Gun-10669-2-0.7z",
+        "Size": 7872915,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
-          "FileID": 257096,
+          "Author": "DOOM",
+          "Description": "Adds the The M2019 PKD Detective Special to Fallout 4",
+          "FileID": 64228,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10669-6-1467800822.jpg",
           "IsNSFW": false,
-          "ModID": 56195,
-          "Name": "MCM Settings Manager",
-          "Version": "1.2"
+          "ModID": 10669,
+          "Name": "M2019 PKD Detective Special - That Gun",
+          "Version": "2.0"
         }
       }
     },
@@ -2749,27 +2905,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EpoB7lQ93Dc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=19246\nfileID=111630",
-        "Name": "The Laser Cannon - 1.2.1-19246-1-2-1.zip",
-        "Size": 11267278,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MikeMoore",
-          "Description": "The Laser Cannon is a shoulder mounted heavy laser weapon meant to fill the void that is \u0027useful laser weapons other than the rifle\u0027\r\n\n\r\n\nThis weapon basically serves as an energy version of the rocket launcher, and is used exclusively by gunners. It does a pile of damage, but is slow to fire, and consumed fusion core charges when f",
-          "FileID": 111630,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19246-0-1476431992.jpg",
-          "IsNSFW": false,
-          "ModID": 19246,
-          "Name": "The Laser Cannon - No it\u0027s not a Spartan Laser or a Tesla Cannon",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "i/RJ7q729/E=",
         "Meta": "[General]\ngameName=fallout4\nmodID=61897\nfileID=313132",
         "Name": "N99 Overhaul - Replacer-61897-1-7-1-1714436079.zip",
@@ -2848,6 +2983,27 @@
           "ModID": 72546,
           "Name": "Enhanced Vanilla Armor and Clothing - EVAC",
           "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Luh0XrnxmDA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66876\nfileID=260063",
+        "Name": "Intro Tweaks-66876-1-1670814000.zip",
+        "Size": 44237,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "elr0y7",
+          "Description": "Streamlined intro tweaks: removes intro video, makes fade in dark, removes sink/mirror sounds and visuals, etc.  Great for FROST users, widescreen users, and others.",
+          "FileID": 260063,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66876/66876-1670819711-1071451839.jpeg",
+          "IsNSFW": false,
+          "ModID": 66876,
+          "Name": "Intro Tweaks",
+          "Version": "1"
         }
       }
     },
@@ -3001,14 +3157,899 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QMwBa4Vdk50=",
-        "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/enbseries_fallout4_v0501.zip_ddb9a97e-45ba-4c80-824c-1fb4ed4a8dda",
-        "Name": "enbseries_fallout4_v0501.zip",
-        "Size": 3229730,
+        "Hash": "Fj7uPWpJZFg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45046\nfileID=181806",
+        "Name": "Ballistic Weave Unlocked-45046-1-0-1589417991.zip",
+        "Size": 550,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://build.wabbajack.org/authored_files/direct_link/enbseries_fallout4_v0501.zip_ddb9a97e-45ba-4c80-824c-1fb4ed4a8dda"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spirfox",
+          "Description": "A small mod that simply unlocks the Ballistic Weave without the need of the Railroad.",
+          "FileID": 181806,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45046/45046-1589417229-749640386.jpeg",
+          "IsNSFW": false,
+          "ModID": 45046,
+          "Name": "Ballistic Weave Unlocked",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p/pAbtyYs/o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68485\nfileID=266251",
+        "Name": "Capital Wasteland Rock-It Launcher 1 - Integrated-68485-1-1-1675554438.rar",
+        "Size": 39242727,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zanthir",
+          "Description": "This mod adds the Rock-It Launcher and Rock-It Launcher backpack from Fallout 3 to Fallout 4.",
+          "FileID": 266251,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68485/68485-1675470984-858666669.png",
+          "IsNSFW": false,
+          "ModID": 68485,
+          "Name": "Capital Wasteland Rock-It Launcher",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F5rEuOTKuj8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50944\nfileID=204383",
+        "Name": "Classic Combat Armor - Vanilla Replacer Patch-50944-0-2-1616515863.zip",
+        "Size": 3095,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NUKEDPEPSI",
+          "Description": "Replaces the vanilla combat armor with the mod \u0022Classic Combat Armor\u0022.",
+          "FileID": 204383,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50944/50944-1616443973-524883684.png",
+          "IsNSFW": false,
+          "ModID": 50944,
+          "Name": "Classic Combat Armor Vanilla Replacer Patch",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nv25zA+Vu0s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75439\nfileID=292896",
+        "Name": "Deadeye-75439-1-3-1-1698605291.zip",
+        "Size": 131238,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Deadeye is a headshot mod that lets you choose from different ways to take down your enemies. A quick one-shot kill or add some challenge with helmet protection, which protects both you and your foes. If that\u0027s not your style, you can opt for head destruction \u2013 you\u0027ll need to lower the enemy\u0027s head health to zero to deliver a devastating headshot",
+          "FileID": 292896,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75439/75439-1697627258-674787662.jpeg",
+          "IsNSFW": false,
+          "ModID": 75439,
+          "Name": "Deadeye",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7MryzZ475tc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65362\nfileID=265240",
+        "Name": "Fatigue-65362-1-3-0-1674898378.zip",
+        "Size": 6775,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Fatigue - ECR removes the the static aim behavior when using guns. Your character stats influence your gun handling and will improve it, the more you invest in it. The weight of your gun, now slowly drains your Action Points, while aiming and handling the recoil. The lower your Action Points fall, the wobble of your weapon will increase.",
+          "FileID": 265240,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65362/65362-1666518163-1233055423.png",
+          "IsNSFW": false,
+          "ModID": 65362,
+          "Name": "Fatigue - Enhanced Combat Realism",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HJhnIIwa1BU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=228169",
+        "Name": "Gunner Outfit Pack-43686-4-8-1643542537.rar",
+        "Size": 245853454,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Defalt - Mavmanzero",
+          "Description": "This adds 215 Gunner themed Outfits/Hats/Helmets/Masks (75 Outfits, 112 Hats/Helmets, 10 Masks, 11 Backpacks, 2 Goggles and 5 Standalone Kevlar armors) \u002B Gunner themed Paint Jobs for the T-45, T-51, T-60 and X-01 Power Armors to the game.",
+          "FileID": 228169,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43686/43686-1635470519-829274344.png",
+          "IsNSFW": false,
+          "ModID": 43686,
+          "Name": "Gunner Outfit Pack (STANDALONE)",
+          "Version": "4.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VnDcKsr3zIY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37559\nfileID=196963",
+        "Name": "HWL - LAER Laser Assisted Electrical Rifle-37559-2-0-1607893296.7z",
+        "Size": 763,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "flecked",
+          "Description": "Lasers will become laser bolts and glow bright to the color of the laser for the player and NPCs.",
+          "FileID": 196963,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37559/37559-1612123941-1917730240.jpeg",
+          "IsNSFW": false,
+          "ModID": 37559,
+          "Name": "Hollywood Laser Bolts",
+          "Version": "2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8FL8QdERw7s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
+        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
+        "Size": 138229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
+          "FileID": 257096,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
+          "IsNSFW": false,
+          "ModID": 56195,
+          "Name": "MCM Settings Manager",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6I6cEAjXoQY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75577\nfileID=292469",
+        "Name": "Shield Expansion-75577-1-0-1698094336.zip",
+        "Size": 103334755,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DeadlyStr1ke",
+          "Description": "Shield Expansion is an addon mod for Shield Integration Project, bringing 1 new shield, 40\u002B paint jobs, dynamic naming system and other small tweaks to the existing SIP shields.",
+          "FileID": 292469,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75577/75577-1698092645-86082939.jpeg",
+          "IsNSFW": false,
+          "ModID": 75577,
+          "Name": "Shield Expansion - SIP Addon",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ByPA6mHEcP8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122471",
+        "Name": "Depth of Field Effect ESP-29922-1-0.zip",
+        "Size": 877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deleted29017635",
+          "Description": "Overlay replacement for the standard aim through scope effect and reticles (Ballistic and plasma rifle scope only).",
+          "FileID": 122471,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29922/29922-1518907973-1172895636.png",
+          "IsNSFW": false,
+          "ModID": 29922,
+          "Name": "Sniper Scope Overlay And Reticles Replacement",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yGCt0j6q7Co=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62958\nfileID=357162",
+        "Name": "Targeted Textures-62958-2-5-1748113550.7z",
+        "Size": 1741916299,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Fixes numerous texture sizing, coloration and specular errors, with the help of AI upscaling and other sources from around the Nexus.",
+          "FileID": 357162,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62958/62958-1659732238-1592009786.jpeg",
+          "IsNSFW": false,
+          "ModID": 62958,
+          "Name": "Targeted Textures - Vanilla textures upscaled fixed and sized",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6DkbAujfOzk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=86384\nfileID=331421",
+        "Name": "America Rising 2 FaceGen-86384-2-0-0-1724481620.7z",
+        "Size": 759331392,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wxMichael",
+          "Description": "Glue those heads back on for X-Cell! A collection of FaceGen packs for your mods, and taking requests for more!",
+          "FileID": 331421,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86384/86384-1722735650-585732127.png",
+          "IsNSFW": false,
+          "ModID": 86384,
+          "Name": "Wasteland Wonderglue - FaceGen Edition",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yeYGRk7MRfk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Main.ba2",
+        "Name": "Data_DLCNukaWorld - Main.ba2",
+        "Size": 1488519533,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "yeYGRk7MRfk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tSG9pGxASuw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.esm",
+        "Name": "Data_DLCworkshop03.esm",
+        "Size": 2971385,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03.esm",
+          "GameVersion": "1.10.984.0",
+          "Hash": "tSG9pGxASuw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "El5tnha7HqI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56604\nfileID=225388",
+        "Name": "Actor Velocity Framework-56604-1-4-1641107577.7z",
+        "Size": 104842,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bingle",
+          "Description": "A papyrus script extender for modifying actor velocity.",
+          "FileID": 225388,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56604/56604-1639583920-489709810.gif",
+          "IsNSFW": false,
+          "ModID": 56604,
+          "Name": "Actor Velocity Framework",
+          "Version": "1.51"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CnokRHLReog=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=237865",
+        "Name": "LOD Fixes and Additions-56138-1-0-1652730587.7z",
+        "Size": 383213,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phlunder",
+          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
+          "FileID": 237865,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
+          "IsNSFW": false,
+          "ModID": 56138,
+          "Name": "HD LOD Textures",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HZaPk1jq7DI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42822\nfileID=173908",
+        "Name": "Stealth Suit - 1.2 - Gloves-42822-1-2-1578399925.7z",
+        "Size": 9570918,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Darkman NovaFinch",
+          "Description": "Recreation of the iconic Assassin and Stealth suit from the Fallout: New Vegas DLCs Dead Money and Old World Blues",
+          "FileID": 173908,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42822/42822-1578019255-1655817649.jpeg",
+          "IsNSFW": false,
+          "ModID": 42822,
+          "Name": "Stealth Suit - New Vegas",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ArWkm36YLd8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56789\nfileID=297537",
+        "Name": "Uneducated Shooter-56789-1-11-1703353835.7z",
+        "Size": 167665,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bingle",
+          "Description": "A WIP F4SE plugin that adds Tarkov style inertia to the gun animation and leaning mechanism",
+          "FileID": 297537,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56789/56789-1640174635-1546871423.png",
+          "IsNSFW": false,
+          "ModID": 56789,
+          "Name": "Uneducated Shooter - QE Leaning and Gun Inertia",
+          "Version": "v0.93"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lS4gJzRTdPc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66762\nfileID=259546",
+        "Name": "JOURNEY - Survival Settlement Fast travel - MCM Settings Menu-66762-1-6-1-1670434825.rar",
+        "Size": 118213,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Full featured MCM Settings Menu for JOURNEY by Maduin81. Configure your Journey with the comfort MCM can give you.",
+          "FileID": 259546,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66762/66762-1670434616-297880655.png",
+          "IsNSFW": false,
+          "ModID": 66762,
+          "Name": "JOURNEY - Survival Settlement Fast travel - MCM Settings Menu",
+          "Version": "1.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QMIHQScpX7E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56997\nfileID=225311",
+        "Name": "MCM Booster-56997-1-0-1641058633.rar",
+        "Size": 649135,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Reduces MCM loading time to nearly instant loading",
+          "FileID": 225311,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56997/56997-1641059008-1632666704.png",
+          "IsNSFW": false,
+          "ModID": 56997,
+          "Name": "MCM Booster",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AzU6diZiL+s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63168\nfileID=246453",
+        "Name": "Fallout 3 ENB-63168-1-0-1660281625.zip",
+        "Size": 268678,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "vOblivi0n",
+          "Description": "A personal edit of Mink555\u0027s Fallout 3 lighting ENB, I liked it well enough, but some of the effects weren\u0027t applied automatically. I added more of a fallout 3 green tinting to more values and made several other tweaks.",
+          "FileID": 246453,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63168/63168-1660281345-1684309234.png",
+          "IsNSFW": false,
+          "ModID": 63168,
+          "Name": "Classic Fallout 3 ENB",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OUa+wis/KSo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50007\nfileID=201225",
+        "Name": "CW Raiders-50007-1-1612995150.rar",
+        "Size": 194336985,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DogtoothCG - TheFriedturkey - HcGxGrill",
+          "Description": "The Raiders have teamed up with their Commonwealth counterparts to reak havoc in style... well psycho style anyway. They can be found spawning alongside any other raider and spawn with a brand new look!",
+          "FileID": 201225,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50007/50007-1612991768-1283311440.jpeg",
+          "IsNSFW": false,
+          "ModID": 50007,
+          "Name": "Capital Wasteland Raider Pack",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r52tdAryKzg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65671\nfileID=256455",
+        "Name": "Classic Power Armor Training-65671-1-3-1668023095.7z",
+        "Size": 26401621,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Varangian Studio",
+          "Description": "A small mod to bring back power armor training. You will no longer be able to use Power Armor right out of the Vault and will need to find trainers in the world to teach you. Little mod big changes.",
+          "FileID": 256455,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65671/65671-1667332389-1169462075.jpeg",
+          "IsNSFW": false,
+          "ModID": 65671,
+          "Name": "Classic Power Armor Training",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Iu49Q7Sipgw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=79543\nfileID=306450",
+        "Name": "Dogmeat Follow Behind-79543-1-1710147746.7z",
+        "Size": 585,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kraag",
+          "Description": "Makes Dogmeat travel behind you instead of out in front. Simple, lightweight and ESPFE.",
+          "FileID": 306450,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79543/79543-1710147791-723354028.png",
+          "IsNSFW": false,
+          "ModID": 79543,
+          "Name": "Dogmeat Follow Behind",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1Bb5tP+cQ7U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=242233",
+        "Name": "Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar",
+        "Size": 1033419,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Capital Wasteland Team",
+          "Description": "Fallout 4: Point Lookout is a fan recreation of Fallout 3\u0027s Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs.",
+          "FileID": 242233,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60330/60330-1652201203-280592258.jpeg",
+          "IsNSFW": false,
+          "ModID": 60330,
+          "Name": "Fallout 4 - Point Lookout",
+          "Version": "1.14"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i9/J2j3ftvA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=82574\nfileID=331257",
+        "Name": "No Rats-82574-1-0-0-1724378748.7z",
+        "Size": 28773,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Exoclyps",
+          "Description": "Patch for \u0022Forced Evolution - Super Mutant Addons\u0022 that comes in two part. ESLified master file and eXoPatch to apply some tweaks and buffs to the new Mutants. And no Psi-Mannequins.",
+          "FileID": 331257,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/82574/82574-1715434776-269459891.jpeg",
+          "IsNSFW": false,
+          "ModID": 82574,
+          "Name": "Forced Evolution - eXoPatch",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bV/elbAZHdQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30868\nfileID=150134",
+        "Name": "LAER 1.24 hotfix 1-30868-1-24hotfix1-1547570375.rar",
+        "Size": 140629197,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Rizzler - Wanaming0 - Ha_ru - Pie_Savvy - guicool - Vicyorus and friends",
+          "Description": "An Electrolaser-based weapon that gains bonus damage against Robots and Power Armor users, as well as the ability to shut down and/or paralyze enemies with critical attacks.",
+          "FileID": 150134,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30868/30868-1522810203-2097171619.png",
+          "IsNSFW": false,
+          "ModID": 30868,
+          "Name": "LAER (Laser Assisted Electrical Rifle)",
+          "Version": "1.24hotfix1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gjy9LcQqdxE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=34053\nfileID=138361",
+        "Name": "PollutedTrueStorms-34053-1-0.rar",
+        "Size": 13191,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Echelon117",
+          "Description": "This is a patch that merges Polluted Climate by Mandragorasprouts and the widely popular True Storms",
+          "FileID": 138361,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34053/34053-1534111897-1317126374.jpeg",
+          "IsNSFW": false,
+          "ModID": 34053,
+          "Name": "Polluted Climate TrueStorms Patch",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AVA5vx/tNQc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60267\nfileID=237046",
+        "Name": "Project Zeta-60267-1-1652014173.rar",
+        "Size": 351860131,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HcGxGrill - TheFriedturkey - Zanthir - MrColonelMustard",
+          "Description": "Project Zeta is a little project we have made based on Mothership Zeta and Invaders from Beyond, This mod adds a load of new workshop constructibles, 3 New weapons (3 uniques aswell), 1 new outfit, one new companion, two new enemy types as well as two new workshops.",
+          "FileID": 237046,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60267/60267-1652004816-31784776.jpeg",
+          "IsNSFW": false,
+          "ModID": 60267,
+          "Name": "Project Zeta",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o2jG4XKNLKI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47628\nfileID=215547",
+        "Name": "S.R.O. - Syringe Overhaul-47628-1-3-2-1629988522.zip",
+        "Size": 189208474,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lKocMoHaBTl",
+          "Description": "Visual and gameplay overhaul for vanilla Syringer. New look, new modifications, new syringes, more science. From a pure abomination to a elegant piece of metal.",
+          "FileID": 215547,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47628/47628-1601252523-935409250.png",
+          "IsNSFW": false,
+          "ModID": 47628,
+          "Name": "S.R.O. - Syringer Overhaul",
+          "Version": "1.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J+bDfNsv1jQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72925\nfileID=289642",
+        "Name": "SuperAlloys - Enhancement - Cubemap-72925-1-0-1694714565.7z",
+        "Size": 756808,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Emerald Reign",
+          "Description": "A modular collection of enhancements for Power Armor, including updated and improved textures, tweaked meshes and additional materials.",
+          "FileID": 289642,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72925/72925-1690802838-1115666825.jpeg",
+          "IsNSFW": false,
+          "ModID": 72925,
+          "Name": "SuperAlloys - Enhanced Power Armor Paints and 4k Textures",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y2OwxnMbP1U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4472\nfileID=351138",
+        "Name": "True Storms FO4-4472-1-4-3-1742263772.rar",
+        "Size": 42785175,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fadingsignal",
+          "Description": "One of the highest ranked Skyrim mods comes to Fallout 4 with even more features than ever!  True Storms: Wasteland Edition is a complete overhaul to the storm systems in Fallout 4. Heavy rains, dust storms, radiation rains.  New unique weathers, sound effects, particle effects, textures and more including configurable ghoul hordes during radstorms",
+          "FileID": 351138,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4472-2-1467304977.jpg",
+          "IsNSFW": false,
+          "ModID": 4472,
+          "Name": "True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)",
+          "Version": "1.4.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4MtKmUe80uQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53927\nfileID=215298",
+        "Name": "ODW - Winchester Model 1873-53927-I-1-1629652719.zip",
+        "Size": 123175814,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oh Deer and Subleader",
+          "Description": "Get your cowboy boots on.",
+          "FileID": 215298,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53927/53927-1629632486-1109972241.png",
+          "IsNSFW": false,
+          "ModID": 53927,
+          "Name": "Winchester Model 1873 - Lever Action Rifle",
+          "Version": "I.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tyLRjoIIfxU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
+        "Name": "Data_DLCNukaWorld - Textures.ba2",
+        "Size": 2348553100,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "tyLRjoIIfxU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cOE0AgYtiZk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Animations.ba2",
+        "Name": "Data_Fallout4 - Animations.ba2",
+        "Size": 359787743,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Animations.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "cOE0AgYtiZk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+ZhbHNdji0g=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\AGILITY.bk2",
+        "Name": "Data_Video_AGILITY.bk2",
+        "Size": 381902820,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\AGILITY.bk2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "+ZhbHNdji0g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cro2eWV39uo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=316412",
+        "Name": "Address Library - All In One-47327-AIO-1715667241.zip",
+        "Size": 42786126,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+          "FileID": 316412,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "IsNSFW": false,
+          "ModID": 47327,
+          "Name": "Address Library for F4SE Plugins",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hX0eAq03RcY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46101\nfileID=242541",
+        "Name": "Classic Holstered Weapons - v1.06b-46101-1-06b-1657039902.zip",
+        "Size": 253082,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shavkacagarikia",
+          "Description": "Finally, a proper engine-level system for showing holstered weapons on characters, with various customization options.",
+          "FileID": 242541,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46101/46101-1594217479-1210733348.png",
+          "IsNSFW": false,
+          "ModID": 46101,
+          "Name": "Classic Holstered Weapons System (CHW)",
+          "Version": "1.06b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "enqAqQaloPk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=79662\nfileID=332048",
+        "Name": "Enemies Fear Power Armor-79662-3-0-0-1724907357.zip",
+        "Size": 8359,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bp42s",
+          "Description": "Finally, enemies actually notice and fear you while you\u0027re wearing power armor!",
+          "FileID": 332048,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79662/79662-1710537145-2004559078.png",
+          "IsNSFW": false,
+          "ModID": 79662,
+          "Name": "Enemies Fear Power Armor",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EyXPOsfnXnk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=223112",
+        "Name": "LOD Terrain Noise and Detail Normals-56138-1-0-1638704425.7z",
+        "Size": 1233829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phlunder",
+          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
+          "FileID": 223112,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
+          "IsNSFW": false,
+          "ModID": 56138,
+          "Name": "HD LOD Textures",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BSs0GP271Pk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75184\nfileID=291160",
+        "Name": "Bastion - A Power Armor Overhaul-75184-1-0-0-1696620444.zip",
+        "Size": 125845,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Power Armor is now able to absorb and prevent damage. Each armor part will work individually and absorb the damage of the body part it covers. Once the armor parts start to break, you can take damage on the body part that got exposed. Some weapons are also able to penetrate armor and deal damage to the wearer.",
+          "FileID": 291160,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75184/75184-1696617033-1327818253.jpeg",
+          "IsNSFW": false,
+          "ModID": 75184,
+          "Name": "Bastion - A Power Armor Overhaul",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NoNEKlIKKSQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30509\nfileID=125114",
+        "Name": "Minutemen Takeover - Nuka World-30509-0-6.zip",
+        "Size": 133271,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hxhunter15",
+          "Description": "This mod makes the \u0022Open Season\u0022 quest more interesting by allowing you to invade Nuka-World with the minutemen",
+          "FileID": 125114,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30509/30509-1521522298-1216960341.jpeg",
+          "IsNSFW": false,
+          "ModID": 30509,
+          "Name": "Minutemen Takeover - Nuka World",
+          "Version": "0.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KZkALUuv7vY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81827\nfileID=318989",
+        "Name": "Pip-Boy Glove Integration Patch-81827-1-0-0-1716678794.zip",
+        "Size": 3118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bp42s",
+          "Description": "Smoothly and immersively integrates QwibQwib\u0027s Pip-Boy Glove into Fallout 4.",
+          "FileID": 318989,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81827/81827-1716680084-1538425892.png",
+          "IsNSFW": false,
+          "ModID": 81827,
+          "Name": "Pip-Boy Glove Integration Patch",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lhIxwcL+NaQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=80425\nfileID=310870",
+        "Name": "KARMA - Fallout 3 Icons-80425-1-0-0-1713569376.zip",
+        "Size": 29496,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bp42s",
+          "Description": "Karma is back! Experience a fully fledged, integrated, and polished version of Fallout 3/New Vegas\u2019s Karma system, with custom-animated icons. Highly reactive, customizable, and includes extensive utility for modders.",
+          "FileID": 310870,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80425/80425-1712718136-1863821276.png",
+          "IsNSFW": false,
+          "ModID": 80425,
+          "Name": "KARMA",
+          "Version": "1.0.3"
         }
       }
     },
@@ -3109,27 +4150,6 @@
           "ModID": 53485,
           "Name": "Classic Vertibird Replacer",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VaK3ClpVFqM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24981\nfileID=114863",
-        "Name": "Courser Crusher Version 1.2-24981-1-2.zip",
-        "Size": 86925685,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Trainwiz and Niero",
-          "Description": "An overhaul to coursers, giving them new abilities and behaviors, as well as restoring their cut weapon Institute bioweapon from the concept art!",
-          "FileID": 114863,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24981-0-1497892818.png",
-          "IsNSFW": false,
-          "ModID": 24981,
-          "Name": "Courser Crusher",
-          "Version": "1.2"
         }
       }
     },
@@ -3336,27 +4356,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FZv3UbQv89w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55419\nfileID=305956",
-        "Name": "SUP F4SE Plugin-55419-11-70-1709825241.rar",
-        "Size": 662448,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TommInfinite",
-          "Description": "F4SE plugin which adds new engine fixes, new permanent events and many functions for modders.",
-          "FileID": 305956,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55419/55419-1635702234-2013120660.gif",
-          "IsNSFW": false,
-          "ModID": 55419,
-          "Name": "SUP F4SE",
-          "Version": "11.30"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "VapF64VPYtk=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\CHARISMA.bk2",
         "Name": "Data_Video_CHARISMA.bk2",
@@ -3388,27 +4387,6 @@
           "ModID": 64426,
           "Name": "Remove Ammo from Dropped Guns",
           "Version": "1.0.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HZaPk1jq7DI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42822\nfileID=173908",
-        "Name": "Stealth Suit - 1.2 - Gloves-42822-1-2-1578399925.7z",
-        "Size": 9570918,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Darkman NovaFinch",
-          "Description": "Recreation of the iconic Assassin and Stealth suit from the Fallout: New Vegas DLCs Dead Money and Old World Blues",
-          "FileID": 173908,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42822/42822-1578019255-1655817649.jpeg",
-          "IsNSFW": false,
-          "ModID": 42822,
-          "Name": "Stealth Suit - New Vegas",
-          "Version": "1.2"
         }
       }
     },
@@ -3451,27 +4429,6 @@
           "ModID": 61080,
           "Name": "Fourville - eXoPatch",
           "Version": "1.5.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LwwDi7nTGus=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33774\nfileID=142592",
-        "Name": "Polluted Climate 1.08-33774-1-08.zip",
-        "Size": 10637525,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mandragorasprouts",
-          "Description": "I find fallout 4 overly vibrant and colorful for post apocalyptic world,  climate must be harsh and unforgiving , so I tweaked weathers a bit.\n\nNothing too fancy, it\u0027s just subtle visual overhaul to give fo4 same desolate look  that older fallout games had.",
-          "FileID": 142592,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33774/33774-1536181104-1885317588.png",
-          "IsNSFW": false,
-          "ModID": 33774,
-          "Name": "Polluted Climate",
-          "Version": "1.08"
         }
       }
     },
@@ -3941,48 +4898,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "z8+RHSSVvws=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=10669\nfileID=64228",
-        "Name": "The M2019 PKD Detective Special - That Gun-10669-2-0.7z",
-        "Size": 7872915,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DOOM",
-          "Description": "Adds the The M2019 PKD Detective Special to Fallout 4",
-          "FileID": 64228,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10669-6-1467800822.jpg",
-          "IsNSFW": false,
-          "ModID": 10669,
-          "Name": "M2019 PKD Detective Special - That Gun",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/E/jsef0OxE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65541\nfileID=258791",
-        "Name": "True Storms - MCM Settings Menu-65541-1-4-1-r4-1669872660.rar",
-        "Size": 428710,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "MCM Settings Menu for True Storms by fadingsignal",
-          "FileID": 258791,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65541/65541-1666973268-1287933982.png",
-          "IsNSFW": false,
-          "ModID": 65541,
-          "Name": "True Storms - MCM Settings Menu with Hotkeys",
-          "Version": "1.4.1-r4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6b4N8ns0Rw4=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=High.ini",
         "Name": "High.ini",
@@ -4320,27 +5235,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I7oSXHWwZG0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=76284\nfileID=308302",
-        "Name": "America Rising 2 - New Enclave Gas Mask-76284-1-2-1711676895.7z",
-        "Size": 15510331,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LittleWindow",
-          "Description": "Adds a new gas mask to be used by Enclave personnel.\n\n\n\nHas a replacer and a 50/50 spawn rate version.",
-          "FileID": 308302,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76284/76284-1711677199-949598707.png",
-          "IsNSFW": false,
-          "ModID": 76284,
-          "Name": "America Rising 2 - New Enclave Gas Mask",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "YZyd+RPgY64=",
         "Meta": "[General]\ngameName=fallout4\nmodID=39018\nfileID=158157",
         "Name": "Main-39018-1-1558224135.zip",
@@ -4398,27 +5292,6 @@
           "ModID": 76755,
           "Name": "Improved Minutemen",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CnokRHLReog=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56138\nfileID=237865",
-        "Name": "LOD Fixes and Additions-56138-1-0-1652730587.7z",
-        "Size": 383213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phlunder",
-          "Description": "Vanilla-friendly retexture of all object LOD resources in the base game and DLCs.",
-          "FileID": 237865,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56138/56138-1638310686-1959059955.png",
-          "IsNSFW": false,
-          "ModID": 56138,
-          "Name": "HD LOD Textures",
-          "Version": "1.1"
         }
       }
     },
@@ -4667,27 +5540,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "El5tnha7HqI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56604\nfileID=225388",
-        "Name": "Actor Velocity Framework-56604-1-4-1641107577.7z",
-        "Size": 104842,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bingle",
-          "Description": "A papyrus script extender for modifying actor velocity.",
-          "FileID": 225388,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56604/56604-1639583920-489709810.gif",
-          "IsNSFW": false,
-          "ModID": 56604,
-          "Name": "Actor Velocity Framework",
-          "Version": "1.51"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "u6us9+RN4/0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=37984\nfileID=154340",
         "Name": "E3PC - v1.2-37984-1-2-1552753822.zip",
@@ -4740,27 +5592,6 @@
           "ModID": 37343,
           "Name": "Hollywood Bullet Tracers",
           "Version": "2.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QMIHQScpX7E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56997\nfileID=225311",
-        "Name": "MCM Booster-56997-1-0-1641058633.rar",
-        "Size": 649135,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Reduces MCM loading time to nearly instant loading",
-          "FileID": 225311,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56997/56997-1641059008-1632666704.png",
-          "IsNSFW": false,
-          "ModID": 56997,
-          "Name": "MCM Booster",
-          "Version": "1.0"
         }
       }
     },
@@ -4845,27 +5676,6 @@
           "ModID": 76454,
           "Name": "Disable Companion Collision",
           "Version": "v1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i7LtKe4/dFE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=29687\nfileID=144676",
-        "Name": "Fallout 3 Holotape Replacer 1.3-29687-1-3-1540773029.zip",
-        "Size": 10199638,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RyceKaeks",
-          "Description": "This Mod Replaces the Fallout 4 Holotape with the Version found in Fallout 3/ Fallout NV.",
-          "FileID": 144676,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29687/29687-1540773422-1258788529.jpeg",
-          "IsNSFW": false,
-          "ModID": 29687,
-          "Name": "Fallout 3 Holotape",
-          "Version": "1.3"
         }
       }
     },
@@ -5167,48 +5977,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kxDVAIxOyiM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=284106",
-        "Name": "Buffout 4-47359-1-28-6-1690000405.zip",
-        "Size": 1238510,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "It\u0027s like buffout but for the engine",
-          "FileID": 284106,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
-          "IsNSFW": false,
-          "ModID": 47359,
-          "Name": "Buffout 4",
-          "Version": "1.28.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Idv9xgWFN08=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=37559\nfileID=200463",
-        "Name": "Hollywood Laser Bolts-37559-2-3-1612202417.7z",
-        "Size": 6843,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "flecked",
-          "Description": "Lasers will become laser bolts and glow bright to the color of the laser for the player and NPCs.",
-          "FileID": 200463,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37559/37559-1612123941-1917730240.jpeg",
-          "IsNSFW": false,
-          "ModID": 37559,
-          "Name": "Hollywood Laser Bolts",
-          "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "P7G7cNA23Yc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=91565\nfileID=352057",
         "Name": "Mentats - F4SE-91565-1-1-1-1743100401.7z",
@@ -5266,27 +6034,6 @@
           "ModID": 33412,
           "Name": "CROSS_2077",
           "Version": "091b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "t+IwEjD0Vw4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47011\nfileID=190794",
-        "Name": "CROSS_VertibirdFlightsuit_091-47011-091-1599428008.zip",
-        "Size": 137061123,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Niero",
-          "Description": ".",
-          "FileID": 190794,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47011/47011-1598834457-1113071572.png",
-          "IsNSFW": false,
-          "ModID": 47011,
-          "Name": "CROSS_VertibirdFlightsuit",
-          "Version": "091"
         }
       }
     },
@@ -5392,27 +6139,6 @@
           "ModID": 67369,
           "Name": "Chinese Remnants",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7jz+H+Aqokc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=87594\nfileID=353602",
-        "Name": "Capital Brotherhood - FO3 Version-87594-V2-1744539212.7z",
-        "Size": 10906817,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DraugrOfRagnarok MikeMoore GrilledTurkey realNevar",
-          "Description": "This comprehensive mod reimagines the Brotherhood of Steel in Fallout 4, offering a more authentic Fallout 3 experience. The mod replaces the T-60 power armor with the iconic T-45, featuring a unique paint job inspired by Fallout 3.",
-          "FileID": 353602,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/87594/87594-1726152254-187016377.png",
-          "IsNSFW": false,
-          "ModID": 87594,
-          "Name": "Classic FO3 Style Brotherhood Overhaul",
-          "Version": "1"
         }
       }
     },
@@ -6113,27 +6839,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OZoctstHhF0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=228171",
-        "Name": "Heavy Outfit 1stPerson pipboy fix-43686-4-8-1643542719.rar",
-        "Size": 97513929,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Defalt - Mavmanzero",
-          "Description": "This adds 215 Gunner themed Outfits/Hats/Helmets/Masks (75 Outfits, 112 Hats/Helmets, 10 Masks, 11 Backpacks, 2 Goggles and 5 Standalone Kevlar armors) \u002B Gunner themed Paint Jobs for the T-45, T-51, T-60 and X-01 Power Armors to the game.",
-          "FileID": 228171,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43686/43686-1635470519-829274344.png",
-          "IsNSFW": false,
-          "ModID": 43686,
-          "Name": "Gunner Outfit Pack (STANDALONE)",
-          "Version": "4.8.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Zd58ysF/Znk=",
         "Meta": "[General]\ngameName=fallout4\nmodID=6443\nfileID=231060",
         "Name": "We Are The Minutemen-6443-7-7-1646165884.rar",
@@ -6224,27 +6929,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S4ebZM/KjwY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43627\nfileID=315807",
-        "Name": "1_BakaFramework-43627-2-0-1-1715443149.7z",
-        "Size": 200800,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shad0wshayd3",
-          "Description": "A small plugin that exposes some new data to other mods, and fixes a few bugs.",
-          "FileID": 315807,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43627/43627-1602315760-410850224.png",
-          "IsNSFW": false,
-          "ModID": 43627,
-          "Name": "Baka Framework",
-          "Version": "1.10.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "g4fzJkOFuEA=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\GameIntro_V3_B.bk2",
         "Name": "Data_Video_GameIntro_V3_B.bk2",
@@ -6318,27 +7002,6 @@
           "ModID": 49997,
           "Name": "FO4 Photo Mode",
           "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PR/El/D0wRI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=85372\nfileID=326093",
-        "Name": "Food Sanitizer-85372-1-0-1-1720467951.zip",
-        "Size": 2951035,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s - jkruse05",
-          "Description": "Faithfully re-implements the Food Sanitizer from Fallout 3. Fully functional, and complete with custom meshes, textures, and 2D animations.",
-          "FileID": 326093,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/85372/85372-1720200130-1195543875.png",
-          "IsNSFW": false,
-          "ModID": 85372,
-          "Name": "Food Sanitizer",
-          "Version": "1.0.1"
         }
       }
     },
@@ -6718,48 +7381,6 @@
           "ModID": 58047,
           "Name": "Classic Cryo Grenades and Mines",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Dlt/tok1ReA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40607\nfileID=164503",
-        "Name": "Classic Underwear Replacer - CBBE and BodySlide-40607-v1-0-1566003002.7z",
-        "Size": 34457997,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheFriedturkey",
-          "Description": "This is a simple underwear replacement for fallout 4 made for the Capital Wasteland project and due to demand i decided to release it.",
-          "FileID": 164503,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40607/40607-1565642119-472594933.jpeg",
-          "IsNSFW": false,
-          "ModID": 40607,
-          "Name": "Classic Underwear Replacer",
-          "Version": "v1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gUoCEXNIP4A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=79843\nfileID=307632",
-        "Name": "Infiltrator - Lockpicking Overhaul-79843-2-0-0-1711148499.zip",
-        "Size": 7404,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "An in-depth lockpicking expansion that features new ways to deal with locks, including lock bashing, shooting, and the return of the \u0022Force Lock\u0022 system from Fallout 3 and Fallout New Vegas,. All options come with consequences and rewards.",
-          "FileID": 307632,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/79843/79843-1711141458-1795523067.png",
-          "IsNSFW": false,
-          "ModID": 79843,
-          "Name": "Infiltrator - Lockpicking Overhaul",
-          "Version": "5.0.0"
         }
       }
     },
@@ -7182,27 +7803,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wg2s4JirF8Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58729\nfileID=231721",
-        "Name": "Capital Wasteland Radscorpions-58729-1-1646944505.rar",
-        "Size": 17666787,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheFriedturkey and HcGxGrill",
-          "Description": "This mod adds in the classic look of the Radscorpions from Fallout 3 and NV alongside the existing ones, this includes the basic blue Radscorpion, albino and glowing which all looks closer to their Fallout 3 and NV counter parts. Pretty much does exactly as it says on the tin.",
-          "FileID": 231721,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58729/58729-1646926897-630738588.jpeg",
-          "IsNSFW": false,
-          "ModID": 58729,
-          "Name": "Capital Wasteland Radscorpions",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9xv6akkmxhc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=50626\nfileID=203175",
         "Name": "CW Workshop Pack Part 2-50626-1-1615209701.rar",
@@ -7539,27 +8139,6 @@
           "ModID": 73774,
           "Name": "Baka MaxPapyrusOps",
           "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nv25zA+Vu0s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75439\nfileID=292896",
-        "Name": "Deadeye-75439-1-3-1-1698605291.zip",
-        "Size": 131238,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Deadeye is a headshot mod that lets you choose from different ways to take down your enemies. A quick one-shot kill or add some challenge with helmet protection, which protects both you and your foes. If that\u0027s not your style, you can opt for head destruction \u2013 you\u0027ll need to lower the enemy\u0027s head health to zero to deliver a devastating headshot",
-          "FileID": 292896,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75439/75439-1697627258-674787662.jpeg",
-          "IsNSFW": false,
-          "ModID": 75439,
-          "Name": "Deadeye",
-          "Version": "1.3.1"
         }
       }
     },
@@ -8177,27 +8756,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V7vLB6+D+MI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
-        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
-        "Size": 2375261,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
-          "FileID": 257220,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
-          "IsNSFW": false,
-          "ModID": 51813,
-          "Name": "FallUI - HUD",
-          "Version": "1.7.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "NOQaG4viAfc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=18205\nfileID=73618",
         "Name": "Brahmin Tipping-18205-1-3.rar",
@@ -8761,27 +9319,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zbeAlMDiGy0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=237355",
-        "Name": "Fallout 4 - Point Lookout-60330-1-1652278869.rar",
-        "Size": 4520837998,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Capital Wasteland Team",
-          "Description": "Fallout 4: Point Lookout is a fan recreation of Fallout 3\u0027s Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs.",
-          "FileID": 237355,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60330/60330-1652201203-280592258.jpeg",
-          "IsNSFW": false,
-          "ModID": 60330,
-          "Name": "Fallout 4 - Point Lookout",
-          "Version": "1.14"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6WYwlxMSSnY=",
         "Meta": "[General]\ngameName=fallout4\nmodID=74821\nfileID=289971",
         "Name": "Fallout 3 UI (Engine) - FallUI HUD Layout-74821-1-0-1695070176.7z",
@@ -9039,27 +9576,6 @@
           "GameFile": "Data\\Fallout4 - Textures5.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "pTLf+5d5EwM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/hFNzKZfG1w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=10840\nfileID=137624",
-        "Name": "Pip-Boy Flashlight v6 BETA 3.02-10840-v6b3-02.rar",
-        "Size": 1382563,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AKcelsior",
-          "Description": "Turns your omnidirectional Pip-Boy light into a projectile beam!",
-          "FileID": 137624,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10840-0-1457930276.jpg",
-          "IsNSFW": false,
-          "ModID": 10840,
-          "Name": "Pip-Boy Flashlight (Pipboy - Power Armor - Lamp Overhaul)",
-          "Version": "5.0.2"
         }
       }
     },
@@ -9946,27 +10462,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "enNHIb+amso=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=5013\nfileID=28827",
-        "Name": "All-in-One Pack-5013-0-6.zip",
-        "Size": 409414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cilbas",
-          "Description": "A HD lore-friendly retexture mod for all ghoul eyes. More versions to come!",
-          "FileID": 28827,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5013-0-1450563248.jpg",
-          "IsNSFW": false,
-          "ModID": 5013,
-          "Name": "Ghastly - Ghoul Eyes Texture",
-          "Version": "0.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9paFl7BG300=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=cudart64_75.dll",
         "Name": "cudart64_75.dll",
@@ -10056,27 +10551,6 @@
           "ModID": 9567,
           "Name": "G67 Battle Rifle - Standalone",
           "Version": "1.2b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Luh0XrnxmDA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=66876\nfileID=260063",
-        "Name": "Intro Tweaks-66876-1-1670814000.zip",
-        "Size": 44237,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "elr0y7",
-          "Description": "Streamlined intro tweaks: removes intro video, makes fade in dark, removes sink/mirror sounds and visuals, etc.  Great for FROST users, widescreen users, and others.",
-          "FileID": 260063,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66876/66876-1670819711-1071451839.jpeg",
-          "IsNSFW": false,
-          "ModID": 66876,
-          "Name": "Intro Tweaks",
-          "Version": "1"
         }
       }
     },
@@ -10521,27 +10995,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MuT3em8L/X4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40738\nfileID=224968",
-        "Name": "Classic Vault Outfits Pack-40738-2-1640704121.rar",
-        "Size": 90040305,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheFriedturkey and HcG x Grill",
-          "Description": "Today I finally release my vault outfits after having them done for like 4 months I think its time to release them, this includes all the vault outfits from Fallout 3 in there old style.",
-          "FileID": 224968,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40738/40738-1640705978-587984965.jpeg",
-          "IsNSFW": false,
-          "ModID": 40738,
-          "Name": "Classic Vault Outfits Pack",
-          "Version": "2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "cZuEsr9DVek=",
         "Meta": "[General]\ngameName=fallout4\nmodID=61764\nfileID=241998",
         "Name": "DC Robots Only-61764-1-1656580080.zip",
@@ -10557,132 +11010,6 @@
           "ModID": 61764,
           "Name": "DC Robots Only",
           "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fwYC//IgjVw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=5021\nfileID=91218",
-        "Name": "Eyewear and mask retexture-5021-1-6.7z",
-        "Size": 18482047,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Castell",
-          "Description": "Retextured sunglasses and goggles.",
-          "FileID": 91218,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5021-0-1466015604.png",
-          "IsNSFW": false,
-          "ModID": 5021,
-          "Name": "Eyewear and mask retexture",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "B0f+54novkQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=37907\nfileID=153902",
-        "Name": "F3Gatler-37907-1-1552223045.zip",
-        "Size": 64828279,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nul_del",
-          "Description": "Fallout 3 Gatling Laser",
-          "FileID": 153902,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37907/37907-1552222823-429029219.jpeg",
-          "IsNSFW": false,
-          "ModID": 37907,
-          "Name": "Fallout 3 Gatling Laser",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xASjFL64Wbo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57101\nfileID=261169",
-        "Name": "Fast Start - Skip Prewar Sanctuary-57101-1-2-6-1671648926.zip",
-        "Size": 342451,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "msalaba",
-          "Description": "In a new game, wake up in the cryopod after character creation.",
-          "FileID": 261169,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57101/57101-1651419097-593441413.jpeg",
-          "IsNSFW": false,
-          "ModID": 57101,
-          "Name": "Fast Start - Skip Sanctuary Prologue",
-          "Version": "1.2.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xrbEp2So/9M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35904\nfileID=156466",
-        "Name": "Project Reality Footsteps FO4 1.7 BA2-35904-1-7-1555770045.zip",
-        "Size": 3829420,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HULKHOD3N x PR BF2 DevTeam",
-          "Description": "Changes almost all footstep sounds into more realistic ones. Including subtle gear and backpack rattle. *Snow Edition* available.",
-          "FileID": 156466,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35904/35904-1579241797-1924239260.jpeg",
-          "IsNSFW": false,
-          "ModID": 35904,
-          "Name": "Project Reality Footsteps FO4",
-          "Version": "1.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9/OkXVAu8VM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72925\nfileID=289646",
-        "Name": "SuperAlloys - Cohesion - 2K-72925-1-0-1694716556.7z",
-        "Size": 1483537522,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Emerald Reign",
-          "Description": "A modular collection of enhancements for Power Armor, including updated and improved textures, tweaked meshes and additional materials.",
-          "FileID": 289646,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72925/72925-1690802838-1115666825.jpeg",
-          "IsNSFW": false,
-          "ModID": 72925,
-          "Name": "SuperAlloys - Enhanced Power Armor Paints and 4k Textures",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Hs+0rslLX2M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=352275",
-        "Name": "Who\u0027s The General-59019-1-12-1743287203.zip",
-        "Size": 290631,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "A mod for players who dislike being asked to report back to Preston Garvey.",
-          "FileID": 352275,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59019/59019-1650834121-1822255204.png",
-          "IsNSFW": false,
-          "ModID": 59019,
-          "Name": "Who\u0027s The General - Minutemen Quest Cleanup",
-          "Version": "1.05"
         }
       }
     },
@@ -10731,312 +11058,6 @@
           "GameFile": "Data\\Fallout4.cdx",
           "GameVersion": "1.10.984.0",
           "Hash": "8VSxfWLwaQI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CD2vFu7bc4c=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50679\nfileID=205385",
-        "Name": "modofonto-fonts-v3-50679-3-1617841983.zip",
-        "Size": 853770,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lizin5ths",
-          "Description": "Replace the vanilla fonts with Monofonto and Fixedsys as seen in Fallout 3 and New Vegas.",
-          "FileID": 205385,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50679/50679-1615392978-1110237565.png",
-          "IsNSFW": false,
-          "ModID": 50679,
-          "Name": "Modofonto - Classic Fallout 3 and New Vegas Fonts (Monofonto and Fixedsys Font Replacer)",
-          "Version": "3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YUPgMom+RCg=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=flexRelease_x64.dll",
-        "Name": "flexRelease_x64.dll",
-        "Size": 1299968,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "flexRelease_x64.dll",
-          "GameVersion": "1.10.984.0",
-          "Hash": "YUPgMom+RCg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2K8sTHMox3o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=19744\nfileID=102921",
-        "Name": "Buffed Minutemen Militia-19744-3-0.rar",
-        "Size": 64265,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dragonovith",
-          "Description": "The Minutemen are now a stronger militia, with better equipment and different units.",
-          "FileID": 102921,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19744-0-1485735678.png",
-          "IsNSFW": false,
-          "ModID": 19744,
-          "Name": "Buffed Minutemen Militia",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0EtX8VoWW/M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=160697",
-        "Name": "GCM DLC Far Harbor-33759-0-6-1561641689.zip",
-        "Size": 420,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
-          "FileID": 160697,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
-          "IsNSFW": false,
-          "ModID": 33759,
-          "Name": "Game Configuration Menu",
-          "Version": "0.7.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7Qi0waE6sao=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30868\nfileID=147614",
-        "Name": "LAER Automatron support version 3-30868-1-1-1544366273.rar",
-        "Size": 289938,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Rizzler - Wanaming0 - Ha_ru - Pie_Savvy - guicool - Vicyorus and friends",
-          "Description": "An Electrolaser-based weapon that gains bonus damage against Robots and Power Armor users, as well as the ability to shut down and/or paralyze enemies with critical attacks.",
-          "FileID": 147614,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30868/30868-1522810203-2097171619.png",
-          "IsNSFW": false,
-          "ModID": 30868,
-          "Name": "LAER (Laser Assisted Electrical Rifle)",
-          "Version": "1.24hotfix1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fw4j8R3xebM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=11082\nfileID=43570",
-        "Name": "No Health Crippled PopUps-11082-1-0.rar",
-        "Size": 1303,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "chucksteel",
-          "Description": "This mod was done on request. It changes the Health and Crippled limb pop-up messages into desplay messages that do not stop the game. They show on the Left side of the screen.",
-          "FileID": 43570,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11082-0-1458417300.jpg",
-          "IsNSFW": false,
-          "ModID": 11082,
-          "Name": "No Health and Crippled Pop-Ups",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0yQHHuNvdzw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40220\nfileID=162727",
-        "Name": "Real Water HD for ENB-40220-1-2-1563978432.rar",
-        "Size": 32717842,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "luxor8071",
-          "Description": "HD Textures for the Water with Alpha Channel Heightmap. This Version is for ENB Users only. ba2 Archive. esl plugin.",
-          "FileID": 162727,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40220/40220-1563968506-167571328.jpeg",
-          "IsNSFW": false,
-          "ModID": 40220,
-          "Name": "Real Water HD for ENB",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "enQfKf4uPUM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Geometry.csg",
-        "Name": "Data_DLCNukaWorld - Geometry.csg",
-        "Size": 104296054,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Geometry.csg",
-          "GameVersion": "1.10.984.0",
-          "Hash": "enQfKf4uPUM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6kSvV9UAFjA=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.cdx",
-        "Name": "Data_DLCworkshop03.cdx",
-        "Size": 696408,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03.cdx",
-          "GameVersion": "1.10.984.0",
-          "Hash": "6kSvV9UAFjA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "np4wH3me9OI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.esm",
-        "Name": "Data_Fallout4.esm",
-        "Size": 330777465,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4.esm",
-          "GameVersion": "1.10.984.0",
-          "Hash": "np4wH3me9OI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Fj7uPWpJZFg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=45046\nfileID=181806",
-        "Name": "Ballistic Weave Unlocked-45046-1-0-1589417991.zip",
-        "Size": 550,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Spirfox",
-          "Description": "A small mod that simply unlocks the Ballistic Weave without the need of the Railroad.",
-          "FileID": 181806,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45046/45046-1589417229-749640386.jpeg",
-          "IsNSFW": false,
-          "ModID": 45046,
-          "Name": "Ballistic Weave Unlocked",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "F5rEuOTKuj8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50944\nfileID=204383",
-        "Name": "Classic Combat Armor - Vanilla Replacer Patch-50944-0-2-1616515863.zip",
-        "Size": 3095,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NUKEDPEPSI",
-          "Description": "Replaces the vanilla combat armor with the mod \u0022Classic Combat Armor\u0022.",
-          "FileID": 204383,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50944/50944-1616443973-524883684.png",
-          "IsNSFW": false,
-          "ModID": 50944,
-          "Name": "Classic Combat Armor Vanilla Replacer Patch",
-          "Version": "0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VnDcKsr3zIY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=37559\nfileID=196963",
-        "Name": "HWL - LAER Laser Assisted Electrical Rifle-37559-2-0-1607893296.7z",
-        "Size": 763,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "flecked",
-          "Description": "Lasers will become laser bolts and glow bright to the color of the laser for the player and NPCs.",
-          "FileID": 196963,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37559/37559-1612123941-1917730240.jpeg",
-          "IsNSFW": false,
-          "ModID": 37559,
-          "Name": "Hollywood Laser Bolts",
-          "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ByPA6mHEcP8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122471",
-        "Name": "Depth of Field Effect ESP-29922-1-0.zip",
-        "Size": 877,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deleted29017635",
-          "Description": "Overlay replacement for the standard aim through scope effect and reticles (Ballistic and plasma rifle scope only).",
-          "FileID": 122471,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29922/29922-1518907973-1172895636.png",
-          "IsNSFW": false,
-          "ModID": 29922,
-          "Name": "Sniper Scope Overlay And Reticles Replacement",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yeYGRk7MRfk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Main.ba2",
-        "Name": "Data_DLCNukaWorld - Main.ba2",
-        "Size": 1488519533,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "yeYGRk7MRfk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tSG9pGxASuw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.esm",
-        "Name": "Data_DLCworkshop03.esm",
-        "Size": 2971385,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03.esm",
-          "GameVersion": "1.10.984.0",
-          "Hash": "tSG9pGxASuw="
         }
       }
     }
