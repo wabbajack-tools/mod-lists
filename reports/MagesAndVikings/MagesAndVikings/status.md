@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3097)
+### Valid (3096)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorDaemon.rar](https://www.patreon.com/file?h=109829703&m=339148708)
@@ -2447,6 +2447,7 @@
 *  [Sell Stones of Barenziah-17605-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17605/?tab=files&file_id=55818)
 *  [Sensible Bribes-55450-1-0-1631440752.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55450/?tab=files&file_id=227830)
 *  [Sensible Oculory Solution - Logical Mzark Puzzle-130200-0-1-1-1727447765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130200/?tab=files&file_id=546741)
+*  [separated Slash Effects X-99506-1-0a-1693323958.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99506/?tab=files&file_id=421802)
 *  [Serana Doll Replacer for Bloodchill Manor's Vampire Doll-73501-1-0-1660676234.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73501/?tab=files&file_id=308066)
 *  [Serene Shores 2k-85036-1-0-1676751599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85036/?tab=files&file_id=361068)
 *  [Serene Wispmothers - Dragonborn's Bestiary-46627-2-0-1-1743864653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46627/?tab=files&file_id=614145)
@@ -2552,7 +2553,7 @@
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  [Skyrim's Got Talent - Show in UI-135473-1-0-0-1733277784.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135473/?tab=files&file_id=568771)
-*  [Skyrim's Paraglider - ONE(Plus)-134795-3-0-1740020873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134795/?tab=files&file_id=596785)
+*  [Skyrim's Paraglider - ONE-134795-3-0-1740020728.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134795/?tab=files&file_id=596783)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
@@ -2670,8 +2671,6 @@
 *  [Spell Rune Retexture - Full SSE Port - 1k-67845-1-3-1680553718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67845/?tab=files&file_id=374870)
 *  [Spell Rune Retexture - Mysticism-124143-1-0-0c-1720875797.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124143/?tab=files&file_id=520683)
 *  [Spell Tomes - I4 icons 1.1-96117-1-1-1689686405.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96117/?tab=files&file_id=408221)
-*  [SPID Crimson Falcon Garb-143228-1-0-1740829354.rar](https://www.nexusmods.com/skyrimspecialedition/mods/143228/?tab=files&file_id=600403)
-*  [SPID Kozakowy's Falka Armor-125163-1-0-1721899467.rar](https://www.nexusmods.com/skyrimspecialedition/mods/125163/?tab=files&file_id=524722)
 *  [Spiders of Solstheim - ENB Light - Non-Scrambled Bugs Version-64818-0-4-1-1649147171.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64818/?tab=files&file_id=274979)
 *  [Spiders of Solstheim - Transparency Fix-60012-0-1-1639391520.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60012/?tab=files&file_id=248753)
 *  [Spiderweb-84053-0-13-1675618606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84053/?tab=files&file_id=356744)
