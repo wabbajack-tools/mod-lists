@@ -68,6 +68,8 @@
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
     -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
+-   [Starfield](#starfield)
+    -   [Melius](#melius)
 
 ---
 
@@ -939,5 +941,26 @@ What the list isn't:
 
 
 A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
+
+---
+## Starfield
+
+### [Melius](https://github.com/eljefe303030/Melius/blob/main/README.md)
+
+Melius is a Starfield Wabbajack mod list originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) but now also has an optional profile based on [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) and [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+
+Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list. Note: Starvival will only be enabled if you have the DLC.
+
+**_Mods to get familiar with:_**
+
+1. [El Jefe Combat AI](https://www.nexusmods.com/starfield/mods/13194) and [Bedlam](https://www.nexusmods.com/starfield/mods/10717) to make combat more fun and interesting
+2. [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) overhauls the gameplay in many ways. 
+3. [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890) provides a fully working NEEDS mechanic with stages, new addictions, Spaceship Refueling and full list of other complimentary features. **This mod requires the Shattered Space DLC.**
+4. [Rabbit’s suite of mods](https://next.nexusmods.com/profile/RabbitDoesStuff?gameId=4187) to make area lighting more realistic and playable i.e. not having to walk around in the dark when there are lights around you!
+5. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples. 
+6. [Commitment (Keep Divorce Options)](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. 
+7. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the necks of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off. Turn off headshot effects in the settings to avoid this.
+
+[Full modlist](https://loadorderlibrary.com/lists/melius-2)
 
 ---
