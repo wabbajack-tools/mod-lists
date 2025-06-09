@@ -22,6 +22,7 @@
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
     -   [Living Skyrim](#living-skyrim)
     -   [Lost Legacy](#lost-legacy)
+    -   [Mages & Vikings](#mages-vikings)
     -   [Nordic Souls](#nordic-souls)
     -   [Ro](#ro)
     -   [Ruvaak](#ruvaak)
@@ -313,6 +314,16 @@ Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a ma
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)
 [Alternate Perspective - Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
 [Vokriinator - Ordinator + Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
+
+---
+
+### [Mages & Vikings](https://github.com/nicolasbertolino/MagesAndVikings)
+
+Mages & Vikings is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring thousands of carefully curated mods, this list enhances and modernizes every aspect of Skyrim—from the user interface and audio to graphics and gameplay mechanics. Some may call this junk. Me, I call this Mages & Vikings.
+
+[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238)
+[Installation](https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md)
+[Load Order Library ](https://loadorderlibrary.com/lists/mages-vikings)
 
 ---
 
