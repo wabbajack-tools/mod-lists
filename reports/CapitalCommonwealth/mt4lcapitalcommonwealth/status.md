@@ -63,6 +63,7 @@
 *  [Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=209407)
 *  [Caliente's Beautiful Bodies Enhancer - v2.7-15-2-7-1740002728.7z](https://www.nexusmods.com/fallout4/mods/15/?tab=files&file_id=348455)
 *  [Campsite - Simple-11734-1-0-4-1653544913.rar](https://www.nexusmods.com/fallout4/mods/11734/?tab=files&file_id=238612)
+*  [Canary v 1.0.0-44949-1-0-0-1588955837.7z](https://www.nexusmods.com/fallout4/mods/44949/?tab=files&file_id=181383)
 *  [Capital Brotherhood - FO3 Version-87594-V2-1744539212.7z](https://www.nexusmods.com/fallout4/mods/87594/?tab=files&file_id=353602)
 *  [Capital Commonwealth Patch-93791-6-0-1749164338.rar](https://www.nexusmods.com/fallout4/mods/93791/?tab=files&file_id=358197)
 *  [Capital Gauss Rifle Patch-67369-1-0-1672675862.7z](https://www.nexusmods.com/fallout4/mods/67369/?tab=files&file_id=262166)
@@ -85,6 +86,7 @@
 *  [Capital Wasteland Yao Guai-58290-1-1645387600.rar](https://www.nexusmods.com/fallout4/mods/58290/?tab=files&file_id=230244)
 *  [Caves Of The Commonwealth 1.3-75647-1-3-1741511749.rar](https://www.nexusmods.com/fallout4/mods/75647/?tab=files&file_id=350098)
 *  [CBBE patch-80480-v1-1712772417.zip](https://www.nexusmods.com/fallout4/mods/80480/?tab=files&file_id=309685)
+*  [CC's Improved Hair Colors - 3.1-18287-3-1-1736718746.7z](https://www.nexusmods.com/fallout4/mods/18287/?tab=files&file_id=345051)
 *  [CHALLENGES-76347-3-0-2-1737960893.7z](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=346419)
 *  [CHALLENGES-76347-3-0-4-1747769526.7z](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=356842)
 *  [China Lake and Holorifle -2K-22254-1-9.rar](https://www.nexusmods.com/fallout4/mods/22254/?tab=files&file_id=99908)
@@ -231,7 +233,6 @@
 *  [DirectHit-75098-1-2-5-1719823631.zip](https://www.nexusmods.com/fallout4/mods/75098/?tab=files&file_id=325161)
 *  [Disable Companion Collision-76454-v1-0-1-1701573486.7z](https://www.nexusmods.com/fallout4/mods/76454/?tab=files&file_id=295697)
 *  [Discord Rich Presence F4SE Remake-77771-2-1705914177.rar](https://www.nexusmods.com/fallout4/mods/77771/?tab=files&file_id=300474)
-*  [Disk Cache Enabler-74841-1-0-1695168773.zip](https://www.nexusmods.com/fallout4/mods/74841/?tab=files&file_id=290028)
 *  [DKS-501 Sniper Rifle 1.5-15909-1-5.7z](https://www.nexusmods.com/fallout4/mods/15909/?tab=files&file_id=89032)
 *  [Dogmeat Follow Behind-79543-1-1710147746.7z](https://www.nexusmods.com/fallout4/mods/79543/?tab=files&file_id=306450)
 *  [dp Classic VB 2k-83392-1-1716518416.rar](https://www.nexusmods.com/fallout4/mods/83392/?tab=files&file_id=318584)
@@ -278,7 +279,6 @@
 *  [Fallout 4 - Point Lookout-60330-1-1652278869.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237355)
 *  [Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=242233)
 *  [Fallout 4 Power Armor Audio Overhaul-93682-1-0-1746948467.zip](https://www.nexusmods.com/fallout4/mods/93682/?tab=files&file_id=355954)
-*  [Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip](https://www.nexusmods.com/fallout4/mods/52515/?tab=files&file_id=266097)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
 *  Fallout4.ccc
@@ -360,7 +360,7 @@
 *  [Kat's Power Armor Repair Kits-53558-1-7-1-1714843088.7z](https://www.nexusmods.com/fallout4/mods/53558/?tab=files&file_id=314176)
 *  [LAER 1.24 hotfix 1-30868-1-24hotfix1-1547570375.rar](https://www.nexusmods.com/fallout4/mods/30868/?tab=files&file_id=150134)
 *  [LAER Automatron support version 3-30868-1-1-1544366273.rar](https://www.nexusmods.com/fallout4/mods/30868/?tab=files&file_id=147614)
-*  [Legendary Modification-4042-1-75.rar](https://www.nexusmods.com/fallout4/mods/4042/?tab=files&file_id=26290)
+*  [LEO-66900-1-9-1-1730395884.7z](https://www.nexusmods.com/fallout4/mods/66900/?tab=files&file_id=338535)
 *  [Less Trees 1.0-92914-1-1744252220.rar](https://www.nexusmods.com/fallout4/mods/92914/?tab=files&file_id=353296)
 *  [Lethal Deathclaws-38591-1-3-1556369812.zip](https://www.nexusmods.com/fallout4/mods/38591/?tab=files&file_id=156850)
 *  [Leveled List Scripts - Hotfix-69765-1-0a-1679418649.rar](https://www.nexusmods.com/fallout4/mods/69765/?tab=files&file_id=271374)
@@ -425,6 +425,7 @@
 *  nvToolsExt64_1.dll
 *  [ODW - Winchester Model 1873-53927-I-1-1629652719.zip](https://www.nexusmods.com/fallout4/mods/53927/?tab=files&file_id=215298)
 *  [Old World Radio - Boston v6.02-9048-6-02-1622419664.rar](https://www.nexusmods.com/fallout4/mods/9048/?tab=files&file_id=209138)
+*  [Optimization Patches Installer-54872-1-34-1636152934.7z](https://www.nexusmods.com/fallout4/mods/54872/?tab=files&file_id=220703)
 *  [OWAP Advanced Hazmat Suit-92340-1-1-1742618771.rar](https://www.nexusmods.com/fallout4/mods/92340/?tab=files&file_id=351453)
 *  [PA HoloHUD-29969-1-1-1551627811.7z](https://www.nexusmods.com/fallout4/mods/29969/?tab=files&file_id=153467)
 *  [Papyrus Common Library-86222-1-6-1-1740345497.7z](https://www.nexusmods.com/fallout4/mods/86222/?tab=files&file_id=348757)
@@ -502,7 +503,6 @@
 *  [Synthkind Redefined HD-48404-1-1-1626988329.7z](https://www.nexusmods.com/fallout4/mods/48404/?tab=files&file_id=213131)
 *  [Synths Spawn Synths - Robco Patcher-74993-1-0-1696272384.zip](https://www.nexusmods.com/fallout4/mods/74993/?tab=files&file_id=290908)
 *  [T6M-AMR - WOS Update-66411-1-01-1701206284.rar](https://www.nexusmods.com/fallout4/mods/66411/?tab=files&file_id=295356)
-*  [Tactical Reload Framework-49444-1-1-1623428864.zip](https://www.nexusmods.com/fallout4/mods/49444/?tab=files&file_id=210052)
 *  [Targeted Textures-62958-2-5-1748113550.7z](https://www.nexusmods.com/fallout4/mods/62958/?tab=files&file_id=357162)
 *  [Terrifyer - Ghouls-30610-2-0.7z](https://www.nexusmods.com/fallout4/mods/30610/?tab=files&file_id=125210)
 *  [Textures - High 2K Version (BA2 Format)-318-1-2-5.7z](https://www.nexusmods.com/fallout4/mods/318/?tab=files&file_id=138837)
