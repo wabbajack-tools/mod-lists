@@ -1,10 +1,11 @@
 ## Validation Report - Merethic (iAmModlist/merethic)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2054)
+### Valid (2053)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -946,7 +947,6 @@
 *  [High Hrothgar Fixed - Parallax-55254-1-07-1709502424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55254/?tab=files&file_id=476728)
 *  [HIgh Poly Female Presets vol.2-48292-1-1-1617909105.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48292/?tab=files&file_id=196928)
 *  [High Poly Head - UV Fixed Femalehead.nif-90082-1-00-1682509030.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90082/?tab=files&file_id=382131)
-*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  High.ini
 *  [Highland Cow HD 2.0-20758-2-0-1700520141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=444464)

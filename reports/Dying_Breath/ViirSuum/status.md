@@ -1,11 +1,12 @@
 ## Validation Report - ViirSuum (Dying_Breath/ViirSuum)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [Attack+MCO-DXP+v1.6.0.6.zip](https://authored-files.wabbajack.org/Attack+MCO-DXP+v1.6.0.6.zip_63497bb3-3beb-42b0-897d-335f1a6a9a5e)
+*  [High_Poly_Head_v1.4_(SE)_d39b590f4a1913dd0fe34f61ea7db197408e458dbf79e97d895d8f60e9709414_.zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2298)
+### Valid (2297)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -1050,7 +1051,6 @@
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Ivy-113578-1-3-1711834371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=485815)
-*  [High_Poly_Head_v1.4_(SE)_d39b590f4a1913dd0fe34f61ea7db197408e458dbf79e97d895d8f60e9709414_.zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [HITS - 2K-23076-1-0-1549020352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23076/?tab=files&file_id=80316)
 *  [Holy Templar Magic - SkyPatched-122362-1-1-1719023896.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122362/?tab=files&file_id=513785)

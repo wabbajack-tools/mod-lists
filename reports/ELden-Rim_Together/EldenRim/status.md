@@ -1,10 +1,11 @@
 ## Validation Report - Elden-Rim Together (ELden-Rim_Together/EldenRim)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (673)
+### Valid (672)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [0-Elden Rim-Base 3.6.4-65625-3-6-4-1744294040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=615795)
@@ -288,7 +289,6 @@
 *  [Heavy Armory FOMOD Installer-6308-6-1-6-1735263124.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6308/?tab=files&file_id=576375)
 *  [HelpExtender-74376-1-3-0-1704159967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74376/?tab=files&file_id=457112)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-3-1685145181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=392209)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Horse Mount and Dismount Double Sound Fix-99621-1-0-2-1706717975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466552)
 *  [Horse Save Load Fix-132110-0-2-1729828340.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132110/?tab=files&file_id=555297)

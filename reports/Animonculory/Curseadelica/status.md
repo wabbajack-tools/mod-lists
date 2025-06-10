@@ -1,10 +1,12 @@
 ## Validation Report - Cursedelica (Animonculory/Curseadelica)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+*  [TexGen_Output.zip](https://authored-files.wabbajack.org/TexGen_Output.zip_048b1923-e63b-4045-86a3-88e5204e78fb)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (983)
+### Valid (981)
 *  [.1130 _ResourcePack Fixes-117234-1-1-1713954347.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=494280)
 *  [(CaS SE) Crimes against Skyrim - 1.0-3441-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3441/?tab=files&file_id=35192)
 *  [(ESL) Chicks and Chickens SE-110087-2-1-1706197521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110087/?tab=files&file_id=464709)
@@ -408,7 +410,6 @@
 *  [HelpExtender-74376-1-3-0-1704159967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74376/?tab=files&file_id=457112)
 *  [Henry the Horker v1.0-10868-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10868/?tab=files&file_id=29199)
 *  [High Poly Sweet Rolls - 2K-44077-2-0-1613863729.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44077/?tab=files&file_id=187087)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [HITS - 2K-23076-1-0-1549020352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23076/?tab=files&file_id=80316)
 *  [Hjonk main-65652-0-0-0-1648494765.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65652/?tab=files&file_id=273331)
@@ -854,7 +855,6 @@
 *  [Telvanni Paragliding-119472-0-5-1715827448.rar](https://www.nexusmods.com/skyrimspecialedition/mods/119472/?tab=files&file_id=501560)
 *  [Terrain Parallax Blending Fix FOMOD-88261-4-3-0-1718080283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88261/?tab=files&file_id=510463)
 *  [Texas Treasures Outfit-97178-1-1-1690731845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97178/?tab=files&file_id=412335)
-*  [TexGen_Output.zip](https://authored-files.wabbajack.org/TexGen_Output.zip_048b1923-e63b-4045-86a3-88e5204e78fb)
 *  [TF Race Port SSE-85662-2-1-1695175114.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85662/?tab=files&file_id=427497)
 *  [ThalmorOfficerUniform-98158-1-1691830680.zip](https://www.nexusmods.com/skyrimspecialedition/mods/98158/?tab=files&file_id=416310)
 *  [That weird chicken mod thing-45218-1-1-1612337614.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45218/?tab=files&file_id=183684)

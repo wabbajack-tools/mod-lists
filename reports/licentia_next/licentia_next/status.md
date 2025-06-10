@@ -1,10 +1,11 @@
 ## Validation Report - Licentia NEXT (licentia_next/licentia_next)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1601)
+### Valid (1600)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -693,7 +694,6 @@
 *  [High Level Enemies - Fixed Facegen-77324-1-1-1-1666832491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77324/?tab=files&file_id=326790)
 *  [High Level Enemies - Scaled-3231-1-71.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3231/?tab=files&file_id=5269)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [HIMBO Patch-126327-HIMBO-1-0-0-1724122081.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126327/?tab=files&file_id=533390)
 *  [HIMBO V5 - CC Refits-46311-5-4-0-1725603269.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=539229)
 *  [Honed Metal-61015-1-26-1-1717256219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61015/?tab=files&file_id=507231)

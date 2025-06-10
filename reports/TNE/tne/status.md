@@ -1,10 +1,11 @@
 ## Validation Report - The Northern Experience (TNE/tne)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3220)
+### Valid (3219)
 *  [  StormcloakRevival 2K-70723-1-0a.7z](https://www.nexusmods.com/skyrim/mods/70723/?tab=files&file_id=1000181522)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1330,7 +1331,6 @@
 *  [High Poly Head - TNE Patches-23894-1-0-5-1747248705.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23894/?tab=files&file_id=627173)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
 *  [High Poly Head UV Stretch Fix 2.0-141690-2-0-1743602945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141690/?tab=files&file_id=613052)
-*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly Milk Jug - HD Textures-69466-1-0-1654889980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290262)
 *  [High Poly Milk Jug-69466-1-0-1654889947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290260)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)

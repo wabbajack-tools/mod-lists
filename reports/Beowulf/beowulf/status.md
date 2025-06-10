@@ -1,10 +1,11 @@
 ## Validation Report - Beowulf (Beowulf/beowulf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2193)
+### Valid (2192)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [- Skyrim 202X - 4K-68307-10-0-1-1711044671.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482857)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -905,7 +906,6 @@
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Ivy - Skyrim 3D StoneWalls - PATCH-113624-1-0-1710076872.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113624/?tab=files&file_id=479025)
 *  [High Quality Ivy-113578-1-34-1728847104.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=551861)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Poly Vanilla Noble Furniture - Rally's-125623-1-3A-1726985414.rar](https://www.nexusmods.com/skyrimspecialedition/mods/125623/?tab=files&file_id=544811)
 *  [Higher Poly Vanilla Noble Furniture-Rally's Throne-125623-1-0-1726985352.rar](https://www.nexusmods.com/skyrimspecialedition/mods/125623/?tab=files&file_id=544810)

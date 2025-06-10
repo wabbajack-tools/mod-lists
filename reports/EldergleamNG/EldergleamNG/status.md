@@ -1,10 +1,11 @@
 ## Validation Report - Eldergleam Next-Gen (EldergleamNG/EldergleamNG)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1935)
+### Valid (1934)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460512)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -963,7 +964,6 @@
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Ivy-113578-1-3-1711834371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=485815)
 *  [High Quality Lighter Cheese-73944-1-0-1661304800.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73944/?tab=files&file_id=309947)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Honored Hounds SE-25563-1-0-1557087811.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25563/?tab=files&file_id=91002)
 *  [Honorhall Orphanage Bugfixes and Expansion-66955-2-03-1696828926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66955/?tab=files&file_id=432514)
