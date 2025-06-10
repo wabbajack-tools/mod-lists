@@ -1,11 +1,10 @@
 ## Validation Report - Halls of Sovngarde (HoS/HoS)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2226)
+### Valid (2227)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [00 - Males of Skyrim - Body and textures - SE-37485-1-2-1685821746.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37485/?tab=files&file_id=394715)
@@ -894,6 +893,7 @@
 *  [High Quality Tintmasks for JKs Skyrim-18702-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18702/?tab=files&file_id=66566)
 *  [High Quality Tintmasks for Relationship Dialogue Overhaul-18702-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18702/?tab=files&file_id=66561)
 *  [High Quality Tintmasks for Vanilla NPCs - Loose 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68441)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Quality Face Tints by thescarecrow86-42340-1-2-5-1614011117.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42340/?tab=files&file_id=187418)
 *  [Highland Cow HD 2.0-20758-2-0-1700520141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=444464)

@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum VR (Januarysnow/TempusVR)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2063)
+### Valid (2064)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -912,6 +911,7 @@
 *  [High Quality Ivy For Stumps and Logs - Ulvenwald-116248-1-0-1715651999.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116248/?tab=files&file_id=500846)
 *  [High Quality Ivy-113578-1-34-1728847104.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=551861)
 *  [High Quality PBR Ivy-129934-1-1-1736380813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129934/?tab=files&file_id=581017)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Poly Vanilla Cave Lamps SE V1_1-86397-1-1-1681298980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86397/?tab=files&file_id=377587)
 *  [hive guardians (se-ae)-117001-1-1713376299.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117001/?tab=files&file_id=491894)

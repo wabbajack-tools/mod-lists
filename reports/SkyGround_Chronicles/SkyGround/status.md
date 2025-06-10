@@ -1,11 +1,10 @@
 ## Validation Report - SkyGround Chronicles (SkyGround_Chronicles/SkyGround)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2451)
+### Valid (2452)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
@@ -1108,6 +1107,7 @@
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Ivy Replacer for Falkreath-111770-1-0-1710485030.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111770/?tab=files&file_id=480704)
 *  [High Quality Ivy-113578-1-34-1728847104.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=551861)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High-131210-1-2-0-1729002915.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131210/?tab=files&file_id=552350)
 *  High.ini
 *  [Higher Poly Vanilla Alchemy Stations - Clutter ENB-91114-1-3-1685749087.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91114/?tab=files&file_id=394457)

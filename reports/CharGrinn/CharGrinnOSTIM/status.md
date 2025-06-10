@@ -1,11 +1,10 @@
 ## Validation Report - CharGrinn OSTIM (CharGrinn/CharGrinnOSTIM)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2501)
+### Valid (2502)
 *  [_Fuse00DreadlocksHair.rar](https://www.patreon.com/file?h=62876423&i=10119123)
 *  [- Vivid Eyes - Abyss Pack-74410-1-0-2-1661983152.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312090)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -1141,6 +1140,7 @@
 *  [HG Hairdos SE.7z](https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A)
 *  [Hide Your Quests 1.0.1-50125-1-0-1-1622149001.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50125/?tab=files&file_id=205901)
 *  [High Poly Head - UV Fixed Femalehead.nif-90082-1-00-1682509030.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90082/?tab=files&file_id=382131)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly NPC Overhaul - Resources 2.06-42768-2-06-1613264959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42768/?tab=files&file_id=185780)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)

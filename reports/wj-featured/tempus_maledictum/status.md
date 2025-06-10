@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum (wj-featured/tempus_maledictum)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2139)
+### Valid (2140)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Merged) Improved Adoptions Multiple Adoptions Version 3.0-4713-3-0-1553792264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4713/?tab=files&file_id=86643)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -1002,6 +1001,7 @@
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Ivy-113578-1-34-1728847104.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=551861)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Poly Vanilla Cave Lamps SE V1_1-86397-1-1-1681298980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86397/?tab=files&file_id=377587)
 *  [hive guardians (se-ae)-117001-1-1713376299.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117001/?tab=files&file_id=491894)

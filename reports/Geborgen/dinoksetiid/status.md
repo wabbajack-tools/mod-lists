@@ -1,11 +1,10 @@
 ## Validation Report - Dinoksetiid (Geborgen/dinoksetiid)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (742)
+### Valid (743)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -348,6 +347,7 @@
 *  [HDT-SMP Infantry Armor Patch-88562-1-0-1680704613.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88562/?tab=files&file_id=375354)
 *  [HDT-SMP Yaldabaoth Armor Patch-104782-1-0-1700034394.rar](https://www.nexusmods.com/skyrimspecialedition/mods/104782/?tab=files&file_id=442770)
 *  [Heavy Armor Footstep Sound-118199-1-0-1714562557.rar](https://www.nexusmods.com/skyrimspecialedition/mods/118199/?tab=files&file_id=496702)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  High.ini

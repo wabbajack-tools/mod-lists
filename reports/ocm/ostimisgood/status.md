@@ -1,11 +1,10 @@
 ## Validation Report - OCM (ocm/ostimisgood)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2207)
+### Valid (2208)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -957,6 +956,7 @@
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Ivy-113578-1-34-1728847104.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=551861)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
 *  [HIMBO 'Chief' Male Bodyslide Preset-74883-1-0-1662664227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74883/?tab=files&file_id=314391)

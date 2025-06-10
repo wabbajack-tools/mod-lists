@@ -1,11 +1,10 @@
 ## Validation Report - Skyrim Eternal Edition (NGVO/ETERNAL)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2221)
+### Valid (2222)
 *  [''Arena - Infiltration'' PATCH-116570-1-1712959514.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116570/?tab=files&file_id=490070)
 *  [(FLM) WorldSpaces Patches for Glenmoril-32998-0-95-50-1694611244.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32998/?tab=files&file_id=425452)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -961,6 +960,7 @@
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Ivy-113578-1-34-1728847104.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=551861)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Poly Vanilla Alchemy Stations - Clutter ENB-91114-1-3-1685749087.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91114/?tab=files&file_id=394457)
 *  [Higher Poly Vanilla Dragon Skeleton _ Parallax-94508-1-5-1709401803.rar](https://www.nexusmods.com/skyrimspecialedition/mods/94508/?tab=files&file_id=476310)

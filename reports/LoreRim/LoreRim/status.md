@@ -1,11 +1,10 @@
 ## Validation Report - LoreRim (LoreRim/LoreRim)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4233)
+### Valid (4234)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -167,6 +166,7 @@
 *  [Alternate Perspective-50307-4-0-3-1731841209.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=563201)
 *  [Alternate Start-112918-1-0-1709375179.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112918/?tab=files&file_id=476192)
 *  [Alternate Texture - Dirtier-132480-1-0-1-1730313257.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132480/?tab=files&file_id=557241)
+*  [Alternate Throwing Knife Animation-152205-1-0-1749409919.zip](https://www.nexusmods.com/skyrimspecialedition/mods/152205/?tab=files&file_id=635957)
 *  [Alternative Colour-42547-1-0-1605794212.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42547/?tab=files&file_id=170737)
 *  [Amber Refossilized-51529-1-1-1-1640839644.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51529/?tab=files&file_id=252599)
 *  [Ambient Warfare-113118-1-1-1709741519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113118/?tab=files&file_id=477592)
@@ -1830,6 +1830,7 @@
 *  [High Quality Ivy Replacer for Falkreath-111770-1-0-1710485030.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111770/?tab=files&file_id=480704)
 *  [High Quality Ivy-113578-1-3-1711834371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=485815)
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Highlight Quest Markers-140670-1-0-2-1739458208.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140670/?tab=files&file_id=594124)
 *  [Hircine Revoiced-147721-1-0-1744684813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147721/?tab=files&file_id=617420)
@@ -3514,7 +3515,6 @@
 *  [Smooth Random Blocking Animation 3.2-59239-3-2-1638279965.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59239/?tab=files&file_id=245535)
 *  [Smooth Random idle (Shield on back) - NPC Only-72787-1-7-1685881360.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72787/?tab=files&file_id=394943)
 *  [Smooth Random Sprint Animation - Lore Friendly-46193-4-0-1685652136.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46193/?tab=files&file_id=394064)
-*  [Smooth Staff Animation-54883-1-3-1642203369.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54883/?tab=files&file_id=256725)
 *  [Smooth TK Dodge Attack-63215-2-0-1644291307.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63215/?tab=files&file_id=262607)
 *  [SmoothCam - Galuna's Preset 1.2-78397-1-2-1667968672.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78397/?tab=files&file_id=330291)
 *  [SmoothCam - Hellblade Senua Preset-63678-1-0-0-1645159529.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63678/?tab=files&file_id=265021)

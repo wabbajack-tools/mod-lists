@@ -1,11 +1,10 @@
 ## Validation Report - Anvil (WakingDreams/ANVIL)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1054)
+### Valid (1055)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -431,6 +430,7 @@
 *  [High Poly Trama Roots-82499-1-2-1674542275.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82499/?tab=files&file_id=352501)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Ivy-113578-1-35-1742119283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=606234)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High-131210-1-2-0-1729002915.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131210/?tab=files&file_id=552350)
 *  High.ini
 *  [Holy Cows - Medium 2K-38415-1-0-1595027928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38415/?tab=files&file_id=150885)

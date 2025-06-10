@@ -1,11 +1,10 @@
 ## Validation Report - Curseadelica VR (Januarysnow/CurseadelicaVR)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1286)
+### Valid (1287)
 *  [(CaS SE) Crimes against Skyrim - 1.0-3441-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3441/?tab=files&file_id=35192)
 *  [(ESL) Chicks and Chickens SE-110087-2-1-1706197521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110087/?tab=files&file_id=464709)
 *  [(ESL) Chocobos Mounts and Followers SE-1293-3-4-1654615264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1293/?tab=files&file_id=289499)
@@ -566,6 +565,7 @@
 *  [HIGGS 1.9.0-43930-1-9-0-1714806292.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43930/?tab=files&file_id=497650)
 *  [HIGGS 1.9.1-43930-1-9-1-1716674235.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43930/?tab=files&file_id=504929)
 *  [High Poly Sweet Rolls - 2K-44077-2-0-1613863729.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44077/?tab=files&file_id=187087)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [HITS - 2K-23076-1-0-1549020352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23076/?tab=files&file_id=80316)
 *  [Hjonk main-65652-0-0-0-1648494765.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65652/?tab=files&file_id=273331)

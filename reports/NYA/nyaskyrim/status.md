@@ -1,11 +1,10 @@
 ## Validation Report - N.Y.A-NSFW-Modlist-Skyrim (NYA/nyaskyrim)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3854)
+### Valid (3855)
 *  [_Grimlook33_ Endless Misery-136947-1-0-1734824668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136947/?tab=files&file_id=574756)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [- Vivid Eyes - Abyss Pack-74410-1-0-2-1661983152.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312090)
@@ -1737,6 +1736,7 @@
 *  [High Poly Soul Husks for cunny1975's textures-47891-0-2-1617301553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195241)
 *  [High Poly Trama Roots-82499-1-2-1674542275.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82499/?tab=files&file_id=352501)
 *  [High Quality Lighter Cheese-73944-1-0-1661304800.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73944/?tab=files&file_id=309947)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Hiraya Brows for High Poly Head-95072-0-2-0-1689638890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95072/?tab=files&file_id=408060)
 *  [Hiraya Eyes - Beastie - 4k-106023-1-0-0-1701503135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106023/?tab=files&file_id=448046)
