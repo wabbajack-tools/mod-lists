@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2069)
+### Valid (2068)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -1772,7 +1772,6 @@
 *  [Stealing Not Browsing - A Pickpocket Mod-118386-1-6-0-1725401023.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118386/?tab=files&file_id=538441)
 *  [Stealth Detection Fixes - FOMOD-145336-2-1-1743785321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/145336/?tab=files&file_id=613826)
 *  [Stealth Detection Fixes - FOMOD-145336-2-2-1747112759.7z](https://www.nexusmods.com/skyrimspecialedition/mods/145336/?tab=files&file_id=626640)
-*  steam_api64.dll
 *  [Steeds of Ultima - VR-81220-1-1-1-1737036677.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81220/?tab=files&file_id=584028)
 *  [Steel Armor Fix-39704-1-1-1598141551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157176)
 *  [Steel Armors and Weapons Retexture SE - Half res-85445-1-11-1686692078.rar](https://www.nexusmods.com/skyrimspecialedition/mods/85445/?tab=files&file_id=397597)
