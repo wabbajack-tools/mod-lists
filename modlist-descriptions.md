@@ -54,6 +54,7 @@
     -   [FUS](#fus)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
     -   [Yggdrasil](#yggdrasil)
+    -   [Tempus Maledictum VR](#tempusvr)
     -   [(NSFW)Tahrovin(NSFW)](#nsfwtahrovinnsfw)
 -   [Fallout 4 VR](#fallout-4-vr)
     -   [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
@@ -747,6 +748,26 @@ Yggdrasil is an ambitious curated modlist that seeks to overhaul and expand Skyr
 [True Death](https://www.nexusmods.com/skyrimspecialedition/mods/26896)
 
 Really, though, please check out the full [modlist](https://loadorderlibrary.com/lists/yggdrasil-vr).
+
+---
+
+### [TempusVR](https://github.com/JanuarySnow/TempusVR/blob/main/README.md)
+
+Tempus Maledictum VR is a VR port of the Tempus Maledictum Skyrim list by Lively.
+Find out more about Tempus Maledictum [here](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md)
+
+What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn't: A punishing Souls-like, real life survival simulator. I'm here to have fun. Are you?
+
+With a full pbr-conversion and the latest community shaders features, Tempus Maledictum VR is my attempt to make SkyrimVR content-rich, beautiful and full of good gameplay, it is the only SkyrimVR modlist to integrate all of the SkyrimAE content, and all the major DLC-sized quest mods with LOTD.
+
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
+[Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174)
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
 
 ---
 
