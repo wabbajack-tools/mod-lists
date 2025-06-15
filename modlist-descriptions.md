@@ -12,6 +12,7 @@
     -   [Anvil](#anvil)
     -   [Apostasy](#apostasy)
     -   [Arkay's Commandment](#arkays-commandment)
+    -   [Aurbaesence](#aurbaesence)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
@@ -144,6 +145,22 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 -   [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
 -   [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
 -   [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+---
+
+### [Aurbaesence](https://aurbaesence.info/docs/)
+
+Aurbaesence is a longtime effort to elevate the game to what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly.
+
+This modlist is highly focused on improving the 3rd person combat experience, while introducing a huge amount of new quests and locations, immense and curated equipment leveled lists with enchanted variants and adding dozens of new creatures to find in the world. Existing locations and quests have all been overhauled and improved upon, bringing the world of Skyrim to life.
+
+While the combat experience can be likened to Dark Souls or other modern Action RPGs, the soul of this mod list resides in The Elder Scrolls. Every effort has been made to retain and improve upon the world building and lore of the series. Be sure to read our [Gameplay Guide](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/), and check out the [Notable Mods pages](https://aurbaesence.info/docs/notable-mods/) to fully understand the changes made by this modlist!
+
+**Things to get familiar with:**
+- [New Mechanics to Know](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/newmechanics/)
+- [Major Questline Changes](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/questlinechanges/)
+- [Defining your Character](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/characterdefine/)
+- [Keyboard and Controller Bindings](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/importanthotkeys/)
 
 ---
 
