@@ -12,6 +12,7 @@
     -   [Anvil](#anvil)
     -   [Apostasy](#apostasy)
     -   [Arkay's Commandment](#arkays-commandment)
+    -   [Aurbaesence](#aurbaesence)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
@@ -22,6 +23,7 @@
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
     -   [Living Skyrim](#living-skyrim)
     -   [Lost Legacy](#lost-legacy)
+    -   [Mages & Vikings](#mages-vikings)
     -   [Nordic Souls](#nordic-souls)
     -   [Ro](#ro)
     -   [Ruvaak](#ruvaak)
@@ -53,6 +55,7 @@
     -   [FUS](#fus)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
     -   [Yggdrasil](#yggdrasil)
+    -   [Tempus Maledictum VR](#tempusvr)
     -   [(NSFW)Tahrovin(NSFW)](#nsfwtahrovinnsfw)
 -   [Fallout 4 VR](#fallout-4-vr)
     -   [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
@@ -68,6 +71,8 @@
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
     -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
+-   [Starfield](#starfield)
+    -   [Melius](#melius)
 
 ---
 
@@ -140,6 +145,22 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 -   [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
 -   [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
 -   [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+---
+
+### [Aurbaesence](https://aurbaesence.info/docs/)
+
+Aurbaesence is a longtime effort to elevate the game to what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly.
+
+This modlist is highly focused on improving the 3rd person combat experience, while introducing a huge amount of new quests and locations, immense and curated equipment leveled lists with enchanted variants and adding dozens of new creatures to find in the world. Existing locations and quests have all been overhauled and improved upon, bringing the world of Skyrim to life.
+
+While the combat experience can be likened to Dark Souls or other modern Action RPGs, the soul of this mod list resides in The Elder Scrolls. Every effort has been made to retain and improve upon the world building and lore of the series. Be sure to read our [Gameplay Guide](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/), and check out the [Notable Mods pages](https://aurbaesence.info/docs/notable-mods/) to fully understand the changes made by this modlist!
+
+**Things to get familiar with:**
+- [New Mechanics to Know](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/newmechanics/)
+- [Major Questline Changes](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/questlinechanges/)
+- [Defining your Character](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/characterdefine/)
+- [Keyboard and Controller Bindings](https://aurbaesence.info/docs/mandatory-reading/gameplay-guide/importanthotkeys/)
 
 ---
 
@@ -313,6 +334,16 @@ Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a ma
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)
 [Alternate Perspective - Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
 [Vokriinator - Ordinator + Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
+
+---
+
+### [Mages & Vikings](https://github.com/nicolasbertolino/MagesAndVikings)
+
+Mages & Vikings is a comprehensive Skyrim modlist designed to breathe new life into the game. Featuring thousands of carefully curated mods, this list enhances and modernizes every aspect of Skyrim—from the user interface and audio to graphics and gameplay mechanics. Some may call this junk. Me, I call this Mages & Vikings.
+
+[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/136238)
+[Installation](https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md)
+[Load Order Library ](https://loadorderlibrary.com/lists/mages-vikings)
 
 ---
 
@@ -737,6 +768,26 @@ Really, though, please check out the full [modlist](https://loadorderlibrary.com
 
 ---
 
+### [TempusVR](https://github.com/JanuarySnow/TempusVR/blob/main/README.md)
+
+Tempus Maledictum VR is a VR port of the Tempus Maledictum Skyrim list by Lively.
+Find out more about Tempus Maledictum [here](https://github.com/LivelyDismay/tempus-maledictum/blob/main/README.md)
+
+What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn't: A punishing Souls-like, real life survival simulator. I'm here to have fun. Are you?
+
+With a full pbr-conversion and the latest community shaders features, Tempus Maledictum VR is my attempt to make SkyrimVR content-rich, beautiful and full of good gameplay, it is the only SkyrimVR modlist to integrate all of the SkyrimAE content, and all the major DLC-sized quest mods with LOTD.
+
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
+[Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174)
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+
+---
+
 ### [(NSFW)Tahrovin(NSFW)](https://github.com/iAmMe27/Tahrovin/blob/main/README.md)
 
 Tahrovin is the first official NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides. With plenty of content and ever more to come, Tahrovin should fullfill your Skyrim VR cravings!
@@ -939,5 +990,26 @@ What the list isn't:
 
 
 A full list of the mods used in this mod list can be viewed [here](https://loadorderlibrary.com/lists/baldur-s-gate-3-enhanced-edition)
+
+---
+## Starfield
+
+### [Melius](https://github.com/eljefe303030/Melius/blob/main/README.md)
+
+Melius is a Starfield Wabbajack mod list originally based on [JaeDL's](https://next.nexusmods.com/profile/JaeDL?gameId=4187) excellent [Starborn Royalty](https://www.nexusmods.com/starfield/mods/6397) but now also has an optional profile based on [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) and [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890). Main aim is to make the game as enjoyable as possible, whilst improving graphics, audio and adding quality of life mods.
+
+Stability, a list that works irrespective of whether you have the Shattered Space DLC and is performance friendly, are other key aims of this list. Note: Starvival will only be enabled if you have the DLC.
+
+**_Mods to get familiar with:_**
+
+1. [El Jefe Combat AI](https://www.nexusmods.com/starfield/mods/13194) and [Bedlam](https://www.nexusmods.com/starfield/mods/10717) to make combat more fun and interesting
+2. [Ascension - Gameplay Overhaul](https://www.nexusmods.com/starfield/mods/6839) overhauls the gameplay in many ways. 
+3. [Starvival - Immersive Survival Addon](https://www.nexusmods.com/starfield/mods/6890) provides a fully working NEEDS mechanic with stages, new addictions, Spaceship Refueling and full list of other complimentary features. **This mod requires the Shattered Space DLC.**
+4. [Rabbit’s suite of mods](https://next.nexusmods.com/profile/RabbitDoesStuff?gameId=4187) to make area lighting more realistic and playable i.e. not having to walk around in the dark when there are lights around you!
+5. [Revelation - Main Quest Overhaul](https://www.nexusmods.com/starfield/mods/10418) This mod overhauls Starfield's main quest, including removing most Temples. 
+6. [Commitment (Keep Divorce Options)](https://www.nexusmods.com/starfield/mods/13436) Choose only Vanguard, Ranger or Ryujin Operative. Force disguise when undercover for SysDef. 
+7. [Gorefield - A Starfield Gore Framework](https://www.nexusmods.com/starfield/mods/12833) Introduces special death effects such as bodies exploding, disintegrating and burning. Options for this mod, including turning it on/off are in the Settings -> Gameplay Options. Will cause missing body textures around the necks of NPCs if used with [Simple Immersive Looting](https://www.nexusmods.com/starfield/mods/12677) when their heads have been blown off. Turn off headshot effects in the settings to avoid this.
+
+[Full modlist](https://loadorderlibrary.com/lists/melius-2)
 
 ---
