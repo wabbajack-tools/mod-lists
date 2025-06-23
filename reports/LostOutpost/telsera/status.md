@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1443)
+### Valid (1456)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -152,6 +152,7 @@
 *  [Billyy Table Pack for OStim Standalone-99907-1-0-1693814104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99907/?tab=files&file_id=423201)
 *  [Billyy Wall Pack for OStim Standalone-101838-1-0-1696436996.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101838/?tab=files&file_id=431132)
 *  [Billyy's animations for Ostim Standalone-102778-3-0-1-1746240790.zip](https://www.nexusmods.com/skyrimspecialedition/mods/102778/?tab=files&file_id=623092)
+*  bink2w64.dll
 *  [Bittercup - Lost Passages The Hidden City Patch-134495-1-0-1732186891.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134495/?tab=files&file_id=564514)
 *  [Blacklight Chitin CBBE 3BA-124155-1-0-1720841996.rar](https://www.nexusmods.com/skyrimspecialedition/mods/124155/?tab=files&file_id=520551)
 *  [Blacklight Chitin for Teldryn Sero - Gourmet Patch-124133-1-0-0-1720825262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124133/?tab=files&file_id=520498)
@@ -315,6 +316,7 @@
 *  [Dawnguard Music Overhaul - Main Module-48613-1-0-1618519033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48613/?tab=files&file_id=198377)
 *  [Deadly Spell Impacts - Mysticism-71724-1-0-1658281894.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71724/?tab=files&file_id=300447)
 *  [Deadly Spell Impacts v1.9-12939-1-9-0-1724962001.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=536557)
+*  Debug.log
 *  [Delayed Missing in Action-67893-1-0-1652306025.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67893/?tab=files&file_id=283002)
 *  [Depths of Skyrim Marked-127343-1-1-0-1724444945.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127343/?tab=files&file_id=534597)
 *  [Depths of Skyrim-26913-1-1-7-1608572556.rar](https://www.nexusmods.com/skyrimspecialedition/mods/26913/?tab=files&file_id=175564)
@@ -583,6 +585,7 @@
 *  [High Poly Sweet Rolls - 2K-44077-2-0-1613863729.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44077/?tab=files&file_id=187087)
 *  [High Poly Trama Roots-82499-1-2-1674542275.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82499/?tab=files&file_id=352501)
 *  [High Quality Ivy-113578-1-35-1742119283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=606234)
+*  High.ini
 *  [Higher Poly Vanilla Gildergreen-123263-1-0-1720012969.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123263/?tab=files&file_id=517293)
 *  [HIMBO - Vagina from 3BA - MOXIE 4K-152372-1-0-0-1749606676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152372/?tab=files&file_id=636669)
 *  [HIMBO - Vagina from 3BA Refit - TNG PATCH-152543-1-0-1749782164.zip](https://www.nexusmods.com/skyrimspecialedition/mods/152543/?tab=files&file_id=637254)
@@ -626,6 +629,7 @@
 *  [Inner Sanctum - Snow Elf Ruins Overhaul-122088-1-0-1720282886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122088/?tab=files&file_id=518249)
 *  [Innocence Lost - Quest Expansion-80974-1-12-1747555025.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=628376)
 *  [Inquisition-74302-2-0-1-1709481300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74302/?tab=files&file_id=476617)
+*  installscript.vdf
 *  [Intro Scenes Only Once-22028-1-0-1545346180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22028/?tab=files&file_id=75783)
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
 *  [invisible rune explosion fix-151113-1-0-3-1748293934.7z](https://www.nexusmods.com/skyrimspecialedition/mods/151113/?tab=files&file_id=631611)
@@ -694,6 +698,7 @@
 *  [Lost Passages - New Dungeons for Skyrim-106061-1-4-1713022968.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106061/?tab=files&file_id=490318)
 *  [Lost Passages - The Hidden City-117191-1-3-1718032125.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117191/?tab=files&file_id=510239)
 *  [Lovemaking Compendium for OStim Standalone-98271-1-15-1747285136.zip](https://www.nexusmods.com/skyrimspecialedition/mods/98271/?tab=files&file_id=627270)
+*  Low.ini
 *  [Lunaris-80852-1-3-6-1708253897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80852/?tab=files&file_id=472124)
 *  [Lux - Lux Via - Lux Orbis patch-68843-1-3-1654481169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68843/?tab=files&file_id=289077)
 *  [Lux (main)-43158-6-8-1728758354.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=551483)
@@ -732,6 +737,7 @@
 *  [MaxwellTheCat-81714-1-3-1678410451.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81714/?tab=files&file_id=366978)
 *  [MCM Helper-53000-1-5-0-1702843613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=452755)
 *  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
+*  Medium.ini
 *  [Mehrunes Dagon Unique Shrine-133264-0-1-2-1730856188.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133264/?tab=files&file_id=559364)
 *  [Mehrunes Dagon's Shrine Unlocked - FOMOD Installer-119502-4-4-1721150806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/119502/?tab=files&file_id=521854)
 *  [Melodies of Civilization 1.01-30014-1-01-1572356289.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30014/?tab=files&file_id=111784)
@@ -1159,10 +1165,15 @@
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=323365)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
+*  Skyrim_Default.ini
+*  Skyrim_SkyrimPrefs.ini
+*  Skyrim.ccc
 *  [Skyrim's Got Talent - Adamant Bard Perks Synergy-101206-1-0-1702326732.zip](https://www.nexusmods.com/skyrimspecialedition/mods/101206/?tab=files&file_id=450986)
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  [Skyrim's Got Talent - Show in UI-135473-1-0-0-1733277784.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135473/?tab=files&file_id=568771)
 *  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)
+*  SkyrimSE.exe
+*  SkyrimSELauncher.exe
 *  [SkyUI - Ghost Item Bug Fix-49106-1-0-0-1633192591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49106/?tab=files&file_id=232098)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [Sleep Bonus for Werewolves and Lover Stone-users-101991-1-1-1696625603.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101991/?tab=files&file_id=431734)
@@ -1242,6 +1253,7 @@
 *  [Static Mesh Improvement Mod Improvement Mod-55543-1-13-1-1741128505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=601866)
 *  [Stay At System Page-76927-1-6-1665472279.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76927/?tab=files&file_id=323246)
 *  [STEAM v2_1 x2048-58427-2-1.7z](https://www.nexusmods.com/skyrim/mods/58427/?tab=files&file_id=1000129701)
+*  steam_api64.dll
 *  [Steel Armors and Weapons Retexture SE Half Res-85445-2-0-1733252271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85445/?tab=files&file_id=568664)
 *  [Stellaris-86833-2-0-7-1708251803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86833/?tab=files&file_id=472106)
 *  [Still - ESP Version-19401-1-01-1548115357.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19401/?tab=files&file_id=79225)
@@ -1343,6 +1355,7 @@
 *  [ULP AIO - Hircine Statue Addon-113660-Add-on-1713025694.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113660/?tab=files&file_id=490345)
 *  [ULP AIO - Sheogorath Statue Addon-113660-Add-on-1713024644.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113660/?tab=files&file_id=490337)
 *  [Ultimate Immersion Toggle - UI Toggle-62117-1-4-1748524122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62117/?tab=files&file_id=632510)
+*  Ultra.ini
 *  [UMW - Vanilla Addition-78586-1-1-0-1668193073.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78586/?tab=files&file_id=330891)
 *  [Unaggressive Dragon Priests Fix-69026-1-3-1-1714315952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69026/?tab=files&file_id=495656)
 *  [Underdog Animations-51811-2-1-0-1705194035.rar](https://www.nexusmods.com/skyrimspecialedition/mods/51811/?tab=files&file_id=461119)
