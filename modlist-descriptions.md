@@ -34,6 +34,7 @@
     -   [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
     -   [Twisted Skyrim](#twisted-skyrim)
     -   [Wildlander](#wildlander)
+    -   [Winds of the North](#windsofthenorth)
 -   [Fallout 4](#fallout-4)
     -   [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
     -   [Life in the Ruins](#life-in-the-ruins)
@@ -462,6 +463,17 @@ Wildlander is a total conversion modpack for The Elder Scrolls V: Skyrim Special
 
 -   [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
 -   [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+
+---
+
+### [Winds of the North](https://colinswrath.github.io/WindsOfTheNorth/)
+
+Winds of the North is a modlist designed to enhance Skyrim's visuals and gameplay while integrating new content into the world, all while preserving the nostalgic aesthetic of the original game.
+At its core, Winds of the North features the Simonrim gameplay suite, which provides new gameplay options and thoughtful balance adjustments.
+
+**_Mods to get familiar with:_**
+
+[Winds of the North Gameplay Guide](https://colinswrath.github.io/WindsOfTheNorth/gameplayguide/)
 
 ---
 
