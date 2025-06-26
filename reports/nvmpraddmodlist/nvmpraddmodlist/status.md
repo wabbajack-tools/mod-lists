@@ -1,4 +1,4 @@
-## Validation Report - NVMP RADD Modlist (nvmpraddmodlist/nvmpraddmodlist)
+## Validation Report - New Vegas: Multiplayer (nvmpraddmodlist/nvmpraddmodlist)
 
 
 ### Invalid (0)
