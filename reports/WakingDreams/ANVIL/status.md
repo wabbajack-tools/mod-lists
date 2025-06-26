@@ -562,7 +562,7 @@
 *  [Metallurgy - Ingot Collision Fix-124223-1-0-0a-1720889561.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124223/?tab=files&file_id=520793)
 *  [Metallurgy - Ingots Ore and Veins - Patch-147169-2-0-1744297663.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147169/?tab=files&file_id=615821)
 *  [Metallurgy - Ingots Ore and Veins HD 2K (LOOSE)-30738-1-3-1595068703.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30738/?tab=files&file_id=150956)
-*  [METEOR-main.zip](https://github.com/martymcmodding/METEOR/archive/refs/heads/main.zip)
+*  [METEOR-228e4aa521b34bdf3ad798220a1e59cc4a2a6a95.zip](https://github.com/martymcmodding/METEOR/archive/228e4aa521b34bdf3ad798220a1e59cc4a2a6a95.zip)
 *  [Mfg Fix NG-133568-1-0-1-1731951927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133568/?tab=files&file_id=563700)
 *  [MfgFix-11669-1-6-1-1664520342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11669/?tab=files&file_id=320400)
 *  [Miggyluv's Natural Orc Teeth-136534-1-1-1734429699.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136534/?tab=files&file_id=573247)
