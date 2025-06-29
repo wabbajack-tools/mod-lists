@@ -1704,7 +1704,7 @@
 *  [PAN_ShieldSisters SE-42480-1-0-1605631371.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42480/?tab=files&file_id=170468)
 *  [PAN_WarriorWomen SE-34464-1-4-1649964600.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34464/?tab=files&file_id=277130)
 *  [PAN_WickedWitches SE-77478-1-0-1-1682030497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77478/?tab=files&file_id=380370)
-*  [Pandora Behaviour Engine-133232-3-1-0-beta-1750668693.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=640938)
+*  [Pandora Behaviour Engine-133232-2-7-0-beta-1747737183.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=629124)
 *  [Pandorable's Black-Briar Ladies-33731-1-0-1584577285.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33731/?tab=files&file_id=129312)
 *  [Pandorable's NPCs - Dragonborn SE-30680-1-1-1575120229.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30680/?tab=files&file_id=114755)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
