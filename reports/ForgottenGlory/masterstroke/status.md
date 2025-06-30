@@ -1180,7 +1180,7 @@
 *  [Suspicious City Guard Improvements-119028-1-00-1715256265.rar](https://www.nexusmods.com/skyrimspecialedition/mods/119028/?tab=files&file_id=499392)
 *  [Suspicious City Guards-38762-5-1595968194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38762/?tab=files&file_id=152650)
 *  [Sweeping Organizes Stuff - Use Broom to Clean Mess-51645-0-5-2-1701477128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51645/?tab=files&file_id=447965)
-*  [SweetFX-master.zip](https://github.com/CeeJayDK/SweetFX/archive/master.zip)
+*  [SweetFX-8d08f61ecb0727c486387b6ce78cf4eb33f55b41.zip](https://github.com/CeeJayDK/SweetFX/archive/8d08f61ecb0727c486387b6ce78cf4eb33f55b41.zip)
 *  [Sweinen's Runelight Experimental Overlays for CBBE-105869-1-0-1701634632.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105869/?tab=files&file_id=448582)
 *  [Swiftly Order Squad-63259-1-11-2-1729072913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63259/?tab=files&file_id=552617)
 *  [Swimming Animations.-61160-1-1641156181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61160/?tab=files&file_id=253450)

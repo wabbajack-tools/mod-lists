@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1538)
+### Valid (1550)
 *  [(SSS) Face v1.8 FOMOD Installer-6940-1-8.zip](https://www.nexusmods.com/fallout4/mods/6940/?tab=files&file_id=32569)
 *  [1. Quantum Horizons ENB N2.2 - Hyper edition for NAC-X_Build 1-45086-N2-2-1681582378.7z](https://www.nexusmods.com/fallout4/mods/45086/?tab=files&file_id=274147)
 *  [1.03-41194-1-03-1581855633.7z](https://www.nexusmods.com/fallout4/mods/41194/?tab=files&file_id=176023)
@@ -81,6 +81,7 @@
 *  bink2w64.dll
 *  [Black Desert Online Hairs.7z](https://www.nexusmods.com/fallout4/mods/87077/?tab=files&file_id=331545)
 *  [Boa Hancock Looksmenu Preset-94235-1-0-1749058958.7z](https://www.nexusmods.com/fallout4/mods/94235/?tab=files&file_id=358073)
+*  [Bobble Girl FOMOD v1.1-8469-1-1.7z](https://www.nexusmods.com/fallout4/mods/8469/?tab=files&file_id=32562)
 *  [BodySlide and Outfit Studio - v5.6.3 - Hotfix-25-5-6-3-1714167473.7z](https://www.nexusmods.com/fallout4/mods/25/?tab=files&file_id=312436)
 *  [Bodyslide Files-32858-v1-1.7z](https://www.nexusmods.com/fallout4/mods/32858/?tab=files&file_id=134159)
 *  [Bodyslide for Mannequins Real women version-32553-0-2-1540817701.7z](https://www.nexusmods.com/fallout4/mods/32553/?tab=files&file_id=144724)
@@ -92,6 +93,8 @@
 *  [Burst Impact Blast FX-57789-9-51-1656568465.zip](https://www.nexusmods.com/fallout4/mods/57789/?tab=files&file_id=241990)
 *  [Busy Settlers-7010-1-8.zip](https://www.nexusmods.com/fallout4/mods/7010/?tab=files&file_id=112091)
 *  [Caliente's Beautiful Bodies Enhancer - v2.6.3-15-2-6-3-1587299180.7z](https://www.nexusmods.com/fallout4/mods/15/?tab=files&file_id=179786)
+*  [CAP and Depravity Patch-58429-v1-0-0-1645827689.zip](https://www.nexusmods.com/fallout4/mods/58429/?tab=files&file_id=230715)
+*  [CAP Kidnapping Addon-58429-v1-0-0-1645996502.zip](https://www.nexusmods.com/fallout4/mods/58429/?tab=files&file_id=230926)
 *  [Catalyst AAS Shotgun-16269-1-1.7z](https://www.nexusmods.com/fallout4/mods/16269/?tab=files&file_id=65603)
 *  [CBBE Head Rear Fix Remake-44553-1-2-1594926248.7z](https://www.nexusmods.com/fallout4/mods/44553/?tab=files&file_id=186960)
 *  [ccAllInOne FaceGen-86519-2-1723759538.7z](https://www.nexusmods.com/fallout4/mods/86519/?tab=files&file_id=330270)
@@ -138,6 +141,8 @@
 *  [Coursers and Synths - Sexy Edition-90505-1-5-1739073026.rar](https://www.nexusmods.com/fallout4/mods/90505/?tab=files&file_id=347583)
 *  CreationKit.exe
 *  CreationKit.ini
+*  [Crime And Punishment Main File-58429-v1-1-3-1645825049.zip](https://www.nexusmods.com/fallout4/mods/58429/?tab=files&file_id=230708)
+*  [Cross Mojave Manhunter Patch-58429-v1-0-0-1645827973.zip](https://www.nexusmods.com/fallout4/mods/58429/?tab=files&file_id=230721)
 *  [CROSS_2077_091b-33412-091b.zip](https://www.nexusmods.com/fallout4/mods/33412/?tab=files&file_id=137357)
 *  [CROSS_Blades_v091a-34501-091a-1539380486.zip](https://www.nexusmods.com/fallout4/mods/34501/?tab=files&file_id=143390)
 *  [CROSS_BreakActionLaser_v091b3-27050-091b3.zip](https://www.nexusmods.com/fallout4/mods/27050/?tab=files&file_id=114438)
@@ -346,7 +351,6 @@
 *  [Erotic Artwork - Murals Only-3532-.zip](https://www.nexusmods.com/fallout4/mods/3532/?tab=files&file_id=10950)
 *  [ESL Version 1.1a-30035-1-1a.rar](https://www.nexusmods.com/fallout4/mods/30035/?tab=files&file_id=123472)
 *  [ESPs updated for Heather v2.5-70197-3-1681319961.zip](https://www.nexusmods.com/fallout4/mods/70197/?tab=files&file_id=273819)
-*  [eXofied Depravity - Fallon's-61767-3-0-3-1725191928.7z](https://www.nexusmods.com/fallout4/mods/61767/?tab=files&file_id=332450)
 *  [Expressive Expressions - For Females-65707-1-1-1668364863.7z](https://www.nexusmods.com/fallout4/mods/65707/?tab=files&file_id=256839)
 *  [Expressive Expressions - For Males-65707-M0-85-1669757630.7z](https://www.nexusmods.com/fallout4/mods/65707/?tab=files&file_id=258602)
 *  [Extended Dialogue Interface 1.4.0-27216-1-4-0-1717703677.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=321359)
@@ -399,6 +403,9 @@
 *  [FO4HHS-39850-1-8-5-1715694249.zip](https://www.nexusmods.com/fallout4/mods/39850/?tab=files&file_id=316478)
 *  [FO4LoadAccelerator v1.8-10283-1-8-1567830875.zip](https://www.nexusmods.com/fallout4/mods/10283/?tab=files&file_id=166059)
 *  [FO4RP-Guns Main RAO 1.0.3-83453-1-0-3-1719090483.7z](https://www.nexusmods.com/fallout4/mods/83453/?tab=files&file_id=324030)
+*  [FOURVILLE - PROJECT BEAUTY (FACEGEN)-87367-2-5-1737989902.rar](https://www.nexusmods.com/fallout4/mods/87367/?tab=files&file_id=346444)
+*  [Fourville - Vault 4 Bobble Girl-75861-2-0-0-1699361084.7z](https://www.nexusmods.com/fallout4/mods/75861/?tab=files&file_id=293576)
+*  [Fourville-43979-1-14-1713603892.zip](https://www.nexusmods.com/fallout4/mods/43979/?tab=files&file_id=310943)
 *  [French Maid FO4 - CBBE Physics v1.2-27185-1-2.zip](https://www.nexusmods.com/fallout4/mods/27185/?tab=files&file_id=111390)
 *  [Fusion City Rising v.1.0-16423-1-0.rar](https://www.nexusmods.com/fallout4/mods/16423/?tab=files&file_id=86749)
 *  [G2 Armor CBBE - TWB - 3BBB BodySlides-86016-1-0-1721746258.rar](https://www.nexusmods.com/fallout4/mods/86016/?tab=files&file_id=327717)
@@ -555,6 +562,7 @@
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
 *  [NXGEN - Nice Bush-49356-1-11-1610870890.rar](https://www.nexusmods.com/fallout4/mods/49356/?tab=files&file_id=199201)
+*  [OAR and Depravity Patch-58429-v1-0-0-1645827769.zip](https://www.nexusmods.com/fallout4/mods/58429/?tab=files&file_id=230716)
 *  [OCBP_3.1.2_CBBE.zip](https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/?do=download)
 *  [Old Time Religion FaceGen-86384-1-0-0-1724786139.7z](https://www.nexusmods.com/fallout4/mods/86384/?tab=files&file_id=331909)
 *  [Old Time Religion-50089-1-3-1633463871.zip](https://www.nexusmods.com/fallout4/mods/50089/?tab=files&file_id=218529)
@@ -631,6 +639,9 @@
 *  [RobCo Patcher-69798-4-1-0-1734982266.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=343448)
 *  [Robots 2k BA2-70731-3-0-1682522639.rar](https://www.nexusmods.com/fallout4/mods/70731/?tab=files&file_id=275402)
 *  [Rock Island Lighthouse-63892-1-04-1720126322.zip](https://www.nexusmods.com/fallout4/mods/63892/?tab=files&file_id=325496)
+*  [Russian Assault Pack - 1.0-42283-1-0-1575075214.7z](https://www.nexusmods.com/fallout4/mods/42283/?tab=files&file_id=171750)
+*  [Russian Assault Pack - 1.0.3 UPDATE-42283-1-0-3-1575624053.7z](https://www.nexusmods.com/fallout4/mods/42283/?tab=files&file_id=172102)
+*  [Russian Assault Pack Fixes-54357-1-4-1634133946.7z](https://www.nexusmods.com/fallout4/mods/54357/?tab=files&file_id=219154)
 *  [RutahTattooPack_FO4-43661-1-02-1582955915.rar](https://www.nexusmods.com/fallout4/mods/43661/?tab=files&file_id=176775)
 *  [Ryuu-55651-1-0-1636633702.7z](https://www.nexusmods.com/fallout4/mods/55651/?tab=files&file_id=221168)
 *  [S.T.A.L.K.E.R. HUD 2.0-55456-2-0-1636159687.7z](https://www.nexusmods.com/fallout4/mods/55456/?tab=files&file_id=220717)
@@ -731,6 +742,7 @@
 *  [TheSanctuaryBridge.zip-22949-1-2.zip](https://www.nexusmods.com/fallout4/mods/22949/?tab=files&file_id=95515)
 *  [This one-66740-2-1670370119.zip](https://www.nexusmods.com/fallout4/mods/66740/?tab=files&file_id=259473)
 *  [Thuggysmurf_Optimization-56876-2-3-1-1739463900.7z](https://www.nexusmods.com/fallout4/mods/56876/?tab=files&file_id=347968)
+*  [Thuggysmurf_Optimization-56876-2-3-2-1750691774.7z](https://www.nexusmods.com/fallout4/mods/56876/?tab=files&file_id=359761)
 *  [Thuggysmurf's Mods FaceGen-86384-2-0-0-1724533159.7z](https://www.nexusmods.com/fallout4/mods/86384/?tab=files&file_id=331528)
 *  [Tina De Luca and Dr. Penske Face Gen Data (PACKED)-86410-v2C-1723476661.7z](https://www.nexusmods.com/fallout4/mods/86410/?tab=files&file_id=329909)
 *  Tools_Archive2_Archive2.exe
