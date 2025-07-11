@@ -1,4 +1,4 @@
-## Validation Report - Community Shaders Visual Overhaul (CSVO/CSVO)
+## Validation Report - CSVO - Community Shaders Visual Overhaul (CSVO/CSVO)
 
 
 ### Invalid (0)
