@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [CMRC-SSELODGen_Output.7z](https://authored-files.wabbajack.org/CMRC-SSELODGen_Output.7z_4938d894-17c4-4679-b876-847d01ce83b0)
+*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_7016c2fa-e969-4e54-bd9d-1b89fbc2dcb0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (2244)
@@ -389,7 +389,7 @@
 *  [CMRC-Grass Bound Records.7z](https://authored-files.wabbajack.org/CMRC-Grass Bound Records.7z_aa1a0eb8-d9cc-42b9-ae6f-da8a78a6d869)
 *  [CMRC-Grass Cache.7z](https://authored-files.wabbajack.org/CMRC-Grass Cache.7z_ba88b45e-2f2a-4f06-b2e0-a2064b86a1a1)
 *  [CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z](https://authored-files.wabbajack.org/CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z_e50c55db-4158-4498-ada1-a007cf03b9e8)
-*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_7016c2fa-e969-4e54-bd9d-1b89fbc2dcb0)
+*  [CMRC-SSELODGen_Output.7z](https://authored-files.wabbajack.org/CMRC-SSELODGen_Output.7z_4938d894-17c4-4679-b876-847d01ce83b0)
 *  [CMRC-TexGen_Output.7z](https://authored-files.wabbajack.org/CMRC-TexGen_Output.7z_9c74a1b6-52de-4f11-b15c-4d7eafb959a3)
 *  [ColdSun's Visions - Assets - 3BA-CBBE-TBD-109528-2-3-1719858957.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109528/?tab=files&file_id=516765)
 *  [ColdSun's Visions - Melana - Replacer-130571-1-0-1727736503.zip](https://www.nexusmods.com/skyrimspecialedition/mods/130571/?tab=files&file_id=547872)
