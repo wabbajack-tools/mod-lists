@@ -6,7 +6,7 @@
 *  [UBE 2.0 Lashivious Lashes.7z](https://mega.nz/folder/YNUmWSSS#5W09Tobc6Y4k3i7XWZvMWQ/file/FIsV2RjQ)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1708)
+### Valid (1731)
 *  [  StormcloakRevival 2K-70723-1-0a.7z](https://www.nexusmods.com/skyrim/mods/70723/?tab=files&file_id=1000181522)
 *  [-Grimlook33- The Dark Sovereign-144759-1-1-1742061649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/144759/?tab=files&file_id=606021)
 *  [-Ryan Reos- Marika Face and Outfit in Skyrim-121915-1-0-1718451193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/121915/?tab=files&file_id=511718)
@@ -407,10 +407,27 @@
 *  [Dark Mage of Plegia - hdt SMP (CBBE 3BA)-84554-1-0-1676035421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84554/?tab=files&file_id=358399)
 *  [Dark Witch Armor Physical Fix Patch-114731-1-0-1711109449.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114731/?tab=files&file_id=483079)
 *  [Dark Witch Armor-112260-1-4-1711577253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112260/?tab=files&file_id=484714)
+*  Data__ResourcePack.bsa
+*  Data__ResourcePack.esl
 *  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
+*  Data_Dawnguard.esm
+*  Data_Dragonborn.esm
+*  Data_HearthFires.esm
+*  Data_MarketplaceTextures.bsa
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
+*  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
+*  Data_Skyrim - Misc.bsa
+*  Data_Skyrim - Shaders.bsa
+*  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures2.bsa
@@ -420,6 +437,10 @@
 *  Data_Skyrim - Textures6.bsa
 *  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Textures8.bsa
+*  Data_Skyrim - Voices_en0.bsa
+*  Data_Skyrim.esm
+*  Data_Update.esm
+*  Data_Video_BGS_Logo.bik
 *  [Daughters of Dimitrescu CBBE 3BA SE-49321-1-5-1695257118.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49321/?tab=files&file_id=427711)
 *  [Daughters of Dimitrescu UBE 2.0-118975-1-3-1715313511.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118975/?tab=files&file_id=499650)
 *  [Dawn Warrior - Uniform of the Heartbow Rangers 3BA-113025-1-1-1709691066.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113025/?tab=files&file_id=477406)
@@ -1071,6 +1092,7 @@
 *  [Navigator - Navmesh Fixes-52641-1-5-9-1746532465.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=624265)
 *  [Naz's Asset Collection - 3BA-91718-1-1-1695172906.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91718/?tab=files&file_id=427490)
 *  [Naz's Asset Collection Bodyslides - 3BA-91718-1-2-1715376540.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91718/?tab=files&file_id=499885)
+*  [Naz's E2A Collection - CBBE-115799-1-0-1712185146.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115799/?tab=files&file_id=487254)
 *  [Neiva Deep Water - Combat Moveset Add-on-112162-1-5-1723164353.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112162/?tab=files&file_id=529646)
 *  [Neiva Deep Water - Fomod-112162-1-1-1723116944.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112162/?tab=files&file_id=529412)
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
@@ -1158,6 +1180,7 @@
 *  [Paintings Remade - Legacy of The Dragonborn-76823-0-2-1668877081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76823/?tab=files&file_id=332991)
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
 *  [Pandora Behaviour Engine-133232-3-1-0-beta-1750668693.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=640938)
+*  [Pandora_Behaviour_Engine_v3.2.0-beta.zip](https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/releases/download/v3.2.0-beta/Pandora_Behaviour_Engine_v3.2.0-beta.zip)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
 *  [Papyrus Extender-22854-5-10-0-1741317512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=602547)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
