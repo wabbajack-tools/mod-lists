@@ -4,13 +4,14 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1347)
+### Valid (1566)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  ['Pumping Iron' and 'Hand to Hand (Adamant)' Patch-97490-1-0-1724779805.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97490/?tab=files&file_id=535921)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460512)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [0 Lore-Friendly Load Screen Compendium (16-9) (2K)-138294-2-1-1746799043.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138294/?tab=files&file_id=625267)
+*  [1 Main Menu Compendium - Single Replacer (16-9)-150450-2-0-1747924169.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150450/?tab=files&file_id=629891)
 *  [1DwemerArmorSE-81043-1-1671541249.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81043/?tab=files&file_id=342128)
 *  [1FlutedArmorSE-106381-2-1702016021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106381/?tab=files&file_id=449715)
 *  [1fsse-88099-1-1680188261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88099/?tab=files&file_id=373351)
@@ -26,6 +27,7 @@
 *  [A Dizzying Fall - ESL - 1.0.3-130389-1-0-3-1745242463.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130389/?tab=files&file_id=619759)
 *  [A Friend in Mead - Dizzying Fall Patch-150999-1-0-1748268172.7z](https://www.nexusmods.com/skyrimspecialedition/mods/150999/?tab=files&file_id=631454)
 *  [A Friend in Mead - ESL-150999-1-0-1748267786.7z](https://www.nexusmods.com/skyrimspecialedition/mods/150999/?tab=files&file_id=631450)
+*  [A Horse's Life 2.0 mesh fixes-148788-1-0-1747153572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148788/?tab=files&file_id=626788)
 *  [A Horse's Life-146675-2-1-1747673450.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146675/?tab=files&file_id=628955)
 *  [A. Tween Menu Overhaul - Classic-143275-1-1-1748014644.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143275/?tab=files&file_id=630292)
 *  [A) FYX - Jorrvaskr-77355-1-0-4-1677410367.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77355/?tab=files&file_id=363505)
@@ -41,6 +43,8 @@
 *  [Adamant - Saints and Seducers Smithing Patch-30191-1-0-0-1681489941.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=378226)
 *  [Adamant - Smithing Addon-30191-5-4-6-1654728794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=289816)
 *  [Additional Dremora Faces-97946-1-3-1-1705512582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97946/?tab=files&file_id=462327)
+*  [Addon - SPID NPC spell distribution-4455-1-1-1752185713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4455/?tab=files&file_id=646001)
+*  [Addon - Survival Mode Spells-4455-1-0-1749144430.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4455/?tab=files&file_id=634916)
 *  [Advanced Notification Log NG-67975-2-2-0-1679340604.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67975/?tab=files&file_id=370406)
 *  [Aetherius - A Race Overhaul-26686-2-14-1-1719514447.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=515490)
 *  [AIO - Val Auri Lucien Inigo Kaidan Revoiced-70423-5-0-1751788573.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70423/?tab=files&file_id=644617)
@@ -58,6 +62,7 @@
 *  [Alternate Perspective-50307-4-0-3-1731841209.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=563201)
 *  [Alternate Perspective-VLC Patch-154147-1-1751649012.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154147/?tab=files&file_id=644059)
 *  [Alternate Silent Voice Files-15109-1-1-1581167160.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=123167)
+*  [Alternative Armors PBR-139065-1-0-0-PBR-1742532026.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139065/?tab=files&file_id=607884)
 *  [Alternative Bards Lute Songs-795-.rar](https://www.nexusmods.com/skyrimspecialedition/mods/795/?tab=files&file_id=779)
 *  [Amidianborn PBR-154484-1-0-1-1752063415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154484/?tab=files&file_id=645573)
 *  [Ammo Has Descriptions-119084-1-1-2-1716734328.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119084/?tab=files&file_id=505175)
@@ -134,7 +139,6 @@
 *  [Better Jumping AE-18967-1-8-6-1663530469.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=317398)
 *  [Better MessageBox Controls v1_2-1428-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1428/?tab=files&file_id=11023)
 *  [Better Optimized Riften Meshes-115668-3-2-2-1752720797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115668/?tab=files&file_id=647872)
-*  [Better Optimized Skyrim Meshes - Farmhouses-152830-1-0-2-1750645751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152830/?tab=files&file_id=640853)
 *  [Better Optimized Skyrim Meshes - Markarth-133745-1-1-0-1734739532.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133745/?tab=files&file_id=574395)
 *  [Better Third Person Selection (AE - SE)-64339-0-8-0-1739973469.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=596585)
 *  [Better Windhelm Ground Meshes - My fixes-131245-1-0-1730467091.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131245/?tab=files&file_id=557811)
@@ -173,15 +177,15 @@
 *  [BodySlide and Outfit Studio - v5.7.0-201-5-7-0-1728223275.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=549611)
 *  [Bottled Lanterns LP-139376-1-0-1737155376.zip](https://www.nexusmods.com/skyrimspecialedition/mods/139376/?tab=files&file_id=584566)
 *  [BottleRim - Bodyslide Output-154268-1-0-1752704163.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=647846)
-*  [BottleRim - CS Settings-154268-1-0-1752866101.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648271)
-*  [BottleRim - Dyndolod Output-154268-1-5-1-1752866839.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648277)
-*  [BottleRim - MCM Output-154268-1-0-1752866408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648273)
-*  [BottleRim - Pandora Output-154268-1-3-1752866482.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648276)
-*  [BottleRim - PG Plugins-154268-1-3-1752703730.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=647840)
-*  [BottleRim - SKSE Output-154268-1-0-1752866390.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648272)
-*  [BottleRim - Synthesis Patches-154268-1-3-1752866450.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648274)
-*  [BottleRim - TexGen Output-154268-1-3-1752703857.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=647843)
-*  [BottleRim - xLodgen Output-154268-1-3-1752866986.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648278)
+*  [BottleRim - CS Settings-154268-1-1-1753027878.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648732)
+*  [BottleRim - Dyndolod Output-154268-1-6-1753028478.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648747)
+*  [BottleRim - MCM Output-154268-1-1-1753027975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648735)
+*  [BottleRim - Pandora Output-154268-1-4-1753027941.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648734)
+*  [BottleRim - PG Plugins-154268-1-5-1753027911.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648733)
+*  [BottleRim - SKSE Output-154268-1-1-1753028017.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648736)
+*  [BottleRim - Synthesis Patches-154268-1-4-1753028064.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648737)
+*  [BottleRim - TexGen Output-154268-1-5-1753028548.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648748)
+*  [BottleRim - xLodgen Output-154268-1-4-1753028826.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648751)
 *  [Bound Weapon Fix 1130-134772-1-0-0-1732472498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134772/?tab=files&file_id=565653)
 *  [Brawl Lines Expansion-94070-1-02-1688417773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94070/?tab=files&file_id=403503)
 *  [Brawling - No Hitting Bystanders-116941-1-0-0-1713306971.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116941/?tab=files&file_id=491625)
@@ -190,6 +194,7 @@
 *  [Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=368384)
 *  [Build A Campfire - OIF-153711-1-1-1752472327.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153711/?tab=files&file_id=646981)
 *  [Bulwark Shield Sounds-76137-0-1alpha-1664185096.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76137/?tab=files&file_id=319500)
+*  [BUVARP - Ryn's Farms Patch-85784-1-0-1677342749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85784/?tab=files&file_id=363254)
 *  [BUVARP SE RE - Mountain LOD Helper Patch-147212-1--1744244602.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147212/?tab=files&file_id=615638)
 *  [BUVARP SE RE-56120-1-3-7-1752332543.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56120/?tab=files&file_id=646379)
 *  [C.O.I.N - SimonRim Patches - FOMOD-148537-1-0-1745528450.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148537/?tab=files&file_id=620832)
@@ -199,6 +204,7 @@
 *  [Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3-198-2-0-3-1712683181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=489053)
 *  [Camera Persistence Fixes-94490-1-1-0-1728037952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94490/?tab=files&file_id=548911)
 *  [Campfire Animations-112322-1-5-1-1750709364.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112322/?tab=files&file_id=641108)
+*  [Camping Plus Plus-122554-2-0-1-1741508949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122554/?tab=files&file_id=603480)
 *  [Candle Flame VFX Edit-137381-1-0-1735255444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137381/?tab=files&file_id=576353)
 *  [Candlehearth - An Inn Overhaul-97542-1-1-1-1692799446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97542/?tab=files&file_id=419795)
 *  [Cannibal Draugr on Solstheim-21238-2-2-1623042542.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21238/?tab=files&file_id=207882)
@@ -233,6 +239,8 @@
 *  [Cathedral Assets Optimizer 64-23316-5-3-15-1687526925.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=400106)
 *  [Cathedral Mushrooms-26103-1-0-1558993625.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26103/?tab=files&file_id=93887)
 *  [Cathedral PBR plants-135836-2-0a-1748977293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135836/?tab=files&file_id=634254)
+*  [Catir Club - Goldbrand 1.2-66864-1-2-1705109377.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66864/?tab=files&file_id=460838)
+*  [Catir Club - The Contest 1.1-66864-1-1-1734501160.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66864/?tab=files&file_id=573514)
 *  [Caught Red Handed - Quest Expansion-65708-1-06-1720799133.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65708/?tab=files&file_id=520337)
 *  [CBBE 3BA (3BBB)-30174-2-48-1740765899.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=600100)
 *  [CBBE 3BA Vanilla Outfits Redone-109194-4-1-8-1744916318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109194/?tab=files&file_id=618313)
@@ -240,6 +248,7 @@
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-6-4-1708114426.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=471527)
 *  [CBPC - Real Tight config-108736-1-0-0-1704712026.zip](https://www.nexusmods.com/skyrimspecialedition/mods/108736/?tab=files&file_id=459129)
 *  [CBPC Equipment Physics SE and AE-58990-1-3-0-1639863663.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58990/?tab=files&file_id=250142)
+*  [CC Camping - Utenlands Tent-138728-1-1-1736629408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138728/?tab=files&file_id=582169)
 *  [Champollion V1_0_1 64 bits-35307-1-0-1.7z](https://www.nexusmods.com/skyrim/mods/35307/?tab=files&file_id=1000027039)
 *  [Chandeliers - Animated-154759-0-85-1752505666.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154759/?tab=files&file_id=647088)
 *  [Chapter II v3.6 - ESL-37792-3-6-1728066688.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37792/?tab=files&file_id=549011)
@@ -248,6 +257,7 @@
 *  [CIF - Creature Patch - SS Sound Patch-150945-2-02-1749270583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150945/?tab=files&file_id=635461)
 *  [CIF - Creature Patch-150945-2-4-1750324092.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150945/?tab=files&file_id=639427)
 *  [City Bag Checks-112212-1-0-4-1742116467.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112212/?tab=files&file_id=606221)
+*  [Civil War Champions - Reduced Cut-94999-2-1688491081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94999/?tab=files&file_id=403720)
 *  [Civil War Couriers Framework-81546-1-0-1-1693695810.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81546/?tab=files&file_id=422877)
 *  [Civil War Lines Expansion-77566-1-1-1721690396.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77566/?tab=files&file_id=523967)
 *  [Civil War Overhaul-37906-1-1-0-1751689712.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37906/?tab=files&file_id=644208)
@@ -286,6 +296,21 @@
 *  [Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81409/?tab=files&file_id=493920)
 *  [CRAP FOMOD-106790-3-10-1-1746616772.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106790/?tab=files&file_id=624609)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
+*  [Creation Cave - Arms of Chaos - Artificer-87413-4-0-1737001422.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=583882)
+*  [Creation Cave - Arms of Chaos-87413-4-1-1737848703.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=587438)
+*  [Creation Cave - Bittercup - Apothecary Patch-87413-4-0-1737001382.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=583881)
+*  [Creation Cave - Bittercup-87413-4-5-1749913480.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=637758)
+*  [Creation Cave - Bow of Shadows-87413-4-5-1749913552.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=637759)
+*  [Creation Cave - Chrysamere-87413-4-1-1737848745.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=587439)
+*  [Creation Cave - Dawnfang and Bloodthirst-87413-4-51-1751075616.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=642264)
+*  [Creation Cave - Headman's Cleaver - Lawless Patch-87413-4-0-1737001461.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=583883)
+*  [Creation Cave - Headman's Cleaver-87413-4-0-1737001188.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=583876)
+*  [Creation Cave - Stendarr's Hammer-87413-4-0-1737001247.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=583877)
+*  [Creation Cave - The Gray Cowl Returns-87413-4-1-1737848797.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=587440)
+*  [Creation Cave - The Lord's Mail - DTDBQE-87413-4-0-3-1751172331.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=642571)
+*  [Creation Cave - The Lord's Mail-87413-4-0-2-1737410709.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=585678)
+*  [Creation Cave - The Staff of Hasedoki-87413-4-0-1737001335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=583880)
+*  [Creation Club - Adjustments Rebalancing and Variants All in One-59370-1-0-1668895260.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59370/?tab=files&file_id=333052)
 *  CreationKit.exe
 *  [Creature Collision Fix Patch 1.3-107266-1-3-1752775048.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107266/?tab=files&file_id=648008)
 *  [Crone - Hagraven VFX-105844-0-1-1701283999.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105844/?tab=files&file_id=447182)
@@ -299,7 +324,6 @@
 *  [CSVO - Dawnguard TnE Artificer Patch-154268-1-0-1752425116.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=646826)
 *  [CSVO - Destroy The Dark Brotherhood QE Heavy Legio-154268-1-0-1752425131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=646827)
 *  [CSVO - Embers XD SMI Patch-154268-1-0-1752335210.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=646402)
-*  [CSVO - Faultiers Clutter ISC Patch-154268-1-0-1751933831.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=645147)
 *  [CSVO - Firmament Simple Fishing Overhaul Patch-154268-1-0-1752335605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=646408)
 *  [CSVO - Firmament SMI Patch-154268-1-0-1752335498.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=646407)
 *  [CSVO - FootPrints FFM Patch-154268-1-0-1751814849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=644725)
@@ -324,14 +348,154 @@
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
+*  Data_ccafdsse001-dwesanctuary.bsa
+*  Data_ccafdsse001-dwesanctuary.esm
+*  Data_ccasvsse001-almsivi.bsa
+*  Data_ccasvsse001-almsivi.esm
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse002-exoticarrows.bsa
+*  Data_ccbgssse002-exoticarrows.esl
+*  Data_ccbgssse003-zombies.bsa
+*  Data_ccbgssse003-zombies.esl
+*  Data_ccbgssse004-ruinsedge.bsa
+*  Data_ccbgssse004-ruinsedge.esl
+*  Data_ccbgssse005-goldbrand.bsa
+*  Data_ccbgssse005-goldbrand.esl
+*  Data_ccbgssse006-stendarshammer.bsa
+*  Data_ccbgssse006-stendarshammer.esl
+*  Data_ccbgssse007-chrysamere.bsa
+*  Data_ccbgssse007-chrysamere.esl
+*  Data_ccbgssse008-wraithguard.bsa
+*  Data_ccbgssse008-wraithguard.esl
+*  Data_ccbgssse010-petdwarvenarmoredmudcrab.bsa
+*  Data_ccbgssse010-petdwarvenarmoredmudcrab.esl
+*  Data_ccbgssse011-hrsarmrelvn.bsa
+*  Data_ccbgssse011-hrsarmrelvn.esl
+*  Data_ccbgssse012-hrsarmrstl.bsa
+*  Data_ccbgssse012-hrsarmrstl.esl
+*  Data_ccbgssse013-dawnfang.bsa
+*  Data_ccbgssse013-dawnfang.esl
+*  Data_ccbgssse014-spellpack01.bsa
+*  Data_ccbgssse014-spellpack01.esl
+*  Data_ccbgssse016-umbra.bsa
+*  Data_ccbgssse016-umbra.esm
+*  Data_ccbgssse018-shadowrend.bsa
+*  Data_ccbgssse018-shadowrend.esl
+*  Data_ccbgssse019-staffofsheogorath.bsa
+*  Data_ccbgssse019-staffofsheogorath.esl
+*  Data_ccbgssse020-graycowl.bsa
+*  Data_ccbgssse020-graycowl.esl
+*  Data_ccbgssse021-lordsmail.bsa
+*  Data_ccbgssse021-lordsmail.esl
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse031-advcyrus.bsa
+*  Data_ccbgssse031-advcyrus.esm
+*  Data_ccbgssse034-mntuni.bsa
+*  Data_ccbgssse034-mntuni.esl
+*  Data_ccbgssse035-petnhound.bsa
+*  Data_ccbgssse035-petnhound.esl
+*  Data_ccbgssse036-petbwolf.bsa
+*  Data_ccbgssse036-petbwolf.esl
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse038-bowofshadows.bsa
+*  Data_ccbgssse038-bowofshadows.esl
+*  Data_ccbgssse040-advobgobs.bsa
+*  Data_ccbgssse040-advobgobs.esl
+*  Data_ccbgssse041-netchleather.bsa
+*  Data_ccbgssse041-netchleather.esl
+*  Data_ccbgssse043-crosselv.bsa
+*  Data_ccbgssse043-crosselv.esl
+*  Data_ccbgssse045-hasedoki.bsa
+*  Data_ccbgssse045-hasedoki.esl
+*  Data_ccbgssse050-ba_daedric.bsa
+*  Data_ccbgssse050-ba_daedric.esl
+*  Data_ccbgssse051-ba_daedricmail.bsa
+*  Data_ccbgssse051-ba_daedricmail.esl
+*  Data_ccbgssse052-ba_iron.bsa
+*  Data_ccbgssse052-ba_iron.esl
+*  Data_ccbgssse053-ba_leather.bsa
+*  Data_ccbgssse053-ba_leather.esl
+*  Data_ccbgssse054-ba_orcish.bsa
+*  Data_ccbgssse054-ba_orcish.esl
+*  Data_ccbgssse055-ba_orcishscaled.bsa
+*  Data_ccbgssse055-ba_orcishscaled.esl
+*  Data_ccbgssse056-ba_silver.bsa
+*  Data_ccbgssse056-ba_silver.esl
+*  Data_ccbgssse057-ba_stalhrim.bsa
+*  Data_ccbgssse057-ba_stalhrim.esl
+*  Data_ccbgssse058-ba_steel.bsa
+*  Data_ccbgssse058-ba_steel.esl
+*  Data_ccbgssse059-ba_dragonplate.bsa
+*  Data_ccbgssse059-ba_dragonplate.esl
+*  Data_ccbgssse060-ba_dragonscale.bsa
+*  Data_ccbgssse060-ba_dragonscale.esl
+*  Data_ccbgssse061-ba_dwarven.bsa
+*  Data_ccbgssse061-ba_dwarven.esl
+*  Data_ccbgssse062-ba_dwarvenmail.bsa
+*  Data_ccbgssse062-ba_dwarvenmail.esl
+*  Data_ccbgssse063-ba_ebony.bsa
+*  Data_ccbgssse063-ba_ebony.esl
+*  Data_ccbgssse064-ba_elven.bsa
+*  Data_ccbgssse064-ba_elven.esl
+*  Data_ccbgssse066-staves.bsa
+*  Data_ccbgssse066-staves.esl
+*  Data_ccbgssse067-daedinv.bsa
+*  Data_ccbgssse067-daedinv.esm
+*  Data_ccbgssse068-bloodfall.bsa
+*  Data_ccbgssse068-bloodfall.esl
+*  Data_ccbgssse069-contest.bsa
+*  Data_ccbgssse069-contest.esl
+*  Data_cccbhsse001-gaunt.bsa
+*  Data_cccbhsse001-gaunt.esl
+*  Data_ccedhsse001-norjewel.bsa
+*  Data_ccedhsse001-norjewel.esl
+*  Data_ccedhsse002-splkntset.bsa
+*  Data_ccedhsse002-splkntset.esl
+*  Data_ccedhsse003-redguard.bsa
+*  Data_ccedhsse003-redguard.esl
+*  Data_cceejsse001-hstead.bsa
+*  Data_cceejsse001-hstead.esm
+*  Data_cceejsse002-tower.bsa
+*  Data_cceejsse002-tower.esl
+*  Data_cceejsse003-hollow.bsa
+*  Data_cceejsse003-hollow.esl
+*  Data_cceejsse004-hall.bsa
+*  Data_cceejsse004-hall.esl
+*  Data_cceejsse005-cave.bsa
+*  Data_cceejsse005-cave.esm
+*  Data_ccffbsse001-imperialdragon.bsa
+*  Data_ccffbsse001-imperialdragon.esl
+*  Data_ccffbsse002-crossbowpack.bsa
+*  Data_ccffbsse002-crossbowpack.esl
+*  Data_ccfsvsse001-backpacks.bsa
+*  Data_ccfsvsse001-backpacks.esl
+*  Data_cckrtsse001_altar.bsa
+*  Data_cckrtsse001_altar.esl
+*  Data_ccmtysse001-knightsofthenine.bsa
+*  Data_ccmtysse001-knightsofthenine.esl
+*  Data_ccmtysse002-ve.bsa
+*  Data_ccmtysse002-ve.esl
+*  Data_ccpewsse002-armsofchaos.bsa
+*  Data_ccpewsse002-armsofchaos.esl
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
+*  Data_ccqdrsse002-firewood.bsa
+*  Data_ccqdrsse002-firewood.esl
+*  Data_ccrmssse001-necrohouse.bsa
+*  Data_ccrmssse001-necrohouse.esl
+*  Data_cctwbsse001-puzzledungeon.bsa
+*  Data_cctwbsse001-puzzledungeon.esm
+*  Data_ccvsvsse001-winter.bsa
+*  Data_ccvsvsse001-winter.esl
+*  Data_ccvsvsse002-pets.bsa
+*  Data_ccvsvsse002-pets.esl
+*  Data_ccvsvsse003-necroarts.bsa
+*  Data_ccvsvsse003-necroarts.esl
+*  Data_ccvsvsse004-beafarmer.bsa
+*  Data_ccvsvsse004-beafarmer.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -374,7 +538,6 @@
 *  [Detailed Rugs PBR-139889-1-0-1743468014.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139889/?tab=files&file_id=612336)
 *  [Detailed Rugs SE v1-5-9030-1-5.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9030/?tab=files&file_id=52553)
 *  [Detection Meter AE-135875-1-0-1733642871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135875/?tab=files&file_id=570234)
-*  [Detection Meter-v1.11-63057-v1-11-1710345932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=480115)
 *  [DF - Creatures - The Dragon Cult Draugr-129831-1-05-1728954981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129831/?tab=files&file_id=552253)
 *  [DF - Creatures by Xtudo - Falmer Overhaul-126608-1-1-1723727488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126608/?tab=files&file_id=531741)
 *  [DF - Creatures by Xtudo - Hulking Draugr - Dry-126608-2-0-1728908198.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126608/?tab=files&file_id=552040)
@@ -459,7 +622,6 @@
 *  [Environs - The Ruined Tundra Farmhouse-72981-3-0-2-1723016430.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72981/?tab=files&file_id=529079)
 *  [Environs - The Shrines of Talos-85141-3-02-1716012325.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85141/?tab=files&file_id=502274)
 *  [Environs - Tundra Farmhouse - Patch Collection-72981-3-0-4-1739050162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72981/?tab=files&file_id=592438)
-*  [Environs Patch-75146-1-0-1679699310.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75146/?tab=files&file_id=371765)
 *  [Equip Enchantment Fix for 1.6.629 and newer-42839-1-3-6-1702212166.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=450462)
 *  [ERM - Enhanced Rocks and Mountains - DynDOLOD-88754-1-0-1-1692033180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88754/?tab=files&file_id=417049)
 *  [ERM - Enhanced Rocks and Mountains-121336-1-0-2-1751006283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121336/?tab=files&file_id=642053)
@@ -493,12 +655,14 @@
 *  [Face Sculptor Expanded-110116-1-02-1726238890.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110116/?tab=files&file_id=541706)
 *  [Faithful Faces - Alternate Perspective-143247-1-0-1741715398.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=604520)
 *  [Faithful Faces - BUVARP SE RE-143247-1-0-1-1741513092.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=603504)
+*  [Faithful Faces - Creation Club-114437-1-3-5-1716681830.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114437/?tab=files&file_id=504967)
 *  [Faithful Faces - Environs-143247-1-0-1743754758.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=613685)
 *  [Faithful Faces - Immersive World Encounters-143247-1-0-1741464391.7z](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=603259)
 *  [Faithful Faces - INIGO-143247-1-0-1-1741513417.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=603509)
 *  [Faithful Faces - Lawless-143247-1-0-2-1741942952.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=605447)
 *  [Faithful Faces - Lucien-143247-1-0-1-1741513698.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=603515)
 *  [Faithful Faces - Madmen-143247-1-0-1-1741513732.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=603516)
+*  [Faithful Faces - Saints and Seducers-143247-1-0-1743754715.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=613684)
 *  [Faithful Faces - Shoppers of Skyrim-143247-1-0-1743675154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=613342)
 *  [Faithful Faces - Solitude Dock Improvements-143247-1-0-1741703417.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=604460)
 *  [Faithful Faces - Wormple's Hagravens-143247-1-0-1742145262.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143247/?tab=files&file_id=606403)
@@ -519,7 +683,6 @@
 *  [Ferrum Nibenis - PBR-147695-1-0-PBR-1744682965.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147695/?tab=files&file_id=617407)
 *  [Ferrum Nibenis ESL-84971-1-5-1682632935.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84971/?tab=files&file_id=382527)
 *  [Final Farewell - 1.0.6-127894-1-0-6-1748508069.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127894/?tab=files&file_id=632462)
-*  [Fires and Embers Clipping Fix-75146-2-9-1-1738619582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75146/?tab=files&file_id=590734)
 *  [Firmament-153781-1-0-1751149392.zip](https://www.nexusmods.com/skyrimspecialedition/mods/153781/?tab=files&file_id=642516)
 *  [First Person Animations - For some mods-148289-1-0-1745208941.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148289/?tab=files&file_id=619633)
 *  [First Person Interactions-123129-1-6-1729281877.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123129/?tab=files&file_id=553348)
@@ -539,9 +702,11 @@
 *  [Flute Animation Fix-69609-1-3-1727765977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=547984)
 *  [Fluted Armor PBR Patch-135793-2-1733577632.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135793/?tab=files&file_id=569888)
 *  [Flying Crows SSE 2.02-49270-2-02-1725063604.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49270/?tab=files&file_id=536992)
+*  [Follower Death and Injury Chance - reference clear-155157-1-0-1752944668.rar](https://www.nexusmods.com/skyrimspecialedition/mods/155157/?tab=files&file_id=648510)
 *  [Follower Death Chance (SPID)-38043-3-13-1740660725.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38043/?tab=files&file_id=599682)
 *  [Footprints - Alternative Design-109544-1-01-1710118109.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109544/?tab=files&file_id=479247)
 *  [Footprints 1.6.1-3808-1-6-1-1613434284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3808/?tab=files&file_id=186188)
+*  [Forgotten Seasons Cut Staves Restored-93436-1-0-1687728466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93436/?tab=files&file_id=401039)
 *  [FormList Manipulator - FLM-74037-1-8-1-1727507011.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74037/?tab=files&file_id=546948)
 *  [FormList Patch Collection-74626-3-3-0-1704666746.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74626/?tab=files&file_id=458995)
 *  [Forsworn and Thalmor Lines Expansion-80188-1-02-1704809037.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80188/?tab=files&file_id=459575)
@@ -584,6 +749,7 @@
 *  [FYX Smooth Wells Compatibility Tweaks - FOMOD-67277-1-4-4-1707348301.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67277/?tab=files&file_id=468779)
 *  [Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=474419)
 *  [Get Snowy-22488-6-0-1673103981.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22488/?tab=files&file_id=347535)
+*  [Ghosts of the Tribunal - Reduced Cut-67019-fs-1728018062.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67019/?tab=files&file_id=548878)
 *  [GIST Soul Trap-15755-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15755/?tab=files&file_id=52900)
 *  [Goetia Animations - Alternate Movement For All Staves-71110-1-51-1657979043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71110/?tab=files&file_id=299402)
 *  [Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71110/?tab=files&file_id=298623)
@@ -617,6 +783,7 @@
 *  [Haunted Shipwrecks-142986-1-0-1740810768.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142986/?tab=files&file_id=600320)
 *  [HD Terrain Noise Texture SE-47057-1-1615838217.rar](https://www.nexusmods.com/skyrimspecialedition/mods/47057/?tab=files&file_id=191703)
 *  [HDT-SMP Add-on (WIP)-109194-4-1-8SMP-1744917170.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109194/?tab=files&file_id=618323)
+*  [HDT-SMP Creation Backpacks-154157-1-0a-1752649044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154157/?tab=files&file_id=647641)
 *  [HDT-SMP Fur Shaders for Xavbio Retextures Redux-146026-1-0-1743205631.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146026/?tab=files&file_id=611121)
 *  [HDT-SMP Infantry Armor Patch-88562-1-0-1680704613.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88562/?tab=files&file_id=375354)
 *  [HDT-SMP Infantry Armor PBR Patch-135793-1-1733572060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135793/?tab=files&file_id=569859)
@@ -633,7 +800,7 @@
 *  [Heretical Haemar's Shame-131171-2-0-1745613645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131171/?tab=files&file_id=621119)
 *  [Heretical Haemars Shame - Pilgrim patch-131557-1-4-1-1734311125.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131557/?tab=files&file_id=572861)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-3-1685145181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=392209)
-*  [High Hrothgar Meshes Fixed-155013-1-0-0-1752722069.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155013/?tab=files&file_id=647875)
+*  [High Hrothgar Meshes Fixed-155013-1-1-0-1752921034.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155013/?tab=files&file_id=648457)
 *  [High Quality Ivy For Stumps and Logs - Vanilla-116248-1-1-1713145143.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116248/?tab=files&file_id=490881)
 *  [High Quality Ivy-113578-1-35-1742119283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=606234)
 *  [High Quality PBR Ivy-129934-1-1-1736380813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129934/?tab=files&file_id=581017)
@@ -656,15 +823,19 @@
 *  [I4 Armor Icons Overhaul-119824-1-03-1724947334.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119824/?tab=files&file_id=536466)
 *  [I4 Shout Icons Overhaul-107334-1-1-1706952346.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107334/?tab=files&file_id=467301)
 *  [I4 Weapon Icons Overhaul-106432-2-41-1724073558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106432/?tab=files&file_id=533080)
+*  [ICC - Simple Hunting Overhaul-99867-1-00-1693842216.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99867/?tab=files&file_id=423271)
 *  [Icy Winterhold Spire - Revised-132911-3-0-1738791647.zip](https://www.nexusmods.com/skyrimspecialedition/mods/132911/?tab=files&file_id=591465)
 *  [ImGui Icons-114790-1-1-0-1752006212.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114790/?tab=files&file_id=645403)
 *  [Immersive Death Cycle-97048-1-04-1703953947.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97048/?tab=files&file_id=456429)
 *  [Immersive Equipment Displays for 1.6.629 and newer-62001-1-7-4-1702213373.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=450465)
+*  [Immersive Fishing-115249-1-4-1-1744428790.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115249/?tab=files&file_id=616281)
+*  [Immersive Hunting Animations-96961-2-3-1-1729893491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96961/?tab=files&file_id=555504)
 *  [Immersive Illusion Spells-142357-1-2-1740504624.rar](https://www.nexusmods.com/skyrimspecialedition/mods/142357/?tab=files&file_id=599003)
 *  [Immersive Kaidan Start-64064-2-1-1-1650414408.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64064/?tab=files&file_id=278349)
 *  [Immersive Patrols (Lite)-718-3-0b-1710611136.zip](https://www.nexusmods.com/skyrimspecialedition/mods/718/?tab=files&file_id=481213)
 *  [Immersive Rejections-67930-1-13-1705424529.rar](https://www.nexusmods.com/skyrimspecialedition/mods/67930/?tab=files&file_id=461960)
 *  [Immersive Sounds Compendium 3.0-523-3-0-1629219996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files&file_id=221873)
+*  [Immersive Spell Effects Emit Light-75664-1-01-1706550095.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75664/?tab=files&file_id=466032)
 *  [Immersive Weapon Switch-139762-3-3-1-1752227736.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139762/?tab=files&file_id=646092)
 *  [Immersive World Encounters SE-18330-V3-6-1-1639501058.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18330/?tab=files&file_id=249072)
 *  [Impact Effects - 2X Sparks-19831-3-0-1613626176.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19831/?tab=files&file_id=186529)
@@ -688,6 +859,7 @@
 *  [Inquisition - Custom I4 Icons-106758-1-0-1702626288.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106758/?tab=files&file_id=452012)
 *  [Inquisition-74302-2-0-1-1709481300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74302/?tab=files&file_id=476617)
 *  installscript.vdf
+*  [Interesting Locations - Bottled Lanterns-154268-1-0-1752938493.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648491)
 *  [Interesting Locations - Lore Friendly Embershard-154268-1-0-1752866077.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154268/?tab=files&file_id=648270)
 *  [Interesting Locations - Patch Collection-154026-1-1-1-1751901292.rar](https://www.nexusmods.com/skyrimspecialedition/mods/154026/?tab=files&file_id=645020)
 *  [Interesting Locations-153298-0-9-1751815101.rar](https://www.nexusmods.com/skyrimspecialedition/mods/153298/?tab=files&file_id=644729)
@@ -696,9 +868,6 @@
 *  [ISL - DESTified Main File-45514-1-4-5-1666488099.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45514/?tab=files&file_id=325906)
 *  [JContainers SE-16495-4-2-9-1705929247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=463765)
 *  [JellyFish SkyParkour animations-153098-0-2-1750428124.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153098/?tab=files&file_id=639769)
-*  [JellyFishFP Movement REanimation NoHands Sprint-138137-1-0-1736061553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138137/?tab=files&file_id=579543)
-*  [JellyFishFP Movement REanimation-138137-1-0-1736023671.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138137/?tab=files&file_id=579407)
-*  [JellyFishFP SneakCam Reanimation-137528-1-1-1751874313.7z](https://www.nexusmods.com/skyrimspecialedition/mods/137528/?tab=files&file_id=644934)
 *  [JellyFishinLoop FP - Potions NG-135235-1-0b-1733159150.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135235/?tab=files&file_id=568322)
 *  [Jepsters PBR roadsigns-150052-1-0-1747229389.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150052/?tab=files&file_id=627073)
 *  [Journeyman - A Fast Travel Overhaul-92220-1-1-5-1740448300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92220/?tab=files&file_id=598765)
@@ -706,6 +875,7 @@
 *  [Journeyman - SkyPatcher-148309-1-0-1745228636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148309/?tab=files&file_id=619698)
 *  [Json update for latest PG-125513-1-1745226189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/125513/?tab=files&file_id=619682)
 *  [Jump Slide Fix-132841-1-0-1730448424.zip](https://www.nexusmods.com/skyrimspecialedition/mods/132841/?tab=files&file_id=557740)
+*  [Kachunk - Crossbow Distribution-71081-1-0-3-1677618409.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71081/?tab=files&file_id=364277)
 *  [Kaidan 2.1.1-19075-2-1-1-1571995302.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19075/?tab=files&file_id=111369)
 *  [Kaidan Revoiced - Community Expansion v1.2.0-135345-1-2-0-1744074524.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135345/?tab=files&file_id=615046)
 *  [Katana - Journey in the Shadows-69622-3-0-5-1745351776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69622/?tab=files&file_id=620250)
@@ -742,6 +912,7 @@
 *  [Light Limit Fix-99548-2-0-1-1733596917.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99548/?tab=files&file_id=569998)
 *  [Light Placer-127557-3-0-2-1742206267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127557/?tab=files&file_id=606594)
 *  [Lights On-85575-2-5-1-1737034290.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85575/?tab=files&file_id=584010)
+*  [Lightwood Trees 1.22-148788-1-1-1751829191.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148788/?tab=files&file_id=644788)
 *  [Lightwood Trees-149007-1-22-1751822164.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149007/?tab=files&file_id=644756)
 *  [Lively Cart Driver Animations (OAR)-70595-2-0-1-1724892510.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70595/?tab=files&file_id=536307)
 *  [Lively Children Animations (OAR)-67557-2-2-1-1714315929.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67557/?tab=files&file_id=495655)
@@ -758,6 +929,7 @@
 *  [Lore Friendly Peaks Shade Tower-130241-1-0-1727387664.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130241/?tab=files&file_id=546525)
 *  [Lore Friendly Roadside Ruins-130581-1-1-1728952167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130581/?tab=files&file_id=552229)
 *  [Lore Friendly Shrouded Grove-130118-1-0-1727277879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130118/?tab=files&file_id=546008)
+*  [Lost Grimoire-4455-1-2-1752185683.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4455/?tab=files&file_id=646000)
 *  Low.ini
 *  [Lucien -  Creation Club - Rare Curios Patch-20035-1-6-2-1630693949.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=225891)
 *  [Lucien - Saints and Seducers Patch-20035-1-6-2-1617047097.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=194463)
@@ -780,11 +952,13 @@
 *  [Madmen Patch FOMOD-98579-2-0-2-1698890071.rar](https://www.nexusmods.com/skyrimspecialedition/mods/98579/?tab=files&file_id=439022)
 *  [Magic Student (WIChangeLocation04) Quest Fix-80676-0-1-1671093954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80676/?tab=files&file_id=340731)
 *  [Magic Tweaks-148647-1-2-0-1-1749940922.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148647/?tab=files&file_id=637901)
+*  [Main archive-154073-1-0-1751574907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154073/?tab=files&file_id=643838)
 *  [Main Files-68656-2-0-2-1701526801.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68656/?tab=files&file_id=448133)
 *  [Main INI File-141006-1-2-0-1742180546.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141006/?tab=files&file_id=606515)
 *  [Main Mod File-154458-1-0-0-1752009930.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154458/?tab=files&file_id=645419)
 *  [Manbeast - A Werewolf Overhaul-44746-2-1-1-1700174116.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44746/?tab=files&file_id=443146)
 *  [Markarth Road Finished-79422-1-3-1675725484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79422/?tab=files&file_id=357264)
+*  [Masterwork-142109-1-8-5-1751258946.zip](https://www.nexusmods.com/skyrimspecialedition/mods/142109/?tab=files&file_id=642862)
 *  [Mastodon - Mammoth Audio-113509-0-2-1710026000.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113509/?tab=files&file_id=478804)
 *  [Maybe Better Windhelm Valunstrad-153910-1-0-1751311351.zip](https://www.nexusmods.com/skyrimspecialedition/mods/153910/?tab=files&file_id=643034)
 *  [MCM Helper-53000-1-5-0-1702843613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=452755)
@@ -814,6 +988,7 @@
 *  [MO2AudioPlayer-101872-1-0-2-1712093694.zip](https://www.nexusmods.com/skyrimspecialedition/mods/101872/?tab=files&file_id=486956)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Modern Wait Menu-117661-1-00-1715104007.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117661/?tab=files&file_id=498837)
+*  [Modlist Update Checker-98464-1-0-4-1706292810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98464/?tab=files&file_id=465080)
 *  [Moons And Stars - Sky Overhaul SKSE-73336-2-0-2-1665609139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73336/?tab=files&file_id=323576)
 *  [Mordant - Poison Magic SFX-145884-1-1b-1749655007.zip](https://www.nexusmods.com/skyrimspecialedition/mods/145884/?tab=files&file_id=636824)
 *  [More Informative Console 1.2.2-19250-1-2-2-1726885673.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=544360)
@@ -846,7 +1021,6 @@
 *  [Necrotic-101898-1-0-3-1708250815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101898/?tab=files&file_id=472099)
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
 *  [Next-Gen Decapitations - Latest Version-135254-1-3-4-1750206406.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135254/?tab=files&file_id=639077)
-*  [NF - Imperial Castles of Skyrim FOMOD-129327-2-2-1730740845.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129327/?tab=files&file_id=558932)
 *  [NGIO - NG-42161-1-4-0-1745727136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=621427)
 *  [NIF Preview-69813-0-2-0-1701106925.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69813/?tab=files&file_id=446636)
 *  [Nifskope-CompressionFix.7z](https://github.com/eckserah/nifskope_updated/releases/download/dev10.01/Nifskope-CompressionFix.7z)
@@ -870,8 +1044,10 @@
 *  [NouveauxEyesOfBeauty - 1k-152223-1-0-0-1749617635.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152223/?tab=files&file_id=636704)
 *  [NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69326/?tab=files&file_id=324089)
 *  [NPC Animation Remix (OAR) - main archive-63471-2-0-0-1720883072.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=520752)
+*  [NPC Block Loop Fix-151384-1-0-1748582585.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151384/?tab=files&file_id=632777)
 *  [NPC Infinite Block Fix - SkyPatched-113227-1-1-0-1725279661.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113227/?tab=files&file_id=537920)
 *  [NPC Spell Variance - Darenii' s Spell Mods AIO-133212-1-0-5-1731479646.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133212/?tab=files&file_id=561773)
+*  [NPC Spell Variance - Lost Grimoire-152798-1-0-1-1752203162.zip](https://www.nexusmods.com/skyrimspecialedition/mods/152798/?tab=files&file_id=646048)
 *  [NPC Spell Variance - Mysticism-132929-1-0-8-1750009586.zip](https://www.nexusmods.com/skyrimspecialedition/mods/132929/?tab=files&file_id=638235)
 *  [NPC Spell Variance-132097-2-4-3-1752745072.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132097/?tab=files&file_id=647923)
 *  [NPC Stuck in Bleedout fix-95489-0-2-1746447178.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95489/?tab=files&file_id=623932)
@@ -883,6 +1059,8 @@
 *  [NPCs Wear Amulets of Mara-66125-2-03-1677535055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66125/?tab=files&file_id=363999)
 *  [Object Categorization Framework-81469-6-1-0-1736820849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81469/?tab=files&file_id=583103)
 *  [Object Impact Framework (OIF)-149484-1-6-6-1752452110.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149484/?tab=files&file_id=646914)
+*  [Oblivion Horses AE-32335-3-2-1721627116.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32335/?tab=files&file_id=523676)
+*  [Oblivion Horses SE Light saddle mesh 1.0-77325-1-0-1666859798.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77325/?tab=files&file_id=326840)
 *  [Oblivion Interaction Icons - DSD-52743-2-6-1738818732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=591593)
 *  [OCD Mesh Fix-150562-0-22-1749507063.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150562/?tab=files&file_id=636356)
 *  [OCF - Some KID Patches FOMOD-99726-2-5-1747037152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99726/?tab=files&file_id=626352)
@@ -920,6 +1098,9 @@
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
 *  [Pargran Village Ruins-136597-1-1-0-1734701130.rar](https://www.nexusmods.com/skyrimspecialedition/mods/136597/?tab=files&file_id=574227)
 *  [Parrying RPG-81356-2-0-1-1672850940.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81356/?tab=files&file_id=346678)
+*  [Patch - Adamant-4455-1-2-1751751408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4455/?tab=files&file_id=644482)
+*  [Patch - CC Staves-4455-1-1-1749745133.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4455/?tab=files&file_id=637111)
+*  [Patch - Mysticism-4455-1-2-1751751440.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4455/?tab=files&file_id=644483)
 *  [Patch for 'NPC Stuck in Bleedout Fix'-101823-1-0-1697199006.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101823/?tab=files&file_id=433553)
 *  [Patch for BUVARP and Infiltration Quest Expansion-114054-1-01-1712680310.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114054/?tab=files&file_id=489039)
 *  [Patch for Lawless and Infiltration Quest Expansion-114054-1-01-1712680230.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114054/?tab=files&file_id=489038)
@@ -942,6 +1123,8 @@
 *  [Pilgrim HD - PBR-143257-1-0-1740849866.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143257/?tab=files&file_id=600540)
 *  [Pinewood Tone-113386-3-0-1710458972.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113386/?tab=files&file_id=480640)
 *  [Plague - Poison Spells FF version for Adamant-62807-1-4-1659858000.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62807/?tab=files&file_id=305294)
+*  [Player Spell Lighting - Mysticism Patch-56830-1-1-0-1656229630.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56830/?tab=files&file_id=294167)
+*  [Player Spell Lighting-56830-1-0-1-1656231763.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56830/?tab=files&file_id=294173)
 *  [Pleasantrees - Simple Trees in Cities-151526-1-2-3-1750522434.7z](https://www.nexusmods.com/skyrimspecialedition/mods/151526/?tab=files&file_id=640268)
 *  [powerofthree's Tweaks-51073-1-13-1-1734636067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=573995)
 *  [Praedys Skeleton Replacer HD PBR-139889-1-0-1740118841.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139889/?tab=files&file_id=597195)
@@ -969,6 +1152,10 @@
 *  [Rainbows Remade - MCM-95041-1-0-0-1688520952.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95041/?tab=files&file_id=403844)
 *  [Rainbows Remade 4K-74525-1-1-1681502109.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74525/?tab=files&file_id=378287)
 *  [Rally's Celestial Canvas-110869-1-0-1707414454.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110869/?tab=files&file_id=468986)
+*  [Realistic Boat Bobbing - Row Boats-72725-3-6-1742296383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72725/?tab=files&file_id=607021)
+*  [Realistic Boat Bobbing SE - Row Boats - BOS-88885-1-0-1681066288.zip](https://www.nexusmods.com/skyrimspecialedition/mods/88885/?tab=files&file_id=376760)
+*  [Realistic Boat Bobbing SE BOS-88885-1-0-1681066227.zip](https://www.nexusmods.com/skyrimspecialedition/mods/88885/?tab=files&file_id=376759)
+*  [Realistic Boat Bobbing SE-26080-8-4-1751286649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26080/?tab=files&file_id=642944)
 *  [Realistic Galaxy 16k-111458-3-1-1748923983.zip](https://www.nexusmods.com/skyrimspecialedition/mods/111458/?tab=files&file_id=634066)
 *  [Realistic PBR Footprints-140780-1-2-1740915055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140780/?tab=files&file_id=600912)
 *  [Reclusive Reachcliff Cave-131994-1-2-1729897491.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131994/?tab=files&file_id=555523)
@@ -985,11 +1172,15 @@
 *  [Resaver 6.0.643-5031-6-0-643-1694115572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5031/?tab=files&file_id=424051)
 *  [Revenant Spirits of the Soul Cairn - Clofas Choice-113884-1-1710557556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113884/?tab=files&file_id=480992)
 *  [Reverb Interior Sounds Expansion (1.5.0)-77947-1-5-0-1675142342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77947/?tab=files&file_id=354860)
+*  [RH's Sons of Skyrim Arrows Renamed - FOMOD-131477-1-1-0-1731814125.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131477/?tab=files&file_id=563114)
 *  [Ribbit Remix-115739-1-1712342281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115739/?tab=files&file_id=487768)
 *  [RingCollision-149031-1-01-1747333273.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149031/?tab=files&file_id=627458)
 *  [Riposte - Parry SFX-121997-1-0-1725983491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121997/?tab=files&file_id=540730)
 *  [Riverwood Trader Is A Mess-63631-1-4-1-1748337463.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63631/?tab=files&file_id=631770)
+*  [RMB SPIDified - Core Framework-63625-6-2-1-1749738219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63625/?tab=files&file_id=637062)
+*  [RMB SPIDified - NordwarUA Steel Armors-154151-1-0-0-1751653245.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154151/?tab=files&file_id=644076)
 *  [RSV - Additional Dremora Faces Patch-81668-2-2-0-1699289934.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81668/?tab=files&file_id=440498)
+*  [RSV patch update-102667-2-1-1704041801.7z](https://www.nexusmods.com/skyrimspecialedition/mods/102667/?tab=files&file_id=456753)
 *  [Rudy HQ - More dramatic Red Mountain Plume-89103-1-2-1685394162.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89103/?tab=files&file_id=393165)
 *  [Rudy HQ - More Lights for ENB SE - Glowing Mushrooms-40991-1-0a-1601775796.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40991/?tab=files&file_id=163816)
 *  [Ruins Clutter Improved SE Mod Manager-5870-3-2b-1641550746.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files&file_id=254650)
@@ -998,6 +1189,7 @@
 *  [Ryn's Bleak Falls Tower-72659-1-5-1682854246.rar](https://www.nexusmods.com/skyrimspecialedition/mods/72659/?tab=files&file_id=383262)
 *  [Ryn's Dragon Mounds Collection ALL IN ONE-85647-1-1-1-1681164017.rar](https://www.nexusmods.com/skyrimspecialedition/mods/85647/?tab=files&file_id=377148)
 *  [Ryn's Farms-72305-2-0-1684909101.rar](https://www.nexusmods.com/skyrimspecialedition/mods/72305/?tab=files&file_id=391452)
+*  [Ryn's Skyrim patches-128196-2-1-1750033562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/128196/?tab=files&file_id=638362)
 *  [Ryn's White River Watch-74311-1-6-1682927014.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74311/?tab=files&file_id=383600)
 *  [Sanguine Symphony - Latest Version-148388-1-1-0-1749035163.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148388/?tab=files&file_id=634471)
 *  [Save Unbaker-85565-1-0-4-1677453959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85565/?tab=files&file_id=363731)
@@ -1015,6 +1207,8 @@
 *  [SCROTE BSA Version-97155-1-0-2-1714948522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97155/?tab=files&file_id=498293)
 *  [Seamless Cubemaps-84331-1-2-1691105119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84331/?tab=files&file_id=413886)
 *  [Seamless Dynamic Cubemaps-154408-1-0-1-1752716251.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154408/?tab=files&file_id=647864)
+*  [Seasonal Weathers Framework - 1.01-63562-1-01-1644859098.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63562/?tab=files&file_id=264127)
+*  [Seasonal Weathers Framework - NAT-ENB III - 3.1.1C-63562-NATENBIII-3-1-1C-1691945733.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63562/?tab=files&file_id=416703)
 *  [Security Overhaul SKSE - Add-ons-59529-0-1-9-1-1699596506.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=441363)
 *  [Security Overhaul SKSE - Lock Variations-58224-4-0-0-1724139207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=533430)
 *  [Sensible Bribes-55450-1-0-1631440752.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55450/?tab=files&file_id=227830)
@@ -1034,6 +1228,7 @@
 *  [Simonrim Attack Speed Fix-30191-1-0-0-1674102606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=350926)
 *  [Simple Archery Animations-153153-1-0-3-1752091652.zip](https://www.nexusmods.com/skyrimspecialedition/mods/153153/?tab=files&file_id=645695)
 *  [Simple Beheading - Latest Version-117172-1-0-6-1750409424.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117172/?tab=files&file_id=639712)
+*  [Simple Camping Storage and Repack Campsite-30750-1-0-1575302865.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30750/?tab=files&file_id=114999)
 *  [Simple Degradation-74790-1-5-1-1692818730.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74790/?tab=files&file_id=419873)
 *  [Simple Dual Sheath - Left Hand Vanilla Scabbards-65642-1-01-1648703828.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65642/?tab=files&file_id=273804)
 *  [Simple Dual Sheath for 1.6.629 and newer-50049-1-5-7-1702208537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=450438)
@@ -1066,9 +1261,10 @@
 *  [SkyPrompt-148703-2-3-0-1751902725.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148703/?tab=files&file_id=645025)
 *  [Skyrim Autocorrect - Dialogue Grammar Fixes-141632-1-0-4-1741329005.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141632/?tab=files&file_id=602589)
 *  [Skyrim Autocorrect - Standalone Aesthetics Addon-141632-1-0-4-1741329118.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141632/?tab=files&file_id=602590)
-*  [Skyrim Bandit Expansion Patches-154352-1-2-4-1752814741.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154352/?tab=files&file_id=648102)
-*  [Skyrim Bandit Expansion-154352-1-2-2-1752727218.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154352/?tab=files&file_id=647887)
+*  [Skyrim Bandit Expansion Patches-154352-1-2-6-1752926221.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154352/?tab=files&file_id=648463)
+*  [Skyrim Bandit Expansion-154352-1-2-3-1752925972.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154352/?tab=files&file_id=648462)
 *  [Skyrim Children Refine (1.1.1)-72389-1-1-1-1668004006.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72389/?tab=files&file_id=330371)
+*  [Skyrim Extended Cut - Saints and Seducers-72772-1-0-0-6-1679195731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=369854)
 *  [Skyrim Objects SMIMed - Glazed and Nordic Pottery-69487-0-2-1654941151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69487/?tab=files&file_id=290371)
 *  [Skyrim on Skooma-80975-69-69-1711962049.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80975/?tab=files&file_id=486353)
 *  [Skyrim Reputation - Manbeast patch-82691-1-1-2-1698428090.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82691/?tab=files&file_id=437499)
@@ -1100,7 +1296,20 @@
 *  [SmoothCam Vanilla Enhanced 2-82481-1-0-1674868979.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82481/?tab=files&file_id=353710)
 *  [SmoothCam-41252-1-7-1667161230.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=327727)
 *  [SMP-NPC crash fix-91616-1-1684409131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91616/?tab=files&file_id=389370)
+*  [Snazzy Dawnstar AIO-147758-2-2-1751280660.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147758/?tab=files&file_id=642908)
+*  [Snazzy Falkreath AIO-147671-2-0-1749040289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147671/?tab=files&file_id=634499)
+*  [Snazzy Interiors Patch Collection-91604-2-1-1751403938.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91604/?tab=files&file_id=643355)
+*  [Snazzy Location Resources-147670-2-02-1751038146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147670/?tab=files&file_id=642145)
+*  [Snazzy Markarth AIO-147624-2-0-1749040066.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147624/?tab=files&file_id=634494)
 *  [Snazzy Mesh Fixes - Windhelm Interiors-108315-1-1-1704347461.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108315/?tab=files&file_id=457648)
+*  [Snazzy Misc Location-147762-2-1-1749066920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147762/?tab=files&file_id=634604)
+*  [Snazzy Morthal AIO-147759-2-1-1751281253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147759/?tab=files&file_id=642911)
+*  [Snazzy Riften AIO-147594-2-11-1751297629.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147594/?tab=files&file_id=642995)
+*  [Snazzy Solitude AIO-147618-2-0-1749039937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147618/?tab=files&file_id=634490)
+*  [Snazzy Towns and Settlements-147761-2-0-1749040408.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147761/?tab=files&file_id=634503)
+*  [Snazzy Whiterun AIO-147621-2-0-1749040030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147621/?tab=files&file_id=634493)
+*  [Snazzy Windhelm AIO-147620-2-0-1749039996.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147620/?tab=files&file_id=634492)
+*  [Snazzy Winterhold AIO-150194-2-0-1749040259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/150194/?tab=files&file_id=634498)
 *  [SnoresOfSkyrimLite-95114-1-0-1688572131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95114/?tab=files&file_id=404043)
 *  [Snowy Statics Consistency-94016-1-1-1691107680.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94016/?tab=files&file_id=413895)
 *  [So This Aint Right (STAR) - Patches by Missile-121047-1-0-8-1745006237.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121047/?tab=files&file_id=618759)
@@ -1128,6 +1337,7 @@
 *  [Spaghetti's Solstheim - AIO-91263-1-0-1684001014.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91263/?tab=files&file_id=387748)
 *  [Spaghetti's Towns - AIO-89775-1-0-1682178988.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89775/?tab=files&file_id=380880)
 *  [Spaghetti's Towns and Cities Lanterns Addon-149249-1-2-1-1748182046.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149249/?tab=files&file_id=631048)
+*  [Spell Knight Armor PBR-138709-1-0-2-1752325923.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138709/?tab=files&file_id=646359)
 *  [Spell Perk Item Distributor-36869-7-1-3-1713397024.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=491985)
 *  [SPID for Footprints-54924-3-4-1673214662.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54924/?tab=files&file_id=347974)
 *  [SPIDforFootprintUltimateFix_v1.03-96086-1-03-1690832296.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96086/?tab=files&file_id=412790)
@@ -1147,6 +1357,7 @@
 *  [StealthMeterTweak-se-28511-1-1-1566759142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28511/?tab=files&file_id=104316)
 *  steam_api64.dll
 *  [Steel Armor Fix-39704-1-1-1598141551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157176)
+*  [Steel Plate Armors PBR-154107-1-0-1-1752117623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154107/?tab=files&file_id=645748)
 *  [Stellaris - Custom I4 Icons-105055-1-1-1702511491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105055/?tab=files&file_id=451657)
 *  [Stellaris-86833-2-0-7-1708251803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86833/?tab=files&file_id=472106)
 *  [Stonewall Terraces PBR-139889-1-0-0-1751817090.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139889/?tab=files&file_id=644738)
@@ -1172,6 +1383,7 @@
 *  [talkative spriggans (se-ae)-115248-1-1711637021.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115248/?tab=files&file_id=484920)
 *  [talkative storm atronachs (se-ae)-116377-1-1712756290.rar](https://www.nexusmods.com/skyrimspecialedition/mods/116377/?tab=files&file_id=489256)
 *  [talkative wispmothers (se-ae)-100856-1-1695011753.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100856/?tab=files&file_id=426897)
+*  [Tamrielic Distribution-71372-1-4-1-1739755337.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=595656)
 *  [Tel Mithryn Overhaul-100397-1-1-1700029255.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=442756)
 *  [Terrain Shadows - Heightmaps-135817-1-0-0-1733598206.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135817/?tab=files&file_id=570012)
 *  [Terrain Shadows-135817-1-0-0-1733602194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135817/?tab=files&file_id=570047)
@@ -1183,8 +1395,10 @@
 *  [The Breathing Abyss - ESL - 1.0.8-141216-1-0-8-1751924046.rar](https://www.nexusmods.com/skyrimspecialedition/mods/141216/?tab=files&file_id=645113)
 *  [The Courier Crew (ESPfe) USSEP-250214_Loose-61400-250214-1739655427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61400/?tab=files&file_id=595196)
 *  [The Devils in the Details - 1.0.6 - HDT-SMP-146620-1-0-6-1751916375.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146620/?tab=files&file_id=645097)
+*  [The Devils in the Details-148788-1-0-1751912067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148788/?tab=files&file_id=645061)
 *  [The Divine Question - Non-ESL - Pre-Existing Games-134577-1-0-2-1732384320.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134577/?tab=files&file_id=565265)
 *  [The Dragon Cult - A Draugr Overhaul-81422-1-4-3-1710108558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81422/?tab=files&file_id=479195)
+*  [The Dragon Cult - Expanded-88174-1-3-1694907498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88174/?tab=files&file_id=426410)
 *  [The Dragon Cult - Priesthood-92794-1-1-7-1724669715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92794/?tab=files&file_id=535496)
 *  [The Dragonborn's Bestiary - Natura Addon-123389-1-0-1720823823.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=520483)
 *  [The Dragonborn's Bestiary - Vanilla Addon-123389-1-3-1721186051.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=522045)
@@ -1209,6 +1423,9 @@
 *  [Thunderbolt HD Lightning-46024-2-0-1697434374.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46024/?tab=files&file_id=434441)
 *  [Thundertrot Directional Move Patch - HAO-140122-2-0-1752247475.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140122/?tab=files&file_id=646135)
 *  [Thundertrot Directional Move-140941-1-0-1739372436.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140941/?tab=files&file_id=593754)
+*  [Thwack-42653-3-0-0-1657940533.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42653/?tab=files&file_id=299303)
+*  [Time Flies - AE Fishing Patch-39426-1-0-1648240393.rar](https://www.nexusmods.com/skyrimspecialedition/mods/39426/?tab=files&file_id=272503)
+*  [Time Flies SE-39426-8-2-2-1752888502.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39426/?tab=files&file_id=648358)
 *  [TITS UP - The Biggest FOMOD Ever-115020-1-2-3-1713861749.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115020/?tab=files&file_id=493914)
 *  [To Your Face AE-24720-1-0u-1705996371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=464059)
 *  [Toggle UI v4.7.0-112819-4-7-0-1717221204.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112819/?tab=files&file_id=507107)
@@ -1265,6 +1482,7 @@
 *  [Unofficial Material Fix-21027-1-18-0-1743165030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=610851)
 *  [Unofficial Simonrim I4 Icons - Aetherius Tweak-108060-1-0-0-1704570874.zip](https://www.nexusmods.com/skyrimspecialedition/mods/108060/?tab=files&file_id=458532)
 *  [Unofficial Simonrim I4 Icons-108060-1-1-0-1713565624.zip](https://www.nexusmods.com/skyrimspecialedition/mods/108060/?tab=files&file_id=492683)
+*  [Unofficial Skyrim Creation Club Content Patch-18975-8-2-1746071153.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=622554)
 *  [Unofficial Skyrim Special Edition Patch-266-4-3-5-1751567000.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=643818)
 *  [Usable Campfires-140915-1-4-2-1752459977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140915/?tab=files&file_id=646932)
 *  [UsableUnlitCampfires - EmbersXD patch-154814-1-0-1752679168.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154814/?tab=files&file_id=647758)
@@ -1334,6 +1552,7 @@
 *  [Whistling in Skyrim-114781-1-0-1711156847.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114781/?tab=files&file_id=483243)
 *  [Whiterun Fence Walls Mesh Fix-84726-1-2-1676329264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84726/?tab=files&file_id=359542)
 *  [Widescreen Scale Removed-136793-1-0-3-1752316982.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136793/?tab=files&file_id=646336)
+*  [Wild Horses as Oblivion Horses AE-57651-3-01-1721941020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57651/?tab=files&file_id=524938)
 *  [Wildwood Echoes-112008-1-3-1716161041.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112008/?tab=files&file_id=502922)
 *  [Windhelm Bridge Reforged-88653-1-8d-1741862895.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88653/?tab=files&file_id=605067)
 *  [Windhelm Bridge Stairs-78399-0-7-1722687366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78399/?tab=files&file_id=527826)
