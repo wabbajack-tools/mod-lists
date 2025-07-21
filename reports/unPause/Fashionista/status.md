@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (56)
+### Valid (74)
 *  [1_Character Eyes Improved-164-16-1719680547.rar](https://www.nexusmods.com/vampirebloodlines/mods/164/?tab=files&file_id=1015)
 *  [Aristocratic nosferatu by marius217-146-1-1591472026.rar](https://www.nexusmods.com/vampirebloodlines/mods/146/?tab=files&file_id=402)
 *  [Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip](https://www.nexusmods.com/vampirebloodlines/mods/74/?tab=files&file_id=169)
@@ -26,7 +26,8 @@
 *  [Libertarian Ventrue-317-1-0-1719329227.zip](https://www.nexusmods.com/vampirebloodlines/mods/317/?tab=files&file_id=1013)
 *  [Lily UV map fix-237-1-1671754711.7z](https://www.nexusmods.com/vampirebloodlines/mods/237/?tab=files&file_id=688)
 *  [Lockpicking icons for UP-308-1-0-1717262414.rar](https://www.nexusmods.com/vampirebloodlines/mods/308/?tab=files&file_id=998)
-*  [Main Songs-324-1-0-1722428546.zip](https://www.nexusmods.com/vampirebloodlines/mods/324/?tab=files&file_id=1050)
+*  [malk_noir-45-2-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/45/?tab=files&file_id=115)
+*  [Malkavian_female_24.12.2023-286-24-12-2023-1703392861.zip](https://www.nexusmods.com/vampirebloodlines/mods/286/?tab=files&file_id=929)
 *  [MalkWhispers-280-v1-1698848073.zip](https://www.nexusmods.com/vampirebloodlines/mods/280/?tab=files&file_id=895)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Nosferatu Interface-284-1-1734878052.rar](https://www.nexusmods.com/vampirebloodlines/mods/284/?tab=files&file_id=1136)
@@ -54,6 +55,23 @@
 *  [vampire tremere Dark by Marius217-114-1-1565234705.rar](https://www.nexusmods.com/vampirebloodlines/mods/114/?tab=files&file_id=269)
 *  [vampire tremere Jerry Dandridge (Fright Night) by Marius217-113-1-1564250426.rar](https://www.nexusmods.com/vampirebloodlines/mods/113/?tab=files&file_id=267)
 *  [vampire Tremere Male my version original by Marius217-116-1-1565840224.rar](https://www.nexusmods.com/vampirebloodlines/mods/116/?tab=files&file_id=274)
+*  Vampire_sound_music_chinatown_chinatown_theme.mp3
+*  Vampire_sound_music_dangerous_places.mp3
+*  Vampire_sound_music_disturbed_and_twisted.mp3
+*  Vampire_sound_music_downtown_downtown_theme.mp3
+*  Vampire_sound_music_hollywood_asphole_asp_hole.mp3
+*  Vampire_sound_music_licenced_05. chiasm - isolated.mp3
+*  Vampire_sound_music_licenced_aerial - pound.mp3
+*  Vampire_sound_music_licenced_asp hole.mp3
+*  Vampire_sound_music_licenced_daniel ash - come alive.mp3
+*  Vampire_sound_music_licenced_darling violetta - a smaller god.mp3
+*  Vampire_sound_music_licenced_genitorturers - lecher bitch.mp3
+*  Vampire_sound_music_licenced_glaze.mp3
+*  Vampire_sound_music_licenced_lacuna coil - swamped.mp3
+*  Vampire_sound_music_licenced_ministry - bloodlines.mp3
+*  Vampire_sound_music_licenced_vesuvius.mp3
+*  Vampire_sound_music_mission_impossible_combat.mp3
+*  Vampire_sound_music_moldy_old_world.mp3
 *  [Ventrue female reskin-277-v1-1697582925.7z](https://www.nexusmods.com/vampirebloodlines/mods/277/?tab=files&file_id=891)
 *  [Ventrue Interface-284-1-1734421537.rar](https://www.nexusmods.com/vampirebloodlines/mods/284/?tab=files&file_id=1133)
 *  [Voices Remastered Mod - Unofficial Patch Add-on-307-1-0-1716814703.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=993)
