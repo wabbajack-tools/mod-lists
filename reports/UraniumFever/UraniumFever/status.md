@@ -1295,7 +1295,7 @@
 *  [Upside-down Caravan Card Fix-72052-1-0-1618344462.7z](https://www.nexusmods.com/newvegas/mods/72052/?tab=files&file_id=1000074914)
 *  [Uranium Bullet Casings-89051-3-0-1743474589.7z](https://www.nexusmods.com/newvegas/mods/89051/?tab=files&file_id=1000149345)
 *  [Uranium Fever Custom Facegen Patch-89815-1-4-1-0-1751496276.7z](https://www.nexusmods.com/newvegas/mods/89815/?tab=files&file_id=1000154214)
-*  [Uranium Haze-88817-11-0-1752934953.zip](https://www.nexusmods.com/newvegas/mods/88817/?tab=files&file_id=1000154966)
+*  [Uranium Haze-88817-11-5-1753051147.zip](https://www.nexusmods.com/newvegas/mods/88817/?tab=files&file_id=1000155032)
 *  [Usable Fungus Stalks (Base Object Swapper)-87973-1-1719604732.rar](https://www.nexusmods.com/newvegas/mods/87973/?tab=files&file_id=1000135220)
 *  [Usable Sinks-88459-1-0-1722129694.zip](https://www.nexusmods.com/newvegas/mods/88459/?tab=files&file_id=1000137041)
 *  [v1.0.11-71525-v1-0-11-1699904513.zip](https://www.nexusmods.com/newvegas/mods/71525/?tab=files&file_id=1000119009)
