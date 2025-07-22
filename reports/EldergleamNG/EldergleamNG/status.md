@@ -1,11 +1,10 @@
 ## Validation Report - Eldergleam Next-Gen (EldergleamNG/EldergleamNG)
 
 
-### Invalid (1)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1934)
+### Valid (1935)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460512)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -157,6 +156,7 @@
 *  [Astounding Flame Atronachs-24836-1-1-1554637994.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24836/?tab=files&file_id=87638)
 *  [Atlas Map Markers Overhaul-137793-1-1-1735790113.rar](https://www.nexusmods.com/skyrimspecialedition/mods/137793/?tab=files&file_id=578587)
 *  [Atlas Map Markers-24104-3-7-1-1731890635.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=563455)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul - Immersive Sounds Patch Redux-35906-1-3-1589593879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35906/?tab=files&file_id=140223)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Aura's Inventory Tweaks-68557-4-5-0-1713935718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68557/?tab=files&file_id=494229)
