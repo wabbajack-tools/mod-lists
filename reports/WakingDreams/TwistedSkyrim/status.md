@@ -1,10 +1,12 @@
 ## Validation Report - Twisted Skyrim (WakingDreams/TwistedSkyrim)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4785)
+### Valid (4783)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -3733,8 +3735,6 @@
 *  [Say No To Calcelmo-69991-0-1-1655756231.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69991/?tab=files&file_id=292626)
 *  [SB - Better Blending Helgen Mud-90261-1-1-1721836146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90261/?tab=files&file_id=524480)
 *  [SB - Pressure Plate Trap Blending - Base Object Sw-86053-2-0-1719414996.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86053/?tab=files&file_id=515069)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [Scaffolding Over Sovngarde - High Poly-97909-1-2-1691669896.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97909/?tab=files&file_id=415755)
 *  [Scale Nord Armor - 3BA Bodyslide-111345-1-0-0-1707579336.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111345/?tab=files&file_id=469538)
 *  [Scale Nord Armor - HIMBO Refit-63624-1-0-1644869411.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63624/?tab=files&file_id=264171)
