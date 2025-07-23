@@ -180,7 +180,7 @@
 *  [aceanimations_fj_sexlab-81928-1-17f-1726597891.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81928/?tab=files&file_id=543287)
 *  [aceanimations_grope_sexlab-81928-1-16f-1726597945.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81928/?tab=files&file_id=543288)
 *  [aceanimations_romance_sexlab-81928-1-22f-1726598044.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81928/?tab=files&file_id=543289)
-*  [Acheron - Diary of Mine Addon - 1.2.0.7z](https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/)
+*  [Acheron - Diary of Mine AddOn - 2.1.0.zip](https://www.loverslab.com/files/file/27594-acheron-diary-of-mine-addon/)
 *  [Acheron-108159-1-7-0-1747319698.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108159/?tab=files&file_id=627407)
 *  [ACMOS Road Generator-79205-4-0-1669261046.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79205/?tab=files&file_id=334063)
 *  [Acoustic Space Improvement Fixes (SkyPatcher)-78992-1-3-2-1747633076.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78992/?tab=files&file_id=628788)

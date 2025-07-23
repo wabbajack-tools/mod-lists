@@ -1,12 +1,13 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (2)
+### Invalid (3)
 *  [NEFARAM 11 Voice Pack & Bodyslide.zip](https://authored-files.wabbajack.org/NEFARAM 11 Voice Pack & Bodyslide.zip_c202e148-3f9a-4f79-a0a9-f081d05d048e)
 *  [NEFARAM 14 Bodyslide.7z](https://authored-files.wabbajack.org/NEFARAM 14 Bodyslide.7z_0e9b6ad8-b781-43d9-be33-1f2528cd1370)
+*  [NEFARAM 15.2 Bodyslide Output.7z](https://authored-files.wabbajack.org/NEFARAM 15.2 Bodyslide Output.7z_e406e1b4-6f66-4641-9e46-25ce7995d5eb)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2157)
+### Valid (2156)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -1361,7 +1362,6 @@
 *  [NEFARAM 0.6 Bodyslides.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=342093)
 *  [NEFARAM 0.7 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.7 Bodyslides.zip_26ae851d-e9e7-4f3e-97c6-6a5d52af5e6d)
 *  [NEFARAM 0.9 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.9 Bodyslides.zip_8b4408bb-3612-4e19-b7b8-de6a41c9df84)
-*  [NEFARAM 15.2 Bodyslide Output.7z](https://authored-files.wabbajack.org/NEFARAM 15.2 Bodyslide Output.7z_e406e1b4-6f66-4641-9e46-25ce7995d5eb)
 *  [NEFARAM AYGAS Voice.zip](https://authored-files.wabbajack.org/NEFARAM AYGAS Voice.zip_9a5738b3-f846-4fbc-8f3f-4fba744e2ef2)
 *  [NEFARAM DynDOLOD Output 15pt1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=514243)
 *  [NEFARAM DynDOLOD Output 15pt2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=514255)
