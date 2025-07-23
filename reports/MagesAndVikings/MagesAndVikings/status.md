@@ -1,11 +1,10 @@
 ## Validation Report - Mages & Vikings (MagesAndVikings/MagesAndVikings)
 
 
-### Invalid (1)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3152)
+### Valid (3153)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
@@ -255,6 +254,7 @@
 *  [Attack Animation Fling Fix NG-147873-0-1-7-1746993787.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147873/?tab=files&file_id=626192)
 *  [Attack dog replace - SE by Xtudo - Vanilla 2K-122836-1-1719498226.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122836/?tab=files&file_id=515411)
 *  [Attack speed to Power Attack reduction-124106-1-0-0-1720805988.rar](https://www.nexusmods.com/skyrimspecialedition/mods/124106/?tab=files&file_id=520391)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Auto Input Switch-54309-1-1-2-1630404989.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=225158)
