@@ -2,8 +2,8 @@
 
 
 ### Invalid (2)
-*  [NEFARAM 0.7 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.7 Bodyslides.zip_26ae851d-e9e7-4f3e-97c6-6a5d52af5e6d)
-*  [NEFARAM 15.2 Bodyslide Output.7z](https://authored-files.wabbajack.org/NEFARAM 15.2 Bodyslide Output.7z_e406e1b4-6f66-4641-9e46-25ce7995d5eb)
+*  [NEFARAM 11 Voice Pack & Bodyslide.zip](https://authored-files.wabbajack.org/NEFARAM 11 Voice Pack & Bodyslide.zip_c202e148-3f9a-4f79-a0a9-f081d05d048e)
+*  [NEFARAM 14 Bodyslide.7z](https://authored-files.wabbajack.org/NEFARAM 14 Bodyslide.7z_0e9b6ad8-b781-43d9-be33-1f2528cd1370)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (2157)
@@ -1359,9 +1359,9 @@
 *  [NEFARAM 0.10 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.10 Bodyslides.zip_b2d7ed59-4328-4780-930f-c210a714174f)
 *  [NEFARAM 0.2 0.3 0.4 Bodyslides.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=314872)
 *  [NEFARAM 0.6 Bodyslides.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=342093)
+*  [NEFARAM 0.7 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.7 Bodyslides.zip_26ae851d-e9e7-4f3e-97c6-6a5d52af5e6d)
 *  [NEFARAM 0.9 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.9 Bodyslides.zip_8b4408bb-3612-4e19-b7b8-de6a41c9df84)
-*  [NEFARAM 11 Voice Pack & Bodyslide.zip](https://authored-files.wabbajack.org/NEFARAM 11 Voice Pack & Bodyslide.zip_c202e148-3f9a-4f79-a0a9-f081d05d048e)
-*  [NEFARAM 14 Bodyslide.7z](https://authored-files.wabbajack.org/NEFARAM 14 Bodyslide.7z_0e9b6ad8-b781-43d9-be33-1f2528cd1370)
+*  [NEFARAM 15.2 Bodyslide Output.7z](https://authored-files.wabbajack.org/NEFARAM 15.2 Bodyslide Output.7z_e406e1b4-6f66-4641-9e46-25ce7995d5eb)
 *  [NEFARAM AYGAS Voice.zip](https://authored-files.wabbajack.org/NEFARAM AYGAS Voice.zip_9a5738b3-f846-4fbc-8f3f-4fba744e2ef2)
 *  [NEFARAM DynDOLOD Output 15pt1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=514243)
 *  [NEFARAM DynDOLOD Output 15pt2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71749/?tab=files&file_id=514255)
