@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (912)
+### Valid (911)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -132,6 +132,7 @@
 *  [College of Winterhold - Quest Expansion-66666-1-16-1744547275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=616798)
 *  [Combat Pathing Revolution AE-146965-0-30-1-1744103037.7z](https://www.nexusmods.com/skyrimspecialedition/mods/146965/?tab=files&file_id=615170)
 *  [Combat Pathing Revolution-86950-v0-30-1678975298.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86950/?tab=files&file_id=369090)
+*  [Common Clothing Expansion-134088-1-7-1734795059.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134088/?tab=files&file_id=574611)
 *  [Compass Navigation Overhaul - Nordic UI Skin-74484-2-1-1676326470.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=359537)
 *  [Compass Navigation Overhaul-74484-2-2-0-1710712304.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=481665)
 *  [Compatibility patch for EVG Conditional Idles-149713-1-0-1747515672.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149713/?tab=files&file_id=628200)
@@ -142,7 +143,9 @@
 *  [Constructible Object Custom KeywordSystem 1.1.1DEU-132903-1-1-1-1730507317.zip](https://www.nexusmods.com/skyrimspecialedition/mods/132903/?tab=files&file_id=558028)
 *  [COTN Dawnstar Patch Collection - German-62037-5-0-DV1-2-1700576116.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62037/?tab=files&file_id=444696)
 *  [COTN Morthal Patch Collection - German-62115-3-2-2-DV1-1-1715343633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62115/?tab=files&file_id=499728)
+*  [Crackling Fire-137631-1-2-1737581799.7z](https://www.nexusmods.com/skyrimspecialedition/mods/137631/?tab=files&file_id=586317)
 *  [Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81409/?tab=files&file_id=493920)
+*  [Crafting recipes-134088-1-2-1732305443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134088/?tab=files&file_id=564972)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
 *  [Daedric Shrines - All in One  - 4K-78772-1-02-1724805197.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78772/?tab=files&file_id=536018)
 *  [Daedric Shrines - All in One - My Patches by Xtudo - German-85941-v2-3-1677528044.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85941/?tab=files&file_id=363962)
@@ -323,6 +326,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [DbMiscFunctions-65410-10-2-1751914858.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=645093)
 *  [DD - Vergi Sigrin Armor-144670-3-3-1745932469.rar](https://www.nexusmods.com/skyrimspecialedition/mods/144670/?tab=files&file_id=622110)
 *  [Deadly Dragons - German Translation-43946-6-5-5-1609673705.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43946/?tab=files&file_id=177490)
 *  [Deadly Dragons SE Patches-23723-6-5-6-1639507938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=249137)
@@ -343,6 +347,7 @@
 *  [Dragonborn Reskin - Compass (Nordic)-142377-1-0-1740751049.zip](https://www.nexusmods.com/skyrimspecialedition/mods/142377/?tab=files&file_id=600019)
 *  [Dragonborn Reskin - Modern Wait Menu-132726-1-11-1730749804.zip](https://www.nexusmods.com/skyrimspecialedition/mods/132726/?tab=files&file_id=558980)
 *  [Dragonborn Reskin - QJO (opaque background)-150788-1-01-1748033645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150788/?tab=files&file_id=630402)
+*  [Dragonborn Reskin - SkyUI Active Effects (Default)-130536-1-0-1728657108.zip](https://www.nexusmods.com/skyrimspecialedition/mods/130536/?tab=files&file_id=551093)
 *  [Dragonborn Reskin - STB Widgets-140283-1-04-1747080079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140283/?tab=files&file_id=626510)
 *  [Draugr.4k-2k-5848-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5848/?tab=files&file_id=13159)
 *  [dTry Plugin Updates-85740-1-0-3-1696691628.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85740/?tab=files&file_id=431955)
@@ -362,7 +367,6 @@
 *  [Dynamic Lowered Hoods-65964-1-0-0-1649069652.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65964/?tab=files&file_id=274711)
 *  [Dynamic Random Spell Idle - Player NPC All-77025-1-8-1724725205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77025/?tab=files&file_id=535753)
 *  [Dynamic String Distributor-107676-1-2-5-1739786003.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107676/?tab=files&file_id=595770)
-*  [DynDOLOD 3.00-68518-Alpha-190-1740380372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=598486)
 *  [E.1) GoT HotD Dragons - Deadly Dragons replacer-83718-2-0-1740647328.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83718/?tab=files&file_id=599638)
 *  [Easy Console Commands-122895-1-0-8-1723422080.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122895/?tab=files&file_id=530696)
 *  [EEOS - Enemy Revolution of Skyrim-37228-2-02-1705594315.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=462609)
@@ -371,6 +375,7 @@
 *  [eFPS - Miscellaneous Patches-64421-1-2-1646265568.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64421/?tab=files&file_id=267724)
 *  [ElSopa - Potions Redone 2k-80832-1-0-1671324732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80832/?tab=files&file_id=341442)
 *  [ElSopa - Quivers Redone 1k SE-65921-1-0-1648964938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65921/?tab=files&file_id=274523)
+*  [ElSopa - Quivers Redone 2k SE-65921-1-0-1648964906.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65921/?tab=files&file_id=274522)
 *  [Embers XD - German-61993-v2-9-3-1705601960.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61993/?tab=files&file_id=462637)
 *  [Embers XD-37085-3-1-3-1747376537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=627611)
 *  [ENB Extender Skyrim-99406-1-3-1-1739833608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=596064)
@@ -675,6 +680,7 @@
 *  [Photo Mode Gamern Translation-123873-1-8-0-1735139916.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123873/?tab=files&file_id=575974)
 *  [Photo Mode-91701-1-9-1-1743648701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=613228)
 *  [Pickpocket Reset-13838-1-1-1-1618526480.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13838/?tab=files&file_id=198406)
+*  [Pig Iron - SE by Xtudo - Fixes-128731-1-3-1725978380.7z](https://www.nexusmods.com/skyrimspecialedition/mods/128731/?tab=files&file_id=540708)
 *  [Player-exclusive HDT-SMP - CBBE 3BA-142450-1-1a-1746253100.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142450/?tab=files&file_id=623155)
 *  [Player-exclusive HDT-SMP Armors-142450-1-1a-1742310282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142450/?tab=files&file_id=607076)
 *  [powerofthree's Tweaks-51073-1-13-1-1734636067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=573995)
@@ -694,6 +700,7 @@
 *  [RaceMenu Anniversary Edition v0-4-19-16-19080-0-4-19-16-1706297897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=465102)
 *  [RaceMenu DEUTSCH-144561-0-4-19-16-1741855530.zip](https://www.nexusmods.com/skyrimspecialedition/mods/144561/?tab=files&file_id=605045)
 *  [RaceMenu High Heels Fixes-18045-1-3-1552859840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18045/?tab=files&file_id=85313)
+*  [radiant raiment merchant list-134088-1-1-1732208003.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134088/?tab=files&file_id=564608)
 *  [Random first person magic animation SSE with DAR v1.1-61188-1-1-1641566405.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61188/?tab=files&file_id=254715)
 *  [RDO 2.0.105 - SSE - Deutsch-34188-2-0-105-1647989897.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34188/?tab=files&file_id=271884)
 *  [Read or Take SKSE-69588-1-4-0-1716187218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69588/?tab=files&file_id=503000)
@@ -822,8 +829,6 @@
 *  [Splashes of Storms-72115-1-3-1-1730271711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72115/?tab=files&file_id=557058)
 *  [SSE Display Tweaks-34705-0-5-16-1703410713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=454679)
 *  [SSE FPS Stabilizer - FOMOD Installer-38438-1-1-12-1708117999.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38438/?tab=files&file_id=471551)
-*  [SSE NIF Optimizer.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4089/?tab=files&file_id=549580)
-*  [SSEEdit 4.1.5f-164-4-1-5f-1714283656.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=495506)
 *  [Stand still in RaceMenu OAR vanilla idle version-96970-1-0-0-1690612113.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96970/?tab=files&file_id=411687)
 *  [STB Widgets-136148-1-9-1746903963.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136148/?tab=files&file_id=625753)
 *  steam_api64.dll
@@ -850,6 +855,7 @@
 *  [The Great Village of Old Hroldan 1.03-33189-1-03-1583084144.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33189/?tab=files&file_id=126681)
 *  [The Great Village of Old Hroldan German 1.03-33203-1-03-1583107235.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33203/?tab=files&file_id=126749)
 *  [The Pure - CBBE-20583-1-3-1-1551788502.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20583/?tab=files&file_id=83906)
+*  [The Southbound Scouts - HDT-SMP-122550-1-01-1723951184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122550/?tab=files&file_id=532539)
 *  [Thrones Expanded - Base Object Swapper-139544-1-2-1737570509.zip](https://www.nexusmods.com/skyrimspecialedition/mods/139544/?tab=files&file_id=586268)
 *  [Timing is Everything SE-25464-2-2-1566270281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25464/?tab=files&file_id=103670)
 *  [TK Dodge For RE-15309-3-18-1663096096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15309/?tab=files&file_id=315866)
@@ -858,13 +864,6 @@
 *  [TMB CBBE Bodyslide Conversion by TheBlazeking1001-42131-0-2-1605230302.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42131/?tab=files&file_id=169817)
 *  [TMB Vanilla Armors And Clothes SSE v1_4_0-18094-1-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18094/?tab=files&file_id=64770)
 *  [To Your Face AE-24720-1-0u-1705996371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=464059)
-*  Tools_AssetWatcher_platforms_qminimal.dll
-*  Tools_AssetWatcher_platforms_qoffscreen.dll
-*  Tools_AssetWatcher_platforms_qwindows.dll
-*  Tools_AssetWatcher_Qt5Core.dll
-*  Tools_AssetWatcher_Qt5Gui.dll
-*  Tools_AssetWatcher_Qt5Widgets.dll
-*  Tools_AssetWatcher_styles_qwindowsvistastyle.dll
 *  [Torches Cast Shadows 3.5 - Deutsch-11924-3-5-1575742430.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11924/?tab=files&file_id=115507)
 *  [Torches Cast Shadows-1369-3-5-1563485796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1369/?tab=files&file_id=99724)
 *  [Trade and Barter SE - Deutsch-23099-2-1-1693217921.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23099/?tab=files&file_id=421456)
