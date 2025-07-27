@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [cloaksoffaerun_6f8cbf24-9cfd-7-4tzo.zip](https://g-6715.modapi.io/v1/games/6715/mods/4919937/files/6384071/download)
+*  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (749)
@@ -142,6 +142,7 @@
 *  [Clear Map No Grid-2256-1-2-6-1744782461.zip](https://www.nexusmods.com/baldursgate3/mods/2256/?tab=files&file_id=89109)
 *  [ClericSubclasses5eCombined.zip-16007-1-5-1-2-1751322561.zip](https://www.nexusmods.com/baldursgate3/mods/16007/?tab=files&file_id=97049)
 *  [Cloaks Of Faerun-2811-2-2-0-1728275707.zip](https://www.nexusmods.com/baldursgate3/mods/2811/?tab=files&file_id=74362)
+*  [cloaksoffaerun_6f8cbf24-9cfd-7-4tzo.zip](https://g-6715.modapi.io/v1/games/6715/mods/4919937/files/6384071/download)
 *  [College of Dance - Bard Subclass PHB2024 DnD 5R-12558-3-0-1-1744590050.zip](https://www.nexusmods.com/baldursgate3/mods/12558/?tab=files&file_id=88802)
 *  [College of Dance - Level 20 Patch-12558-1-1-1727551405.zip](https://www.nexusmods.com/baldursgate3/mods/12558/?tab=files&file_id=73111)
 *  [College of Eloquence-4651-1-03-1702343609.rar](https://www.nexusmods.com/baldursgate3/mods/4651/?tab=files&file_id=34097)
@@ -549,7 +550,6 @@
 *  [PL Dark Urge Scale Collection-15036-1-0-1740088288.rar](https://www.nexusmods.com/baldursgate3/mods/15036/?tab=files&file_id=86136)
 *  [Poesielibbre's Fair Eye Colors-11253-2-1731108581.zip](https://www.nexusmods.com/baldursgate3/mods/11253/?tab=files&file_id=78303)
 *  [Poesielibre's Githyanki Trio-10412-1-0-1719867056.zip](https://www.nexusmods.com/baldursgate3/mods/10412/?tab=files&file_id=62749)
-*  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 *  [Ponytail for Shadowheart in Act 3 - Short Version-2630-1-3-1-1745853101.zip](https://www.nexusmods.com/baldursgate3/mods/2630/?tab=files&file_id=91005)
 *  [Ponytails-10002-1-1-1-0-1727298956.zip](https://www.nexusmods.com/baldursgate3/mods/10002/?tab=files&file_id=72705)
 *  [Porcelain Masks-15563-1-0-1743434171.zip](https://www.nexusmods.com/baldursgate3/mods/15563/?tab=files&file_id=88133)
