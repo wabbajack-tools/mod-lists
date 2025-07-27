@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (7294)
+### Valid (7293)
 *  [AATL_Data-50647-0-6c7-1732823596.7z](https://www.nexusmods.com/morrowind/mods/50647/?tab=files&file_id=1000048493)
 *  [abotDoorsAntiStuck-50931-1-03-1749479589.7z](https://www.nexusmods.com/morrowind/mods/50931/?tab=files&file_id=1000054270)
 *  [abotGiveOrTake-50716-1-03-1726733671.7z](https://www.nexusmods.com/morrowind/mods/50716/?tab=files&file_id=1000047266)
@@ -29,7 +29,6 @@
 *  [Brutal Backstabbing-45890-1-3-1-1615001348.7z](https://www.nexusmods.com/morrowind/mods/45890/?tab=files&file_id=1000023222)
 *  [Cantons_on_the_Global_Map_v1.1-50534-1-1-1639771891.zip](https://www.nexusmods.com/morrowind/mods/50534/?tab=files&file_id=1000028493)
 *  [Chargen Scenarios-56341-1-1-4-1744695419.7z](https://www.nexusmods.com/morrowind/mods/56341/?tab=files&file_id=1000051939)
-*  [Class Description Tooltip-47527-1-1-1580203400.7z](https://www.nexusmods.com/morrowind/mods/47527/?tab=files&file_id=1000017080)
 *  [Consistent Enchanting v1.2-50029-1-2-0-1651807091.7z](https://www.nexusmods.com/morrowind/mods/50029/?tab=files&file_id=1000030500)
 *  Data Files_Bloodmoon.bsa
 *  Data Files_Bloodmoon.esm
@@ -7245,7 +7244,7 @@
 *  [Graphic Herbalism MWSE - OpenMW-46599-1-04-1558643353.7z](https://www.nexusmods.com/morrowind/mods/46599/?tab=files&file_id=1000014601)
 *  [GreetDistanceReducer-43994-1-0.7z](https://www.nexusmods.com/morrowind/mods/43994/?tab=files&file_id=1000004796)
 *  [Hotkeys Extended-48055-1-1-4-1741383607.7z](https://www.nexusmods.com/morrowind/mods/48055/?tab=files&file_id=1000050985)
-*  Journal.htm
+*  [Joy of Painting-53036-v1-10-10-1747820890.7z](https://www.nexusmods.com/morrowind/mods/53036/?tab=files&file_id=1000053332)
 *  [Just Drop It-49557-1-2-0-1732937820.7z](https://www.nexusmods.com/morrowind/mods/49557/?tab=files&file_id=1000048520)
 *  [Less Lame Leveled Spawns v1.0.0-51059-1-0-0-1651364925.zip](https://www.nexusmods.com/morrowind/mods/51059/?tab=files&file_id=1000030329)
 *  license.txt
