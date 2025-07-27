@@ -1,10 +1,11 @@
 ## Validation Report - Listonomicon (Listonomicon/Listonomicon)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [cloaksoffaerun_6f8cbf24-9cfd-7-4tzo.zip](https://g-6715.modapi.io/v1/games/6715/mods/4919937/files/6384071/download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (750)
+### Valid (749)
 *  [- Standalone Bundle  - Dragonbreath Unleashed-556-11-0-P7-1725651719.zip](https://www.nexusmods.com/baldursgate3/mods/556/?tab=files&file_id=69200)
 *  [(Option 2) Dark Urge - Rebirth - Saving Throw-14598-5-1736816096.zip](https://www.nexusmods.com/baldursgate3/mods/14598/?tab=files&file_id=84015)
 *  [01 - MANTIS' ARCANE INSPIRED COLLECTION-14698-1-2-0-0-1744829478.zip](https://www.nexusmods.com/baldursgate3/mods/14698/?tab=files&file_id=89249)
@@ -141,7 +142,6 @@
 *  [Clear Map No Grid-2256-1-2-6-1744782461.zip](https://www.nexusmods.com/baldursgate3/mods/2256/?tab=files&file_id=89109)
 *  [ClericSubclasses5eCombined.zip-16007-1-5-1-2-1751322561.zip](https://www.nexusmods.com/baldursgate3/mods/16007/?tab=files&file_id=97049)
 *  [Cloaks Of Faerun-2811-2-2-0-1728275707.zip](https://www.nexusmods.com/baldursgate3/mods/2811/?tab=files&file_id=74362)
-*  [cloaksoffaerun_6f8cbf24-9cfd-7-4tzo.zip](https://g-6715.modapi.io/v1/games/6715/mods/4919937/files/6384071/download)
 *  [College of Dance - Bard Subclass PHB2024 DnD 5R-12558-3-0-1-1744590050.zip](https://www.nexusmods.com/baldursgate3/mods/12558/?tab=files&file_id=88802)
 *  [College of Dance - Level 20 Patch-12558-1-1-1727551405.zip](https://www.nexusmods.com/baldursgate3/mods/12558/?tab=files&file_id=73111)
 *  [College of Eloquence-4651-1-03-1702343609.rar](https://www.nexusmods.com/baldursgate3/mods/4651/?tab=files&file_id=34097)
