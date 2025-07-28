@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4788)
+### Valid (4789)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -3327,8 +3327,7 @@
 *  Papyrus Compiler_ScriptCompile.bat
 *  Papyrus Compiler_StringTemplate.dll
 *  [Papyrus Extender-22854-5-10-0-1741317512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=602547)
-*  [Papyrus Extender-22854-6-0-2-1749572065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=636552)
-*  [Papyrus Extender-22854-6-0-3-1751956647.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=645222)
+*  [Papyrus Extender-22854-6-1-0-1753556756.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=650401)
 *  [Papyrus Ini Manipulator-65634-1-9-7-1726186850.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=541531)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
@@ -3404,7 +3403,7 @@
 *  [PondFish-24207-1-0-1552704743.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24207/?tab=files&file_id=85073)
 *  [Powdery Bone Meal SE-79305-v1-0-1669245531.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79305/?tab=files&file_id=334026)
 *  [powerofthree's Tweaks-51073-1-11-0-1722468545.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=527114)
-*  [powerofthree's Tweaks-51073-1-14-0-1753550473.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=650379)
+*  [powerofthree's Tweaks-51073-1-14-1-1753560102.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=650408)
 *  [Praedy and Willow's elder scroll and amulet 4K-51082-2-1-1684754038.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51082/?tab=files&file_id=390837)
 *  [Praedy's Apocrypha 4K-127944-1-2-1725230432.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127944/?tab=files&file_id=537764)
 *  [Praedy's Apocrypha Complex Parallax textures 4k-127944-1-1-1725198428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127944/?tab=files&file_id=537596)
@@ -3952,6 +3951,7 @@
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
 *  [Skyrim Souls RE - Updated - Fixed-155280-1-0-1753159284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155280/?tab=files&file_id=649198)
 *  [Skyrim Souls RE - Updated (Anniversary Edition)-27859-2-4-0-1708891708.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=474487)
+*  [Skyrim Souls RE Updated Fixed-155280-1-1-1-1753636148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155280/?tab=files&file_id=650644)
 *  [Skyrim Vocal Diversity - Skypatcher-150386-2-0-1751532398.rar](https://www.nexusmods.com/skyrimspecialedition/mods/150386/?tab=files&file_id=643717)
 *  [Skyrim Vocal Diversity Resources-150386-2-0-1751532480.rar](https://www.nexusmods.com/skyrimspecialedition/mods/150386/?tab=files&file_id=643718)
 *  Skyrim_Default.ini
@@ -4001,6 +4001,7 @@
 *  [SLO Aroused NG-151502-3-1-4-1-1752489243.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151502/?tab=files&file_id=647028)
 *  [SLO Aroused NG-151502-3-1-4-2-1753049008.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151502/?tab=files&file_id=648848)
 *  [SLO Aroused NG-151502-3-1-4-3-1753383483.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151502/?tab=files&file_id=649870)
+*  [SLO Aroused NG-151502-3-1-4-4-1753625540.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151502/?tab=files&file_id=650602)
 *  [Slordar's Body Freckles 4k-62508-1-0-1643917973.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62508/?tab=files&file_id=261552)
 *  [Small Nordic Tent Replacer - Animated-101359-1-0-1-1695735937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101359/?tab=files&file_id=429139)
 *  [Smaller Cathedral 3D Plants - Base Object Swapper-73193-1-8-1-1711555821.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73193/?tab=files&file_id=484641)
