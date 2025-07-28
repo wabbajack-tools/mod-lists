@@ -1,11 +1,10 @@
 ## Validation Report - The Nico Experience (The_Nico_Experience/The_Nico_Experience)
 
 
-### Invalid (1)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2199)
+### Valid (2200)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -212,6 +211,7 @@
 *  [Astrid Redone-20173-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20173/?tab=files&file_id=67232)
 *  [Atlantis 4K-21397-1-0-1542899295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21397/?tab=files&file_id=73028)
 *  [Atmospheric Lore-Friendly Soundtrack 1.2v-70245-1-2.rar](https://www.nexusmods.com/skyrim/mods/70245/?tab=files&file_id=1000197592)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Aura's Extra Fancy Junk Icon-112282-1-0-1715263993.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112282/?tab=files&file_id=499434)
 *  [Auri - Song of the Green - Replacer - Antlers-113293-1-0-1709779103.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113293/?tab=files&file_id=477777)
 *  [Auri_Tree_Patch - Nico-105031-1-0-1726524070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=543003)
