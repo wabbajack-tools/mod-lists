@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (339)
+### Valid (341)
 *  [0 - Previs - Bethesda-70410-1-02-1700177959.zip](https://www.nexusmods.com/fallout4/mods/70410/?tab=files&file_id=294423)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [Attack of the loboto plots-88193-1-2-1742282450.zip](https://www.nexusmods.com/fallout4/mods/88193/?tab=files&file_id=351148)
@@ -210,7 +210,6 @@
 *  [Fallout4.FormIDs.2024.02.18.7z](https://github.com/evildarkarchon/CLASSIC-Fallout4/releases/download/7.25.1-unofficial/Fallout4.FormIDs.2024.02.18.7z)
 *  Fallout4Launcher.exe
 *  [Far Harbor Expansion 2.0-61661-2-0-1674151265.zip](https://www.nexusmods.com/fallout4/mods/61661/?tab=files&file_id=264178)
-*  [Favelabulous-50432-1-2-1698585440.7z](https://www.nexusmods.com/fallout4/mods/50432/?tab=files&file_id=292872)
 *  flexExtRelease_x64.dll
 *  flexRelease_x64.dll
 *  [FO4Edit 4.1.5f-2737-4-1-5f-1714279051.7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=312782)
@@ -219,6 +218,7 @@
 *  [GCBugFix Release 1.1-68681-1-1-1721703664.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=327680)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
+*  [Heather_Casdin_SS2_Path-94911-1-0-1751955416.zip](https://www.nexusmods.com/fallout4/mods/94911/?tab=files&file_id=360860)
 *  [High FPS Physics Fix-44798-0-8-6-1656849140.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=242328)
 *  High.ini
 *  [HUD Plus Plus-27218-v1-1-0.7z](https://www.nexusmods.com/fallout4/mods/27218/?tab=files&file_id=120577)
@@ -234,6 +234,7 @@
 *  [JunkTown - FENCES2-48525-1-2-1607039818.rar](https://www.nexusmods.com/fallout4/mods/48525/?tab=files&file_id=196201)
 *  [Kingsport Lighthouse Vanilla Navmesh Update by Vilance-68324-1-0-1675063929.7z](https://www.nexusmods.com/fallout4/mods/68324/?tab=files&file_id=265539)
 *  [LibraryExtras-68293-1-0-1675797410.7z](https://www.nexusmods.com/fallout4/mods/68293/?tab=files&file_id=266573)
+*  [llamaCompanionHeather v2.7-23273-2-7-1708129443.zip](https://www.nexusmods.com/fallout4/mods/23273/?tab=files&file_id=303800)
 *  [loot_0.23.0-win64.7z](https://github.com/loot/loot/releases/download/0.23.0/loot_0.23.0-win64.7z)
 *  Low.ini
 *  [Magic Effect and Spell Engine Fixes-83433-1-1-1740661689.zip](https://www.nexusmods.com/fallout4/mods/83433/?tab=files&file_id=349055)
@@ -258,7 +259,7 @@
 *  [Nuka World Expansion-68202-1-0-1692084656.zip](https://www.nexusmods.com/fallout4/mods/68202/?tab=files&file_id=286653)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
-*  [Old-Gen Replacers-35004-2-4-6-1744989383.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=353979)
+*  [Old-Gen Replacers-35004-2-4-7a-1753507082.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=362331)
 *  [Outfit ReDress Fix-72657-1-0-0-1688509648.zip](https://www.nexusmods.com/fallout4/mods/72657/?tab=files&file_id=282361)
 *  [Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z](https://www.nexusmods.com/fallout4/mods/9424/?tab=files&file_id=172081)
 *  [Powerful Plots for Superlative Settlers-67406-1-8-1-1724387255.7z](https://www.nexusmods.com/fallout4/mods/67406/?tab=files&file_id=331268)
@@ -266,7 +267,7 @@
 *  [Rags and Riches-58189-2-1-1704825282.zip](https://www.nexusmods.com/fallout4/mods/58189/?tab=files&file_id=299093)
 *  [Random Settlers - Level Up-55466-2-0-1-1639171023.7z](https://www.nexusmods.com/fallout4/mods/55466/?tab=files&file_id=223543)
 *  [Random Settlers-55466-2-0-1-1639170965.7z](https://www.nexusmods.com/fallout4/mods/55466/?tab=files&file_id=223542)
-*  [Ravenswift's Rec Booths-93141-1-0-1745109663.zip](https://www.nexusmods.com/fallout4/mods/93141/?tab=files&file_id=354122)
+*  [Ravenswift's Rec Booths-93141-1-01-1752631726.zip](https://www.nexusmods.com/fallout4/mods/93141/?tab=files&file_id=361497)
 *  [Rebuild Sanctuary SS2 Addon Pack-91270-1-2-1742857144.zip](https://www.nexusmods.com/fallout4/mods/91270/?tab=files&file_id=351828)
 *  [Red Rocket Updated Navmesh by Vilance-68494-1-0-1675501163.7z](https://www.nexusmods.com/fallout4/mods/68494/?tab=files&file_id=266191)
 *  [ReSaver 6.0.310-22633-6-0-310-1596094205.7z](https://www.nexusmods.com/fallout4/mods/22633/?tab=files&file_id=187966)
@@ -277,7 +278,7 @@
 *  [Settlement - Mystic Pines-39372-1-3-1627060544.7z](https://www.nexusmods.com/fallout4/mods/39372/?tab=files&file_id=213188)
 *  [SettlementMenuManagerMainFile-24204-0-1-7-1593282850.7z](https://www.nexusmods.com/fallout4/mods/24204/?tab=files&file_id=185417)
 *  [Settler's Menu-71165-0-3-4-1697729970.7z](https://www.nexusmods.com/fallout4/mods/71165/?tab=files&file_id=292114)
-*  [SGO - Wasteland Expansion-82661-2-1-1738789962.zip](https://www.nexusmods.com/fallout4/mods/82661/?tab=files&file_id=347279)
+*  [SGO - Wasteland Expansion-82661-3-0-1751785994.zip](https://www.nexusmods.com/fallout4/mods/82661/?tab=files&file_id=360719)
 *  [Sim Settlements 2 - Addon Pack - DZK's Concrete Defensible Positions-61435-1-2-2-1664160607.7z](https://www.nexusmods.com/fallout4/mods/61435/?tab=files&file_id=251740)
 *  [Sim Settlements 2 - Ruined Homes and Gardens 2-48067-1-2-3-1710186903.7z](https://www.nexusmods.com/fallout4/mods/48067/?tab=files&file_id=306490)
 *  [Sim Settlements 2 - Tech Settlements-49342-1-4-2-1641677949.7z](https://www.nexusmods.com/fallout4/mods/49342/?tab=files&file_id=225963)
@@ -286,7 +287,7 @@
 *  [Sim Settlements 2 Addon Pack CaravanSnatex 1.3-63578-1-3-1686672810.7z](https://www.nexusmods.com/fallout4/mods/63578/?tab=files&file_id=280326)
 *  [Sim settlements 2 scrappers-48846-5-96-1735926157.7z](https://www.nexusmods.com/fallout4/mods/48846/?tab=files&file_id=344237)
 *  [Sim Settlements 2 Settlement Management Terminal-64135-1-4-1669226523.rar](https://www.nexusmods.com/fallout4/mods/64135/?tab=files&file_id=257921)
-*  [Sim Settlements 2-47976-3-4-6a-1745590619.zip](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=354592)
+*  [Sim Settlements 2-47976-3-4-7-1752863145.zip](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=361723)
 *  [SimHomestead Glass Recycler Fix-89434-1-0-1732200144.zip](https://www.nexusmods.com/fallout4/mods/89434/?tab=files&file_id=340877)
 *  [SimHomestead-50172-5-0beta-1613542141.zip](https://www.nexusmods.com/fallout4/mods/50172/?tab=files&file_id=201689)
 *  [SimSettlements_AddOnPack_AwsomeTown_SS2-27384-1-1-1-1669458680.7z](https://www.nexusmods.com/fallout4/mods/27384/?tab=files&file_id=258159)
@@ -299,16 +300,17 @@
 *  [SS2 Addon - Shazbot's Cots-73794-0-0-24-1696350461.7z](https://www.nexusmods.com/fallout4/mods/73794/?tab=files&file_id=290953)
 *  [SS2 Addon Blood Moon Raiders 1.0-59399-1-0-1649794381.7z](https://www.nexusmods.com/fallout4/mods/59399/?tab=files&file_id=234689)
 *  [SS2 Better Outfits-49849-1-0-1612403223.zip](https://www.nexusmods.com/fallout4/mods/49849/?tab=files&file_id=200620)
-*  [SS2 Chapter 2-55817-3-4-6-1744998251.zip](https://www.nexusmods.com/fallout4/mods/55817/?tab=files&file_id=353990)
-*  [SS2 Chapter 3-73394-3-4-6-1744998471.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=353992)
+*  [SS2 Chapter 2-55817-3-4-7-1752863149.zip](https://www.nexusmods.com/fallout4/mods/55817/?tab=files&file_id=361724)
+*  [SS2 Chapter 3-73394-3-4-7-1752863155.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=361726)
 *  [SS2 DLC Settlers Patch-47976-2-2-5-1668794740.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=257396)
 *  [SS2 Extended Outfit Injection ESL-47976-2-0-2a-1645827845.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=230718)
-*  [SS2 Extended-73394-3-4-6-1744998546.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=353993)
+*  [SS2 Extended-73394-3-4-7-1752863158.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=361727)
 *  [SS2 Happy Trails-50835-1-1-1654439220.zip](https://www.nexusmods.com/fallout4/mods/50835/?tab=files&file_id=239681)
 *  [SS2 Industrial Revolution of the Wasteland-65545-v5-0-1673240247.zip](https://www.nexusmods.com/fallout4/mods/65545/?tab=files&file_id=262941)
 *  [SS2 Plotapalooza Pack-91153-1-0-1-1739740219.zip](https://www.nexusmods.com/fallout4/mods/91153/?tab=files&file_id=348224)
 *  [SS2 Support Structures of the Wasteland-67522-v2-5-1676601869.zip](https://www.nexusmods.com/fallout4/mods/67522/?tab=files&file_id=267592)
 *  [SS2 Workshop HUD Override-47976-1-0-1-1605295694.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=194876)
+*  [SS2_Addon_Favelabulous-50432-1-3-1751668581.7z](https://www.nexusmods.com/fallout4/mods/50432/?tab=files&file_id=360632)
 *  [SS2_Addon_TradersParadise.zip-82848-1-0-1-1715923989.zip](https://www.nexusmods.com/fallout4/mods/82848/?tab=files&file_id=317029)
 *  [SS2_AddOnPack_MsB'sPlainPlans V1.1-62383-1-1-1659236702.rar](https://www.nexusmods.com/fallout4/mods/62383/?tab=files&file_id=245126)
 *  [SS2_Nora's Commonwealth Reconstruction Project-76893-1-4-1710191694.7z](https://www.nexusmods.com/fallout4/mods/76893/?tab=files&file_id=306499)
@@ -338,7 +340,7 @@
 *  [Wasteland Venturers Sim Settlements 2-48060-1-5-2-1692466152.zip](https://www.nexusmods.com/fallout4/mods/48060/?tab=files&file_id=287295)
 *  [Wasteland Workshop Snappable Posters-62564-1-0-1658702991.rar](https://www.nexusmods.com/fallout4/mods/62564/?tab=files&file_id=244395)
 *  [WeirdMattressFix-68884-1-0-1676572609.7z](https://www.nexusmods.com/fallout4/mods/68884/?tab=files&file_id=267561)
-*  [Workshop Framework-35004-2-4-6-1744989348.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=353978)
+*  [Workshop Framework-35004-2-4-7-1752856545.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=361716)
 *  [Workshop Plus-35005-1-0-15a-1712338821.zip](https://www.nexusmods.com/fallout4/mods/35005/?tab=files&file_id=309160)
 *  [X-Cell 2.1-b109-84214-2-1-b109-1747446656.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=356490)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
