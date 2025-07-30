@@ -1,11 +1,10 @@
 ## Validation Report - Panda's Sovngarde (PISE/PISE)
 
 
-### Invalid (1)
-*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2392)
+### Valid (2393)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-1-1724097481.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=533242)
 *  [(Skyrim VR) SSE Fixes v3 for Skyrim VR 1.4.15-10547-3VR-1-4-15.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10547/?tab=files&file_id=55872)
 *  [1.3a-70035-1-3a-1671750286.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70035/?tab=files&file_id=342869)
@@ -190,6 +189,7 @@
 *  [Behavior Data Injector-78146-v0-13-1667564855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328879)
 *  [Bells of Skyrim - All-in-one installer-10495-1-2-5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10495/?tab=files&file_id=54286)
 *  [Bellyaches Animal and Creature Pack SSE-6839-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6839/?tab=files&file_id=36649)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Better and Realistic Dragon Melee NO PLAYER KD ESL-121460-2-4-1721904423.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121460/?tab=files&file_id=524747)
 *  [Better Argonian Horns-80568-2-1-1-1686527206.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80568/?tab=files&file_id=397099)
 *  [Better Butterflies - 1K version.-79332-1-0-1686610218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79332/?tab=files&file_id=397354)

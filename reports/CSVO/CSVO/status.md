@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (501)
+### Valid (496)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -120,19 +120,14 @@
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse057-ba_stalhrim.bsa
-*  Data_ccmtysse001-knightsofthenine.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
-*  Data_ccvsvsse002-pets.bsa
-*  Data_ccvsvsse003-necroarts.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
