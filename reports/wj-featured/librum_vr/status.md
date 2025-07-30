@@ -1,10 +1,11 @@
 ## Validation Report - Librum VR (wj-featured/librum_vr)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1335)
+### Valid (1334)
 *  [(1K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110439)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -104,7 +105,6 @@
 *  [Beast Skeletons Revised (Bitter Edition) Compressed ESL-27266-1-04-1657225247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27266/?tab=files&file_id=296949)
 *  [Believable weapons SE-37737-1-0-2-1593641428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=148339)
 *  [Bellyaches Animal and Creature Pack SSE-6839-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6839/?tab=files&file_id=36649)
-*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Bethesda Plugin Manager-111236-0-1-1-1707596497.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111236/?tab=files&file_id=469624)
 *  [Better Balustrades for Windhelm (Iron)-39126-1-0-1597056942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39126/?tab=files&file_id=154847)
 *  [Better Dwemer Exteriors SSE - No snow under the roof Patch-27618-1-0-0-1563988999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27618/?tab=files&file_id=100486)

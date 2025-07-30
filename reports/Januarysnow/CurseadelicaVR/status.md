@@ -1,10 +1,11 @@
 ## Validation Report - Curseadelica VR (Januarysnow/CurseadelicaVR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1287)
+### Valid (1286)
 *  [(CaS SE) Crimes against Skyrim - 1.0-3441-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3441/?tab=files&file_id=35192)
 *  [(ESL) Chicks and Chickens SE-110087-2-1-1706197521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110087/?tab=files&file_id=464709)
 *  [(ESL) Chocobos Mounts and Followers SE-1293-3-4-1654615264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1293/?tab=files&file_id=289499)
@@ -121,7 +122,6 @@
 *  [BelethorWillTradeSisterforVideoGamesSE-69072-1-0-1654301178.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69072/?tab=files&file_id=288640)
 *  [Benny the friendly velociraptor-96483-1-1690134465.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96483/?tab=files&file_id=409911)
 *  [Bernie Roof-32414-1-0-1581006977.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32414/?tab=files&file_id=122929)
-*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Bethesda Plugin Manager-111236-0-1-4-1707933610.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111236/?tab=files&file_id=470815)
 *  [Better Lighting for Ralof or Hadvar with Lux-119391-1-0-1715647938.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119391/?tab=files&file_id=500824)
 *  [Better Resource Warnings-26751-2-2-1609018535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26751/?tab=files&file_id=176284)
