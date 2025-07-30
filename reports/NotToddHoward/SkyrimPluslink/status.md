@@ -1,4 +1,4 @@
-## Validation Report - Skyrim+ (NotToddHoward/SkyrimPlus)
+## Validation Report - Skyrim+ (NotToddHoward/SkyrimPluslink)
 
 
 ### Invalid (0)
