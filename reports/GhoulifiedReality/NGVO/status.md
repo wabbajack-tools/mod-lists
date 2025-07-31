@@ -1,4 +1,4 @@
-## Validation Report - NGVO (NGVO/NGVO)
+## Validation Report - NGVO (GhoulifiedReality/NGVO)
 
 
 ### Invalid (0)

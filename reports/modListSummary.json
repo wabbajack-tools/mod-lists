@@ -590,8 +590,8 @@
   {
     "name": "NEFARAM",
     "machineURL": "NEFARAM/NEFARAM",
-    "failed": 6,
-    "passed": 2153,
+    "failed": 7,
+    "passed": 2152,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NEFARAM/NEFARAM/status.json",
@@ -1498,6 +1498,20 @@
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GhoulifiedReality/GhoulifiedReality_large.webp"
   },
   {
+    "name": "NGVO",
+    "machineURL": "GhoulifiedReality/NGVO",
+    "failed": 0,
+    "passed": 1543,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/GhoulifiedReality/NGVO/status.json",
+    "report": "reports/GhoulifiedReality/NGVO/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GhoulifiedReality/NGVO_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GhoulifiedReality/NGVO_large.webp"
+  },
+  {
     "name": "Fear of the Wanderer",
     "machineURL": "Fear_of_the_Wanderer/fotw",
     "failed": 0,
@@ -1543,15 +1557,15 @@
     "name": "A Painted World",
     "machineURL": "A_Painted_World/APaintedWorld",
     "failed": 0,
-    "passed": 992,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/A_Painted_World/APaintedWorld/status.json",
     "report": "reports/A_Painted_World/APaintedWorld/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/A_Painted_World/APaintedWorld_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/A_Painted_World/APaintedWorld_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Baldur\u0027s Gate 3 Enhanced Edition",
@@ -1848,20 +1862,6 @@
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/OmnisWorld/Chaos-Mage-Randomized-Challenge_large.webp"
   },
   {
-    "name": "NGVO",
-    "machineURL": "NGVO/NGVO",
-    "failed": 0,
-    "passed": 1543,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/NGVO/NGVO/status.json",
-    "report": "reports/NGVO/NGVO/status.md",
-    "modlist_missing": false,
-    "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NGVO/NGVO_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NGVO/NGVO_large.webp"
-  },
-  {
     "name": "Do Not Go Gentle",
     "machineURL": "NGVO/DNGG",
     "failed": 0,
@@ -1976,16 +1976,16 @@
   {
     "name": "Waters of Life",
     "machineURL": "zpoke/watersoflife",
-    "failed": 1,
-    "passed": 141,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/zpoke/watersoflife/status.json",
     "report": "reports/zpoke/watersoflife/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/zpoke/watersoflife_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/zpoke/watersoflife_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "SkyGround Chronicles",
@@ -2159,7 +2159,7 @@
     "name": "Mojave Express Wabbajack (MEW)",
     "machineURL": "mojaveexpressguide/MojaveExpressWabbajack",
     "failed": 0,
-    "passed": 336,
+    "passed": 326,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/mojaveexpressguide/MojaveExpressWabbajack/status.json",
