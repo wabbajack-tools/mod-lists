@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1391)
+### Valid (1445)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.17.7z_3c14b05c-adfb-407e-90a3-fc14108fe3f5)
@@ -303,6 +303,8 @@
 *  [Crashlog Tools-113668-1-0-4-0-1725208949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=537656)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
 *  [Create outfit from armor script-70907-1-0-1657211444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70907/?tab=files&file_id=296891)
+*  CreationKit.exe
+*  CreationKit.ini
 *  [Crusty Loaves - 1k Bread Retextures All-In-One-27003-1-2-1561878330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27003/?tab=files&file_id=97710)
 *  [CS Light-138443-1-5-1-1743796775.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138443/?tab=files&file_id=613876)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
@@ -340,6 +342,7 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -485,6 +488,7 @@
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
 *  [FixToggleWalkRun-61671-3-1724360460.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61671/?tab=files&file_id=534249)
 *  [Flat World Map Framework FOMOD Lite-29932-1-9-5-1733500285.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29932/?tab=files&file_id=569581)
+*  flowchartx64.dll
 *  [Fluffworks - ArmoredTrollPatch 2K  - by SkySinclaire-4682-1-0-1649128787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=274930)
 *  [Fluffworks - Better Photoreal Foxes-65974-1-0-1649394282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65974/?tab=files&file_id=275572)
 *  [Fluffworks - MM Real Cows Patch-64445-1-1-1680401403.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=374222)
@@ -744,6 +748,15 @@
 *  [Less Shiny Bloody Bones-68097-1-0-1652615431.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68097/?tab=files&file_id=283938)
 *  [Less Ugly Tundragrass-26740-1-0-1560901980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26740/?tab=files&file_id=96525)
 *  [Leveled List Crash Fix-129136-1-1-1-1729025987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129136/?tab=files&file_id=552464)
+*  lex_accent.tlx
+*  lex_ssceam.tlx
+*  lex_ssceam2.clx
+*  lex_sscebr.tlx
+*  lex_sscebr2.clx
+*  lex_ssceca2.clx
+*  lex_tech.tlx
+*  lex_User_correct.tlx
+*  lex_User_userdic.tlx
 *  [Light Limit Fix-99548-2-0-1-1733596917.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99548/?tab=files&file_id=569998)
 *  [Light Placer-127557-3-0-2-1742206267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127557/?tab=files&file_id=606594)
 *  [lilebonymace xEdit scripts-36042-s2-29-1658655446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=301721)
@@ -892,9 +905,18 @@
 *  [Overlooked Dungeon Objects Retextures - 2K-66418-1-6-1722786176.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66418/?tab=files&file_id=528223)
 *  [Oxygen Meter 2 - DDDM Patch-137875-1-0-1735776465.7z](https://www.nexusmods.com/skyrimspecialedition/mods/137875/?tab=files&file_id=578518)
 *  [OxygenMeter2 FOMOD SSE AE640 AE1170-64532-1-0-7-1708856967.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=474315)
+*  p4com64.dll
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
 *  [Pandora_Behaviour_Engine_v2.6.0-beta.zip](https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/releases/download/v2.6.0-beta/Pandora_Behaviour_Engine_v2.6.0-beta.zip)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
+*  Papyrus Compiler_antlr.runtime.dll
+*  Papyrus Compiler_Antlr3.Runtime.dll
+*  Papyrus Compiler_Antlr3.Utility.dll
+*  Papyrus Compiler_PapyrusAssembler.exe
+*  Papyrus Compiler_PapyrusCompiler.exe
+*  Papyrus Compiler_PCompiler.dll
+*  Papyrus Compiler_ScriptCompile.bat
+*  Papyrus Compiler_StringTemplate.dll
 *  [Papyrus Extender-22854-5-10-0-1741317512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=602547)
 *  [Papyrus Ini Manipulator-65634-1-9-7-1726186850.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=541531)
 *  [Papyrus MessageBox-83578-v1-0-0-1674795693.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83578/?tab=files&file_id=353441)
@@ -1133,6 +1155,7 @@
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
+*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyUI - Ghost Item Bug Fix-49106-1-0-0-1633192591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49106/?tab=files&file_id=232098)
@@ -1271,6 +1294,37 @@
 *  [Tomato's Subdued Green Tundra Parallax - 2K-115649-1-4-1720571929.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115649/?tab=files&file_id=519514)
 *  [Tomato's Whiterun - Complex Material 2K-122064-1-3-1724101011.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122064/?tab=files&file_id=533259)
 *  [Tomato's Wood Overhaul 2K-115201-2-2-1719177163.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115201/?tab=files&file_id=514305)
+*  Tools_Archive_Archive.exe
+*  Tools_ArtTools_Blender_bgs_skyrim_tools.zip
+*  Tools_ArtTools_Blender_io_scene_bsfbx_skyrim.zip
+*  Tools_AssetWatcher_AssetWatcher.exe
+*  Tools_AssetWatcher_platforms_qminimal.dll
+*  Tools_AssetWatcher_platforms_qoffscreen.dll
+*  Tools_AssetWatcher_platforms_qwindows.dll
+*  Tools_AssetWatcher_Plugins_Skyrim_BSFBXDLL.dll
+*  Tools_AssetWatcher_Plugins_Skyrim_Meshes_Settings.json
+*  Tools_AssetWatcher_Qt5Core.dll
+*  Tools_AssetWatcher_Qt5Gui.dll
+*  Tools_AssetWatcher_Qt5Network.dll
+*  Tools_AssetWatcher_Qt5Svg.dll
+*  Tools_AssetWatcher_Qt5Widgets.dll
+*  Tools_AssetWatcher_SettingsGeneration.py
+*  Tools_AssetWatcher_styles_Default.css
+*  Tools_AssetWatcher_styles_qwindowsvistastyle.dll
+*  Tools_Audio_xwmaencode.exe
+*  Tools_Elric_xg.dll
+*  Tools_Elric_xtexconv.exe
+*  Tools_Exporting Blender Art Assets for Skyrim.pdf
+*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
+*  Tools_HavokBehaviorPostProcess_readme.txt
+*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
+*  Tools_LipGen_LipFuzer_LIPFuzer.exe
+*  Tools_LipGen_LipFuzer_LIPFuzer.txt
+*  Tools_LipGen_LipGenerator_FonixData.cdf
+*  Tools_LipGen_LipGenerator_LipGenerator.exe
+*  Tools_redist_dxwebsetup.exe
+*  Tools_redist_VC_redist.x64.exe
+*  Tools_RoboVoicer.exe
 *  [Troll Idle Animation Removed-65802-1-00-1648811890.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65802/?tab=files&file_id=274059)
 *  [Troll.2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9411)
 *  [True Directional Movement-51614-2-2-6-1725670168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=539468)
