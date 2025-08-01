@@ -1,4 +1,4 @@
-## Validation Report - Arkay's Commandment (wj-featured/arkayscommandment)
+## Validation Report - Wanderlust (wj-featured/arkayscommandment)
 
 
 ### Invalid (0)
