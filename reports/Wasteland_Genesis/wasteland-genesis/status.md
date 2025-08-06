@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1627)
+### Valid (1625)
 *  [(SSS) Face v1.8 FOMOD Installer-6940-1-8.zip](https://www.nexusmods.com/fallout4/mods/6940/?tab=files&file_id=32569)
 *  [1. Quantum Horizons ENB N2.2 - Hyper edition for NAC-X_Build 1-45086-N2-2-1681582378.7z](https://www.nexusmods.com/fallout4/mods/45086/?tab=files&file_id=274147)
 *  [1.03-41194-1-03-1581855633.7z](https://www.nexusmods.com/fallout4/mods/41194/?tab=files&file_id=176023)
@@ -620,8 +620,6 @@
 *  [Outcasts and Remnants-21469-1-51-1590968168.zip](https://www.nexusmods.com/fallout4/mods/21469/?tab=files&file_id=183254)
 *  [Ownership Fixes-56885-1-6-1743453948.7z](https://www.nexusmods.com/fallout4/mods/56885/?tab=files&file_id=352504)
 *  [PAC - AIO-65686-3-1-1733069528.7z](https://www.nexusmods.com/fallout4/mods/65686/?tab=files&file_id=341848)
-*  [PAC - Concord and Drumlin Diner-65686-1-0-1733001609.7z](https://www.nexusmods.com/fallout4/mods/65686/?tab=files&file_id=341722)
-*  [PAC - Vault 111-65686-2-1-1733005584.7z](https://www.nexusmods.com/fallout4/mods/65686/?tab=files&file_id=341739)
 *  [PAC Resources-65686-1-0-1733001511.7z](https://www.nexusmods.com/fallout4/mods/65686/?tab=files&file_id=341720)
 *  Papyrus Compiler_Antlr3.Runtime.dll
 *  Papyrus Compiler_Antlr3.StringTemplate.dll
