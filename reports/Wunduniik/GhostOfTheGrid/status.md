@@ -1,4 +1,4 @@
-## Validation Report - Ghost of the Grid (2.3) (Wunduniik/GhostOfTheGrid)
+## Validation Report - Ghost of the Grid (Wunduniik/GhostOfTheGrid)
 
 
 ### Invalid (0)
