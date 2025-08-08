@@ -1,10 +1,11 @@
 ## Validation Report - Cursedelica (Animonculory/Curseadelica)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [DynDOLOD_Output.zip](https://authored-files.wabbajack.org/DynDOLOD_Output.zip_edb699db-805c-40c1-83cf-8377bef9fd44)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (983)
+### Valid (982)
 *  [.1130 _ResourcePack Fixes-117234-1-1-1713954347.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=494280)
 *  [(CaS SE) Crimes against Skyrim - 1.0-3441-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3441/?tab=files&file_id=35192)
 *  [(ESL) Chicks and Chickens SE-110087-2-1-1706197521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110087/?tab=files&file_id=464709)
@@ -303,7 +304,6 @@
 *  [DynDOLOD 3.00-68518-Alpha-169-1711743591.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=485428)
 *  [DynDOLOD DLL NG 1.6.11xx and Scripts 3.00-97720-Alpha-23-1714054849.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=494640)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-49-1711743596.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=485429)
-*  [DynDOLOD_Output.zip](https://authored-files.wabbajack.org/DynDOLOD_Output.zip_edb699db-805c-40c1-83cf-8377bef9fd44)
 *  [Eats-All-Ass Mod-81443-1-0-0-1686437766.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81443/?tab=files&file_id=396713)
 *  [Ebony Set - Full Resolution-60942-1-2-2-1676007265.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60942/?tab=files&file_id=358324)
 *  [ECPLW (ENB Complex Particle Lights for Windows)-85416-1-1-1677063079.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85416/?tab=files&file_id=362246)
