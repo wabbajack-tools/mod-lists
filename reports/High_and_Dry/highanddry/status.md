@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1061)
+### Valid (903)
 *  [(No static) Pip-Boy 2000 Counters-87916-1-1-1719280641.7z](https://www.nexusmods.com/newvegas/mods/87916/?tab=files&file_id=1000135003)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-3-1718394986.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000134231)
@@ -83,7 +83,6 @@
 *  [Assorted Leather Armor Retexture - 2k-77745-0-02-1659388953.7z](https://www.nexusmods.com/newvegas/mods/77745/?tab=files&file_id=1000096864)
 *  [Assorted NCR Armor Retexture - 2k-77558-0-01-1659195009.7z](https://www.nexusmods.com/newvegas/mods/77558/?tab=files&file_id=1000096737)
 *  [Assorted Voice Popping Fixes-77073-2-5-1716925170.zip](https://www.nexusmods.com/newvegas/mods/77073/?tab=files&file_id=1000132747)
-*  atimgpud.dll
 *  [Atmospheric Lighting Tweaks - EVEM Patch-77945-1-0-1689624770.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000113221)
 *  [Atmospheric Lighting Tweaks - FNV - YUP-79378-1-5-1731266645.7z](https://www.nexusmods.com/newvegas/mods/79378/?tab=files&file_id=1000142718)
 *  [Audio Region Fix - NVSE-91241-1-3-2-1743892637.7z](https://www.nexusmods.com/newvegas/mods/91241/?tab=files&file_id=1000149652)
@@ -137,7 +136,6 @@
 *  [Better Wood Desk-91629-1-0-1743429241.zip](https://www.nexusmods.com/newvegas/mods/91629/?tab=files&file_id=1000149296)
 *  [BetterStandUp-76443-2-1703547706.zip](https://www.nexusmods.com/newvegas/mods/76443/?tab=files&file_id=1000120942)
 *  [Billboards HD Remade 2K-83464-1-1-1701622240.7z](https://www.nexusmods.com/newvegas/mods/83464/?tab=files&file_id=1000119867)
-*  binkw32.dll
 *  [Blackwolf24s Final HD Clutter PACK-70035-Final-1605541501.rar](https://www.nexusmods.com/newvegas/mods/70035/?tab=files&file_id=1000067701)
 *  [Blood Decal Flashing Fix-87830-1-1-1727169336.7z](https://www.nexusmods.com/newvegas/mods/87830/?tab=files&file_id=1000140291)
 *  [Bloodbath - 2K-87271-1-1-1717135642.zip](https://www.nexusmods.com/newvegas/mods/87271/?tab=files&file_id=1000132960)
@@ -324,10 +322,6 @@
 *  [Faded Inventory Ycons-78674-1-0-1666007648.7z](https://www.nexusmods.com/newvegas/mods/78674/?tab=files&file_id=1000099956)
 *  [Faded Version-78509-1-0-1664702046.7z](https://www.nexusmods.com/newvegas/mods/78509/?tab=files&file_id=1000099456)
 *  [Fallout Alpha Rendering Tweaks-80316-2-5-2-1710935866.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000125920)
-*  Fallout_default.ini
-*  FalloutNV.exe
-*  FalloutNV.ico
-*  FalloutNVLauncher.exe
 *  [Fast Doctors-92704-1-05-1750651314.7z](https://www.nexusmods.com/newvegas/mods/92704/?tab=files&file_id=1000153776)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Sleep Wait-66785-2-0-1693172568.zip](https://www.nexusmods.com/newvegas/mods/66785/?tab=files&file_id=1000115499)
@@ -373,7 +367,6 @@
 *  [FTO - Robots - Sentry bot 2K-86606-1-0-1714924505.7z](https://www.nexusmods.com/newvegas/mods/86606/?tab=files&file_id=1000129964)
 *  [FTO - Robots - Sentry turrets 4K-86644-1-0-1715012900.7z](https://www.nexusmods.com/newvegas/mods/86644/?tab=files&file_id=1000130086)
 *  [Furniture Variation-90259-1-1-1738450073.7z](https://www.nexusmods.com/newvegas/mods/90259/?tab=files&file_id=1000146147)
-*  GDFFalloutNV.dll
 *  [GECK Extender - Config-64888-0-46-1720022640.zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000135537)
 *  [Geck Extender-64888-0-49-1739477048.zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000146764)
 *  [Geck-64888-0-48-1739395409 (1).zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000146712)
@@ -427,7 +420,6 @@
 *  [High Resolution Screens-77989-1-1-1660681437.zip](https://www.nexusmods.com/newvegas/mods/77989/?tab=files&file_id=1000097728)
 *  [High Resolution Water Fog-78400-1-0b-1709299117.zip](https://www.nexusmods.com/newvegas/mods/78400/?tab=files&file_id=1000124717)
 *  [High-quality Inventory Icon-72075-1-2-1618943627.zip](https://www.nexusmods.com/newvegas/mods/72075/?tab=files&file_id=1000075179)
-*  high.ini
 *  [HIPControl-81967-0-1b3-1688591694.7z](https://www.nexusmods.com/newvegas/mods/81967/?tab=files&file_id=1000112537)
 *  [HIQO v1.0-91501-1-0-1743641162.zip](https://www.nexusmods.com/newvegas/mods/91501/?tab=files&file_id=1000149493)
 *  [HiRes Chinese Stealth Armor - Default-5666.zip](https://www.nexusmods.com/fallout3/mods/5666/?tab=files&file_id=49169)
@@ -478,7 +470,6 @@
 *  [Industrial Pipes Remade - 2k-87080-0-01-1716168779.7z](https://www.nexusmods.com/newvegas/mods/87080/?tab=files&file_id=1000131687)
 *  [Industrial Pipes Remade LOD-88681-1-0-1723598866.7z](https://www.nexusmods.com/newvegas/mods/88681/?tab=files&file_id=1000138031)
 *  [Inspiring Interiors-89694-1-1-1741456377.7z](https://www.nexusmods.com/newvegas/mods/89694/?tab=files&file_id=1000147889)
-*  InstallScript.vdf
 *  [Interior Rain-79656-1-0-1673893794.zip](https://www.nexusmods.com/newvegas/mods/79656/?tab=files&file_id=1000103643)
 *  [Inviting Vaults-80872-2-0-1728599145.7z](https://www.nexusmods.com/newvegas/mods/80872/?tab=files&file_id=1000141055)
 *  [Iron Sights Aligned - Mod Support-81933-2-4-1747176791.zip](https://www.nexusmods.com/newvegas/mods/81933/?tab=files&file_id=1000151774)
@@ -520,8 +511,6 @@
 *  [Lever Action and Friends FNV-89878-1-0a-1731657724.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142967)
 *  [Lever Action and Friends Resources-89878-1-0-1731651173.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142963)
 *  [Lever Action and Friends RTR Patch-89878-1-0-1731651596.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142966)
-*  libvorbis.dll
-*  libvorbisfile.dll
 *  [Light Mesh Fixes-90116-1-1733329601.zip](https://www.nexusmods.com/newvegas/mods/90116/?tab=files&file_id=1000143747)
 *  [LightBright Strip Overhaul-77093-4-0-1741509464.zip](https://www.nexusmods.com/newvegas/mods/77093/?tab=files&file_id=1000147924)
 *  [Lime's Better Victor's Shack - Map Marker-69973-1-00-1602193406.zip](https://www.nexusmods.com/newvegas/mods/69973/?tab=files&file_id=1000066255)
@@ -539,7 +528,6 @@
 *  [LODIFY FNV Wall_SoGB Editon-84165-0-8-1-1708270337.7z](https://www.nexusmods.com/newvegas/mods/84165/?tab=files&file_id=1000123914)
 *  [Lone Star-87935-5-2-1747523596.7z](https://www.nexusmods.com/newvegas/mods/87935/?tab=files&file_id=1000151966)
 *  [Longer Weather Transitions ESPLess-85286-1-0-1709495033.rar](https://www.nexusmods.com/newvegas/mods/85286/?tab=files&file_id=1000124884)
-*  low.ini
 *  [lStewieAl - Cookable Grenades-81678-1-0-1692310563.zip](https://www.nexusmods.com/newvegas/mods/81678/?tab=files&file_id=1000114959)
 *  [lStewieAl - Menu Search-81743-1-0-1692310380.zip](https://www.nexusmods.com/newvegas/mods/81743/?tab=files&file_id=1000114957)
 *  [Lucky 38 Exterior Remastered 1.1-81005-1-1-1683419576.zip](https://www.nexusmods.com/newvegas/mods/81005/?tab=files&file_id=1000108857)
@@ -557,13 +545,11 @@
 *  [Magazines of Unparalleled Aesthetic Quality - 1K-74304-1-0-1636064410.7z](https://www.nexusmods.com/newvegas/mods/74304/?tab=files&file_id=1000083595)
 *  [Main And Pause Menus Overhaul-74365-6-2-2-1751741923.7z](https://www.nexusmods.com/newvegas/mods/74365/?tab=files&file_id=1000154346)
 *  [MainFile-74132-1-3v-1645220297.7z](https://www.nexusmods.com/newvegas/mods/74132/?tab=files&file_id=1000087896)
-*  MainTitle.wav
 *  [Map Marker Icons-83575-2-2-1698593036.7z](https://www.nexusmods.com/newvegas/mods/83575/?tab=files&file_id=1000118363)
 *  [McCarran_Glass_transparency_Vanilla_version-69041-1-5-1591461498.zip](https://www.nexusmods.com/newvegas/mods/69041/?tab=files&file_id=1000062608)
 *  [Mccarranglass-63284-1-0.rar](https://www.nexusmods.com/newvegas/mods/63284/?tab=files&file_id=1000041823)
 *  [MCM BugFix 2-42507-.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=1000001534)
 *  [Medicine Stick Buff - Vanilla Plus (Espless)-91858-1-0-1744730496.rar](https://www.nexusmods.com/newvegas/mods/91858/?tab=files&file_id=1000150240)
-*  medium.ini
 *  [Menace of The New West-78217-1-2-1709101271.7z](https://www.nexusmods.com/newvegas/mods/78217/?tab=files&file_id=1000124576)
 *  [Mesh Replacer - Billiards-89296-1-01-1728057145.zip](https://www.nexusmods.com/newvegas/mods/89296/?tab=files&file_id=1000140755)
 *  [MG - Season I - B42 Inject Animation Pack-90834-1-3-1740464802.rar](https://www.nexusmods.com/newvegas/mods/90834/?tab=files&file_id=1000147398)
@@ -729,7 +715,6 @@
 *  [Random Stuff HD-83095-1-1-1696622900.7z](https://www.nexusmods.com/newvegas/mods/83095/?tab=files&file_id=1000117374)
 *  [Ranger Station Charlie Karma-87146-1-1716402001.rar](https://www.nexusmods.com/newvegas/mods/87146/?tab=files&file_id=1000131954)
 *  [RC JIP CCC Icons 1-6-92126-1-6-1750283503.zip](https://www.nexusmods.com/newvegas/mods/92126/?tab=files&file_id=1000153611)
-*  Readme.txt
 *  [Real Campfires-84714-1-1706410738.rar](https://www.nexusmods.com/newvegas/mods/84714/?tab=files&file_id=1000122668)
 *  [Real Time Reflections - INI-82343-1-3-6-1720285527.7z](https://www.nexusmods.com/newvegas/mods/82343/?tab=files&file_id=1000135724)
 *  [Real Time Reflections-82343-1-3-7-1720303295.7z](https://www.nexusmods.com/newvegas/mods/82343/?tab=files&file_id=1000135737)
@@ -742,147 +727,6 @@
 *  [Rectified Hydrant 2K-87872-1-0-1719118522.zip](https://www.nexusmods.com/newvegas/mods/87872/?tab=files&file_id=1000134842)
 *  [Rectified Water Tower-75611-0-3-1654053588.zip](https://www.nexusmods.com/newvegas/mods/75611/?tab=files&file_id=1000093488)
 *  [Red On The Rocks - Great Khan Culture Vanilla 2.2-80534-2-2-1695953799.7z](https://www.nexusmods.com/newvegas/mods/80534/?tab=files&file_id=1000117037)
-*  Redists_directx_Apr2005_d3dx9_25_x64.cab
-*  Redists_directx_Apr2005_d3dx9_25_x86.cab
-*  Redists_directx_Apr2006_d3dx9_30_x64.cab
-*  Redists_directx_Apr2006_d3dx9_30_x86.cab
-*  Redists_directx_Apr2006_MDX1_x86_Archive.cab
-*  Redists_directx_Apr2006_MDX1_x86.cab
-*  Redists_directx_Apr2006_XACT_x64.cab
-*  Redists_directx_Apr2006_XACT_x86.cab
-*  Redists_directx_Apr2006_xinput_x64.cab
-*  Redists_directx_Apr2006_xinput_x86.cab
-*  Redists_directx_APR2007_d3dx10_33_x64.cab
-*  Redists_directx_APR2007_d3dx10_33_x86.cab
-*  Redists_directx_APR2007_d3dx9_33_x64.cab
-*  Redists_directx_APR2007_d3dx9_33_x86.cab
-*  Redists_directx_APR2007_XACT_x64.cab
-*  Redists_directx_APR2007_XACT_x86.cab
-*  Redists_directx_APR2007_xinput_x64.cab
-*  Redists_directx_APR2007_xinput_x86.cab
-*  Redists_directx_Aug2005_d3dx9_27_x64.cab
-*  Redists_directx_Aug2005_d3dx9_27_x86.cab
-*  Redists_directx_AUG2006_XACT_x64.cab
-*  Redists_directx_AUG2006_XACT_x86.cab
-*  Redists_directx_AUG2006_xinput_x64.cab
-*  Redists_directx_AUG2006_xinput_x86.cab
-*  Redists_directx_AUG2007_d3dx10_35_x64.cab
-*  Redists_directx_AUG2007_d3dx10_35_x86.cab
-*  Redists_directx_AUG2007_d3dx9_35_x64.cab
-*  Redists_directx_AUG2007_d3dx9_35_x86.cab
-*  Redists_directx_AUG2007_XACT_x64.cab
-*  Redists_directx_AUG2007_XACT_x86.cab
-*  Redists_directx_Aug2008_d3dx10_39_x64.cab
-*  Redists_directx_Aug2008_d3dx10_39_x86.cab
-*  Redists_directx_Aug2008_d3dx9_39_x64.cab
-*  Redists_directx_Aug2008_d3dx9_39_x86.cab
-*  Redists_directx_Aug2008_XACT_x64.cab
-*  Redists_directx_Aug2008_XACT_x86.cab
-*  Redists_directx_Aug2008_XAudio_x64.cab
-*  Redists_directx_Aug2008_XAudio_x86.cab
-*  Redists_directx_Aug2009_D3DCompiler_42_x64.cab
-*  Redists_directx_Aug2009_D3DCompiler_42_x86.cab
-*  Redists_directx_Aug2009_d3dcsx_42_x64.cab
-*  Redists_directx_Aug2009_d3dcsx_42_x86.cab
-*  Redists_directx_Aug2009_d3dx10_42_x64.cab
-*  Redists_directx_Aug2009_d3dx10_42_x86.cab
-*  Redists_directx_Aug2009_d3dx11_42_x64.cab
-*  Redists_directx_Aug2009_d3dx11_42_x86.cab
-*  Redists_directx_Aug2009_d3dx9_42_x64.cab
-*  Redists_directx_Aug2009_d3dx9_42_x86.cab
-*  Redists_directx_Aug2009_XACT_x64.cab
-*  Redists_directx_Aug2009_XACT_x86.cab
-*  Redists_directx_Aug2009_XAudio_x64.cab
-*  Redists_directx_Aug2009_XAudio_x86.cab
-*  Redists_directx_BDANT.cab
-*  Redists_directx_BDAXP.cab
-*  Redists_directx_Dec2005_d3dx9_28_x64.cab
-*  Redists_directx_Dec2005_d3dx9_28_x86.cab
-*  Redists_directx_DEC2006_d3dx10_00_x64.cab
-*  Redists_directx_DEC2006_d3dx10_00_x86.cab
-*  Redists_directx_DEC2006_d3dx9_32_x64.cab
-*  Redists_directx_DEC2006_d3dx9_32_x86.cab
-*  Redists_directx_DEC2006_XACT_x64.cab
-*  Redists_directx_DEC2006_XACT_x86.cab
-*  Redists_directx_DSETUP.dll
-*  Redists_directx_dsetup32.dll
-*  Redists_directx_dxdllreg_x86.cab
-*  Redists_directx_dxnt.cab
-*  Redists_directx_DXSETUP.exe
-*  Redists_directx_dxupdate.cab
-*  Redists_directx_Feb2005_d3dx9_24_x64.cab
-*  Redists_directx_Feb2005_d3dx9_24_x86.cab
-*  Redists_directx_Feb2006_d3dx9_29_x64.cab
-*  Redists_directx_Feb2006_d3dx9_29_x86.cab
-*  Redists_directx_Feb2006_XACT_x64.cab
-*  Redists_directx_Feb2006_XACT_x86.cab
-*  Redists_directx_FEB2007_XACT_x64.cab
-*  Redists_directx_FEB2007_XACT_x86.cab
-*  Redists_directx_Jun2005_d3dx9_26_x64.cab
-*  Redists_directx_Jun2005_d3dx9_26_x86.cab
-*  Redists_directx_JUN2006_XACT_x64.cab
-*  Redists_directx_JUN2006_XACT_x86.cab
-*  Redists_directx_JUN2007_d3dx10_34_x64.cab
-*  Redists_directx_JUN2007_d3dx10_34_x86.cab
-*  Redists_directx_JUN2007_d3dx9_34_x64.cab
-*  Redists_directx_JUN2007_d3dx9_34_x86.cab
-*  Redists_directx_JUN2007_XACT_x64.cab
-*  Redists_directx_JUN2007_XACT_x86.cab
-*  Redists_directx_JUN2008_d3dx10_38_x64.cab
-*  Redists_directx_JUN2008_d3dx10_38_x86.cab
-*  Redists_directx_JUN2008_d3dx9_38_x64.cab
-*  Redists_directx_JUN2008_d3dx9_38_x86.cab
-*  Redists_directx_JUN2008_X3DAudio_x64.cab
-*  Redists_directx_JUN2008_X3DAudio_x86.cab
-*  Redists_directx_JUN2008_XACT_x64.cab
-*  Redists_directx_JUN2008_XACT_x86.cab
-*  Redists_directx_JUN2008_XAudio_x64.cab
-*  Redists_directx_JUN2008_XAudio_x86.cab
-*  Redists_directx_Mar2008_d3dx10_37_x64.cab
-*  Redists_directx_Mar2008_d3dx10_37_x86.cab
-*  Redists_directx_Mar2008_d3dx9_37_x64.cab
-*  Redists_directx_Mar2008_d3dx9_37_x86.cab
-*  Redists_directx_Mar2008_X3DAudio_x64.cab
-*  Redists_directx_Mar2008_X3DAudio_x86.cab
-*  Redists_directx_Mar2008_XACT_x64.cab
-*  Redists_directx_Mar2008_XACT_x86.cab
-*  Redists_directx_Mar2008_XAudio_x64.cab
-*  Redists_directx_Mar2008_XAudio_x86.cab
-*  Redists_directx_Mar2009_d3dx10_41_x64.cab
-*  Redists_directx_Mar2009_d3dx10_41_x86.cab
-*  Redists_directx_Mar2009_d3dx9_41_x64.cab
-*  Redists_directx_Mar2009_d3dx9_41_x86.cab
-*  Redists_directx_Mar2009_X3DAudio_x64.cab
-*  Redists_directx_Mar2009_X3DAudio_x86.cab
-*  Redists_directx_Mar2009_XACT_x64.cab
-*  Redists_directx_Mar2009_XACT_x86.cab
-*  Redists_directx_Mar2009_XAudio_x64.cab
-*  Redists_directx_Mar2009_XAudio_x86.cab
-*  Redists_directx_Nov2007_d3dx10_36_x64.cab
-*  Redists_directx_Nov2007_d3dx10_36_x86.cab
-*  Redists_directx_Nov2007_d3dx9_36_x64.cab
-*  Redists_directx_Nov2007_d3dx9_36_x86.cab
-*  Redists_directx_NOV2007_X3DAudio_x64.cab
-*  Redists_directx_NOV2007_X3DAudio_x86.cab
-*  Redists_directx_NOV2007_XACT_x64.cab
-*  Redists_directx_NOV2007_XACT_x86.cab
-*  Redists_directx_Nov2008_d3dx10_40_x64.cab
-*  Redists_directx_Nov2008_d3dx10_40_x86.cab
-*  Redists_directx_Nov2008_d3dx9_40_x64.cab
-*  Redists_directx_Nov2008_d3dx9_40_x86.cab
-*  Redists_directx_Nov2008_X3DAudio_x64.cab
-*  Redists_directx_Nov2008_X3DAudio_x86.cab
-*  Redists_directx_Nov2008_XACT_x64.cab
-*  Redists_directx_Nov2008_XACT_x86.cab
-*  Redists_directx_Nov2008_XAudio_x64.cab
-*  Redists_directx_Nov2008_XAudio_x86.cab
-*  Redists_directx_Oct2005_xinput_x64.cab
-*  Redists_directx_Oct2005_xinput_x86.cab
-*  Redists_directx_OCT2006_d3dx9_31_x64.cab
-*  Redists_directx_OCT2006_d3dx9_31_x86.cab
-*  Redists_directx_OCT2006_XACT_x64.cab
-*  Redists_directx_OCT2006_XACT_x86.cab
-*  Redists_vcredist_x86.exe
 *  [Reduced Stats Version-82867-1-01-1693767810.rar](https://www.nexusmods.com/newvegas/mods/82867/?tab=files&file_id=1000115876)
 *  [Reforged Platinum Chip V2-83803-2-1700605325.zip](https://www.nexusmods.com/newvegas/mods/83803/?tab=files&file_id=1000119327)
 *  [Remastered Quarries (2K- 1K)-76632-1-4-1728331112.zip](https://www.nexusmods.com/newvegas/mods/76632/?tab=files&file_id=1000140884)
@@ -949,7 +793,6 @@
 *  [SSFBFX - NVR 1.11-89096-1-11-1743347232.zip](https://www.nexusmods.com/newvegas/mods/89096/?tab=files&file_id=1000149230)
 *  [SSFBFX - Vanilla 1.11-89096-1-11-1743347264.zip](https://www.nexusmods.com/newvegas/mods/89096/?tab=files&file_id=1000149231)
 *  [Stats (And Some Perks)-86122-7-1714125850.zip](https://www.nexusmods.com/newvegas/mods/86122/?tab=files&file_id=1000128717)
-*  steam_api.dll
 *  [Stewie Tweaks-66347-9-70-1748288307.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000152489)
 *  [Stim Your Friends - Fallout 4 Style NPC Stim-92538-1-2-1749706629.7z](https://www.nexusmods.com/newvegas/mods/92538/?tab=files&file_id=1000153288)
 *  [Stimpak Hotkey ESPLess-85128-2-0-1709057936.rar](https://www.nexusmods.com/newvegas/mods/85128/?tab=files&file_id=1000124548)
@@ -1023,7 +866,6 @@
 *  [Vendortron Position Fix-91815-1-0-1744509983.zip](https://www.nexusmods.com/newvegas/mods/91815/?tab=files&file_id=1000150061)
 *  [Version 1.0-83316-1-0-1696325110.zip](https://www.nexusmods.com/newvegas/mods/83316/?tab=files&file_id=1000117223)
 *  [Version 1.1-88929-1-1-1725152557.7z](https://www.nexusmods.com/newvegas/mods/88929/?tab=files&file_id=1000139102)
-*  VeryHigh.ini
 *  [Viewmodel Shading Fix - NVSE-84781-2-2-1737322776.7z](https://www.nexusmods.com/newvegas/mods/84781/?tab=files&file_id=1000145573)
 *  [Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000124732)
 *  [Vintage Globe-69393-1-1-1714661390.rar](https://www.nexusmods.com/newvegas/mods/69393/?tab=files&file_id=1000129538)
