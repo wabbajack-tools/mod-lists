@@ -1,10 +1,11 @@
 ## Validation Report - ElderTeej (ElderTeej/ElderTeej)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High Poly Head v1.4 (SE).zip_3bcee1f7-0bcc-47a0-bf5d-48997f3d9bde)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2369)
+### Valid (2368)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
 *  [(ESL) New Flora in the Alikr Desert-141623-2-5-6-4-1745648143.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141623/?tab=files&file_id=621194)
@@ -1028,7 +1029,6 @@
 *  [High Poly Dragonborn Ingredients Retextured 2K-71237-1-01-1657644662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71237/?tab=files&file_id=298421)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
-*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High Poly Head v1.4 (SE).zip_3bcee1f7-0bcc-47a0-bf5d-48997f3d9bde)
 *  [High Poly Milk Jug-69466-1-0-1654889947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290260)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
