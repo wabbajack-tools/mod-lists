@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2369)
+### Valid (2422)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
 *  [(ESL) New Flora in the Alikr Desert-141623-2-5-6-4-1745648143.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141623/?tab=files&file_id=621194)
@@ -424,6 +424,8 @@
 *  [Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81409/?tab=files&file_id=493920)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
 *  [Creation Club Patches-148952-1-0-1-1746106998.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148952/?tab=files&file_id=622647)
+*  CreationKit.exe
+*  CreationKit.ini
 *  [Crusty Loaves - 1k Bread Retextures All-In-One-27003-1-2-1561878330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27003/?tab=files&file_id=97710)
 *  [Cult of the World Eater (SPID) 1.3-83274-1-3-1674852111.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83274/?tab=files&file_id=353643)
 *  [Cultural Bards CBBE 3BA-133265-1-4-1741038674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133265/?tab=files&file_id=601502)
@@ -605,6 +607,7 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -738,7 +741,7 @@
 *  [ElderTeej - ACMOS Roads-154704-2-0-1754194468.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652337)
 *  [ElderTeej - DynDOLOD Output-154704-2-0-1754190439.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652317)
 *  [ElderTeej - Female Bodyslides-154704-2-0-1-1754194920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652340)
-*  [ElderTeej - Grass Cache-154704-2-0-1754194233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652334)
+*  [ElderTeej - Grass Cache-154704-2-0-1-1754971736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=654885)
 *  [ElderTeej - Male Bodyslides-154704-2-0-1754194180.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652332)
 *  [ElderTeej - Pandora Outputs-154704-2-0-1754194285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652335)
 *  [ElderTeej - TexGen Output-154704-2-0-1754190773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154704/?tab=files&file_id=652319)
@@ -877,8 +880,8 @@
 *  [Fixed Nordic metal grate-80079-1-0-1670252502.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80079/?tab=files&file_id=337875)
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
 *  [FixToggleWalkRun-61671-3-1724360460.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61671/?tab=files&file_id=534249)
+*  flowchartx64.dll
 *  [Fluffworks - Auto Patches-64445-2-2-1752382754.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=646629)
-*  [Fluffworks - Bellyaches Horses Standalone-64445-1-0-1675904612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=357882)
 *  [Fluffworks - Better Photoreal Foxes-65974-1-0-1649394282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65974/?tab=files&file_id=275572)
 *  [Fluffworks - CC Pets of Skyrim Patch-64445-1-0-1648274594.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=272625)
 *  [Fluffworks - Dismembering Framework Patch-146339-1-0-1743372833.7z](https://www.nexusmods.com/skyrimspecialedition/mods/146339/?tab=files&file_id=611914)
@@ -1324,6 +1327,15 @@
 *  [Leveled List Crash Fix-129136-1-1-1-1729025987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129136/?tab=files&file_id=552464)
 *  [Leveling Freedom - Settings Loader-90311-1-0-3-1687123361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90311/?tab=files&file_id=399051)
 *  [Leveling Freedom ESPFE-69589-0-B-1666405709.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69589/?tab=files&file_id=325656)
+*  lex_accent.tlx
+*  lex_ssceam.tlx
+*  lex_ssceam2.clx
+*  lex_sscebr.tlx
+*  lex_sscebr2.clx
+*  lex_ssceca2.clx
+*  lex_tech.tlx
+*  lex_User_correct.tlx
+*  lex_User_userdic.tlx
 *  [Lexy's LOTD - IED Preset-85672-1-04-1727968866.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85672/?tab=files&file_id=548695)
 *  [Lexys LOTD CAO Profiles-85672-5-3-14-1-1707319140.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85672/?tab=files&file_id=468637)
 *  [lilebonymace xEdit scripts-36042-s2-29-1658655446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=301721)
@@ -1568,6 +1580,7 @@
 *  [Organic Player Animations (OAR)-99270-2-0-0-1725159968.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99270/?tab=files&file_id=537419)
 *  [Overlooked Dungeon Objects Retextures - 2K-66418-1-6-1722786176.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66418/?tab=files&file_id=528223)
 *  [OxygenMeter2 FOMOD SSE AE640 AE1170-64532-1-0-7-1708856967.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=474315)
+*  p4com64.dll
 *  [Paarthurnax - Quest Expansion-51711-1-12-1682859219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=383290)
 *  [Paintings Remade - Legacy of The Dragonborn-76823-0-2-1668877081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76823/?tab=files&file_id=332991)
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
@@ -1589,6 +1602,14 @@
 *  [Pandorable's Lucien SE-22598-1-0-1547460773.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22598/?tab=files&file_id=78296)
 *  [Pandorable's NPCs - Dragonborn SE-30680-1-1-1575120229.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30680/?tab=files&file_id=114755)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
+*  Papyrus Compiler_antlr.runtime.dll
+*  Papyrus Compiler_Antlr3.Runtime.dll
+*  Papyrus Compiler_Antlr3.Utility.dll
+*  Papyrus Compiler_PapyrusAssembler.exe
+*  Papyrus Compiler_PapyrusCompiler.exe
+*  Papyrus Compiler_PCompiler.dll
+*  Papyrus Compiler_ScriptCompile.bat
+*  Papyrus Compiler_StringTemplate.dll
 *  [Papyrus Extender-22854-6-0-3-1751956647.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=645222)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
@@ -1932,6 +1953,7 @@
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  [Skyrim's Unique Drinks-85824-1-1-1679359812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85824/?tab=files&file_id=370504)
+*  SkyrimReservedAddOnIndexes.txt
 *  [Skyrims Unique Treasures SE-5261-4-7-1703367806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=454562)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
@@ -2151,6 +2173,37 @@
 *  [Tomato's Subdued Green Tundra Parallax - 2K-115649-1-4-1720571929.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115649/?tab=files&file_id=519514)
 *  [Tomato's Wood - Grungier Dungeons 2K-115201-2-2-1720147144.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115201/?tab=files&file_id=517813)
 *  [Tomato's Wood Overhaul 2K-115201-2-2-1719177163.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115201/?tab=files&file_id=514305)
+*  Tools_Archive_Archive.exe
+*  Tools_ArtTools_Blender_bgs_skyrim_tools.zip
+*  Tools_ArtTools_Blender_io_scene_bsfbx_skyrim.zip
+*  Tools_AssetWatcher_AssetWatcher.exe
+*  Tools_AssetWatcher_platforms_qminimal.dll
+*  Tools_AssetWatcher_platforms_qoffscreen.dll
+*  Tools_AssetWatcher_platforms_qwindows.dll
+*  Tools_AssetWatcher_Plugins_Skyrim_BSFBXDLL.dll
+*  Tools_AssetWatcher_Plugins_Skyrim_Meshes_Settings.json
+*  Tools_AssetWatcher_Qt5Core.dll
+*  Tools_AssetWatcher_Qt5Gui.dll
+*  Tools_AssetWatcher_Qt5Network.dll
+*  Tools_AssetWatcher_Qt5Svg.dll
+*  Tools_AssetWatcher_Qt5Widgets.dll
+*  Tools_AssetWatcher_SettingsGeneration.py
+*  Tools_AssetWatcher_styles_Default.css
+*  Tools_AssetWatcher_styles_qwindowsvistastyle.dll
+*  Tools_Audio_xwmaencode.exe
+*  Tools_Elric_xg.dll
+*  Tools_Elric_xtexconv.exe
+*  Tools_Exporting Blender Art Assets for Skyrim.pdf
+*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
+*  Tools_HavokBehaviorPostProcess_readme.txt
+*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
+*  Tools_LipGen_LipFuzer_LIPFuzer.exe
+*  Tools_LipGen_LipFuzer_LIPFuzer.txt
+*  Tools_LipGen_LipGenerator_FonixData.cdf
+*  Tools_LipGen_LipGenerator_LipGenerator.exe
+*  Tools_redist_dxwebsetup.exe
+*  Tools_redist_VC_redist.x64.exe
+*  Tools_RoboVoicer.exe
 *  [TotTB - Artifacts of Boethiah - Creation Club Patch-66015-1-1-1649721276.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66015/?tab=files&file_id=276532)
 *  [Tournament of the Ten Bloods 2.1-15264-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15264/?tab=files&file_id=51382)
 *  [Trade and Barter - Settings Loader-57926-2-0-1-1738836219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57926/?tab=files&file_id=591681)
