@@ -1,10 +1,12 @@
 ## Validation Report - Somnium (wj-featured/somnium)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (920)
+### Valid (918)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  ['The Howling' edited Mesh for AV users-60804-1-0.rar](https://www.nexusmods.com/skyrim/mods/60804/?tab=files&file_id=1000139064)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
@@ -693,8 +695,6 @@
 *  [Sales Overflow Solved-41625-1-0-1603382023.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41625/?tab=files&file_id=166582)
 *  [SC - KS Hairdos Retextured - Grayscale-38820-1-9-1646753176.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=268856)
 *  [SC - Yatagan-56038-1-0-1632504425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56038/?tab=files&file_id=230353)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scorpion Scimitar-25513-1-1556880235.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25513/?tab=files&file_id=90670)
 *  [Scottish Basket Hilt Broadswords II SE.7z-13855-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13855/?tab=files&file_id=40257)

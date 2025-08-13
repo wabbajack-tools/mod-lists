@@ -1,10 +1,12 @@
 ## Validation Report - Vagabond Remastered (WakingDreams/VagabondRemastered)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4060)
+### Valid (4058)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -3082,8 +3084,6 @@
 *  [SB - Pressure Plate Trap Blending - Base Object Sw-86053-2-0-1719414996.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86053/?tab=files&file_id=515069)
 *  [SC - Cubemaps - 128-38760-1-0-1595965472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38760/?tab=files&file_id=152625)
 *  [SC Horses Mane Fix-68588-1-0-1-1669451309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334821)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [SC6 Quarterstaff moveset (MCO - SCAR)-112109-1-0-1708439609.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112109/?tab=files&file_id=472912)
 *  [ScaleformTranslationPP-77359-1-8-1709114434.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=475314)
 *  [scamps and banekins (se-ae) 1.2-50084-1-2-1658279370.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50084/?tab=files&file_id=300441)
