@@ -1,8 +1,8 @@
 {
   "MachineURL": "BtHz/HzOff",
   "Name": "Horizon - Official Modlist",
-  "Version": "1.3",
-  "ModListHash": "/+OIK5wMtDA=",
+  "Version": "2.0",
+  "ModListHash": "gF3FTd9szUQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,42 +21,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4Udmxnm8e48=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=309104",
-        "Name": "Architect Texture Pack v2.1-17374-2-1-1712284930.zip",
-        "Size": 3376252108,
+        "Hash": "WYCsc97g6VQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=322390",
+        "Name": "Architect Weather and Lighting v2.2-17374-2-2-1718213815.zip",
+        "Size": 9093840,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zawinul",
           "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
-          "FileID": 309104,
+          "FileID": 322390,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
           "IsNSFW": false,
           "ModID": 17374,
           "Name": "Horizon v1.9",
           "Version": "1.9.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gsW3DzjlIC0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325896",
-        "Name": "CC X-02 Power Armor - Horizon Patch-69033-1-0-1720355650.zip",
-        "Size": 9475,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Greb751",
-          "Description": "A bunch of patches for Horizon 1.9.",
-          "FileID": 325896,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
-          "IsNSFW": false,
-          "ModID": 69033,
-          "Name": "Greb\u0027s Horizon 1.9 Patches",
-          "Version": "1.0"
         }
       }
     },
@@ -84,15 +63,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4worEYKy2mQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=335703",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-7-1727752409.7z",
-        "Size": 38663285,
+        "Hash": "llXJCpYJ63E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65677\nfileID=309866",
+        "Name": "Default UI Size-65677-2-1-1712920212.zip",
+        "Size": 19074018,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aigni",
+          "Description": "Fixes all bugs/problems of 21:9 resolutions and is fully compatible to FallUI, DEF_UI, Horizon, HUDFramework, etc. \n\nTested resolutions: 3440\u00D71440 and 2560 \u00D7 1080.",
+          "FileID": 309866,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65677/65677-1668454185-942962524.jpeg",
+          "IsNSFW": false,
+          "ModID": 65677,
+          "Name": "Ultra Wide Interface (21x9)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rdc7AWdoTaQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=352202",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-8-1743225118.7z",
+        "Size": 49679899,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Unofficial Patch Project Team",
           "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 335703,
+          "FileID": 352202,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
           "IsNSFW": false,
@@ -126,27 +126,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yh3Xq+W9x4A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=316287",
-        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-7-2-1715628153.7z",
-        "Size": 900007,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": "Compatible with runtime 1.10.984.\n\u003Cbr /\u003E\u003Cbr /\u003EAll native code plugins (.dlls) need to be updated by their creators for 1.10.980\u002B.\n\u003Cbr /\u003EOld native code plugins not loading is not a problem with F4SE.",
-          "FileID": 316287,
-          "GameName": "Fallout4",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 42147,
-          "Name": "Fallout 4 Script Extender (F4SE)",
-          "Version": "0.7.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "21h4TOKduN0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
         "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
@@ -168,189 +147,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2MBP8BiCbMU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=528774",
-        "Name": "Root Builder 5.0.5-31720-5-0-5-1722935359.zip",
-        "Size": 948891,
+        "Hash": "NTuIOiXhdm8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81933\nfileID=326792",
+        "Name": "Simple Fallout 4 Downgrader - for v1.10.984-81933-0-3-1721026950.7z",
+        "Size": 51931003,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
-          "FileID": 528774,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
-          "IsNSFW": false,
-          "ModID": 31720,
-          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.5.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "te2oUSFjYvU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=81859\nfileID=313321",
-        "Name": "BackportedBA2Support-1_0-81859-1-0-1714516128.zip",
-        "Size": 1303614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukem",
-          "Description": "Adds support for the new BA2 archive format introduced in NG update 1.10.980 to versions 1.10.163 and older. Fixes crashes, similar to BEES for Skyrim Special Edition.",
-          "FileID": 313321,
+          "Author": "carxt - Nukem - Ungeziefi",
+          "Description": "A simple one-click downgrader that doesn\u2019t require any login credentials.",
+          "FileID": 326792,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81859/81859-1714515554-286241558.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81933/81933-1714619983-1474600117.png",
           "IsNSFW": false,
-          "ModID": 81859,
-          "Name": "Backported Archive2 Support System",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OjnlvMjXxjE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=342947",
-        "Name": "High FPS Physics Fix-44798-0-8-11-1734373932.zip",
-        "Size": 560532,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 342947,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
-          "IsNSFW": false,
-          "ModID": 44798,
-          "Name": "High FPS Physics Fix",
-          "Version": "0.8.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1vu+CR0B1TY=",
-        "Meta": "[General]\ngameName=site\nmodID=631\nfileID=3097",
-        "Name": "Bethini Pie-631-4-11-1714357636.zip",
-        "Size": 20011099,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DoubleYou",
-          "Description": "Bethini Pie (Performance INI Editor) is a universal tool to make editing INI configuration files simple via a graphical user interface.",
-          "FileID": 3097,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/631/631-1693634744-1135038961.png",
-          "IsNSFW": false,
-          "ModID": 631,
-          "Name": "Bethini Pie (Performance INI Editor)",
-          "Version": "4.10"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PK0TsJNp+kg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
-        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
-        "Size": 287655,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
-          "FileID": 93183,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
-          "IsNSFW": false,
-          "ModID": 20309,
-          "Name": "HUDFramework",
-          "Version": "1.0f"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rV3uu+0Pa08=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=316511",
-        "Name": "Better Console-26582-v1-5-1-1715706512.7z",
-        "Size": 206488,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
-          "FileID": 316511,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
-          "IsNSFW": false,
-          "ModID": 26582,
-          "Name": "Better Console - F4SE",
-          "Version": "v1.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2TfmqUhLsHE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=342948",
-        "Name": "High FPS Physics Fix-44798-0-8-11-1734374053.zip",
-        "Size": 467489,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 342948,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
-          "IsNSFW": false,
-          "ModID": 44798,
-          "Name": "High FPS Physics Fix",
-          "Version": "0.8.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N6vvSSTPoZY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13459\nfileID=88106",
-        "Name": "Everyone\u0027s Best Friend v3.0.0-13459-3-0-0.rar",
-        "Size": 81039,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Valdacil",
-          "Description": "This mod allows you to have Dogmeat and a standard companion at the same time using in game functionality (not hacks or console commands).",
-          "FileID": 88106,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13459-0-1463160357.jpg",
-          "IsNSFW": false,
-          "ModID": 13459,
-          "Name": "Everyone\u0027s Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)",
-          "Version": "3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Uhrgx1tXZNY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325899",
-        "Name": "CC Enclave Remnants - Horizon Patch-69033-1-0-1720355966.zip",
-        "Size": 79767,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Greb751",
-          "Description": "A bunch of patches for Horizon 1.9.",
-          "FileID": 325899,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
-          "IsNSFW": false,
-          "ModID": 69033,
-          "Name": "Greb\u0027s Horizon 1.9 Patches",
-          "Version": "1.0"
+          "ModID": 81933,
+          "Name": "Simple Fallout 4 Downgrader",
+          "Version": "0.3"
         }
       }
     },
@@ -378,36 +189,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WYCsc97g6VQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=322390",
-        "Name": "Architect Weather and Lighting v2.2-17374-2-2-1718213815.zip",
-        "Size": 9093840,
+        "Hash": "2MBP8BiCbMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=528774",
+        "Name": "Root Builder 5.0.5-31720-5-0-5-1722935359.zip",
+        "Size": 948891,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zawinul",
-          "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
-          "FileID": 322390,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 528774,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
           "IsNSFW": false,
-          "ModID": 17374,
-          "Name": "Horizon v1.9",
-          "Version": "1.9.3"
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.5.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "o4msXwmmYQ4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=336673",
-        "Name": "Buffout4 NG-64880-1-36-0-1728807293.7z",
-        "Size": 14601624,
+        "Hash": "1vu+CR0B1TY=",
+        "Meta": "[General]\ngameName=site\nmodID=631\nfileID=3097",
+        "Name": "Bethini Pie-631-4-11-1714357636.zip",
+        "Size": 20011099,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DoubleYou",
+          "Description": "Bethini Pie (Performance INI Editor) is a universal tool to make editing INI configuration files simple via a graphical user interface.",
+          "FileID": 3097,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/631/631-1693634744-1135038961.png",
+          "IsNSFW": false,
+          "ModID": 631,
+          "Name": "Bethini Pie (Performance INI Editor)",
+          "Version": "4.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VkOh+/JA6OQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=350591",
+        "Name": "Buffout4 NG-64880-1-37-0-1741845594.7z",
+        "Size": 17528192,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "alandtse",
           "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
-          "FileID": 336673,
+          "FileID": 350591,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
           "IsNSFW": false,
@@ -420,15 +252,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "H6nLBh7itcA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325900",
-        "Name": "CC Halloween Workshop Pack-69033-1-0-1720356059.zip",
-        "Size": 8906,
+        "Hash": "2TfmqUhLsHE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=342948",
+        "Name": "High FPS Physics Fix-44798-0-8-11-1734374053.zip",
+        "Size": 467489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+          "FileID": 342948,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+          "IsNSFW": false,
+          "ModID": 44798,
+          "Name": "High FPS Physics Fix",
+          "Version": "0.8.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EYbVerAi7DY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=328978",
+        "Name": "CC Hellfire Power Armor - Horizon Patch-69033-1-1-1722699756.zip",
+        "Size": 7136,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Greb751",
           "Description": "A bunch of patches for Horizon 1.9.",
-          "FileID": 325900,
+          "FileID": 328978,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
           "IsNSFW": false,
@@ -462,36 +315,141 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VdjJhD+sHsg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69041\nfileID=341550",
-        "Name": "Heavy Incinerator CC Horizon patch-69041-1-9-4c-1732813267.7z",
-        "Size": 10206,
+        "Hash": "te2oUSFjYvU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81859\nfileID=313321",
+        "Name": "BackportedBA2Support-1_0-81859-1-0-1714516128.zip",
+        "Size": 1303614,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Starguardace",
-          "Description": "Horizon 1.9.4 patches ONLY.",
-          "FileID": 341550,
+          "Author": "Nukem",
+          "Description": "Adds support for the new BA2 archive format introduced in NG update 1.10.980 to versions 1.10.163 and older. Fixes crashes, similar to BEES for Skyrim Special Edition.",
+          "FileID": 313321,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69041/69041-1677122064-2139323623.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81859/81859-1714515554-286241558.jpeg",
           "IsNSFW": false,
-          "ModID": 69041,
-          "Name": "Starguardace\u0027s Horizon 1.9 patches",
-          "Version": "1.9.4"
+          "ModID": 81859,
+          "Name": "Backported Archive2 Support System",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5kCBxYPiaBM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=341539",
-        "Name": "Simple Creation Club Delayed NG-84393-1-0-6-1732792276.7z",
-        "Size": 13576,
+        "Hash": "gsW3DzjlIC0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325896",
+        "Name": "CC X-02 Power Armor - Horizon Patch-69033-1-0-1720355650.zip",
+        "Size": 9475,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greb751",
+          "Description": "A bunch of patches for Horizon 1.9.",
+          "FileID": 325896,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "IsNSFW": false,
+          "ModID": 69033,
+          "Name": "Greb\u0027s Horizon 1.9 Patches",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rV3uu+0Pa08=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=316511",
+        "Name": "Better Console-26582-v1-5-1-1715706512.7z",
+        "Size": 206488,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+          "FileID": 316511,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "IsNSFW": false,
+          "ModID": 26582,
+          "Name": "Better Console - F4SE",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4Udmxnm8e48=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=309104",
+        "Name": "Architect Texture Pack v2.1-17374-2-1-1712284930.zip",
+        "Size": 3376252108,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zawinul",
+          "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
+          "FileID": 309104,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": "Horizon v1.9",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PK0TsJNp+kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
+        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+        "Size": 287655,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+          "FileID": 93183,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
+          "IsNSFW": false,
+          "ModID": 20309,
+          "Name": "HUDFramework",
+          "Version": "1.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Uhrgx1tXZNY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325899",
+        "Name": "CC Enclave Remnants - Horizon Patch-69033-1-0-1720355966.zip",
+        "Size": 79767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greb751",
+          "Description": "A bunch of patches for Horizon 1.9.",
+          "FileID": 325899,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "IsNSFW": false,
+          "ModID": 69033,
+          "Name": "Greb\u0027s Horizon 1.9 Patches",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lGeUYbinIMY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=352493",
+        "Name": "Simple Creation Club Delayed NG-84393-1-1-0-1743445279.7z",
+        "Size": 64382,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SoleVaultBoy",
           "Description": "Delays the start of the Next Gen Creation Club content until meet certain requirements.",
-          "FileID": 341539,
+          "FileID": 352493,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84393%2F84393-1718047059-2034869186.png",
           "IsNSFW": false,
@@ -504,14 +462,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ggeIkZZoL5s=",
-        "Meta": "[General]\ndirectURL=https://github.com/nemal34/beyondthehorizon_wj/raw/main/f4se_forcesteamloader.zip",
-        "Name": "f4se_forcesteamloader.zip",
-        "Size": 217,
+        "Hash": "H6nLBh7itcA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325900",
+        "Name": "CC Halloween Workshop Pack-69033-1-0-1720356059.zip",
+        "Size": 8906,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/nemal34/beyondthehorizon_wj/raw/main/f4se_forcesteamloader.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greb751",
+          "Description": "A bunch of patches for Horizon 1.9.",
+          "FileID": 325900,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "IsNSFW": false,
+          "ModID": 69033,
+          "Name": "Greb\u0027s Horizon 1.9 Patches",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UPl+cpldSJ8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=92314\nfileID=352492",
+        "Name": "Simple Everyone\u0027s Best Friend-92314-1-0-1-1743444819.7z",
+        "Size": 51909,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Simple and improved version of Everyone\u0027s Best Friend. Carries over essential bugfixes and greatly improves compatibility with other mods.",
+          "FileID": 352492,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/92314/92314-1742248075-1530014120.png",
+          "IsNSFW": false,
+          "ModID": 92314,
+          "Name": "Simple Everyone\u0027s Best Friend",
+          "Version": "1.0.0"
         }
       }
     },
@@ -539,21 +525,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EYbVerAi7DY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=328978",
-        "Name": "CC Hellfire Power Armor - Horizon Patch-69033-1-1-1722699756.zip",
-        "Size": 7136,
+        "Hash": "l9nTARCAr1c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69041\nfileID=359684",
+        "Name": "Heavy Incinerator CC Horizon patch-69041-1-9-4d-1750592653.7z",
+        "Size": 10266,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Greb751",
-          "Description": "A bunch of patches for Horizon 1.9.",
-          "FileID": 328978,
+          "Author": "Starguardace",
+          "Description": "Horizon 1.9.4 patches ONLY.",
+          "FileID": 359684,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69041/69041-1677122064-2139323623.png",
           "IsNSFW": false,
-          "ModID": 69033,
-          "Name": "Greb\u0027s Horizon 1.9 Patches",
-          "Version": "1.0"
+          "ModID": 69041,
+          "Name": "Starguardace\u0027s Horizon 1.9 patches",
+          "Version": "1.9.4"
         }
       }
     },
