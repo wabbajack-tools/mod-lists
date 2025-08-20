@@ -1,10 +1,11 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (wj-featured/sss)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [xLODGen.111.7z](https://authored-files.wabbajack.org/xLODGen.111.7z_66cc3fa1-8803-4724-81f6-485e4d28eb4e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1623)
+### Valid (1622)
 *  [(1) Alchemy Station Variants - Continuous Swap-92768-1-4-1-1705038318.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460508)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -1615,7 +1616,6 @@
 *  [Wonders of Weather - Settings Loader-64273-1-0-1-1650654484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64273/?tab=files&file_id=278987)
 *  [Wonders of Weather v1_10-13044-1-10.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13044/?tab=files&file_id=36936)
 *  [Word Wall Transparency Fix for ENB-41463-0-3-1692153527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41463/?tab=files&file_id=417521)
-*  [xLODGen.111.7z](https://authored-files.wabbajack.org/xLODGen.111.7z_66cc3fa1-8803-4724-81f6-485e4d28eb4e)
 *  [XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=469854)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [YAR - Yuril's Additional Resources-89416-1-0-3-1684126273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89416/?tab=files&file_id=388258)
