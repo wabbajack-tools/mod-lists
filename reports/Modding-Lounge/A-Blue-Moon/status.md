@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1024)
+### Valid (1028)
 *  [(Sound)_Animal_Sounds-67672-2-1615205000.7z](https://www.nexusmods.com/newvegas/mods/67672/?tab=files&file_id=1000073035)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Pool Items-82577-1-0-1692282849.7z](https://www.nexusmods.com/newvegas/mods/82577/?tab=files&file_id=1000114946)
@@ -548,7 +548,10 @@
 *  [Factions Reloaded Legion V2.9-51983-2-9-1724785704.rar](https://www.nexusmods.com/newvegas/mods/51983/?tab=files&file_id=1000138875)
 *  [Fallout 76 Loading Menu-85663-1-0-1-1711658342.7z](https://www.nexusmods.com/newvegas/mods/85663/?tab=files&file_id=1000126465)
 *  [Fallout Alpha Rendering Tweaks-80316-2-5-2-1710935866.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000125920)
+*  Fallout_default.ini
+*  FalloutNV.exe
 *  FalloutNV.ico
+*  FalloutNVLauncher.exe
 *  [Fast Doctors-92704-1-05-1750651314.7z](https://www.nexusmods.com/newvegas/mods/92704/?tab=files&file_id=1000153776)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Sleep Wait-66785-2-0-1693172568.zip](https://www.nexusmods.com/newvegas/mods/66785/?tab=files&file_id=1000115499)
@@ -931,6 +934,7 @@
 *  [Sophisticated Spine-88668-1-0-1723498215.zip](https://www.nexusmods.com/newvegas/mods/88668/?tab=files&file_id=1000137971)
 *  [Sound Extender-78637-1-0-1665677845.zip](https://www.nexusmods.com/newvegas/mods/78637/?tab=files&file_id=1000099821)
 *  [SRR 1.0-92535-1-1749135726.zip](https://www.nexusmods.com/newvegas/mods/92535/?tab=files&file_id=1000153010)
+*  steam_api.dll
 *  [Stewie Tweaks-66347-9-60-1745076628.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000150479)
 *  [Stewie.Tweaks.-.VNV.Extended.INI.7z](https://github.com/ModdingLinked/Stewie-Tweaks-INIs/releases/download/14802221016/Stewie.Tweaks.-.VNV.Extended.INI.7z)
 *  [Store Entrance Doorbells (ESPless)-91291-1-1-0-1750439227.zip](https://www.nexusmods.com/newvegas/mods/91291/?tab=files&file_id=1000153683)
