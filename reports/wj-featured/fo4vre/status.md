@@ -141,7 +141,6 @@
 *  [Fallout4VR and SkyrimVR Configuration Tool-28587-1-1-0-18521.zip](https://www.nexusmods.com/fallout4/mods/28587/?tab=files&file_id=127130)
 *  Fallout4VR.exe
 *  [Fallout4VRTools BETA v0.1-45167-v0-1-1589924169.zip](https://www.nexusmods.com/fallout4/mods/45167/?tab=files&file_id=182280)
-*  [FalloutDLCs.zip](https://drive.google.com/uc?id=1sTV7h2ITFIDR8rshYLyDZEBKkiiMX34l&export=download)
 *  [FallUI - HUD VR-51556-1-1c-1618916989.rar](https://www.nexusmods.com/fallout4/mods/51556/?tab=files&file_id=206314)
 *  [FallUI - Workbench - VR patch-89048-1-0-1730845756.zip](https://www.nexusmods.com/fallout4/mods/89048/?tab=files&file_id=339056)
 *  [FallUI - Workbench-49300-1-4-1-r2-1667395902.rar](https://www.nexusmods.com/fallout4/mods/49300/?tab=files&file_id=255499)
@@ -154,6 +153,7 @@
 *  [First Person Messages - All DLC-10870-2-0-1542915667.7z](https://www.nexusmods.com/fallout4/mods/10870/?tab=files&file_id=146506)
 *  [Fix Cubemaps-95531-1-0-1-1754167853.zip](https://www.nexusmods.com/fallout4/mods/95531/?tab=files&file_id=363055)
 *  [Fix for Luxor HD users-43441-2-0a-1646563489.rar](https://www.nexusmods.com/fallout4/mods/43441/?tab=files&file_id=231392)
+*  [Fix-45429-1-1755971647.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=365305)
 *  [Fixed Gobo Effects-27445-2-1-2-1667131938.zip](https://www.nexusmods.com/fallout4/mods/27445/?tab=files&file_id=255106)
 *  [FO4 HD Overhaul 2k Debris Ground Tile Fix-65720-1-0-1667493579.rar](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=255641)
 *  [FO4 HD Overhaul 2k Fixed Alpha Maps-65720-1-0-1675463532.rar](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=266148)
