@@ -1,10 +1,11 @@
 ## Validation Report - Vagabond Remastered (WakingDreams/VagabondRemastered)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vagabond - Nemesis Output.7z](https://authored-files.wabbajack.org/Vagabond - Nemesis Output.7z_0f668461-4df5-4539-9b03-7faa1c45c58e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4123)
+### Valid (4122)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -3846,7 +3847,6 @@
 *  [Vagabond - DynDOLOD Output.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156283/?tab=files&file_id=653238)
 *  [Vagabond - Grass Cache.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156283/?tab=files&file_id=653153)
 *  [Vagabond - MCM and INI Settings.7z](https://authored-files.wabbajack.org/Vagabond - MCM and INI Settings.7z_7e4bc301-95cf-47d7-9989-9cb8beca1325)
-*  [Vagabond - Nemesis Output.7z](https://authored-files.wabbajack.org/Vagabond - Nemesis Output.7z_0f668461-4df5-4539-9b03-7faa1c45c58e)
 *  [Vagabond - Synthesis Output.7z](https://authored-files.wabbajack.org/Vagabond - Synthesis Output.7z_5c96a36c-6ff3-4472-b201-91b42ddee999)
 *  [Vagabond - Terrain LOD.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156283/?tab=files&file_id=653133)
 *  [Vagabond - TexGen Output.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156283/?tab=files&file_id=653155)
