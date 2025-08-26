@@ -1,7 +1,7 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (8)
+### Invalid (9)
 *  [BakaFactory ABC LE SE.7z](https://drive.google.com/uc?id=17Ox4I4P0rJUIHCPltum-iq8JTBx-vA9j&export=download)
 *  [enbseries_skyrimse_v0493.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0493.zip_0f788460-59e3-4809-bb0a-b1d09e91a3e9)
 *  [NEFARAM 0.10 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.10 Bodyslides.zip_b2d7ed59-4328-4780-930f-c210a714174f)
@@ -10,9 +10,10 @@
 *  [NEFARAM 11 Voice Pack & Bodyslide.zip](https://authored-files.wabbajack.org/NEFARAM 11 Voice Pack & Bodyslide.zip_c202e148-3f9a-4f79-a0a9-f081d05d048e)
 *  [NEFARAM 14 Bodyslide.7z](https://authored-files.wabbajack.org/NEFARAM 14 Bodyslide.7z_0e9b6ad8-b781-43d9-be33-1f2528cd1370)
 *  [NEFARAM 15.2 Bodyslide Output.7z](https://authored-files.wabbajack.org/NEFARAM 15.2 Bodyslide Output.7z_e406e1b4-6f66-4641-9e46-25ce7995d5eb)
+*  [troublesofheroine.rar](https://authored-files.wabbajack.org/troublesofheroine.rar_672bb89f-273a-45b4-aa7b-9091e1e38cf3)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2151)
+### Valid (2150)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -2004,7 +2005,6 @@
 *  [Trees Addon SE - Kings Trees 4K-22053-1-0-1564772370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=101625)
 *  [Trees Addon SE-22053-1-2-8-1614116932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=187650)
 *  [Troll.4k-2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9408)
-*  [troublesofheroine.rar](https://authored-files.wabbajack.org/troublesofheroine.rar_672bb89f-273a-45b4-aa7b-9091e1e38cf3)
 *  [True Directional Movement-51614-2-2-5-1698369428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=437371)
 *  [True HUD Boss Ini Tweaks-53238-1-4-1656876805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=295935)
 *  [True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153900)
