@@ -1,11 +1,10 @@
 ## Validation Report - A Blue Moon (Modding-Lounge/A-Blue-Moon)
 
 
-### Invalid (1)
-*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://authored-files.wabbajack.org/Vanilla_UI_Plus_New_Vegas_948.1.7z_9654c4da-2faa-470a-8120-155ce1820182)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1027)
+### Valid (1028)
 *  [(Sound)_Animal_Sounds-67672-2-1615205000.7z](https://www.nexusmods.com/newvegas/mods/67672/?tab=files&file_id=1000073035)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Pool Items-82577-1-0-1692282849.7z](https://www.nexusmods.com/newvegas/mods/82577/?tab=files&file_id=1000114946)
@@ -980,6 +979,7 @@
 *  [Vanilla Plus Tonemapper-91500-1-1-2-1742872805.7z](https://www.nexusmods.com/newvegas/mods/91500/?tab=files&file_id=1000148898)
 *  [Vanilla Style Pip-Boy 3000-91369-1-0-1741799928.7z](https://www.nexusmods.com/newvegas/mods/91369/?tab=files&file_id=1000148111)
 *  [Vanilla_UI_Extension.7z](https://authored-files.wabbajack.org/Vanilla_UI_Extension.7z_f5276487-6196-49f1-ac01-b8f182ee1271)
+*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://authored-files.wabbajack.org/Vanilla_UI_Plus_New_Vegas_948.1.7z_9654c4da-2faa-470a-8120-155ce1820182)
 *  [Various Hotfixes-86354-1-1-2-1742834069.7z](https://www.nexusmods.com/newvegas/mods/86354/?tab=files&file_id=1000148876)
 *  [Various Hotfixes-86354-1-1-3-1746663620.rar](https://www.nexusmods.com/newvegas/mods/86354/?tab=files&file_id=1000151470)
 *  [Various Signs HD-84292-1-1-1703789953.7z](https://www.nexusmods.com/newvegas/mods/84292/?tab=files&file_id=1000121045)
