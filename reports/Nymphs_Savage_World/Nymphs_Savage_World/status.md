@@ -1,4 +1,4 @@
-## Validation Report - Nymphs Savage World (Nymps_Savage_World/NymphsSavageWorld)
+## Validation Report - Nymphs Savage World (Nymphs_Savage_World/Nymphs_Savage_World)
 
 
 ### Invalid (0)

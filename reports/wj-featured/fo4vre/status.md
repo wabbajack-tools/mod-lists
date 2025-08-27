@@ -88,6 +88,7 @@
 *  [Dark Sci Fi Vault Retexture 4k BA2-44251-2-0-1655684489.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=241019)
 *  [Dark Sci Fi Vault Retexture-44251-1-1-1586054813.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=178803)
 *  Data_Fallout4 - Sounds.ba2
+*  Data_Video_MainMenuLoop.bk2
 *  [DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z](https://www.nexusmods.com/fallout4/mods/31088/?tab=files&file_id=172178)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
 *  [Detailed Deathclaws - 2k x 2k resolution-2865-2.7z](https://www.nexusmods.com/fallout4/mods/2865/?tab=files&file_id=12753)
@@ -209,7 +210,6 @@
 *  [MantellaMod VR 0.8.2-79747-0-8-2-1714448752.rar](https://www.nexusmods.com/fallout4/mods/79747/?tab=files&file_id=313159)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
 *  [MCM_VR-21497-1-0-0-1715710309.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=316521)
-*  [Menu-45429-1-1756103351.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=365494)
 *  [MO2 For VR Essentials-45429-1-1591490859.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=183707)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Monkey Trap HD-6202-1.zip](https://www.nexusmods.com/fallout4/mods/6202/?tab=files&file_id=21246)
