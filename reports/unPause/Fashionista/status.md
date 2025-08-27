@@ -4,8 +4,9 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (118)
+### Valid (155)
 *  [Aristocratic nosferatu by marius217-146-1-1591472026.rar](https://www.nexusmods.com/vampirebloodlines/mods/146/?tab=files&file_id=402)
+*  [Arsenel Mod by lenusk - Fixed Translation-257-1-1-1683575103.7z](https://www.nexusmods.com/vampirebloodlines/mods/257/?tab=files&file_id=789)
 *  [Art Texture Pack 1.01-75-1-01-1571250154.zip](https://www.nexusmods.com/vampirebloodlines/mods/75/?tab=files&file_id=288)
 *  [Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip](https://www.nexusmods.com/vampirebloodlines/mods/74/?tab=files&file_id=169)
 *  [Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=997)
@@ -15,6 +16,7 @@
 *  [Carpet Texture Pack-152-1-0-1598207727.zip](https://www.nexusmods.com/vampirebloodlines/mods/152/?tab=files&file_id=423)
 *  [Character Eyes Improved-164-16-1719680547.rar](https://www.nexusmods.com/vampirebloodlines/mods/164/?tab=files&file_id=1015)
 *  [Chinatown-165-29-5-1745507446.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1212)
+*  [Companion Mod - base v3 files-138-source-code-1736707317.7z](https://www.nexusmods.com/vampirebloodlines/mods/138/?tab=files&file_id=1149)
 *  [Corporate Goth-327-1-1-1725142954.rar](https://www.nexusmods.com/vampirebloodlines/mods/327/?tab=files&file_id=1068)
 *  [dev0lved_enb_v1.2.zip-10-1-2.zip](https://www.nexusmods.com/vampirebloodlines/mods/10/?tab=files&file_id=9)
 *  [Downtown-165-29-5-1745508422.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1213)
@@ -69,34 +71,69 @@
 *  [vampire tremere Jerry Dandridge (Fright Night) by Marius217-113-1-1564250426.rar](https://www.nexusmods.com/vampirebloodlines/mods/113/?tab=files&file_id=267)
 *  [vampire Tremere Male my version original by Marius217-116-1-1565840224.rar](https://www.nexusmods.com/vampirebloodlines/mods/116/?tab=files&file_id=274)
 *  Vampire_sound_character_dlg_chinatown_lufang_line491_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line550_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_zhao_line21_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_boris_line31_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_chunk2_line381_col_f.mp3
 *  Vampire_sound_character_dlg_downtown la_chunk2_line441_col_f.mp3
 *  Vampire_sound_character_dlg_downtown la_dirty_cop_line9_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_pisha_line241_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_prince1_line1020_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_prince2_line1091_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_tin_can_bill_line6_col_e.mp3
 *  Vampire_sound_character_dlg_generic_sabbat1_line491_col_e.mp3
 *  Vampire_sound_character_dlg_giovanni_adam_line245_col_e.mp3
 *  Vampire_sound_character_dlg_giovanni_adam_line247_col_e.mp3
+*  Vampire_sound_character_dlg_giovanni_christopher_line300_col_e.mp3
 *  Vampire_sound_character_dlg_giovanni_nadia_line1_col_e.mp3
 *  Vampire_sound_character_dlg_giovanni_nadia_line501_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_andrei_line255_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_andrei_line260_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_andrei_line5_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_ash_lookalike_line240_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_courier_line120_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_dhatter_line395_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_dhatter_line400_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line301_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line661_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line691_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_slater_line227_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_slater_line230_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_spicoli_line2_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_spicoli_line7_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_beckett_line221_col_n.mp3
+*  Vampire_sound_character_dlg_main characters_gary_line820_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_heather_line13_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_heather_line17_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_heather_line972_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_heather_line973_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_heather_line974_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_jack_tutorial_line365_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_johansen_line121_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_mingxiao_line870_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line910_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line920_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line930_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_cal_line250_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_carson_line100_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_danielle_line1_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_danielle_line11_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_killer_line161_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line361_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line531_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line631_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line631_col_f.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line641_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line641_col_f.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line781_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line781_col_f.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line821_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_stan_gimble_line270_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_therese_line361_col_f.mp3
+*  Vampire_sound_character_dlg_santa monica_tourette_line901_col_e.mp3
 *  Vampire_sound_character_dlg_warrens_mitnick_line273_col_e.mp3
 *  Vampire_sound_character_dlg_warrens_mitnick_line277_col_e.mp3
+*  Vampire_sound_character_dlg_warrens_mitnick_line280_col_e.mp3
 *  Vampire_sound_music_chinatown_chinatown_theme.mp3
 *  Vampire_sound_music_dangerous_places.mp3
 *  Vampire_sound_music_disturbed_and_twisted.mp3
