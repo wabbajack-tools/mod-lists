@@ -1,10 +1,11 @@
 ## Validation Report - Curseadelica VR (Januarysnow/CurseadelicaVR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [sksevr_2_00_12.7z](https://skse.silverlock.org/beta/sksevr_2_00_12.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1287)
+### Valid (1286)
 *  [(CaS SE) Crimes against Skyrim - 1.0-3441-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3441/?tab=files&file_id=35192)
 *  [(ESL) Chicks and Chickens SE-110087-2-1-1706197521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110087/?tab=files&file_id=464709)
 *  [(ESL) Chocobos Mounts and Followers SE-1293-3-4-1654615264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1293/?tab=files&file_id=289499)
@@ -1000,7 +1001,6 @@
 *  [Skibidi Black-Briar-111299-1-0-1707502651.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111299/?tab=files&file_id=469313)
 *  [Skooma Activism Outfit-9082-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9082/?tab=files&file_id=22999)
 *  [SKSEVR Perk Extender-16330-2-0-1577426728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16330/?tab=files&file_id=117562)
-*  [sksevr_2_00_12.7z](https://skse.silverlock.org/beta/sksevr_2_00_12.7z)
 *  [Sky Idles VR-45794-2-0-1643059399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=259328)
 *  [Sky Reflection Fix-110604-1-0-1-1706805413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110604/?tab=files&file_id=466782)
 *  [Sky-hi-Rim Villa SE -panel_fix.7z-46478-1-0-1614890282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46478/?tab=files&file_id=189413)
