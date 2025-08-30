@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "New Vegas: Multiplayer",
-  "Version": "2.1.7",
-  "ModListHash": "4DFg4q6Wocg=",
+  "Version": "2.1.8",
+  "ModListHash": "YXqT1N+8rYY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -28,48 +28,48 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZU3tuJOp0Bk=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_aace527d-be04-4ad3-8b58-bdd6a6d0cede",
-        "Name": "RADD Server Mods.7z",
-        "Size": 1551994837,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RADD Server Mods.7z_aace527d-be04-4ad3-8b58-bdd6a6d0cede"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kAcFPvVdmaQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=65094\nfileID=1000100792",
-        "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4-65094-v1-4-1667751016.zip",
-        "Size": 6134945,
+        "Hash": "I2VFsm3KBbA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
+        "Name": "MTUI-34902.zip",
+        "Size": 424681,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kcat",
-          "Description": "Enables 3D positional audio in Fallout: New Vegas or any other game that supports DirectSound3D. You\u0027ll be able to hear if sounds are in front, behind, above, or below you in a full 360 degrees. Optionally, you can use this mod to enable up to 7.0 speakers, 3rd order Ambisonics, or up to EAX 4.0 in other compatible games.",
-          "FileID": 1000100792,
+          "Author": "Max Tael",
+          "Description": "Fallout: New Vegas UI improvements.",
+          "FileID": 68836,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65094/65094-1667750762-969603928.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
           "IsNSFW": false,
-          "ModID": 65094,
-          "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
-          "Version": "v1.4"
+          "ModID": 34902,
+          "Name": "MTUI",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "biyQfLZyCrw=",
-        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/7.84/build_release_client.zip",
+        "Hash": "dhcRgh+g8eA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RADD Server Mods.7z_5ef0441c-fcea-41bb-95b1-ad5ee96b82f0",
+        "Name": "RADD Server Mods.7z",
+        "Size": 1553164533,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/RADD%20Server%20Mods.7z_5ef0441c-fcea-41bb-95b1-ad5ee96b82f0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0xqxq/Pz7kc=",
+        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/7.85/build_release_client.zip",
         "Name": "build_release_client.zip",
-        "Size": 50284699,
+        "Size": 50284898,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/7.84/build_release_client.zip"
+          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/7.85/build_release_client.zip"
         }
       }
     },
@@ -91,27 +91,6 @@
           "ModID": 31720,
           "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
           "Version": "4.5.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "E5xZZIzuaws=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71973\nfileID=1000074493",
-        "Name": "Fast Weapon Lag Fix-71973-1-0-1617537597.zip",
-        "Size": 5027,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.",
-          "FileID": 1000074493,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71973/71973-1617922595-907583889.png",
-          "IsNSFW": false,
-          "ModID": 71973,
-          "Name": "Combat Lag Fix (NVSE)",
-          "Version": "1.0"
         }
       }
     },
@@ -153,27 +132,6 @@
           "IsNSFW": false,
           "ModID": 82979,
           "Name": "World Map HD",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I2VFsm3KBbA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
-        "Name": "MTUI-34902.zip",
-        "Size": 424681,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Tael",
-          "Description": "Fallout: New Vegas UI improvements.",
-          "FileID": 68836,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
-          "IsNSFW": false,
-          "ModID": 34902,
-          "Name": "MTUI",
           "Version": "1.0"
         }
       }
@@ -293,6 +251,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "kAcFPvVdmaQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=65094\nfileID=1000100792",
+        "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4-65094-v1-4-1667751016.zip",
+        "Size": 6134945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kcat",
+          "Description": "Enables 3D positional audio in Fallout: New Vegas or any other game that supports DirectSound3D. You\u0027ll be able to hear if sounds are in front, behind, above, or below you in a full 360 degrees. Optionally, you can use this mod to enable up to 7.0 speakers, 3rd order Ambisonics, or up to EAX 4.0 in other compatible games.",
+          "FileID": 1000100792,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65094/65094-1667750762-969603928.png",
+          "IsNSFW": false,
+          "ModID": 65094,
+          "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
+          "Version": "v1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "bkdnuFJFva4=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
         "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
@@ -308,6 +287,27 @@
           "ModID": 53635,
           "Name": "NVAC - New Vegas Anti Crash",
           "Version": "7.5.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E5xZZIzuaws=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71973\nfileID=1000074493",
+        "Name": "Fast Weapon Lag Fix-71973-1-0-1617537597.zip",
+        "Size": 5027,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.",
+          "FileID": 1000074493,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71973/71973-1617922595-907583889.png",
+          "IsNSFW": false,
+          "ModID": 71973,
+          "Name": "Combat Lag Fix (NVSE)",
+          "Version": "1.0"
         }
       }
     }
