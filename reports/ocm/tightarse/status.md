@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1327)
+### Valid (1333)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -194,6 +194,7 @@
 *  [Caught Red Handed - OStim Patch - Random Locations-69711-2-2B-1689719719.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69711/?tab=files&file_id=408372)
 *  [Caught Red Handed - Quest Expansion-65708-1-06-1720799133.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65708/?tab=files&file_id=520337)
 *  [CBBE 3BA (3BBB)-30174-2-48-1740765899.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=600100)
+*  [CBBE 3BA Physics Config Reinstaller-30174-1-33-1672171213.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=344057)
 *  [CBBE 3BA Vanilla Outfits Redone-109194-4-1-8-1744916318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109194/?tab=files&file_id=618313)
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-6-4-1708114426.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=471527)
 *  [CC_Content_Anniversary_Cleaned-58801-1-1638434261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=246013)
@@ -209,7 +210,6 @@
 *  [Cities of the North - Falkreath Patch-56731-1-3-1681414570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56731/?tab=files&file_id=377972)
 *  [Cities of the North - Winterhold-40088-1-1-1602459318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40088/?tab=files&file_id=165114)
 *  [CK Platform Extended 0.4-b952-71371-0-4-b952-1735142537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=575985)
-*  [CK Platform Extended 0.5-b143-71371-0-5-b143-1743234218.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=611236)
 *  [College of Winterhold - Quest Expansion-66666-1-16-1744547275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=616798)
 *  [College of Winterhold Quest Start Fixes-53817-0-4-1659219863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=303446)
 *  [Collision Dialogue Overhaul-132325-1-01-1730645540.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132325/?tab=files&file_id=558552)
@@ -241,6 +241,7 @@
 *  [Creaky Old locks-141790-1-1-0-1740170280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141790/?tab=files&file_id=597433)
 *  [Creation Club Organizer Wabbajack JSON-66329-0-0-6-1651533139.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66329/?tab=files&file_id=281198)
 *  [creation_organizer-1.1.0-66329-1-1-0-1704763830.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66329/?tab=files&file_id=459388)
+*  CreationKitPrefs.ini
 *  [Creep Cluster Collision Fixes-93260-1-1-0-1690423711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93260/?tab=files&file_id=411022)
 *  [Cresty's Distant Mists - NAT 3.0 Weather Patch-92279-1-0-1685196252.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92279/?tab=files&file_id=392364)
 *  [Cresty's Distant Mists-29003-1-2-1570226506.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29003/?tab=files&file_id=109325)
@@ -999,6 +1000,7 @@
 *  [Requiem - Dragonborn Patch-34829-5-0-1-1642694144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34829/?tab=files&file_id=258075)
 *  [Requiem - DTDBQE-120822-1-00-1717256820.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120822/?tab=files&file_id=507236)
 *  [Requiem - general_NPC_tweaks-42633-5-1-1746371489.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=623598)
+*  [Requiem - Glenmoril Patch-96843-1-0-1690479658.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96843/?tab=files&file_id=411198)
 *  [Requiem - Holy Templar Magic - Magic Redone Patch-112590-1-0-1742598964.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=608185)
 *  [Requiem - Improved Spell Learning-74010-1-4-1680835155.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74010/?tab=files&file_id=375897)
 *  [Requiem - INIGO SSE Patch-44186-1-1-1610336398.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44186/?tab=files&file_id=178893)
@@ -1019,6 +1021,9 @@
 *  [Requiem - Special Feats-42588-2-0-1-1740812920.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42588/?tab=files&file_id=600338)
 *  [Requiem - Stealth Redone-42591-1-0-1-1741502025.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=603457)
 *  [Requiem - Toggle Enchantment-42591-0-2-1670045342.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=336972)
+*  [Requiem - Unslaad Patch-95081-1-0-1688553401.rar](https://www.nexusmods.com/skyrimspecialedition/mods/95081/?tab=files&file_id=403926)
+*  [Requiem - VIGILANT-76235-1-2-1668942449.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76235/?tab=files&file_id=333166)
+*  [Requiem - Vigilant-92610-1-6-0-1732808261.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92610/?tab=files&file_id=566986)
 *  [Requiem - Weapons and Armor Redone-42591-1-0-1-1740812019.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42591/?tab=files&file_id=600330)
 *  [Requiem - Wizarding Traversal - Magic Redone Patch-112590-1-0-1742597797.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=608177)
 *  [Requiem - Xelzaz-90635-1-03-1732808049.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90635/?tab=files&file_id=566983)
@@ -1122,6 +1127,7 @@
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  [Skyrim's Paraglider - ONE-134795-3-0-1740020728.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134795/?tab=files&file_id=596783)
 *  [Skyrim's Paraglider Anniversary Edition-71123-1-11-0-1704159999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=457113)
+*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
