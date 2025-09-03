@@ -5,7 +5,7 @@
 *  [enbseries_fallout4_v0501.zip](http://enbdev.com/enbseries_fallout4_v0501.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1047)
+### Valid (1045)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
@@ -396,9 +396,7 @@
 *  [Fallout4 - Textures9-65720-1-0-1667493347.zip](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=255638)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
-*  Fallout4.ccc
 *  Fallout4.exe
-*  Fallout4IDs.ccc
 *  Fallout4Launcher.exe
 *  [Fallsouls - Unpaused Game Menus-29119-v1-1-0-1715540208.7z](https://www.nexusmods.com/fallout4/mods/29119/?tab=files&file_id=316055)
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
