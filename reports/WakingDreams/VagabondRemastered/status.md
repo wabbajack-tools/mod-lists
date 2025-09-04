@@ -1,10 +1,11 @@
 ## Validation Report - Vagabond Remastered (WakingDreams/VagabondRemastered)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Edge UI 0.45.zip](https://www.patreon.com/file?h=86137607&i=14980974)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4181)
+### Valid (4180)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -1069,7 +1070,6 @@
 *  [Edge UI - MoreHUD Gold Value Position Fix-142287-0-6-1v2-1740273954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142287/?tab=files&file_id=597933)
 *  [Edge UI - QuickLoot IE 3.3 Patch - Edgy Icons-140978-1-2-1739562305.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140978/?tab=files&file_id=594671)
 *  [Edge UI - RaceMenu - DIP Patch-131948-v1-0-1729707953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131948/?tab=files&file_id=554882)
-*  [Edge UI 0.45.zip](https://www.patreon.com/file?h=86137607&i=14980974)
 *  [Edge UI 0.60 SE to AE 1.6.640-130983-0-61-1728447985.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130983/?tab=files&file_id=550376)
 *  [EDGE UI Alter Buttons Layout Replacer-138007-0-6-1-1736112925.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138007/?tab=files&file_id=579764)
 *  [Edge UI BTPS Misalignment Fix - Part 1-131896-1-11-1731100916.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131896/?tab=files&file_id=560273)
