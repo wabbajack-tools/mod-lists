@@ -1,11 +1,10 @@
 ## Validation Report - Magnum Opus (wj-featured/magnum_opus)
 
 
-### Invalid (1)
-*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_cc2d37b7-6910-4ce5-81b2-764264fd8a4c)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1105)
+### Valid (1106)
 *  [.44 Magnum Ammo Replacer-86687-1-0-1724533172.zip](https://www.nexusmods.com/fallout4/mods/86687/?tab=files&file_id=331529)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
@@ -137,6 +136,7 @@
 *  [BobIguanaDinerMainFile-19133-1-1.rar](https://www.nexusmods.com/fallout4/mods/19133/?tab=files&file_id=122587)
 *  [BodySlide and CBBE for the Human-Sized Alien Suit-94745-1-0-0-1751589378.zip](https://www.nexusmods.com/fallout4/mods/94745/?tab=files&file_id=360578)
 *  [BodySlide and Outfit Studio - v5.6.3-25-5-6-3-1693153392.7z](https://www.nexusmods.com/fallout4/mods/25/?tab=files&file_id=288150)
+*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_cc2d37b7-6910-4ce5-81b2-764264fd8a4c)
 *  [Boston Bandits CBBE-59531-1-0-1692201639.7z](https://www.nexusmods.com/fallout4/mods/59531/?tab=files&file_id=286853)
 *  [Boston Bandits-59531-1-3-1669031778.7z](https://www.nexusmods.com/fallout4/mods/59531/?tab=files&file_id=257664)
 *  [Boston Riot Armor (Ba2)-92613-1-5-3-1744316900.rar](https://www.nexusmods.com/fallout4/mods/92613/?tab=files&file_id=353352)
