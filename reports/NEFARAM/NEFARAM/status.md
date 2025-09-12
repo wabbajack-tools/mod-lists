@@ -1,9 +1,8 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (9)
+### Invalid (8)
 *  [BakaFactory ABC LE SE.7z](https://drive.google.com/uc?id=17Ox4I4P0rJUIHCPltum-iq8JTBx-vA9j&export=download)
-*  [enbseries_skyrimse_v0493.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0493.zip_0f788460-59e3-4809-bb0a-b1d09e91a3e9)
 *  [NEFARAM 0.10 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.10 Bodyslides.zip_b2d7ed59-4328-4780-930f-c210a714174f)
 *  [NEFARAM 0.7 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.7 Bodyslides.zip_26ae851d-e9e7-4f3e-97c6-6a5d52af5e6d)
 *  [NEFARAM 0.9 Bodyslides.zip](https://authored-files.wabbajack.org/NEFARAM 0.9 Bodyslides.zip_8b4408bb-3612-4e19-b7b8-de6a41c9df84)
@@ -13,7 +12,7 @@
 *  [troublesofheroine.rar](https://authored-files.wabbajack.org/troublesofheroine.rar_672bb89f-273a-45b4-aa7b-9091e1e38cf3)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2150)
+### Valid (2151)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -811,6 +810,7 @@
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
+*  [enbseries_skyrimse_v0493.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0493.zip_0f788460-59e3-4809-bb0a-b1d09e91a3e9)
 *  [Enchantable Special Item Fix 1.5-101420-1-0-1695850366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101420/?tab=files&file_id=429435)
 *  [Enchantable Special Item Fix-65154-1-0-2-1664574060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=320587)
 *  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-2-1669579454.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=335385)
