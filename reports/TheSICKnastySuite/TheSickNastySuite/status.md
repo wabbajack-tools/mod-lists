@@ -1,4 +1,4 @@
-## Validation Report - The SICKnasty Suite (TheSICKnastySuite/TheSICKnastySuite)
+## Validation Report - The SICKnasty Suite (TheSICKnastySuite/TheSickNastySuite)
 
 
 ### Invalid (0)
