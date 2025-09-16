@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2733)
+### Valid (2730)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
@@ -2262,9 +2262,6 @@
 *  [Skyrim Paper Map by FC (2nd Edition) for FWMF-106483-1-0-1702063075.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106483/?tab=files&file_id=449890)
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
-*  [Skyrim Souls RE - Updated (Anniversary Edition)-27859-2-4-0-1708891708.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=474487)
-*  [Skyrim Souls RE ini-147265-1-0-0-1744462258.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147265/?tab=files&file_id=616385)
-*  [Skyrim Souls RE Updated Fixed-155280-1-1-1-1753636148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155280/?tab=files&file_id=650644)
 *  Skyrim_Default.ini
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
