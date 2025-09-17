@@ -60,7 +60,7 @@
 *  [Better Map Default Scale-2256-1-3-3-1744783103.zip](https://www.nexusmods.com/baldursgate3/mods/2256/?tab=files&file_id=89113)
 *  [Better Map Icons-2256-1-2-3-1725531185.zip](https://www.nexusmods.com/baldursgate3/mods/2256/?tab=files&file_id=68840)
 *  [Better Photo Mode 1.0.1-15831-1-0-1-1745075967.zip](https://www.nexusmods.com/baldursgate3/mods/15831/?tab=files&file_id=89703)
-*  [Better Races-18503-1-3b-1758002402.zip](https://www.nexusmods.com/baldursgate3/mods/18503/?tab=files&file_id=102903)
+*  [Better Races-18503-1-3c-1758095360.zip](https://www.nexusmods.com/baldursgate3/mods/18503/?tab=files&file_id=102999)
 *  [Better Shadow Druids-17821-1-0-1753600140.zip](https://www.nexusmods.com/baldursgate3/mods/17821/?tab=files&file_id=99197)
 *  [Better Shields-18543-1-0-1757499319.zip](https://www.nexusmods.com/baldursgate3/mods/18543/?tab=files&file_id=102429)
 *  [Better Split Item Menu-1722-1-1-0-1744742223.zip](https://www.nexusmods.com/baldursgate3/mods/1722/?tab=files&file_id=88955)
