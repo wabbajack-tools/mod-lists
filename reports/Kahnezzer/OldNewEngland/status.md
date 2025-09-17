@@ -5,7 +5,7 @@
 *  [enbseries_fallout4_v0501.zip](http://enbdev.com/enbseries_fallout4_v0501.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1068)
+### Valid (1069)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.38 Machine Pistol (Mac-11) - Vanilla-78619-1-0-2-1724519029.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=331495)
@@ -597,6 +597,7 @@
 *  [ImprovedMinutemen-76755-2-0-4-1757841864.zip](https://www.nexusmods.com/fallout4/mods/76755/?tab=files&file_id=367525)
 *  [ImprovedNukaRaiders-77616-2-0-2-1749986186.zip](https://www.nexusmods.com/fallout4/mods/77616/?tab=files&file_id=359140)
 *  [ImprovedRailroad-76749-2-0-1-1757841977.zip](https://www.nexusmods.com/fallout4/mods/76749/?tab=files&file_id=367526)
+*  [In Series Style - Main Menu Loop - Ultra 3440x1440-90344-1-0f-1735863970.7z](https://www.nexusmods.com/fallout4/mods/90344/?tab=files&file_id=344185)
 *  installscript.vdf
 *  [Institute Floor Fix-55878-1-1-1637441848.rar](https://www.nexusmods.com/fallout4/mods/55878/?tab=files&file_id=221863)
 *  [Institute Technology Overhaul Full v2-86958-2-18-1738649676.7z](https://www.nexusmods.com/fallout4/mods/86958/?tab=files&file_id=347152)
