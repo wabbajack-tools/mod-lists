@@ -1,8 +1,8 @@
 {
   "MachineURL": "Kahnezzer/OldNewEngland",
   "Name": "Old New England",
-  "Version": "0.8.1",
-  "ModListHash": "UemveeK3lI4=",
+  "Version": "0.8.2",
+  "ModListHash": "DieQrjE7I8Q=",
   "Archives": [
     {
       "Status": "Valid",
@@ -9456,20 +9456,6 @@
       }
     },
     {
-      "Status": "InValid",
-      "Original": {
-        "Hash": "qnmU31ZwHIk=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_fallout4_v0501.zip",
-        "Name": "enbseries_fallout4_v0501.zip",
-        "Size": 3229492,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "http://enbdev.com/enbseries_fallout4_v0501.zip"
-        }
-      }
-    },
-    {
       "Status": "Valid",
       "Original": {
         "Hash": "OBpL/EceEHs=",
@@ -18083,6 +18069,20 @@
       }
     },
     {
+      "Status": "InValid",
+      "Original": {
+        "Hash": "qnmU31ZwHIk=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_fallout4_v0501.zip",
+        "Name": "enbseries_fallout4_v0501.zip",
+        "Size": 3229492,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "http://enbdev.com/enbseries_fallout4_v0501.zip"
+        }
+      }
+    },
+    {
       "Status": "Valid",
       "Original": {
         "Hash": "SBJLm3va264=",
@@ -21007,6 +21007,59 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "eu5QrDBP6FE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
+        "Name": "Data_DLCRobot - Main.ba2",
+        "Size": 364112638,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "eu5QrDBP6FE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vc0CTLVB0ew=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
+        "Name": "Data_Fallout4 - Materials.ba2",
+        "Size": 1770496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Materials.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "vc0CTLVB0ew="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hCnmtixwCGk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13488\nfileID=211813",
+        "Name": "Crows and Creatures Collection 1.6-13488-V1-6-1625340654.rar",
+        "Size": 710575331,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xazomn",
+          "Description": "Complete Creatures Overhaul HQ \u0026amp; Unique realistic Textures. All created with Photo resources \u0026amp; hand painted.",
+          "FileID": 211813,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13488-1-1463229220.jpg",
+          "IsNSFW": false,
+          "ModID": 13488,
+          "Name": "Crows And Creatures",
+          "Version": "V1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "r9atBo0vdWU=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
         "Name": "Data_Fallout4 - Startup.ba2",
@@ -21124,6 +21177,54 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "O3IJIyV+b0w=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFSVFO4007-Halloween - Main.ba2",
+        "Name": "Data_ccFSVFO4007-Halloween - Main.ba2",
+        "Size": 3226837,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFSVFO4007-Halloween - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "O3IJIyV+b0w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Uupt2PEdxvs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4115-X02 - Main.ba2",
+        "Name": "Data_ccBGSFO4115-X02 - Main.ba2",
+        "Size": 3914892,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4115-X02 - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "Uupt2PEdxvs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L3EnIYIs58s=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+        "Name": "Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+        "Size": 2216026,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "L3EnIYIs58s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xrGg5bEPhsI=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Misc.ba2",
         "Name": "Data_Fallout4 - Misc.ba2",
@@ -21166,22 +21267,6 @@
           "GameFile": "Data\\Fallout4 - Interface.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "WrzGLGYLzkg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eu5QrDBP6FE=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
-        "Name": "Data_DLCRobot - Main.ba2",
-        "Size": 364112638,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "eu5QrDBP6FE="
         }
       }
     },
@@ -21257,38 +21342,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jNKqdcQ9Lg0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccSBJFO4003-Grenade - Main.ba2",
-        "Name": "Data_ccSBJFO4003-Grenade - Main.ba2",
-        "Size": 20722501,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccSBJFO4003-Grenade - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "jNKqdcQ9Lg0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+c4e1xOdlkk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
-        "Name": "Data_ccBGSFO4096-AS_Enclave - Main.ba2",
-        "Size": 11881,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "+c4e1xOdlkk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "4VzJFpoeSyY=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
         "Name": "Data_Fallout4 - Shaders.ba2",
@@ -21337,37 +21390,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vc0CTLVB0ew=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
-        "Name": "Data_Fallout4 - Materials.ba2",
-        "Size": 1770496,
+        "Hash": "jNKqdcQ9Lg0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccSBJFO4003-Grenade - Main.ba2",
+        "Name": "Data_ccSBJFO4003-Grenade - Main.ba2",
+        "Size": 20722501,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Materials.ba2",
+          "GameFile": "Data\\ccSBJFO4003-Grenade - Main.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "vc0CTLVB0ew="
+          "Hash": "jNKqdcQ9Lg0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hCnmtixwCGk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13488\nfileID=211813",
-        "Name": "Crows and Creatures Collection 1.6-13488-V1-6-1625340654.rar",
-        "Size": 710575331,
+        "Hash": "+c4e1xOdlkk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+        "Name": "Data_ccBGSFO4096-AS_Enclave - Main.ba2",
+        "Size": 11881,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xazomn",
-          "Description": "Complete Creatures Overhaul HQ \u0026amp; Unique realistic Textures. All created with Photo resources \u0026amp; hand painted.",
-          "FileID": 211813,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13488-1-1463229220.jpg",
-          "IsNSFW": false,
-          "ModID": 13488,
-          "Name": "Crows And Creatures",
-          "Version": "V1.6"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "+c4e1xOdlkk="
         }
       }
     },
@@ -21416,54 +21464,6 @@
           "GameFile": "Data\\ccBGSFO4046-TesCan - Main.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "mdF5hLn/wvE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "O3IJIyV+b0w=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFSVFO4007-Halloween - Main.ba2",
-        "Name": "Data_ccFSVFO4007-Halloween - Main.ba2",
-        "Size": 3226837,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccFSVFO4007-Halloween - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "O3IJIyV+b0w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Uupt2PEdxvs=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4115-X02 - Main.ba2",
-        "Name": "Data_ccBGSFO4115-X02 - Main.ba2",
-        "Size": 3914892,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4115-X02 - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "Uupt2PEdxvs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "L3EnIYIs58s=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
-        "Name": "Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2",
-        "Size": 2216026,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "L3EnIYIs58s="
         }
       }
     }
