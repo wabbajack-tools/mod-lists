@@ -2,7 +2,7 @@
   "MachineURL": "CerberusX1/TheArcadiaList",
   "Name": "The Arcadia List",
   "Version": "1.0.0",
-  "ModListHash": "tVUq8eSTOgE=",
+  "ModListHash": "82a4gz4IBgA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/Exv14em1ss=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8704\nfileID=200023",
-        "Name": "Tales from the Commonwealth-8704-3-02-1611704519.7z",
-        "Size": 501085551,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kris Takahashi",
-          "Description": "The Tales from the Commonwealth mod adds quests and companions. \n\nThe Atomic Radio mod adds a radio station. \n\nThe Settlers of the Commonwealth mod adds settlers with interesting dialogue.  \n\n\n\nGo to 3dnpc.com for details.",
-          "FileID": 200023,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8704-0-1468526937.jpg",
-          "IsNSFW": false,
-          "ModID": 8704,
-          "Name": "Atomic Radio and Tales from the Commonwealth",
-          "Version": "3.02"
         }
       }
     },
@@ -63,20 +42,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zQUYlTPCdTc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53286\nfileID=256692",
-        "Name": "Coastal Cottage - Sim Settlements 2 City Plan Contest Entry - July 2021-53286-2-0-1668237871.7z",
-        "Size": 13610,
+        "Hash": "/GkwCxWmxns=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52723\nfileID=319852",
+        "Name": "Baka Wait Anywhere-52723-2-0-0-1717002111.7z",
+        "Size": 167074,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cessori",
-          "Description": "Coastal residences for 10 settlers, up to 18 for third level of plan.\n\n\n\nUse Designer\u0027s Choice for City Plan, increase build limit to 300%\n\nPlayer will need to upgrade agricultural and martial plots to advanced when skilled settlers are available.",
-          "FileID": 256692,
+          "Author": "shad0wshayd3",
+          "Description": "Take a seat? Baka.",
+          "FileID": 319852,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53286/53286-1626424879-825367260.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52723/52723-1624182198-1875677124.png",
           "IsNSFW": false,
-          "ModID": 53286,
-          "Name": "Coastal Cottage - Sim Settlements 2 City Plan Contest Entry - July 2021",
+          "ModID": 52723,
+          "Name": "Baka Wait Anywhere",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S3kJIu5obLQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54632\nfileID=217470",
+        "Name": "Bunker Hill Mega City-54632-1-0-1632314701.rar",
+        "Size": 44811,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NigauD",
+          "Description": "If you go to Charleston, stop at Bunker Hill. Good old Stockton has developed a big business with its caravans.",
+          "FileID": 217470,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54632/54632-1658667370-1262183545.png",
+          "IsNSFW": false,
+          "ModID": 54632,
+          "Name": "Bunker Hill Mega City (Winner sim settlements 2 City plan conquest 2021-09)",
           "Version": "1.0"
         }
       }
@@ -84,42 +84,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "roN1nD4imjE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=16808\nfileID=211100",
-        "Name": "David Hunter - Part 2-16808-2-5-1624627174.zip",
-        "Size": 76407389,
+        "Hash": "UAy0oaV99sw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44949\nfileID=181383",
+        "Name": "Canary v 1.0.0-44949-1-0-0-1588955837.7z",
+        "Size": 8237,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Seddon4494",
-          "Description": "David Hunter: A Brotherhood Story follows Scribe David Hunter as he fights to make the Commonwealth a better place but comes into conflict with Brotherhood traditionalists.",
-          "FileID": 211100,
+          "Author": "kinggath",
+          "Description": "Monitors your save file for data loss and warns you when you load the game, so you can avoid wasting time playing on a busted save and roll back immediately.",
+          "FileID": 181383,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16808/16808-1529924856-1616598190.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44949/44949-1588955403-808920514.png",
           "IsNSFW": false,
-          "ModID": 16808,
-          "Name": "David Hunter - A Brotherhood Story",
-          "Version": "2.5"
+          "ModID": 44949,
+          "Name": "Canary Save File Monitor",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NHIcBKxJWqg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=89054\nfileID=339093",
-        "Name": "Emirals Wire Fixes-89054-1-0-1730869804.7z",
-        "Size": 13770,
+        "Hash": "5HD7jh7e+jk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=76347\nfileID=361651",
+        "Name": "CHALLENGES-76347-3-0-6-1752815968.7z",
+        "Size": 90380,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "emiral",
-          "Description": "Fixes some power lines in Concord that are just hanging in mid-air, or in one case, connected to the tree outside the church.",
-          "FileID": 339093,
+          "Author": "bp42s",
+          "Description": "Challenges are back! Complete 60\u002B fun FNV/FO76-style challenges to receive new perks, bonuses, and rewards. Lightweight, trackable for modders, and displayed in a brand-new pip-boy tab. An F4NV feature that I\u0027ve made standalone for Fallout 4.",
+          "FileID": 361651,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/89054/89054-1730869597-2041102623.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76347/76347-1707694242-1228473135.png",
           "IsNSFW": false,
-          "ModID": 89054,
-          "Name": "Emirals Wire Fixes",
-          "Version": "1.0"
+          "ModID": 76347,
+          "Name": "CHALLENGES - F4NV",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BO6Juc0iHqM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68261\nfileID=265327",
+        "Name": "dp psycho_med 2k-68261-3-1674942343.rar",
+        "Size": 61411908,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "hd models and textures for the games vanilla Psycho and MedX models, with materials for various derivatives, in 2k and 4k texture sizes.",
+          "FileID": 265327,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68261/68261-1674861941-1954826323.png",
+          "IsNSFW": false,
+          "ModID": 68261,
+          "Name": "HD Chems Project_Psycho and MedX",
+          "Version": "3"
         }
       }
     },
@@ -147,6 +168,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "aMWqmqSUJAY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63191\nfileID=260886",
+        "Name": "Far Harbor 3d Tree LODs-63191-3-0-1671396092.7z",
+        "Size": 4687912,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DoubleYou",
+          "Description": "Adds 3d Trees LOD models for Far Harbor.",
+          "FileID": 260886,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63191/63191-1660358072-585218872.jpeg",
+          "IsNSFW": false,
+          "ModID": 63191,
+          "Name": "Far Harbor 3D Tree LODs",
+          "Version": "3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JZ++cWZAzMw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60580\nfileID=239585",
+        "Name": "FIS - The NEW FallUI Item Sorter-60580-2-1-1654350813.rar",
+        "Size": 1144421,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "The official new Item Sorter for the FallUI mods. Features auto-tagging, MCM-configurable categories and variations, many tags/icon, clear arranged overview and more!",
+          "FileID": 239585,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60580/60580-1652974864-1109451306.png",
+          "IsNSFW": false,
+          "ModID": 60580,
+          "Name": "FIS - The NEW FallUI Item Sorter",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tCZS/MdVpZ0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=3747\nfileID=321321",
+        "Name": "FlaconOil 4K BA2 03-3747-4-1-1717689550.7z",
+        "Size": 1910070042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlaconOil",
+          "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
+          "FileID": 321321,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3747-0-1460564643.jpg",
+          "IsNSFW": false,
+          "ModID": 3747,
+          "Name": "FlaconOil\u0027s Complete Retexture Project",
+          "Version": "Part3-V1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "vAstdLmkTOA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=43979\nfileID=310943",
         "Name": "Fourville-43979-1-14-1713603892.zip",
@@ -168,21 +252,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qmBkdP2+ffg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=86970\nfileID=331060",
-        "Name": "HMAR Anims-86970-1-0-1724249670.7z",
-        "Size": 1340322,
+        "Hash": "e3mOAJqPW3k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42316\nfileID=174698",
+        "Name": "Holotape Display ESL 1.3-42316-1-3-1579742593.zip",
+        "Size": 90638886,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CADAVVER",
-          "Description": "New first person animations for the Handmade Rifle from Nuka World DLC",
-          "FileID": 331060,
+          "Author": "neeher",
+          "Description": "Adds craftable display shelves that hold holotapes and even one for the 5 Game Tapes. Display your collection at your settlements. ESL available.",
+          "FileID": 174698,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86970/86970-1724249786-1752516769.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42316/42316-1575002092-1321704408.jpeg",
           "IsNSFW": false,
-          "ModID": 86970,
-          "Name": "Handmade Rifle Animations",
-          "Version": "1.0"
+          "ModID": 42316,
+          "Name": "Holotape Display Shelves",
+          "Version": "1.3"
         }
       }
     },
@@ -210,21 +294,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "as79s4PPt2k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51715\nfileID=206782",
-        "Name": "kingsport-51715-1-0-1619543050.7z",
-        "Size": 17994,
+        "Hash": "QEu+/TDfoDA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2241\nfileID=6956",
+        "Name": "Longer Power Lines 3x-2241-1-1.7z",
+        "Size": 672,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Waning Gibbous",
-          "Description": "Kingsport Lighthouse - Sim Settlements 2 City Plan Contest Entry - April 2021",
-          "FileID": 206782,
+          "Author": "Puma",
+          "Description": "Lets you make connections from afar. ",
+          "FileID": 6956,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51715/51715-1619540808-508919243.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2241-0-1448251419.jpg",
           "IsNSFW": false,
-          "ModID": 51715,
-          "Name": "Kingsport Lighthouse City Plan SS2 Contest Entry April 2021",
-          "Version": "1.0"
+          "ModID": 2241,
+          "Name": "Longer Power Lines",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fhAh/0DGpJQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=205996",
+        "Name": "Masonry Set 2K-51438-0-1-1618547737.zip",
+        "Size": 221305153,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 205996,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
+          "IsNSFW": false,
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
         }
       }
     },
@@ -273,21 +378,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Pp5DZxEvBKs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63198\nfileID=321895",
-        "Name": "Optimized Vanilla Tree LODs-63198-3-2-1717978141.7z",
-        "Size": 20816659,
+        "Hash": "ImUBvjbryvg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60044\nfileID=236059",
+        "Name": "Cho1_CPC_April_2022_Lvl3_Port_Dalton-60044-1-0-1651056550.zip",
+        "Size": 75007,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DoubleYou",
-          "Description": "Adds missing vanilla tree LODs and modifies tree branch textures to show more detail.",
-          "FileID": 321895,
+          "Author": "Choochoo1",
+          "Description": "Harbor themed city plan for Dalton Farm, April 2022 CPC entry",
+          "FileID": 236059,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63198/63198-1660367660-254673148.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60044/60044-1651055904-1380723804.jpeg",
           "IsNSFW": false,
-          "ModID": 63198,
-          "Name": "Optimized Vanilla Tree LODs",
-          "Version": "3.1"
+          "ModID": 60044,
+          "Name": "Port Dalton SS2 April 2022 City Plan Contest entry",
+          "Version": "1.0"
         }
       }
     },
@@ -315,21 +420,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4452ipHZzPE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50985\nfileID=204590",
-        "Name": "Reina\u0027s Croup Market-50985-1-0-1616897994.zip",
-        "Size": 24760,
+        "Hash": "I2KBUGgP5Ps=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12101\nfileID=226944",
+        "Name": "Ransacked Relays and Shuddersome Subways-12101-2-0-1642400589.7z",
+        "Size": 13209246,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Reina",
-          "Description": "**MARCH 2021 CITY PLAN CONTEST ENTRY** A leveled city plan for Sim Settlements 2, designed for 18-20 settlers. Features a fixed-up ghoul manor, a museum, 2 bars, and lots of clothing shops! Self-sufficient with adequate junk storage for upgrades.",
-          "FileID": 204590,
+          "Author": "Trainwiz",
+          "Description": "A full-length quest mod, with unique bosses, locations, and new weapons. Take down a deranged teleporter AI or ram a train into a giant mirelurk queen.",
+          "FileID": 226944,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50985/50985-1616713717-1519875364.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12101-8-1460938960.jpg",
           "IsNSFW": false,
-          "ModID": 50985,
-          "Name": "Reina\u0027s Croup Market - City Plan Contest Entry March 2021",
-          "Version": "1.0"
+          "ModID": 12101,
+          "Name": "Ransacked Relays and Shuddersome Subways",
+          "Version": "2.0"
         }
       }
     },
@@ -351,6 +456,48 @@
           "ModID": 70731,
           "Name": "The HD Enhancement Project Robots Edition",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y+xUj1mn910=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=327120",
+        "Name": "SCOURGE - NG-60917-1-0-5-1721298750.7z",
+        "Size": 3422405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 327120,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YfBDBXGrb+0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8704\nfileID=168336",
+        "Name": "Settlers of the Commonwealth-8704-3-14-1570603262.7z",
+        "Size": 62649864,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kris Takahashi",
+          "Description": "The Tales from the Commonwealth mod adds quests and companions. \n\nThe Atomic Radio mod adds a radio station. \n\nThe Settlers of the Commonwealth mod adds settlers with interesting dialogue.  \n\n\n\nGo to 3dnpc.com for details.",
+          "FileID": 168336,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8704-0-1468526937.jpg",
+          "IsNSFW": false,
+          "ModID": 8704,
+          "Name": "Atomic Radio and Tales from the Commonwealth",
+          "Version": "3.02"
         }
       }
     },
@@ -441,21 +588,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zjMS7XXg7z8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50822\nfileID=206850",
-        "Name": "Croup Manor CroumanVil-50822-2-1-1619636473.rar",
-        "Size": 31365,
+        "Hash": "XOS/Z2PezZw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55247\nfileID=220148",
+        "Name": "Spec_Prison-55247-1-0-1635464239.7z",
+        "Size": 33085,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Carinth",
-          "Description": "CrouManVil - You\u0027re Almost Home. \n\nCroup Manor\u0027s - CrouManVil, once fully developed, has a large variety of goods and services.\n\nIt includes, a general store, a diner, a flee market, a rooftop patio, a full room customized as a player home and as well the town itself.\n\nA lore friendly game addition.",
-          "FileID": 206850,
+          "Author": "Blackbelt",
+          "Description": "A settlement at Spectacle Island for the commonwealth\u0027s less desirable citizens.",
+          "FileID": 220148,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50822/50822-1638739638-1035131894.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55247/55247-1635463778-602234265.png",
           "IsNSFW": false,
-          "ModID": 50822,
-          "Name": "Sim Settlements 2  City Plan Croup Manor - CroumanVil",
-          "Version": "2.1"
+          "ModID": 55247,
+          "Name": "Sim Settlements 2 - Spectacle Prison",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gCWDrmeHn1Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50277\nfileID=350160",
+        "Name": "SS2RobotMod-Universal-50277-2-1-1-1741549477.7z",
+        "Size": 18082,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pra",
+          "Description": "Makes automatron modifications affect their SPECIAL stats for Sim Settlements 2 plots.",
+          "FileID": 350160,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50277/50277-1614443562-931309870.jpeg",
+          "IsNSFW": false,
+          "ModID": 50277,
+          "Name": "Sim Settlements 2 Automatron Mod",
+          "Version": "1.0"
         }
       }
     },
@@ -504,27 +672,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "734wmcM8Q00=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=80006\nfileID=308354",
-        "Name": "SS2 - Fort Covenant Outpost city plan 1.1-80006-1-1-1711746708.rar",
-        "Size": 17767,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ErikaEmber",
-          "Description": "The people of Covenant have joined forces with the Enclave! A rather simple outpost city plan with room for 35\u002B soldiers at final level.",
-          "FileID": 308354,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80006/80006-1711571551-558357944.png",
-          "IsNSFW": false,
-          "ModID": 80006,
-          "Name": "SS2 - Fort Covenant Outpost",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3qc+/uBWP40=",
         "Meta": "[General]\ngameName=fallout4\nmodID=59399\nfileID=234689",
         "Name": "SS2 Addon Blood Moon Raiders 1.0-59399-1-0-1649794381.7z",
@@ -546,105 +693,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/hSH12X4E3o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57783\nfileID=257103",
-        "Name": "SS2 - Nobody\u0027s Leaders 2-57783-2-0-3-1668572856.zip",
-        "Size": 1334522,
+        "Hash": "a3VniBVaSmM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=205998",
+        "Name": "Submarine Set 2K-51438-0-1-1618548021.zip",
+        "Size": 88304958,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NOBODY",
-          "Description": "Sim Settlements 2 Leader Pack, featuring 60\u002B vanilla \u0026amp; SS2 NPCs available to be city leaders",
-          "FileID": 257103,
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 205998,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57783/57783-1693623955-563847349.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
           "IsNSFW": false,
-          "ModID": 57783,
-          "Name": "Sim Settlements 2 - Nobody\u0027s Leaders 2",
-          "Version": "2.0.3"
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0YtlTDWHYFo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50432\nfileID=360632",
-        "Name": "SS2_Addon_Favelabulous-50432-1-3-1751668581.7z",
-        "Size": 4468541,
+        "Hash": "O7mGAwFxvuc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=86503\nfileID=343306",
+        "Name": "SuperMutantEquality-86503-Beta-0-4-3-1734794474.zip",
+        "Size": 10311563,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rudy",
-          "Description": "A Random Residential plot for Sim Settlements 2",
-          "FileID": 360632,
+          "Author": "BrainstormEpilog",
+          "Description": "Adds custom animations for super mutants, which enables them to use various vanilla weapons.",
+          "FileID": 343306,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50432/50432-1614469053-1278304862.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86503/86503-1723212653-1460681544.png",
           "IsNSFW": false,
-          "ModID": 50432,
-          "Name": "Favelabulous",
-          "Version": "1.1"
+          "ModID": 86503,
+          "Name": "Super Mutant Equality a Super Mutant Weapon Expansion",
+          "Version": "Beta"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yeTFu2tZ32E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=15938\nfileID=122599",
-        "Name": "CabinInTheWoodsMain-15938-2-0.rar",
-        "Size": 31087864,
+        "Hash": "hzdbdavT83I=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53612\nfileID=213917",
+        "Name": "Tenpines Buff a fortified Village-53612-1-0-1628004577.rar",
+        "Size": 21073,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ethreon",
-          "Description": "Full set of log cabin, with complementary furniture and decorations.",
-          "FileID": 122599,
+          "Author": "NigauD",
+          "Description": "A fortified village with a foundry and a fort to help the minutemen hold their position in the north.",
+          "FileID": 213917,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15938-1-1499982810.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53612/53612-1658678021-857011603.png",
           "IsNSFW": false,
-          "ModID": 15938,
-          "Name": "The Cabin in the Woods",
-          "Version": "1.8"
+          "ModID": 53612,
+          "Name": "Tenpines Bluff a fortified Village",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CHP+qJ1qRRc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27311\nfileID=216923",
-        "Name": "Far Harbor Story - Ug Qualtoth Keeps his Promise-27311-1-7-1631614644.zip",
-        "Size": 94778598,
+        "Hash": "YCg9BP+XAFg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=71762\nfileID=279557",
+        "Name": "ThrowMoneyAtSS2-71762-1-0-1686064866.7z",
+        "Size": 16770,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Seddon4494",
-          "Description": "Hidden within the woods of Huntress Island, enveloped by fog, stands Huntress Manor. Once the home of the reclusive but brilliant Professor R.S.G. Hunter, the manor has been abandoned since his sudden, unexplained, death in 1877; it is now known only to the wolves that call the forest their home. Little do they know, the manor holds a terrible secr",
-          "FileID": 216923,
+          "Author": "pra",
+          "Description": "Instantly upgrade Sim Settlements 2 plots for caps.",
+          "FileID": 279557,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27311-0-1507974060.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/71762/71762-1685488269-804705.png",
           "IsNSFW": false,
-          "ModID": 27311,
-          "Name": "The Secret of Huntress Manor - A Far Harbor Story",
-          "Version": "1.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "V4gOw6/5GgQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=94691\nfileID=366051",
-        "Name": "To Fuel The Blaster - Alien Blaster Cell Quest-94691-1-2-1756601110.zip",
-        "Size": 336312,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alegendv1",
-          "Description": "A lore friendly and RPG-esque way to be able to craft Alien Blaster Rounds, complete with a custom quest and quest icon!",
-          "FileID": 366051,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/94691/94691-1751377921-1973478256.png",
-          "IsNSFW": false,
-          "ModID": 94691,
-          "Name": "To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod",
-          "Version": "1.1"
+          "ModID": 71762,
+          "Name": "Throw Money At SS2",
+          "Version": "1.0"
         }
       }
     },
@@ -666,27 +792,6 @@
           "ModID": 66071,
           "Name": "TRUE DAMAGE - Weapon Damage Normalized By Ammo Caliber",
           "Version": "1.09"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s/EcQA6lk9U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9253\nfileID=68806",
-        "Name": "True Nights v0.3-9253-v0-3.7z",
-        "Size": 232225,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nikonthenet",
-          "Description": "Now with user configurable brightness via ENB. This high fidelity dark night mod is built to enhance the True Storms experience, adding realism with cinematic flair and moody, at times claustrophobic, atmospherics!\n\n\n\nBEWARE THE DARK! Or, make it brighter on the fly while in-game!",
-          "FileID": 68806,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9253-6-1469039135.jpg",
-          "IsNSFW": false,
-          "ModID": 9253,
-          "Name": "True Nights (for True Storms with ENB)",
-          "Version": "v0.3"
         }
       }
     },
@@ -777,6 +882,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "fu/nVT+YksU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69611\nfileID=270322",
+        "Name": "WoodCrate 4k - It has been a long time-69611-0-1-1678650492.7z",
+        "Size": 39726170,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HappoMatka",
+          "Description": "A once over for a container.",
+          "FileID": 270322,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69611/69611-1678650716-1711020985.png",
+          "IsNSFW": false,
+          "ModID": 69611,
+          "Name": "WoodCrate - It has been a long time",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PnYI/1RLndE=",
         "Meta": "[General]\ngameName=fallout4\nmodID=91594\nfileID=348367",
         "Name": "ZP\u0027s Gritty Interiors.-91594-01-1739897273.zip",
@@ -798,21 +924,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2KYuoetlfX8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=32735\nfileID=316950",
-        "Name": "ActiveEffects.zip-32735-1-2-7-1715889420.zip",
-        "Size": 411781,
+        "Hash": "JERm0Vbl7iU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=90478\nfileID=344483",
+        "Name": "ZP\u0027s Vanilla Landscape AIO-90478-01-1736187065.zip",
+        "Size": 3803287660,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wolfmark",
-          "Description": "Shows on HUD widgets for active effects.\n\nAlso modifies Pip-Boy Stat page to add two new tabs, one for the active effects and one for player\u0027s actor values.\n\nProvides few additional HUD widgets: Clock, Counters, Inventory Weight and Explosives.\n\n\n\nSee the screenshots for details.",
-          "FileID": 316950,
+          "Author": "zlostnypopolnik",
+          "Description": "The mod changes the appearance of the entire landscape to a more weathered, post-apocalyptic and littered with rubble. The mod also changes the landscape of some DLCs.",
+          "FileID": 344483,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32735/32735-1537623030-1596334804.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/90478/90478-1736004807-1904693273.gif",
           "IsNSFW": false,
-          "ModID": 32735,
-          "Name": "Active Effects on HUD",
-          "Version": "1.2.6"
+          "ModID": 90478,
+          "Name": "ZP\u0027s Vanilla Landscape",
+          "Version": "01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C15/tDqMfxQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=76398\nfileID=332094",
+        "Name": "Companion Affinity Pip-Boy Tab-76398-4-0-0-1724960709.zip",
+        "Size": 365286,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bp42s",
+          "Description": "You can now view your companion affinity progress, right inside your Pip-Boy! Featuring custom and animated icons, and real time affinity tracking.",
+          "FileID": 332094,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76398/76398-1701378797-408725943.png",
+          "IsNSFW": false,
+          "ModID": 76398,
+          "Name": "Companion Affinity Pip-Boy Tab",
+          "Version": "1.0.1"
         }
       }
     },
@@ -861,21 +1008,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T0TEuUkhdT8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
-        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
-        "Size": 1470559,
+        "Hash": "eIF7EDsVW/w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
+        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
+        "Size": 2818705,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
-          "FileID": 255391,
+          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
+          "FileID": 254844,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
           "IsNSFW": false,
-          "ModID": 48958,
-          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
-          "Version": "2.2.3"
+          "ModID": 48758,
+          "Name": "FallUI - Inventory",
+          "Version": "2.2.1"
         }
       }
     },
@@ -903,42 +1050,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5Zp1Bws2O3E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=316359",
-        "Name": "Mod Configuration Menu 1.40 BETA 2-21497-1-40-BETA2-1715646081.zip",
-        "Size": 367060,
+        "Hash": "eVc/61oF9qs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=88181\nfileID=335834",
+        "Name": "MCM Booster NG v1.0-88181-1-0-1727896065.7z",
+        "Size": 67908,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k - Neanka - shadowslasher410",
-          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
-          "FileID": 316359,
+          "Author": "VWTrotsky",
+          "Description": "MCM Booster mod update for game version 1.10.984.",
+          "FileID": 335834,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/88181/88181-1727895787-1668703156.png",
           "IsNSFW": false,
-          "ModID": 21497,
-          "Name": "Mod Configuration Menu",
-          "Version": "1.39"
+          "ModID": 88181,
+          "Name": "MCM Booster NG",
+          "Version": "1.01"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "W317WATH8tI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64270\nfileID=270989",
-        "Name": "Rusty Face Fix Redux-64270-1-1-1679129686.7z",
-        "Size": 2054,
+        "Hash": "SCgGiblPjKc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9424\nfileID=316637",
+        "Name": "Place (Fallout4 1.10.984 - latest release)-9424-1-19-0-1984-1715762213.zip",
+        "Size": 591380,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sranger",
-          "Description": "Mouse over NPCs with your crosshair and press a hotkey to fix the Rusty Face!",
-          "FileID": 270989,
+          "Author": "TheLich",
+          "Description": "Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED!",
+          "FileID": 316637,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64270/64270-1663036969-256519118.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9424-0-1456178323.jpg",
           "IsNSFW": false,
-          "ModID": 64270,
-          "Name": "Rusty Face Fix Redux 2022",
-          "Version": "1.1"
+          "ModID": 9424,
+          "Name": "Place Everywhere",
+          "Version": "1.18.0.1163"
         }
       }
     },
@@ -980,21 +1127,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S4ebZM/KjwY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43627\nfileID=315807",
-        "Name": "BakaFramework-43627-2-0-1-1715443149.7z",
-        "Size": 200800,
+        "Hash": "a7gwPv4fIPg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19857\nfileID=122586",
+        "Name": "AtomGreatnessMainFile-19857-1-1.rar",
+        "Size": 2568805,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shad0wshayd3",
-          "Description": "A small plugin that exposes some new data to other mods, and fixes a few bugs.",
-          "FileID": 315807,
+          "Author": "Ethreon",
+          "Description": "Adds church sets and other church inspired items in the styles presented in Fallout 4.",
+          "FileID": 122586,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43627/43627-1602315760-410850224.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19857-10-1478646308.jpg",
           "IsNSFW": false,
-          "ModID": 43627,
-          "Name": "Baka Framework",
-          "Version": "1.10.0"
+          "ModID": 19857,
+          "Name": "Atom\u0027s Greatness",
+          "Version": "1"
         }
       }
     },
@@ -1085,27 +1232,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5HD7jh7e+jk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=76347\nfileID=361651",
-        "Name": "CHALLENGES-76347-3-0-6-1752815968.7z",
-        "Size": 90380,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "Challenges are back! Complete 60\u002B fun FNV/FO76-style challenges to receive new perks, bonuses, and rewards. Lightweight, trackable for modders, and displayed in a brand-new pip-boy tab. An F4NV feature that I\u0027ve made standalone for Fallout 4.",
-          "FileID": 361651,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76347/76347-1707694242-1228473135.png",
-          "IsNSFW": false,
-          "ModID": 76347,
-          "Name": "CHALLENGES - F4NV",
-          "Version": "2.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "h9QE59+B/2s=",
         "Meta": "[General]\ngameName=fallout4\nmodID=31991\nfileID=187538",
         "Name": "Clarity 4.2-31991-4-2-1595595831.7z",
@@ -1127,63 +1253,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C15/tDqMfxQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=76398\nfileID=332094",
-        "Name": "Companion Affinity Pip-Boy Tab-76398-4-0-0-1724960709.zip",
-        "Size": 365286,
+        "Hash": "qSk3UZ2He6E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27311\nfileID=111768",
+        "Name": "Collectable Bears-27311-.zip",
+        "Size": 886000,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bp42s",
-          "Description": "You can now view your companion affinity progress, right inside your Pip-Boy! Featuring custom and animated icons, and real time affinity tracking.",
-          "FileID": 332094,
+          "Author": "Seddon4494",
+          "Description": "Hidden within the woods of Huntress Island, enveloped by fog, stands Huntress Manor. Once the home of the reclusive but brilliant Professor R.S.G. Hunter, the manor has been abandoned since his sudden, unexplained, death in 1877; it is now known only to the wolves that call the forest their home. Little do they know, the manor holds a terrible secr",
+          "FileID": 111768,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/76398/76398-1701378797-408725943.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27311-0-1507974060.jpg",
           "IsNSFW": false,
-          "ModID": 76398,
-          "Name": "Companion Affinity Pip-Boy Tab",
-          "Version": "1.0.1"
+          "ModID": 27311,
+          "Name": "The Secret of Huntress Manor - A Far Harbor Story",
+          "Version": "1.7"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "30l/1lRpayM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=91379\nfileID=354757",
-        "Name": "F4SE ChangeHeadPart Fix-91379-2-0-0-1745722242.7z",
-        "Size": 149166,
+        "Hash": "0p/vvs7iFQ4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=321359",
+        "Name": "Extended Dialogue Interface 1.4.0-27216-1-4-0-1717703677.zip",
+        "Size": 270008,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Panda",
-          "Description": "Hook for F4SE functions ChangeHeadPart and ChangeHeadPartRemovePart to\n\n1. Replace it with threadsafe implementation.\n\n2. Implement base TESNPC searching.",
-          "FileID": 354757,
+          "Author": "reg2k and Neanka",
+          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
+          "FileID": 321359,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91379/91379-1739009298-936326189.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
           "IsNSFW": false,
-          "ModID": 91379,
-          "Name": "F4SE ChangeHeadPart Fix",
-          "Version": "1.0"
+          "ModID": 27216,
+          "Name": "Extended Dialogue Interface",
+          "Version": "1.3.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rpVzLYvkluo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49070\nfileID=256778",
-        "Name": "FallUI - Sleep And Wait-49070-1-4-1668288607.rar",
-        "Size": 798024,
+        "Hash": "1lTRdku6xkM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49920\nfileID=238011",
+        "Name": "FallUI - Map-49920-2-1-1652891829.rar",
+        "Size": 995847,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "Overhaul of the sleeping and waiting menu for Fallout 4. \n\nDirectly click on your desired wake-up time with target time buttons. See the daylight level at target time in the daytime graph and more. Interface available in all languages.",
-          "FileID": 256778,
+          "Description": "Overhaul of the Fallout 4 map. Added list of locations and workshops including text search. Add favorite locations to fast travel with one click. Many Quality-Of-Life features like disabling the popup on empty map space click, better map zoom steps, travel and arrival time. Colored marker support. Including high-res map texture support.",
+          "FileID": 238011,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1621691660-2041324943.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49920/49920-1612647012-1670663081.png",
           "IsNSFW": false,
-          "ModID": 49070,
-          "Name": "FallUI - Sleep and Wait",
-          "Version": "1.4"
+          "ModID": 49920,
+          "Name": "FallUI - Map",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OCBL0Uml+Zw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67888\nfileID=263913",
+        "Name": "dp inhalers 2k-67888-1-1673976526.rar",
+        "Size": 44264860,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "hd meshes and textures for fallout 4\u0027s inhalers, including DLC versions. in 2k and 4k versions.",
+          "FileID": 263913,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67888/67888-1673976097-1868414156.jpeg",
+          "IsNSFW": false,
+          "ModID": 67888,
+          "Name": "HD Chems Project_Jet and Xcell",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PFcLqdqQh9Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=88295\nfileID=336243",
+        "Name": "HFs - Burnt Books - 2K-88295-1-1728305967.zip",
+        "Size": 50896781,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Halffaces",
+          "Description": "Burnt books replacer",
+          "FileID": 336243,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/88295/88295-1728305287-1763148163.png",
+          "IsNSFW": false,
+          "ModID": 88295,
+          "Name": "HFs - Burnt Books",
+          "Version": "1"
         }
       }
     },
@@ -1295,21 +1463,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "veMV8wYcBnk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=70237\nfileID=272917",
-        "Name": "NF_Rocks_Fix-70237-1-0-1680567203.rar",
-        "Size": 61780,
+        "Hash": "5Zp1Bws2O3E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=316359",
+        "Name": "Mod Configuration Menu 1.40 BETA 2-21497-1-40-BETA2-1715646081.zip",
+        "Size": 367060,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ossumpossum",
-          "Description": "Corrects material files to use the intended texture for certain rocks",
-          "FileID": 272917,
+          "Author": "reg2k - Neanka - shadowslasher410",
+          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+          "FileID": 316359,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/70237/70237-1680567106-386462352.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
           "IsNSFW": false,
-          "ModID": 70237,
-          "Name": "Northern Foothills Rocks Fix",
-          "Version": "1.0"
+          "ModID": 21497,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.39"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Pp5DZxEvBKs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63198\nfileID=321895",
+        "Name": "Optimized Vanilla Tree LODs-63198-3-2-1717978141.7z",
+        "Size": 20816659,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DoubleYou",
+          "Description": "Adds missing vanilla tree LODs and modifies tree branch textures to show more detail.",
+          "FileID": 321895,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63198/63198-1660367660-254673148.jpeg",
+          "IsNSFW": false,
+          "ModID": 63198,
+          "Name": "Optimized Vanilla Tree LODs",
+          "Version": "3.1"
         }
       }
     },
@@ -1347,27 +1536,6 @@
           "GameFile": "Data\\ccFSVFO4002-MidCenturyModern - Textures.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "aye7UReE1tQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Y+xUj1mn910=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=327120",
-        "Name": "SCOURGE - NG-60917-1-0-5-1721298750.7z",
-        "Size": 3422405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GELUXRUM",
-          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
-          "FileID": 327120,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
-          "IsNSFW": false,
-          "ModID": 60917,
-          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
-          "Version": "2.0.2"
         }
       }
     },
@@ -1416,6 +1584,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "yeTFu2tZ32E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=15938\nfileID=122599",
+        "Name": "CabinInTheWoodsMain-15938-2-0.rar",
+        "Size": 31087864,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ethreon",
+          "Description": "Full set of log cabin, with complementary furniture and decorations.",
+          "FileID": 122599,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15938-1-1499982810.jpg",
+          "IsNSFW": false,
+          "ModID": 15938,
+          "Name": "The Cabin in the Woods",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "m7f2YP82BtA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=16626\nfileID=122584",
         "Name": "The Master Plan-16626-2-3.rar",
@@ -1431,6 +1620,27 @@
           "ModID": 16626,
           "Name": "The Master Plan",
           "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Yf+RCYb21jQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64518\nfileID=251680",
+        "Name": "Workbench Replacer - Rain Fix-64518-1-0b-1664112642.7z",
+        "Size": 577,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Andrew Gebert - GRY",
+          "Description": "Replaces the Workshop Workbench with a higher quality model.",
+          "FileID": 251680,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64518/64518-1663759509-515807355.png",
+          "IsNSFW": false,
+          "ModID": 64518,
+          "Name": "Workbench Replacer HD",
+          "Version": "1.0"
         }
       }
     },
@@ -1479,6 +1689,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2KYuoetlfX8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32735\nfileID=316950",
+        "Name": "ActiveEffects.zip-32735-1-2-7-1715889420.zip",
+        "Size": 411781,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wolfmark",
+          "Description": "Shows on HUD widgets for active effects.\n\nAlso modifies Pip-Boy Stat page to add two new tabs, one for the active effects and one for player\u0027s actor values.\n\nProvides few additional HUD widgets: Clock, Counters, Inventory Weight and Explosives.\n\n\n\nSee the screenshots for details.",
+          "FileID": 316950,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32735/32735-1537623030-1596334804.png",
+          "IsNSFW": false,
+          "ModID": 32735,
+          "Name": "Active Effects on HUD",
+          "Version": "1.2.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "h+e4ock038s=",
         "Meta": "[General]\ngameName=fallout4\nmodID=36045\nfileID=302774",
         "Name": "Assaultron HD - HIGH-36045-1-1-1707300563.rar",
@@ -1494,27 +1725,6 @@
           "ModID": 36045,
           "Name": "Assaultron HD",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "a7gwPv4fIPg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=19857\nfileID=122586",
-        "Name": "AtomGreatnessMainFile-19857-1-1.rar",
-        "Size": 2568805,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ethreon",
-          "Description": "Adds church sets and other church inspired items in the styles presented in Fallout 4.",
-          "FileID": 122586,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19857-10-1478646308.jpg",
-          "IsNSFW": false,
-          "ModID": 19857,
-          "Name": "Atom\u0027s Greatness",
-          "Version": "1"
         }
       }
     },
@@ -1605,6 +1815,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ujGlHkq4hEY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265314",
+        "Name": "AIO 4K Edition (Loose files)-68238-2-0-1674937551.rar",
+        "Size": 4120922797,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265314,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "juVkx4TemQ4=",
         "Meta": "[General]\ngameName=fallout4\nmodID=17160\nfileID=122588",
         "Name": "BoxHouseMain-17160-1-1.rar",
@@ -1620,6 +1851,27 @@
           "ModID": 17160,
           "Name": "Box Houses",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tXlRNId9ehg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265075",
+        "Name": "Brahmin 2k (Loose files)-68238-1-0-1674817675.rar",
+        "Size": 39357978,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265075,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -1731,21 +1983,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bhr8nm35+bw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44251\nfileID=254789",
-        "Name": "Dark Sci Fi Vault Retexture 4k - White Squares Fix-44251-2-1-1666904005.rar",
-        "Size": 13423446,
+        "Hash": "CFlAVDXkAdE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67509\nfileID=262458",
+        "Name": "dp buff_rad 2k-67509-1-1672875784.rar",
+        "Size": 15635407,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cthorthu",
-          "Description": "Vault interior retexture",
-          "FileID": 254789,
+          "Author": "dpillari",
+          "Description": "new hd meshes and textures for Buffout and Rad-x, now complete with real pills and capsules inside. The first pack in a new hd chems series of mine,  In 2k and 4k verities",
+          "FileID": 262458,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44251/44251-1586039097-1473862068.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67509/67509-1672875322-207197281.png",
           "IsNSFW": false,
-          "ModID": 44251,
-          "Name": "Dark Sci Fi Vault Retexture",
-          "Version": "2.1"
+          "ModID": 67509,
+          "Name": "HD Chems Project_Buffout and RadX",
+          "Version": "1"
         }
       }
     },
@@ -1794,6 +2046,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "T0TEuUkhdT8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
+        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
+        "Size": 1470559,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
+          "FileID": 255391,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
+          "IsNSFW": false,
+          "ModID": 48958,
+          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
+          "Version": "2.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "J/ID33GORgg=",
         "Meta": "[General]\ngameName=fallout4\nmodID=60579\nfileID=238079",
         "Name": "FallUI - Icon Library-60579-1-0-1652975967.rar",
@@ -1830,6 +2103,27 @@
           "ModID": 49300,
           "Name": "FallUI - Workbench",
           "Version": "1.4.1-r2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JrJXXp0b9Hw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265108",
+        "Name": "Feral ghouls 2k (Loose files)-68238-1-0-1674821087.rar",
+        "Size": 123707925,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265108,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -1878,6 +2172,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "t6utCmVU65k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67509\nfileID=262457",
+        "Name": "dp buff_rad 4k-67509-1-1672875743.rar",
+        "Size": 50341460,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "new hd meshes and textures for Buffout and Rad-x, now complete with real pills and capsules inside. The first pack in a new hd chems series of mine,  In 2k and 4k verities",
+          "FileID": 262457,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67509/67509-1672875322-207197281.png",
+          "IsNSFW": false,
+          "ModID": 67509,
+          "Name": "HD Chems Project_Buffout and RadX",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mSN43yMeRHY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67888\nfileID=263912",
+        "Name": "dp inhalers 4k-67888-1-1673976434.rar",
+        "Size": 154917407,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "hd meshes and textures for fallout 4\u0027s inhalers, including DLC versions. in 2k and 4k versions.",
+          "FileID": 263912,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67888/67888-1673976097-1868414156.jpeg",
+          "IsNSFW": false,
+          "ModID": 67888,
+          "Name": "HD Chems Project_Jet and Xcell",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PJOmh+a0b1A=",
         "Meta": "[General]\ngameName=fallout4\nmodID=23273\nfileID=235667",
         "Name": "Heather Clothing Bodyslide Files v2-23273-2-0-1650653455.zip",
@@ -1899,21 +2235,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C+BzwD60Pko=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=92456\nfileID=351786",
-        "Name": "High Quality Pip-Boy Map 2K-92456-1-1-1742822062.zip",
-        "Size": 1355011,
+        "Hash": "OjnlvMjXxjE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=342947",
+        "Name": "High FPS Physics Fix-44798-0-8-11-1734373932.zip",
+        "Size": 560532,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Giblib",
-          "Description": "Replace the Commonwealth\u0027s Pip-Boy map with a higher quality one. Remade completely from scratch.",
-          "FileID": 351786,
+          "Author": "Antonix35",
+          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+          "FileID": 342947,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/92456/92456-1743017386-1043642600.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
           "IsNSFW": false,
-          "ModID": 92456,
-          "Name": "High Quality Pip-Boy Map",
-          "Version": "1.00"
+          "ModID": 44798,
+          "Name": "High FPS Physics Fix",
+          "Version": "0.8.6"
         }
       }
     },
@@ -1935,6 +2271,48 @@
           "ModID": 24250,
           "Name": "Marvelous Missile Launcher",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2jwd9LYH8Ic=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265295",
+        "Name": "Mirelurks 2k (Loose files)-68238-2-0-1674931751.rar",
+        "Size": 53864237,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265295,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fyJLKNyeOwI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265089",
+        "Name": "Mongrels 2k (Loose files)-68238-1-0-1674819334.rar",
+        "Size": 74974351,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265089,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -1999,6 +2377,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "z6G0Qe+U11c=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
+        "Name": "Data_Fallout4 - Textures6.ba2",
+        "Size": 1399972840,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures6.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "z6G0Qe+U11c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2GOYPeXGmlU=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
         "Name": "Data_Fallout4 - Textures3.ba2",
@@ -2009,6 +2403,48 @@
           "GameFile": "Data\\Fallout4 - Textures3.ba2",
           "GameVersion": "1.10.984.0",
           "Hash": "2GOYPeXGmlU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X3M2ST6+P+0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265126",
+        "Name": "Radstag and Gazelle 2k (Loose files)-68238-1-0-1674822865.rar",
+        "Size": 52288751,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265126,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "id4Q62qYKbs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265073",
+        "Name": "Raider Dogs 2k (Loose files)-68238-1-0-1674817460.rar",
+        "Size": 14096341,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265073,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -2162,6 +2598,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vz+blfpt3eg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265131",
+        "Name": "Super mutants 2k (Loose files)-68238-1-0-1674823910.rar",
+        "Size": 406473864,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265131,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "SzhG9116syE=",
         "Meta": "[General]\ngameName=fallout4\nmodID=34140\nfileID=138769",
         "Name": "Tech Noir Fusion Cell-34140-1.rar",
@@ -2177,48 +2634,6 @@
           "ModID": 34140,
           "Name": "Tech Noir Fusion Cell",
           "Version": "2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+uE7AJpXH/4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50837\nfileID=250407",
-        "Name": "Terrain Undersides-50837-5-0-1662977532.7z",
-        "Size": 242717252,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sheson",
-          "Description": "Block god rays shining through the ground with terrain underside meshes for Commonwealth, Far Harbor and Nuka World.",
-          "FileID": 250407,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50837/50837-1615997484-386096780.jpeg",
-          "IsNSFW": false,
-          "ModID": 50837,
-          "Name": "Terrain Undersides - 2 Million Sunblock",
-          "Version": "5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ujGlHkq4hEY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265314",
-        "Name": "AIO 4K Edition (Loose files)-68238-2-0-1674937551.rar",
-        "Size": 4120922797,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Blackwolf24",
-          "Description": "Retextures almost all creatures in the game.",
-          "FileID": 265314,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
-          "IsNSFW": false,
-          "ModID": 68238,
-          "Name": "The HD Enhancement Project CREATURE EDITION",
-          "Version": "1.0"
         }
       }
     },
@@ -2267,6 +2682,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "M0QZcAuZV9M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75064\nfileID=337389",
+        "Name": "True Grass - Vines No glow-75064-B-1729436930.rar",
+        "Size": 485,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bethesda",
+          "Description": "Gets rid of invisible shrubs \u002B glowing vines and plants.",
+          "FileID": 337389,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75064/75064-1696107054-1206419466.png",
+          "IsNSFW": false,
+          "ModID": 75064,
+          "Name": "True Grass - Invisible and Glowing Plants FIX",
+          "Version": "A"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zpT9t2GCJ5s=",
         "Meta": "[General]\ngameName=fallout4\nmodID=43458\nfileID=312610",
         "Name": "Ultimate Window Overhaul (Main Version)-43458-1-4-6-1714225658.7z",
@@ -2282,6 +2718,27 @@
           "ModID": 43458,
           "Name": "Ultimate Window Overhaul Redone",
           "Version": "1.4.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qwpMG8vhvPc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48700\nfileID=357751",
+        "Name": "Vault-Tec Tools-48700-2-0-5-1748724644.zip",
+        "Size": 69684034,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Samutz and Wulfharth",
+          "Description": "A Sim Settlements 2 Addon Pack containing 22 vault-themed interior plot plans, 2 city planner desks, 4 flags, and several vault-specific features.",
+          "FileID": 357751,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48700/48700-1606748808-18536833.png",
+          "IsNSFW": false,
+          "ModID": 48700,
+          "Name": "Vault-Tec Tools - Sim Settlements 2 Addon Pack",
+          "Version": "1.1"
         }
       }
     },
@@ -2330,6 +2787,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "7BjYrXM21U8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265133",
+        "Name": "Yao guai 2k (Loose files)-68238-1-0-1674824220.rar",
+        "Size": 46948651,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265133,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wDV5+8bXBM0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=91594\nfileID=348584",
         "Name": "ZP\u0027s Gritty Interiors - Cave UPDATE-91594-011-1740168780.zip",
@@ -2351,63 +2829,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GIL7tb0gUGw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69243\nfileID=269545",
-        "Name": "3rd Person Behavior Fixes-69243-v1-3-1678132954.7z",
-        "Size": 410798,
+        "Hash": "eSeBSn716nk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265097",
+        "Name": "Angler 2k (Loose files)-68238-1-0-1674820199.rar",
+        "Size": 19440840,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bingle",
-          "Description": "Fixes some glitches related to 3rd person behavior",
-          "FileID": 269545,
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265097,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69243/69243-1677641767-1876439342.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
           "IsNSFW": false,
-          "ModID": 69243,
-          "Name": "3rd Person Behavior Fixes",
-          "Version": "v1.3"
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eIF7EDsVW/w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
-        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
-        "Size": 2818705,
+        "Hash": "dYSoPqdsiuQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265291",
+        "Name": "Ant 2k (Loose files)-68238-2-0-1674931399.rar",
+        "Size": 12208747,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
-          "FileID": 254844,
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265291,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
           "IsNSFW": false,
-          "ModID": 48758,
-          "Name": "FallUI - Inventory",
-          "Version": "2.2.1"
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JZ++cWZAzMw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60580\nfileID=239585",
-        "Name": "FIS - The NEW FallUI Item Sorter-60580-2-1-1654350813.rar",
-        "Size": 1144421,
+        "Hash": "BQGOVWfg99Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=87228\nfileID=332153",
+        "Name": "Power Armor Idle Stance Fix-87228-1-0-1725002462.7z",
+        "Size": 7716,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "The official new Item Sorter for the FallUI mods. Features auto-tagging, MCM-configurable categories and variations, many tags/icon, clear arranged overview and more!",
-          "FileID": 239585,
+          "Author": "C1PH3RR",
+          "Description": "Fixes the bent legged FO4 Power Armor Stance that was fixed in Fallout 76",
+          "FileID": 332153,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60580/60580-1652974864-1109451306.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/87228/87228-1725002327-1343726014.png",
           "IsNSFW": false,
-          "ModID": 60580,
-          "Name": "FIS - The NEW FallUI Item Sorter",
-          "Version": "2.1"
+          "ModID": 87228,
+          "Name": "Fallout 4 - Power Armor Idle Stance Fix",
+          "Version": "1.0"
         }
       }
     },
@@ -2428,6 +2906,48 @@
           "IsNSFW": false,
           "ModID": 40861,
           "Name": "Flickering Roof Mesh Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YGBYwkzWBHQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265115",
+        "Name": "Gulper 2k (Loose files)-68238-1-0-1674821915.rar",
+        "Size": 64454657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265115,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qmBkdP2+ffg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=86970\nfileID=331060",
+        "Name": "HMAR Anims-86970-1-0-1724249670.7z",
+        "Size": 1340322,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CADAVVER",
+          "Description": "New first person animations for the Handmade Rifle from Nuka World DLC",
+          "FileID": 331060,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86970/86970-1724249786-1752516769.jpeg",
+          "IsNSFW": false,
+          "ModID": 86970,
+          "Name": "Handmade Rifle Animations",
           "Version": "1.0"
         }
       }
@@ -2470,6 +2990,27 @@
           "IsNSFW": false,
           "ModID": 94911,
           "Name": "Heather Casdin and Sim Settlements 2 patch",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "olXu+OzzYzU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265301",
+        "Name": "Hermit Crab 2k (Loose files)-68238-2-0-1674932367.rar",
+        "Size": 42170587,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265301,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
           "Version": "1.0"
         }
       }
@@ -2534,6 +3075,48 @@
           "ModID": 19854,
           "Name": "Marine Combat Armor Material Fix",
           "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Gm8LHchrEUA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265135",
+        "Name": "Mutated wolf 2k (Loose files)-68238-1-0-1674824497.rar",
+        "Size": 51897792,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265135,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "veMV8wYcBnk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=70237\nfileID=272917",
+        "Name": "NF_Rocks_Fix-70237-1-0-1680567203.rar",
+        "Size": 61780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ossumpossum",
+          "Description": "Corrects material files to use the intended texture for certain rocks",
+          "FileID": 272917,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/70237/70237-1680567106-386462352.gif",
+          "IsNSFW": false,
+          "ModID": 70237,
+          "Name": "Northern Foothills Rocks Fix",
+          "Version": "1.0"
         }
       }
     },
@@ -2687,37 +3270,58 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "H7rw0InMdbQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4_Default.ini",
-        "Name": "Fallout4_Default.ini",
-        "Size": 2465,
+        "Hash": "AhEzntXlbJ4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4Launcher.exe",
+        "Name": "Fallout4Launcher.exe",
+        "Size": 4520448,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Fallout4_Default.ini",
+          "GameFile": "Fallout4Launcher.exe",
           "GameVersion": "1.10.984.0",
-          "Hash": "H7rw0InMdbQ="
+          "Hash": "AhEzntXlbJ4="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aMWqmqSUJAY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63191\nfileID=260886",
-        "Name": "Far Harbor 3d Tree LODs-63191-3-0-1671396092.7z",
-        "Size": 4687912,
+        "Hash": "V4gOw6/5GgQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=94691\nfileID=366051",
+        "Name": "To Fuel The Blaster - Alien Blaster Cell Quest-94691-1-2-1756601110.zip",
+        "Size": 336312,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DoubleYou",
-          "Description": "Adds 3d Trees LOD models for Far Harbor.",
-          "FileID": 260886,
+          "Author": "alegendv1",
+          "Description": "A lore friendly and RPG-esque way to be able to craft Alien Blaster Rounds, complete with a custom quest and quest icon!",
+          "FileID": 366051,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63191/63191-1660358072-585218872.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/94691/94691-1751377921-1973478256.png",
           "IsNSFW": false,
-          "ModID": 63191,
-          "Name": "Far Harbor 3D Tree LODs",
-          "Version": "3.0"
+          "ModID": 94691,
+          "Name": "To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jSuE/sWrfE0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30141\nfileID=152721",
+        "Name": "WD_CR_Anims-30141-v4-1550854762.rar",
+        "Size": 421131,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wardaddy",
+          "Description": "New animation set for combat rifle/ shotgun.",
+          "FileID": 152721,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30141/30141-1519801775-921456612.png",
+          "IsNSFW": false,
+          "ModID": 30141,
+          "Name": "Reanimation Pack for Combat Shotgun and Rifle",
+          "Version": "V4"
         }
       }
     },
@@ -2745,21 +3349,478 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jSuE/sWrfE0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30141\nfileID=152721",
-        "Name": "WD_CR_Anims-30141-v4-1550854762.rar",
-        "Size": 421131,
+        "Hash": "/Exv14em1ss=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8704\nfileID=200023",
+        "Name": "Tales from the Commonwealth-8704-3-02-1611704519.7z",
+        "Size": 501085551,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wardaddy",
-          "Description": "New animation set for combat rifle/ shotgun.",
-          "FileID": 152721,
+          "Author": "Kris Takahashi",
+          "Description": "The Tales from the Commonwealth mod adds quests and companions. \n\nThe Atomic Radio mod adds a radio station. \n\nThe Settlers of the Commonwealth mod adds settlers with interesting dialogue.  \n\n\n\nGo to 3dnpc.com for details.",
+          "FileID": 200023,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30141/30141-1519801775-921456612.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8704-0-1468526937.jpg",
           "IsNSFW": false,
-          "ModID": 30141,
-          "Name": "Reanimation Pack for Combat Shotgun and Rifle",
-          "Version": "V4"
+          "ModID": 8704,
+          "Name": "Atomic Radio and Tales from the Commonwealth",
+          "Version": "3.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zQUYlTPCdTc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53286\nfileID=256692",
+        "Name": "Coastal Cottage - Sim Settlements 2 City Plan Contest Entry - July 2021-53286-2-0-1668237871.7z",
+        "Size": 13610,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cessori",
+          "Description": "Coastal residences for 10 settlers, up to 18 for third level of plan.\n\n\n\nUse Designer\u0027s Choice for City Plan, increase build limit to 300%\n\nPlayer will need to upgrade agricultural and martial plots to advanced when skilled settlers are available.",
+          "FileID": 256692,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53286/53286-1626424879-825367260.png",
+          "IsNSFW": false,
+          "ModID": 53286,
+          "Name": "Coastal Cottage - Sim Settlements 2 City Plan Contest Entry - July 2021",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "roN1nD4imjE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=16808\nfileID=211100",
+        "Name": "David Hunter - Part 2-16808-2-5-1624627174.zip",
+        "Size": 76407389,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seddon4494",
+          "Description": "David Hunter: A Brotherhood Story follows Scribe David Hunter as he fights to make the Commonwealth a better place but comes into conflict with Brotherhood traditionalists.",
+          "FileID": 211100,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16808/16808-1529924856-1616598190.png",
+          "IsNSFW": false,
+          "ModID": 16808,
+          "Name": "David Hunter - A Brotherhood Story",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NHIcBKxJWqg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=89054\nfileID=339093",
+        "Name": "Emirals Wire Fixes-89054-1-0-1730869804.7z",
+        "Size": 13770,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "emiral",
+          "Description": "Fixes some power lines in Concord that are just hanging in mid-air, or in one case, connected to the tree outside the church.",
+          "FileID": 339093,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/89054/89054-1730869597-2041102623.png",
+          "IsNSFW": false,
+          "ModID": 89054,
+          "Name": "Emirals Wire Fixes",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "as79s4PPt2k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51715\nfileID=206782",
+        "Name": "kingsport-51715-1-0-1619543050.7z",
+        "Size": 17994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Waning Gibbous",
+          "Description": "Kingsport Lighthouse - Sim Settlements 2 City Plan Contest Entry - April 2021",
+          "FileID": 206782,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51715/51715-1619540808-508919243.png",
+          "IsNSFW": false,
+          "ModID": 51715,
+          "Name": "Kingsport Lighthouse City Plan SS2 Contest Entry April 2021",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4452ipHZzPE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50985\nfileID=204590",
+        "Name": "Reina\u0027s Croup Market-50985-1-0-1616897994.zip",
+        "Size": 24760,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Reina",
+          "Description": "**MARCH 2021 CITY PLAN CONTEST ENTRY** A leveled city plan for Sim Settlements 2, designed for 18-20 settlers. Features a fixed-up ghoul manor, a museum, 2 bars, and lots of clothing shops! Self-sufficient with adequate junk storage for upgrades.",
+          "FileID": 204590,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50985/50985-1616713717-1519875364.jpeg",
+          "IsNSFW": false,
+          "ModID": 50985,
+          "Name": "Reina\u0027s Croup Market - City Plan Contest Entry March 2021",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zjMS7XXg7z8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50822\nfileID=206850",
+        "Name": "Croup Manor CroumanVil-50822-2-1-1619636473.rar",
+        "Size": 31365,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Carinth",
+          "Description": "CrouManVil - You\u0027re Almost Home. \n\nCroup Manor\u0027s - CrouManVil, once fully developed, has a large variety of goods and services.\n\nIt includes, a general store, a diner, a flee market, a rooftop patio, a full room customized as a player home and as well the town itself.\n\nA lore friendly game addition.",
+          "FileID": 206850,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50822/50822-1638739638-1035131894.jpeg",
+          "IsNSFW": false,
+          "ModID": 50822,
+          "Name": "Sim Settlements 2  City Plan Croup Manor - CroumanVil",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "734wmcM8Q00=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=80006\nfileID=308354",
+        "Name": "SS2 - Fort Covenant Outpost city plan 1.1-80006-1-1-1711746708.rar",
+        "Size": 17767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ErikaEmber",
+          "Description": "The people of Covenant have joined forces with the Enclave! A rather simple outpost city plan with room for 35\u002B soldiers at final level.",
+          "FileID": 308354,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/80006/80006-1711571551-558357944.png",
+          "IsNSFW": false,
+          "ModID": 80006,
+          "Name": "SS2 - Fort Covenant Outpost",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/hSH12X4E3o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57783\nfileID=257103",
+        "Name": "SS2 - Nobody\u0027s Leaders 2-57783-2-0-3-1668572856.zip",
+        "Size": 1334522,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NOBODY",
+          "Description": "Sim Settlements 2 Leader Pack, featuring 60\u002B vanilla \u0026amp; SS2 NPCs available to be city leaders",
+          "FileID": 257103,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57783/57783-1693623955-563847349.jpeg",
+          "IsNSFW": false,
+          "ModID": 57783,
+          "Name": "Sim Settlements 2 - Nobody\u0027s Leaders 2",
+          "Version": "2.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0YtlTDWHYFo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50432\nfileID=360632",
+        "Name": "SS2_Addon_Favelabulous-50432-1-3-1751668581.7z",
+        "Size": 4468541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rudy",
+          "Description": "A Random Residential plot for Sim Settlements 2",
+          "FileID": 360632,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50432/50432-1614469053-1278304862.png",
+          "IsNSFW": false,
+          "ModID": 50432,
+          "Name": "Favelabulous",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CHP+qJ1qRRc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27311\nfileID=216923",
+        "Name": "Far Harbor Story - Ug Qualtoth Keeps his Promise-27311-1-7-1631614644.zip",
+        "Size": 94778598,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seddon4494",
+          "Description": "Hidden within the woods of Huntress Island, enveloped by fog, stands Huntress Manor. Once the home of the reclusive but brilliant Professor R.S.G. Hunter, the manor has been abandoned since his sudden, unexplained, death in 1877; it is now known only to the wolves that call the forest their home. Little do they know, the manor holds a terrible secr",
+          "FileID": 216923,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27311-0-1507974060.jpg",
+          "IsNSFW": false,
+          "ModID": 27311,
+          "Name": "The Secret of Huntress Manor - A Far Harbor Story",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s/EcQA6lk9U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9253\nfileID=68806",
+        "Name": "True Nights v0.3-9253-v0-3.7z",
+        "Size": 232225,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nikonthenet",
+          "Description": "Now with user configurable brightness via ENB. This high fidelity dark night mod is built to enhance the True Storms experience, adding realism with cinematic flair and moody, at times claustrophobic, atmospherics!\n\n\n\nBEWARE THE DARK! Or, make it brighter on the fly while in-game!",
+          "FileID": 68806,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9253-6-1469039135.jpg",
+          "IsNSFW": false,
+          "ModID": 9253,
+          "Name": "True Nights (for True Storms with ENB)",
+          "Version": "v0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "W317WATH8tI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64270\nfileID=270989",
+        "Name": "Rusty Face Fix Redux-64270-1-1-1679129686.7z",
+        "Size": 2054,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sranger",
+          "Description": "Mouse over NPCs with your crosshair and press a hotkey to fix the Rusty Face!",
+          "FileID": 270989,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64270/64270-1663036969-256519118.jpeg",
+          "IsNSFW": false,
+          "ModID": 64270,
+          "Name": "Rusty Face Fix Redux 2022",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S4ebZM/KjwY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43627\nfileID=315807",
+        "Name": "BakaFramework-43627-2-0-1-1715443149.7z",
+        "Size": 200800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shad0wshayd3",
+          "Description": "A small plugin that exposes some new data to other mods, and fixes a few bugs.",
+          "FileID": 315807,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43627/43627-1602315760-410850224.png",
+          "IsNSFW": false,
+          "ModID": 43627,
+          "Name": "Baka Framework",
+          "Version": "1.10.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "30l/1lRpayM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=91379\nfileID=354757",
+        "Name": "F4SE ChangeHeadPart Fix-91379-2-0-0-1745722242.7z",
+        "Size": 149166,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Panda",
+          "Description": "Hook for F4SE functions ChangeHeadPart and ChangeHeadPartRemovePart to\n\n1. Replace it with threadsafe implementation.\n\n2. Implement base TESNPC searching.",
+          "FileID": 354757,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91379/91379-1739009298-936326189.jpeg",
+          "IsNSFW": false,
+          "ModID": 91379,
+          "Name": "F4SE ChangeHeadPart Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rpVzLYvkluo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49070\nfileID=256778",
+        "Name": "FallUI - Sleep And Wait-49070-1-4-1668288607.rar",
+        "Size": 798024,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Overhaul of the sleeping and waiting menu for Fallout 4. \n\nDirectly click on your desired wake-up time with target time buttons. See the daylight level at target time in the daytime graph and more. Interface available in all languages.",
+          "FileID": 256778,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1621691660-2041324943.png",
+          "IsNSFW": false,
+          "ModID": 49070,
+          "Name": "FallUI - Sleep and Wait",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3xw5bwH2ADo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265071",
+        "Name": "Alien 2k-68238-1-0-1674816836.rar",
+        "Size": 12379116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265071,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bhr8nm35+bw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44251\nfileID=254789",
+        "Name": "Dark Sci Fi Vault Retexture 4k - White Squares Fix-44251-2-1-1666904005.rar",
+        "Size": 13423446,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cthorthu",
+          "Description": "Vault interior retexture",
+          "FileID": 254789,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44251/44251-1586039097-1473862068.png",
+          "IsNSFW": false,
+          "ModID": 44251,
+          "Name": "Dark Sci Fi Vault Retexture",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C+BzwD60Pko=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=92456\nfileID=351786",
+        "Name": "High Quality Pip-Boy Map 2K-92456-1-1-1742822062.zip",
+        "Size": 1355011,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Giblib",
+          "Description": "Replace the Commonwealth\u0027s Pip-Boy map with a higher quality one. Remade completely from scratch.",
+          "FileID": 351786,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/92456/92456-1743017386-1043642600.png",
+          "IsNSFW": false,
+          "ModID": 92456,
+          "Name": "High Quality Pip-Boy Map",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+uE7AJpXH/4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50837\nfileID=250407",
+        "Name": "Terrain Undersides-50837-5-0-1662977532.7z",
+        "Size": 242717252,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sheson",
+          "Description": "Block god rays shining through the ground with terrain underside meshes for Commonwealth, Far Harbor and Nuka World.",
+          "FileID": 250407,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50837/50837-1615997484-386096780.jpeg",
+          "IsNSFW": false,
+          "ModID": 50837,
+          "Name": "Terrain Undersides - 2 Million Sunblock",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GIL7tb0gUGw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69243\nfileID=269545",
+        "Name": "3rd Person Behavior Fixes-69243-v1-3-1678132954.7z",
+        "Size": 410798,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bingle",
+          "Description": "Fixes some glitches related to 3rd person behavior",
+          "FileID": 269545,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69243/69243-1677641767-1876439342.gif",
+          "IsNSFW": false,
+          "ModID": 69243,
+          "Name": "3rd Person Behavior Fixes",
+          "Version": "v1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ajmxiB79i+c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265112",
+        "Name": "Gorilla and Ghoulrilla 2k (Loose files)-68238-1-0-1674821477.rar",
+        "Size": 34493031,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265112,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H7rw0InMdbQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4_Default.ini",
+        "Name": "Fallout4_Default.ini",
+        "Size": 2465,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Fallout4_Default.ini",
+          "GameVersion": "1.10.984.0",
+          "Hash": "H7rw0InMdbQ="
         }
       }
     },
@@ -2808,42 +3869,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qSk3UZ2He6E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27311\nfileID=111768",
-        "Name": "Collectable Bears-27311-.zip",
-        "Size": 886000,
+        "Hash": "4Brhh535pYU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68261\nfileID=265185",
+        "Name": "dp psycho_med 4k-68261-1-1674862377.rar",
+        "Size": 234418640,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Seddon4494",
-          "Description": "Hidden within the woods of Huntress Island, enveloped by fog, stands Huntress Manor. Once the home of the reclusive but brilliant Professor R.S.G. Hunter, the manor has been abandoned since his sudden, unexplained, death in 1877; it is now known only to the wolves that call the forest their home. Little do they know, the manor holds a terrible secr",
-          "FileID": 111768,
+          "Author": "dpillari",
+          "Description": "hd models and textures for the games vanilla Psycho and MedX models, with materials for various derivatives, in 2k and 4k texture sizes.",
+          "FileID": 265185,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27311-0-1507974060.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68261/68261-1674861941-1954826323.png",
           "IsNSFW": false,
-          "ModID": 27311,
-          "Name": "The Secret of Huntress Manor - A Far Harbor Story",
-          "Version": "1.7"
+          "ModID": 68261,
+          "Name": "HD Chems Project_Psycho and MedX",
+          "Version": "3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0p/vvs7iFQ4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=321359",
-        "Name": "Extended Dialogue Interface 1.4.0-27216-1-4-0-1717703677.zip",
-        "Size": 270008,
+        "Hash": "xgXbhXI3Ydg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=205995",
+        "Name": "Masonry Set 4K-51438-0-1-1618547624.zip",
+        "Size": 868554494,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k and Neanka",
-          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
-          "FileID": 321359,
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 205995,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
           "IsNSFW": false,
-          "ModID": 27216,
-          "Name": "Extended Dialogue Interface",
-          "Version": "1.3.6"
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
         }
       }
     },
@@ -3081,6 +4142,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Pt16t9xYotc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=88295\nfileID=346643",
+        "Name": "HFs - Overdue book - 2K-88295-2-1738144584.zip",
+        "Size": 16924337,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Halffaces",
+          "Description": "Burnt books replacer",
+          "FileID": 346643,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/88295/88295-1728305287-1763148163.png",
+          "IsNSFW": false,
+          "ModID": 88295,
+          "Name": "HFs - Burnt Books",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "D4p7/Fon2zw=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
         "Name": "Data_Fallout4 - Textures2.ba2",
@@ -3139,20 +4221,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YCg9BP+XAFg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=71762\nfileID=279557",
-        "Name": "ThrowMoneyAtSS2-71762-1-0-1686064866.7z",
-        "Size": 16770,
+        "Hash": "HvoDi77Fm4A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265101",
+        "Name": "Bloodworm 2k (Loose files)-68238-1-0-1674820409.rar",
+        "Size": 16816928,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "pra",
-          "Description": "Instantly upgrade Sim Settlements 2 plots for caps.",
-          "FileID": 279557,
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265101,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/71762/71762-1685488269-804705.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
           "IsNSFW": false,
-          "ModID": 71762,
-          "Name": "Throw Money At SS2",
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UFuzeI2nVWM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265123",
+        "Name": "Brahmiluff 2k (Loose files)-68238-1-0-1674822544.rar",
+        "Size": 29009571,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265123,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
           "Version": "1.0"
         }
       }
@@ -3638,6 +4741,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "d9PyQeXBnLc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=88295\nfileID=336244",
+        "Name": "HFs - Burnt Books - 4K-88295-1-1728305989.zip",
+        "Size": 151559981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Halffaces",
+          "Description": "Burnt books replacer",
+          "FileID": 336244,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/88295/88295-1728305287-1763148163.png",
+          "IsNSFW": false,
+          "ModID": 88295,
+          "Name": "HFs - Burnt Books",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4PVMiIFzbe8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=9342\nfileID=36765",
         "Name": "Conduit Connection Fix-9342-1-1.zip",
@@ -3680,21 +4804,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1lTRdku6xkM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49920\nfileID=238011",
-        "Name": "FallUI - Map-49920-2-1-1652891829.rar",
-        "Size": 995847,
+        "Hash": "lH7nvv2JF48=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265298",
+        "Name": "Mirelurk Hunters 2k (Loose files)-68238-2-0-1674932075.rar",
+        "Size": 18572447,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Overhaul of the Fallout 4 map. Added list of locations and workshops including text search. Add favorite locations to fast travel with one click. Many Quality-Of-Life features like disabling the popup on empty map space click, better map zoom steps, travel and arrival time. Colored marker support. Including high-res map texture support.",
-          "FileID": 238011,
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265298,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49920/49920-1612647012-1670663081.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
           "IsNSFW": false,
-          "ModID": 49920,
-          "Name": "FallUI - Map",
-          "Version": "2.1"
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -3716,6 +4840,27 @@
           "ModID": 88915,
           "Name": "Sprint Reload and Cancel",
           "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H2eOM8TZQAA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265304",
+        "Name": "Fog Crawlers 2k (Loose files)-68238-2-0-1674932598.rar",
+        "Size": 47970810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265304,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -3774,6 +4919,27 @@
           "ModID": 59065,
           "Name": "Castle Restoration Project - March City Plan Contest Entry",
           "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5D6MJ8+1C0c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=3747\nfileID=321375",
+        "Name": "FlaconOil 2K BA2-3747-4-2-1717717041.7z",
+        "Size": 3252302034,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlaconOil",
+          "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
+          "FileID": 321375,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3747-0-1460564643.jpg",
+          "IsNSFW": false,
+          "ModID": 3747,
+          "Name": "FlaconOil\u0027s Complete Retexture Project",
+          "Version": "Part3-V1"
         }
       }
     },
@@ -4158,27 +5324,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gCWDrmeHn1Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50277\nfileID=350160",
-        "Name": "SS2RobotMod-Universal-50277-2-1-1-1741549477.7z",
-        "Size": 18082,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "pra",
-          "Description": "Makes automatron modifications affect their SPECIAL stats for Sim Settlements 2 plots.",
-          "FileID": 350160,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50277/50277-1614443562-931309870.jpeg",
-          "IsNSFW": false,
-          "ModID": 50277,
-          "Name": "Sim Settlements 2 Automatron Mod",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "xoqqA272hDc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=26592\nfileID=318313",
         "Name": "CCCleaner 1.10.984.0-26592-1-10-984-0-1716400173.zip",
@@ -4236,6 +5381,27 @@
           "ModID": 8087,
           "Name": "Better Ammo Boxes",
           "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UPELPm++/Nk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265287",
+        "Name": "Radscorpions 2k (Loose files)-68238-2-0-1674930916.rar",
+        "Size": 34597817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265287,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -4357,6 +5523,27 @@
           "ModID": 90399,
           "Name": "Attachment Pack Unofficial Expansion and Refinement",
           "Version": "1.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j29LyOhzXNs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=297672",
+        "Name": "Bunker Set - 2K-51438-1-2-1703492975.zip",
+        "Size": 106491501,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 297672,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
+          "IsNSFW": false,
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
         }
       }
     },
@@ -4546,6 +5733,27 @@
           "ModID": 50362,
           "Name": "SS2 Addon - Bare Essentials",
           "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l33f6CziGJI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=205997",
+        "Name": "Submarine Set 4K-51438-0-1-1618547848.zip",
+        "Size": 310214586,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 205997,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
+          "IsNSFW": false,
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
         }
       }
     },
@@ -4776,6 +5984,27 @@
           "IsNSFW": false,
           "ModID": 19127,
           "Name": "Visible Galaxy 4k and Framework",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gjJ+j1pE51s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265285",
+        "Name": "Blood bugs 2K  (Loose files)-68238-2-0-1674930719.rar",
+        "Size": 21497565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265285,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
           "Version": "1.0"
         }
       }
@@ -5303,27 +6532,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/GkwCxWmxns=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52723\nfileID=319852",
-        "Name": "Baka Wait Anywhere-52723-2-0-0-1717002111.7z",
-        "Size": 167074,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shad0wshayd3",
-          "Description": "Take a seat? Baka.",
-          "FileID": 319852,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52723/52723-1624182198-1875677124.png",
-          "IsNSFW": false,
-          "ModID": 52723,
-          "Name": "Baka Wait Anywhere",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "hqaHq4P9TkY=",
         "Meta": "[General]\ngameName=fallout4\nmodID=51722\nfileID=206812",
         "Name": "Sim Settlements 2 Addon Pack - The Alley Cabaret-51722-1-0-1619589398.7z",
@@ -5359,6 +6567,27 @@
           "IsNSFW": false,
           "ModID": 17083,
           "Name": "Vault-Tec Lights Mesh Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dH/BlWy26lQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265309",
+        "Name": "Cave Cricket 2k (Loose files)-68238-2-0-1674932995.rar",
+        "Size": 19755429,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265309,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
           "Version": "1.0"
         }
       }
@@ -5781,6 +7010,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "b8WCc2ydh0Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=88295\nfileID=346645",
+        "Name": "HFs - Overdue book - 4K-88295-2-1738144889.zip",
+        "Size": 67255937,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Halffaces",
+          "Description": "Burnt books replacer",
+          "FileID": 346645,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/88295/88295-1728305287-1763148163.png",
+          "IsNSFW": false,
+          "ModID": 88295,
+          "Name": "HFs - Burnt Books",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xYipGLOVl1U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265293",
+        "Name": "Mirelurk Queen and Spawns 2k (Loose files)-68238-2-0-1674931550.rar",
+        "Size": 42740595,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265293,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HdhNQyj0KcU=",
         "Meta": "[General]\ngameName=fallout4\nmodID=92665\nfileID=352468",
         "Name": "Far Harbor - High Quality Pip-Boy Map 2K-92665-1-1743427482.zip",
@@ -5854,6 +7125,27 @@
           "ModID": 58497,
           "Name": "Finch Salvage Recovery - Sim Settlements 2 City Plan Contest Winner February 2022",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k7y9EkE/v4s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=3747\nfileID=321374",
+        "Name": "FlaconOil 4K BA2 01-3747-4-2-1717716454.7z",
+        "Size": 3502133025,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlaconOil",
+          "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
+          "FileID": 321374,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3747-0-1460564643.jpg",
+          "IsNSFW": false,
+          "ModID": 3747,
+          "Name": "FlaconOil\u0027s Complete Retexture Project",
+          "Version": "Part3-V1"
         }
       }
     },
@@ -6217,27 +7509,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SCgGiblPjKc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9424\nfileID=316637",
-        "Name": "Place (Fallout4 1.10.984 - latest release)-9424-1-19-0-1984-1715762213.zip",
-        "Size": 591380,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheLich",
-          "Description": "Place/build objects in settlements everywhere you want, change objects whatever you like. No more RED!",
-          "FileID": 316637,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9424-0-1456178323.jpg",
-          "IsNSFW": false,
-          "ModID": 9424,
-          "Name": "Place Everywhere",
-          "Version": "1.18.0.1163"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3s3GKVwKBf8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=314112",
         "Name": "Weapon Debris Crash Fix-48078-1-3-1714835670.zip",
@@ -6380,6 +7651,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9SmJRZ+0hRk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=205994",
+        "Name": "Cave Set 2K-51438-0-1-1618547317.zip",
+        "Size": 96362332,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 205994,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
+          "IsNSFW": false,
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "JWFWQcWfA7g=",
         "Meta": "[General]\ngameName=fallout4\nmodID=54670\nfileID=291241",
         "Name": "GavMan Cozy Covenant-54670-1-1-1696734366.7z",
@@ -6437,6 +7729,27 @@
           "ModID": 57685,
           "Name": "Settlement Attack Spawns Outside the Settlement -",
           "Version": "v1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E5LG3QBezuw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9537\nfileID=267689",
+        "Name": "Evil Institute HD 2K-9537-V1-4-1676682997.7z",
+        "Size": 326916520,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bLaCkShAd0w",
+          "Description": "This mod is a texture replacer to make the institute look like a more evil place. Three sizes available.\n\n\n\nNormal and specular included in 2K/4K downloads, 1K uses vanilla maps.",
+          "FileID": 267689,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9537-0-1454996104.jpg",
+          "IsNSFW": false,
+          "ModID": 9537,
+          "Name": "Evil Institute HD",
+          "Version": "1.4"
         }
       }
     },
@@ -6611,27 +7924,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Yf+RCYb21jQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64518\nfileID=251680",
-        "Name": "Workbench Replacer - Rain Fix-64518-1-0b-1664112642.7z",
-        "Size": 577,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Andrew Gebert - GRY",
-          "Description": "Replaces the Workshop Workbench with a higher quality model.",
-          "FileID": 251680,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64518/64518-1663759509-515807355.png",
-          "IsNSFW": false,
-          "ModID": 64518,
-          "Name": "Workbench Replacer HD",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "nJf5/+BcVXU=",
         "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=55821",
         "Name": "Far Harbor 45-70 Box Retexture-8087-1-0.zip",
@@ -6705,6 +7997,27 @@
           "ModID": 65555,
           "Name": "Merged RootBehavior",
           "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i2dMIuucyy0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=297670",
+        "Name": "Bunker Set - 4K-51438-1-2-1703492748.zip",
+        "Size": 414358250,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 297670,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
+          "IsNSFW": false,
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
         }
       }
     },
@@ -6984,27 +8297,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qwpMG8vhvPc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48700\nfileID=357751",
-        "Name": "Vault-Tec Tools-48700-2-0-5-1748724644.zip",
-        "Size": 69684034,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Samutz and Wulfharth",
-          "Description": "A Sim Settlements 2 Addon Pack containing 22 vault-themed interior plot plans, 2 city planner desks, 4 flags, and several vault-specific features.",
-          "FileID": 357751,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48700/48700-1606748808-18536833.png",
-          "IsNSFW": false,
-          "ModID": 48700,
-          "Name": "Vault-Tec Tools - Sim Settlements 2 Addon Pack",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LrpqKIowWlw=",
         "Meta": "[General]\ngameName=fallout4\nmodID=65537\nfileID=255525",
         "Name": "Very Zen Trash Piles 2k-65537-1-0-1667410212.zip",
@@ -7125,27 +8417,6 @@
           "ModID": 88213,
           "Name": "Show workshop object happiness values",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OjnlvMjXxjE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=342947",
-        "Name": "High FPS Physics Fix-44798-0-8-11-1734373932.zip",
-        "Size": 560532,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 342947,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
-          "IsNSFW": false,
-          "ModID": 44798,
-          "Name": "High FPS Physics Fix",
-          "Version": "0.8.6"
         }
       }
     },
@@ -7620,6 +8891,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FsJOUEqH3RY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51438\nfileID=205993",
+        "Name": "Cave Set 4K-51438-0-1-1618547267.zip",
+        "Size": 379305868,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spifferino",
+          "Description": "The Natural Bundle is a texture pack of assorted texture sets that either aren\u0027t big enough to release on their own, or only have a handful of textures covered within a set.",
+          "FileID": 205993,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51438/51438-1648496131-372986960.png",
+          "IsNSFW": false,
+          "ModID": 51438,
+          "Name": "The Natural Bundle - Assorted Textures (2K - 4K)",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zgVZccTMaIM=",
         "Meta": "[General]\ngameName=fallout4\nmodID=76350\nfileID=295318",
         "Name": "EGM Needs More Brick Outpost-76350-1-0-1701156790.zip",
@@ -7635,6 +8927,48 @@
           "ModID": 76350,
           "Name": "Egret Tours Marina Needs More Brick - WINNER - November 2023 Outpost Plan Contest",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k/wjvI0cXug=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9537\nfileID=267690",
+        "Name": "Evil Institute HD 4K-9537-V1-4-1676683066.7z",
+        "Size": 432523896,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bLaCkShAd0w",
+          "Description": "This mod is a texture replacer to make the institute look like a more evil place. Three sizes available.\n\n\n\nNormal and specular included in 2K/4K downloads, 1K uses vanilla maps.",
+          "FileID": 267690,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9537-0-1454996104.jpg",
+          "IsNSFW": false,
+          "ModID": 9537,
+          "Name": "Evil Institute HD",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oY7DpZB5qIc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=3747\nfileID=321301",
+        "Name": "FlaconOil 4K BA2 02-3747-4-1-1717679059.7z",
+        "Size": 4048677575,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlaconOil",
+          "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
+          "FileID": 321301,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3747-0-1460564643.jpg",
+          "IsNSFW": false,
+          "ModID": 3747,
+          "Name": "FlaconOil\u0027s Complete Retexture Project",
+          "Version": "Part3-V1"
         }
       }
     },
@@ -7950,6 +9284,27 @@
           "ModID": 73976,
           "Name": "Scaling Flag Remover",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BQ+cErV1piY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68238\nfileID=265128",
+        "Name": "Rad rat 2k (Loose files)-68238-1-0-1674823042.rar",
+        "Size": 24465917,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Blackwolf24",
+          "Description": "Retextures almost all creatures in the game.",
+          "FileID": 265128,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68238/68238-1674813555-1722157220.png",
+          "IsNSFW": false,
+          "ModID": 68238,
+          "Name": "The HD Enhancement Project CREATURE EDITION",
+          "Version": "1.0"
         }
       }
     },
@@ -8408,6 +9763,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "dgy3YdKsww4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69611\nfileID=270320",
+        "Name": "WoodCrate 2k - It has been a long time-69611-0-1-1678650225.7z",
+        "Size": 24865358,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HappoMatka",
+          "Description": "A once over for a container.",
+          "FileID": 270320,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69611/69611-1678650716-1711020985.png",
+          "IsNSFW": false,
+          "ModID": 69611,
+          "Name": "WoodCrate - It has been a long time",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "43ETsh9hZ/A=",
         "Meta": "[General]\ngameName=fallout4\nmodID=17050\nfileID=182571",
         "Name": "Xanders Aid 3.0-17050-3-0-1590215007.zip",
@@ -8566,27 +9942,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e3mOAJqPW3k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42316\nfileID=174698",
-        "Name": "Holotape Display ESL 1.3-42316-1-3-1579742593.zip",
-        "Size": 90638886,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neeher",
-          "Description": "Adds craftable display shelves that hold holotapes and even one for the 5 Game Tapes. Display your collection at your settlements. ESL available.",
-          "FileID": 174698,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42316/42316-1575002092-1321704408.jpeg",
-          "IsNSFW": false,
-          "ModID": 42316,
-          "Name": "Holotape Display Shelves",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "G3Ca0ZKf8Xc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=48621\nfileID=201988",
         "Name": "SS2_KsKs_CityPlans-48621-1-3-1613879379.zip",
@@ -8650,27 +10005,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I2KBUGgP5Ps=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=12101\nfileID=226944",
-        "Name": "Ransacked Relays and Shuddersome Subways-12101-2-0-1642400589.7z",
-        "Size": 13209246,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Trainwiz",
-          "Description": "A full-length quest mod, with unique bosses, locations, and new weapons. Take down a deranged teleporter AI or ram a train into a giant mirelurk queen.",
-          "FileID": 226944,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12101-8-1460938960.jpg",
-          "IsNSFW": false,
-          "ModID": 12101,
-          "Name": "Ransacked Relays and Shuddersome Subways",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "76xkMLOM+6A=",
         "Meta": "[General]\ngameName=fallout4\nmodID=90543\nfileID=348371",
         "Name": "SS2 - HQ Expansion and Settlement v1.7 (esl)-90543-1-7-1739899580.zip",
@@ -8707,27 +10041,6 @@
           "ModID": 47976,
           "Name": "Sim Settlements 2",
           "Version": "3.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JERm0Vbl7iU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=90478\nfileID=344483",
-        "Name": "ZP\u0027s Vanilla Landscape AIO-90478-01-1736187065.zip",
-        "Size": 3803287660,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zlostnypopolnik",
-          "Description": "The mod changes the appearance of the entire landscape to a more weathered, post-apocalyptic and littered with rubble. The mod also changes the landscape of some DLCs.",
-          "FileID": 344483,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/90478/90478-1736004807-1904693273.gif",
-          "IsNSFW": false,
-          "ModID": 90478,
-          "Name": "ZP\u0027s Vanilla Landscape",
-          "Version": "01"
         }
       }
     },
@@ -8829,27 +10142,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UAy0oaV99sw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44949\nfileID=181383",
-        "Name": "Canary v 1.0.0-44949-1-0-0-1588955837.7z",
-        "Size": 8237,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kinggath",
-          "Description": "Monitors your save file for data loss and warns you when you load the game, so you can avoid wasting time playing on a busted save and roll back immediately.",
-          "FileID": 181383,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44949/44949-1588955403-808920514.png",
-          "IsNSFW": false,
-          "ModID": 44949,
-          "Name": "Canary Save File Monitor",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6I9d1NIhcg8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=88016\nfileID=346298",
         "Name": "Emirals Tales From The Commonwealth Fixes-88016-1-3-1737847985.7z",
@@ -8934,27 +10226,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YfBDBXGrb+0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8704\nfileID=168336",
-        "Name": "Settlers of the Commonwealth-8704-3-14-1570603262.7z",
-        "Size": 62649864,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kris Takahashi",
-          "Description": "The Tales from the Commonwealth mod adds quests and companions. \n\nThe Atomic Radio mod adds a radio station. \n\nThe Settlers of the Commonwealth mod adds settlers with interesting dialogue.  \n\n\n\nGo to 3dnpc.com for details.",
-          "FileID": 168336,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8704-0-1468526937.jpg",
-          "IsNSFW": false,
-          "ModID": 8704,
-          "Name": "Atomic Radio and Tales from the Commonwealth",
-          "Version": "3.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "YV3BgSAjVR8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=11364\nfileID=44893",
         "Name": "Spotlight Searchlight shadows-11364-v2.7z",
@@ -8991,27 +10262,6 @@
           "ModID": 47976,
           "Name": "Sim Settlements 2",
           "Version": "3.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "O7mGAwFxvuc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=86503\nfileID=343306",
-        "Name": "SuperMutantEquality-86503-Beta-0-4-3-1734794474.zip",
-        "Size": 10311563,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BrainstormEpilog",
-          "Description": "Adds custom animations for super mutants, which enables them to use various vanilla weapons.",
-          "FileID": 343306,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/86503/86503-1723212653-1460681544.png",
-          "IsNSFW": false,
-          "ModID": 86503,
-          "Name": "Super Mutant Equality a Super Mutant Weapon Expansion",
-          "Version": "Beta"
         }
       }
     },
@@ -9144,206 +10394,6 @@
           "GameFile": "Fallout4\\Fallout4Prefs.ini",
           "GameVersion": "1.10.984.0",
           "Hash": "NJ+fLbj+6/4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S3kJIu5obLQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=54632\nfileID=217470",
-        "Name": "Bunker Hill Mega City-54632-1-0-1632314701.rar",
-        "Size": 44811,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NigauD",
-          "Description": "If you go to Charleston, stop at Bunker Hill. Good old Stockton has developed a big business with its caravans.",
-          "FileID": 217470,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54632/54632-1658667370-1262183545.png",
-          "IsNSFW": false,
-          "ModID": 54632,
-          "Name": "Bunker Hill Mega City (Winner sim settlements 2 City plan conquest 2021-09)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QEu+/TDfoDA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2241\nfileID=6956",
-        "Name": "Longer Power Lines 3x-2241-1-1.7z",
-        "Size": 672,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Puma",
-          "Description": "Lets you make connections from afar. ",
-          "FileID": 6956,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2241-0-1448251419.jpg",
-          "IsNSFW": false,
-          "ModID": 2241,
-          "Name": "Longer Power Lines",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ImUBvjbryvg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60044\nfileID=236059",
-        "Name": "Cho1_CPC_April_2022_Lvl3_Port_Dalton-60044-1-0-1651056550.zip",
-        "Size": 75007,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Choochoo1",
-          "Description": "Harbor themed city plan for Dalton Farm, April 2022 CPC entry",
-          "FileID": 236059,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60044/60044-1651055904-1380723804.jpeg",
-          "IsNSFW": false,
-          "ModID": 60044,
-          "Name": "Port Dalton SS2 April 2022 City Plan Contest entry",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XOS/Z2PezZw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55247\nfileID=220148",
-        "Name": "Spec_Prison-55247-1-0-1635464239.7z",
-        "Size": 33085,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Blackbelt",
-          "Description": "A settlement at Spectacle Island for the commonwealth\u0027s less desirable citizens.",
-          "FileID": 220148,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55247/55247-1635463778-602234265.png",
-          "IsNSFW": false,
-          "ModID": 55247,
-          "Name": "Sim Settlements 2 - Spectacle Prison",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hzdbdavT83I=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53612\nfileID=213917",
-        "Name": "Tenpines Buff a fortified Village-53612-1-0-1628004577.rar",
-        "Size": 21073,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NigauD",
-          "Description": "A fortified village with a foundry and a fort to help the minutemen hold their position in the north.",
-          "FileID": 213917,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53612/53612-1658678021-857011603.png",
-          "IsNSFW": false,
-          "ModID": 53612,
-          "Name": "Tenpines Bluff a fortified Village",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eVc/61oF9qs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=88181\nfileID=335834",
-        "Name": "MCM Booster NG v1.0-88181-1-0-1727896065.7z",
-        "Size": 67908,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VWTrotsky",
-          "Description": "MCM Booster mod update for game version 1.10.984.",
-          "FileID": 335834,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/88181/88181-1727895787-1668703156.png",
-          "IsNSFW": false,
-          "ModID": 88181,
-          "Name": "MCM Booster NG",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "z6G0Qe+U11c=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
-        "Name": "Data_Fallout4 - Textures6.ba2",
-        "Size": 1399972840,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures6.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "z6G0Qe+U11c="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M0QZcAuZV9M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75064\nfileID=337389",
-        "Name": "True Grass - Vines No glow-75064-B-1729436930.rar",
-        "Size": 485,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bethesda",
-          "Description": "Gets rid of invisible shrubs \u002B glowing vines and plants.",
-          "FileID": 337389,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75064/75064-1696107054-1206419466.png",
-          "IsNSFW": false,
-          "ModID": 75064,
-          "Name": "True Grass - Invisible and Glowing Plants FIX",
-          "Version": "A"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BQGOVWfg99Q=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=87228\nfileID=332153",
-        "Name": "Power Armor Idle Stance Fix-87228-1-0-1725002462.7z",
-        "Size": 7716,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "C1PH3RR",
-          "Description": "Fixes the bent legged FO4 Power Armor Stance that was fixed in Fallout 76",
-          "FileID": 332153,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/87228/87228-1725002327-1343726014.png",
-          "IsNSFW": false,
-          "ModID": 87228,
-          "Name": "Fallout 4 - Power Armor Idle Stance Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AhEzntXlbJ4=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4Launcher.exe",
-        "Name": "Fallout4Launcher.exe",
-        "Size": 4520448,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Fallout4Launcher.exe",
-          "GameVersion": "1.10.984.0",
-          "Hash": "AhEzntXlbJ4="
         }
       }
     }
