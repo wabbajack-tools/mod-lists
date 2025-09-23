@@ -1,8 +1,8 @@
 {
   "MachineURL": "SkyGround_Chronicles/W3VO",
   "Name": "Witcher 3 - A Visual Overhaul",
-  "Version": "0.2",
-  "ModListHash": "jEG5wdItDpI=",
+  "Version": "0.3",
+  "ModListHash": "hun3364WUq0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rTvFcX792HU=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7426\nfileID=61808",
-        "Name": "RTXGI unlocker and setting auto-updater-7426-4-04c-1739728925.zip",
-        "Size": 48641,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "emoose",
-          "Description": "DLL hook that allows RTXGI settings to be tweaked again, along with a list of the 1200\u002B hidden INI settings baked into the games EXE.",
-          "FileID": 61808,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7426/7426-1671996996-360126666.png",
-          "IsNSFW": false,
-          "ModID": 7426,
-          "Name": "RTXGI Setting Unlocker",
-          "Version": "4.04a"
         }
       }
     },
@@ -63,21 +42,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NPWVrUinSMc=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10024\nfileID=59736",
-        "Name": "Better Sword Sheathing v1.0-10024-v1-0-1733517018.zip",
-        "Size": 8594,
+        "Hash": "OqpGrn6xOZA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10530\nfileID=62292",
+        "Name": "Attack Collision Overhaul - Leshens-10530-0-2-1741366957.zip",
+        "Size": 1582919,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Riyusso",
-          "Description": "Better left hand animation when sheathing swords.",
-          "FileID": 59736,
+          "Author": "AnArchos",
+          "Description": "Overhauls-fixes weird attack collision angles of Leshens, Spriggans, Hym and Miasmal.",
+          "FileID": 62292,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10024/10024-1733516839-487360485.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10530/10530-1741294034-2114437023.png",
           "IsNSFW": false,
-          "ModID": 10024,
-          "Name": "Better Sword Sheathing",
-          "Version": "v1.0"
+          "ModID": 10530,
+          "Name": "Attack Collision Overhaul - Leshens",
+          "Version": "0.2"
         }
       }
     },
@@ -105,42 +84,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PgQPgm1QvmM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7329\nfileID=56294",
-        "Name": "BIA - LOD Bundle-7329-2-7-1720020654.zip",
-        "Size": 116355232,
+        "Hash": "OeXQj43gBcY=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7072\nfileID=53248",
+        "Name": "00 - BW NPCS - AIO-7072-1-1-1706317748.7z",
+        "Size": 39286480,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PaulR0013 - MerseyRockoff - konyme",
-          "Description": "Definitive collection of 5,800\u002B bug fixes and restored content from across the entire game.",
-          "FileID": 56294,
+          "Author": "zzjay",
+          "Description": "Anna - Syanna - Vivienne - Dettlaff - Regis\n\nFace textures",
+          "FileID": 53248,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7329/7329-1671482532-709880829.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7072/7072-1667310948-1651163270.jpeg",
           "IsNSFW": false,
-          "ModID": 7329,
-          "Name": "Brothers in Arms - TW3 Bug Fix and Restored Content Collection - Next-Gen",
-          "Version": "2.72"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s8EeIKMgfL0=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8842\nfileID=62142",
-        "Name": "CleverMainMenu-8842-3-9-1741033971.rar",
-        "Size": 6554766,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RovanFrost",
-          "Description": "\u0421ustomizable Main Menu",
-          "FileID": 62142,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8842/8842-1710797043-1477721093.jpeg",
-          "IsNSFW": false,
-          "ModID": 8842,
-          "Name": "Clever Main Menu",
-          "Version": "3.9"
+          "ModID": 7072,
+          "Name": "zzjay Blood and Wine NPCs",
+          "Version": "1.0"
         }
       }
     },
@@ -189,42 +147,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "74rxIFISIvg=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7023\nfileID=53231",
-        "Name": "00 - Corinne - Cerys - Var Attre-7023-1-1-1706302276.7z",
-        "Size": 10701746,
+        "Hash": "V1cyv7IIMXg=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10578\nfileID=63423",
+        "Name": "Mods Menu Category-10578-2-1-1745319248.zip",
+        "Size": 10921,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Face retextures for 3 npcs, Corinne tlly, Cerys, and the Var Attre twins.",
-          "FileID": 53231,
+          "Author": "Lewis Elementary - Wasteland Ghost",
+          "Description": "Pre-made localized string to organise mods settings into different category. \n\nMade for Menu Organizer.",
+          "FileID": 63423,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7023/7023-1665661941-1726832071.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10578/10578-1745254708-894397143.png",
           "IsNSFW": false,
-          "ModID": 7023,
-          "Name": "Corinne Tilly - Var Attre Sisters - Cerys Face retextures",
-          "Version": "1.1"
+          "ModID": 10578,
+          "Name": "Community Patch - Mods Menu Category (Classic n Next Gen)",
+          "Version": "2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N6bq1r4pcc0=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9206\nfileID=55747",
-        "Name": "WaterwheelFIXED-9206-1-1-1718019750.7z",
-        "Size": 3567,
+        "Hash": "fzjaB9324TI=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8464\nfileID=51385",
+        "Name": "Corvo Bianco Guests Extended-8464-1-1-1693233337.zip",
+        "Size": 149743,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fanboy88",
-          "Description": "The waterwheel now turns the correct way!",
-          "FileID": 55747,
+          "Author": "MerseyRockoff",
+          "Description": "Ciri and Dandelion will visit and stay in Corvo Bianco alongside your romance choice.",
+          "FileID": 51385,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9206/9206-1717691295-1228966987.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8464/8464-1692999393-1660324288.png",
           "IsNSFW": false,
-          "ModID": 9206,
-          "Name": "Count de la Croix\u0027s Mill FIXED",
-          "Version": "1"
+          "ModID": 8464,
+          "Name": "Corvo Bianco Guests Extended",
+          "Version": "1.1"
         }
       }
     },
@@ -273,42 +231,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GZDn02jr8yU=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6209\nfileID=53229",
-        "Name": "00 - Improved Shani-6209-1-1-1706301281.7z",
-        "Size": 7674732,
+        "Hash": "byTeqvIHWoE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=4893\nfileID=44425",
+        "Name": "T1 - Vanilla to New Style costume by Julia Barcelos-4893-4-0-1672421693.zip",
+        "Size": 6384384,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Shani face retexture",
-          "FileID": 53229,
+          "Author": "Teiji",
+          "Description": "This mod automatically changes Philippa\u0027s vanilla appearance to an alternative appearance when she\u0027s on Avallach\u0027s ship and afterward.",
+          "FileID": 44425,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6209/6209-1638224897-358269281.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/4893/4893-1592795743-1324368418.png",
           "IsNSFW": false,
-          "ModID": 6209,
-          "Name": "Improved Shani - Face",
-          "Version": "1.1"
+          "ModID": 4893,
+          "Name": "Dynamic Costumes - Philippa",
+          "Version": "4.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OKlZzMA3BSI=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10311\nfileID=61077",
-        "Name": "modNeutralFaceMimic1-10311-1-1737583415.zip",
-        "Size": 98374,
+        "Hash": "23o0cTsh2Uw=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5669\nfileID=63204",
+        "Name": "Faction Appearance Project-5669-4-02-1744380426.rar",
+        "Size": 237390288,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Onymaru9",
-          "Description": "Quick mod that alter\u0027s geralt expression while exploring the world. no more raised ugly eyebrow expression",
-          "FileID": 61077,
+          "Author": "ScoutBr0",
+          "Description": "This mod improves the military factions in the game by giving them more lore-friendly variety.",
+          "FileID": 63204,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10311/10311-1737654605-809257548.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5669/5669-1623018034-1792178573.jpeg",
           "IsNSFW": false,
-          "ModID": 10311,
-          "Name": "Neutral Face Mimic",
-          "Version": "1"
+          "ModID": 5669,
+          "Name": "Faction Appearance Project",
+          "Version": "4.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bvRiSX8b/SA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6933\nfileID=41549",
+        "Name": "Keira Metz - Face-6933-1-0-1663449504.7z",
+        "Size": 9476168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zzjay",
+          "Description": "Keira Metz face lift.",
+          "FileID": 41549,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6933/6933-1663448511-1644555817.jpeg",
+          "IsNSFW": false,
+          "ModID": 6933,
+          "Name": "Keira - Face Retexture",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tD5251vPKQU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7918\nfileID=48613",
+        "Name": "New Torch FX-7918-1-22-1681049193.rar",
+        "Size": 2523391,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hyadum",
+          "Description": "This mod changes the visual FX of torches.",
+          "FileID": 48613,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7918/7918-1676338625-167618315.jpeg",
+          "IsNSFW": false,
+          "ModID": 7918,
+          "Name": "New Torch FX",
+          "Version": "1.22"
         }
       }
     },
@@ -336,42 +336,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PvmAQWMs/EU=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6878\nfileID=41389",
-        "Name": "00 - Priscilla-6878-1-0-1662583008.7z",
-        "Size": 3301831,
+        "Hash": "zwDR9u15FqI=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6972\nfileID=53258",
+        "Name": "00 - Philippa-6972-1-1-1-1706363636.7z",
+        "Size": 6063806,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zzjay",
-          "Description": "Priscilla textures",
-          "FileID": 41389,
+          "Description": "Philippa face fix",
+          "FileID": 53258,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6878/6878-1704198802-495033724.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6972/6972-1664484685-1972691261.jpeg",
           "IsNSFW": false,
-          "ModID": 6878,
-          "Name": "Priscilla Face Retexture - by zzjay",
-          "Version": "1.0"
+          "ModID": 6972,
+          "Name": "Philippa - Face Retexture",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cVy8iGfSO58=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10551\nfileID=62722",
-        "Name": "RT CHAR DX12-10551-0-03-1742682859.rar",
-        "Size": 10938555,
+        "Hash": "2PiLEGfse+k=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=4646\nfileID=52849",
+        "Name": "Slim Gloves-4646-2-1-1704646003.zip",
+        "Size": 19023,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BabaBooey88",
-          "Description": "make characters look more better",
-          "FileID": 62722,
+          "Author": "dvcons",
+          "Description": "No more oven-mitt-sized gloves for Geralt.",
+          "FileID": 52849,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10551/10551-1742095955-843018428.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/4646/4646-1587334026-1987403628.jpeg",
           "IsNSFW": false,
-          "ModID": 10551,
-          "Name": "SSAO Tweak",
-          "Version": "0.01"
+          "ModID": 4646,
+          "Name": "Slim Gloves",
+          "Version": "2.0"
         }
       }
     },
@@ -399,21 +399,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LFSOkM4GIlo=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=5489\nfileID=35014",
-        "Name": "00 - Triss 4k - Smoother-5489-1-1-1617712414.7z",
-        "Size": 9846720,
+        "Hash": "vDFZtBOz/Rg=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=3722\nfileID=52703",
+        "Name": "Triss Glorified - All In One-3722-v1-05-1703808676.rar",
+        "Size": 160705759,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Younger, but not over the top appearance for Triss. 4k retexture.",
-          "FileID": 35014,
+          "Author": "bathsebah",
+          "Description": "a lore-ish redesign of Triss\u0027 clothes",
+          "FileID": 52703,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5489/5489-1612712502-1963989047.jpeg",
-          "IsNSFW": false,
-          "ModID": 5489,
-          "Name": "Triss 4k Face Retexture",
-          "Version": "1.1.1"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/3722/3722-1563929797-1761628154.png",
+          "IsNSFW": true,
+          "ModID": 3722,
+          "Name": "Triss (G)Lorified - Wardrobe (1.32 and Next-Gen compatible)",
+          "Version": "v1.05"
         }
       }
     },
@@ -441,20 +441,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BmoOvyNdfgM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7734\nfileID=45766",
-        "Name": "Yennefer Better Hair-7734-1-0-1674124379.rar",
-        "Size": 16791701,
+        "Hash": "SuFmnvfudEo=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7008\nfileID=41788",
+        "Name": "00 - Ves-7008-1-0-1665329041.7z",
+        "Size": 4812122,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EzioMaverick",
-          "Description": "Changes Yennefer Hair",
-          "FileID": 45766,
+          "Author": "zzjay",
+          "Description": "Ves Facelift",
+          "FileID": 41788,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7734/7734-1674124158-885131008.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7008/7008-1665328354-469843473.jpeg",
           "IsNSFW": false,
-          "ModID": 7734,
-          "Name": "Yennefer Better Hair Mod.",
+          "ModID": 7008,
+          "Name": "Ves - Facelift",
           "Version": "1.0"
         }
       }
@@ -475,42 +475,651 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3KlIY10J57s=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7919\nfileID=55659",
-        "Name": "Fix Ciri Invul (Next-Gen 4.04)-7919-0-2-1717914511.zip",
-        "Size": 1103,
+        "Hash": "VEjgK0X4KjQ=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=2110\nfileID=56429",
+        "Name": "modSharedImports-v0.6 - NEXT-GEN.zip-2110-v0-6-1720539533.zip",
+        "Size": 24936,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "crthdr",
-          "Description": "Fixes broken invulnerability for Ciri",
-          "FileID": 55659,
+          "Author": "rmemr",
+          "Description": "Collection of fully imported classes (all attributes) without any functionality on its own. Meant as a baseline dependency for other mods to reduce merge conflicts.",
+          "FileID": 56429,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7919/7919-1676439533-875834020.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/2110/2110-1557073017-1674435141.png",
           "IsNSFW": false,
-          "ModID": 7919,
-          "Name": "Fix Ciri Invul",
-          "Version": "0.2"
+          "ModID": 2110,
+          "Name": "Community Patch - Shared Imports",
+          "Version": "v0.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7lNP9Obe2kY=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=4766\nfileID=63716",
-        "Name": "VGX Skellige Boats-4766-1-02-1747083254.rar",
-        "Size": 12419,
+        "Hash": "s8EeIKMgfL0=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8842\nfileID=62142",
+        "Name": "CleverMainMenu-8842-3-9-1741033971.rar",
+        "Size": 6554766,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RovanFrost",
+          "Description": "\u0421ustomizable Main Menu",
+          "FileID": 62142,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8842/8842-1710797043-1477721093.jpeg",
+          "IsNSFW": false,
+          "ModID": 8842,
+          "Name": "Clever Main Menu",
+          "Version": "3.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sE4DtgrD3FM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=11216\nfileID=65598",
+        "Name": "Bald Mountain Oak Tree LOD Fix-11216-0-1-1756305405.rar",
+        "Size": 34894,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "merigoldmaribor",
+          "Description": "This mod fixes the LOD distance of the Oak Tree in Bald Mountain",
+          "FileID": 65598,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/11216/11216-1756304894-1920706866.png",
+          "IsNSFW": false,
+          "ModID": 11216,
+          "Name": "Bald Mountain Oak Tree LOD Fix",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "erJyQGfu+8o=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6970\nfileID=41656",
+        "Name": "00 - Fringilla-6970-1-0-1664402972.7z",
+        "Size": 3364997,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zzjay",
+          "Description": "Fringilla facelift",
+          "FileID": 41656,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6970/6970-1664402388-822942672.jpeg",
+          "IsNSFW": false,
+          "ModID": 6970,
+          "Name": "Fringilla - Face Retexture",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R1uaX2EnzLk=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=1350\nfileID=8343",
+        "Name": "Next_Gen_Candles-1350-1-0.rar",
+        "Size": 11993055,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Boostin4kix",
+          "Description": "Increases mesh quality of all candles in game",
+          "FileID": 8343,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/1350-2-1457858423.jpg",
+          "IsNSFW": false,
+          "ModID": 1350,
+          "Name": "Next Gen Candles",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cVy8iGfSO58=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10551\nfileID=62722",
+        "Name": "RT CHAR DX12-10551-0-03-1742682859.rar",
+        "Size": 10938555,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BabaBooey88",
+          "Description": "make characters look more better",
+          "FileID": 62722,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10551/10551-1742095955-843018428.jpeg",
+          "IsNSFW": false,
+          "ModID": 10551,
+          "Name": "SSAO Tweak",
+          "Version": "0.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FgzLD4sbeMA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8521\nfileID=51817",
+        "Name": "DUI Crossbow Fix (Next Gen)-8521-4-04-1696815279.zip",
+        "Size": 816756,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Khoover - Lolzzl",
+          "Description": "Stops toxicity damage from forcefully holstering Geralt\u0027s crossbow.",
+          "FileID": 51817,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8521/8521-1694677372-1457945433.png",
+          "IsNSFW": false,
+          "ModID": 8521,
+          "Name": "DUI Crossbow Fix (Next Gen)",
+          "Version": "4.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "W57WGI569Wc=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7173\nfileID=54597",
+        "Name": "Fix Stuck Quest Items-7173-1-11-1713701323.zip",
+        "Size": 42672,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MerseyRockoff",
+          "Description": "Quest items will no longer get stuck on the left pane of the inventory.",
+          "FileID": 54597,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7173/7173-1671042346-1161029979.jpeg",
+          "IsNSFW": false,
+          "ModID": 7173,
+          "Name": "Fix Stuck Quest Items - Next-Gen",
+          "Version": "1.11"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QPRZtKQAh5U=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9614\nfileID=57825",
+        "Name": "Sound pause when reading books-9614-1-0-1725211857.7z",
+        "Size": 5672,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Akatoshka7",
+          "Description": "Have you noticed that when Geralt or another character comments on something, and at the same time a hint pops up to read a book after picking it up, if you start reading it, they do not stop talking, although the game is paused? Then this mod is for you!",
+          "FileID": 57825,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9614/9614-1725213332-1509055978.jpeg",
+          "IsNSFW": false,
+          "ModID": 9614,
+          "Name": "Sound pause when reading books (Classic and Next Gen)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pA8enoHmcrE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9780\nfileID=58834",
+        "Name": "Beauclair_NPC_Spawn_Fix-9780-v1-3-1729726890.zip",
+        "Size": 136644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "apokryphos",
+          "Description": "Fixes the way NPCs spawn right in front of the player\u0027s face when wandering around the city of Beauclair in Toussaint.",
+          "FileID": 58834,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9780/9780-1728657713-257470757.png",
+          "IsNSFW": false,
+          "ModID": 9780,
+          "Name": "Beauclair NPC Spawn Fix",
+          "Version": "v1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QkyCfWgzVTA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9022\nfileID=55988",
+        "Name": "Larger White Orchard-9022-1-01-1718563578.rar",
+        "Size": 11774,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ScoutBr0",
-          "Description": "Brings back the Drakkars seen in the Kaer Trolde Harbor",
-          "FileID": 63716,
+          "Description": "Makes White Orchard appear larger",
+          "FileID": 55988,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/4766/4766-1590271802-537807977.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9022/9022-1713295176-1370624355.jpeg",
           "IsNSFW": false,
-          "ModID": 4766,
-          "Name": "E3 2013 Skellige Boats",
+          "ModID": 9022,
+          "Name": "Larger White Orchard",
           "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PvmAQWMs/EU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6878\nfileID=41389",
+        "Name": "00 - Priscilla-6878-1-0-1662583008.7z",
+        "Size": 3301831,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zzjay",
+          "Description": "Priscilla textures",
+          "FileID": 41389,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6878/6878-1704198802-495033724.jpeg",
+          "IsNSFW": false,
+          "ModID": 6878,
+          "Name": "Priscilla Face Retexture - by zzjay",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LFSOkM4GIlo=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5489\nfileID=35014",
+        "Name": "00 - Triss 4k - Smoother-5489-1-1-1617712414.7z",
+        "Size": 9846720,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zzjay",
+          "Description": "Younger, but not over the top appearance for Triss. 4k retexture.",
+          "FileID": 35014,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5489/5489-1612712502-1963989047.jpeg",
+          "IsNSFW": false,
+          "ModID": 5489,
+          "Name": "Triss 4k Face Retexture",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XugJDDTtKAM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=3537\nfileID=51787",
+        "Name": "VGX Village Cutscene-3537-1-1-1696548235.rar",
+        "Size": 2371053,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hyadum",
+          "Description": "Edits the famous Heatherton village cutscene to look more like the trailer shown at VGX. Next Gen compatible.",
+          "FileID": 51787,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/3537/3537-1696547830-444577423.jpeg",
+          "IsNSFW": false,
+          "ModID": 3537,
+          "Name": "VGX Burning Village Cutscene",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s6AmTXbvlYI=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9482\nfileID=57119",
+        "Name": "Merged File List-9482-1-0-1722821431.zip",
+        "Size": 1058,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Evannee45",
+          "Description": "A \u0022Guide\u0022 for setting up Mod Organizer 2 for The Witcher 3",
+          "FileID": 57119,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9482/9482-1722821075-300110817.png",
+          "IsNSFW": false,
+          "ModID": 9482,
+          "Name": "Mod Organizer 2 - Barely Working Setup for The Witcher 3",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wswmBaublGE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7221\nfileID=53037",
+        "Name": "Enable Jumping in Water-7221-1-3-1705444930.rar",
+        "Size": 81107,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "instanity",
+          "Description": "Enables Jumping in Water for Next-Gen (Should work in previous versions too)",
+          "FileID": 53037,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7221/7221-1671165688-1077613561.png",
+          "IsNSFW": false,
+          "ModID": 7221,
+          "Name": "Enable Jumping in Shallow Water for Next-Gen",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DHhGEOhpC7I=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10389\nfileID=62114",
+        "Name": "Rational Crafting-10389-1-1-0-1740949402.zip",
+        "Size": 33070,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dyvalas",
+          "Description": "Better sorting and categorization for item recipes in the crafting panel.",
+          "FileID": 62114,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10389/10389-1738933874-1561323769.jpeg",
+          "IsNSFW": false,
+          "ModID": 10389,
+          "Name": "Rational Crafting",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z1YsH3YvFtc=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8486\nfileID=51456",
+        "Name": "Green Axii FX 1.1-8486-4-04-1693703751.zip",
+        "Size": 43016513,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lolzzl",
+          "Description": "Changes the color of Axii to green on top of upscaling the textures up to 8k.",
+          "FileID": 51456,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8486/8486-1693013056-219133901.png",
+          "IsNSFW": false,
+          "ModID": 8486,
+          "Name": "Green Axii FX (Next Gen)",
+          "Version": "4.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YXauCz0OsQY=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10545\nfileID=62447",
+        "Name": "FaceThem_NextGen_Bugfixed-10545-1-0-1741902874.zip",
+        "Size": 102335,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "r0ckwolf",
+          "Description": "This is an updated and bugfixed version of the Face Them mod, for Next Gen Update (v4.04\u002B). Igni Firestream fix and Horseback head tracking fix.",
+          "FileID": 62447,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10545/10545-1741903093-1008333701.png",
+          "IsNSFW": false,
+          "ModID": 10545,
+          "Name": "Face Them - Next Gen - Bugfixed",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d/Twz6ZtAQ4=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=943\nfileID=42698",
+        "Name": "modMapQuestObjectives-4.00-v11.zip-943-4-00-11-1671077203.zip",
+        "Size": 1500741,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wolfmark",
+          "Description": "Shows on map all objectives for all player\u0027s active quests. Like tracking multiple quests in the same time. You can also change the currently tracked objective without going to the Quests menu. Optionally can cache the location of discovered merchants.",
+          "FileID": 42698,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/943-2-1472915050.jpg",
+          "IsNSFW": false,
+          "ModID": 943,
+          "Name": "All Quest Objectives On Map",
+          "Version": "4.03.13"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UQ4lr0+dThA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=4734\nfileID=52910",
+        "Name": "4K Armor Textures-4734-3-2-1705012248.zip",
+        "Size": 1676953929,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dvcons",
+          "Description": "Desaturated armor textures with improved details.",
+          "FileID": 52910,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/4734/4734-1704737981-546993140.jpeg",
+          "IsNSFW": false,
+          "ModID": 4734,
+          "Name": "4K Armor Textures",
+          "Version": "3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cL7IWkoOcrA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10447\nfileID=62917",
+        "Name": "Better Grass AO-10447-1-0-1743376538.zip",
+        "Size": 268474,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ard Carraigh",
+          "Description": "Adds baked Ambient Occlusion to grass assets to improve their look.",
+          "FileID": 62917,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10447/10447-1743377455-1315765767.png",
+          "IsNSFW": false,
+          "ModID": 10447,
+          "Name": "Better Grass Ambient Occlusion",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TDYV/XM657s=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7329\nfileID=56295",
+        "Name": "BIA - Optional Add-On-7329-2-7-1720020685.zip",
+        "Size": 794186,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PaulR0013 - MerseyRockoff - konyme",
+          "Description": "Definitive collection of 5,800\u002B bug fixes and restored content from across the entire game.",
+          "FileID": 56295,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7329/7329-1671482532-709880829.jpeg",
+          "IsNSFW": false,
+          "ModID": 7329,
+          "Name": "Brothers in Arms - TW3 Bug Fix and Restored Content Collection - Next-Gen",
+          "Version": "2.72"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7Mo55W5HOhU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=685\nfileID=3892",
+        "Name": "Lore Friendly Ciri Eyes-685-1-1.rar",
+        "Size": 190295,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wzol",
+          "Description": "Changes Ciri\u0027s appearance to match the lore and my personal taste.",
+          "FileID": 3892,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/685-0-1493401637.png",
+          "IsNSFW": false,
+          "ModID": 685,
+          "Name": "Lore Friendly Ciri",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PIqm8VM937Y=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8236\nfileID=65342",
+        "Name": "Morgue Lights Fix-8236-1-2-1755112856.rar",
+        "Size": 23341,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ScoutBr0",
+          "Description": "Fixes the lights inside the morgue in Novigrad",
+          "FileID": 65342,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8236/8236-1685636756-963299015.jpeg",
+          "IsNSFW": false,
+          "ModID": 8236,
+          "Name": "Morgue Lights Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YsMRvakbDtg=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8454\nfileID=51142",
+        "Name": "No Missable Trophies-8454-1-0-1691697086.zip",
+        "Size": 9861,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MerseyRockoff",
+          "Description": "Allows for a way how to obtain all missable trophies.",
+          "FileID": 51142,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8454/8454-1691697008-542077924.jpeg",
+          "IsNSFW": false,
+          "ModID": 8454,
+          "Name": "No Missable Trophies - Next-Gen",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V2T6QgEo9F4=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5657\nfileID=53232",
+        "Name": "00 - Yennefer 4k - Legacy Version-5657-1-2-1706303092.7z",
+        "Size": 8514962,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zzjay",
+          "Description": "Face retexture for Yen.\n\nHigh res version,\n\nTrue to the concept.",
+          "FileID": 53232,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5657/5657-1618248584-1685175384.jpeg",
+          "IsNSFW": false,
+          "ModID": 5657,
+          "Name": "Yennefer 4k Face Texture - by zzjay",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HGVzvLz5XhQ=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10591\nfileID=63537",
+        "Name": "Characters HiRes Shadows-10591-1-2-1746062190.zip",
+        "Size": 51904,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rmemr and Ard Carraigh",
+          "Description": "Brings high resolution shadows to all characters of the game.",
+          "FileID": 63537,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10591/10591-1742425951-1890774249.png",
+          "IsNSFW": false,
+          "ModID": 10591,
+          "Name": "Characters Hi-Res Shadows - Next Gen",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E+JwrRQy47Q=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10280\nfileID=60908",
+        "Name": "Fix Boat Speed (Any game version)-10280-1-0-1737108971.zip",
+        "Size": 4390,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "crthdr",
+          "Description": "Fixes not being able to \u0022sprint\u0022 boat",
+          "FileID": 60908,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10280/10280-1737108902-197824957.png",
+          "IsNSFW": false,
+          "ModID": 10280,
+          "Name": "Fix Boat Speed",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KMRj51+VXj4=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5710\nfileID=35586",
+        "Name": "A1. Males of the Continent-5710-1-0-1620780648.rar",
+        "Size": 1916016413,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dbd17",
+          "Description": "Improves upon all vanilla Human \u0026amp; Humanoid skin textures.",
+          "FileID": 35586,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5710/5710-1620861873-944125822.jpeg",
+          "IsNSFW": true,
+          "ModID": 5710,
+          "Name": "Humans of the Continent 4K-2K Textures",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y3M5YE1WT1s=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=1515\nfileID=9276",
+        "Name": "Next_Gen_Haystacks-1515-1-0.rar",
+        "Size": 1965364,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Boostin4kix",
+          "Description": "Improved mesh quality of all known haystacks",
+          "FileID": 9276,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/1515-1-1463714220.jpg",
+          "IsNSFW": false,
+          "ModID": 1515,
+          "Name": "Next Gen Hay Stacks",
+          "Version": "1.0"
         }
       }
     },
@@ -559,21 +1168,210 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HGVzvLz5XhQ=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10591\nfileID=63537",
-        "Name": "Characters HiRes Shadows-10591-1-2-1746062190.zip",
-        "Size": 51904,
+        "Hash": "Qzw9QN/cSL4=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=342\nfileID=50323",
+        "Name": "Indestructible Items (4.03)-342-4-03-1688941217.zip",
+        "Size": 145170,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rmemr and Ard Carraigh",
-          "Description": "Brings high resolution shadows to all characters of the game.",
-          "FileID": 63537,
+          "Author": "SunBroDave",
+          "Description": "Removes weapon degradation so Geralt\u0027s weapons and armor will always be at 100% durability. Updated for the Next-Gen Update (v4.00)! Works with both Steam and GOG versions.",
+          "FileID": 50323,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10591/10591-1742425951-1890774249.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/342-0-1439698415.jpg",
           "IsNSFW": false,
-          "ModID": 10591,
-          "Name": "Characters Hi-Res Shadows - Next Gen",
-          "Version": "1.2"
+          "ModID": 342,
+          "Name": "Indestructible Items - No More Weapon Degradation (Next-Gen Update Compatible)",
+          "Version": "4.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NPWVrUinSMc=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10024\nfileID=59736",
+        "Name": "Better Sword Sheathing v1.0-10024-v1-0-1733517018.zip",
+        "Size": 8594,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Riyusso",
+          "Description": "Better left hand animation when sheathing swords.",
+          "FileID": 59736,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10024/10024-1733516839-487360485.jpeg",
+          "IsNSFW": false,
+          "ModID": 10024,
+          "Name": "Better Sword Sheathing",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PgQPgm1QvmM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7329\nfileID=56294",
+        "Name": "BIA - LOD Bundle-7329-2-7-1720020654.zip",
+        "Size": 116355232,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PaulR0013 - MerseyRockoff - konyme",
+          "Description": "Definitive collection of 5,800\u002B bug fixes and restored content from across the entire game.",
+          "FileID": 56294,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7329/7329-1671482532-709880829.jpeg",
+          "IsNSFW": false,
+          "ModID": 7329,
+          "Name": "Brothers in Arms - TW3 Bug Fix and Restored Content Collection - Next-Gen",
+          "Version": "2.72"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QIFWjM6jZQA=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10038\nfileID=59805",
+        "Name": "BeardsColorBlend-10038-1-0-1733833124.zip",
+        "Size": 258071,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Serj",
+          "Description": "Identical colour and density to beard and hair, with Next Gen change/fix.",
+          "FileID": 59805,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10038/10038-1733832869-1591834680.png",
+          "IsNSFW": false,
+          "ModID": 10038,
+          "Name": "HairWorks Beard Fix NEXT GEN",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TNR7kkLX4EM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9203\nfileID=55686",
+        "Name": "Fix Boat Senses Sound (Next-Gen 4.04)-9203-0-2-1718005510.zip",
+        "Size": 1139,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "crthdr",
+          "Description": "Fixes missing senses sound muffling when sailing on boat",
+          "FileID": 55686,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9203/9203-1717667086-390710068.png",
+          "IsNSFW": false,
+          "ModID": 9203,
+          "Name": "Fix Boat Senses Sound",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4BNhWBdi4UU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=685\nfileID=8532",
+        "Name": "Lore Friendly Ciri Face-685-1-0.rar",
+        "Size": 4997910,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wzol",
+          "Description": "Changes Ciri\u0027s appearance to match the lore and my personal taste.",
+          "FileID": 8532,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/685-0-1493401637.png",
+          "IsNSFW": false,
+          "ModID": 685,
+          "Name": "Lore Friendly Ciri",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BmoOvyNdfgM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7734\nfileID=45766",
+        "Name": "Yennefer Better Hair-7734-1-0-1674124379.rar",
+        "Size": 16791701,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "EzioMaverick",
+          "Description": "Changes Yennefer Hair",
+          "FileID": 45766,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7734/7734-1674124158-885131008.png",
+          "IsNSFW": false,
+          "ModID": 7734,
+          "Name": "Yennefer Better Hair Mod.",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3KlIY10J57s=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7919\nfileID=55659",
+        "Name": "Fix Ciri Invul (Next-Gen 4.04)-7919-0-2-1717914511.zip",
+        "Size": 1103,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "crthdr",
+          "Description": "Fixes broken invulnerability for Ciri",
+          "FileID": 55659,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7919/7919-1676439533-875834020.png",
+          "IsNSFW": false,
+          "ModID": 7919,
+          "Name": "Fix Ciri Invul",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5qAdLV3o6nU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=1372\nfileID=16337",
+        "Name": "HD Chainmail for Viper Armors-1372-2-0.zip",
+        "Size": 1520764,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CAPA",
+          "Description": "Makes Belly and Back parts of the Viper Armors(default and v2), have HD Chainmail based on the Shoulders material.\r\n\nTHIS IS NOT A TEXTURE MOD!",
+          "FileID": 16337,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/1372-3-1458507211.jpg",
+          "IsNSFW": false,
+          "ModID": 1372,
+          "Name": "HD Chainmail for Viper Armors",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G1IKd0Ab00g=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8867\nfileID=53781",
+        "Name": "Triss Book Locks - Chestnut-8867-v1-00-1708359413.zip",
+        "Size": 1337231,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bathsebah",
+          "Description": "custom hairstyle for Triss that fits her book description; Next-Gen compatible.",
+          "FileID": 53781,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8867/8867-1708363522-1101716705.png",
+          "IsNSFW": false,
+          "ModID": 8867,
+          "Name": "Triss Book Locks - Glorified Cont\u0027d",
+          "Version": "1.00"
         }
       }
     },
@@ -622,125 +1420,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Xd7Rs/2ztzs=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8732\nfileID=65600",
-        "Name": "Cat Hood Fix-8732-1-02-1756313767.rar",
-        "Size": 69877,
+        "Hash": "hTyH1bhPVM0=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5710\nfileID=35582",
+        "Name": "C1. Children of the Continent-5710-1-0-1620777532.rar",
+        "Size": 34430941,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ScoutBr0",
-          "Description": "Fixes the shadow issue on the hood of the Grandmaster Cat Armor",
-          "FileID": 65600,
+          "Author": "dbd17",
+          "Description": "Improves upon all vanilla Human \u0026amp; Humanoid skin textures.",
+          "FileID": 35582,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8732/8732-1704307894-1463749904.png",
-          "IsNSFW": false,
-          "ModID": 8732,
-          "Name": "Cat Hood Fix",
-          "Version": "1.2"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5710/5710-1620861873-944125822.jpeg",
+          "IsNSFW": true,
+          "ModID": 5710,
+          "Name": "Humans of the Continent 4K-2K Textures",
+          "Version": "1.0.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xPV5f4R8kjE=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7036\nfileID=41918",
-        "Name": "00 - Iris-7036-1-0-1666013308.7z",
-        "Size": 5524345,
+        "Hash": "5BEe/w+Ts5g=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5886\nfileID=36505",
+        "Name": "Anarietta Better Make Up-5886-1-0-1627283646.zip",
+        "Size": 3302254,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DeadRisingSkins",
+          "Description": "HD Make Up for Anarietta",
+          "FileID": 36505,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5886/5886-1627283303-932122596.jpeg",
+          "IsNSFW": false,
+          "ModID": 5886,
+          "Name": "Anna Henrietta Hd Make Up",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "74rxIFISIvg=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7023\nfileID=53231",
+        "Name": "00 - Corinne - Cerys - Var Attre-7023-1-1-1706302276.7z",
+        "Size": 10701746,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zzjay",
-          "Description": "iris face lift",
-          "FileID": 41918,
+          "Description": "Face retextures for 3 npcs, Corinne tlly, Cerys, and the Var Attre twins.",
+          "FileID": 53231,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7036/7036-1666012397-393764679.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7023/7023-1665661941-1726832071.jpeg",
           "IsNSFW": false,
-          "ModID": 7036,
-          "Name": "Iris Face Retexture",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YsMRvakbDtg=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8454\nfileID=51142",
-        "Name": "No Missable Trophies-8454-1-0-1691697086.zip",
-        "Size": 9861,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MerseyRockoff",
-          "Description": "Allows for a way how to obtain all missable trophies.",
-          "FileID": 51142,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8454/8454-1691697008-542077924.jpeg",
-          "IsNSFW": false,
-          "ModID": 8454,
-          "Name": "No Missable Trophies - Next-Gen",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d/Twz6ZtAQ4=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=943\nfileID=42698",
-        "Name": "modMapQuestObjectives-4.00-v11.zip-943-4-00-11-1671077203.zip",
-        "Size": 1500741,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wolfmark",
-          "Description": "Shows on map all objectives for all player\u0027s active quests. Like tracking multiple quests in the same time. You can also change the currently tracked objective without going to the Quests menu. Optionally can cache the location of discovered merchants.",
-          "FileID": 42698,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/943-2-1472915050.jpg",
-          "IsNSFW": false,
-          "ModID": 943,
-          "Name": "All Quest Objectives On Map",
-          "Version": "4.03.13"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "W57WGI569Wc=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7173\nfileID=54597",
-        "Name": "Fix Stuck Quest Items-7173-1-11-1713701323.zip",
-        "Size": 42672,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MerseyRockoff",
-          "Description": "Quest items will no longer get stuck on the left pane of the inventory.",
-          "FileID": 54597,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7173/7173-1671042346-1161029979.jpeg",
-          "IsNSFW": false,
-          "ModID": 7173,
-          "Name": "Fix Stuck Quest Items - Next-Gen",
-          "Version": "1.11"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fzjaB9324TI=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8464\nfileID=51385",
-        "Name": "Corvo Bianco Guests Extended-8464-1-1-1693233337.zip",
-        "Size": 149743,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MerseyRockoff",
-          "Description": "Ciri and Dandelion will visit and stay in Corvo Bianco alongside your romance choice.",
-          "FileID": 51385,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8464/8464-1692999393-1660324288.png",
-          "IsNSFW": false,
-          "ModID": 8464,
-          "Name": "Corvo Bianco Guests Extended",
+          "ModID": 7023,
+          "Name": "Corinne Tilly - Var Attre Sisters - Cerys Face retextures",
           "Version": "1.1"
         }
       }
@@ -748,141 +1483,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PIqm8VM937Y=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8236\nfileID=65342",
-        "Name": "Morgue Lights Fix-8236-1-2-1755112856.rar",
-        "Size": 23341,
+        "Hash": "N6bq1r4pcc0=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9206\nfileID=55747",
+        "Name": "WaterwheelFIXED-9206-1-1-1718019750.7z",
+        "Size": 3567,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fanboy88",
+          "Description": "The waterwheel now turns the correct way!",
+          "FileID": 55747,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9206/9206-1717691295-1228966987.jpeg",
+          "IsNSFW": false,
+          "ModID": 9206,
+          "Name": "Count de la Croix\u0027s Mill FIXED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7lNP9Obe2kY=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=4766\nfileID=63716",
+        "Name": "VGX Skellige Boats-4766-1-02-1747083254.rar",
+        "Size": 12419,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ScoutBr0",
-          "Description": "Fixes the lights inside the morgue in Novigrad",
-          "FileID": 65342,
+          "Description": "Brings back the Drakkars seen in the Kaer Trolde Harbor",
+          "FileID": 63716,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8236/8236-1685636756-963299015.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/4766/4766-1590271802-537807977.jpeg",
           "IsNSFW": false,
-          "ModID": 8236,
-          "Name": "Morgue Lights Fix",
-          "Version": "1.0"
+          "ModID": 4766,
+          "Name": "E3 2013 Skellige Boats",
+          "Version": "1.01"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tdyQLktnBoM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9396\nfileID=57276",
-        "Name": "Elysium v2-9396-2-0-1723320442.7z",
-        "Size": 32262131,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maidenfan724",
-          "Description": "A lush, verdant, and efflorescent grass mod for Next Gen!",
-          "FileID": 57276,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9396/9396-1721615539-1657257958.jpeg",
-          "IsNSFW": false,
-          "ModID": 9396,
-          "Name": "Elysium - A Complete Next Gen Grass Overhaul",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DHhGEOhpC7I=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10389\nfileID=62114",
-        "Name": "Rational Crafting-10389-1-1-0-1740949402.zip",
-        "Size": 33070,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dyvalas",
-          "Description": "Better sorting and categorization for item recipes in the crafting panel.",
-          "FileID": 62114,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10389/10389-1738933874-1561323769.jpeg",
-          "IsNSFW": false,
-          "ModID": 10389,
-          "Name": "Rational Crafting",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s6AmTXbvlYI=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9482\nfileID=57119",
-        "Name": "Merged File List-9482-1-0-1722821431.zip",
-        "Size": 1058,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Evannee45",
-          "Description": "A \u0022Guide\u0022 for setting up Mod Organizer 2 for The Witcher 3",
-          "FileID": 57119,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9482/9482-1722821075-300110817.png",
-          "IsNSFW": false,
-          "ModID": 9482,
-          "Name": "Mod Organizer 2 - Barely Working Setup for The Witcher 3",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hBh95hq0MSI=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6255\nfileID=52752",
-        "Name": "00 - Dandelion Outfit Magenta-6255-1-1-1704201327.7z",
-        "Size": 4130922,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Improves Dandelion\u0027s outfit texture, balancing the colors out to look more natural and less out of place.",
-          "FileID": 52752,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6255/6255-1704199122-819470138.jpeg",
-          "IsNSFW": false,
-          "ModID": 6255,
-          "Name": "Dandelion Outfit - Magenta",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tD5251vPKQU=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7918\nfileID=48613",
-        "Name": "New Torch FX-7918-1-22-1681049193.rar",
-        "Size": 2523391,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hyadum",
-          "Description": "This mod changes the visual FX of torches.",
-          "FileID": 48613,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7918/7918-1676338625-167618315.jpeg",
-          "IsNSFW": false,
-          "ModID": 7918,
-          "Name": "New Torch FX",
-          "Version": "1.22"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G1IKd0Ab00g=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8867\nfileID=53781",
-        "Name": "Triss Book Locks - Chestnut-8867-v1-00-1708359413.zip",
-        "Size": 1337231,
+        "Hash": "hYDyL+VESpY=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8867\nfileID=53784",
+        "Name": "dlc6 Triss Book Locks - Chestnut-8867-v1-00-1708359544.zip",
+        "Size": 1337308,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "bathsebah",
           "Description": "custom hairstyle for Triss that fits her book description; Next-Gen compatible.",
-          "FileID": 53781,
+          "FileID": 53784,
           "GameName": "Witcher3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8867/8867-1708363522-1101716705.png",
           "IsNSFW": false,
@@ -937,63 +1588,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FDjYRjo7Weo=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8829\nfileID=53480",
-        "Name": "They cant be saved-8829-1-1707043306.zip",
-        "Size": 22641788,
+        "Hash": "Xd7Rs/2ztzs=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8732\nfileID=65600",
+        "Name": "Cat Hood Fix-8732-1-02-1756313767.rar",
+        "Size": 69877,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dhu Blaidd",
-          "Description": "Children in better quality for next Gen! Brought my Children by the Paws from Old Gen.",
-          "FileID": 53480,
+          "Author": "ScoutBr0",
+          "Description": "Fixes the shadow issue on the hood of the Grandmaster Cat Armor",
+          "FileID": 65600,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8829/8829-1707042814-696290936.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8732/8732-1704307894-1463749904.png",
           "IsNSFW": false,
-          "ModID": 8829,
-          "Name": "Children - Next Gen",
-          "Version": "1"
+          "ModID": 8732,
+          "Name": "Cat Hood Fix",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bvRiSX8b/SA=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6933\nfileID=41549",
-        "Name": "Keira Metz - Face-6933-1-0-1663449504.7z",
-        "Size": 9476168,
+        "Hash": "bdIJ6icVItI=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10998\nfileID=65816",
+        "Name": "RedanianRoyalShip-10998-1-2-1757542347.zip",
+        "Size": 20714718,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Keira Metz face lift.",
-          "FileID": 41549,
+          "Author": "Rev3nuss",
+          "Description": "Mod improves and fixes meshes and textures of the HMS Oxenfurt-Tretogor and Roche\u0027s ship.",
+          "FileID": 65816,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6933/6933-1663448511-1644555817.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10998/10998-1757543519-741039002.jpg",
           "IsNSFW": false,
-          "ModID": 6933,
-          "Name": "Keira - Face Retexture",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vDFZtBOz/Rg=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=3722\nfileID=52703",
-        "Name": "Triss Glorified - All In One-3722-v1-05-1703808676.rar",
-        "Size": 160705759,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bathsebah",
-          "Description": "a lore-ish redesign of Triss\u0027 clothes",
-          "FileID": 52703,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/3722/3722-1563929797-1761628154.png",
-          "IsNSFW": true,
-          "ModID": 3722,
-          "Name": "Triss (G)Lorified - Wardrobe (1.32 and Next-Gen compatible)",
-          "Version": "v1.05"
+          "ModID": 10998,
+          "Name": "HMS Oxenfurt-Tretogor Fixes and Improvements",
+          "Version": "1.2"
         }
       }
     },
@@ -1021,42 +1651,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V1cyv7IIMXg=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10578\nfileID=63423",
-        "Name": "Mods Menu Category-10578-2-1-1745319248.zip",
-        "Size": 10921,
+        "Hash": "tdyQLktnBoM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9396\nfileID=57276",
+        "Name": "Elysium v2-9396-2-0-1723320442.7z",
+        "Size": 32262131,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lewis Elementary - Wasteland Ghost",
-          "Description": "Pre-made localized string to organise mods settings into different category. \n\nMade for Menu Organizer.",
-          "FileID": 63423,
+          "Author": "Maidenfan724",
+          "Description": "A lush, verdant, and efflorescent grass mod for Next Gen!",
+          "FileID": 57276,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10578/10578-1745254708-894397143.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9396/9396-1721615539-1657257958.jpeg",
           "IsNSFW": false,
-          "ModID": 10578,
-          "Name": "Community Patch - Mods Menu Category (Classic n Next Gen)",
-          "Version": "2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "23o0cTsh2Uw=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=5669\nfileID=63204",
-        "Name": "Faction Appearance Project-5669-4-02-1744380426.rar",
-        "Size": 237390288,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ScoutBr0",
-          "Description": "This mod improves the military factions in the game by giving them more lore-friendly variety.",
-          "FileID": 63204,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5669/5669-1623018034-1792178573.jpeg",
-          "IsNSFW": false,
-          "ModID": 5669,
-          "Name": "Faction Appearance Project",
-          "Version": "4.01"
+          "ModID": 9396,
+          "Name": "Elysium - A Complete Next Gen Grass Overhaul",
+          "Version": "2.0"
         }
       }
     },
@@ -1105,6 +1714,153 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3UrpQSegxW4=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7576\nfileID=55657",
+        "Name": "Weight (Next-Gen 4.04)-7576-0-5-1717914312.zip",
+        "Size": 1084,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "crthdr",
+          "Description": "Weightless runes, glyphs, repair kits, dyes, bolts, trophies and quest items",
+          "FileID": 55657,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7576/7576-1675470913-1109265204.png",
+          "IsNSFW": false,
+          "ModID": 7576,
+          "Name": "Weight",
+          "Version": "0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hBh95hq0MSI=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6255\nfileID=52752",
+        "Name": "00 - Dandelion Outfit Magenta-6255-1-1-1704201327.7z",
+        "Size": 4130922,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zzjay",
+          "Description": "Improves Dandelion\u0027s outfit texture, balancing the colors out to look more natural and less out of place.",
+          "FileID": 52752,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6255/6255-1704199122-819470138.jpeg",
+          "IsNSFW": false,
+          "ModID": 6255,
+          "Name": "Dandelion Outfit - Magenta",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hioZKlQaS6s=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=9287\nfileID=56057",
+        "Name": "Triss Corvo Bianco True Dress-9287-1-1718888918.rar",
+        "Size": 4804746,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "merigoldmaribor",
+          "Description": "Fixed Triss\u0027s Corvo Bianco Dress Dialogue.",
+          "FileID": 56057,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9287/9287-1718888315-1752637333.png",
+          "IsNSFW": false,
+          "ModID": 9287,
+          "Name": "Triss Corvo Bianco Dialogue Fix - True Dress",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QeFkdjM0LgQ=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=11253\nfileID=65873",
+        "Name": "Dynamic Scabbards-11253-1-0-1-1757847824.zip",
+        "Size": 3836,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fufec",
+          "Description": "Match your swords of any quality with your witcher armor.",
+          "FileID": 65873,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/11253/11253-1757785427-2107145450.png",
+          "IsNSFW": false,
+          "ModID": 11253,
+          "Name": "Dynamic Scabbards",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FDjYRjo7Weo=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8829\nfileID=53480",
+        "Name": "They cant be saved-8829-1-1707043306.zip",
+        "Size": 22641788,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dhu Blaidd",
+          "Description": "Children in better quality for next Gen! Brought my Children by the Paws from Old Gen.",
+          "FileID": 53480,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8829/8829-1707042814-696290936.png",
+          "IsNSFW": false,
+          "ModID": 8829,
+          "Name": "Children - Next Gen",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D8LsZIXwnC0=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8823\nfileID=53379",
+        "Name": "Netflix Swords Fix-8823-1-0-1706937799.rar",
+        "Size": 38839123,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ScoutBr0",
+          "Description": "Fixes incorrect shading on the Netflix Swords",
+          "FileID": 53379,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8823/8823-1706937509-111838500.png",
+          "IsNSFW": false,
+          "ModID": 8823,
+          "Name": "Netflix Swords Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0QgWH03iN8Y=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7575\nfileID=45282",
+        "Name": "Enhanced Water-7575-1-5-0-1673444362.zip",
+        "Size": 8606501,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "L3X4RS",
+          "Description": "Enhanced Water",
+          "FileID": 45282,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7575/7575-1673155610-255818166.png",
+          "IsNSFW": false,
+          "ModID": 7575,
+          "Name": "Enhanced Water",
+          "Version": "1.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ckLFyMo4z0M=",
         "Meta": "[General]\ngameName=witcher3\nmodID=7115\nfileID=42278",
         "Name": "Dandelion Scarf Fix-7115-1-0-1668901724.zip",
@@ -1126,146 +1882,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hYDyL+VESpY=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8867\nfileID=53784",
-        "Name": "dlc6 Triss Book Locks - Chestnut-8867-v1-00-1708359544.zip",
-        "Size": 1337308,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bathsebah",
-          "Description": "custom hairstyle for Triss that fits her book description; Next-Gen compatible.",
-          "FileID": 53784,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8867/8867-1708363522-1101716705.png",
-          "IsNSFW": false,
-          "ModID": 8867,
-          "Name": "Triss Book Locks - Glorified Cont\u0027d",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OeXQj43gBcY=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7072\nfileID=53248",
-        "Name": "00 - BW NPCS - AIO-7072-1-1-1706317748.7z",
-        "Size": 39286480,
+        "Hash": "GZDn02jr8yU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6209\nfileID=53229",
+        "Name": "00 - Improved Shani-6209-1-1-1706301281.7z",
+        "Size": 7674732,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zzjay",
-          "Description": "Anna - Syanna - Vivienne - Dettlaff - Regis\n\nFace textures",
-          "FileID": 53248,
+          "Description": "Shani face retexture",
+          "FileID": 53229,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7072/7072-1667310948-1651163270.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6209/6209-1638224897-358269281.jpeg",
           "IsNSFW": false,
-          "ModID": 7072,
-          "Name": "zzjay Blood and Wine NPCs",
-          "Version": "1.0"
+          "ModID": 6209,
+          "Name": "Improved Shani - Face",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VEjgK0X4KjQ=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=2110\nfileID=56429",
-        "Name": "modSharedImports-v0.6 - NEXT-GEN.zip-2110-v0-6-1720539533.zip",
-        "Size": 24936,
+        "Hash": "zV9UK6gvnts=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=8013\nfileID=47862",
+        "Name": "UHD Oaks Redux-8013-1-0-1678157571.7z",
+        "Size": 412261156,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rmemr",
-          "Description": "Collection of fully imported classes (all attributes) without any functionality on its own. Meant as a baseline dependency for other mods to reduce merge conflicts.",
-          "FileID": 56429,
+          "Author": "Ridog8 and lufusol",
+          "Description": "Changes the bark and moss textures for all oak trees in the game, with newly remastered assets from the original UHD Oaks",
+          "FileID": 47862,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/2110/2110-1557073017-1674435141.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8013/8013-1678152432-270569062.jpeg",
           "IsNSFW": false,
-          "ModID": 2110,
-          "Name": "Community Patch - Shared Imports",
-          "Version": "v0.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QkyCfWgzVTA=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9022\nfileID=55988",
-        "Name": "Larger White Orchard-9022-1-01-1718563578.rar",
-        "Size": 11774,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ScoutBr0",
-          "Description": "Makes White Orchard appear larger",
-          "FileID": 55988,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9022/9022-1713295176-1370624355.jpeg",
-          "IsNSFW": false,
-          "ModID": 9022,
-          "Name": "Larger White Orchard",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wswmBaublGE=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7221\nfileID=53037",
-        "Name": "Enable Jumping in Water-7221-1-3-1705444930.rar",
-        "Size": 81107,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "instanity",
-          "Description": "Enables Jumping in Water for Next-Gen (Should work in previous versions too)",
-          "FileID": 53037,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7221/7221-1671165688-1077613561.png",
-          "IsNSFW": false,
-          "ModID": 7221,
-          "Name": "Enable Jumping in Shallow Water for Next-Gen",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OqpGrn6xOZA=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10530\nfileID=62292",
-        "Name": "Attack Collision Overhaul - Leshens-10530-0-2-1741366957.zip",
-        "Size": 1582919,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AnArchos",
-          "Description": "Overhauls-fixes weird attack collision angles of Leshens, Spriggans, Hym and Miasmal.",
-          "FileID": 62292,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10530/10530-1741294034-2114437023.png",
-          "IsNSFW": false,
-          "ModID": 10530,
-          "Name": "Attack Collision Overhaul - Leshens",
-          "Version": "0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yyFfL8Oh/mE=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7655\nfileID=45433",
-        "Name": "Ciri Better Hair Mod-7655-1-0-1673671809.rar",
-        "Size": 22443646,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EzioMaverick",
-          "Description": "Changes ciri hair",
-          "FileID": 45433,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7655/7655-1673671533-279645989.png",
-          "IsNSFW": false,
-          "ModID": 7655,
-          "Name": "Ciri Better Hair",
+          "ModID": 8013,
+          "Name": "UHD Oaks Redux",
           "Version": "1.0"
         }
       }
@@ -1294,63 +1945,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "erJyQGfu+8o=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6970\nfileID=41656",
-        "Name": "00 - Fringilla-6970-1-0-1664402972.7z",
-        "Size": 3364997,
+        "Hash": "rE9VCQZbdp8=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7369\nfileID=46561",
+        "Name": "Improved Sign Effects NG Lite-7369-4-01-1675392379.zip",
+        "Size": 14606,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Fringilla facelift",
-          "FileID": 41656,
+          "Author": "lacmac",
+          "Description": "This is the updated version of the mod by Lunayah for the Next Gen version of the game. It is a stand alone release of the intense Igni and Aard effect from their mod Visual Immersion Overhaul. It makes the effects more intense.",
+          "FileID": 46561,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6970/6970-1664402388-822942672.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7369/7369-1671714387-683644891.png",
           "IsNSFW": false,
-          "ModID": 6970,
-          "Name": "Fringilla - Face Retexture",
-          "Version": "1.0"
+          "ModID": 7369,
+          "Name": "Improved Sign Effects Next Gen",
+          "Version": "4.01"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7Mo55W5HOhU=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=685\nfileID=3892",
-        "Name": "Lore Friendly Ciri Eyes-685-1-1.rar",
-        "Size": 190295,
+        "Hash": "fyPGyHiYhxE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=5710\nfileID=35585",
+        "Name": "B1 - Females of the Continent - Shaved Option-5710-1-0-1620779748.rar",
+        "Size": 1308516136,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wzol",
-          "Description": "Changes Ciri\u0027s appearance to match the lore and my personal taste.",
-          "FileID": 3892,
+          "Author": "dbd17",
+          "Description": "Improves upon all vanilla Human \u0026amp; Humanoid skin textures.",
+          "FileID": 35585,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/685-0-1493401637.png",
-          "IsNSFW": false,
-          "ModID": 685,
-          "Name": "Lore Friendly Ciri",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hioZKlQaS6s=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9287\nfileID=56057",
-        "Name": "Triss Corvo Bianco True Dress-9287-1-1718888918.rar",
-        "Size": 4804746,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "merigoldmaribor",
-          "Description": "Fixed Triss\u0027s Corvo Bianco Dress Dialogue.",
-          "FileID": 56057,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9287/9287-1718888315-1752637333.png",
-          "IsNSFW": false,
-          "ModID": 9287,
-          "Name": "Triss Corvo Bianco Dialogue Fix - True Dress",
-          "Version": "1"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5710/5710-1620861873-944125822.jpeg",
+          "IsNSFW": true,
+          "ModID": 5710,
+          "Name": "Humans of the Continent 4K-2K Textures",
+          "Version": "1.0.3"
         }
       }
     },
@@ -1378,15 +2008,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QeFkdjM0LgQ=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=11253\nfileID=65873",
-        "Name": "Dynamic Scabbards-11253-1-0-1-1757847824.zip",
-        "Size": 3836,
+        "Hash": "OKlZzMA3BSI=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=10311\nfileID=61077",
+        "Name": "modNeutralFaceMimic1-10311-1-1737583415.zip",
+        "Size": 98374,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Onymaru9",
+          "Description": "Quick mod that alter\u0027s geralt expression while exploring the world. no more raised ugly eyebrow expression",
+          "FileID": 61077,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10311/10311-1737654605-809257548.png",
+          "IsNSFW": false,
+          "ModID": 10311,
+          "Name": "Neutral Face Mimic",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PJ7MfrQe2sE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=11253\nfileID=65995",
+        "Name": "Dynamic Scabbards-11253-1-1-0-1758452579.zip",
+        "Size": 3873,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fufec",
           "Description": "Match your swords of any quality with your witcher armor.",
-          "FileID": 65873,
+          "FileID": 65995,
           "GameName": "Witcher3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/11253/11253-1757785427-2107145450.png",
           "IsNSFW": false,
@@ -1399,84 +2050,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Z1YsH3YvFtc=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8486\nfileID=51456",
-        "Name": "Green Axii FX 1.1-8486-4-04-1693703751.zip",
-        "Size": 43016513,
+        "Hash": "yyFfL8Oh/mE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7655\nfileID=45433",
+        "Name": "Ciri Better Hair Mod-7655-1-0-1673671809.rar",
+        "Size": 22443646,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lolzzl",
-          "Description": "Changes the color of Axii to green on top of upscaling the textures up to 8k.",
-          "FileID": 51456,
+          "Author": "EzioMaverick",
+          "Description": "Changes ciri hair",
+          "FileID": 45433,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8486/8486-1693013056-219133901.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7655/7655-1673671533-279645989.png",
           "IsNSFW": false,
-          "ModID": 8486,
-          "Name": "Green Axii FX (Next Gen)",
-          "Version": "4.04"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4BNhWBdi4UU=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=685\nfileID=8532",
-        "Name": "Lore Friendly Ciri Face-685-1-0.rar",
-        "Size": 4997910,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wzol",
-          "Description": "Changes Ciri\u0027s appearance to match the lore and my personal taste.",
-          "FileID": 8532,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/685-0-1493401637.png",
-          "IsNSFW": false,
-          "ModID": 685,
-          "Name": "Lore Friendly Ciri",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eVaSEyyO1rM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6949\nfileID=53863",
-        "Name": "00 - Roce-6949-1-2-1708981815.7z",
-        "Size": 6039921,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Roche face retex, inspired by witcher 2 look.",
-          "FileID": 53863,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6949/6949-1663951109-860115101.jpeg",
-          "IsNSFW": false,
-          "ModID": 6949,
-          "Name": "Vernon Roche - Face retexture",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sE4DtgrD3FM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=11216\nfileID=65598",
-        "Name": "Bald Mountain Oak Tree LOD Fix-11216-0-1-1756305405.rar",
-        "Size": 34894,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "merigoldmaribor",
-          "Description": "This mod fixes the LOD distance of the Oak Tree in Bald Mountain",
-          "FileID": 65598,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/11216/11216-1756304894-1920706866.png",
-          "IsNSFW": false,
-          "ModID": 11216,
-          "Name": "Bald Mountain Oak Tree LOD Fix",
-          "Version": "0.1"
+          "ModID": 7655,
+          "Name": "Ciri Better Hair",
+          "Version": "1.0"
         }
       }
     },
@@ -1504,41 +2092,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QIFWjM6jZQA=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10038\nfileID=59805",
-        "Name": "BeardsColorBlend-10038-1-0-1733833124.zip",
-        "Size": 258071,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Serj",
-          "Description": "Identical colour and density to beard and hair, with Next Gen change/fix.",
-          "FileID": 59805,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10038/10038-1733832869-1591834680.png",
-          "IsNSFW": false,
-          "ModID": 10038,
-          "Name": "HairWorks Beard Fix NEXT GEN",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SuFmnvfudEo=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7008\nfileID=41788",
-        "Name": "00 - Ves-7008-1-0-1665329041.7z",
-        "Size": 4812122,
+        "Hash": "xPV5f4R8kjE=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7036\nfileID=41918",
+        "Name": "00 - Iris-7036-1-0-1666013308.7z",
+        "Size": 5524345,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zzjay",
-          "Description": "Ves Facelift",
-          "FileID": 41788,
+          "Description": "iris face lift",
+          "FileID": 41918,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7008/7008-1665328354-469843473.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7036/7036-1666012397-393764679.jpeg",
           "IsNSFW": false,
-          "ModID": 7008,
-          "Name": "Ves - Facelift",
+          "ModID": 7036,
+          "Name": "Iris Face Retexture",
           "Version": "1.0"
         }
       }
@@ -1546,62 +2113,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FgzLD4sbeMA=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8521\nfileID=51817",
-        "Name": "DUI Crossbow Fix (Next Gen)-8521-4-04-1696815279.zip",
-        "Size": 816756,
+        "Hash": "eVaSEyyO1rM=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=6949\nfileID=53863",
+        "Name": "00 - Roce-6949-1-2-1708981815.7z",
+        "Size": 6039921,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Khoover - Lolzzl",
-          "Description": "Stops toxicity damage from forcefully holstering Geralt\u0027s crossbow.",
-          "FileID": 51817,
+          "Author": "zzjay",
+          "Description": "Roche face retex, inspired by witcher 2 look.",
+          "FileID": 53863,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8521/8521-1694677372-1457945433.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6949/6949-1663951109-860115101.jpeg",
           "IsNSFW": false,
-          "ModID": 8521,
-          "Name": "DUI Crossbow Fix (Next Gen)",
-          "Version": "4.04"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QPRZtKQAh5U=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9614\nfileID=57825",
-        "Name": "Sound pause when reading books-9614-1-0-1725211857.7z",
-        "Size": 5672,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Akatoshka7",
-          "Description": "Have you noticed that when Geralt or another character comments on something, and at the same time a hint pops up to read a book after picking it up, if you start reading it, they do not stop talking, although the game is paused? Then this mod is for you!",
-          "FileID": 57825,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9614/9614-1725213332-1509055978.jpeg",
-          "IsNSFW": false,
-          "ModID": 9614,
-          "Name": "Sound pause when reading books (Classic and Next Gen)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bdIJ6icVItI=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10998\nfileID=65816",
-        "Name": "RedanianRoyalShip-10998-1-2-1757542347.zip",
-        "Size": 20714718,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rev3nuss",
-          "Description": "Mod improves and fixes meshes and textures of the HMS Oxenfurt-Tretogor and Roche\u0027s ship.",
-          "FileID": 65816,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10998/10998-1757543519-741039002.jpg",
-          "IsNSFW": false,
-          "ModID": 10998,
-          "Name": "HMS Oxenfurt-Tretogor Fixes and Improvements",
+          "ModID": 6949,
+          "Name": "Vernon Roche - Face retexture",
           "Version": "1.2"
         }
       }
@@ -1609,21 +2134,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pA8enoHmcrE=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9780\nfileID=58834",
-        "Name": "Beauclair_NPC_Spawn_Fix-9780-v1-3-1729726890.zip",
-        "Size": 136644,
+        "Hash": "rTvFcX792HU=",
+        "Meta": "[General]\ngameName=witcher3\nmodID=7426\nfileID=61808",
+        "Name": "RTXGI unlocker and setting auto-updater-7426-4-04c-1739728925.zip",
+        "Size": 48641,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "apokryphos",
-          "Description": "Fixes the way NPCs spawn right in front of the player\u0027s face when wandering around the city of Beauclair in Toussaint.",
-          "FileID": 58834,
+          "Author": "emoose",
+          "Description": "DLL hook that allows RTXGI settings to be tweaked again, along with a list of the 1200\u002B hidden INI settings baked into the games EXE.",
+          "FileID": 61808,
           "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9780/9780-1728657713-257470757.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7426/7426-1671996996-360126666.png",
           "IsNSFW": false,
-          "ModID": 9780,
-          "Name": "Beauclair NPC Spawn Fix",
-          "Version": "v1.3"
+          "ModID": 7426,
+          "Name": "RTXGI Setting Unlocker",
+          "Version": "4.04a"
         }
       }
     },
@@ -1645,216 +2170,6 @@
           "ModID": 4733,
           "Name": "Road Lights - DLC",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XugJDDTtKAM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=3537\nfileID=51787",
-        "Name": "VGX Village Cutscene-3537-1-1-1696548235.rar",
-        "Size": 2371053,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hyadum",
-          "Description": "Edits the famous Heatherton village cutscene to look more like the trailer shown at VGX. Next Gen compatible.",
-          "FileID": 51787,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/3537/3537-1696547830-444577423.jpeg",
-          "IsNSFW": false,
-          "ModID": 3537,
-          "Name": "VGX Burning Village Cutscene",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YXauCz0OsQY=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10545\nfileID=62447",
-        "Name": "FaceThem_NextGen_Bugfixed-10545-1-0-1741902874.zip",
-        "Size": 102335,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "r0ckwolf",
-          "Description": "This is an updated and bugfixed version of the Face Them mod, for Next Gen Update (v4.04\u002B). Igni Firestream fix and Horseback head tracking fix.",
-          "FileID": 62447,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10545/10545-1741903093-1008333701.png",
-          "IsNSFW": false,
-          "ModID": 10545,
-          "Name": "Face Them - Next Gen - Bugfixed",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "E+JwrRQy47Q=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10280\nfileID=60908",
-        "Name": "Fix Boat Speed (Any game version)-10280-1-0-1737108971.zip",
-        "Size": 4390,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "crthdr",
-          "Description": "Fixes not being able to \u0022sprint\u0022 boat",
-          "FileID": 60908,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10280/10280-1737108902-197824957.png",
-          "IsNSFW": false,
-          "ModID": 10280,
-          "Name": "Fix Boat Speed",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cL7IWkoOcrA=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=10447\nfileID=62917",
-        "Name": "Better Grass AO-10447-1-0-1743376538.zip",
-        "Size": 268474,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ard Carraigh",
-          "Description": "Adds baked Ambient Occlusion to grass assets to improve their look.",
-          "FileID": 62917,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/10447/10447-1743377455-1315765767.png",
-          "IsNSFW": false,
-          "ModID": 10447,
-          "Name": "Better Grass Ambient Occlusion",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TDYV/XM657s=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=7329\nfileID=56295",
-        "Name": "BIA - Optional Add-On-7329-2-7-1720020685.zip",
-        "Size": 794186,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PaulR0013 - MerseyRockoff - konyme",
-          "Description": "Definitive collection of 5,800\u002B bug fixes and restored content from across the entire game.",
-          "FileID": 56295,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/7329/7329-1671482532-709880829.jpeg",
-          "IsNSFW": false,
-          "ModID": 7329,
-          "Name": "Brothers in Arms - TW3 Bug Fix and Restored Content Collection - Next-Gen",
-          "Version": "2.72"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "D8LsZIXwnC0=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=8823\nfileID=53379",
-        "Name": "Netflix Swords Fix-8823-1-0-1706937799.rar",
-        "Size": 38839123,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ScoutBr0",
-          "Description": "Fixes incorrect shading on the Netflix Swords",
-          "FileID": 53379,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/8823/8823-1706937509-111838500.png",
-          "IsNSFW": false,
-          "ModID": 8823,
-          "Name": "Netflix Swords Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zwDR9u15FqI=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=6972\nfileID=53258",
-        "Name": "00 - Philippa-6972-1-1-1-1706363636.7z",
-        "Size": 6063806,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Philippa face fix",
-          "FileID": 53258,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6972/6972-1664484685-1972691261.jpeg",
-          "IsNSFW": false,
-          "ModID": 6972,
-          "Name": "Philippa - Face Retexture",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "V2T6QgEo9F4=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=5657\nfileID=53232",
-        "Name": "00 - Yennefer 4k - Legacy Version-5657-1-2-1706303092.7z",
-        "Size": 8514962,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zzjay",
-          "Description": "Face retexture for Yen.\n\nHigh res version,\n\nTrue to the concept.",
-          "FileID": 53232,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/5657/5657-1618248584-1685175384.jpeg",
-          "IsNSFW": false,
-          "ModID": 5657,
-          "Name": "Yennefer 4k Face Texture - by zzjay",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Qzw9QN/cSL4=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=342\nfileID=50323",
-        "Name": "Indestructible Items (4.03)-342-4-03-1688941217.zip",
-        "Size": 145170,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SunBroDave",
-          "Description": "Removes weapon degradation so Geralt\u0027s weapons and armor will always be at 100% durability. Updated for the Next-Gen Update (v4.00)! Works with both Steam and GOG versions.",
-          "FileID": 50323,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/342-0-1439698415.jpg",
-          "IsNSFW": false,
-          "ModID": 342,
-          "Name": "Indestructible Items - No More Weapon Degradation (Next-Gen Update Compatible)",
-          "Version": "4.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TNR7kkLX4EM=",
-        "Meta": "[General]\ngameName=witcher3\nmodID=9203\nfileID=55686",
-        "Name": "Fix Boat Senses Sound (Next-Gen 4.04)-9203-0-2-1718005510.zip",
-        "Size": 1139,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "crthdr",
-          "Description": "Fixes missing senses sound muffling when sailing on boat",
-          "FileID": 55686,
-          "GameName": "Witcher3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/9203/9203-1717667086-390710068.png",
-          "IsNSFW": false,
-          "ModID": 9203,
-          "Name": "Fix Boat Senses Sound",
-          "Version": "0.2"
         }
       }
     }
