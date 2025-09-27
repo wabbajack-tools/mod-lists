@@ -1,8 +1,8 @@
 {
   "MachineURL": "Januarysnow/TempusVR",
   "Name": "Tempus Maledictum VR",
-  "Version": "1.1",
-  "ModListHash": "9ZhvV8tCz9k=",
+  "Version": "1.11",
+  "ModListHash": "47OqMCAJmEc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3831,15 +3831,23 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "siQcFIF6pn4=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1DqKLokiBCgz7DI44aiEIbJ86XCiWCEnl\u0026export=download",
-        "Name": "Vanaheimr - AIO - PBR.7z",
-        "Size": 4753346315,
+        "Hash": "EYvb87n8ThQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=145439\nfileID=669675",
+        "Name": "Vanaheimr Landscapes - AIO - PBR - 4k-145439-4-0-1758917937.7z",
+        "Size": 5056689582,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1DqKLokiBCgz7DI44aiEIbJ86XCiWCEnl"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cl3mus",
+          "Description": "All in One of my Vanaheimr Landscapes series.",
+          "FileID": 669675,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/145439/145439-1744837409-769242481.png",
+          "IsNSFW": false,
+          "ModID": 145439,
+          "Name": "Vanaheimr - Landscapes - AIO",
+          "Version": "1.0"
         }
       }
     },
@@ -30015,6 +30023,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ILGNS/TcIeQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=121336\nfileID=657038",
+        "Name": "ERM - Textures-121336-1-1-0-1755568451.7z",
+        "Size": 414490297,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "leostevano",
+          "Description": "Complex Parallax Materials addon for ERM.",
+          "FileID": 657038,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/121336%2F121336-1717790446-1497033400.png",
+          "IsNSFW": false,
+          "ModID": 121336,
+          "Name": "ERM - Complex Parallax Materials",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "B8d6fBzLcmQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=39356\nfileID=155401",
         "Name": "Unreal 4K Mammoth Skeleton ReTexture-39356-1-0-1597342395.7z",
@@ -44439,43 +44468,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ldKqN+HObZ8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
-        "Name": "Data_MarketplaceTextures.bsa",
-        "Size": 2938167,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\MarketplaceTextures.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "ldKqN+HObZ8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NvwsY9iM+3s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2347\nfileID=480425",
-        "Name": "Parallax Meshes - Riften Ground-2347-1-0-1710413943.7z",
-        "Size": 43294820,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pfuscher",
-          "Description": "High Res Textures for cities, dungeons, clutter, armors, landscapes and much more. Going towards 2000 files, way more to come !\n\nThis mod has over a thousand hours of work put into it. If you enjoy my work please consider supporting me at Patreon and Kofi.",
-          "FileID": 480425,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2347/2347-1687431641-1606188254.jpeg",
-          "IsNSFW": false,
-          "ModID": 2347,
-          "Name": "Skyrim 202X by Pfuscher - Formerly 2020",
-          "Version": "9.7.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Nfv5mLRh/Ws=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1778\nfileID=514607",
         "Name": "Complete Widescreen Fix for Vanilla and SkyUI-1778-3-9-0-1719268593.zip",
@@ -45617,6 +45609,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JtFhWcRfkeM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=135010\nfileID=575339",
+        "Name": "The Dragonborn\u0027s Bestiary - Lively\u0027s Alchemy Addon-135010-2-0-3-1734964239.7z",
+        "Size": 6526791,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lively",
+          "Description": "Addon pack for The Dragonborn\u0027s Bestiary, by JPSteel2. Adds over 170 ingredients to the bestiary, with full AE integration.",
+          "FileID": 575339,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/135010/135010-1732743579-775541553.png",
+          "IsNSFW": false,
+          "ModID": 135010,
+          "Name": "The Dragonborn\u0027s Bestiary - Lively\u0027s Alchemy Addon",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dv9vQ6azH8M=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34853\nfileID=134723",
         "Name": "DAR - Dynamic Swimming-34853-1-0-1587114447.rar",
@@ -45638,27 +45651,43 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JtFhWcRfkeM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=135010\nfileID=575339",
-        "Name": "The Dragonborn\u0027s Bestiary - Lively\u0027s Alchemy Addon-135010-2-0-3-1734964239.7z",
-        "Size": 6526791,
+        "Hash": "ldKqN+HObZ8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
+        "Name": "Data_MarketplaceTextures.bsa",
+        "Size": 2938167,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\MarketplaceTextures.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "ldKqN+HObZ8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NvwsY9iM+3s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2347\nfileID=480425",
+        "Name": "Parallax Meshes - Riften Ground-2347-1-0-1710413943.7z",
+        "Size": 43294820,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lively",
-          "Description": "Addon pack for The Dragonborn\u0027s Bestiary, by JPSteel2. Adds over 170 ingredients to the bestiary, with full AE integration.",
-          "FileID": 575339,
+          "Author": "Pfuscher",
+          "Description": "High Res Textures for cities, dungeons, clutter, armors, landscapes and much more. Going towards 2000 files, way more to come !\n\nThis mod has over a thousand hours of work put into it. If you enjoy my work please consider supporting me at Patreon and Kofi.",
+          "FileID": 480425,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/135010/135010-1732743579-775541553.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2347/2347-1687431641-1606188254.jpeg",
           "IsNSFW": false,
-          "ModID": 135010,
-          "Name": "The Dragonborn\u0027s Bestiary - Lively\u0027s Alchemy Addon",
-          "Version": "1.0"
+          "ModID": 2347,
+          "Name": "Skyrim 202X by Pfuscher - Formerly 2020",
+          "Version": "9.7.1"
         }
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_large.webp"
 }
