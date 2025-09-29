@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1311)
+### Valid (1309)
 *  [-Perfect landscape by Pfuscher ULTRA 2.0-48403-2-0-1606852878.7z](https://www.nexusmods.com/fallout4/mods/48403/?tab=files&file_id=196059)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1 - Keep Radiants in the Commonwealth Patch-59019-1-13-1757630024.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=367267)
@@ -229,8 +229,6 @@
 *  [DynDOLOD 3.00-68518-Alpha-196-1757405466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=663926)
 *  [EBT_Basic v101-212-1-01.7z](https://www.nexusmods.com/fallout4/mods/212/?tab=files&file_id=54175)
 *  [Editor's Choice v2-21331-2-0-1560296915.zip](https://www.nexusmods.com/fallout4/mods/21331/?tab=files&file_id=159696)
-*  EditorTips.txt
-*  EditorWarnings.txt
 *  [Empty Vendor List Engine Bug Fix-83252-1-0-1716335717.zip](https://www.nexusmods.com/fallout4/mods/83252/?tab=files&file_id=318202)
 *  [ENB Helper for Fallout 4-56566-1-0-2-1677522163.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=268795)
 *  [enbseries_fallout4_v0501.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0501.zip_c0df6d48-b6f7-49fb-a0ea-5d2dd273b68d)
@@ -1307,7 +1305,7 @@
 *  [Workshop Highlight Fix-83706-1-1-0-1723319992.7z](https://www.nexusmods.com/fallout4/mods/83706/?tab=files&file_id=329718)
 *  [Workshop Plus-35005-1-0-15a-1712338821.zip](https://www.nexusmods.com/fallout4/mods/35005/?tab=files&file_id=309160)
 *  [WW Shadow Lights-12077-1-0.zip](https://www.nexusmods.com/fallout4/mods/12077/?tab=files&file_id=48065)
-*  [xEdit.4.1.5f.7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=312782)
+*  [xEdit.4.1.5f.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
 *  [xLODGen.132.7z](https://github.com/sheson/xLODGen/releases/download/v132/xLODGen.132.7z)
 *  [xSE PluginPreloader F4 0.3-33946-0-3-1718686029.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=323314)
 *  [xVividFallout - AllinOne - 4k-25714-1-9-1686489406.7z](https://www.nexusmods.com/fallout4/mods/25714/?tab=files&file_id=280106)
