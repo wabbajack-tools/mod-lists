@@ -2102,7 +2102,7 @@
 *  [True Directional Movement-51614-2-2-6-1725670168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=539468)
 *  [True HUD Boss Ini Tweaks-53238-1-4-1656876805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=295935)
 *  [True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153900)
-*  [TrueHUD - Inventory Injector Patch-157139-1-3-1756489805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/157139/?tab=files&file_id=660387)
+*  [TrueHUD - Inventory Injector Patch-157139-1-4-1756844183.zip](https://www.nexusmods.com/skyrimspecialedition/mods/157139/?tab=files&file_id=661871)
 *  [TrueHUD-62775-1-1-9-1703382929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=454617)
 *  [Truly Neutral Prisoners-73873-0-1-1-1661227870.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73873/?tab=files&file_id=309698)
 *  [TRX - Futanari Addon124.7z](https://authored-files.wabbajack.org/TRX - Futanari Addon124.7z_bedfbb20-0476-4305-b4e9-c55992465793)
