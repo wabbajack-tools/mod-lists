@@ -1,8 +1,8 @@
 {
   "MachineURL": "ModdingLinked/ADragonbornsFate",
   "Name": "A Dragonborn\u0027s Fate",
-  "Version": "27.9.25",
-  "ModListHash": "hoZhzEDha4A=",
+  "Version": "30.9.25",
+  "ModListHash": "Rw3c2ilQ0EM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -175,15 +175,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eEoG7UvjCPA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86492\nfileID=669315",
-        "Name": "Community Shaders-86492-1-4-1-1758813173.7z",
-        "Size": 10119016,
+        "Hash": "R+eqwGwoJOE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86492\nfileID=669959",
+        "Name": "Community Shaders-86492-1-4-2-1759005040.7z",
+        "Size": 10145135,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Community Shaders Team",
           "Description": "Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs.",
-          "FileID": 669315,
+          "FileID": 669959,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86492/86492-1681779969-310459089.png",
           "IsNSFW": false,
@@ -889,21 +889,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GhRe0KVAn0k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=113535\nfileID=478639",
-        "Name": "Horse Riding Improvements-113535-v1-0-1-1709994468.zip",
-        "Size": 266280,
+        "Hash": "nBoyUGx/U5s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=450465",
+        "Name": "Immersive Equipment Displays for 1.6.629 and newer-62001-1-7-4-1702213373.zip",
+        "Size": 2204750,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Monitor144hz",
-          "Description": "SKSE plugin \u002B horse behaviour mod that adds leaning to horse riding based on slope angle, and does minor pose adjustments for horse creatures.",
-          "FileID": 478639,
+          "Author": "SlavicPotato",
+          "Description": "Display unequipped gear and custom items on the player or NPCs. Works with any item with no additional meshes required. Doesn\u0027t use body slots. SKSE64 plugin. Custom in-game user interface for configuring everything in real-time while you\u0027re playing. Includes a flexible positioning system and equipment physics for both equipped and unequipped gear.",
+          "FileID": 450465,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/113535/113535-1709991489-1977312020.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62001/62001-1642274191-1583063063.png",
           "IsNSFW": false,
-          "ModID": 113535,
-          "Name": "Horse Behaviour Improvements",
-          "Version": "v1.0.1"
+          "ModID": 62001,
+          "Name": "Immersive Equipment Displays",
+          "Version": "1.7.3"
         }
       }
     },
@@ -931,20 +931,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8Vtv9kbe1bA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=93271\nfileID=416390",
-        "Name": "Assorted Animation Fixes-93271-1-02-1691850867.zip",
-        "Size": 317384,
+        "Hash": "XP0biwIzReo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=139572\nfileID=587040",
+        "Name": "USSEP Behaviour Patch-139572-1-1-1737767400.7z",
+        "Size": 1337,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Everglaid",
-          "Description": "Fixes minor issues with vanilla animations.",
-          "FileID": 416390,
+          "Author": "Blackread",
+          "Description": "Nemesis patch for the behaviour fixes in USSEP so you can merge them into your Nemesis output.",
+          "FileID": 587040,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/93271/93271-1686577922-137153321.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/139572/139572-1737331454-556607276.png",
           "IsNSFW": false,
-          "ModID": 93271,
-          "Name": "Assorted Animation Fixes",
+          "ModID": 139572,
+          "Name": "USSEP Nemesis Patch",
           "Version": "1.0"
         }
       }
@@ -961,6 +961,27 @@
           "Author": "Monitor144hz",
           "Description": "SKSE plugin \u002B horse behaviour mod that adds leaning to horse riding based on slope angle, and does minor pose adjustments for horse creatures.",
           "FileID": 478624,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/113535/113535-1709991489-1977312020.png",
+          "IsNSFW": false,
+          "ModID": 113535,
+          "Name": "Horse Behaviour Improvements",
+          "Version": "v1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GhRe0KVAn0k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=113535\nfileID=478639",
+        "Name": "Horse Riding Improvements-113535-v1-0-1-1709994468.zip",
+        "Size": 266280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Monitor144hz",
+          "Description": "SKSE plugin \u002B horse behaviour mod that adds leaning to horse riding based on slope angle, and does minor pose adjustments for horse creatures.",
+          "FileID": 478639,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/113535/113535-1709991489-1977312020.png",
           "IsNSFW": false,
@@ -1057,21 +1078,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nBoyUGx/U5s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=450465",
-        "Name": "Immersive Equipment Displays for 1.6.629 and newer-62001-1-7-4-1702213373.zip",
-        "Size": 2204750,
+        "Hash": "8Vtv9kbe1bA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=93271\nfileID=416390",
+        "Name": "Assorted Animation Fixes-93271-1-02-1691850867.zip",
+        "Size": 317384,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SlavicPotato",
-          "Description": "Display unequipped gear and custom items on the player or NPCs. Works with any item with no additional meshes required. Doesn\u0027t use body slots. SKSE64 plugin. Custom in-game user interface for configuring everything in real-time while you\u0027re playing. Includes a flexible positioning system and equipment physics for both equipped and unequipped gear.",
-          "FileID": 450465,
+          "Author": "Everglaid",
+          "Description": "Fixes minor issues with vanilla animations.",
+          "FileID": 416390,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62001/62001-1642274191-1583063063.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/93271/93271-1686577922-137153321.jpeg",
           "IsNSFW": false,
-          "ModID": 62001,
-          "Name": "Immersive Equipment Displays",
-          "Version": "1.7.3"
+          "ModID": 93271,
+          "Name": "Assorted Animation Fixes",
+          "Version": "1.0"
         }
       }
     },
@@ -1135,27 +1156,6 @@
           "ModID": 58224,
           "Name": "Security Overhaul SKSE - Lock Variations",
           "Version": "3.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XP0biwIzReo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=139572\nfileID=587040",
-        "Name": "USSEP Behaviour Patch-139572-1-1-1737767400.7z",
-        "Size": 1337,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Blackread",
-          "Description": "Nemesis patch for the behaviour fixes in USSEP so you can merge them into your Nemesis output.",
-          "FileID": 587040,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/139572/139572-1737331454-556607276.png",
-          "IsNSFW": false,
-          "ModID": 139572,
-          "Name": "USSEP Nemesis Patch",
-          "Version": "1.0"
         }
       }
     },
@@ -1598,6 +1598,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3PFbz9I81OQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=204058",
+        "Name": "XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip",
+        "Size": 112987,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlavicPotato",
+          "Description": "Makes equipped left hand weapons and both staves visible on the player or NPCs. Works with any weapon. Lightweight SKSE64 plugin. No scripts, ESPs or additional meshes required. Includes shield on back option.",
+          "FileID": 204058,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50049/50049-1621269269-1230900975.png",
+          "IsNSFW": false,
+          "ModID": 50049,
+          "Name": "Simple Dual Sheath",
+          "Version": "1.5.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0o3x9+jxQCI=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.esm",
         "Name": "Data_ccbgssse025-advdsgs.esm",
@@ -1740,27 +1761,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3PFbz9I81OQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=204058",
-        "Name": "XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip",
-        "Size": 112987,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SlavicPotato",
-          "Description": "Makes equipped left hand weapons and both staves visible on the player or NPCs. Works with any weapon. Lightweight SKSE64 plugin. No scripts, ESPs or additional meshes required. Includes shield on back option.",
-          "FileID": 204058,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50049/50049-1621269269-1230900975.png",
-          "IsNSFW": false,
-          "ModID": 50049,
-          "Name": "Simple Dual Sheath",
-          "Version": "1.5.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "i3iF8LGbgKo=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.esl",
         "Name": "Data_ccqdrsse001-survivalmode.esl",
@@ -1771,27 +1771,6 @@
           "GameFile": "Data\\ccqdrsse001-survivalmode.esl",
           "GameVersion": "1.6.1170.0",
           "Hash": "i3iF8LGbgKo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vB/Zyyddg5I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54680\nfileID=401159",
-        "Name": "SSE Terrain Tamriel Extend-54680-2-0-1687762048.7z",
-        "Size": 17372999,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sheson",
-          "Description": "Restored Tamriel terrain data for terrain LOD generation.",
-          "FileID": 401159,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54680/108926-1630139457-1035841742.jpeg",
-          "IsNSFW": false,
-          "ModID": 54680,
-          "Name": "xLODGen Resource - SSE Terrain Tamriel",
-          "Version": "2.0"
         }
       }
     },
@@ -2166,15 +2145,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5RZpU7LXs8o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=139352\nfileID=669314",
-        "Name": "Skylighting-139352-1-2-0-1758813134.7z",
-        "Size": 3213434,
+        "Hash": "0Leq183bltE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=139352\nfileID=669961",
+        "Name": "Skylighting-139352-1-2-1-1759005074.7z",
+        "Size": 3213608,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CS Team",
           "Description": "Advanced Community Shaders feature which simulates large scale world-space ambient occlusion. Supports SE, AE, and VR.",
-          "FileID": 669314,
+          "FileID": 669961,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/139352/139352-1737147254-1075703090.png",
           "IsNSFW": false,
@@ -2555,6 +2534,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SbvCmoSGyQk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=99621\nfileID=466552",
+        "Name": "Horse Mount and Dismount Double Sound Fix-99621-1-0-2-1706717975.7z",
+        "Size": 27423,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "A SKSE plugin that lets annotated events in paired animations work like in normal animations. Also causes the game to create synchronized animation bindings on demand, freeing up a few hundred animation slots for use by animation replacers. Supports SE/AE/VR. Open source.",
+          "FileID": 466552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99621/99621-1693439345-1280585321.png",
+          "IsNSFW": false,
+          "ModID": 99621,
+          "Name": "Paired Animation Improvements",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "1SJo/u7FnGo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=149975\nfileID=637271",
         "Name": "Better Vanilla Weather-149975-1-7-1749787298.7z",
@@ -2639,27 +2639,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SbvCmoSGyQk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=99621\nfileID=466552",
-        "Name": "Horse Mount and Dismount Double Sound Fix-99621-1-0-2-1706717975.7z",
-        "Size": 27423,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "A SKSE plugin that lets annotated events in paired animations work like in normal animations. Also causes the game to create synchronized animation bindings on demand, freeing up a few hundred animation slots for use by animation replacers. Supports SE/AE/VR. Open source.",
-          "FileID": 466552,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99621/99621-1693439345-1280585321.png",
-          "IsNSFW": false,
-          "ModID": 99621,
-          "Name": "Paired Animation Improvements",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "gP4r5KstclI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=105970\nfileID=448904",
         "Name": "Vanilla Item Descriptions - Uniques Only Version-105970-1-1-UO-1701739858.zip",
@@ -2674,27 +2653,6 @@
           "IsNSFW": false,
           "ModID": 105970,
           "Name": "Vanilla Item Descriptions",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "79AIY4cJQ1M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=149212\nfileID=625352",
-        "Name": "DBF LOD Guide - Temp Snow Replacement-149212-1-0-1746815741.7z",
-        "Size": 297,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModdingLinked",
-          "Description": "Files needed while following A Dragonborn\u0027s Fate.",
-          "FileID": 625352,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/149212/149212-1746463355-1132602421.png",
-          "IsNSFW": false,
-          "ModID": 149212,
-          "Name": "A Dragonborn\u0027s Fate Resources",
           "Version": "1.0"
         }
       }
@@ -2759,6 +2717,27 @@
           "ModID": 157076,
           "Name": "Terrain Blending - Community Shaders",
           "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+YDH4qiYLlE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53406\nfileID=331500",
+        "Name": "Curated Bosses for True HUD-53406-1-2-1668354774.zip",
+        "Size": 2901,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Catir",
+          "Description": "Tweaks True HUD\u0027s boss bar feature to be much stricter in its selection, reserving boss bars for bosses that are important to the story or have unique mechanics. Includes full Creation Club support and support for several quest mods.",
+          "FileID": 331500,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53406/53406-1643813919-658819957.png",
+          "IsNSFW": false,
+          "ModID": 53406,
+          "Name": "Curated Bosses for True HUD",
+          "Version": "1.2"
         }
       }
     },
@@ -2843,27 +2822,6 @@
           "ModID": 149212,
           "Name": "A Dragonborn\u0027s Fate Resources",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+YDH4qiYLlE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53406\nfileID=331500",
-        "Name": "Curated Bosses for True HUD-53406-1-2-1668354774.zip",
-        "Size": 2901,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Catir",
-          "Description": "Tweaks True HUD\u0027s boss bar feature to be much stricter in its selection, reserving boss bars for bosses that are important to the story or have unique mechanics. Includes full Creation Club support and support for several quest mods.",
-          "FileID": 331500,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53406/53406-1643813919-658819957.png",
-          "IsNSFW": false,
-          "ModID": 53406,
-          "Name": "Curated Bosses for True HUD",
-          "Version": "1.2"
         }
       }
     },

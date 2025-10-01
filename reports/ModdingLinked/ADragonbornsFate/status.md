@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (140)
+### Valid (138)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [A Clear Map of Skyrim and Other Worlds FOMOD-56367-4-0-1669293184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=334140)
 *  [Alchemy XP Fix-117389-1-0-1713743824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117389/?tab=files&file_id=493497)
@@ -25,7 +25,7 @@
 *  [Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=368384)
 *  [Cloud Shadows-139185-1-2-0-1741616426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139185/?tab=files&file_id=604012)
 *  [CoMAP-56123-4-3-0-1749770992.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=637224)
-*  [Community Shaders-86492-1-4-1-1758813173.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=669315)
+*  [Community Shaders-86492-1-4-2-1759005040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=669959)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
 *  Data_ccbgssse001-fish.esm
@@ -35,7 +35,6 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_Update.esm
-*  [DBF LOD Guide - Temp Snow Replacement-149212-1-0-1746815741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=625352)
 *  [DBF LOD Guide - Whiter Snow LOD Material-149212-1-0-1746815757.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=625354)
 *  [DBF Pre-Generated Object LOD-149212-1-0-1758998523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=669936)
 *  [DBF Pre-Generated Pandora Output-149212-1-0-1758997770.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=669930)
@@ -100,7 +99,7 @@
 *  [Simple Dual Sheath for 1.6.629 and newer-50049-1-5-7-1702208537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=450438)
 *  [Simple Offence Suppression-41764-2-2-1-1665496323.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41764/?tab=files&file_id=323291)
 *  [Sky Sync-153543-1-0-0-1754437957.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153543/?tab=files&file_id=653189)
-*  [Skylighting-139352-1-2-0-1758813134.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=669314)
+*  [Skylighting-139352-1-2-1-1759005074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=669961)
 *  [Skyrim Cut Content Restoration v2.2.2-90744-2-2-2-1755915173.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90744/?tab=files&file_id=658282)
 *  [Skyrim Extended Cut - Saints and Seducers-72772-1-0-0-6-1679195731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=369854)
 *  [Skyrim Misc Bugfix Compilation-133286-2-4a-1758767585.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133286/?tab=files&file_id=669195)
@@ -113,7 +112,6 @@
 *  [Splashes of Skyrim-47710-1-4-0-1665253814.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47710/?tab=files&file_id=322517)
 *  [Sprint Sneak Movement Speed Fix-86631-1-1-2-1702208975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86631/?tab=files&file_id=450440)
 *  [SSE Display Tweaks-34705-0-5-16-1703410713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=454679)
-*  [SSE Terrain Tamriel Extend-54680-2-0-1687762048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54680/?tab=files&file_id=401159)
 *  [Stamina of Shooting - drawing bow costs stamina-105814-0-1-1701244923.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105814/?tab=files&file_id=447046)
 *  [Static Mesh Improvement Mod - USSEP Patch-149212-1-0-1758997807.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=669932)
 *  [Static Mesh Improvement Mod Improvement Mod-55543-1-13-1-1741128505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=601866)
