@@ -16,7 +16,6 @@
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
-    -   [Fahluaan](#fahluaan)
     -   [Halls of Sovngarde](#halls-of-sovngarde)
     -   [Keizaal](#keizaal)
     -   [Legends of the Frost](#legends-of-the-frost)
@@ -215,26 +214,6 @@ Designed specifically with Skyrim Together Reborn in mind, each mod has been per
 -   [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027)
 
 There are numerous other changes to the standard Skyrim experience, so please visit my [Changes To Gameplay](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Changes%20To%20Gameplay.md) section of the readme for more information on each notable mod.
-
----
-
-### [Fahluaan](https://github.com/Oghma-Infinium/Fahluaan)
-
-Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
-
- - Modernized 1st and 3rd person combat.
- - Many quality of life improvements.
- - Meticulously balanced gameplay.
- - A consistent, high-fidelity visual overhaul.
- - New armor, spells, and weapons that are naturally integrated into the world.
- - Expanded vanilla quests and selective Anniversary Edition integration.
- - New, high quality quest mods to provide tens to hundreds of hours of additional content.
- - Hundreds of custom patches and mods to provide a unique experience found nowhere else.
-
-**_Learn More:_**
-
--   [Full Modlist](https://loadorderlibrary.com/lists/fahluaan)
--   [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md)
 
 ---
 
