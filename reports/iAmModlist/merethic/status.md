@@ -123,7 +123,7 @@
 *  [Amol-75264-1-01-5-1704292938.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75264/?tab=files&file_id=457454)
 *  [Amorous Adventures Extended SE v1.2.4.7z](https://www.loverslab.com/files/file/8849-amorous-adventures-extended-se/)
 *  [Amorous Adventures Text and Player Dialogue Revision.zip](https://www.loverslab.com/files/file/23233-amorous-adventures-text-and-player-dialogue-revision/)
-*  [AmorousAdventures 3.4 SE.zip](https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y)
+*  [AmorousAdventures 3.4 SE.zip](https://authored-files.wabbajack.org/AmorousAdventures 3.4 SE.zip_f4f6ac0a-8105-496a-b426-90bcede13b8b)
 *  [An Evening With Angi (Sexlab)-74763-1-1-1662817480.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74763/?tab=files&file_id=314952)
 *  [Anga's Mill - Cities of the North Addon Patch Coll-64685-1-2-1695141247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64685/?tab=files&file_id=427329)
 *  [Anga's Mill - Cities of the North Addon-64398-1-0-4-1652041666.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64398/?tab=files&file_id=282393)
