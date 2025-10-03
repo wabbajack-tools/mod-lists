@@ -913,7 +913,7 @@
 *  [Gorm Armor-119257-1-2-1715512364.rar](https://www.nexusmods.com/skyrimspecialedition/mods/119257/?tab=files&file_id=500376)
 *  [Grand Solitude - The Walls of High King Erling-157506-1-1-1756905839.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157506/?tab=files&file_id=662044)
 *  [Grand Solitude - Walls of High King Erling - GER-157673-1-1-1756926384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157673/?tab=files&file_id=662152)
-*  [Grand Solitude Patch Collection - German-157674-1-3-1759168461.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157674/?tab=files&file_id=670536)
+*  [Grand Solitude Patch Collection - German-157674-1-3-1759170197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157674/?tab=files&file_id=670545)
 *  [Grand Solitude Patch Collection-157450-1-3-1759167590.rar](https://www.nexusmods.com/skyrimspecialedition/mods/157450/?tab=files&file_id=670532)
 *  [Grandiose Giants-23889-1-2-1592001179.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23889/?tab=files&file_id=145378)
 *  [Grass Fixes for Creation Club Mods-61777-1-2-1658752919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61777/?tab=files&file_id=302084)
