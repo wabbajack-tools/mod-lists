@@ -1,11 +1,10 @@
 ## Validation Report - Listonomicon (Listonomicon/Listonomicon)
 
 
-### Invalid (1)
-*  [half-azer_dwarf_87785329-3990-3ybz.zip](https://g-6715.modapi.io/v1/games/6715/mods/4536151/files/5894901/download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (842)
+### Valid (843)
 *  [- Standalone Bundle  - Dragonbreath Unleashed-556-11-0-P7-1725651719.zip](https://www.nexusmods.com/baldursgate3/mods/556/?tab=files&file_id=69200)
 *  [(Option 2) Dark Urge - Rebirth - Saving Throw-14598-5-1736816096.zip](https://www.nexusmods.com/baldursgate3/mods/14598/?tab=files&file_id=84015)
 *  [01 - MANTIS' ARCANE INSPIRED COLLECTION-14698-1-2-0-0-1744829478.zip](https://www.nexusmods.com/baldursgate3/mods/14698/?tab=files&file_id=89249)
@@ -385,6 +384,7 @@
 *  [Hairstyles of Faerun-6068-1-0-4-1711300935.zip](https://www.nexusmods.com/baldursgate3/mods/6068/?tab=files&file_id=51305)
 *  [Half Light Voicelines for Durge Voice 5-13975-1-1732468516.zip](https://www.nexusmods.com/baldursgate3/mods/13975/?tab=files&file_id=79955)
 *  [Half Potency-5105-1-2-1756453460.zip](https://www.nexusmods.com/baldursgate3/mods/5105/?tab=files&file_id=101646)
+*  [half-azer_dwarf_87785329-3990-3ybz.zip](https://g-6715.modapi.io/v1/games/6715/mods/4536151/files/5894901/download)
 *  [Half-Tiefs - Flora and Fauna (Custom Horn Pack)-8871-1-1-1-1726833031.zip](https://www.nexusmods.com/baldursgate3/mods/8871/?tab=files&file_id=71900)
 *  [Half-Tiefs-2538-1-9-2-1745410322.zip](https://www.nexusmods.com/baldursgate3/mods/2538/?tab=files&file_id=90355)
 *  [HalfElfOrcPatch7-13970-1-0-0-1732407537.zip](https://www.nexusmods.com/baldursgate3/mods/13970/?tab=files&file_id=79863)
