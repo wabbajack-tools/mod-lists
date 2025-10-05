@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (138)
+### Valid (140)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [A Clear Map of Skyrim and Other Worlds FOMOD-56367-4-0-1669293184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=334140)
 *  [Alchemy XP Fix-117389-1-0-1713743824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117389/?tab=files&file_id=493497)
@@ -35,6 +35,7 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_Update.esm
+*  [DBF LOD Guide - Temp Snow Replacement-149212-1-0-1746815741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=625352)
 *  [DBF LOD Guide - Whiter Snow LOD Material-149212-1-0-1746815757.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=625354)
 *  [DBF Pre-Generated Object LOD-149212-1-0-1758998523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=669936)
 *  [DBF Pre-Generated Pandora Output-149212-1-0-1758997770.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=669930)
@@ -112,6 +113,7 @@
 *  [Splashes of Skyrim-47710-1-4-0-1665253814.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47710/?tab=files&file_id=322517)
 *  [Sprint Sneak Movement Speed Fix-86631-1-1-2-1702208975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86631/?tab=files&file_id=450440)
 *  [SSE Display Tweaks-34705-0-5-16-1703410713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=454679)
+*  [SSE Terrain Tamriel Extend-54680-2-0-1687762048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54680/?tab=files&file_id=401159)
 *  [Stamina of Shooting - drawing bow costs stamina-105814-0-1-1701244923.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105814/?tab=files&file_id=447046)
 *  [Static Mesh Improvement Mod - USSEP Patch-149212-1-0-1758997807.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149212/?tab=files&file_id=669932)
 *  [Static Mesh Improvement Mod Improvement Mod-55543-1-13-1-1741128505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=601866)

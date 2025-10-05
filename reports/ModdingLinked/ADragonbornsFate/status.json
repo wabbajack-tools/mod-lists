@@ -1,8 +1,8 @@
 {
   "MachineURL": "ModdingLinked/ADragonbornsFate",
   "Name": "A Dragonborn\u0027s Fate",
-  "Version": "30.9.25",
-  "ModListHash": "Rw3c2ilQ0EM=",
+  "Version": "5.10.25",
+  "ModListHash": "yQKqlzDl7j0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1777,6 +1777,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vB/Zyyddg5I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54680\nfileID=401159",
+        "Name": "SSE Terrain Tamriel Extend-54680-2-0-1687762048.7z",
+        "Size": 17372999,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sheson",
+          "Description": "Restored Tamriel terrain data for terrain LOD generation.",
+          "FileID": 401159,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54680/108926-1630139457-1035841742.jpeg",
+          "IsNSFW": false,
+          "ModID": 54680,
+          "Name": "xLODGen Resource - SSE Terrain Tamriel",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UgRwar+PCq4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23107\nfileID=267651",
         "Name": "TavernAIFix-se-23107-1-2-1646241760.7z",
@@ -2653,6 +2674,27 @@
           "IsNSFW": false,
           "ModID": 105970,
           "Name": "Vanilla Item Descriptions",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "79AIY4cJQ1M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=149212\nfileID=625352",
+        "Name": "DBF LOD Guide - Temp Snow Replacement-149212-1-0-1746815741.7z",
+        "Size": 297,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModdingLinked",
+          "Description": "Files needed while following A Dragonborn\u0027s Fate.",
+          "FileID": 625352,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/149212/149212-1746463355-1132602421.png",
+          "IsNSFW": false,
+          "ModID": 149212,
+          "Name": "A Dragonborn\u0027s Fate Resources",
           "Version": "1.0"
         }
       }
