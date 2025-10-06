@@ -1,8 +1,8 @@
 {
   "MachineURL": "SkyrimUnificationProject/SkyrimUnificationProject",
   "Name": "Skyrim Unification Project",
-  "Version": "1.0.0",
-  "ModListHash": "xKw8Qlbxuk4=",
+  "Version": "1.0.0.1",
+  "ModListHash": "Ny7/0pK4w88=",
   "Archives": [
     {
       "Status": "Valid",
@@ -414,6 +414,27 @@
           "ModID": 42990,
           "Name": "Capital Windhelm Expansion",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SH9brTioJOk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=157246\nfileID=657680",
+        "Name": "CotP - CoDB Addon - Vanilla Mouths-157246-1-01-1755744985.7z",
+        "Size": 39400684,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SassiestAssassin",
+          "Description": "An addon for Children of the Pariah so that the Orcs use CoDB\u0027s aging textures.",
+          "FileID": 657680,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/157246/157246-1755738829-2023700152.png",
+          "IsNSFW": false,
+          "ModID": 157246,
+          "Name": "Children of the Pariah - CoDB Addon",
+          "Version": "1.0"
         }
       }
     },
@@ -49260,48 +49281,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b5OmHvMDZb8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64477\nfileID=278502",
-        "Name": "Legacy of the Dragonborn Visual Overhaul-64477-1-0-1650482465.7z",
-        "Size": 62865105,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mocia",
-          "Description": "6 months? How about 18?",
-          "FileID": 278502,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64477/64477-1650563561-287793649.png",
-          "IsNSFW": false,
-          "ModID": 64477,
-          "Name": "Legacy of the Dragonborn Visual Overhaul",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OfFcOy+1mgw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60638\nfileID=251301",
-        "Name": "PAN_Sofia v2 SE-60638-1-0-1640300840.rar",
-        "Size": 40647974,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A small visual overhaul of the infamous Sofia with a standalone follower version.",
-          "FileID": 251301,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60638/110146-1640299461-583594767.png",
-          "IsNSFW": false,
-          "ModID": 60638,
-          "Name": "Pandorable\u0027s Sofia replacer",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "r9UnXdjPXf4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30680\nfileID=114755",
         "Name": "Pandorable\u0027s NPCs - Dragonborn SE-30680-1-1-1575120229.rar",
@@ -49317,27 +49296,6 @@
           "ModID": 30680,
           "Name": "Pandorable\u0027s NPCs - Dragonborn",
           "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SH9brTioJOk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=157246\nfileID=657680",
-        "Name": "CotP - CoDB Addon - Vanilla Mouths-157246-1-01-1755744985.7z",
-        "Size": 39400684,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SassiestAssassin",
-          "Description": "An addon for Children of the Pariah so that the Orcs use CoDB\u0027s aging textures.",
-          "FileID": 657680,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/157246/157246-1755738829-2023700152.png",
-          "IsNSFW": false,
-          "ModID": 157246,
-          "Name": "Children of the Pariah - CoDB Addon",
-          "Version": "1.0"
         }
       }
     },
@@ -49365,6 +49323,90 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cnAUTpyKYeY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16090\nfileID=51545",
+        "Name": "Zora_normalizedv2-16090-2.7z",
+        "Size": 66776278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OblivionUser101",
+          "Description": "Normailizes the dialog volume for Zora Fairchild from the Interesting NPC\u0027s mod (3dnpcs).  You will also need the full mod port to SSE which is linked below.",
+          "FileID": 51545,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16090/16090-1522005932-725637496.jpeg",
+          "IsNSFW": false,
+          "ModID": 16090,
+          "Name": "Interesting NPCs (3DNPC) character Zora Fairchild\u0027s voice boosted",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jQx/eoKQBic=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=93224\nfileID=420635",
+        "Name": "GG\u0027s Capital JK\u0027s Whiterun-93224-2-0-1693026810.rar",
+        "Size": 110655506,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "There was no full combo patch for both JK\u0027s Skyrim and Capital Whiterun Expansion so I made one, with a lot of personal tweaks.",
+          "FileID": 420635,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/93224/93224-1686408636-1533616766.png",
+          "IsNSFW": false,
+          "ModID": 93224,
+          "Name": "GG\u0027s Capital JK\u0027s Whiterun",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y6CJaT4n3p0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=98103\nfileID=461107",
+        "Name": "CotH - HIMBO - SoS Textures-98103-1-1-2-1705191619.7z",
+        "Size": 26398852,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "allonsywisegirl",
+          "Description": "Overhauls the appearances of all Argonian NPCs.",
+          "FileID": 461107,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/98103/98103-1702237614-207573751.png",
+          "IsNSFW": false,
+          "ModID": 98103,
+          "Name": "Children of the Hist - An Argonian NPC Overhaul",
+          "Version": "1.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b5OmHvMDZb8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64477\nfileID=278502",
+        "Name": "Legacy of the Dragonborn Visual Overhaul-64477-1-0-1650482465.7z",
+        "Size": 62865105,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mocia",
+          "Description": "6 months? How about 18?",
+          "FileID": 278502,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64477/64477-1650563561-287793649.png",
+          "IsNSFW": false,
+          "ModID": 64477,
+          "Name": "Legacy of the Dragonborn Visual Overhaul",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8gO/QE2ejI0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=21775\nfileID=216947",
         "Name": "D.U.I. SE v2.4-21775-2-4-1627325308.7z",
@@ -49380,6 +49422,111 @@
           "ModID": 21775,
           "Name": "Draugr Upgrades and Improvements (Draugr and Skeleton Overhaul)",
           "Version": "2.4.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OfFcOy+1mgw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60638\nfileID=251301",
+        "Name": "PAN_Sofia v2 SE-60638-1-0-1640300840.rar",
+        "Size": 40647974,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A small visual overhaul of the infamous Sofia with a standalone follower version.",
+          "FileID": 251301,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60638/110146-1640299461-583594767.png",
+          "IsNSFW": false,
+          "ModID": 60638,
+          "Name": "Pandorable\u0027s Sofia replacer",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pzAYn1V3LVk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=114607\nfileID=514397",
+        "Name": "I) Ignoble Beds - LOTD Patch-114607-1-0-1719206454.rar",
+        "Size": 102044,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sotha simp",
+          "Description": "A model replacer for noble and upper-class beds with mostly 2k textures and a medium to high poly count. Use Those Blankets and Double Beds for Spooning patches provided for optimal comfiness and immersion. Just a mesh replacer, no ESP.",
+          "FileID": 514397,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/114607/114607-1710966507-1765049642.png",
+          "IsNSFW": false,
+          "ModID": 114607,
+          "Name": "Ignoble Beds - A Noble and Upper Class Bed Replacer",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j0wM8aLgTOU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10644\nfileID=229184",
+        "Name": "Cleaned and Upscaled Textures-10644-1-1-1631986699.rar",
+        "Size": 496982726,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Watcherzero",
+          "Description": "This mod brings back many of the classic unique weapons, armor and clothing from The Elder Scrolls IV: Oblivion.",
+          "FileID": 229184,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10644-9-1498659441.jpg",
+          "IsNSFW": false,
+          "ModID": 10644,
+          "Name": "Oblivion Artifact Pack SE",
+          "Version": "V3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SJifXdKH/FA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=7644\nfileID=19033",
+        "Name": "The Grey Cowl of Nocturnal SE - HD Texture pack-7644-1-2.zip",
+        "Size": 472980498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Salchichen",
+          "Description": "This mod aims to improve overall visual quality of the Gray Cowl of Nocturnal mod by replacing textures by new ones in 2k resolution and BC7 compression.",
+          "FileID": 19033,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/7644-1-1484878829.jpg",
+          "IsNSFW": false,
+          "ModID": 7644,
+          "Name": "The Gray Cowl of Nocturnal SSE - HD pack",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A+dPgwpK6so=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=73903\nfileID=511352",
+        "Name": "Favor Quests Separated-73903-2-10-1718328802.7z",
+        "Size": 11165867,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "This seperates several favor quests. In Vanilla, only one of each of the favor quests can be active. This mod changes that.",
+          "FileID": 511352,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73903/73903-1661267686-1207334874.png",
+          "IsNSFW": false,
+          "ModID": 73903,
+          "Name": "Favor Quests Separated",
+          "Version": "2.8"
         }
       }
     },
@@ -49428,111 +49575,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A+dPgwpK6so=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=73903\nfileID=511352",
-        "Name": "Favor Quests Separated-73903-2-10-1718328802.7z",
-        "Size": 11165867,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AndrealphusVIII",
-          "Description": "This seperates several favor quests. In Vanilla, only one of each of the favor quests can be active. This mod changes that.",
-          "FileID": 511352,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73903/73903-1661267686-1207334874.png",
-          "IsNSFW": false,
-          "ModID": 73903,
-          "Name": "Favor Quests Separated",
-          "Version": "2.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pzAYn1V3LVk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=114607\nfileID=514397",
-        "Name": "I) Ignoble Beds - LOTD Patch-114607-1-0-1719206454.rar",
-        "Size": 102044,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sotha simp",
-          "Description": "A model replacer for noble and upper-class beds with mostly 2k textures and a medium to high poly count. Use Those Blankets and Double Beds for Spooning patches provided for optimal comfiness and immersion. Just a mesh replacer, no ESP.",
-          "FileID": 514397,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/114607/114607-1710966507-1765049642.png",
-          "IsNSFW": false,
-          "ModID": 114607,
-          "Name": "Ignoble Beds - A Noble and Upper Class Bed Replacer",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SJifXdKH/FA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=7644\nfileID=19033",
-        "Name": "The Grey Cowl of Nocturnal SE - HD Texture pack-7644-1-2.zip",
-        "Size": 472980498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Salchichen",
-          "Description": "This mod aims to improve overall visual quality of the Gray Cowl of Nocturnal mod by replacing textures by new ones in 2k resolution and BC7 compression.",
-          "FileID": 19033,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/7644-1-1484878829.jpg",
-          "IsNSFW": false,
-          "ModID": 7644,
-          "Name": "The Gray Cowl of Nocturnal SSE - HD pack",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y6CJaT4n3p0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=98103\nfileID=461107",
-        "Name": "CotH - HIMBO - SoS Textures-98103-1-1-2-1705191619.7z",
-        "Size": 26398852,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "allonsywisegirl",
-          "Description": "Overhauls the appearances of all Argonian NPCs.",
-          "FileID": 461107,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/98103/98103-1702237614-207573751.png",
-          "IsNSFW": false,
-          "ModID": 98103,
-          "Name": "Children of the Hist - An Argonian NPC Overhaul",
-          "Version": "1.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jQx/eoKQBic=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=93224\nfileID=420635",
-        "Name": "GG\u0027s Capital JK\u0027s Whiterun-93224-2-0-1693026810.rar",
-        "Size": 110655506,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GGUNIT",
-          "Description": "There was no full combo patch for both JK\u0027s Skyrim and Capital Whiterun Expansion so I made one, with a lot of personal tweaks.",
-          "FileID": 420635,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/93224/93224-1686408636-1533616766.png",
-          "IsNSFW": false,
-          "ModID": 93224,
-          "Name": "GG\u0027s Capital JK\u0027s Whiterun",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "XtwO/bCt97E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=80979\nfileID=341901",
         "Name": "RS Children - Solitude Docks Updated Patch-80979-1-0-1671460903.7z",
@@ -49548,48 +49590,6 @@
           "ModID": 80979,
           "Name": "RS Children - Solitude Docks Updated",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "j0wM8aLgTOU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10644\nfileID=229184",
-        "Name": "Cleaned and Upscaled Textures-10644-1-1-1631986699.rar",
-        "Size": 496982726,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Watcherzero",
-          "Description": "This mod brings back many of the classic unique weapons, armor and clothing from The Elder Scrolls IV: Oblivion.",
-          "FileID": 229184,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10644-9-1498659441.jpg",
-          "IsNSFW": false,
-          "ModID": 10644,
-          "Name": "Oblivion Artifact Pack SE",
-          "Version": "V3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cnAUTpyKYeY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=16090\nfileID=51545",
-        "Name": "Zora_normalizedv2-16090-2.7z",
-        "Size": 66776278,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OblivionUser101",
-          "Description": "Normailizes the dialog volume for Zora Fairchild from the Interesting NPC\u0027s mod (3dnpcs).  You will also need the full mod port to SSE which is linked below.",
-          "FileID": 51545,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16090/16090-1522005932-725637496.jpeg",
-          "IsNSFW": false,
-          "ModID": 16090,
-          "Name": "Interesting NPCs (3DNPC) character Zora Fairchild\u0027s voice boosted",
-          "Version": "2"
         }
       }
     }

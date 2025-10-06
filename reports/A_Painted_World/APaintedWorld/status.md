@@ -326,6 +326,7 @@
 *  Data_Oblivion - Voices1.bsa
 *  Data_Oblivion - Voices2.bsa
 *  Data_Oblivion.esm
+*  Data_Shaders_shaderpackage002.sdp
 *  Data_Video_2k games.bik
 *  Data_Video_bethesda softworks HD720p.bik
 *  Data_Video_CreditsMenu.bik
@@ -621,9 +622,8 @@
 *  [J3 Atlassed VWD 2 - Cyrodiil - Ruins - ALL - Ruined Ruins (texture mod)-51732-1-15-1677615791.7z](https://www.nexusmods.com/oblivion/mods/51732/?tab=files&file_id=1000033849)
 *  [J3 Atlassed VWD 2 - Shivering Isles - Bomret's Texture Pack for Shivering Isles-51732-1-0-1655751776.7z](https://www.nexusmods.com/oblivion/mods/51732/?tab=files&file_id=1000031605)
 *  [Join the Order of the Black Worm Voices (11Labs)-55560-1-0-1758370051.7z](https://www.nexusmods.com/oblivion/mods/55560/?tab=files&file_id=1000043013)
-*  [JoinTheNecromancers - AI Voices-54847-1-0-1740600199.zip](https://www.nexusmods.com/oblivion/mods/54847/?tab=files&file_id=1000040979)
 *  [JoinTheNecromancers - Main-54847-1-2-1740222793.zip](https://www.nexusmods.com/oblivion/mods/54847/?tab=files&file_id=1000040917)
-*  [JoinTheNecromancers - Silence-54847-1-1-1740174646.zip](https://www.nexusmods.com/oblivion/mods/54847/?tab=files&file_id=1000040914)
+*  [JoinTheNecromancers - Main-54847-1-5-1759443874.zip](https://www.nexusmods.com/oblivion/mods/54847/?tab=files&file_id=1000043096)
 *  [Journal-Based Quest Directions-52593-1-0-1672103276.rar](https://www.nexusmods.com/oblivion/mods/52593/?tab=files&file_id=1000033285)
 *  [kadem-48856-1-1-1541090545.zip](https://www.nexusmods.com/oblivion/mods/48856/?tab=files&file_id=1000020613)
 *  [kart-free-khajiit-hair-oco2-49656-1-1571270723.7z](https://www.nexusmods.com/oblivion/mods/49656/?tab=files&file_id=1000023127)
@@ -748,7 +748,6 @@
 *  [Oblivion Content Restoration Project -- Knights-45909-1-0.7z](https://www.nexusmods.com/oblivion/mods/45909/?tab=files&file_id=1000014695)
 *  [Oblivion Content Restoration Project-45909-1-3.7z](https://www.nexusmods.com/oblivion/mods/45909/?tab=files&file_id=1000014694)
 *  [Oblivion High Quality Music-55030-1-0-1744322672.7z](https://www.nexusmods.com/oblivion/mods/55030/?tab=files&file_id=1000041381)
-*  [Oblivion OST Expansion-55286-1-1758466607.7z](https://www.nexusmods.com/oblivion/mods/55286/?tab=files&file_id=1000043021)
 *  [Oblivion Realm HD-43100-1-0.7z](https://www.nexusmods.com/oblivion/mods/43100/?tab=files&file_id=93430)
 *  [Oblivion Stereo Sound Overhaul-5861.7z](https://www.nexusmods.com/oblivion/mods/5861/?tab=files&file_id=4866)
 *  [Oblivion Upscaled Textures BSA - Part 1-52977-1-0-1684311956.7z](https://www.nexusmods.com/oblivion/mods/52977/?tab=files&file_id=1000034692)
@@ -785,11 +784,12 @@
 *  [OOO Flavor Text for Extended UI 1.1-51781-1-1-1649435764.zip](https://www.nexusmods.com/oblivion/mods/51781/?tab=files&file_id=1000030785)
 *  [OOO golems OBME edition-50417-0-01-1599898318.zip](https://www.nexusmods.com/oblivion/mods/50417/?tab=files&file_id=1000025774)
 *  [OOO Shivering Isles-46508-V3-2-1690966941.7z](https://www.nexusmods.com/oblivion/mods/46508/?tab=files&file_id=1000035612)
+*  [OOO Voice FIles-46199-1-0-1722704975.7z](https://www.nexusmods.com/oblivion/mods/46199/?tab=files&file_id=1000039030)
 *  [OOO_Update_Patch_Compatable-54069-2b-1741691402.7z](https://www.nexusmods.com/oblivion/mods/54069/?tab=files&file_id=1000041123)
 *  [Optimized VWD-49595-2-0-1621031055.7z](https://www.nexusmods.com/oblivion/mods/49595/?tab=files&file_id=1000027797)
 *  [Optional Floor Textures - Compressed-54988-1-0-0-1743020163.zip](https://www.nexusmods.com/oblivion/mods/54988/?tab=files&file_id=1000041258)
 *  [Optional torch-38061-1-1.7z](https://www.nexusmods.com/oblivion/mods/38061/?tab=files&file_id=78383)
-*  [ORC301-51927-3-0-1-1758014590.7z](https://www.nexusmods.com/oblivion/mods/51927/?tab=files&file_id=1000042984)
+*  [ORC31-51927-3-1-0-1759594074.7z](https://www.nexusmods.com/oblivion/mods/51927/?tab=files&file_id=1000043106)
 *  [Particled Ayleid Stones 1.0-47245-1-0.7z](https://www.nexusmods.com/oblivion/mods/47245/?tab=files&file_id=1000015081)
 *  [Patch - Knights of the Nine DLC-31668-1-0.zip](https://www.nexusmods.com/oblivion/mods/31668/?tab=files&file_id=82996)
 *  [PEVH - Black-48130-1-0.7z](https://www.nexusmods.com/oblivion/mods/48130/?tab=files&file_id=1000017993)
