@@ -439,7 +439,7 @@
 *  [NTZ's Apple Pie - BHUNP-144219-1-0-1742411835.zip](https://www.nexusmods.com/skyrimspecialedition/mods/144219/?tab=files&file_id=607467)
 *  [NTZ's Yogurt - BHUNP-140803-1-0-1738724291.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140803/?tab=files&file_id=591200)
 *  [NVIDIA Reflex Support-74498-1-1-2-1674832681.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74498/?tab=files&file_id=353518)
-*  [Oathvein UI-160916-1-0-0-1759857820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160916/?tab=files&file_id=673302)
+*  [Oathvein UI-160916-1-0-1-1760036444.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160916/?tab=files&file_id=674038)
 *  [Object Categorization Framework-81469-6-1-0-1736820849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81469/?tab=files&file_id=583103)
 *  [Oblivion Interaction Icons - DSD-52743-2-6-1738818732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=591593)
 *  [OBody NG ORefit MasterList 2025.05-105052-2025-05-1746735540.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105052/?tab=files&file_id=625039)
