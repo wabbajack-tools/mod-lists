@@ -45,7 +45,6 @@
 *  [Animated Ships-110260-1-2-0-1709576413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110260/?tab=files&file_id=476969)
 *  [Animation Motion Revolution-50258-1-5-3-1664395662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=320113)
 *  [Animation Queue Fix-82395-1-0-1-1673338766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348271)
-*  [Anniversary Edition Content Picker-58890-1-2-1702765731.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58890/?tab=files&file_id=452523)
 *  [Arcs WispMother Redux 2k-111330-1-1708108635.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111330/?tab=files&file_id=471500)
 *  [Arena - An Encounter Zone Overhaul-33487-1-2-0-1687450157.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33487/?tab=files&file_id=399865)
 *  [Arena - Harder Easy Spawns-33487-1-1-2-1696275112.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33487/?tab=files&file_id=430710)
@@ -58,7 +57,7 @@
 *  [At Your Own Pace - Companions-52704-3-0-4CP-1700976265.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=446173)
 *  [At Your Own Pace - Misc-52704-1-1-0-1633233207.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=232244)
 *  [At Your Own Pace - Thieves Guild-52704-2-1-1TG-1682573468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=382341)
-*  [AtCW - Siege Damage Repairs-20668-2-6-3-1757237595.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20668/?tab=files&file_id=663191)
+*  [AtCW - Siege Damage Repairs-20668-2-6-5-1759932935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20668/?tab=files&file_id=673611)
 *  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
@@ -214,10 +213,13 @@
 *  [Daedric Shrines AIO by Xtudo - WINTERSUN Fixes-78809-5-7-1749506921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78809/?tab=files&file_id=636355)
 *  [Daedric Voices - Hircine-32090-0-5-1581494877.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32090/?tab=files&file_id=123761)
 *  [Dark Brotherhood Armors Retexture SE - Half Res-93890-1-1-0-1740935422.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93890/?tab=files&file_id=601046)
+*  Data_ccbgssse066-staves.bsa
+*  Data_cccbhsse001-gaunt.bsa
+*  Data_ccffbsse002-crossbowpack.bsa
+*  Data_ccvsvsse004-beafarmer.bsa
 *  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
-*  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  [Dawnguard Armors and Weapons Retexture SE-Half Res-92161-1-0-1685046171.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391871)
@@ -440,6 +442,7 @@
 *  [Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip](https://www.nexusmods.com/skyrimspecialedition/mods/824/?tab=files&file_id=19438)
 *  [Improved College Entry-22184-2-8-1602614138.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22184/?tab=files&file_id=165417)
 *  [Improved Loading Screen Colors-61712-1-0-1641844293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61712/?tab=files&file_id=255727)
+*  [Improved Meshes-129754-1-0-1727209190.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129754/?tab=files&file_id=545756)
 *  [Inertia - Latest Version-148746-1-1-0-1749035032.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148746/?tab=files&file_id=634469)
 *  [Infiltration - Quest Expansion-114054-1-02-1724572951.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114054/?tab=files&file_id=535065)
 *  [Infinity UI-74483-2-0-3-1730049690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=556134)
@@ -570,7 +573,6 @@
 *  [Mrf's Solitude Exteriors-55903-3-0-5-1756853838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55903/?tab=files&file_id=661904)
 *  [Mrf's Solitude Unique Interior 2K-55903-3-0-4-1743200783.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55903/?tab=files&file_id=611080)
 *  [Mundus - A Standing Stone Overhaul-33411-1-14-2-1755449148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33411/?tab=files&file_id=656616)
-*  [Music - HQ-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
 *  [Mysticism - A Magic Overhaul-27839-2-4-2-1712790317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27839/?tab=files&file_id=489424)
 *  [Mysticism - Light Magic VFX - ESL Patch-151995-1-0-0-1749195204.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151995/?tab=files&file_id=635134)
 *  [Native EditorID Fix-85260-1-2-2-1712605528.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85260/?tab=files&file_id=488800)
@@ -952,8 +954,6 @@
 *  [Vigil Enforcer Retexture SE - Half Res-120097-1-0-1716468645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120097/?tab=files&file_id=504077)
 *  [VioLens - A Killmove Mod SE - Settings Loader-56674-2-0-0-1740474511.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56674/?tab=files&file_id=598836)
 *  [VioLens - A Killmove Mod SE 2.30-668-2-30-1641929178.7z](https://www.nexusmods.com/skyrimspecialedition/mods/668/?tab=files&file_id=255970)
-*  [Voices EN  - Part 2-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57857)
-*  [Voices EN - Part 1-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57972)
 *  [WACCF - Lite-149827-1-2-1-1747513078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149827/?tab=files&file_id=628187)
 *  [WACCF Patch-139942-1-0-1737774210.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139942/?tab=files&file_id=587063)
 *  [WACCF Patch-139946-1-0-1737774861.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139946/?tab=files&file_id=587070)
