@@ -563,7 +563,7 @@
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
-*  [Skyrim.Together.Reborn.Features.Integration.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.7.1.24-features-integration/Skyrim.Together.Reborn.Features.Integration.7z)
+*  [Skyrim.Together.Reborn.Features.Integration.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.7.1.34-features-integration/Skyrim.Together.Reborn.Features.Integration.7z)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
