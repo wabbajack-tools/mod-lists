@@ -418,7 +418,6 @@
 *  [Eyes Waterline Fix MALE AND FEMALE UPDATE-55537-1-2-1636686794.7z](https://www.nexusmods.com/fallout4/mods/55537/?tab=files&file_id=221222)
 *  [f4ee-detours-0.2.0-1.10.163-1.6.20-91235-0-2-0-1742047855.7z](https://www.nexusmods.com/fallout4/mods/91235/?tab=files&file_id=350836)
 *  [F4SE ChangeHeadPart Fix-91379-2-0-0-1745722242.7z](https://www.nexusmods.com/fallout4/mods/91379/?tab=files&file_id=354757)
-*  [f4se_0_06_23.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
 *  [F4z Ro D'oh-39848-1-1-1667138221.7z](https://www.nexusmods.com/fallout4/mods/39848/?tab=files&file_id=255117)
 *  [Fabulous Fire Extinguisher-70706-1-0-1682054691.rar](https://www.nexusmods.com/fallout4/mods/70706/?tab=files&file_id=274814)
 *  [Facial Expr. and Eyetr. Engine Fixes-89732-1-2-1733572402.zip](https://www.nexusmods.com/fallout4/mods/89732/?tab=files&file_id=342229)
@@ -431,6 +430,7 @@
 *  [Fallout 4 - Forgotten Art - No NG version-95996-1-0-1755637154.zip](https://www.nexusmods.com/fallout4/mods/95996/?tab=files&file_id=364960)
 *  [Fallout 4 Ataralyxius' Companion Face Revamp V4.0a-6555-V4-0a.rar](https://www.nexusmods.com/fallout4/mods/6555/?tab=files&file_id=85137)
 *  [Fallout 4 Outfit System-75285-2-9-4-0-1740796872.zip](https://www.nexusmods.com/fallout4/mods/75285/?tab=files&file_id=349197)
+*  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
 *  Fallout4.ccc
