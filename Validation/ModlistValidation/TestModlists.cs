@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using Wabbajack.DTOs;
@@ -16,6 +17,7 @@ namespace ModlistValidation
     {
         private readonly DTOSerializer _dtoSerializer;
         private static readonly HttpClient Client = new();
+        private const string InvalidReposMarkdown = "files/Invalid_Repositories.md";
 
         public TestModlists()
         {
@@ -25,14 +27,21 @@ namespace ModlistValidation
 
             var serviceProvider = services.BuildServiceProvider();
             _dtoSerializer = serviceProvider.GetRequiredService<DTOSerializer>();
+
+            File.WriteAllText(InvalidReposMarkdown, "# Failing Repositories\n\n");
         }
 
         [Theory]
         [InlineData("files/repositories.json")]
-        public async void TestRepositories(string file)
+        public async Task TestRepositories(string file)
         {
+
+            var invalidReposFile = "files/invalid_repositories.json";
+
             Assert.True(File.Exists(file), $"The file at \"{file}\" does not exist!");
+            Assert.True(File.Exists(invalidReposFile), $"\"{invalidReposFile}\" doesn't exist!");
             Dictionary<string, Uri> repositories;
+            Dictionary<string, Uri> invalidRepositories;
             try
             {
                 var text = File.ReadAllText(file);
@@ -41,6 +50,17 @@ namespace ModlistValidation
             catch (Exception e)
             {
                 Assert.True(e == null, $"Unable to deserialize file \"{file}\"");
+                throw;
+            }
+
+            try
+            {
+                var text = File.ReadAllText(invalidReposFile);
+                invalidRepositories = JsonConvert.DeserializeObject<Dictionary<string, Uri>>(text);
+            }
+            catch (Exception e)
+            {
+                Assert.True(e == null, $"Unable to deserialize file \"{invalidReposFile}\"");
                 throw;
             }
 
@@ -58,17 +78,34 @@ namespace ModlistValidation
                     }
                     catch (Exception e)
                     {
-                        //Using Assert.True(false) is not ideal, but it it should help make errors in the JSONs easier to find.
-                        Assert.True(false, $"Unable to Validate \"{entry.Value}\". Due to the following Error:\n{e}");
+                        Assert.Fail($"Unable to Validate \"{entry.Value}\". Due to the following Error:\n{e}");
                     }
                 }
                 catch (Exception e)
                 {
-                    //Using Assert.True(false) is not ideal, but it it should help make errors in the JSONs easier to find.
-                    Assert.True(false, $"Unable to find valid \"{entry.Key}\" repository. Due to the following Error:\n{e}");
-                    throw;
+                    invalidRepositories.Add(entry.Key,entry.Value);
+                    var invalidReposJson = JsonConvert.SerializeObject(invalidRepositories, Formatting.Indented);
+                    File.WriteAllText(invalidReposFile, invalidReposJson);
+
+                    var entryKeyString = entry.Key;
+
+                    var repoReport = $"## {entryKeyString}\n\n" +
+                                     $"Failed due to the following Error:\n" +
+                                     $"```\n{e}\n```\n\n";
+
+                    File.AppendAllText(InvalidReposMarkdown,repoReport);
+
+                    Assert.True(true);
                 }
             }
+            var keysToRemove = repositories.Keys.Intersect(invalidRepositories.Keys).ToList();
+            foreach (var key in keysToRemove)
+            {
+                repositories.Remove(key);
+            }
+            var validReposJson = JsonConvert.SerializeObject(repositories, Formatting.Indented);
+            File.WriteAllText(file, validReposJson);
+            Assert.True(true);
 
         }
 
@@ -152,7 +189,7 @@ namespace ModlistValidation
             if (uri.Host.Equals("www.github.com", StringComparison.OrdinalIgnoreCase) ||
                 uri.Host.Equals("github.com", StringComparison.OrdinalIgnoreCase))
             {
-                Assert.False(true, $"Uri \"{uri}\" is not valid. You need to provide the direct link to the image/readme. (\"{name}\")");
+                Assert.Fail( $"Uri \"{uri}\" is not valid. You need to provide the direct link to the image/readme. (\"{name}\")");
             }
         }
 
