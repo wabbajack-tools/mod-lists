@@ -1,5 +1,9 @@
 name: List Validation
 
+concurrency:
+    group: Validations
+    cancel-in-progress: false
+
 on:
   schedule:
     - cron: 0 */4 * * *
@@ -14,7 +18,7 @@ jobs:
   build-cli:
     name: List Validation
     runs-on: ubuntu-latest
-    
+
     env:
       NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
       NEXUS_LOGIN: ${{ secrets.NEXUS_LOGIN }}
@@ -22,7 +26,7 @@ jobs:
       LOVERS_LAB: ${{ secrets.LOVERS_LAB }}
       FTP_CREDENTIALS: ${{ secrets.FTP_CREDENTIALS }}
       DISCORD_ENDPOINTS: ${{ secrets.DISCORD_ENDPOINTS }}
-    
+
     steps:
       - name: Setup .NET Core SDK 9.0.x
         uses: actions/setup-dotnet@v4
@@ -33,24 +37,24 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: wabbajack-tools/wabbajack
-      
+
       - name: Checkout Modlist Source
         uses: actions/checkout@v2
         with:
           repository: wabbajack-tools/mod-lists
           path: mod-lists
           ref: master
-                    
+
       - name: Add System.Commandline
         continue-on-error: true
         run: dotnet nuget add source https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-libraries/nuget/v3/index.json -n System.Commandline
-      
+
       - name: Install dependencies
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
 
       - name: Run List Validation
         run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports
-        
+
       - name: Upload Reports
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -58,12 +62,12 @@ jobs:
           branch: master
           repository: mod-lists
           file_pattern: reports/*
-        
+
       - uses: actions/upload-artifact@v4
         name: Upload Artifacts
         with:
           name: mod-list-reports
-          path: ${{ github.workspace }}/mod-lists/reports        
-    
+          path: ${{ github.workspace }}/mod-lists/reports
+
 
 

@@ -1,5 +1,9 @@
 name: Validation
 
+concurrency:
+    group: Validations
+    cancel-in-progress: false
+
 on:
   schedule:
     - cron: 30 0/4 * * *
@@ -13,17 +17,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: github.repository == 'wabbajack-tools/mod-lists'
-    
+
     steps:
     - uses: actions/checkout@v2
 
     - name: Setup .NET Core SDK 9.0.x
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '9.0.x'  
+        dotnet-version: '9.0.x'
     - name: Restore dependencies
       run: dotnet restore Validation/Validation.sln
     - name: Build
-      run: dotnet build Validation/Validation.sln --no-restore 
+      run: dotnet build Validation/Validation.sln --no-restore
     - name: Test
       run: dotnet test Validation/Validation.sln --no-build --verbosity normal
+
+    - name: Sync Validation Output Into Repository
+      run: sh sync_validation_output.sh
+
+    - name: Move Repositories and Log Failing Repositories
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Repository Validation
+        repository: mod-lists
+        file_pattern: 'Invalid_Repositories.md invalid_repositories.json repositories.json'
