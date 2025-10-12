@@ -64,6 +64,9 @@ namespace ModlistValidation
                 throw;
             }
 
+            repositories = repositories.Concat(invalidRepositories)
+                .ToDictionary(x => x.Key, x => x.Value);
+
             foreach (var entry in repositories)
             {
                 ValidateMachineUrl(entry.Key, entry.Key);
