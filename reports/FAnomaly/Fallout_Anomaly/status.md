@@ -5,7 +5,7 @@
 *  [enbseries_fallout4_v0501.zip](http://enbdev.com/enbseries_fallout4_v0501.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1039)
+### Valid (1040)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
@@ -292,6 +292,7 @@
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
+*  Data_Scripts_Source_DLC01_DLC01.zip
 *  Data_Video_MainMenuLoop.bk2
 *  [Deadlier Deathclaws-13822-3-3-5.7z](https://www.nexusmods.com/fallout4/mods/13822/?tab=files&file_id=111233)
 *  [Deadly Courser-88843-1-1730447677.7z](https://www.nexusmods.com/fallout4/mods/88843/?tab=files&file_id=338588)
