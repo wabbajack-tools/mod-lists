@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2350)
+### Valid (2348)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [- Skyrim 202X - 4K-68307-10-5-2-1754266903.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652626)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -346,7 +346,6 @@
 *  [Creation Club Open Helmets 2.0-70992-2-4-1-1759535927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=671999)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Crowded Streets 1.1.3 DV ESL HEDR 17000-129111-1-13-DV-1750591158.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129111/?tab=files&file_id=640608)
 *  [Crown of Freydis - Stalhrim Refrozen-78904-1-0-1668624173.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78904/?tab=files&file_id=332380)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
@@ -1095,7 +1094,7 @@
 *  [Improved Jail Bars SMIM-64185-3-0-1723058562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64185/?tab=files&file_id=529218)
 *  [Improved Loading Screen Colors-61712-1-0-1641844293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61712/?tab=files&file_id=255727)
 *  [Improved Solitude Arch-100979-1-33-1757117443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/100979/?tab=files&file_id=662731)
-*  [Improved Solitude Walls-111956-1-32-1710028596.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111956/?tab=files&file_id=478818)
+*  [Improved Solitude Walls-111956-1-33-1760231943.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111956/?tab=files&file_id=674926)
 *  [Improved Theater mesh - High version-90934-1-0-1683577676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90934/?tab=files&file_id=386106)
 *  [Improved Traps-17592-2-5-1-1733355923.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17592/?tab=files&file_id=569046)
 *  [Improved Wall Baskets - FOMOD-108028-1-03-1704247895.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108028/?tab=files&file_id=457344)
@@ -2300,7 +2299,6 @@
 *  [Volkihar Knight SE 1.0.0-4806-1-0-0-1547251285.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4806/?tab=files&file_id=77992)
 *  [Volkihar Soundscape Overhaul-118891-1-1-1715465187.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118891/?tab=files&file_id=500242)
 *  [VPW - Water Effects Brightness Fix-154311-1-0-1754331783.rar](https://www.nexusmods.com/skyrimspecialedition/mods/154311/?tab=files&file_id=652886)
-*  [VRAMr-90557-v15-0723-1753265364.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90557/?tab=files&file_id=649526)
 *  [Waifu Expression Redux (With High Poly Head Support)-70691-1-11-1662988885.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70691/?tab=files&file_id=315547)
 *  [Wall mounted dead animals fixes-58511-1-0-1636998454.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58511/?tab=files&file_id=241749)
 *  [Warheads - Skyrim Arrows Reforged AIO-107273-0-5a-1706671457.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107273/?tab=files&file_id=466425)
