@@ -10,6 +10,8 @@ on:
   push:
     paths-ignore:
       - reports/**
+      - 'Invalid_Repositories.md'
+      - 'invalid_repositories.json'
     branches:
       - master
   workflow_dispatch:

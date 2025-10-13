@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: 30 0/4 * * *
   push:
+    paths-ignore:
+      - reports/**
+      - 'Invalid_Repositories.md'
+      - 'invalid_repositories.json'
     branches:
       - master
   pull_request:
