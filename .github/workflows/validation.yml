@@ -45,7 +45,7 @@ jobs:
       run: chmod +x sync_validation_output.sh && bash sync_validation_output.sh
 
     - name: Commit Updated Repository Files & Error Logs
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Repository Validation
         file_pattern: 'Invalid_Repositories.md invalid_repositories.json repositories.json'
