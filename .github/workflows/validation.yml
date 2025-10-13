@@ -41,7 +41,7 @@ jobs:
       run: dotnet test Validation/Validation.sln --no-build --verbosity normal
 
     - name: Sync Validation Output Into Repository
-      run: sh sync_validation_output.sh
+      run: chmod +x sync_validation_output.sh && bash sync_validation_output.sh
 
     - name: Move Repositories and Log Failing Repositories
       uses: stefanzweifel/git-auto-commit-action@v4
