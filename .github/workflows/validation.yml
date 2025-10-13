@@ -1,9 +1,17 @@
 name: Validation
 
+concurrency:
+    group: Validations
+    cancel-in-progress: false
+
 on:
   schedule:
     - cron: 30 0/4 * * *
   push:
+    paths-ignore:
+      - reports/**
+      - 'Invalid_Repositories.md'
+      - 'invalid_repositories.json'
     branches:
       - master
   pull_request:
@@ -13,17 +21,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: github.repository == 'wabbajack-tools/mod-lists'
-    
+
+    env:
+      IS_PULL_REQUEST: ${{ github.event_name == 'pull_request' }}
+
     steps:
+    - name: Echo Event Name
+      run: echo ${{ github.event_name }}
     - uses: actions/checkout@v2
 
     - name: Setup .NET Core SDK 9.0.x
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '9.0.x'  
+        dotnet-version: '9.0.x'
     - name: Restore dependencies
       run: dotnet restore Validation/Validation.sln
     - name: Build
-      run: dotnet build Validation/Validation.sln --no-restore 
+      run: dotnet build Validation/Validation.sln --no-restore
     - name: Test
-      run: dotnet test Validation/Validation.sln --no-build --verbosity normal
+      run: export IS_PULL_REQUEST=${{ env.IS_PULL_REQUEST }} && dotnet test Validation/Validation.sln --no-build --verbosity normal
+
+    - name: Sync Validation Output Into Repository
+      run: chmod +x sync_validation_output.sh && bash sync_validation_output.sh
+
+    - name: Commit Updated Repository Files & Error Logs
+      uses: stefanzweifel/git-auto-commit-action@v7
+      with:
+        commit_message: Repository Validation
+        file_pattern: 'Invalid_Repositories.md invalid_repositories.json repositories.json'
