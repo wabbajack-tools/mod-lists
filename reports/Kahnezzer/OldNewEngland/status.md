@@ -690,7 +690,7 @@
 *  [Mobile Sentry Legs-97059-1-1-1760302268.7z](https://www.nexusmods.com/fallout4/mods/97059/?tab=files&file_id=369934)
 *  [Mobius' Classical Power Fist-90147-1-0-1734702393.zip](https://www.nexusmods.com/fallout4/mods/90147/?tab=files&file_id=343246)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
-*  [Mod Organizer 2.5.2-ML1.5 Archive-874-2-5-2-ML1-5-1723841178.7z](https://github.com/ModOrganizer2/modorganizer/archive/cc78137eb526cb78c57ba2b7998bca270085f7ef.zip)
+*  [Mod Organizer 2.5.2-ML1.5 Archive-874-2-5-2-ML1-5-1723841178.7z](https://www.nexusmods.com/site/mods/874/?tab=files&file_id=3835)
 *  [Model 37 Shotgun-75794-2-3-1756349314.7z](https://www.nexusmods.com/fallout4/mods/75794/?tab=files&file_id=365737)
 *  [ModernHouseLOD-62975-1-0-1659782210.zip](https://www.nexusmods.com/fallout4/mods/62975/?tab=files&file_id=245809)
 *  [Monsterum -DeathClaw Sounds Rework--52771-1-2-1636893783.7z](https://www.nexusmods.com/fallout4/mods/52771/?tab=files&file_id=221410)
