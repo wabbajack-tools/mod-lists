@@ -21,6 +21,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Set Environment Variables
+      if: github.event_name == 'pull_request'
+      run: export IS_PULL_REQUEST="True"
+
     - name: Setup .NET Core SDK 9.0.x
       uses: actions/setup-dotnet@v4
       with:

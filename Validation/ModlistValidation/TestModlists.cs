@@ -98,7 +98,8 @@ namespace ModlistValidation
 
                     File.AppendAllText(InvalidReposMarkdown,repoReport);
 
-                    Assert.True(true);
+                    Assert.False(bool.Parse(Environment.GetEnvironmentVariable("IS_PULL_REQUEST") ?? "false")
+                        ,$"Failed to validate repository: {entryKeyString} due to the following Error:\n{e}");
                 }
             }
             var keysToRemove = repositories.Keys.Intersect(invalidRepositories.Keys).ToList();
