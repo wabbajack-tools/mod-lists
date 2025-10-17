@@ -150,7 +150,7 @@
 *  [Wasted DC Cliffs-25606-1-0-1680850501.zip](https://www.nexusmods.com/fallout3/mods/25606/?tab=files&file_id=1000024152)
 *  [Waters of Life LOD Output-26081-1-4-0-1760551811.7z](https://www.nexusmods.com/fallout3/mods/26081/?tab=files&file_id=1000029195)
 *  [Waters of Life LOD Plugin-26081-1-3-2-1749287647.7z](https://www.nexusmods.com/fallout3/mods/26081/?tab=files&file_id=1000028683)
-*  [Waters of Life Patches-26081-1-4-0-1760551905.7z](https://www.nexusmods.com/fallout3/mods/26081/?tab=files&file_id=1000029196)
+*  [Waters of Life Patches-26081-1-4-0-1-1760672126.7z](https://www.nexusmods.com/fallout3/mods/26081/?tab=files&file_id=1000029205)
 *  [Windows To The Soul-79906-2-1-1712867484.7z](https://www.nexusmods.com/newvegas/mods/79906/?tab=files&file_id=1000127372)
 *  [ZESP v1_0-9346.7z](https://www.nexusmods.com/fallout3/mods/9346/?tab=files&file_id=58368)
 *  [zlib Updated - FOSE-26126-1-1-1713809965.7z](https://www.nexusmods.com/fallout3/mods/26126/?tab=files&file_id=1000026287)
