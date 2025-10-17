@@ -1,11 +1,10 @@
 ## Validation Report - F4FEVR (F4FEVR/LaskeumaKuume)
 
 
-### Invalid (1)
-*  [f4sevr_0_6_20.7z](https://f4se.silverlock.org/beta/f4sevr_0_6_20.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (107)
+### Valid (108)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
 *  [Advanced Needs 76 - Main File-58440-v1-8-5-1658937830.zip](https://www.nexusmods.com/fallout4/mods/58440/?tab=files&file_id=244707)
 *  [AN76 - Another Pine Forest Patch-58440-v1-0-0-1645858046.rar](https://www.nexusmods.com/fallout4/mods/58440/?tab=files&file_id=230765)
@@ -33,6 +32,7 @@
 *  [F4FEVR Point Lookout Patch.7z](https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR Point Lookout Patch.7z)
 *  [F4FEVR_Intro.7z](https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR_Intro.7z)
 *  [F4SEVR - Script Fix-63328-1-0-1661090270.zip](https://www.nexusmods.com/fallout4/mods/63328/?tab=files&file_id=247617)
+*  [f4sevr_0_6_20.7z](https://f4se.silverlock.org/beta/f4sevr_0_6_20.7z)
 *  [Fallout 3-style Vats Screech-47730-1-15-1601656963.zip](https://www.nexusmods.com/fallout4/mods/47730/?tab=files&file_id=192413)
 *  [Fallout 4 - Point Lookout-60330-1-1652278869.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237355)
 *  [Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=242233)
