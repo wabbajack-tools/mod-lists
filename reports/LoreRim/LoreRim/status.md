@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4338)
+### Valid (4337)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -707,7 +707,6 @@
 *  [Complementary Grass Fixes-71562-1-1-1682610728.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71562/?tab=files&file_id=382429)
 *  [Complete Controller Setup-99978-5-3-5-1747916448.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99978/?tab=files&file_id=629863)
 *  [Complex Parallax Meshes (Alpha)-96921-4-1690914581.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96921/?tab=files&file_id=413147)
-*  [Comprehensive Critical Damage Fix AE-157530-1-3-1-1756287240.rar](https://www.nexusmods.com/skyrimspecialedition/mods/157530/?tab=files&file_id=659689)
 *  [Comprehensive First Person Animation Overhaul-87169-1-0-4-hotfix-1709828463.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87169/?tab=files&file_id=477930)
 *  [Conditional Armor Type Animations - No Armor Male-133680-1-0-1731460171.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133680/?tab=files&file_id=561698)
 *  [Conditional Armor Type Animations for Sneak-133680-1-0-1731635658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133680/?tab=files&file_id=562343)
@@ -3536,7 +3535,7 @@
 *  [Skyrim Texture Overhaul - Stars 4K-4931-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4931/?tab=files&file_id=10453)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
-*  [skyrim-freeze-fix-160704-0-0-3-1759890280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=673465)
+*  [skyrim-freeze-fix-160704-0-0-4-1760281302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=675181)
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Demo patch-110408-1-0-1706538744.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110408/?tab=files&file_id=465979)
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
