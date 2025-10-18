@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (672)
+### Valid (674)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [0-Elden Rim-Base 3.6.4-65625-3-6-4-1744294040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=615795)
 *  [01) HIMBO V5 - Core-46311-5-6-1-1748406228.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=632021)
@@ -283,6 +283,8 @@
 *  [Fuz Ro D'oh-15109-2-5-1706039953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=464222)
 *  [FYX - Water Mesh Optimization B 72-97713-1-0-2-1691765522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97713/?tab=files&file_id=416100)
 *  [Game Settings Override v2.2.0-114911-2-2-0-1717210168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114911/?tab=files&file_id=507076)
+*  [Gamepad Button Freer-91823-1-0-1684668115.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91823/?tab=files&file_id=390480)
+*  [Gamepad Sprint Fix-91172-1-1-1686650733.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91172/?tab=files&file_id=397455)
 *  [Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=474419)
 *  [Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71110/?tab=files&file_id=298623)
 *  [Goetia Animations - Magic Spell Casting-70204-1-4-1656370500.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70204/?tab=files&file_id=294546)
@@ -315,7 +317,6 @@
 *  [Immersive Weapon Switch-139762-3-3-4-1754641842.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139762/?tab=files&file_id=653798)
 *  [Imperial Armor (Heavy) Hotfix-46311-5-6-1-1748405095.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=632016)
 *  [Imperial Badonkas-132287-1-0-1729880025.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132287/?tab=files&file_id=555446)
-*  [Improved Alternate Conversation Camera AE-68210-1-2-0-1705625705.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68210/?tab=files&file_id=462731)
 *  [Improved Barstool Exit Animation-143012-1-4-1758663795.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143012/?tab=files&file_id=668823)
 *  [Improved Idle Laydown Animations - OAR-99691-1-1-1696882770.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99691/?tab=files&file_id=432735)
 *  [Improved Table Sit Transition OAR-84160-1-5-1758670040.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84160/?tab=files&file_id=668847)
@@ -563,7 +564,7 @@
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
-*  [Skyrim.Together.Reborn.Features.Integration.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.7.1.34-features-integration/Skyrim.Together.Reborn.Features.Integration.7z)
+*  [Skyrim.Together.Reborn.Features.Integration.v1.7.1.39_1.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.7.1.39-features-integration/Skyrim.Together.Reborn.Features.Integration.v1.7.1.39.7z)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
@@ -618,6 +619,7 @@
 *  [The Restless Dead Update 1.2.6.1-94100-1-2-6-1-1749026136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94100/?tab=files&file_id=634414)
 *  [The Ultimate Dodge Mod - SPID Patch-69531-1-3-0-BETA-1675970259.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69531/?tab=files&file_id=358101)
 *  [The Ultimate Dodge Mod Xing Patch-89327-v0-35-1681616064.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89327/?tab=files&file_id=378705)
+*  [TheOtherControl-74120-4-0-1662501655.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74120/?tab=files&file_id=313868)
 *  [To Your Face AE-24720-1-0u-1705996371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=464059)
 *  [Toggle Camera-122503-0-1-8-1724503264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122503/?tab=files&file_id=534796)
 *  [True Directional Movement-51614-2-2-6-1725670168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=539468)
