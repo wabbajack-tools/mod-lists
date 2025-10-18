@@ -1846,7 +1846,7 @@
 *  [Hearthfires Houses Building Fix-27298-0-2-1718261006.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27298/?tab=files&file_id=511094)
 *  [HeavyBlade Normal and Power For MCO-76997-1-0-1665595797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76997/?tab=files&file_id=323521)
 *  [Hellblade battle Sword animation_MCO DAR-123232-v1-0-1720065823.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123232/?tab=files&file_id=517489)
-*  [Helmet Toggle 2-100617-3-5-1-1754105880.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100617/?tab=files&file_id=652027)
+*  [Helmet Toggle 2-100617-3-5-3-1760367543.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100617/?tab=files&file_id=675548)
 *  [Hendraheim - TnE - CC Fishing Patch-98688-2-0-1708961263.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98688/?tab=files&file_id=474772)
 *  [Hendraheim - TnE - USCCP Patch-98688-2-1-1710115658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98688/?tab=files&file_id=479240)
 *  [Hendraheim - Tweaks and Enhancements-98688-2-1-1710115516.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98688/?tab=files&file_id=479238)
