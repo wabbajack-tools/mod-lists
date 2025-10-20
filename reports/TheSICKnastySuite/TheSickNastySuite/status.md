@@ -1579,7 +1579,7 @@
 *  [Prototype Z-94660-1-0-1751038330.zip](https://www.nexusmods.com/fallout4/mods/94660/?tab=files&file_id=360069)
 *  [PRP Compat Point Lookout-46403-74-18-1736492854.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=344784)
 *  [PRP Plugins NG Experimental Hotfix-46403-74-23-1747097978.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=356121)
-*  [PRP Plugins NG-46403-74-22-1746797193.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=355772)
+*  [PRP Plugins NG-46403-74-24-1760973209.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=370623)
 *  [PRP Resources-46403-74-14-1727810755.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=335766)
 *  [PRP SS2 Conflict Resoultion ESM-57947-3-4-4-1737999585.7z](https://www.nexusmods.com/fallout4/mods/57947/?tab=files&file_id=346455)
 *  [Prydwen Vertibird Door Fix-91145-1-0-1738096744.zip](https://www.nexusmods.com/fallout4/mods/91145/?tab=files&file_id=346579)
