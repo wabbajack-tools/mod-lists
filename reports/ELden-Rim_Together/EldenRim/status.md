@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (673)
+### Valid (674)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [0-Elden Rim-Base 3.6.4-65625-3-6-4-1744294040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=615795)
 *  [01) HIMBO V5 - Core-46311-5-6-1-1748406228.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=632021)
@@ -13,7 +13,7 @@
 *  [1 - DynDOLOD DLL SE - Scripts-57264-2-82-9-1714234014.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=495330)
 *  [1-Elden Rim-Weapon Art 3.0.4-65625-3-0-4-1744727056.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=617572)
 *  [17.3 Bodyslide Output-84495-3-2-6-1754623846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=653737)
-*  [17.4 Nemesis Output-84495-3-2-7-1754623882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=653738)
+*  [17.4 Nemesis Output-84495-3-2-8-1760218923.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=674834)
 *  [18.0 LODGen Output-84495-3-1-2-1733649546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=570268)
 *  [18.1 TexGen Output-84495-3-1-2-1733649153.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=570266)
 *  [18.2 DynDOLOD Output-84495-3-1-2-1733649454.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84495/?tab=files&file_id=570267)
@@ -439,7 +439,8 @@
 *  [NTZ's Apple Pie - BHUNP-144219-1-0-1742411835.zip](https://www.nexusmods.com/skyrimspecialedition/mods/144219/?tab=files&file_id=607467)
 *  [NTZ's Yogurt - BHUNP-140803-1-0-1738724291.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140803/?tab=files&file_id=591200)
 *  [NVIDIA Reflex Support-74498-1-1-2-1674832681.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74498/?tab=files&file_id=353518)
-*  [Oathvein UI-160916-1-0-1-1760036444.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160916/?tab=files&file_id=674038)
+*  [Oathvein Racemenu DIP-160916-1-0-1-1759915150.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160916/?tab=files&file_id=673548)
+*  [Oathvein UI-160916-1-0-2-1760139891.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160916/?tab=files&file_id=674379)
 *  [Object Categorization Framework-81469-6-1-0-1736820849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81469/?tab=files&file_id=583103)
 *  [Oblivion Interaction Icons - DSD-52743-2-6-1738818732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=591593)
 *  [OBody NG ORefit MasterList 2025.05-105052-2025-05-1746735540.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105052/?tab=files&file_id=625039)
@@ -563,7 +564,7 @@
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
-*  [Skyrim.Together.Reborn.Features.Integration.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.7.1.24-features-integration/Skyrim.Together.Reborn.Features.Integration.7z)
+*  [Skyrim.Together.Reborn.Features.Integration.v1.7.1.39_1.7z](https://github.com/rfortier/TiltedEvolution-rwf/releases/download/v1.7.1.39-features-integration/Skyrim.Together.Reborn.Features.Integration.v1.7.1.39.7z)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)

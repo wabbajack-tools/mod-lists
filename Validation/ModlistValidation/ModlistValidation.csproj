@@ -7,10 +7,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.0" />
         <PackageReference Include="Wabbajack.DTOs" Version="4.0.2" />
         <PackageReference Include="xunit" Version="2.9.3" />
-        <PackageReference Include="xunit.runner.visualstudio" Version="3.1.1">
+        <PackageReference Include="xunit.runner.visualstudio" Version="3.1.5">
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
             <PrivateAssets>all</PrivateAssets>
         </PackageReference>
@@ -24,6 +24,14 @@
         <Content Include="..\..\ci_lists.json">
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
           <Link>files\ci_lists.json</Link>
+        </Content>
+        <Content Include="..\..\invalid_repositories.json">
+          <Link>files\invalid_repositories.json</Link>
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\Invalid_Repositories.md">
+          <Link>files\Invalid_Repositories.md</Link>
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
         <Content Include="..\..\modlists.json">
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
