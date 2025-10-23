@@ -86,7 +86,8 @@ namespace ModlistValidation
                 }
                 catch (Exception e)
                 {
-                    invalidRepositories.Add(entry.Key,entry.Value);
+                    if (!invalidRepositories.ContainsKey(entry.Key)) invalidRepositories.Add(entry.Key,entry.Value);
+
                     var invalidReposJson = JsonConvert.SerializeObject(invalidRepositories, Formatting.Indented);
                     File.WriteAllText(invalidReposFile, invalidReposJson);
 
