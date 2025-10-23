@@ -42,6 +42,7 @@ namespace ModlistValidation
             Assert.True(File.Exists(invalidReposFile), $"\"{invalidReposFile}\" doesn't exist!");
             Dictionary<string, Uri> repositories;
             Dictionary<string, Uri> invalidRepositories;
+            Dictionary<string, Uri> invalidOutputRepositories = new();
             try
             {
                 var text = File.ReadAllText(file);
@@ -66,7 +67,7 @@ namespace ModlistValidation
 
             repositories = repositories.Concat(invalidRepositories)
                 .ToDictionary(x => x.Key, x => x.Value);
-
+            invalidRepositories.Clear();
             foreach (var entry in repositories)
             {
                 ValidateMachineUrl(entry.Key, entry.Key);
@@ -86,7 +87,7 @@ namespace ModlistValidation
                 }
                 catch (Exception e)
                 {
-                    if (!invalidRepositories.ContainsKey(entry.Key)) invalidRepositories.Add(entry.Key,entry.Value);
+                    invalidRepositories.Add(entry.Key,entry.Value);
 
                     var invalidReposJson = JsonConvert.SerializeObject(invalidRepositories, Formatting.Indented);
                     File.WriteAllText(invalidReposFile, invalidReposJson);
