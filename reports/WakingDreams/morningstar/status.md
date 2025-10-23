@@ -44,7 +44,7 @@
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Azurite III - Reduced Cut-147751-3-34-1744723855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147751/?tab=files&file_id=617563)
-*  [Azurite III CS-162153-1-0-2-1761148637.zip](https://www.nexusmods.com/skyrimspecialedition/mods/162153/?tab=files&file_id=679139)
+*  [Azurite III CS-162153-1-0-3-1761231388.zip](https://www.nexusmods.com/skyrimspecialedition/mods/162153/?tab=files&file_id=679527)
 *  [Azurite Mists-106559-1-2-1702132264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106559/?tab=files&file_id=450162)
 *  [Azurite Weathers III-42731-3-34-1742525295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=607852)
 *  [Base Object Swapper-60805-3-4-1-1752606013.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=647525)
