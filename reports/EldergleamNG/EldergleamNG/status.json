@@ -2,7 +2,7 @@
   "MachineURL": "EldergleamNG/EldergleamNG",
   "Name": "Eldergleam Next-Gen",
   "Version": "4.0",
-  "ModListHash": "pI70rgyGv+w=",
+  "ModListHash": "IeBf7K49lVI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -37545,6 +37545,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "b4BLKxLgz+k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=140010\nfileID=679324",
+        "Name": "Controlmap.txt - 1.5.97-140010-1-2-2-1761183001.7z",
+        "Size": 2171,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dax",
+          "Description": "A gamepad controlmap/guide that aims to be as close as possible to vanilla bindings while still allowing us to use modern combat staples like MCO, OCPA, TK Dodge, Dual Wield Parrying, and a few other optional mods. Intended for use with either the Eldergleam modlist or Syn Gaming\u0027s Combat Overhauls.",
+          "FileID": 679324,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/140010/140010-1737853436-1958545873.jpeg",
+          "IsNSFW": false,
+          "ModID": 140010,
+          "Name": "Dax\u0027s Guide and Controlmap to Modern Combat Gamepad in Skyrim",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "IKtGcrNpb+Q=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=90350\nfileID=383765",
         "Name": "ElSopa - Quivers Resized Bound Arrow ENB 10 Percent-90350-1-1682960858.rar",
@@ -39662,64 +39683,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eLfpLReF12w=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse002-crossbowpack.bsa",
-        "Name": "Data_ccffbsse002-crossbowpack.bsa",
-        "Size": 91832685,
+        "Hash": "FC+yJIfHEZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
+        "Name": "Data_ccbgssse001-fish.bsa",
+        "Size": 377675522,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccffbsse002-crossbowpack.bsa",
+          "GameFile": "Data\\ccbgssse001-fish.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "eLfpLReF12w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gmtzSRavyZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse001-imperialdragon.bsa",
-        "Name": "Data_ccffbsse001-imperialdragon.bsa",
-        "Size": 177912136,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "gmtzSRavyZY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "D4PRDdN07t8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse031-advcyrus.bsa",
-        "Name": "Data_ccbgssse031-advcyrus.bsa",
-        "Size": 145481731,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse031-advcyrus.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "D4PRDdN07t8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ia3REakZzbo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
-        "Name": "Data_ccbgssse067-daedinv.bsa",
-        "Size": 386611908,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "ia3REakZzbo="
+          "Hash": "FC+yJIfHEZY="
         }
       }
     },
@@ -39763,123 +39736,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kaXJZ5bCqwo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\cceejsse005-cave.bsa",
-        "Name": "Data_cceejsse005-cave.bsa",
-        "Size": 29777150,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\cceejsse005-cave.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "kaXJZ5bCqwo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mjtVnmYOLhw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.bsa",
-        "Name": "Data_ccqdrsse001-survivalmode.bsa",
-        "Size": 12835601,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccqdrsse001-survivalmode.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "mjtVnmYOLhw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ulJPbfHx/wM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse034-mntuni.bsa",
-        "Name": "Data_ccbgssse034-mntuni.bsa",
-        "Size": 76553700,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse034-mntuni.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "ulJPbfHx/wM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FQbA20bA5Dw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
-        "Name": "Data_ccbgssse037-curios.bsa",
-        "Size": 111740475,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse037-curios.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "FQbA20bA5Dw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VTFw7kmYtLs=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
-        "Name": "Data_ccbgssse025-advdsgs.bsa",
-        "Size": 1092876237,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "VTFw7kmYtLs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZF2fYvOMjCQ=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse019-staffofsheogorath.bsa",
-        "Name": "Data_ccbgssse019-staffofsheogorath.bsa",
-        "Size": 11887694,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse019-staffofsheogorath.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "ZF2fYvOMjCQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kkuxgiRE+G0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=140010\nfileID=587405",
-        "Name": "Controlmap.txt - 1.5.97-140010-1-1-1-1737841365.7z",
-        "Size": 2178,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dax",
-          "Description": "A gamepad controlmap/guide that aims to be as close as possible to vanilla bindings while still allowing us to use modern combat staples like MCO, OCPA, TK Dodge, Dual Wield Parrying, and a few other optional mods. Intended for use with either the Eldergleam modlist or Syn Gaming\u0027s Combat Overhauls.",
-          "FileID": 587405,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/140010/140010-1737853436-1958545873.jpeg",
-          "IsNSFW": false,
-          "ModID": 140010,
-          "Name": "Dax\u0027s Guide and Controlmap to Modern Combat Gamepad in Skyrim",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6cfO4iV3RJM=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse018-shadowrend.bsa",
         "Name": "Data_ccbgssse018-shadowrend.bsa",
@@ -39912,6 +39768,86 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ia3REakZzbo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
+        "Name": "Data_ccbgssse067-daedinv.bsa",
+        "Size": 386611908,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "ia3REakZzbo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kaXJZ5bCqwo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\cceejsse005-cave.bsa",
+        "Name": "Data_cceejsse005-cave.bsa",
+        "Size": 29777150,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\cceejsse005-cave.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "kaXJZ5bCqwo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mjtVnmYOLhw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.bsa",
+        "Name": "Data_ccqdrsse001-survivalmode.bsa",
+        "Size": 12835601,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccqdrsse001-survivalmode.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "mjtVnmYOLhw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VTFw7kmYtLs=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
+        "Name": "Data_ccbgssse025-advdsgs.bsa",
+        "Size": 1092876237,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "VTFw7kmYtLs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D4PRDdN07t8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse031-advcyrus.bsa",
+        "Name": "Data_ccbgssse031-advcyrus.bsa",
+        "Size": 145481731,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse031-advcyrus.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "D4PRDdN07t8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "h0mIieAhiGo=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse036-petbwolf.bsa",
         "Name": "Data_ccbgssse036-petbwolf.bsa",
@@ -39928,32 +39864,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lHKecWZdnlI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
-        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
-        "Size": 43781890,
+        "Hash": "FQbA20bA5Dw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
+        "Name": "Data_ccbgssse037-curios.bsa",
+        "Size": 111740475,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
+          "GameFile": "Data\\ccbgssse037-curios.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "lHKecWZdnlI="
+          "Hash": "FQbA20bA5Dw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3BUhwSXraIA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse008-wraithguard.bsa",
-        "Name": "Data_ccbgssse008-wraithguard.bsa",
-        "Size": 37750811,
+        "Hash": "G/rXqztUR/c=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
+        "Name": "Data_ccbgssse063-ba_ebony.bsa",
+        "Size": 47723055,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse008-wraithguard.bsa",
+          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "3BUhwSXraIA="
+          "Hash": "G/rXqztUR/c="
         }
       }
     },
@@ -39976,16 +39912,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sZvYkCPtHlU=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse058-ba_steel.bsa",
-        "Name": "Data_ccbgssse058-ba_steel.bsa",
-        "Size": 50766738,
+        "Hash": "3BUhwSXraIA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse008-wraithguard.bsa",
+        "Name": "Data_ccbgssse008-wraithguard.bsa",
+        "Size": 37750811,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse058-ba_steel.bsa",
+          "GameFile": "Data\\ccbgssse008-wraithguard.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "sZvYkCPtHlU="
+          "Hash": "3BUhwSXraIA="
         }
       }
     },
@@ -40024,32 +39960,96 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FC+yJIfHEZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
-        "Name": "Data_ccbgssse001-fish.bsa",
-        "Size": 377675522,
+        "Hash": "lHKecWZdnlI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
+        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
+        "Size": 43781890,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse001-fish.bsa",
+          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "FC+yJIfHEZY="
+          "Hash": "lHKecWZdnlI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G/rXqztUR/c=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
-        "Name": "Data_ccbgssse063-ba_ebony.bsa",
-        "Size": 47723055,
+        "Hash": "eLfpLReF12w=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse002-crossbowpack.bsa",
+        "Name": "Data_ccffbsse002-crossbowpack.bsa",
+        "Size": 91832685,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
+          "GameFile": "Data\\ccffbsse002-crossbowpack.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "G/rXqztUR/c="
+          "Hash": "eLfpLReF12w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gmtzSRavyZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse001-imperialdragon.bsa",
+        "Name": "Data_ccffbsse001-imperialdragon.bsa",
+        "Size": 177912136,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "gmtzSRavyZY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sZvYkCPtHlU=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse058-ba_steel.bsa",
+        "Name": "Data_ccbgssse058-ba_steel.bsa",
+        "Size": 50766738,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse058-ba_steel.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "sZvYkCPtHlU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ulJPbfHx/wM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse034-mntuni.bsa",
+        "Name": "Data_ccbgssse034-mntuni.bsa",
+        "Size": 76553700,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse034-mntuni.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "ulJPbfHx/wM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZF2fYvOMjCQ=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse019-staffofsheogorath.bsa",
+        "Name": "Data_ccbgssse019-staffofsheogorath.bsa",
+        "Size": 11887694,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse019-staffofsheogorath.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "ZF2fYvOMjCQ="
         }
       }
     },

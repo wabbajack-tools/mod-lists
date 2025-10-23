@@ -371,7 +371,7 @@
 *  [Contextual Crosshair Patch-141748-1-3-0-1739519201.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141748/?tab=files&file_id=594434)
 *  [Contextual Crosshair-63980-1-3-1-1741784240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=604744)
 *  [ContinueSound-47473-1-0-1616595473.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47473/?tab=files&file_id=193320)
-*  [Controlmap.txt - 1.5.97-140010-1-1-1-1737841365.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140010/?tab=files&file_id=587405)
+*  [Controlmap.txt - 1.5.97-140010-1-2-2-1761183001.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140010/?tab=files&file_id=679324)
 *  [Core Impact Framework - Latest Version-146873-1-2-1-1750368728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=639596)
 *  [CotA - USSEP-122165-1-0-1754793253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122165/?tab=files&file_id=654339)
 *  [CotF - USSEP-122167-1-0-1751400730.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122167/?tab=files&file_id=643338)
