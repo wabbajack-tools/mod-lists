@@ -18,6 +18,7 @@ namespace ModlistValidation
         private readonly DTOSerializer _dtoSerializer;
         private static readonly HttpClient Client = new();
         private const string InvalidReposMarkdown = "files/Invalid_Repositories.md";
+        private bool _isPullRequest = false;
 
         public TestModlists()
         {
@@ -35,7 +36,7 @@ namespace ModlistValidation
         [InlineData("files/repositories.json")]
         public async Task TestRepositories(string file)
         {
-
+            _isPullRequest = bool.Parse(Environment.GetEnvironmentVariable("IS_PULL_REQUEST") ?? "false");
             var invalidReposFile = "files/invalid_repositories.json";
 
             Assert.True(File.Exists(file), $"The file at \"{file}\" does not exist!");
@@ -64,10 +65,11 @@ namespace ModlistValidation
                 Assert.True(e == null, $"Unable to deserialize file \"{invalidReposFile}\"");
                 throw;
             }
-
-            repositories = repositories.Concat(invalidRepositories)
-                .ToDictionary(x => x.Key, x => x.Value);
-            invalidRepositories.Clear();
+            if (!_isPullRequest) {
+                repositories = repositories.Concat(invalidRepositories)
+                    .ToDictionary(x => x.Key, x => x.Value);
+                invalidRepositories.Clear();
+            }
             foreach (var entry in repositories)
             {
                 ValidateMachineUrl(entry.Key, entry.Key);
@@ -100,8 +102,8 @@ namespace ModlistValidation
 
                     File.AppendAllText(InvalidReposMarkdown,repoReport);
 
-                    Assert.False(bool.Parse(Environment.GetEnvironmentVariable("IS_PULL_REQUEST") ?? "false")
-                        ,$"Failed to validate repository: {entryKeyString} due to the following Error:\n{e}");
+                    Assert.False(_isPullRequest,
+                        $"Failed to validate repository: {entryKeyString} due to the following Error:\n{e}");
                 }
             }
             var keysToRemove = repositories.Keys.Intersect(invalidRepositories.Keys).ToList();
