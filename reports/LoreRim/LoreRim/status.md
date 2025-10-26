@@ -2940,7 +2940,7 @@
 *  [Project AHO ESM Flag Edition-15996-2-0-1554571292.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15996/?tab=files&file_id=87561)
 *  [Project AHO Locks-63150-1-1-0-1644170780.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63150/?tab=files&file_id=262244)
 *  [Project AHOPatch SE - ESL Flagged File-21386-2-00-1580585853.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21386/?tab=files&file_id=122182)
-*  [Project Gap Close-130830-1-7-0-1748007010.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130830/?tab=files&file_id=630242)
+*  [Project Gap Close - Disabled Dynamic CPR-130830-1-5-0-1729374712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130830/?tab=files&file_id=553774)
 *  [Project ja-Kha'jay-57610-4-07-1703784360.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57610/?tab=files&file_id=455818)
 *  [Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66128/?tab=files&file_id=275418)
 *  [Purchasable CC Camping Supplies-99636-1-0-1693451241.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99636/?tab=files&file_id=422189)
