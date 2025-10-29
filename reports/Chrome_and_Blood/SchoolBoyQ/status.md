@@ -220,7 +220,7 @@
 *  [Cozy Cropped Sweater Vol. 2 - Main File-17118-2-0-1740696734.rar](https://www.nexusmods.com/cyberpunk2077/mods/17118/?tab=files&file_id=102821)
 *  [Crafting Recipe Owned Labels-11261-1-0-1-1701170767.zip](https://www.nexusmods.com/cyberpunk2077/mods/11261/?tab=files&file_id=59132)
 *  [crafting_component_quantity_text-17266-0-0-0-5-1753629650.zip](https://www.nexusmods.com/cyberpunk2077/mods/17266/?tab=files&file_id=115300)
-*  [Crimson Echo - HUD Painter Preset-25157-1-0-1760922980.rar](https://www.nexusmods.com/cyberpunk2077/mods/25157/?tab=files&file_id=125221)
+*  [Crimson Echo - HUD Painter Preset-25157-1-1-1761702217.rar](https://www.nexusmods.com/cyberpunk2077/mods/25157/?tab=files&file_id=126336)
 *  [Cronos-13462-1-1-1757901525.zip](https://www.nexusmods.com/cyberpunk2077/mods/13462/?tab=files&file_id=121380)
 *  [Crop Top - Hyst EBB.-8935-1-1691276288.rar](https://www.nexusmods.com/cyberpunk2077/mods/8935/?tab=files&file_id=47554)
 *  [Crop Top Variants - Main-15957-2-0-1740756095.rar](https://www.nexusmods.com/cyberpunk2077/mods/15957/?tab=files&file_id=102880)
