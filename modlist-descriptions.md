@@ -15,7 +15,6 @@
     -   [Aurbaesence](#aurbaesence)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
-    -   [Fahdon](#fahdon)
     -   [Halls of Sovngarde](#halls-of-sovngarde)
     -   [Keizaal](#keizaal)
     -   [Legends of the Frost](#legends-of-the-frost)
@@ -190,25 +189,6 @@ From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/sky
 -   [NPCs Learn Skills and Spells](https://www.nexusmods.com/skyrimspecialedition/mods/77342)
 -   [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
 -   [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
-
----
-
-### [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/)
-
-Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends.
-
-**_Mods to get familiar with:_**
-
--   [Alternate Start LAL](https://www.nexusmods.com/skyrimspecialedition/mods/272)
--   [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
--   [Starting in Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410)
--   [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086)
--   [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419)
--   [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
--   [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
--   [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027)
-
-There are numerous other changes to the standard Skyrim experience, so please visit my [Changes To Gameplay](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Changes%20To%20Gameplay.md) section of the readme for more information on each notable mod.
 
 ---
 
