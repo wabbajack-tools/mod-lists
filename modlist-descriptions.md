@@ -15,7 +15,6 @@
     -   [Aurbaesence](#aurbaesence)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
-    -   [Fahdon](#fahdon)
     -   [Halls of Sovngarde](#halls-of-sovngarde)
     -   [Keizaal](#keizaal)
     -   [Legends of the Frost](#legends-of-the-frost)
@@ -39,10 +38,6 @@
     -   [Life in the Ruins](#life-in-the-ruins)
     -   [Magnum Opus](#magnum-opus)
     -   [Welcome to Paradise](#welcome-to-paradise)
-    -   [Whispering Chills - A Fallout 4 Experience](#whispering-chills---a-fallout-4-experience)
-    -   [Lost World - A Fallout 4 Experience](#lost-world---a-fallout-4-experience)
-    -   [Stay FROSTy - A Fallout 4 Experience](#stay-frosty---a-fallout-4-experience)
-    -   [Ground Zero - A Fallout 4 Experience](#ground-zero---a-fallout-4-experience)
     -   [FUSION](#fusion)
     -   [Fallout Anomaly](#fallout-anomaly)
     -   [Wasteland Reborn](#wasteland-reborn)
@@ -60,7 +55,6 @@
 -   [Fallout 4 VR](#fallout-4-vr)
     -   [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 -   [Fallout New Vegas](#fallout-new-vegas)
-    -   [Capital Punishment](#capital-punishment)
     -   [Viva New Vegas](#viva-new-vegas)
 -   [Tale Of Two Wastelands](#tale-of-two-wastelands)
     -   [Begin Again](#begin-again)
@@ -195,25 +189,6 @@ From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/sky
 -   [NPCs Learn Skills and Spells](https://www.nexusmods.com/skyrimspecialedition/mods/77342)
 -   [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
 -   [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
-
----
-
-### [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/)
-
-Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends.
-
-**_Mods to get familiar with:_**
-
--   [Alternate Start LAL](https://www.nexusmods.com/skyrimspecialedition/mods/272)
--   [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
--   [Starting in Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410)
--   [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086)
--   [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419)
--   [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
--   [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
--   [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027)
-
-There are numerous other changes to the standard Skyrim experience, so please visit my [Changes To Gameplay](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Changes%20To%20Gameplay.md) section of the readme for more information on each notable mod.
 
 ---
 
@@ -517,70 +492,6 @@ Check out the [full modlist](https://loadorderlibrary.com/lists/welcome-to-parad
 
 ---
 
-### [Whispering Chills - A Fallout 4 Experience](https://www.fallout4experiences.com/whispering-chills)
-
-Whispering Chills is a horror experience unlike any other. It is intended to be entirely standalone in that you don't need to enjoy or know very well how to play Fallout 4 to be able to enjoy it as a horror fan in general. Perfect for anyone experiencing burnout in their other modded setups. It is about as "lore-unfriendly" as you can get purely using the engine as a vessel to craft an entirely new experience through a unique combination of mods that enhance/rework its core mechanics and add new content that entirely change its core focus. All vanilla quests and NPC's have been replaced with more thematically fitting horror variants.
-
-Unlike most other Bethesda games where the horror element feels tacked on at best even using mods, the amazing modding community around this game has afforded us the opportunity to overhaul the Fallout 4 experience into an entirely unique other experience. The core premise revolves around an alternate vision of the Commonwealth where a door to the paranormal dimension has allowed for literal hell on earth to take over and has left very little remains in its wake. Your ultimate goal and place in this hellscape is for you to decide.
-
-**_Mods to get familiar with:_**
-
-[Whispering Hills](https://www.nexusmods.com/fallout4/mods/46871)
-
-[Fallout 4-76 Open World](https://www.nexusmods.com/fallout4/mods/59082)
-
-[Sweet Whispers](https://www.nexusmods.com/fallout4/mods/64130)
-
-View the entire [list of mods.](https://www.wabbajack.org/search/WhisperingChills/Whispering-Chills)
-
----
-
-### [Lost World - A Fallout 4 Experience](https://www.fallout4experiences.com/lost-world)
-
-Lost World is an experience featuring TWO independent profiles: one that offers a STALKER-inspired hardcore survival overhaul for Fallout 4 and another that offers a Metro-inspired hardcore survival overhaul for Fallout 4. After installing, you will be able to switch between both as you please. Both profiles feature unique visuals, gameplay systems, soundscapes, and a completely reworked foundation that will make it feel like you are basically playing an entirely new game set in the world of Fallout 4. In Lost World, you are alone and must live off the land to survive while taking in harsh, gritty, breathtaking visuals and facing unforgiving combat.
-
-**_Mods to get familiar with:_**
-
-[MAIM](https://www.nexusmods.com/fallout4/mods/58964)
-
-[Gas Masks of the Wasteland](https://www.nexusmods.com/fallout4/mods/17491)
-
-[True Perks](https://www.nexusmods.com/fallout4/mods/49400) - Lost World features its own patched perk overhaul using this mod as the foundation
-
-[Hunter of the Commonwealth](https://www.nexusmods.com/fallout4/mods/48853)
-
-View the entire [list of mods.](https://www.wabbajack.org/search/LW/LW) - Certain mods may be exclusive to either profile
-
----
-
-### [Stay FROSTy - A Fallout 4 Experience](https://www.fallout4experiences.com/stay-frosty)
-
-Stay FROSTy is an experience entirely based around attempting to provide a complete and stable FROST experience. For those that have never heard of it, FROST Survival Simulator is a hardcore total conversion mod for Fallout 4 that overhauls literally every aspect of the game to play like something else entirely. As a survival simulator, survival is the goal and several gameplay mechanics are implemented to make that exceptionally difficult. For those looking for a complete and comprehensive FROST experience out of the box that is endorsed by the FROST dev team, this is it!
-
-**_Mods to get familiar with:_**
-
-[FROST Survival Simulator](https://www.nexusmods.com/fallout4/mods/18898) - Everything you need to know about FROST and its related suite of addon mods used in this modlist can be found from this mod description
-
-View the entire [list of mods.](https://www.wabbajack.org/search/frosty/frosty)
-
----
-
-### [Ground Zero - A Fallout 4 Experience](https://www.fallout4experiences.com/ground-zero)
-
-Ground Zero focuses on an alternate vision of the Commonwealth that has instead been overtaken by the ramifications of a deadly viral outbreak. As a military operative it will be your mission to enter the Commonwealth and eradicate any trace of the virus and its infected victims. There are also features around base-building and survivor rescue/recruitment if you are interested in the "rebuilding society" angle of things. Most vanilla quests/NPC's and much of the base game content has been replaced with more appropriate dynamic systems for a zombie apocalypse playthrough with other missions/quests/objectives to lead you along your way. The ultimate Fallout 4 zombie apocalypse experience!
-
-**_Mods to get familiar with:_**
-
-[Feral Infestations](https://www.nexusmods.com/fallout4/mods/65406)
-
-[Commonwealth of Decay](https://www.nexusmods.com/fallout4/mods/60305)
-
-[Feral Ghoul Expansion Pack](https://www.nexusmods.com/fallout4/mods/57181)
-
-View the entire [list of mods.](https://www.wabbajack.org/search/groundzero/groundzero)
-
----
-
 ### [FUSION](https://www.nexusmods.com/fallout4/mods/62880)
 
 FUSION Features:
@@ -811,12 +722,6 @@ There is also a [handy dandy installation video](https://www.youtube.com/watch?v
 ---
 
 ## Fallout New Vegas
-
-### [Capital Punishment](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki)
-
-A revamped and realistic take on the Tale of Two Wastelands modification. This modlist includes new animations, textures, gameplay mechanics, and hundreds of other content adding mods. In addition, multiple profiles are available for the player to choose the playstyle they desire.
-
----
 
 ### [Viva New Vegas](https://vivanewvegas.moddinglinked.com/wabbajack.html)
 
