@@ -56,7 +56,6 @@
 -   [Fallout 4 VR](#fallout-4-vr)
     -   [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 -   [Fallout New Vegas](#fallout-new-vegas)
-    -   [Capital Punishment](#capital-punishment)
     -   [Viva New Vegas](#viva-new-vegas)
 -   [Tale Of Two Wastelands](#tale-of-two-wastelands)
     -   [Begin Again](#begin-again)
@@ -743,12 +742,6 @@ There is also a [handy dandy installation video](https://www.youtube.com/watch?v
 ---
 
 ## Fallout New Vegas
-
-### [Capital Punishment](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki)
-
-A revamped and realistic take on the Tale of Two Wastelands modification. This modlist includes new animations, textures, gameplay mechanics, and hundreds of other content adding mods. In addition, multiple profiles are available for the player to choose the playstyle they desire.
-
----
 
 ### [Viva New Vegas](https://vivanewvegas.moddinglinked.com/wabbajack.html)
 
