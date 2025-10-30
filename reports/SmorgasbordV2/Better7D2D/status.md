@@ -1,4 +1,4 @@
-## Validation Report - Smorgasbord V2 (SmorgasbordV2/Better7D2D)
+## Validation Report - SmorgasbordV2 (SmorgasbordV2/Better7D2D)
 
 
 ### Invalid (0)

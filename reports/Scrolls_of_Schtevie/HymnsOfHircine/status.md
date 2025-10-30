@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3708)
+### Valid (3709)
 *  [_Grimlook33_ Endless Misery-136947-1-0-1734824668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136947/?tab=files&file_id=574756)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
@@ -2172,7 +2172,7 @@
 *  [max fluff texture - female-111629-1-0-0-1708803615.zip](https://www.nexusmods.com/skyrimspecialedition/mods/111629/?tab=files&file_id=474133)
 *  [MaxsuBlockOverhaul-V0.24a.7z](https://github.com/max-su-2019/MaxuBlockOverhaul/releases/download/v0.24/MaxsuBlockOverhaul-V0.24a.7z)
 *  [MCM Helper-53000-1-5-0-1702843613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=452755)
-*  [MCM Recorder - Menu Maid 2 Integration v1.3-161425-1-3-1761270142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161425/?tab=files&file_id=679698)
+*  [MCM Recorder - MenuMaid2 Compatability v1.31-161425-1-31-1761715510.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161425/?tab=files&file_id=681483)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
 *  [MCU - 0.3.0 - Main files-107741-0-3-0-1704693452.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107741/?tab=files&file_id=459090)
 *  [MeatPie-9034-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9034/?tab=files&file_id=36322)
@@ -3027,6 +3027,7 @@
 *  [Skyrim Texture Overhaul - Stars 4K-4931-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4931/?tab=files&file_id=10453)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
+*  [skyrim-freeze-fix-160704-0-0-4-1760281302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=675181)
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  [SkyrimOutfitEquipmentSystemNG-147011-1-0-4-1744173905.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147011/?tab=files&file_id=615397)
@@ -3320,7 +3321,7 @@
 *  [The Hinterland Ranger - Adjustments-99602-1-1-1693994097.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99602/?tab=files&file_id=423710)
 *  [The Hinterland Ranger - HDT-SMP-99201-1-01-1693163849.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99201/?tab=files&file_id=421235)
 *  [The Hinterland Ranger - SE by Xtudo - Fixes-107546-1-2-1744898394.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107546/?tab=files&file_id=618212)
-*  [The Last Breath - 0.0.5-162646-0-0-5-1761551908.7z](https://www.nexusmods.com/skyrimspecialedition/mods/162646/?tab=files&file_id=680903)
+*  [The Last Breath - 0.0.6-162646-0-0-6-1761712012.7z](https://www.nexusmods.com/skyrimspecialedition/mods/162646/?tab=files&file_id=681473)
 *  [The Naked Dragon (main)-94940-2-9-5-1751123591.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94940/?tab=files&file_id=642389)
 *  [The Naked Dragon (Ostim)-94940-2-9-5-1751123695.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94940/?tab=files&file_id=642392)
 *  [The Nasty Pine - Lux Patch-138504-3-5-1747498172.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138504/?tab=files&file_id=628114)
