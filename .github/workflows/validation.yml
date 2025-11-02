@@ -53,3 +53,9 @@ jobs:
       with:
         commit_message: Repository Validation
         file_pattern: 'Invalid_Repositories.md invalid_repositories.json repositories.json'
+    - name: "Run if changes have been detected"
+      if: steps.auto-commit-action.outputs.changes_detected == 'true'
+      run: echo "Changes!"
+    - name: "Run if no changes have been detected"
+      if: steps.auto-commit-action.outputs.changes_detected == 'false'
+      run: echo "No Changes!"
