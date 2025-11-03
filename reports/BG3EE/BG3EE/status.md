@@ -1,10 +1,11 @@
 ## Validation Report - Baldur's Gate 3 Enhanced Edition (BG3EE/BG3EE)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (377)
+### Valid (376)
 *  [- - X900 Increase --522-3-30-P7-1725649781.zip](https://www.nexusmods.com/baldursgate3/mods/522/?tab=files&file_id=69185)
 *  [(Option 2) Dark Urge - Rebirth - Saving Throw-14598-5-1736816096.zip](https://www.nexusmods.com/baldursgate3/mods/14598/?tab=files&file_id=84015)
 *  [(Vova's Edition) Better Hotbar 2-2417-2-0-0-34-1744994087.zip](https://www.nexusmods.com/baldursgate3/mods/2417/?tab=files&file_id=89545)
@@ -280,7 +281,6 @@
 *  [PK Horns 2-14851-1-0-1738347181.zip](https://www.nexusmods.com/baldursgate3/mods/14851/?tab=files&file_id=85109)
 *  [PL Dark Urge Scale Collection-15036-1-0-1740088288.rar](https://www.nexusmods.com/baldursgate3/mods/15036/?tab=files&file_id=86136)
 *  [Planewalker's Barbershop-10684-1-0-1-3-1745095027.zip](https://www.nexusmods.com/baldursgate3/mods/10684/?tab=files&file_id=89733)
-*  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 *  [PRETTY BOYS - UTAV 2.0-10897-2-0-0-1721678202.zip](https://www.nexusmods.com/baldursgate3/mods/10897/?tab=files&file_id=64866)
 *  [Priestess Gut Gonna Knock You Out-17344-1-0-0-3-1751529751.zip](https://www.nexusmods.com/baldursgate3/mods/17344/?tab=files&file_id=97220)
 *  [Rainbow Difficulty Replacer-17543-2-1-1758706184.7z](https://www.nexusmods.com/baldursgate3/mods/17543/?tab=files&file_id=103562)
