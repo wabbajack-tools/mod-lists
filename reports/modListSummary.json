@@ -724,8 +724,8 @@
     "report": "reports/Beginagain/beginagain/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beginagain/beginagain_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beginagain/beginagain_large.webp"
   },
   {
     "name": "Horizon - Official Modlist",
@@ -892,8 +892,8 @@
     "report": "reports/Lastseed/lastseed/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Lastseed/lastseed_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Lastseed/lastseed_large.webp"
   },
   {
     "name": "OME",
@@ -1165,7 +1165,7 @@
     "name": "LoreRim",
     "machineURL": "LoreRim/LoreRim",
     "failed": 0,
-    "passed": 4341,
+    "passed": 4340,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/LoreRim/LoreRim/status.json",
@@ -1332,14 +1332,14 @@
   {
     "name": "Listonomicon",
     "machineURL": "Listonomicon/Listonomicon",
-    "failed": 1,
-    "passed": 856,
+    "failed": 0,
+    "passed": 857,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Listonomicon/Listonomicon/status.json",
     "report": "reports/Listonomicon/Listonomicon/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Listonomicon/Listonomicon_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Listonomicon/Listonomicon_large.webp"
   },
@@ -1542,14 +1542,14 @@
   {
     "name": "Baldur\u0027s Gate 3 Enhanced Edition",
     "machineURL": "BG3EE/BG3EE",
-    "failed": 2,
-    "passed": 375,
+    "failed": 0,
+    "passed": 377,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/BG3EE/BG3EE/status.json",
     "report": "reports/BG3EE/BG3EE/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BG3EE/BG3EE_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BG3EE/BG3EE_large.webp"
   },
@@ -2236,8 +2236,8 @@
     "report": "reports/Wunduniik/NMSExplorer/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Viva New Vegas",
@@ -2462,5 +2462,61 @@
     "has_failures": false,
     "small_image": null,
     "large_image": null
+  },
+  {
+    "name": "End Times Challenge",
+    "machineURL": "OmnisWorld/End-Times-Challenge",
+    "failed": 11,
+    "passed": 1369,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/OmnisWorld/End-Times-Challenge/status.json",
+    "report": "reports/OmnisWorld/End-Times-Challenge/status.md",
+    "modlist_missing": false,
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/OmnisWorld/End-Times-Challenge_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/OmnisWorld/End-Times-Challenge_large.webp"
+  },
+  {
+    "name": "Chaos Mage Randomized Challenge",
+    "machineURL": "OmnisWorld/Chaos-Mage-Randomized-Challenge",
+    "failed": 0,
+    "passed": 0,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/OmnisWorld/Chaos-Mage-Randomized-Challenge/status.json",
+    "report": "reports/OmnisWorld/Chaos-Mage-Randomized-Challenge/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
+  },
+  {
+    "name": "Cyberpunk 2079 Project Liberation",
+    "machineURL": "jamesthewicked88/Cyberpunk2079ProjectLiberation",
+    "failed": 0,
+    "passed": 1224,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/jamesthewicked88/Cyberpunk2079ProjectLiberation/status.json",
+    "report": "reports/jamesthewicked88/Cyberpunk2079ProjectLiberation/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/jamesthewicked88/Cyberpunk2079ProjectLiberation_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/jamesthewicked88/Cyberpunk2079ProjectLiberation_large.webp"
+  },
+  {
+    "name": "Skyrim25",
+    "machineURL": "Skyrim25/Skyrim25",
+    "failed": 0,
+    "passed": 443,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Skyrim25/Skyrim25/status.json",
+    "report": "reports/Skyrim25/Skyrim25/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Skyrim25/Skyrim25_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Skyrim25/Skyrim25_large.webp"
   }
 ]
