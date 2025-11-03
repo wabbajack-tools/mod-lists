@@ -72,7 +72,7 @@
 *  [Companion_Heal_Thyself_v1.5.7z](https://mega.nz/file/F6RXGKYD#aNOkFvekCutniLe92b4DAyxNaDjbLxXMN2yGRDkKY4Q)
 *  [Components Redone_2K-25188-0-6.rar](https://www.nexusmods.com/fallout4/mods/25188/?tab=files&file_id=103290)
 *  [Concrete Retaining Walls Replacer-65720-1-0-1674023229.zip](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=263977)
-*  [Console Util for Fallout 4 VR-92427-1-1742690769.zip](https://www.nexusmods.com/fallout4/mods/92427/?tab=files&file_id=351588)
+*  [Console Util for Fallout 4 VR-92427-1-0-1756882140.zip](https://www.nexusmods.com/fallout4/mods/92427/?tab=files&file_id=366470)
 *  [Convenient Ammo Crafting Extended-48914-1-1-1658088286.7z](https://www.nexusmods.com/fallout4/mods/48914/?tab=files&file_id=243641)
 *  [Copper Fix-25188-0-6.rar](https://www.nexusmods.com/fallout4/mods/25188/?tab=files&file_id=103336)
 *  [Copyright Free Diamond City Radio Replacer for Let's Plays-23560-1-5.7z](https://www.nexusmods.com/fallout4/mods/23560/?tab=files&file_id=142495)

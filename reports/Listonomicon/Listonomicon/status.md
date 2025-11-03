@@ -1,10 +1,11 @@
 ## Validation Report - Listonomicon (Listonomicon/Listonomicon)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (857)
+### Valid (856)
 *  [- Standalone Bundle  - Dragonbreath Unleashed-556-11-0-P7-1725651719.zip](https://www.nexusmods.com/baldursgate3/mods/556/?tab=files&file_id=69200)
 *  [(Option 2) Dark Urge - Rebirth - Saving Throw-14598-5-1736816096.zip](https://www.nexusmods.com/baldursgate3/mods/14598/?tab=files&file_id=84015)
 *  [01 - MANTIS' ARCANE INSPIRED COLLECTION-14698-1-2-0-0-1744829478.zip](https://www.nexusmods.com/baldursgate3/mods/14698/?tab=files&file_id=89249)
@@ -638,7 +639,6 @@
 *  [Poesielibbre's Fair Eye Colors-11253-2-1731108581.zip](https://www.nexusmods.com/baldursgate3/mods/11253/?tab=files&file_id=78303)
 *  [Poesielibre's Additional natural hair colors-19276-1-0-1760792977.rar](https://www.nexusmods.com/baldursgate3/mods/19276/?tab=files&file_id=105465)
 *  [Poesielibre's Githyanki Trio-10412-1-0-1719867056.zip](https://www.nexusmods.com/baldursgate3/mods/10412/?tab=files&file_id=62749)
-*  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 *  [Ponytail for Shadowheart in Act 3 - Short Version-2630-1-3-1-1745853101.zip](https://www.nexusmods.com/baldursgate3/mods/2630/?tab=files&file_id=91005)
 *  [Ponytails-10002-1-1-1-0-1727298956.zip](https://www.nexusmods.com/baldursgate3/mods/10002/?tab=files&file_id=72705)
 *  [Porcelain Masks-15563-1-0-1743434171.zip](https://www.nexusmods.com/baldursgate3/mods/15563/?tab=files&file_id=88133)
