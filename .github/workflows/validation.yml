@@ -41,12 +41,14 @@ jobs:
     - name: Test
       run: export IS_PULL_REQUEST=${{ env.IS_PULL_REQUEST }} && dotnet test Validation/Validation.sln --no-build --verbosity normal
 
+    - name: Setup jq
+      uses: vegardit/gha-setup-jq@v1
+
     - name: Sync Validation Output Into Repository
       run: chmod +x sync_validation_output.sh && bash sync_validation_output.sh
 
     - name: Commit Updated Repository Files & Error Logs
       uses: stefanzweifel/git-auto-commit-action@v7
-      if: ${{ github.repository_owner == 'wabbajack-tools' && !(env.IS_PULL_REQUEST)}}
       with:
         commit_message: Repository Validation
         file_pattern: 'Invalid_Repositories.md invalid_repositories.json repositories.json'

@@ -43,7 +43,7 @@ namespace ModlistValidation
             Assert.True(File.Exists(invalidReposFile), $"\"{invalidReposFile}\" doesn't exist!");
             Dictionary<string, Uri> repositories;
             Dictionary<string, Uri> invalidRepositories;
-            Dictionary<string, Uri> invalidOutputRepositories = new();
+
             try
             {
                 var text = File.ReadAllText(file);
