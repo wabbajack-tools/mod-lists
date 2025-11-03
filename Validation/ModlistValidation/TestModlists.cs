@@ -65,9 +65,14 @@ namespace ModlistValidation
                 Assert.True(e == null, $"Unable to deserialize file \"{invalidReposFile}\"");
                 throw;
             }
-            if (!_isPullRequest) {
-                repositories = repositories.Concat(invalidRepositories)
-                    .ToDictionary(x => x.Key, x => x.Value);
+            if (!_isPullRequest)
+            {
+                var filteredInvalidRepositories = invalidRepositories
+                    .Where(x => repositories.ContainsKey(x.Key));
+                foreach (var invalidRepository in filteredInvalidRepositories)
+                {
+                    repositories.Add(invalidRepository.Key,invalidRepository.Value);
+                }
                 invalidRepositories.Clear();
             }
             foreach (var entry in repositories)
