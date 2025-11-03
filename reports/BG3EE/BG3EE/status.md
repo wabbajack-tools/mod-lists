@@ -1,11 +1,12 @@
 ## Validation Report - Baldur's Gate 3 Enhanced Edition (BG3EE/BG3EE)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [musicperformworkaround_a634d21-1s5t.zip](https://g-6715.modapi.io/v1/games/6715/mods/5302128/files/6861457/download)
 *  [polyamoryfixes_6c253629-15d1-2-0m2o.zip](https://g-6715.modapi.io/v1/games/6715/mods/4335717/files/6300097/download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (376)
+### Valid (375)
 *  [- - X900 Increase --522-3-30-P7-1725649781.zip](https://www.nexusmods.com/baldursgate3/mods/522/?tab=files&file_id=69185)
 *  [(Option 2) Dark Urge - Rebirth - Saving Throw-14598-5-1736816096.zip](https://www.nexusmods.com/baldursgate3/mods/14598/?tab=files&file_id=84015)
 *  [(Vova's Edition) Better Hotbar 2-2417-2-0-0-34-1744994087.zip](https://www.nexusmods.com/baldursgate3/mods/2417/?tab=files&file_id=89545)
@@ -248,7 +249,6 @@
 *  [More Firewine Kobolds 1.0.0-16748-1-0-0-1747926753.zip](https://www.nexusmods.com/baldursgate3/mods/16748/?tab=files&file_id=93771)
 *  [More Heads for Flutter and Whimsy - UTAV-15888-1-1-0-1745073917.zip](https://www.nexusmods.com/baldursgate3/mods/15888/?tab=files&file_id=89695)
 *  [MoreReactiveCompanionsConfigurable-5447-1-0-0-11-1739831252.zip](https://www.nexusmods.com/baldursgate3/mods/5447/?tab=files&file_id=86025)
-*  [musicperformworkaround_a634d21-1s5t.zip](https://g-6715.modapi.io/v1/games/6715/mods/5302128/files/6861457/download)
 *  [MyshkaComesToCamp-6126-1-1-0-0-1726498278.zip](https://www.nexusmods.com/baldursgate3/mods/6126/?tab=files&file_id=71449)
 *  [Native Camera Tweaks-945-2-4-5-1758665322.zip](https://www.nexusmods.com/baldursgate3/mods/945/?tab=files&file_id=103535)
 *  [NativeModLoader-944-1-1692533783.zip](https://www.nexusmods.com/baldursgate3/mods/944/?tab=files&file_id=8910)
