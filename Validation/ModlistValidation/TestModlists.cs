@@ -68,7 +68,7 @@ namespace ModlistValidation
             if (!_isPullRequest)
             {
                 var filteredInvalidRepositories = invalidRepositories
-                    .Where(x => repositories.ContainsKey(x.Key));
+                    .Where(x => !repositories.ContainsKey(x.Key));
                 foreach (var invalidRepository in filteredInvalidRepositories)
                 {
                     repositories.Add(invalidRepository.Key,invalidRepository.Value);
