@@ -24,6 +24,7 @@ jobs:
 
     env:
       IS_PULL_REQUEST: ${{ github.event_name == 'pull_request' }}
+      IS_LIVE_BRANCH: ${{github.ref == 'refs/heads/master' && github.repository == 'wabbajack-tools/mod-lists'}}
 
     steps:
     - name: Echo Event Name
@@ -42,13 +43,20 @@ jobs:
       run: export IS_PULL_REQUEST=${{ env.IS_PULL_REQUEST }} && dotnet test Validation/Validation.sln --no-build --verbosity normal
 
     - name: Setup jq
+      if: env.IS_LIVE_BRANCH == 'true'
       uses: vegardit/gha-setup-jq@v1
 
+    - name: Pull Changes from other workflows
+      if: env.IS_LIVE_BRANCH == 'true'
+      run: git pull
+
     - name: Sync Validation Output Into Repository
+      if: env.IS_LIVE_BRANCH == 'true'
       run: chmod +x sync_validation_output.sh && bash sync_validation_output.sh
 
     - name: Commit Updated Repository Files & Error Logs
       uses: stefanzweifel/git-auto-commit-action@v7
+      if: env.IS_LIVE_BRANCH == 'true'
       with:
         commit_message: Repository Validation
         file_pattern: 'Invalid_Repositories.md invalid_repositories.json repositories.json'
