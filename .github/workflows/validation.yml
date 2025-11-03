@@ -48,7 +48,7 @@ jobs:
 
     - name: Pull Changes from other workflows
       if: env.IS_LIVE_BRANCH == 'true'
-      run: git pull
+      run: git pull --rebase origin master
 
     - name: Sync Validation Output Into Repository
       if: env.IS_LIVE_BRANCH == 'true'
