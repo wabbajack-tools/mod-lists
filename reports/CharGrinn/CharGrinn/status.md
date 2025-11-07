@@ -1,11 +1,10 @@
 ## Validation Report - CharGrinn (CharGrinn/CharGrinn)
 
 
-### Invalid (1)
-*  [CBPC Equiment Physics - Even Tighter.zip](https://authored-files.wabbajack.org/CBPC Equiment Physics - Even Tighter.zip_17ed5a09-3f5c-44e3-9dbb-003cb393e64e)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2573)
+### Valid (2574)
 *  [_Fuse00DreadlocksHair.rar](https://www.patreon.com/file?h=62876423&i=10119123)
 *  [- Vivid Eyes - Abyss Pack-74410-1-0-2-1661983152.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312090)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -374,6 +373,7 @@
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-5-6-1665227479.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=322438)
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-5-9-1693513353.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=422359)
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-6-4-1708114426.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=471527)
+*  [CBPC Equiment Physics - Even Tighter.zip](https://authored-files.wabbajack.org/CBPC Equiment Physics - Even Tighter.zip_17ed5a09-3f5c-44e3-9dbb-003cb393e64e)
 *  [CC Camping -  Missile's Cut-58840-1-1-1658888035.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58840/?tab=files&file_id=302518)
 *  [CC Myrwatch Bug fix-USSEP-58823-1-0-1637599802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58823/?tab=files&file_id=243499)
 *  [CC Refit Fixes-46311-5-4-5-1733541400.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=569756)

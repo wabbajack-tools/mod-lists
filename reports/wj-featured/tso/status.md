@@ -1,12 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [[SE] DM BDOR Solios by Team TAL CBBE 3BA BS 1.4.7z](https://drive.google.com/uc?id=1ssqZ7O28hB0MuDGBoQMSnqCSFUTbugAM&export=download)
-*  [Windhelm HD Retexture-86f19d85-6e6d-407b-ad7f-15f680b5876c.7z](https://wabbajack.b-cdn.net/Windhelm HD Retexture-86f19d85-6e6d-407b-ad7f-15f680b5876c.7z_2a77a88b-cb27-42b0-8431-0391e6ad3464)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1031)
+### Valid (1032)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1020,6 +1019,7 @@
 *  [Whiterun Exteriors Patch Collection-78920-1-2-1-1691404435.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78920/?tab=files&file_id=414938)
 *  [WhoseQuestIsItAnyway-23581-1-3-0-1583022223.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23581/?tab=files&file_id=126539)
 *  [WickedBlade-36864-1-0-1591292780.rar](https://www.nexusmods.com/skyrimspecialedition/mods/36864/?tab=files&file_id=143854)
+*  [Windhelm HD Retexture-86f19d85-6e6d-407b-ad7f-15f680b5876c.7z](https://wabbajack.b-cdn.net/Windhelm HD Retexture-86f19d85-6e6d-407b-ad7f-15f680b5876c.7z_2a77a88b-cb27-42b0-8431-0391e6ad3464)
 *  [Wispmother.4x2k-7638-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7638/?tab=files&file_id=18464)
 *  [Witch Hunter Armor UNP SE-32318-1-2-1581731897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32318/?tab=files&file_id=124085)
 *  [Witcher Armor UNP SE-33034-1-0-1583130420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33034/?tab=files&file_id=126795)
