@@ -1,10 +1,11 @@
 ## Validation Report - Eldergleam Next-Gen (EldergleamNG/EldergleamNG)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [reshade-shaders-master.zip](https://authored-files.wabbajack.org/reshade-shaders-master.zip_5b6fcd0e-215e-4efe-8b82-955bda9f93dc)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1961)
+### Valid (1960)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460512)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -1481,7 +1482,6 @@
 *  [RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90734/?tab=files&file_id=408042)
 *  [Renthal Nettle SSE 3.0-33749-3-0-1584973383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33749/?tab=files&file_id=130118)
 *  [Reshade_5_9_2_And_Licence.7z](https://authored-files.wabbajack.org/Reshade_5_9_2_And_Licence.7z_63e80f7b-3eb0-44f5-bddf-563940809b0c)
-*  [reshade-shaders-master.zip](https://authored-files.wabbajack.org/reshade-shaders-master.zip_5b6fcd0e-215e-4efe-8b82-955bda9f93dc)
 *  [Respect for the Legate-30185-1-0-1-1584894515.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30185/?tab=files&file_id=129906)
 *  [Resplendent Queen Bee Statue 2K-53586-1-1-1635192157.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53586/?tab=files&file_id=237036)
 *  [Rest Well Dragonborn - Relaxing Mountain View-160557-1-0-1759486593.rar](https://www.nexusmods.com/skyrimspecialedition/mods/160557/?tab=files&file_id=671822)
