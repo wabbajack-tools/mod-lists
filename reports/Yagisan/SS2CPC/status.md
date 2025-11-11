@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (345)
+### Valid (325)
 *  [0 - Previs - Bethesda-70410-1-02-1700177959.zip](https://www.nexusmods.com/fallout4/mods/70410/?tab=files&file_id=294423)
 *  [Add-on Maker's Toolkit for Sim Settlements 2-48521-3-5-0-1761244108.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=371067)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
@@ -71,24 +71,7 @@
 *  [Croup Manor Navmesh Rebuild by Alkay-89776-1-0-0-1733258428.zip](https://www.nexusmods.com/fallout4/mods/89776/?tab=files&file_id=342008)
 *  cudart64_75.dll
 *  [Customizable Faction Identity-73394-3-3-5-1722636260.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=328878)
-*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
-*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
-*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
-*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
-*  Data_ccBGSFO4016-Prey - Main.ba2
-*  Data_ccBGSFO4016-Prey - Textures.ba2
-*  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
-*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
-*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
-*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
-*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
-*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
 *  Data_ccBGSFO4038-HorseArmor - Main.ba2
-*  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor.esl
@@ -97,31 +80,27 @@
 *  Data_ccBGSFO4046-TesCan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccbgsfo4096-as_enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccbgsfo4110-ws_enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
 *  Data_ccBGSFO4115-X02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
 *  Data_ccBGSFO4116-HeavyFlamer.esl
-*  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
-*  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
-*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
-*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
 *  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccgcafo4011-factionws11vt - main.ba2
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
 *  Data_ccOTMFO4001-Remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
 *  Data_ccSBJFO4003-Grenade.esl
+*  Data_cctosfo4002_neonflats - textures.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -174,6 +153,7 @@
 *  Data_Fallout4 - Textures7.ba2
 *  Data_Fallout4 - Textures8.ba2
 *  Data_Fallout4 - Textures9.ba2
+*  Data_Fallout4 - TexturesPatch.ba2
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
