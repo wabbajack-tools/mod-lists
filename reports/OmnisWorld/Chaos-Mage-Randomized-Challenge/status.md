@@ -1,8 +1,7 @@
 ## Validation Report - Chaos Mage Randomized Challenge (OmnisWorld/Chaos-Mage-Randomized-Challenge)
 
 
-### Invalid (1)
-*  [Synthesis Patches (ETC).7z](https://authored-files.wabbajack.org/Synthesis Patches (ETC).7z_ab666b2a-49ca-4545-8af0-79724cc2b6ff)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (2495)
