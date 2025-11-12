@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1103)
+### Valid (1110)
 *  [.44 Magnum Ammo Replacer-86687-1-0-1724533172.zip](https://www.nexusmods.com/fallout4/mods/86687/?tab=files&file_id=331529)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
@@ -142,6 +142,7 @@
 *  [BoxHouseMain-17160-1-1.rar](https://www.nexusmods.com/fallout4/mods/17160/?tab=files&file_id=122588)
 *  [Bozar-28478-1-2.zip](https://www.nexusmods.com/fallout4/mods/28478/?tab=files&file_id=133276)
 *  [Brighter X-01 Institute Polymer Power Armor-43534-1-1-1582172090.zip](https://www.nexusmods.com/fallout4/mods/43534/?tab=files&file_id=176256)
+*  [Brotherhood Armor Collection 1.0.1-86287-1-0-1-1722760592.rar](https://www.nexusmods.com/fallout4/mods/86287/?tab=files&file_id=329059)
 *  [BS Defence V2.3-20137-2-3-1637370832.7z](https://www.nexusmods.com/fallout4/mods/20137/?tab=files&file_id=221806)
 *  [BT SPR - 2K-63258-1-0a-1662969899.rar](https://www.nexusmods.com/fallout4/mods/63258/?tab=files&file_id=250399)
 *  [BT SPR - See Through Scopes Patch-69696-0-1-1678847342.zip](https://www.nexusmods.com/fallout4/mods/69696/?tab=files&file_id=270588)
@@ -241,6 +242,7 @@
 *  [Dashless with Invisble 3rd Person-7252-3-0a.7z](https://www.nexusmods.com/fallout4/mods/7252/?tab=files&file_id=29384)
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
+*  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -293,6 +295,7 @@
 *  Data_Fallout4 - Textures7.ba2
 *  Data_Fallout4 - Textures8.ba2
 *  Data_Fallout4 - Textures9.ba2
+*  Data_Fallout4 - TexturesPatch.ba2
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
@@ -430,6 +433,7 @@
 *  [FO4 SUNv1 fixed-3154-1-0.7z](https://www.nexusmods.com/fallout4/mods/3154/?tab=files&file_id=9707)
 *  [FO4Edit 4.0.4-2737-4-0-4-1636548744.7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=221103)
 *  [FO4FI Project (Architecture)-90162-2-0-1736064162.rar](https://www.nexusmods.com/fallout4/mods/90162/?tab=files&file_id=344350)
+*  [FO4LODGen-Resources-1.1.7z](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
 *  [FOFW ReDUX 2_0 Fomod-9363-2-0.7z](https://www.nexusmods.com/fallout4/mods/9363/?tab=files&file_id=37636)
 *  [Follower AI Approach Reaction Fix - F4SE-92024-1-0-1741367233.zip](https://www.nexusmods.com/fallout4/mods/92024/?tab=files&file_id=349791)
 *  [Follower Stealth Distance Fix (No Free Hugs) - ESL-tagged-15823-7-0-1620077127.7z](https://www.nexusmods.com/fallout4/mods/15823/?tab=files&file_id=207200)
@@ -455,6 +459,7 @@
 *  [GavMan Somerville Pet Place-56080-1-1-1696064053.7z](https://www.nexusmods.com/fallout4/mods/56080/?tab=files&file_id=290727)
 *  [GavMan Vaulted Vault 88-55305-1-1-1696084520.7z](https://www.nexusmods.com/fallout4/mods/55305/?tab=files&file_id=290758)
 *  [GavMan Zimonja Cavern-53461-1-1-1696982633.7z](https://www.nexusmods.com/fallout4/mods/53461/?tab=files&file_id=291459)
+*  [GCBugFix Release 1.1-68681-1-1-1721703664.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=327680)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
 *  [GhoulBox-57265-1-0-1641871306.7z](https://www.nexusmods.com/fallout4/mods/57265/?tab=files&file_id=226152)
@@ -863,6 +868,7 @@
 *  [SimpleSanctuary-50661-1-0-1615313937.7z](https://www.nexusmods.com/fallout4/mods/50661/?tab=files&file_id=203273)
 *  [SimplyClothCBBE_V090-6935-0-9-0.7z](https://www.nexusmods.com/fallout4/mods/6935/?tab=files&file_id=24586)
 *  [SimSettlements2 AddOnPack Apocalyptic Additions SirLach-48659-1-0-1-1607344231.7z](https://www.nexusmods.com/fallout4/mods/48659/?tab=files&file_id=196526)
+*  [SKKSlowDaysFastNights_002-89473-002-1748515077.zip](https://www.nexusmods.com/fallout4/mods/89473/?tab=files&file_id=357508)
 *  [Skull Bandana Retexture v2.0 (1K. Clean)-25897-2-0.zip](https://www.nexusmods.com/fallout4/mods/25897/?tab=files&file_id=106747)
 *  [SlogFitness-53758-1-1-1631562700.7z](https://www.nexusmods.com/fallout4/mods/53758/?tab=files&file_id=216876)
 *  [Slow Motion Dismemberment-85819-1-5-1-1735620468.7z](https://www.nexusmods.com/fallout4/mods/85819/?tab=files&file_id=344016)
@@ -930,6 +936,7 @@
 *  [Stomp-70668-1-1-0-1682229524.7z](https://www.nexusmods.com/fallout4/mods/70668/?tab=files&file_id=275101)
 *  [Submarine Set 2K-51438-0-1-1618548021.zip](https://www.nexusmods.com/fallout4/mods/51438/?tab=files&file_id=205998)
 *  [Subversion - The Institute-Railroad Alliance Alternate Ending-50975-4-0B-1680615024.7z](https://www.nexusmods.com/fallout4/mods/50975/?tab=files&file_id=272969)
+*  [Subways of the Commonwealth (SotC) - Standalone v.0.99g-21527-0-99g.rar](https://www.nexusmods.com/fallout4/mods/21527/?tab=files&file_id=89803)
 *  [Sunlight Alignment Tweaks-49613-2-1-1611794899.zip](https://www.nexusmods.com/fallout4/mods/49613/?tab=files&file_id=200106)
 *  [Sunshine Tiding - The medical center-57672-1-1-1643448368.rar](https://www.nexusmods.com/fallout4/mods/57672/?tab=files&file_id=228065)
 *  [SunshineHive-51684-1-0-1619411714.7z](https://www.nexusmods.com/fallout4/mods/51684/?tab=files&file_id=206701)
