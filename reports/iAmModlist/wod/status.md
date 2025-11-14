@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1335)
+### Valid (1336)
 *  [-SP4 SPURIOUS VISUALS NEUTRALIZER DLC b-77978-7b-1706742863.7z](https://www.nexusmods.com/fallout4/mods/77978/?tab=files&file_id=301753)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
@@ -263,6 +263,7 @@
 *  [DanksMagsV2.zip](https://www.loverslab.com/files/file/13262-danks-magazine-replacer/)
 *  [Darling Skin - REPLACER - Warm-76049-1-0-1-1700268408.7z](https://www.nexusmods.com/fallout4/mods/76049/?tab=files&file_id=294501)
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
+*  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
