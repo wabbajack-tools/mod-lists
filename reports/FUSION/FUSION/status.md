@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (502)
+### Valid (484)
 *  [.BA2 Packed Files-76254-1-0-0-1700769361.7z](https://www.nexusmods.com/fallout4/mods/76254/?tab=files&file_id=294939)
 *  [0 - Awareness 3 Perk-96503-1-01-1757822570.zip](https://www.nexusmods.com/fallout4/mods/96503/?tab=files&file_id=367502)
 *  [0 - Require Sneaking-96503-1-01-1757822249.zip](https://www.nexusmods.com/fallout4/mods/96503/?tab=files&file_id=367499)
@@ -54,7 +54,7 @@
 *  [Base Face-61836-2-1-1757100682.7z](https://www.nexusmods.com/fallout4/mods/61836/?tab=files&file_id=366740)
 *  [Base Object Swapper-67528-1-1-0-1701557986.7z](https://www.nexusmods.com/fallout4/mods/67528/?tab=files&file_id=295680)
 *  [BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=167402)
-*  [Beer Bottles Retextured-97819-1-1-1762285128.7z](https://www.nexusmods.com/fallout4/mods/97819/?tab=files&file_id=372378)
+*  [Beer Bottles Retextured-97819-1-1-1-1762966885.7z](https://www.nexusmods.com/fallout4/mods/97819/?tab=files&file_id=373371)
 *  [BETHESDA FIX THE DARN TV CONTINUITY-43374-1-0-1581045635.zip](https://www.nexusmods.com/fallout4/mods/43374/?tab=files&file_id=175478)
 *  [Bethini Pie-631-4-15-1745116092.7z](https://www.nexusmods.com/site/mods/631/?tab=files&file_id=5118)
 *  [Better Bloatflies-44117-1-1585419705.zip](https://www.nexusmods.com/fallout4/mods/44117/?tab=files&file_id=178321)
@@ -64,7 +64,6 @@
 *  [BetterChemVariants (BA2 ESP)-87308-1-2-1727381919.zip](https://www.nexusmods.com/fallout4/mods/87308/?tab=files&file_id=335183)
 *  [BetterVertibirdSound 1.1-4755-1-1.zip](https://www.nexusmods.com/fallout4/mods/4755/?tab=files&file_id=16808)
 *  [Beyond PVC - Synth Armor Remodel-77796-1-2-1712270987.zip](https://www.nexusmods.com/fallout4/mods/77796/?tab=files&file_id=309085)
-*  bink2w64.dll
 *  [Blasted Billboards-62161-1-2-1681672609.7z](https://www.nexusmods.com/fallout4/mods/62161/?tab=files&file_id=274270)
 *  [Blocking Overhaul-73333-1-2-0-1690986813.zip](https://www.nexusmods.com/fallout4/mods/73333/?tab=files&file_id=285200)
 *  [Blood Fixes - NG-97089-1-00-1759760979.zip](https://www.nexusmods.com/fallout4/mods/97089/?tab=files&file_id=369378)
@@ -100,7 +99,7 @@
 *  [Combat Leg Armor Variation Compatibility - 4k-7381-v1-00.7z](https://www.nexusmods.com/fallout4/mods/7381/?tab=files&file_id=26759)
 *  [Combat_Rifle_BAR-Redux-80122-1-0-1711990933.zip](https://www.nexusmods.com/fallout4/mods/80122/?tab=files&file_id=308724)
 *  [Commonwealth Encounter Pack-77948-1-01-1738126461.zip](https://www.nexusmods.com/fallout4/mods/77948/?tab=files&file_id=346617)
-*  [Community Fixes Merged-74945-4-2-0-1759577022.7z](https://www.nexusmods.com/fallout4/mods/74945/?tab=files&file_id=369166)
+*  [Community Fixes Merged-74945-4-3-1-1763024077.7z](https://www.nexusmods.com/fallout4/mods/74945/?tab=files&file_id=373483)
 *  [Community Tweaks Merged-83532-1-1-20-1761695762.7z](https://www.nexusmods.com/fallout4/mods/83532/?tab=files&file_id=371623)
 *  [Companion Shoots At Player Fix-81758-1-0-1714347789.zip](https://www.nexusmods.com/fallout4/mods/81758/?tab=files&file_id=312947)
 *  [Companion Weapon Proficiency-75770-1-2-1730400294.7z](https://www.nexusmods.com/fallout4/mods/75770/?tab=files&file_id=338542)
@@ -110,10 +109,10 @@
 *  [contraptions collision fix-59016-2-1649554886.rar](https://www.nexusmods.com/fallout4/mods/59016/?tab=files&file_id=234435)
 *  [Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=172411)
 *  [Creation Club Power Armor Replacer v1.3-83536-1-3-1718811631.zip](https://www.nexusmods.com/fallout4/mods/83536/?tab=files&file_id=323535)
-*  cudart64_75.dll
 *  [Curated Companions-57725-5-0-1757186009.7z](https://www.nexusmods.com/fallout4/mods/57725/?tab=files&file_id=366812)
 *  Data_DLCCoast - Textures.ba2
 *  Data_DLCNukaWorld - Textures.ba2
+*  Data_DLCworkshop03 - Textures.ba2
 *  Data_Fallout4 - Textures1.ba2
 *  Data_Fallout4 - Textures6.ba2
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
@@ -153,11 +152,7 @@
 *  [Facial Expr. and Eyetr. Engine Fixes-89732-1-2-1733572402.zip](https://www.nexusmods.com/fallout4/mods/89732/?tab=files&file_id=342229)
 *  [Fallout 4 Combat Shotgun and Rifle retexture - 2048 tex-4046-1-1.7z](https://www.nexusmods.com/fallout4/mods/4046/?tab=files&file_id=14492)
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
-*  Fallout4_Default.ini
-*  Fallout4_Fallout4Prefs.ini
-*  Fallout4.ccc
 *  Fallout4.exe
-*  Fallout4IDs.ccc
 *  Fallout4Launcher.exe
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
 *  [FallUI - HUD-51813-1-7-1-1668637124.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=257220)
@@ -183,12 +178,9 @@
 *  [Fixed Vanilla Sighted Additive Animations-85053-1-0-1728051287.7z](https://www.nexusmods.com/fallout4/mods/85053/?tab=files&file_id=336001)
 *  [FlaconOil 2K Loose files-3747-4-2-1717717745.7z](https://www.nexusmods.com/fallout4/mods/3747/?tab=files&file_id=321378)
 *  [FlaconOil Mod - MiniGun 2K only v1.0-24714-1-0.7z](https://www.nexusmods.com/fallout4/mods/24714/?tab=files&file_id=100966)
-*  flexExtRelease_x64.dll
-*  flexRelease_x64.dll
 *  [FO4 Particle Patch v1-3-2 LOOSE-68599-1-3-2-1719216875.rar](https://www.nexusmods.com/fallout4/mods/68599/?tab=files&file_id=324195)
 *  [FO4 U.S. Covert Ops. Manual Revised - Magazine Retexture-53012-1-01-1625358718.7z](https://www.nexusmods.com/fallout4/mods/53012/?tab=files&file_id=211830)
 *  [FO4LODGen Resources-80276-1-2-1712172489.7z](https://www.nexusmods.com/fallout4/mods/80276/?tab=files&file_id=308981)
-*  [FO4RP-Guns Main RAO 1.0.4-83453-1-0-4-1720824869.7z](https://www.nexusmods.com/fallout4/mods/83453/?tab=files&file_id=326535)
 *  [Follower AI Approach Reaction Fix - F4SE-92024-1-0-1741367233.zip](https://www.nexusmods.com/fallout4/mods/92024/?tab=files&file_id=349791)
 *  [FOMOD Installer-75479-1-03-1747453175.7z](https://www.nexusmods.com/fallout4/mods/75479/?tab=files&file_id=356494)
 *  [Food Sanitizer-85372-1-0-1-1720467951.zip](https://www.nexusmods.com/fallout4/mods/85372/?tab=files&file_id=326093)
@@ -206,8 +198,6 @@
 *  [GAME-55840-1-1-1637250630.zip](https://www.nexusmods.com/fallout4/mods/55840/?tab=files&file_id=221702)
 *  [Garden of Eden Papyrus Script Extender-74160-19-7-1757019270.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=366646)
 *  [General Atomics Mr Gutsy Guards-36205-1-0-1543864893.rar](https://www.nexusmods.com/fallout4/mods/36205/?tab=files&file_id=147205)
-*  GFSDK_GodraysLib.x64.dll
-*  GFSDK_SSAO_D3D11.win64.dll
 *  [Ghouls Revamped-33666-1-1.rar](https://www.nexusmods.com/fallout4/mods/33666/?tab=files&file_id=137254)
 *  [GiddyupButtercup 2k-41070-0-01-1568052662.rar](https://www.nexusmods.com/fallout4/mods/41070/?tab=files&file_id=166285)
 *  [Glasswerks-4884-1-01.zip](https://www.nexusmods.com/fallout4/mods/4884/?tab=files&file_id=65929)
@@ -231,7 +221,6 @@
 *  [Help Me Pack It Up-74698-1-01-1694989622.zip](https://www.nexusmods.com/fallout4/mods/74698/?tab=files&file_id=289909)
 *  [High FPS Physics Fix-44798-0-8-11-1734374053.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=342948)
 *  [High Quality Pip-Boy Map 2K-92456-1-1-1742822062.zip](https://www.nexusmods.com/fallout4/mods/92456/?tab=files&file_id=351786)
-*  High.ini
 *  [Hollywood Bullet Tracers-37343-2-6-1612205091.7z](https://www.nexusmods.com/fallout4/mods/37343/?tab=files&file_id=200476)
 *  [Hollywood Laser Bolts-37559-2-3-1612202417.7z](https://www.nexusmods.com/fallout4/mods/37559/?tab=files&file_id=200463)
 *  [Holotape Visual Improvement - Full Replacer-84590-1-0-1718656438.rar](https://www.nexusmods.com/fallout4/mods/84590/?tab=files&file_id=323256)
@@ -245,7 +234,6 @@
 *  [ImmersiveCandles-58396--91-1662118866.7z](https://www.nexusmods.com/fallout4/mods/58396/?tab=files&file_id=249148)
 *  [Improved Hit VFX-87519-1-1-0-1742996386.7z](https://www.nexusmods.com/fallout4/mods/87519/?tab=files&file_id=351961)
 *  [In Series Style - Main Menu Loop - 2560x1440-90344-1-0-1735558951.7z](https://www.nexusmods.com/fallout4/mods/90344/?tab=files&file_id=343948)
-*  installscript.vdf
 *  [Institute Floor Fix-55878-1-1-1637441848.rar](https://www.nexusmods.com/fallout4/mods/55878/?tab=files&file_id=221863)
 *  [Integrated Addons-92016-1-04-1743262660.zip](https://www.nexusmods.com/fallout4/mods/92016/?tab=files&file_id=352235)
 *  [Interesting Encounter Booster-86193-1-00-1722197428.zip](https://www.nexusmods.com/fallout4/mods/86193/?tab=files&file_id=328323)
@@ -284,7 +272,6 @@
 *  [Loose Files-76121-1-1-0-1725830461.7z](https://www.nexusmods.com/fallout4/mods/76121/?tab=files&file_id=333276)
 *  [Loose Files-87454-1-1-0-1725848859.7z](https://www.nexusmods.com/fallout4/mods/87454/?tab=files&file_id=333308)
 *  [LOST Audio Tweaks-38448-6-0a-1737221373.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=345590)
-*  Low.ini
 *  [Lucid's Texture Upgrades - Loose-37799-v1-35-1552208492.zip](https://www.nexusmods.com/fallout4/mods/37799/?tab=files&file_id=153888)
 *  [Lush But Not Green - Goodneighbor ESL flagged ESP-66461-1-1-1705341350.zip](https://www.nexusmods.com/fallout4/mods/66461/?tab=files&file_id=299735)
 *  [Luxor's Stone Walls 4k Parallax-67996-1-0-1674223393.rar](https://www.nexusmods.com/fallout4/mods/67996/?tab=files&file_id=264250)
@@ -301,7 +288,6 @@
 *  [Masonry Set 2K-51438-0-1-1618547737.zip](https://www.nexusmods.com/fallout4/mods/51438/?tab=files&file_id=205996)
 *  [Maxson Power ARmour main FIle-62639-1-0-1659173875.7z](https://www.nexusmods.com/fallout4/mods/62639/?tab=files&file_id=245029)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
-*  Medium.ini
 *  [Mentats - F4SE-91565-1-1-1-1743100401.7z](https://www.nexusmods.com/fallout4/mods/91565/?tab=files&file_id=352057)
 *  [Merged RootBehavior-65555-1-0-4-1753405514.zip](https://www.nexusmods.com/fallout4/mods/65555/?tab=files&file_id=362234)
 *  [Metal Armor Remodel-87457-1-01-1725733259.zip](https://www.nexusmods.com/fallout4/mods/87457/?tab=files&file_id=333117)
@@ -314,8 +300,6 @@
 *  [Moon Rotation Fix-80005-1-1-0-1714851776.zip](https://www.nexusmods.com/fallout4/mods/80005/?tab=files&file_id=314236)
 *  [More Diamond City Bounties-95047-1-03-1760829672.zip](https://www.nexusmods.com/fallout4/mods/95047/?tab=files&file_id=370463)
 *  [More Weathervanes-89596-1-00-1732731847.zip](https://www.nexusmods.com/fallout4/mods/89596/?tab=files&file_id=341479)
-*  msvcp110.dll
-*  msvcr110.dll
 *  [Municipal Plutonium Well Enhanced 4k-59416-1-1-1649247545.zip](https://www.nexusmods.com/fallout4/mods/59416/?tab=files&file_id=234094)
 *  [Natural Grasses and Groundcovers - Nuka World Add-On-66747-1-0-1670378183.7z](https://www.nexusmods.com/fallout4/mods/66747/?tab=files&file_id=259485)
 *  [Natural Grasses and Groundcovers-47058-0-1-1598371205.zip](https://www.nexusmods.com/fallout4/mods/47058/?tab=files&file_id=189879)
@@ -331,9 +315,7 @@
 *  [Novelty Nuka - Main-95004-1-1-1754801614.7z](https://www.nexusmods.com/fallout4/mods/95004/?tab=files&file_id=363885)
 *  [NPC Drinking Fix-53980-1-0-0-1629653826.7z](https://www.nexusmods.com/fallout4/mods/53980/?tab=files&file_id=215300)
 *  [Nuka-World - High Quality Pip-Boy Map 2K-92843-1-1743969714.zip](https://www.nexusmods.com/fallout4/mods/92843/?tab=files&file_id=353084)
-*  nvdebris.txt
 *  [NVIDIA Reflex Support-64459-1-0-1-1663600815.zip](https://www.nexusmods.com/fallout4/mods/64459/?tab=files&file_id=251123)
-*  nvToolsExt64_1.dll
 *  [Office Paper Debris Retexture 2K-91015-2-1741461254.rar](https://www.nexusmods.com/fallout4/mods/91015/?tab=files&file_id=350043)
 *  [Old-Gen Replacers-35004-2-4-9-1761249886.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=371077)
 *  [Optimized Vanilla Tree LODs-63198-3-2-1717978141.7z](https://www.nexusmods.com/fallout4/mods/63198/?tab=files&file_id=321895)
@@ -358,7 +340,7 @@
 *  [Photo Mode 1.0.3-49997-1-0-3-1613821040.zip](https://www.nexusmods.com/fallout4/mods/49997/?tab=files&file_id=201941)
 *  [Pip-Boy LCD Upgrade-75495-1-0-0-1697839645.7z](https://www.nexusmods.com/fallout4/mods/75495/?tab=files&file_id=292231)
 *  [Pipe Gun Remesh Magazines Fran-Vanilla-Version-94056-1-0-1748491328.zip](https://www.nexusmods.com/fallout4/mods/94056/?tab=files&file_id=357471)
-*  [Place (Fallout4 1.10.984 - latest release)-9424-1-19-0-1984-1715762213.zip](https://www.nexusmods.com/fallout4/mods/9424/?tab=files&file_id=316637)
+*  [Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z](https://www.nexusmods.com/fallout4/mods/9424/?tab=files&file_id=172081)
 *  [Player Face Target Fixes - F4SE-96419-1-0-1756930381.zip](https://www.nexusmods.com/fallout4/mods/96419/?tab=files&file_id=366548)
 *  [pneumatic broadsider-78190-1-0-1706763082.7z](https://www.nexusmods.com/fallout4/mods/78190/?tab=files&file_id=301776)
 *  [Police glasses replacer-11005-0-1.zip](https://www.nexusmods.com/fallout4/mods/11005/?tab=files&file_id=43260)
@@ -370,7 +352,7 @@
 *  [Project Reality Footsteps FO4 1.7 BA2-35904-1-7-1555770045.zip](https://www.nexusmods.com/fallout4/mods/35904/?tab=files&file_id=156466)
 *  [Protectron HD 2K-15038-0-2.7z](https://www.nexusmods.com/fallout4/mods/15038/?tab=files&file_id=61635)
 *  [PRP Plugins NG-46403-74-25-1760981413.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=370638)
-*  [PRP Resources-46403-74-14-1727810755.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=335766)
+*  [PRP Resources-46403-74-26-1761846422.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=371801)
 *  [R88SimpleSorter_INNR-33983-0-5BETA.rar](https://www.nexusmods.com/fallout4/mods/33983/?tab=files&file_id=138110)
 *  [Raider Power Armor Retexture (by Sakura9)-43394-1-0-1581174986.zip](https://www.nexusmods.com/fallout4/mods/43394/?tab=files&file_id=175588)
 *  [Railroad HQ Papers Retexture-43425-1-0-1581347362.zip](https://www.nexusmods.com/fallout4/mods/43425/?tab=files&file_id=175728)
@@ -386,6 +368,7 @@
 *  [Remember Lockpick Angle Updated-42421-1-10-163-1576091580.7z](https://www.nexusmods.com/fallout4/mods/42421/?tab=files&file_id=172429)
 *  [Repairable Sanctuary Bridge-97377-1-03-1762105519.zip](https://www.nexusmods.com/fallout4/mods/97377/?tab=files&file_id=372182)
 *  [REPUTATION-79394-1-2-2-1742911895.7z](https://www.nexusmods.com/fallout4/mods/79394/?tab=files&file_id=351884)
+*  [Resound by ReeseSFX Lite-98149-1-0-1-1763126067.zip](https://www.nexusmods.com/fallout4/mods/98149/?tab=files&file_id=373646)
 *  [Restriction Addon-78806-3-0-0-1721416817.7z](https://www.nexusmods.com/fallout4/mods/78806/?tab=files&file_id=327272)
 *  [Retextured Terminal - by Ben Ephla-24008-0-3.zip](https://www.nexusmods.com/fallout4/mods/24008/?tab=files&file_id=99188)
 *  [Right Handed Lever Action Reload Animations for BCR-49285-1-0-1610011358.zip](https://www.nexusmods.com/fallout4/mods/49285/?tab=files&file_id=198451)
@@ -466,22 +449,21 @@
 *  [Total Hack - Magazine Retexture-50253-1-01-1614386499.7z](https://www.nexusmods.com/fallout4/mods/50253/?tab=files&file_id=202418)
 *  [ToYourFaceFO4-73259-1-0-1690288779.zip](https://www.nexusmods.com/fallout4/mods/73259/?tab=files&file_id=284450)
 *  [Turret Decal Fix-40305-1-01-1564336697.7z](https://www.nexusmods.com/fallout4/mods/40305/?tab=files&file_id=163109)
-*  [UFO4P Plugin Replacer (Steam)-46403-2-1-8-1760971972.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=370621)
 *  [UFO4PCFM-Patch-95004-1-1-1754801734.7z](https://www.nexusmods.com/fallout4/mods/95004/?tab=files&file_id=363887)
 *  [Ultimate HD Flag Replacer - Redux - FOMOD 2.0-70601-2-0-1716288390.rar](https://www.nexusmods.com/fallout4/mods/70601/?tab=files&file_id=318025)
 *  [Ultra Exterior Lighting-41625-1-04-1584561026.7z](https://www.nexusmods.com/fallout4/mods/41625/?tab=files&file_id=177722)
 *  [Ultra Interior Lighting-22101-2-3-1566718572.rar](https://www.nexusmods.com/fallout4/mods/22101/?tab=files&file_id=165082)
-*  Ultra.ini
 *  [Unique Holotapes - NG-84938-1-00-1756406791.zip](https://www.nexusmods.com/fallout4/mods/84938/?tab=files&file_id=365804)
 *  [Unlimited Survival Mode - F4SE-26163-v1-5-1-1715709285.7z](https://www.nexusmods.com/fallout4/mods/26163/?tab=files&file_id=316517)
 *  [Unmarked Raider Camps Pack 1-64563-1-02-1730177405.zip](https://www.nexusmods.com/fallout4/mods/64563/?tab=files&file_id=338307)
-*  [Unofficial Fallout 4 Patch-4598-2-1-8-1743225118.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=352202)
+*  [Unofficial Fallout 4 Patch-4598-2-1-9a-1762902858.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=373310)
 *  [update without eagle 2k-89235-2-1731604765.rar](https://www.nexusmods.com/fallout4/mods/89235/?tab=files&file_id=340128)
 *  [URP AutomaticLaserMusket - PAHW Laser Musket-87292-1-1725256938.7z](https://www.nexusmods.com/fallout4/mods/87292/?tab=files&file_id=332574)
 *  [Use Robot Repair Kit on Nick Valentine - Record-73429-2-1-1692021668.7z](https://www.nexusmods.com/fallout4/mods/73429/?tab=files&file_id=286556)
 *  [v1.0-12061-1-0.rar](https://www.nexusmods.com/fallout4/mods/12061/?tab=files&file_id=48027)
 *  [v1.0b-12055-1-0b.rar](https://www.nexusmods.com/fallout4/mods/12055/?tab=files&file_id=47991)
 *  [Vanilla Apparel Remesh Project-87824-1-0-1-1727751605.zip](https://www.nexusmods.com/fallout4/mods/87824/?tab=files&file_id=335702)
+*  [Vanilla Riverbed Textures-71554-1-0-0-1685973210.7z](https://www.nexusmods.com/fallout4/mods/71554/?tab=files&file_id=279443)
 *  [Vault 111 Exit Textures-95621-1-0-1754480893.zip](https://www.nexusmods.com/fallout4/mods/95621/?tab=files&file_id=363418)
 *  [Vault 81 GOAT Sequence Patch 1.1-44683-1-1-1587946326.7z](https://www.nexusmods.com/fallout4/mods/44683/?tab=files&file_id=180417)
 *  [Vault Dweller Revisions - ESL-85758-1-1-1721073476.zip](https://www.nexusmods.com/fallout4/mods/85758/?tab=files&file_id=326860)
