@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2484)
+### Valid (2490)
 *  [  StormcloakRevival 2K-70723-1-0a.7z](https://www.nexusmods.com/skyrim/mods/70723/?tab=files&file_id=1000181522)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [ StormcloakRevival 4K-70723-1-0a.7z](https://www.nexusmods.com/skyrim/mods/70723/?tab=files&file_id=1000181525)
@@ -593,8 +593,14 @@
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse041-netchleather.bsa
+*  Data_ccbgssse053-ba_leather.bsa
+*  Data_ccbgssse054-ba_orcish.bsa
+*  Data_ccbgssse060-ba_dragonscale.bsa
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
+*  Data_ccvsvsse003-necroarts.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
