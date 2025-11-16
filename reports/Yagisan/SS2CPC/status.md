@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (325)
+### Valid (322)
 *  [0 - Previs - Bethesda-70410-1-02-1700177959.zip](https://www.nexusmods.com/fallout4/mods/70410/?tab=files&file_id=294423)
 *  [Add-on Maker's Toolkit for Sim Settlements 2-48521-3-5-0-1761244108.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=371067)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
@@ -71,13 +71,12 @@
 *  [Croup Manor Navmesh Rebuild by Alkay-89776-1-0-0-1733258428.zip](https://www.nexusmods.com/fallout4/mods/89776/?tab=files&file_id=342008)
 *  cudart64_75.dll
 *  [Customizable Faction Identity-73394-3-3-5-1722636260.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=328878)
-*  Data_ccBGSFO4038-HorseArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccbgsfo4046-tescan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
 *  Data_ccbgsfo4096-as_enclave.esl
@@ -86,21 +85,19 @@
 *  Data_ccbgsfo4110-ws_enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccBGSFO4115-X02.esl
+*  Data_ccbgsfo4115-x02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccbgsfo4116-heavyflamer.esl
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccFSVFO4007-Halloween.esl
-*  Data_ccgcafo4011-factionws11vt - main.ba2
+*  Data_ccfsvfo4007-halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccotmfo4001-remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccSBJFO4003-Grenade.esl
-*  Data_cctosfo4002_neonflats - textures.ba2
+*  Data_ccsbjfo4003-grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
