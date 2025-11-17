@@ -2,7 +2,7 @@
   "MachineURL": "Modding-Lounge/A-Blue-Moon",
   "Name": "A Blue Moon",
   "Version": "1.0.0",
-  "ModListHash": "VbC+5g95o1c=",
+  "ModListHash": "r/esnlfOS/U=",
   "Archives": [
     {
       "Status": "Valid",
@@ -22,6 +22,22 @@
           "ModID": 874,
           "Name": "Mod Organizer 2 - ModdingLinked Edition",
           "Version": "2.5.1rc2-ML1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jEW5uSualYQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=GDFFalloutNV.dll",
+        "Name": "GDFFalloutNV.dll",
+        "Size": 1963176,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "GDFFalloutNV.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "jEW5uSualYQ="
         }
       }
     },
@@ -8446,16 +8462,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jEW5uSualYQ=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=GDFFalloutNV.dll",
-        "Name": "GDFFalloutNV.dll",
-        "Size": 1963176,
+        "Hash": "HGzxeu91GTQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=high.ini",
+        "Name": "high.ini",
+        "Size": 1116,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "FalloutNewVegas",
-          "GameFile": "GDFFalloutNV.dll",
+          "GameFile": "high.ini",
           "GameVersion": "1.4.0.525",
-          "Hash": "jEW5uSualYQ="
+          "Hash": "HGzxeu91GTQ="
         }
       }
     },
@@ -9532,22 +9548,6 @@
           "ModID": 93417,
           "Name": "A Blue Moon a Wabbajack Modlist",
           "Version": "0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HGzxeu91GTQ=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=high.ini",
-        "Name": "high.ini",
-        "Size": 1116,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "high.ini",
-          "GameVersion": "1.4.0.525",
-          "Hash": "HGzxeu91GTQ="
         }
       }
     },
@@ -10772,22 +10772,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hH9CoPGKkJk=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=libvorbis.dll",
-        "Name": "libvorbis.dll",
-        "Size": 1241528,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "libvorbis.dll",
-          "GameVersion": "1.4.0.525",
-          "Hash": "hH9CoPGKkJk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "FOvWRhoa9MQ=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=65854\nfileID=1000136741",
         "Name": "FNV BSA Decompressor-65854-1-3-1721670035.7z",
@@ -11784,22 +11768,6 @@
           "ModID": 74590,
           "Name": "WAP AR Series Replacer",
           "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7i03JvYf6jI=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=libvorbisfile.dll",
-        "Name": "libvorbisfile.dll",
-        "Size": 120248,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "libvorbisfile.dll",
-          "GameVersion": "1.4.0.525",
-          "Hash": "7i03JvYf6jI="
         }
       }
     },
@@ -13723,27 +13691,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TPwFn0tXNTo=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81281\nfileID=1000129652",
-        "Name": "Epic Games Patcher-81281-2-2-1714751151.zip",
-        "Size": 7073563,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl - C6",
-          "Description": "Downgrades the Epic Games EXE for NVSE and mod support. \n\nCurrently does not support playtime or achievements.",
-          "FileID": 1000129652,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81281/81281-1685071212-1105128210.png",
-          "IsNSFW": false,
-          "ModID": 81281,
-          "Name": "Epic Games Patcher",
-          "Version": "2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "1op6ZPsRFgg=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000152828",
         "Name": "DXVK 2.6.1-79299-2-6-1-1748788948.7z",
@@ -15125,6 +15072,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "TPwFn0tXNTo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81281\nfileID=1000129652",
+        "Name": "Epic Games Patcher-81281-2-2-1714751151.zip",
+        "Size": 7073563,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl - C6",
+          "Description": "Downgrades the Epic Games EXE for NVSE and mod support. \n\nCurrently does not support playtime or achievements.",
+          "FileID": 1000129652,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81281/81281-1685071212-1105128210.png",
+          "IsNSFW": false,
+          "ModID": 81281,
+          "Name": "Epic Games Patcher",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KCuVVNiK75M=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=79378\nfileID=1000142718",
         "Name": "Atmospheric Lighting Tweaks - FNV - YUP-79378-1-5-1731266645.7z",
@@ -15314,27 +15282,6 @@
           "GameFile": "Data\\Update.bsa",
           "GameVersion": "1.4.0.525",
           "Hash": "/0RwKlSTaUI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dh+xUCYZfH4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
-        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
-        "Size": 104303,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roy Batty - LuthienAnarion",
-          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The EPIC Games, Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
-          "FileID": 1000075100,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
-          "IsNSFW": false,
-          "ModID": 62552,
-          "Name": "FNV 4GB Patcher",
-          "Version": "1.5"
         }
       }
     },
@@ -16762,6 +16709,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9C8A5TXNVFM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=steam_api.dll",
+        "Name": "steam_api.dll",
+        "Size": 121984,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "steam_api.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "9C8A5TXNVFM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "YNPixGum+Ao=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=79358\nfileID=1000145595",
         "Name": "Atmospheric Lighting Tweaks - EVEM Patch-79358-1-0-1737372160.7z",
@@ -18066,6 +18029,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1wIRIm59JQM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNV.exe",
+        "Name": "FalloutNV.exe",
+        "Size": 16549704,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "FalloutNV.exe",
+          "GameVersion": "1.4.0.525",
+          "Hash": "1wIRIm59JQM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ZAHiI1RGdTU=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=76497\nfileID=1000093565",
         "Name": "NewVegasQuickStart-76497-1-2-1654154371.7z",
@@ -18652,6 +18631,22 @@
           "ModID": 67811,
           "Name": "Faster Main Menu",
           "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QiGJU/u+zxk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNV.ico",
+        "Name": "FalloutNV.ico",
+        "Size": 168879,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "FalloutNV.ico",
+          "GameVersion": "1.4.0.525",
+          "Hash": "QiGJU/u+zxk="
         }
       }
     },
@@ -19445,16 +19440,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QiGJU/u+zxk=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNV.ico",
-        "Name": "FalloutNV.ico",
-        "Size": 168879,
+        "Hash": "iyZX8PTQVGo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNVLauncher.exe",
+        "Name": "FalloutNVLauncher.exe",
+        "Size": 2074440,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "FalloutNewVegas",
-          "GameFile": "FalloutNV.ico",
+          "GameFile": "FalloutNVLauncher.exe",
           "GameVersion": "1.4.0.525",
-          "Hash": "QiGJU/u+zxk="
+          "Hash": "iyZX8PTQVGo="
         }
       }
     },
@@ -19885,6 +19880,22 @@
           "GameFile": "Data\\Sound\\songs\\radionv\\MUS_Somethings_Gotta_Give.mp3",
           "GameVersion": "1.4.0.525",
           "Hash": "UTNoLlrnyxY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dkYihA+FpBE=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Fallout_default.ini",
+        "Name": "Fallout_default.ini",
+        "Size": 19959,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Fallout_default.ini",
+          "GameVersion": "1.4.0.525",
+          "Hash": "dkYihA+FpBE="
         }
       }
     },

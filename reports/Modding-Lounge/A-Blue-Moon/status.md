@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1049)
+### Valid (1050)
 *  [(Sound)_Animal_Sounds-67672-2-1615205000.7z](https://www.nexusmods.com/newvegas/mods/67672/?tab=files&file_id=1000073035)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Pool Items-82577-1-0-1692282849.7z](https://www.nexusmods.com/newvegas/mods/82577/?tab=files&file_id=1000114946)
@@ -19,7 +19,6 @@
 *  [3D Rain-79652-2-0-1678679955.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000106367)
 *  [3D Trash-92592-1-11-1753312134.zip](https://www.nexusmods.com/newvegas/mods/92592/?tab=files&file_id=1000155154)
 *  [3rd Person Animation Fixpack-85198-1-2-1709105592.7z](https://www.nexusmods.com/newvegas/mods/85198/?tab=files&file_id=1000124581)
-*  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
 *  [4k Main Menu and Blue Moon Theme-77312-1-0-1656761638.zip](https://www.nexusmods.com/newvegas/mods/77312/?tab=files&file_id=1000095189)
 *  [4k Version-72567-1-0-1623003240.7z](https://www.nexusmods.com/newvegas/mods/72567/?tab=files&file_id=1000077106)
 *  [6IXES Clutter Texture Pack NV Edition-78608-1-0-1665546120.zip](https://www.nexusmods.com/newvegas/mods/78608/?tab=files&file_id=1000099770)
@@ -558,7 +557,10 @@
 *  [Factions Reloaded Legion V2.9-51983-2-9-1724785704.rar](https://www.nexusmods.com/newvegas/mods/51983/?tab=files&file_id=1000138875)
 *  [Fallout 76 Loading Menu-85663-1-0-1-1711658342.7z](https://www.nexusmods.com/newvegas/mods/85663/?tab=files&file_id=1000126465)
 *  [Fallout Alpha Rendering Tweaks-80316-2-5-2-1710935866.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000125920)
+*  Fallout_default.ini
+*  FalloutNV.exe
 *  FalloutNV.ico
+*  FalloutNVLauncher.exe
 *  [Fast Doctors-92704-1-05-1750651314.7z](https://www.nexusmods.com/newvegas/mods/92704/?tab=files&file_id=1000153776)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Sleep Wait-66785-2-0-1693172568.zip](https://www.nexusmods.com/newvegas/mods/66785/?tab=files&file_id=1000115499)
@@ -701,8 +703,6 @@
 *  [Lever Action and Friends FNV-89878-1-0a-1731657724.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142967)
 *  [Lever Action and Friends Resources-89878-1-0-1731651173.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142963)
 *  [Lever Action and Friends RTR Patch-89878-1-0-1731651596.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142966)
-*  libvorbis.dll
-*  libvorbisfile.dll
 *  [LightBright FPGE Patch-77093-1-1655532708.7z](https://www.nexusmods.com/newvegas/mods/77093/?tab=files&file_id=1000094488)
 *  [LightBright Strip Overhaul-77093-4-0-1741509464.zip](https://www.nexusmods.com/newvegas/mods/77093/?tab=files&file_id=1000147924)
 *  [Lime's Fort Overhaul-73749-1-2-2-1717460360.zip](https://www.nexusmods.com/newvegas/mods/73749/?tab=files&file_id=1000133273)
@@ -956,6 +956,7 @@
 *  [SRR 1.0-92535-1-1749135726.zip](https://www.nexusmods.com/newvegas/mods/92535/?tab=files&file_id=1000153010)
 *  [STDGGO - Office Doorverhaul Patch-93361-1-1755183100.zip](https://www.nexusmods.com/newvegas/mods/93361/?tab=files&file_id=1000156207)
 *  [STDGGO-93361-1-1755183048.zip](https://www.nexusmods.com/newvegas/mods/93361/?tab=files&file_id=1000156206)
+*  steam_api.dll
 *  [Stewie Tweaks-66347-9-60-1745076628.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000150479)
 *  [Stewie.Tweaks.-.VNV.Extended.INI.7z](https://github.com/ModdingLinked/Stewie-Tweaks-INIs/releases/download/14802221016/Stewie.Tweaks.-.VNV.Extended.INI.7z)
 *  [Store Entrance Doorbells (ESPless)-91291-1-1-0-1750439227.zip](https://www.nexusmods.com/newvegas/mods/91291/?tab=files&file_id=1000153683)
