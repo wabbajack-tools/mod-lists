@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1050)
+### Valid (1193)
 *  [(Sound)_Animal_Sounds-67672-2-1615205000.7z](https://www.nexusmods.com/newvegas/mods/67672/?tab=files&file_id=1000073035)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Pool Items-82577-1-0-1692282849.7z](https://www.nexusmods.com/newvegas/mods/82577/?tab=files&file_id=1000114946)
@@ -19,6 +19,7 @@
 *  [3D Rain-79652-2-0-1678679955.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000106367)
 *  [3D Trash-92592-1-11-1753312134.zip](https://www.nexusmods.com/newvegas/mods/92592/?tab=files&file_id=1000155154)
 *  [3rd Person Animation Fixpack-85198-1-2-1709105592.7z](https://www.nexusmods.com/newvegas/mods/85198/?tab=files&file_id=1000124581)
+*  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
 *  [4k Main Menu and Blue Moon Theme-77312-1-0-1656761638.zip](https://www.nexusmods.com/newvegas/mods/77312/?tab=files&file_id=1000095189)
 *  [4k Version-72567-1-0-1623003240.7z](https://www.nexusmods.com/newvegas/mods/72567/?tab=files&file_id=1000077106)
 *  [6IXES Clutter Texture Pack NV Edition-78608-1-0-1665546120.zip](https://www.nexusmods.com/newvegas/mods/78608/?tab=files&file_id=1000099770)
@@ -703,6 +704,8 @@
 *  [Lever Action and Friends FNV-89878-1-0a-1731657724.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142967)
 *  [Lever Action and Friends Resources-89878-1-0-1731651173.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142963)
 *  [Lever Action and Friends RTR Patch-89878-1-0-1731651596.7z](https://www.nexusmods.com/newvegas/mods/89878/?tab=files&file_id=1000142966)
+*  libvorbis.dll
+*  libvorbisfile.dll
 *  [LightBright FPGE Patch-77093-1-1655532708.7z](https://www.nexusmods.com/newvegas/mods/77093/?tab=files&file_id=1000094488)
 *  [LightBright Strip Overhaul-77093-4-0-1741509464.zip](https://www.nexusmods.com/newvegas/mods/77093/?tab=files&file_id=1000147924)
 *  [Lime's Fort Overhaul-73749-1-2-2-1717460360.zip](https://www.nexusmods.com/newvegas/mods/73749/?tab=files&file_id=1000133273)
@@ -867,7 +870,6 @@
 *  [PipBoyOn Node Fixes SMIM-81775-1-3-1729189716.7z](https://www.nexusmods.com/newvegas/mods/81775/?tab=files&file_id=1000141463)
 *  [Placement Fixes-90593-1-7-1744307995.7z](https://www.nexusmods.com/newvegas/mods/90593/?tab=files&file_id=1000149923)
 *  [Planters Replanted-93684-1-1756917381.zip](https://www.nexusmods.com/newvegas/mods/93684/?tab=files&file_id=1000157382)
-*  [Platform Selector Plugin-92803-1-0-0-1751437737.zip](https://www.nexusmods.com/newvegas/mods/92803/?tab=files&file_id=1000154182)
 *  [Platinum Radio - Final-63951-2-0-1629393578.rar](https://www.nexusmods.com/newvegas/mods/63951/?tab=files&file_id=1000079988)
 *  [PM's HD Ammo Boxes - 2K Diffuse 1K Normals-64007-1-2-1571230653.zip](https://www.nexusmods.com/newvegas/mods/64007/?tab=files&file_id=1000056915)
 *  [PM's HD Legion Overhaul - 4K-67595-1-1-1568384115.zip](https://www.nexusmods.com/newvegas/mods/67595/?tab=files&file_id=1000056382)
@@ -890,6 +892,147 @@
 *  [Rectified Hydrant 2K-87872-1-0-1719118522.zip](https://www.nexusmods.com/newvegas/mods/87872/?tab=files&file_id=1000134842)
 *  [Rectified Water Tower-75611-0-3-1654053588.zip](https://www.nexusmods.com/newvegas/mods/75611/?tab=files&file_id=1000093488)
 *  [Red On The Rocks - Great Khan Culture Vanilla 2.2-80534-2-2-1695953799.7z](https://www.nexusmods.com/newvegas/mods/80534/?tab=files&file_id=1000117037)
+*  Redists_directx_Apr2005_d3dx9_25_x64.cab
+*  Redists_directx_Apr2005_d3dx9_25_x86.cab
+*  Redists_directx_Apr2006_d3dx9_30_x64.cab
+*  Redists_directx_Apr2006_d3dx9_30_x86.cab
+*  Redists_directx_Apr2006_MDX1_x86_Archive.cab
+*  Redists_directx_Apr2006_MDX1_x86.cab
+*  Redists_directx_Apr2006_XACT_x64.cab
+*  Redists_directx_Apr2006_XACT_x86.cab
+*  Redists_directx_Apr2006_xinput_x64.cab
+*  Redists_directx_Apr2006_xinput_x86.cab
+*  Redists_directx_APR2007_d3dx10_33_x64.cab
+*  Redists_directx_APR2007_d3dx10_33_x86.cab
+*  Redists_directx_APR2007_d3dx9_33_x64.cab
+*  Redists_directx_APR2007_d3dx9_33_x86.cab
+*  Redists_directx_APR2007_XACT_x64.cab
+*  Redists_directx_APR2007_XACT_x86.cab
+*  Redists_directx_APR2007_xinput_x64.cab
+*  Redists_directx_APR2007_xinput_x86.cab
+*  Redists_directx_Aug2005_d3dx9_27_x64.cab
+*  Redists_directx_Aug2005_d3dx9_27_x86.cab
+*  Redists_directx_AUG2006_XACT_x64.cab
+*  Redists_directx_AUG2006_XACT_x86.cab
+*  Redists_directx_AUG2006_xinput_x64.cab
+*  Redists_directx_AUG2006_xinput_x86.cab
+*  Redists_directx_AUG2007_d3dx10_35_x64.cab
+*  Redists_directx_AUG2007_d3dx10_35_x86.cab
+*  Redists_directx_AUG2007_d3dx9_35_x64.cab
+*  Redists_directx_AUG2007_d3dx9_35_x86.cab
+*  Redists_directx_AUG2007_XACT_x64.cab
+*  Redists_directx_AUG2007_XACT_x86.cab
+*  Redists_directx_Aug2008_d3dx10_39_x64.cab
+*  Redists_directx_Aug2008_d3dx10_39_x86.cab
+*  Redists_directx_Aug2008_d3dx9_39_x64.cab
+*  Redists_directx_Aug2008_d3dx9_39_x86.cab
+*  Redists_directx_Aug2008_XACT_x64.cab
+*  Redists_directx_Aug2008_XACT_x86.cab
+*  Redists_directx_Aug2008_XAudio_x64.cab
+*  Redists_directx_Aug2008_XAudio_x86.cab
+*  Redists_directx_Aug2009_D3DCompiler_42_x64.cab
+*  Redists_directx_Aug2009_D3DCompiler_42_x86.cab
+*  Redists_directx_Aug2009_d3dcsx_42_x64.cab
+*  Redists_directx_Aug2009_d3dcsx_42_x86.cab
+*  Redists_directx_Aug2009_d3dx10_42_x64.cab
+*  Redists_directx_Aug2009_d3dx10_42_x86.cab
+*  Redists_directx_Aug2009_d3dx11_42_x64.cab
+*  Redists_directx_Aug2009_d3dx11_42_x86.cab
+*  Redists_directx_Aug2009_d3dx9_42_x64.cab
+*  Redists_directx_Aug2009_d3dx9_42_x86.cab
+*  Redists_directx_Aug2009_XACT_x64.cab
+*  Redists_directx_Aug2009_XACT_x86.cab
+*  Redists_directx_Aug2009_XAudio_x64.cab
+*  Redists_directx_Aug2009_XAudio_x86.cab
+*  Redists_directx_BDANT.cab
+*  Redists_directx_BDAXP.cab
+*  Redists_directx_Dec2005_d3dx9_28_x64.cab
+*  Redists_directx_Dec2005_d3dx9_28_x86.cab
+*  Redists_directx_DEC2006_d3dx10_00_x64.cab
+*  Redists_directx_DEC2006_d3dx10_00_x86.cab
+*  Redists_directx_DEC2006_d3dx9_32_x64.cab
+*  Redists_directx_DEC2006_d3dx9_32_x86.cab
+*  Redists_directx_DEC2006_XACT_x64.cab
+*  Redists_directx_DEC2006_XACT_x86.cab
+*  Redists_directx_DSETUP.dll
+*  Redists_directx_dsetup32.dll
+*  Redists_directx_dxdllreg_x86.cab
+*  Redists_directx_dxnt.cab
+*  Redists_directx_DXSETUP.exe
+*  Redists_directx_dxupdate.cab
+*  Redists_directx_Feb2005_d3dx9_24_x64.cab
+*  Redists_directx_Feb2005_d3dx9_24_x86.cab
+*  Redists_directx_Feb2006_d3dx9_29_x64.cab
+*  Redists_directx_Feb2006_d3dx9_29_x86.cab
+*  Redists_directx_Feb2006_XACT_x64.cab
+*  Redists_directx_Feb2006_XACT_x86.cab
+*  Redists_directx_FEB2007_XACT_x64.cab
+*  Redists_directx_FEB2007_XACT_x86.cab
+*  Redists_directx_Jun2005_d3dx9_26_x64.cab
+*  Redists_directx_Jun2005_d3dx9_26_x86.cab
+*  Redists_directx_JUN2006_XACT_x64.cab
+*  Redists_directx_JUN2006_XACT_x86.cab
+*  Redists_directx_JUN2007_d3dx10_34_x64.cab
+*  Redists_directx_JUN2007_d3dx10_34_x86.cab
+*  Redists_directx_JUN2007_d3dx9_34_x64.cab
+*  Redists_directx_JUN2007_d3dx9_34_x86.cab
+*  Redists_directx_JUN2007_XACT_x64.cab
+*  Redists_directx_JUN2007_XACT_x86.cab
+*  Redists_directx_JUN2008_d3dx10_38_x64.cab
+*  Redists_directx_JUN2008_d3dx10_38_x86.cab
+*  Redists_directx_JUN2008_d3dx9_38_x64.cab
+*  Redists_directx_JUN2008_d3dx9_38_x86.cab
+*  Redists_directx_JUN2008_X3DAudio_x64.cab
+*  Redists_directx_JUN2008_X3DAudio_x86.cab
+*  Redists_directx_JUN2008_XACT_x64.cab
+*  Redists_directx_JUN2008_XACT_x86.cab
+*  Redists_directx_JUN2008_XAudio_x64.cab
+*  Redists_directx_JUN2008_XAudio_x86.cab
+*  Redists_directx_Mar2008_d3dx10_37_x64.cab
+*  Redists_directx_Mar2008_d3dx10_37_x86.cab
+*  Redists_directx_Mar2008_d3dx9_37_x64.cab
+*  Redists_directx_Mar2008_d3dx9_37_x86.cab
+*  Redists_directx_Mar2008_X3DAudio_x64.cab
+*  Redists_directx_Mar2008_X3DAudio_x86.cab
+*  Redists_directx_Mar2008_XACT_x64.cab
+*  Redists_directx_Mar2008_XACT_x86.cab
+*  Redists_directx_Mar2008_XAudio_x64.cab
+*  Redists_directx_Mar2008_XAudio_x86.cab
+*  Redists_directx_Mar2009_d3dx10_41_x64.cab
+*  Redists_directx_Mar2009_d3dx10_41_x86.cab
+*  Redists_directx_Mar2009_d3dx9_41_x64.cab
+*  Redists_directx_Mar2009_d3dx9_41_x86.cab
+*  Redists_directx_Mar2009_X3DAudio_x64.cab
+*  Redists_directx_Mar2009_X3DAudio_x86.cab
+*  Redists_directx_Mar2009_XACT_x64.cab
+*  Redists_directx_Mar2009_XACT_x86.cab
+*  Redists_directx_Mar2009_XAudio_x64.cab
+*  Redists_directx_Mar2009_XAudio_x86.cab
+*  Redists_directx_Nov2007_d3dx10_36_x64.cab
+*  Redists_directx_Nov2007_d3dx10_36_x86.cab
+*  Redists_directx_Nov2007_d3dx9_36_x64.cab
+*  Redists_directx_Nov2007_d3dx9_36_x86.cab
+*  Redists_directx_NOV2007_X3DAudio_x64.cab
+*  Redists_directx_NOV2007_X3DAudio_x86.cab
+*  Redists_directx_NOV2007_XACT_x64.cab
+*  Redists_directx_NOV2007_XACT_x86.cab
+*  Redists_directx_Nov2008_d3dx10_40_x64.cab
+*  Redists_directx_Nov2008_d3dx10_40_x86.cab
+*  Redists_directx_Nov2008_d3dx9_40_x64.cab
+*  Redists_directx_Nov2008_d3dx9_40_x86.cab
+*  Redists_directx_Nov2008_X3DAudio_x64.cab
+*  Redists_directx_Nov2008_X3DAudio_x86.cab
+*  Redists_directx_Nov2008_XACT_x64.cab
+*  Redists_directx_Nov2008_XACT_x86.cab
+*  Redists_directx_Nov2008_XAudio_x64.cab
+*  Redists_directx_Nov2008_XAudio_x86.cab
+*  Redists_directx_Oct2005_xinput_x64.cab
+*  Redists_directx_Oct2005_xinput_x86.cab
+*  Redists_directx_OCT2006_d3dx9_31_x64.cab
+*  Redists_directx_OCT2006_d3dx9_31_x86.cab
+*  Redists_directx_OCT2006_XACT_x64.cab
+*  Redists_directx_OCT2006_XACT_x86.cab
+*  Redists_vcredist_x86.exe
 *  [Reduced Stats Version-82867-1-01-1693767810.rar](https://www.nexusmods.com/newvegas/mods/82867/?tab=files&file_id=1000115876)
 *  [Reforged Platinum Chip V2-83803-2-1700605325.zip](https://www.nexusmods.com/newvegas/mods/83803/?tab=files&file_id=1000119327)
 *  [Regal Rubble-93525-1-01-1756590148.zip](https://www.nexusmods.com/newvegas/mods/93525/?tab=files&file_id=1000157130)
