@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1110)
+### Valid (1108)
 *  [.44 Magnum Ammo Replacer-86687-1-0-1724533172.zip](https://www.nexusmods.com/fallout4/mods/86687/?tab=files&file_id=331529)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
@@ -240,8 +240,6 @@
 *  [Dark Sci Fi Vault Retexture 4k - White Squares Fix-44251-2-1-1666904005.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=254789)
 *  [Dark Sci Fi Vault Retexture 4k BA2-44251-2-0-1655684489.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=241019)
 *  [Dashless with Invisble 3rd Person-7252-3-0a.7z](https://www.nexusmods.com/fallout4/mods/7252/?tab=files&file_id=29384)
-*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2

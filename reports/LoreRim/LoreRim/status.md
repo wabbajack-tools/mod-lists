@@ -421,7 +421,7 @@
 *  [Better Riften (2K Parallax Textures)-124762-2-1721487264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124762/?tab=files&file_id=523105)
 *  [Better Riften (2K)-124762-1-1721478349.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124762/?tab=files&file_id=523062)
 *  [Better Snow FOMOD-95823-1-1689337401.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95823/?tab=files&file_id=406904)
-*  [Better Third Person Selection (AE - SE)-64339-0-8-9-1749297418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=635566)
+*  [Better Third Person Selection (AE - SE)-64339-0-7-1-1723983238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=532655)
 *  [Better Windhelm Ground Meshes - Icy Windhelm-42746-1-3-5-1649340833.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=275464)
 *  [Better Windhelm Ground Meshes - Parallaxed-42746-1-3-5-1649337888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=275447)
 *  [Betty Netch-88777-1-0-0-1683643663.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88777/?tab=files&file_id=386354)
