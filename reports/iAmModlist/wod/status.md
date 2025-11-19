@@ -262,7 +262,6 @@
 *  [Daily Life Of Hookers.rar](https://www.loverslab.com/files/file/19613-daily-life-of-hookers/)
 *  [DanksMagsV2.zip](https://www.loverslab.com/files/file/13262-danks-magazine-replacer/)
 *  [Darling Skin - REPLACER - Warm-76049-1-0-1-1700268408.7z](https://www.nexusmods.com/fallout4/mods/76049/?tab=files&file_id=294501)
-*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
@@ -511,6 +510,7 @@
 *  [Fostech Origin 12-43698-1-0-1583016624.zip](https://www.nexusmods.com/fallout4/mods/43698/?tab=files&file_id=176808)
 *  [Four-Play Animations by Crazy 1.3.7z](https://www.loverslab.com/files/file/3987-four-play-animations-by-crazy6987/)
 *  [FPEAIOCreatureAddon v1.5 - Batch.7z](https://www.loverslab.com/files/file/7626-legacy-family-planning-enhanced-more-creatures/)
+*  [Frame Generation-98208-1-0-3-1763387159.zip](https://www.nexusmods.com/fallout4/mods/98208/?tab=files&file_id=374118)
 *  [FreedomSuit1-68872-1-1676524354.rar](https://www.nexusmods.com/fallout4/mods/68872/?tab=files&file_id=267514)
 *  [French Maid FO4 - CBBE v1.2-27185-1-2.zip](https://www.nexusmods.com/fallout4/mods/27185/?tab=files&file_id=111389)
 *  [French Maid HH FG-50437-1-0-1614504000.7z](https://www.nexusmods.com/fallout4/mods/50437/?tab=files&file_id=202532)
