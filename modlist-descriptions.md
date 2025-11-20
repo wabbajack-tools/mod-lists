@@ -62,6 +62,7 @@
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#welcome-to-night-city)
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
+    -   [Project 2077](#Project-2077)
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
     -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
@@ -813,6 +814,18 @@ Ultraviolence brings you blood, tits and women in a modlist designed to have you
 - Multiple screen archery tools
 - Tweaks to gameplay and balance to make mid to endgame more viable
 - NSFW content in the form of sexy clothes, erotic poses, romance options and the ability to use braindances you can't find at Arasaka Mart
+
+---
+
+### [Project 2077](https://github.com/munkee85/PROJECT-2077)
+
+Night City is more alive! Project 2077 builds heavily on immersion to make Night City more exciting and combat and enemy enhancement to make it more challenging! 
+
+- Lots of clothing options available via Virtual Atelier
+- Lots of new cars and bikes added to cruise around in style
+- Expanded Romance mods giving you more time with your paramour
+- Combat Revolution and They Will Remember to make the streets of Night City more dangerous
+- New jobs and quests to earn eddies!
 
 ---
 
