@@ -429,7 +429,7 @@
 *  [Biggie Traits - Immersive Interactions-136384-1-0-1-1749364737.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136384/?tab=files&file_id=635801)
 *  [Biggie Traits - Requiem-136384-1-0-14-1761478088.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136384/?tab=files&file_id=680580)
 *  [Biggie Traits - Thumbnail Overhaul-148018-1-03-1751002442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148018/?tab=files&file_id=642047)
-*  [Biggie Traits-136384-1-0-32-1761781410.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136384/?tab=files&file_id=681749)
+*  [Biggie Traits-136384-1-0-33-1763684630.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136384/?tab=files&file_id=689500)
 *  [Biggie's Ebony ENB ReShade Preset-108767-1-1-1705119310.rar](https://www.nexusmods.com/skyrimspecialedition/mods/108767/?tab=files&file_id=460869)
 *  [Bijin Family Bodyslides - CBBE NeverNude-16097-1-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16097/?tab=files&file_id=67458)
 *  [Bijin NPCs SE 1.2.1-11287-1-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11287/?tab=files&file_id=30612)
