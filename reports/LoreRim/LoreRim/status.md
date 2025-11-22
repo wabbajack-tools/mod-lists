@@ -394,7 +394,7 @@
 *  [Better Blended Mushrooms-67725-1-1-1654410950.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67725/?tab=files&file_id=288885)
 *  [Better Bloody Notes-133970-1-0-1731684447.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133970/?tab=files&file_id=562543)
 *  [Better Bread 2K Optimised SSE Version-70546-1-1-2-1659867270.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70546/?tab=files&file_id=305329)
-*  [Better Carriage Destinations-164485-1-0-3-1763589157.zip](https://www.nexusmods.com/skyrimspecialedition/mods/164485/?tab=files&file_id=689185)
+*  [Better Carriage Destinations-164485-1-0-4-1763798835.zip](https://www.nexusmods.com/skyrimspecialedition/mods/164485/?tab=files&file_id=689956)
 *  [Better Chests 2K Optimised SSE-71680-1-1-4-1682352723.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71680/?tab=files&file_id=381595)
 *  [Better Combat Escape - NG-72901-1-0-1-1677848000.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72901/?tab=files&file_id=365085)
 *  [Better Combat Escape - SSE V0.83-43936-v0-83-1609760346.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43936/?tab=files&file_id=177684)
