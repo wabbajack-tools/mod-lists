@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2278)
+### Valid (2277)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [- Skyrim 202X - 4K-68307-10-5-2-1754266903.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652626)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -325,7 +325,6 @@
 *  [Creation Club Open Helmets 2.0-70992-2-4-1-1759535927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=671999)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Crowded Streets 1.1.3 DV ESL HEDR 17000-129111-1-13-DV-1750591158.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129111/?tab=files&file_id=640608)
 *  [Crown of Freydis - Stalhrim Refrozen-78904-1-0-1668624173.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78904/?tab=files&file_id=332380)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
