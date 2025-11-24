@@ -1,11 +1,10 @@
 ## Validation Report - True North (True_North/TrueNorth)
 
 
-### Invalid (1)
-*  [Distar+Projectiles+v1.zip](https://www.distaranimation.com/s/Distar-Projectiles-v1.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1014)
+### Valid (1015)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-4-1757833185.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=665566)
 *  [0 Lore-Friendly Load Screen Compendium (16-9) (2K)-138294-2-1-1746799043.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138294/?tab=files&file_id=625267)
 *  [1Atronach-82382-1-1673278055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82382/?tab=files&file_id=348079)
@@ -246,6 +245,7 @@
 *  [Disguise - Fury - Adamant Patch-150844-1-0-1751444939.rar](https://www.nexusmods.com/skyrimspecialedition/mods/150844/?tab=files&file_id=643458)
 *  [Disguise-133426-5-0-1741402887.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133426/?tab=files&file_id=602930)
 *  [Dismembering Framework - Latest Version-126203-1-2-2-1756603963.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126203/?tab=files&file_id=660925)
+*  [Distar+Projectiles+v1.zip](https://www.distaranimation.com/s/Distar-Projectiles-v1.zip)
 *  [Dodge Framework-87645-1-1708703010.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87645/?tab=files&file_id=473772)
 *  [Dodge+MCO-DXP+v2.1.21.zip](https://www.distaranimation.com/s/Dodge-MCO-DXP-v2121.zip)
 *  [Don't Disturb The Bee - OIF-150332-1-1-1749478834.7z](https://www.nexusmods.com/skyrimspecialedition/mods/150332/?tab=files&file_id=636227)
