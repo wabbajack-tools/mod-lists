@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (252)
+### Valid (250)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
@@ -29,8 +29,7 @@
 *  [Barter Limit Fix-77173-1-0-1665868879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77173/?tab=files&file_id=324312)
 *  [Base Object Swapper-60805-3-4-1-1752606013.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=647525)
 *  [Bash Bug Fix-83581-3-0-0-1677373489.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83581/?tab=files&file_id=363399)
-*  [Bethini Pie-631-4-10-1697490939.zip](https://www.nexusmods.com/site/mods/631/?tab=files&file_id=2401)
-*  [Bethini Pie-631-4-16-1762836585.7z](https://www.nexusmods.com/site/mods/631/?tab=files&file_id=2295)
+*  [Bethini Pie-631-4-16-1762836585.7z](https://www.nexusmods.com/site/mods/631/?tab=files&file_id=6281)
 *  [Better AltTab-121342-1-0-1-1719615714.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121342/?tab=files&file_id=515927)
 *  [Better Dialogue Controls v1_2-1429-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1429/?tab=files&file_id=11022)
 *  [Better MessageBox Controls v1_2-1428-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1428/?tab=files&file_id=11023)
@@ -66,7 +65,6 @@
 *  [CrashLogger-59818-1-16-0-1759821888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=673149)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  Data__ResourcePack.bsa

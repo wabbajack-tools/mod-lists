@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4351)
+### Valid (4353)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -159,7 +159,7 @@
 *  [All in one-161095-1-2-1761989278.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161095/?tab=files&file_id=682532)
 *  [All in one-162611-1-1-2-1762938173.7z](https://www.nexusmods.com/skyrimspecialedition/mods/162611/?tab=files&file_id=686670)
 *  [All in one-163226-1-0-1761927367.7z](https://www.nexusmods.com/skyrimspecialedition/mods/163226/?tab=files&file_id=682272)
-*  [All in one-163952-1-0-2-1762707311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/163952/?tab=files&file_id=685776)
+*  [All in one-163952-1-0-3-1763924208.7z](https://www.nexusmods.com/skyrimspecialedition/mods/163952/?tab=files&file_id=690491)
 *  [All in one-164549-1-0-1-1763469328.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164549/?tab=files&file_id=688763)
 *  [All in one-164551-1-0-1-1763281453.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164551/?tab=files&file_id=688050)
 *  [Alpha Blood Blending Bug (NG) - Latest Version-149128-1-0-0-1746309313.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149128/?tab=files&file_id=623380)
@@ -980,6 +980,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -1359,6 +1360,7 @@
 *  [EnchFXReplacerSE1.0-27709-1-0-1564185373.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27709/?tab=files&file_id=100803)
 *  [Enemies Can't Block While Exhausted-87568-1-00-1679492397.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87568/?tab=files&file_id=371039)
 *  [Engaging Combat - Main File-132625-6-4b-1744829287.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132625/?tab=files&file_id=617945)
+*  [Engaging Combat - Main File-132625-6-6-1764018201.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132625/?tab=files&file_id=690862)
 *  [Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-18-AIO-1757189577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=663001)
 *  [Enhanced Invisibility-61950-1-3-0-1665511169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=323345)
 *  [Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246044)
