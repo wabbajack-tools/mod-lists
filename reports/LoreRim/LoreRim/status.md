@@ -980,7 +980,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -3450,6 +3449,7 @@
 *  [Simple Hunting Overhaul - MCM-103439-0-0-3-1698609865.zip](https://www.nexusmods.com/skyrimspecialedition/mods/103439/?tab=files&file_id=438141)
 *  [Simple Hunting Overhaul-95943-1-15-1757955665.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95943/?tab=files&file_id=666077)
 *  [Simple Mesh Fixes-71990-0-3-1661986188.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71990/?tab=files&file_id=312098)
+*  [Simple Outfit System-48974-0-3-1728419004.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48974/?tab=files&file_id=550305)
 *  [Simple Portable Cooking-101233-1-4-4-1711839396.zip](https://www.nexusmods.com/skyrimspecialedition/mods/101233/?tab=files&file_id=485835)
 *  [Simpler Dragon Targeting - True Directional Movement-81417-1-01-1672094447.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81417/?tab=files&file_id=343876)
 *  [Simplest Horses - Main File-54225-0-9-5-1670202262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54225/?tab=files&file_id=337706)
