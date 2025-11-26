@@ -1,8 +1,8 @@
 {
   "MachineURL": "Nymphs_Savage_World/Nymphs_Savage_World",
   "Name": "Nymphs Savage World",
-  "Version": "1.0.5",
-  "ModListHash": "ABwaVTNq6ZY=",
+  "Version": "1.0.5.1",
+  "ModListHash": "iuEnBMK+KTY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1840,6 +1840,27 @@
           "ModID": 2650,
           "Name": "RS Children Overhaul",
           "Version": "1.1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rgqLHU8UGPM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=81291\nfileID=357073",
+        "Name": "Show Player In Menus-81291-2-0-3-1675683703.zip",
+        "Size": 5553732,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "myztikrice",
+          "Description": "SKSE mod that rotates the player or character so you can see them in menus. Includes options for player and camera position, and rotation of the character, with additional mod support for mods like SmoothCam/TDM and works in Inventory/Container/Barter/Magic/Tween menus. Based on Oblivion Style Inventory and updated for SE/AE using CommonLibSSE-NG.",
+          "FileID": 357073,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81291/81291-1672875681-1706552198.jpeg",
+          "IsNSFW": false,
+          "ModID": 81291,
+          "Name": "Show Player In Menus",
+          "Version": "2.0.3"
         }
       }
     },
