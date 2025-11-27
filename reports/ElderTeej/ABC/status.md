@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1290)
+### Valid (1289)
 *  [-Perfect landscape by Pfuscher ULTRA 2.0-48403-2-0-1606852878.7z](https://www.nexusmods.com/fallout4/mods/48403/?tab=files&file_id=196059)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1 - Keep Radiants in the Commonwealth Patch-59019-1-13-1757630024.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=367267)
@@ -100,7 +100,6 @@
 *  CreationKit.ini
 *  [Cryolator Cryo-Cell Fix-15985-1-00.rar](https://www.nexusmods.com/fallout4/mods/15985/?tab=files&file_id=63878)
 *  cudart64_75.dll
-*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
