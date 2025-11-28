@@ -1,10 +1,11 @@
 ## Validation Report - Uranium Fever (UraniumFever/UraniumFever)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [[Guru3D.com]-RTSS.zip](https://www.guru3d.com/getdownload/2c1b2414f56a6594ffef91236a87c0e976d52e0519b1373846bab016c2f20c7c4d6ce7dfe19a0bc843da8d448bbb670058b0c9ee9a26f5cf49bc39c97da070e6eb314629af3da2d24ab0413917f73b946419b5af447da45cefb517a0840ad3003abff4f9d5fe7828bbbb910ee270b20632035fba6a450da22325b6bc5b6ecf760e598e0a09bb891387012d7e49a92b4a8f1c86af94bc77d60086a77bc5d35333a4a994caecfec48d7150f6815800664824e01d94cc3145e06f)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1366)
+### Valid (1365)
 *  [- CDN - 3DNPC - NV - Sweet's 3DNPC Tweaks - By Sweet6Shooter.zip](https://authored-files.wabbajack.org/- CDN - 3DNPC - NV - Sweet's 3DNPC Tweaks - By Sweet6Shooter.zip_7b529541-4d69-4a5d-89da-023cf43f9118)
 *  [- CDN - Auto Axe - Capital Wasteland Auto Axe - By Conzo.zip](https://authored-files.wabbajack.org/- CDN - Auto Axe - Capital Wasteland Auto Axe - By Conzo.zip_8f1286e3-8ac6-4844-a0d8-e67499c3673e)
 *  [- CDN - Chinese Stealth Armor - Retexture Pack - By MedRenace.zip](https://authored-files.wabbajack.org/- CDN - Chinese Stealth Armor - Retexture Pack - By MedRenace.zip_45cf5482-3e8e-4bf4-ba0c-888fae4e668e)
@@ -28,7 +29,6 @@
 *  [(B) SAR Settings - DT - Player-79687-2-01-1679500915.7z](https://www.nexusmods.com/newvegas/mods/79687/?tab=files&file_id=1000106745)
 *  [(Benny Humbles You) and Steals Your Stuff Patch-85643-1-0-1722270132.7z](https://www.nexusmods.com/newvegas/mods/85643/?tab=files&file_id=1000137138)
 *  [(Sound)_Animal_Sounds-67672-2-1615205000.7z](https://www.nexusmods.com/newvegas/mods/67672/?tab=files&file_id=1000073035)
-*  [[Guru3D.com]-RTSS.zip](https://www.guru3d.com/getdownload/2c1b2414f56a6594ffef91236a87c0e976d52e0519b1373846bab016c2f20c7c4d6ce7dfe19a0bc843da8d448bbb670058b0c9ee9a26f5cf49bc39c97da070e6eb314629af3da2d24ab0413917f73b946419b5af447da45cefb517a0840ad3003abff4f9d5fe7828bbbb910ee270b20632035fba6a450da22325b6bc5b6ecf760e598e0a09bb891387012d7e49a92b4a8f1c86af94bc77d60086a77bc5d35333a4a994caecfec48d7150f6815800664824e01d94cc3145e06f)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [00 - Cigarettes - Replacer Version - 2k-88812-1-2-1726420778.zip](https://www.nexusmods.com/newvegas/mods/88812/?tab=files&file_id=1000139899)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
