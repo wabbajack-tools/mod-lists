@@ -2299,7 +2299,7 @@
 *  [SkyGround Chronicles - Performance DynDOLOD Output-147012-2-1-1764451840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692610)
 *  [SkyGround Chronicles - Performance Grass Cache-147012-2-1-1764444995.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692587)
 *  [SkyGround Chronicles - Performance TexGen Output-147012-2-1-1764444503.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692586)
-*  [SkyGround Chronicles - Synthesis Output-147012-2-1-1764429612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692527)
+*  [SkyGround Chronicles - Synthesis Output-147012-2-1-1764482082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692749)
 *  [SkyGround Chronicles - TexGen Output-147012-2-1-1764368981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692294)
 *  [SkyGround Chronicles - Underwear-147012-0-7-1747874644.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=629704)
 *  [SkyGround Chronicles - xLODGen Output-147012-2-1-1764367520.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147012/?tab=files&file_id=692286)
