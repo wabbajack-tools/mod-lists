@@ -1,12 +1,11 @@
 ## Validation Report - Twisted Skyrim (WakingDreams/TwistedSkyrim)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [EyesMod3_FullCompressed1K.7z](https://disk.yandex.ru/d/ogrEiFwGFnNcLQ)
-*  [Synthesis Output SFW.7z](https://authored-files.wabbajack.org/Synthesis Output SFW.7z_37deef2f-e63c-4ae9-b085-a2198c26cb1c)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (5351)
+### Valid (5352)
 *  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -4759,6 +4758,7 @@
 *  [Swimming Mount Animation Fix-150241-1-0-1-1747918005.rar](https://www.nexusmods.com/skyrimspecialedition/mods/150241/?tab=files&file_id=629867)
 *  [Swindlers Den (ESL)-110737-1-03-1741740862.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110737/?tab=files&file_id=604608)
 *  [Switch Camera During Dialogue-95269-1-0-1690012114.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95269/?tab=files&file_id=409386)
+*  [Synthesis Output SFW.7z](https://authored-files.wabbajack.org/Synthesis Output SFW.7z_37deef2f-e63c-4ae9-b085-a2198c26cb1c)
 *  [Synthesis Output.7z](https://authored-files.wabbajack.org/Synthesis Output.7z_e67aa141-783e-4133-9844-53f5c3038a00)
 *  [Taarie and Endarie Re-Imagined CBBE-44277-1-0-1610458084.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44277/?tab=files&file_id=179093)
 *  [Taarie's Dialogue Fix-24406-1-0-0-1553353200.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24406/?tab=files&file_id=85947)
