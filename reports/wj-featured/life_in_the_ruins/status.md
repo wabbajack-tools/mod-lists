@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (793)
+### Valid (794)
 *  [0 MAIN File - MWGS 1.2.0 BETA-64395-1-2-0-1666226119.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=253957)
 *  [01 - Vanilla Weapons MWGS Patch - KSSM Version-64395-1-1-0-1665005128.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=252573)
 *  [02 - Far Harbor DLCCoast MWGS Patch - KSSM Version-64395-1-0-1663398838.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=250872)
@@ -206,6 +206,7 @@
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
+*  Data_DLCworkshop03 - Voices_en.ba2
 *  Data_DLCworkshop03.cdx
 *  Data_DLCworkshop03.esm
 *  Data_Fallout4 - Animations.ba2

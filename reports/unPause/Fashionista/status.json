@@ -1,8 +1,8 @@
 {
   "MachineURL": "unPause/Fashionista",
   "Name": "Fashionista",
-  "Version": "1.1.1",
-  "ModListHash": "36HEkbzGFOw=",
+  "Version": "1.1.2",
+  "ModListHash": "hl7Im0dFi5M=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UCrk7cKUHLE=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-brujah-by-skeletoff\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "NightIsBlack.rar",
+        "Size": 4657815,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-brujah-by-skeletoff"
         }
       }
     },
@@ -63,27 +77,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HbrfSiG1EeA=",
-        "Meta": "[General]\ngameName=vampire\nmodID=10\nfileID=9",
-        "Name": "dev0lved_enb_v1.2.zip-10-1-2.zip",
-        "Size": 674253,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dev0lved",
-          "Description": "The VTMB ENB was a little messed up, so I took a look at using another source-engine ENB, the one for HL2.",
-          "FileID": 9,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/10-1-1413405338.jpg",
-          "IsNSFW": false,
-          "ModID": 10,
-          "Name": "Dev0lved ENB",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "hpghWHhOZBk=",
         "Meta": "[General]\ngameName=vampire\nmodID=365\nfileID=1323",
         "Name": "Fashionista Main Menu-365-0-0-1-1761803218.7z",
@@ -105,21 +98,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RZI05C0HUMs=",
-        "Meta": "[General]\ngameName=vampire\nmodID=246\nfileID=757",
-        "Name": "unreal_enb_final-246-1-4-1679021088.zip",
-        "Size": 39037741,
+        "Hash": "HbrfSiG1EeA=",
+        "Meta": "[General]\ngameName=vampire\nmodID=10\nfileID=9",
+        "Name": "dev0lved_enb_v1.2.zip-10-1-2.zip",
+        "Size": 674253,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "abvra",
-          "Description": "This mod has optional RTGI RayTracing.  This is a serious attempt to make the lighting in this game truly realistic, while maintaining its vibrance and style.  This game has a lot of intense areas of both color and lighting, and deep shadows.  It was no easy task to balance these, and as a result the normal version is very FPS-intensive.  Have fun!",
-          "FileID": 757,
+          "Author": "Dev0lved",
+          "Description": "The VTMB ENB was a little messed up, so I took a look at using another source-engine ENB, the one for HL2.",
+          "FileID": 9,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/246/246-1679023402-563274144.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/10-1-1413405338.jpg",
           "IsNSFW": false,
-          "ModID": 246,
-          "Name": "Unrealistically Realistic - The Works- RayTracing - Reshade - ENB - HDR",
-          "Version": "1.4"
+          "ModID": 10,
+          "Name": "Dev0lved ENB",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "unQ0x84prTU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1295",
+        "Name": "Downtown-165-30-1760940144.rar",
+        "Size": 559347479,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tahril",
+          "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
+          "FileID": 1295,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
+          "IsNSFW": false,
+          "ModID": 165,
+          "Name": "NPCs Improved",
+          "Version": "29.5"
         }
       }
     },
@@ -189,21 +203,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7EfAOMOMLEI=",
-        "Meta": "[General]\ngameName=vampire\nmodID=340\nfileID=1183",
-        "Name": "Bloodlines Mod Resource - Immersive Computer Usern-340-1-0-1740346949.7z",
-        "Size": 7784,
+        "Hash": "J3qpCKNlIe0=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/mods/bloodlines-audio-overhaul/downloads/bloodlines-audio-overhaul-v20-magic-update\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "Bloodlines_Audio_Overhaul_Mod_2.0a.zip",
+        "Size": 79988516,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rendara",
-          "Description": "Assigns your player name as your email username.\n\nSo, if I set my name as \u0022Rendara\u0022 in character creation, the email menu would read \u0022Email for Rendara\u0022 (default is \u0022Email for suckhead\u0022).\n\nAn example script is available for download.",
-          "FileID": 1183,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/340/340-1740346429-1639547092.jpeg",
-          "IsNSFW": false,
-          "ModID": 340,
-          "Name": "Bloodlines Mod Resource - Immersive Computer Username",
-          "Version": "1.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/mods/bloodlines-audio-overhaul/downloads/bloodlines-audio-overhaul-v20-magic-update"
         }
       }
     },
@@ -231,27 +238,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iy8vfrnDYfw=",
-        "Meta": "[General]\ngameName=vampire\nmodID=284\nfileID=1136",
-        "Name": "Nosferatu Interface-284-1-1734878052.rar",
-        "Size": 36132895,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tahril",
-          "Description": "Clan-specific HUDs and UI mod. \n\n\n\nExtract contents into \u0027Unofficial_patch\u0027 folder.",
-          "FileID": 1136,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/284/284-1700899156-913764304.png",
-          "IsNSFW": false,
-          "ModID": 284,
-          "Name": "Clan-specific interface",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "EHqIbymy9c8=",
         "Meta": "[General]\ngameName=vampire\nmodID=303\nfileID=988",
         "Name": "Uninterrupted BGM-303-1-0-0-1715531411.7z",
@@ -267,6 +253,20 @@
           "ModID": 303,
           "Name": "Uninterrupted background music",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BeQFKLubObU=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "toreador_reskin_beta.zip",
+        "Size": 3488601,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin"
         }
       }
     },
@@ -329,21 +329,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/zEkZ2XNzPI=",
-        "Meta": "[General]\ngameName=vampire\nmodID=34\nfileID=78",
-        "Name": "HDGrounds Hotfix-34-v1-211.rar",
-        "Size": 781748,
+        "Hash": "o57zypwBkto=",
+        "Meta": "[General]\ngameName=vampire\nmodID=324\nfileID=1050",
+        "Name": "Main Songs-324-1-0-1722428546.zip",
+        "Size": 212219966,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Leg of ham",
-          "Description": "Just some Higher definition textures worked into the game",
-          "FileID": 78,
+          "Author": "Mattski123",
+          "Description": "I\u0027ve taken a selection of songs and put them in higher quality for your gaming pleasure.",
+          "FileID": 1050,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/34-4-1460046874.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/324/324-1722420199-1721073674.png",
           "IsNSFW": false,
-          "ModID": 34,
-          "Name": "HD GROUNDS WIP",
-          "Version": "v1"
+          "ModID": 324,
+          "Name": "HQ Music Tracks",
+          "Version": "1.0"
         }
       }
     },
@@ -413,6 +413,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "iy8vfrnDYfw=",
+        "Meta": "[General]\ngameName=vampire\nmodID=284\nfileID=1136",
+        "Name": "Nosferatu Interface-284-1-1734878052.rar",
+        "Size": 36132895,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tahril",
+          "Description": "Clan-specific HUDs and UI mod. \n\n\n\nExtract contents into \u0027Unofficial_patch\u0027 folder.",
+          "FileID": 1136,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/284/284-1700899156-913764304.png",
+          "IsNSFW": false,
+          "ModID": 284,
+          "Name": "Clan-specific interface",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "XQidkLNe4/U=",
         "Meta": "[General]\ngameName=vampire\nmodID=38\nfileID=1209",
         "Name": "SeduceDialogsForMales-38-1-5-1744422867.zip",
@@ -428,6 +449,27 @@
           "ModID": 38,
           "Name": "Seduce dialogs for males",
           "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x7OUzod+45s=",
+        "Meta": "[General]\ngameName=vampire\nmodID=106\nfileID=410",
+        "Name": "Street Sign Texture Pack-106-1-0-1-1594482809.zip",
+        "Size": 8512849,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vampire Nonsense",
+          "Description": "This unassuming little texture pack mainly focuses on street signs, but includes a few warnings/notices.",
+          "FileID": 410,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/106/106-1562804060-1241410369.png",
+          "IsNSFW": false,
+          "ModID": 106,
+          "Name": "Street Sign Texture Pack",
+          "Version": "1.0.1"
         }
       }
     },
@@ -455,63 +497,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hyA0d3ANW2U=",
-        "Meta": "[General]\ngameName=vampire\nmodID=74\nfileID=169",
-        "Name": "Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip",
-        "Size": 5506813,
+        "Hash": "69OUISsri8o=",
+        "Meta": "[General]\ngameName=vampire\nmodID=284\nfileID=1133",
+        "Name": "Ventrue Interface-284-1-1734421537.rar",
+        "Size": 48371804,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ghanima Atreides",
-          "Description": "A retexture pack for female PC hands; all clans included.",
-          "FileID": 169,
+          "Author": "Tahril",
+          "Description": "Clan-specific HUDs and UI mod. \n\n\n\nExtract contents into \u0027Unofficial_patch\u0027 folder.",
+          "FileID": 1133,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/74/74-1548960345-1293569915.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/284/284-1700899156-913764304.png",
           "IsNSFW": false,
-          "ModID": 74,
-          "Name": "Beautiful Monster - Female Hands Retexture",
+          "ModID": 284,
+          "Name": "Clan-specific interface",
           "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VxSCCOq9dOs=",
-        "Meta": "[General]\ngameName=vampire\nmodID=308\nfileID=998",
-        "Name": "Lockpicking icons for UP-308-1-0-1717262414.rar",
-        "Size": 2632,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phoenix",
-          "Description": "Remake of lockpicking icons in UP!",
-          "FileID": 998,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/308/308-1717262436-1659725172.png",
-          "IsNSFW": false,
-          "ModID": 308,
-          "Name": "Better lockpicking icons for UP",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sJRk1SRQc94=",
-        "Meta": "[General]\ngameName=vampire\nmodID=314\nfileID=1145",
-        "Name": "Bisexual Utopia-314-1-1-1736041851.rar",
-        "Size": 198163,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karl Sidhe",
-          "Description": "Allows the player to have a chance to seduce any NPC, regardless of their gender.",
-          "FileID": 1145,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/314/314-1717767095-208078877.png",
-          "IsNSFW": false,
-          "ModID": 314,
-          "Name": "Bisexual Utopia",
-          "Version": "1.1"
         }
       }
     },
@@ -539,21 +539,56 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "69OUISsri8o=",
-        "Meta": "[General]\ngameName=vampire\nmodID=284\nfileID=1133",
-        "Name": "Ventrue Interface-284-1-1734421537.rar",
-        "Size": 48371804,
+        "Hash": "8Hh+iDcvZvk=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "AAFVentrue.rar",
+        "Size": 861137,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VxSCCOq9dOs=",
+        "Meta": "[General]\ngameName=vampire\nmodID=308\nfileID=998",
+        "Name": "Lockpicking icons for UP-308-1-0-1717262414.rar",
+        "Size": 2632,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tahril",
-          "Description": "Clan-specific HUDs and UI mod. \n\n\n\nExtract contents into \u0027Unofficial_patch\u0027 folder.",
-          "FileID": 1133,
+          "Author": "Phoenix",
+          "Description": "Remake of lockpicking icons in UP!",
+          "FileID": 998,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/284/284-1700899156-913764304.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/308/308-1717262436-1659725172.png",
           "IsNSFW": false,
-          "ModID": 284,
-          "Name": "Clan-specific interface",
-          "Version": "1"
+          "ModID": 308,
+          "Name": "Better lockpicking icons for UP",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RNUccnXEYsQ=",
+        "Meta": "[General]\ngameName=vampire\nmodID=152\nfileID=426",
+        "Name": "TFN 1.6 texture bug fix 1.1-152-1-1-1598320472.zip",
+        "Size": 6586410,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vampire Nonsense",
+          "Description": "Texture pack replacing a great many carpets and hall runners.",
+          "FileID": 426,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/152/152-1598057576-1996506718.png",
+          "IsNSFW": false,
+          "ModID": 152,
+          "Name": "Carpet Texture Pack",
+          "Version": "1.0"
         }
       }
     },
@@ -568,64 +603,6 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "Click the Red Download Now button to get the lattest version.",
           "Url": "https://www.moddb.com/addons/deathrockermalkfem"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vgqRaaBN+ik=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\ministry - bloodlines.mp3",
-        "Name": "Vampire_sound_music_licenced_ministry - bloodlines.mp3",
-        "Size": 5232621,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\ministry - bloodlines.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "vgqRaaBN+ik="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VJptK85OnR8=",
-        "Meta": "[General]\ngameName=vampire\nmodID=102\nfileID=345",
-        "Name": "Nocturnal Excess (ENB-ReShade)-102-2-0-1577916841.zip",
-        "Size": 10283836,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "certainmorning",
-          "Description": "This is an attempt to overhaul the visuals creating darker and more mature atmosphere, perfectly fitting the game about modern vampires.",
-          "FileID": 345,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/102/102-1577917928-570732163.jpeg",
-          "IsNSFW": false,
-          "ModID": 102,
-          "Name": "Nocturnal Excess (ENB-ReShade)",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JZ4X/KM1EWU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=266\nfileID=819",
-        "Name": "VTMBNo-IntroFix-266-0-1-1688666578.rar",
-        "Size": 1649,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gametism",
-          "Description": "Speeds up game launch significantly by automatically bypassing startup or introduction videos.",
-          "FileID": 819,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/266/266-1688666491-1765367279.jpeg",
-          "IsNSFW": false,
-          "ModID": 266,
-          "Name": "No-Intro (Skip Startup - Splash Videos)",
-          "Version": "0.1"
         }
       }
     },
@@ -653,6 +630,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VJptK85OnR8=",
+        "Meta": "[General]\ngameName=vampire\nmodID=102\nfileID=345",
+        "Name": "Nocturnal Excess (ENB-ReShade)-102-2-0-1577916841.zip",
+        "Size": 10283836,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "certainmorning",
+          "Description": "This is an attempt to overhaul the visuals creating darker and more mature atmosphere, perfectly fitting the game about modern vampires.",
+          "FileID": 345,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/102/102-1577917928-570732163.jpeg",
+          "IsNSFW": false,
+          "ModID": 102,
+          "Name": "Nocturnal Excess (ENB-ReShade)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fQK0qQbEKhs=",
+        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1311",
+        "Name": "Hollywood-165-30-1761637433.rar",
+        "Size": 322670111,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tahril",
+          "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
+          "FileID": 1311,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
+          "IsNSFW": false,
+          "ModID": 165,
+          "Name": "NPCs Improved",
+          "Version": "29.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "+PgReXafvTY=",
         "Meta": "[General]\ngameName=vampire\nmodID=75\nfileID=411",
         "Name": "Red Dragon art pack add-on-75-1-0-1594483730.zip",
@@ -668,6 +687,27 @@
           "ModID": 75,
           "Name": "Art Texture Pack",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RZI05C0HUMs=",
+        "Meta": "[General]\ngameName=vampire\nmodID=246\nfileID=757",
+        "Name": "unreal_enb_final-246-1-4-1679021088.zip",
+        "Size": 39037741,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "abvra",
+          "Description": "This mod has optional RTGI RayTracing.  This is a serious attempt to make the lighting in this game truly realistic, while maintaining its vibrance and style.  This game has a lot of intense areas of both color and lighting, and deep shadows.  It was no easy task to balance these, and as a result the normal version is very FPS-intensive.  Have fun!",
+          "FileID": 757,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/246/246-1679023402-563274144.png",
+          "IsNSFW": false,
+          "ModID": 246,
+          "Name": "Unrealistically Realistic - The Works- RayTracing - Reshade - ENB - HDR",
+          "Version": "1.4"
         }
       }
     },
@@ -695,6 +735,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0HsgtS1SGHg=",
+        "Meta": "[General]\ngameName=vampire\nmodID=234\nfileID=1350",
+        "Name": "CQM Beta Compatibility-234-2-0-1762624142.zip",
+        "Size": 244112773,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OmriKoresh",
+          "Description": "PLEASE ENDORSE THE MOD!\n\n\n\nRead The FAQ for questions BEFORE Hitting the forums,\n\nI will not be answering questions already answered.\n\n\n\nFinal Update May 2024.",
+          "FileID": 1350,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/234/234-1686122299-886184010.png",
+          "IsNSFW": false,
+          "ModID": 234,
+          "Name": "VTMB HD Overhaul",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "b7uZ+h8p7zc=",
         "Meta": "[General]\ngameName=vampire\nmodID=146\nfileID=402",
         "Name": "Aristocratic nosferatu by marius217-146-1-1591472026.rar",
@@ -716,21 +777,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0HsgtS1SGHg=",
-        "Meta": "[General]\ngameName=vampire\nmodID=234\nfileID=1350",
-        "Name": "CQM Beta Compatibility-234-2-0-1762624142.zip",
-        "Size": 244112773,
+        "Hash": "7EfAOMOMLEI=",
+        "Meta": "[General]\ngameName=vampire\nmodID=340\nfileID=1183",
+        "Name": "Bloodlines Mod Resource - Immersive Computer Usern-340-1-0-1740346949.7z",
+        "Size": 7784,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OmriKoresh",
-          "Description": "PLEASE ENDORSE THE MOD!\n\n\n\nRead The FAQ for questions BEFORE Hitting the forums,\n\nI will not be answering questions already answered.\n\n\n\nFinal Update May 2024.",
-          "FileID": 1350,
+          "Author": "Rendara",
+          "Description": "Assigns your player name as your email username.\n\nSo, if I set my name as \u0022Rendara\u0022 in character creation, the email menu would read \u0022Email for Rendara\u0022 (default is \u0022Email for suckhead\u0022).\n\nAn example script is available for download.",
+          "FileID": 1183,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/234/234-1686122299-886184010.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/340/340-1740346429-1639547092.jpeg",
           "IsNSFW": false,
-          "ModID": 234,
-          "Name": "VTMB HD Overhaul",
-          "Version": "1.7"
+          "ModID": 340,
+          "Name": "Bloodlines Mod Resource - Immersive Computer Username",
+          "Version": "1.0"
         }
       }
     },
@@ -779,56 +840,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BeQFKLubObU=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin\nprompt=Click the Red Download Now button to get the lattest version.",
-        "Name": "toreador_reskin_beta.zip",
-        "Size": 3488601,
+        "Hash": "sJRk1SRQc94=",
+        "Meta": "[General]\ngameName=vampire\nmodID=314\nfileID=1145",
+        "Name": "Bisexual Utopia-314-1-1-1736041851.rar",
+        "Size": 198163,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Red Download Now button to get the lattest version.",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karl Sidhe",
+          "Description": "Allows the player to have a chance to seduce any NPC, regardless of their gender.",
+          "FileID": 1145,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/314/314-1717767095-208078877.png",
+          "IsNSFW": false,
+          "ModID": 314,
+          "Name": "Bisexual Utopia",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OmdZ2aNq0Y0=",
-        "Meta": "[General]\ngameName=vampire\nmodID=149\nfileID=412",
-        "Name": "Jenya\u0027s female toreador pc-149-1-0-1594830583.zip",
-        "Size": 8555595,
+        "Hash": "m3sioPeRwaA=",
+        "Meta": "[General]\ngameName=vampire\nmodID=360\nfileID=1260",
+        "Name": "True Soak-360-1-1754973778.zip",
+        "Size": 30546,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jenya66",
-          "Description": "Female toreador pc overhaul.",
-          "FileID": 412,
+          "Author": "JadedWastrel",
+          "Description": "This mod brings Bloodlines Stamina soak more in line with the table top game. Stamina will now aid in Lethal Soak for Vampires much like it does in table top. Soak difficulty has been unchanged and the mod is designed to work with Wesp\u0027s Unofficial Bloodlines Patch.\n\n\n\nNow also featuring a version for CQM while using Camarilla edition lite!",
+          "FileID": 1260,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/149/149-1594830014-2013863879.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/360/360-1754973143-698631193.png",
           "IsNSFW": false,
-          "ModID": 149,
-          "Name": "Jenya\u0027s female toreador pc overhaul",
-          "Version": "1.0"
+          "ModID": 360,
+          "Name": "Truly Soaking- A Lethal Soak Mod",
+          "Version": "1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "x7OUzod+45s=",
-        "Meta": "[General]\ngameName=vampire\nmodID=106\nfileID=410",
-        "Name": "Street Sign Texture Pack-106-1-0-1-1594482809.zip",
-        "Size": 8512849,
+        "Hash": "4WlS7zJGRwM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=133\nfileID=361",
+        "Name": "Vampire Malkavian  Gangrel  tremere  Toreador    by Marius217-133-1-1586011738.rar",
+        "Size": 29373972,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vampire Nonsense",
-          "Description": "This unassuming little texture pack mainly focuses on street signs, but includes a few warnings/notices.",
-          "FileID": 410,
+          "Author": "Marius217",
+          "Description": "Hi, how are you?\n\nWell, as a good fan of this great game and waiting for the VTMB 2. adapt a model to the character of Mr. Damp. I hope you like it. The model is like Toreador , Gangrel,Tremere (whose skin is more Human) and Malkavian (whose skin is more blue), . Just choose which model you want to play with and download it to the vampire direc",
+          "FileID": 361,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/106/106-1562804060-1241410369.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/133/133-1586011815-76966616.jpeg",
           "IsNSFW": false,
-          "ModID": 106,
-          "Name": "Street Sign Texture Pack",
-          "Version": "1.0.1"
+          "ModID": 133,
+          "Name": "MR DAMP  by Marius217",
+          "Version": "1"
         }
       }
     },
@@ -849,6 +917,27 @@
           "IsNSFW": false,
           "ModID": 159,
           "Name": "Toreador Lestat By Marius217",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hyA0d3ANW2U=",
+        "Meta": "[General]\ngameName=vampire\nmodID=74\nfileID=169",
+        "Name": "Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip",
+        "Size": 5506813,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ghanima Atreides",
+          "Description": "A retexture pack for female PC hands; all clans included.",
+          "FileID": 169,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/74/74-1548960345-1293569915.png",
+          "IsNSFW": false,
+          "ModID": 74,
+          "Name": "Beautiful Monster - Female Hands Retexture",
           "Version": "1"
         }
       }
@@ -906,86 +995,6 @@
           "ModID": 165,
           "Name": "NPCs Improved",
           "Version": "29.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lzpCtEDcP/w=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\carson\\line100_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_carson_line100_col_e.mp3",
-        "Size": 6059,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\carson\\line100_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "lzpCtEDcP/w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rd3/Ash8M5Q=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\giovanni\\christopher\\line300_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_giovanni_christopher_line300_col_e.mp3",
-        "Size": 11283,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\giovanni\\christopher\\line300_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "rd3/Ash8M5Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+l2zafyC3wg=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line631_col_f.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line631_col_f.mp3",
-        "Size": 7680,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line631_col_f.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "+l2zafyC3wg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fumRoPN9vms=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\heather\\line972_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_heather_line972_col_e.mp3",
-        "Size": 15672,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\heather\\line972_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "fumRoPN9vms="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mMX8EnkDn88=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\romero\\line661_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_romero_line661_col_e.mp3",
-        "Size": 7680,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\romero\\line661_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "mMX8EnkDn88="
         }
       }
     },
@@ -1055,27 +1064,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jcb1D2q1WZw=",
-        "Meta": "[General]\ngameName=vampire\nmodID=88\nfileID=207",
-        "Name": "Stained glass standing lamp-88-1-0-1555020533.zip",
-        "Size": 989341,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vampire Nonsense",
-          "Description": "Texture pack for some furniture. Base pack has some furniture with a scuffed look, all of which can be replaced with an optional file.",
-          "FileID": 207,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/88/88-1594424990-896672026.png",
-          "IsNSFW": false,
-          "ModID": 88,
-          "Name": "Furniture Texture Pack",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "R8hQXEKU2yc=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/the-golden-rose-v157\nprompt=Click the Red Download Now button to get the lattest version.",
         "Name": "Golden_Rose_v1.5.7z",
@@ -1111,42 +1099,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "unQ0x84prTU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1295",
-        "Name": "Downtown-165-30-1760940144.rar",
-        "Size": 559347479,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tahril",
-          "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
-          "FileID": 1295,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
-          "IsNSFW": false,
-          "ModID": 165,
-          "Name": "NPCs Improved",
-          "Version": "29.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qiOgejiiL7g=",
-        "Meta": "[General]\ngameName=vampire\nmodID=63\nfileID=287",
-        "Name": "Sexy Long Hair Female Toreador by Felizpe V3-63-3-0-1568577739.rar",
-        "Size": 23823312,
+        "Hash": "I7srqV4wpeM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=33\nfileID=64",
+        "Name": "Underworld Selene for Brujah-33-1.rar",
+        "Size": 4333228,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felizpe",
-          "Description": "This addon replaces Female Player Toreador for a new sexy long hair version.",
-          "FileID": 287,
+          "Description": "This addon replaces the Female Player Clan Brujah for Selene from the movie Underworld! \n\nGame: VAMPIRE: THE MASQUERADE - BLOODLINES\n\nFelizpe from Brazil Bloodlines! Enjoy!",
+          "FileID": 64,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/63/63-1635266350-1092662446.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/33-0-1459668588.jpg",
           "IsNSFW": false,
-          "ModID": 63,
-          "Name": "Sexy Long Hair Female Toreador (Player) V.3",
-          "Version": "3.0"
+          "ModID": 33,
+          "Name": "Selene from Underworld for Brujah",
+          "Version": "1"
         }
       }
     },
@@ -1210,27 +1177,6 @@
           "ModID": 319,
           "Name": "Allison Mayer Brujah PC Skin",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fQK0qQbEKhs=",
-        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1311",
-        "Name": "Hollywood-165-30-1761637433.rar",
-        "Size": 322670111,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tahril",
-          "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
-          "FileID": 1311,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
-          "IsNSFW": false,
-          "ModID": 165,
-          "Name": "NPCs Improved",
-          "Version": "29.5"
         }
       }
     },
@@ -1384,27 +1330,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4WlS7zJGRwM=",
-        "Meta": "[General]\ngameName=vampire\nmodID=133\nfileID=361",
-        "Name": "Vampire Malkavian  Gangrel  tremere  Toreador    by Marius217-133-1-1586011738.rar",
-        "Size": 29373972,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marius217",
-          "Description": "Hi, how are you?\n\nWell, as a good fan of this great game and waiting for the VTMB 2. adapt a model to the character of Mr. Damp. I hope you like it. The model is like Toreador , Gangrel,Tremere (whose skin is more Human) and Malkavian (whose skin is more blue), . Just choose which model you want to play with and download it to the vampire direc",
-          "FileID": 361,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/133/133-1586011815-76966616.jpeg",
-          "IsNSFW": false,
-          "ModID": 133,
-          "Name": "MR DAMP  by Marius217",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3/+L06dfQi8=",
         "Meta": "[General]\ngameName=vampire\nmodID=160\nfileID=458",
         "Name": "toreador Louis by Marius217-160-1-1602040681.rar",
@@ -1503,6 +1428,27 @@
           "IsNSFW": false,
           "ModID": 292,
           "Name": "Hooded gangmember black gray retexture",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OmdZ2aNq0Y0=",
+        "Meta": "[General]\ngameName=vampire\nmodID=149\nfileID=412",
+        "Name": "Jenya\u0027s female toreador pc-149-1-0-1594830583.zip",
+        "Size": 8555595,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jenya66",
+          "Description": "Female toreador pc overhaul.",
+          "FileID": 412,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/149/149-1594830014-2013863879.jpeg",
+          "IsNSFW": false,
+          "ModID": 149,
+          "Name": "Jenya\u0027s female toreador pc overhaul",
           "Version": "1.0"
         }
       }
@@ -1636,6 +1582,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Bv7GxyKzeRM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=376\nfileID=1347",
+        "Name": "ProudStannerman Tremere-376-1-1762480761.rar",
+        "Size": 19419195,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tahril",
+          "Description": "ProudStannerman requested a new Tremere using this particular model.\n\nsarahdabest  requested a Toreador version.",
+          "FileID": 1347,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/376/376-1762481571-1011523041.png",
+          "IsNSFW": false,
+          "ModID": 376,
+          "Name": "ProudStannerman Tremere and Toreador",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HHVVvAeHcEk=",
         "Meta": "[General]\ngameName=vampire\nmodID=272\nfileID=843",
         "Name": "Rats replacement-272-0-1-1690798473.zip",
@@ -1657,21 +1624,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I7srqV4wpeM=",
-        "Meta": "[General]\ngameName=vampire\nmodID=33\nfileID=64",
-        "Name": "Underworld Selene for Brujah-33-1.rar",
-        "Size": 4333228,
+        "Hash": "qiOgejiiL7g=",
+        "Meta": "[General]\ngameName=vampire\nmodID=63\nfileID=287",
+        "Name": "Sexy Long Hair Female Toreador by Felizpe V3-63-3-0-1568577739.rar",
+        "Size": 23823312,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felizpe",
-          "Description": "This addon replaces the Female Player Clan Brujah for Selene from the movie Underworld! \n\nGame: VAMPIRE: THE MASQUERADE - BLOODLINES\n\nFelizpe from Brazil Bloodlines! Enjoy!",
-          "FileID": 64,
+          "Description": "This addon replaces Female Player Toreador for a new sexy long hair version.",
+          "FileID": 287,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/33-0-1459668588.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/63/63-1635266350-1092662446.jpeg",
           "IsNSFW": false,
-          "ModID": 33,
-          "Name": "Selene from Underworld for Brujah",
-          "Version": "1"
+          "ModID": 63,
+          "Name": "Sexy Long Hair Female Toreador (Player) V.3",
+          "Version": "3.0"
         }
       }
     },
@@ -1692,6 +1659,27 @@
           "IsNSFW": false,
           "ModID": 331,
           "Name": "The Crow Malkavian",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rVVbvRHEPwU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=90\nfileID=210",
+        "Name": "Throwing a bone for the canines-90-1-0-1555174903.rar",
+        "Size": 1040686,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kirotut",
+          "Description": "Slightly enhanced Pitbull \u0026amp; Rottweiler textures.",
+          "FileID": 210,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/90/90-1555174369-392518255.jpeg",
+          "IsNSFW": false,
+          "ModID": 90,
+          "Name": "Throwing a bone for the Canines",
           "Version": "1.0"
         }
       }
@@ -1762,69 +1750,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "exQ8RptewQQ=",
-        "Meta": "[General]\ngameName=vampire\nmodID=114\nfileID=269",
-        "Name": "vampire tremere Dark by Marius217-114-1-1565234705.rar",
-        "Size": 3616965,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "marius217",
-          "Description": "I have redesigned the tremere masculine model: reduce the size of the face, and increase it more Hair. Use as a base the skin of Damond salvatore by Vampire Diaries made by Felizpe.\n\nJust download it in the vampire directory.\n\nI hope you like it .\n\nregards",
-          "FileID": 269,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/114/114-1565234221-960767672.jpeg",
-          "IsNSFW": false,
-          "ModID": 114,
-          "Name": "Tremere skin Model by Marius217",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y4B1R79MJgo=",
-        "Meta": "[General]\ngameName=vampire\nmodID=116\nfileID=274",
-        "Name": "vampire Tremere Male my version original by Marius217-116-1-1565840224.rar",
-        "Size": 4874923,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marius217",
-          "Description": "Regards, This is my version of the male tremere, with some of the original colors. just some lol .. Greetings and enjoy it.",
-          "FileID": 274,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/116/116-1565839562-117289654.jpeg",
-          "IsNSFW": false,
-          "ModID": 116,
-          "Name": "Tremere skin Model Red by Marius217",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I1MzVf3uKYA=",
-        "Meta": "[General]\ngameName=vampire\nmodID=288\nfileID=917",
-        "Name": "Vagabond Ventrue-288-1-0-1702943880.rar",
-        "Size": 28073368,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Batsnightmares",
-          "Description": "Give your Ventrue a dark and punk look.",
-          "FileID": 917,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/288/288-1702942797-947814841.jpeg",
-          "IsNSFW": false,
-          "ModID": 288,
-          "Name": "Vagabond Ventrue",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "rVLNdhFIwxg=",
         "Meta": "[General]\ngameName=vampire\nmodID=132\nfileID=357",
         "Name": "Pc for Brujah Male by Marius217-132-1-1584673201.rar",
@@ -1846,20 +1771,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8Hh+iDcvZvk=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin\nprompt=Click the Red Download Now button to get the lattest version.",
-        "Name": "AAFVentrue.rar",
-        "Size": 861137,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Red Download Now button to get the lattest version.",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6B/VVjFn+6s=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl\nprompt=Click the Red Download Now button to get the lattest version.",
         "Name": "1dark_malk_girl.zip",
@@ -1868,54 +1779,6 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "Click the Red Download Now button to get the lattest version.",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fcTFSSQx8FY=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\cal\\line250_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_cal_line250_col_e.mp3",
-        "Size": 36570,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\cal\\line250_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "fcTFSSQx8FY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tMlsQuEpY0Y=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line631_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line631_col_e.mp3",
-        "Size": 7680,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line631_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "tMlsQuEpY0Y="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "C9tx0QxiiFA=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\killer\\line161_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_killer_line161_col_e.mp3",
-        "Size": 16090,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\killer\\line161_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "C9tx0QxiiFA="
         }
       }
     },
@@ -1943,59 +1806,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nuH9hggz4S4=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line531_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line531_col_e.mp3",
-        "Size": 5329,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line531_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "nuH9hggz4S4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sRNWO8dRYYQ=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\heather\\line974_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_heather_line974_col_e.mp3",
-        "Size": 5329,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\heather\\line974_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "sRNWO8dRYYQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GgICFbz7bT0=",
-        "Meta": "[General]\ngameName=vampire\nmodID=81\nfileID=183",
-        "Name": "Those Goth Kids - Dancers Pack-81-2-1553964747.zip",
-        "Size": 20744198,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GhanimaAtreides",
-          "Description": "Retextures the \u0022goth\u0022 dancers found in clubs like the Asylum and Confession.",
-          "FileID": 183,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/81/81-1552679181-688155148.png",
-          "IsNSFW": false,
-          "ModID": 81,
-          "Name": "Those Goth Kids - Dancers Pack",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "yR714Vxi+NM=",
         "Meta": "[General]\ngameName=vampire\nmodID=163\nfileID=1194",
         "Name": "Player Characters Improved-163-7-1741784862.rar",
@@ -2017,22 +1827,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zRu99SYbYFQ=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\warrens\\mitnick\\line280_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_warrens_mitnick_line280_col_e.mp3",
-        "Size": 11912,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\warrens\\mitnick\\line280_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "zRu99SYbYFQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "G8Nfo1K50QE=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere\nprompt=Click the Red Download Now button to get the lattest version.",
         "Name": "demonastery_female_t.zip",
@@ -2047,28 +1841,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UCrk7cKUHLE=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-brujah-by-skeletoff\nprompt=Click the Red Download Now button to get the lattest version.",
-        "Name": "NightIsBlack.rar",
-        "Size": 4657815,
+        "Hash": "c2KG8kO2EYM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=45\nfileID=115",
+        "Name": "malk_noir-45-2-0.zip",
+        "Size": 2112663,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Red Download Now button to get the lattest version.",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-brujah-by-skeletoff"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rt4MxxqD9uk=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/mods/vampire-the-masquerade-bloodlines/addons/female-malkavian-reskin\nprompt=Click the Download Now Button to get the latest version",
-        "Name": "Female_Malkavian_Armor_0_Reskin.zip",
-        "Size": 221462,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Download Now Button to get the latest version",
-          "Url": "https://www.moddb.com/mods/vampire-the-masquerade-bloodlines/addons/female-malkavian-reskin"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fliplock",
+          "Description": "Noir style reskin of a the Malkavian female\u0027s second armor set for Vampire the Masquerade: Bloodlines.",
+          "FileID": 115,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/45-2-1512974862.jpg",
+          "IsNSFW": false,
+          "ModID": 45,
+          "Name": "Malkavian Noir",
+          "Version": "2.0"
         }
       }
     },
@@ -2103,27 +1890,6 @@
           "IsNSFW": false,
           "ModID": 328,
           "Name": "Nosferatu Gentleman",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bjoagkCv8UU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=81\nfileID=184",
-        "Name": "Cybergoth Girl-81-2-1553964828.zip",
-        "Size": 34897281,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GhanimaAtreides",
-          "Description": "Retextures the \u0022goth\u0022 dancers found in clubs like the Asylum and Confession.",
-          "FileID": 184,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/81/81-1552679181-688155148.png",
-          "IsNSFW": false,
-          "ModID": 81,
-          "Name": "Those Goth Kids - Dancers Pack",
           "Version": "1"
         }
       }
@@ -2215,272 +1981,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JgJKW2H0nkc=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman\nprompt=Click the Red Download Now button to get the lattest version.",
-        "Name": "r.rar",
-        "Size": 319449,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Red Download Now button to get the lattest version.",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RIPaWjXaF1Y=",
-        "Meta": "[General]\ngameName=vampire\nmodID=16\nfileID=22",
-        "Name": "Venus Retexture-16-1-0.zip",
-        "Size": 40134000,
+        "Hash": "GgICFbz7bT0=",
+        "Meta": "[General]\ngameName=vampire\nmodID=81\nfileID=183",
+        "Name": "Those Goth Kids - Dancers Pack-81-2-1553964747.zip",
+        "Size": 20744198,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roberto 1993",
-          "Description": "New venus",
-          "FileID": 22,
+          "Author": "GhanimaAtreides",
+          "Description": "Retextures the \u0022goth\u0022 dancers found in clubs like the Asylum and Confession.",
+          "FileID": 183,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/16-1-1421984580.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/81/81-1552679181-688155148.png",
           "IsNSFW": false,
-          "ModID": 16,
-          "Name": "Venus Retextured",
-          "Version": ""
+          "ModID": 81,
+          "Name": "Those Goth Kids - Dancers Pack",
+          "Version": "1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EMiC05S9CEo=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-skin\nprompt=Click the Red Download Now button to get the lattest version.",
-        "Name": "VVskin01.rar",
-        "Size": 1395386,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Red Download Now button to get the lattest version.",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-skin"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "svVZci03M90=",
-        "Meta": "[General]\ngameName=vampire\nmodID=317\nfileID=1013",
-        "Name": "Libertarian Ventrue-317-1-0-1719329227.zip",
-        "Size": 876042,
+        "Hash": "exQ8RptewQQ=",
+        "Meta": "[General]\ngameName=vampire\nmodID=114\nfileID=269",
+        "Name": "vampire tremere Dark by Marius217-114-1-1565234705.rar",
+        "Size": 3616965,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "USBurning",
-          "Description": "A variation of the Ventrue starter armor. Character is wearing blue jeans, with a yellow Gadsden shirt. Neck and sleeve tattoos. 5 O\u0027clock shadow with a mustache.",
-          "FileID": 1013,
+          "Author": "marius217",
+          "Description": "I have redesigned the tremere masculine model: reduce the size of the face, and increase it more Hair. Use as a base the skin of Damond salvatore by Vampire Diaries made by Felizpe.\n\nJust download it in the vampire directory.\n\nI hope you like it .\n\nregards",
+          "FileID": 269,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/317/317-1719328794-1808625083.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/114/114-1565234221-960767672.jpeg",
           "IsNSFW": false,
-          "ModID": 317,
-          "Name": "Libertarian Ventrue",
+          "ModID": 114,
+          "Name": "Tremere skin Model by Marius217",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y4B1R79MJgo=",
+        "Meta": "[General]\ngameName=vampire\nmodID=116\nfileID=274",
+        "Name": "vampire Tremere Male my version original by Marius217-116-1-1565840224.rar",
+        "Size": 4874923,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marius217",
+          "Description": "Regards, This is my version of the male tremere, with some of the original colors. just some lol .. Greetings and enjoy it.",
+          "FileID": 274,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/116/116-1565839562-117289654.jpeg",
+          "IsNSFW": false,
+          "ModID": 116,
+          "Name": "Tremere skin Model Red by Marius217",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I1MzVf3uKYA=",
+        "Meta": "[General]\ngameName=vampire\nmodID=288\nfileID=917",
+        "Name": "Vagabond Ventrue-288-1-0-1702943880.rar",
+        "Size": 28073368,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Batsnightmares",
+          "Description": "Give your Ventrue a dark and punk look.",
+          "FileID": 917,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/288/288-1702942797-947814841.jpeg",
+          "IsNSFW": false,
+          "ModID": 288,
+          "Name": "Vagabond Ventrue",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xini+3PD24c=",
-        "Meta": "[General]\ngameName=vampire\nmodID=361\nfileID=1267",
-        "Name": "Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z",
-        "Size": 915,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Faedrill",
-          "Description": "A Vanilla\u002B reshade for better colour, contrast and sharpness with 3 Versions.",
-          "FileID": 1267,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/361/361-1756892462-979629322.png",
-          "IsNSFW": false,
-          "ModID": 361,
-          "Name": "Murmurs of Madness VtMB Reshade",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fqe7rnsACig=",
-        "Meta": "[General]\ngameName=vampire\nmodID=334\nfileID=1137",
-        "Name": "Remixed Menu Music For Vampire The Masquerade - Bl-334-v-1-1735086042.zip",
-        "Size": 7208158,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HowtoHuman101",
-          "Description": "This mod changes the main title menu music to a remixed version, combining the original menu music with Massive Attack\u0027s Angel.",
-          "FileID": 1137,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/334/334-1735083914-625612106.jpeg",
-          "IsNSFW": false,
-          "ModID": 334,
-          "Name": "Remixed Menu Music For Vampire The Masquerade - Bloodlines",
-          "Version": "v.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "roCcgm+EBQQ=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Docs\\License.txt",
-        "Name": "Docs_License.txt",
-        "Size": 14893,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Docs\\License.txt",
-          "GameVersion": "0.0.0.0",
-          "Hash": "roCcgm+EBQQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "obSe69YctpQ=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\vesuvius.mp3",
-        "Name": "Vampire_sound_music_licenced_vesuvius.mp3",
-        "Size": 5603892,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\vesuvius.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "obSe69YctpQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "menYUTfbRu8=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\cfg\\user.cfg",
-        "Name": "Vampire_cfg_user.cfg",
-        "Size": 0,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\cfg\\user.cfg",
-          "GameVersion": "0.0.0.0",
-          "Hash": "menYUTfbRu8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EuMsISDB3Vo=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\andrei\\line260_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_andrei_line260_col_e.mp3",
-        "Size": 9874,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\andrei\\line260_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "EuMsISDB3Vo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QlM/yU7jxDk=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\slater\\line230_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_slater_line230_col_e.mp3",
-        "Size": 1881,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\slater\\line230_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "QlM/yU7jxDk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "x63XX6jS7HA=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\nines\\line910_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_nines_line910_col_e.mp3",
-        "Size": 6268,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\nines\\line910_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "x63XX6jS7HA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s1c+Q8rBBBU=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\romero\\line301_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_romero_line301_col_e.mp3",
-        "Size": 13322,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\romero\\line301_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "s1c+Q8rBBBU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QeX+dJnqFmk=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line361_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line361_col_e.mp3",
-        "Size": 8777,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line361_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "QeX+dJnqFmk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0NMJ9IxPn7c=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line641_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line641_col_e.mp3",
-        "Size": 5799,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line641_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "0NMJ9IxPn7c="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kW6EzSKlSes=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\ash\\line610_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_ash_line610_col_e.mp3",
-        "Size": 4232,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\ash\\line610_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "kW6EzSKlSes="
         }
       }
     },
@@ -2508,118 +2086,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RNUccnXEYsQ=",
-        "Meta": "[General]\ngameName=vampire\nmodID=152\nfileID=426",
-        "Name": "TFN 1.6 texture bug fix 1.1-152-1-1-1598320472.zip",
-        "Size": 6586410,
+        "Hash": "RIPaWjXaF1Y=",
+        "Meta": "[General]\ngameName=vampire\nmodID=16\nfileID=22",
+        "Name": "Venus Retexture-16-1-0.zip",
+        "Size": 40134000,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vampire Nonsense",
-          "Description": "Texture pack replacing a great many carpets and hall runners.",
-          "FileID": 426,
+          "Author": "Roberto 1993",
+          "Description": "New venus",
+          "FileID": 22,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/152/152-1598057576-1996506718.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/16-1-1421984580.jpg",
           "IsNSFW": false,
-          "ModID": 152,
-          "Name": "Carpet Texture Pack",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JxowohMj38k=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/massive-attack-angel-vtmb-main-menu-theme-replacer\nprompt=Click the Red Download Now button to get the lattest version.",
-        "Name": "Massive_Attack_-_Angel_VTMB_Main_Menu_Theme_Replacer.rar",
-        "Size": 15281592,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Red Download Now button to get the lattest version.",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/massive-attack-angel-vtmb-main-menu-theme-replacer"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yZL+29OhGjI=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane\nprompt=Click the Download Now Button to get the latest version",
-        "Name": "Insane_Jane_by_sacerdos.rar",
-        "Size": 259212,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Click the Download Now Button to get the latest version",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rVVbvRHEPwU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=90\nfileID=210",
-        "Name": "Throwing a bone for the canines-90-1-0-1555174903.rar",
-        "Size": 1040686,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kirotut",
-          "Description": "Slightly enhanced Pitbull \u0026amp; Rottweiler textures.",
-          "FileID": 210,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/90/90-1555174369-392518255.jpeg",
-          "IsNSFW": false,
-          "ModID": 90,
-          "Name": "Throwing a bone for the Canines",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xsEMlCuUX5I=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\chinatown\\ricky\\line121_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_chinatown_ricky_line121_col_e.mp3",
-        "Size": 6477,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\chinatown\\ricky\\line121_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "xsEMlCuUX5I="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p/qgj6zEwn8=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line821_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line821_col_e.mp3",
-        "Size": 10501,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line821_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "p/qgj6zEwn8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "a41Kh64qVNE=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\heather\\line973_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_heather_line973_col_e.mp3",
-        "Size": 3762,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\heather\\line973_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "a41Kh64qVNE="
+          "ModID": 16,
+          "Name": "Venus Retextured",
+          "Version": ""
         }
       }
     },
@@ -2640,21 +2121,175 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "c2KG8kO2EYM=",
-        "Meta": "[General]\ngameName=vampire\nmodID=45\nfileID=115",
-        "Name": "malk_noir-45-2-0.zip",
-        "Size": 2112663,
+        "Hash": "EMiC05S9CEo=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-skin\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "VVskin01.rar",
+        "Size": 1395386,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-skin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bjoagkCv8UU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=81\nfileID=184",
+        "Name": "Cybergoth Girl-81-2-1553964828.zip",
+        "Size": 34897281,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fliplock",
-          "Description": "Noir style reskin of a the Malkavian female\u0027s second armor set for Vampire the Masquerade: Bloodlines.",
-          "FileID": 115,
+          "Author": "GhanimaAtreides",
+          "Description": "Retextures the \u0022goth\u0022 dancers found in clubs like the Asylum and Confession.",
+          "FileID": 184,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/45-2-1512974862.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/81/81-1552679181-688155148.png",
           "IsNSFW": false,
-          "ModID": 45,
-          "Name": "Malkavian Noir",
-          "Version": "2.0"
+          "ModID": 81,
+          "Name": "Those Goth Kids - Dancers Pack",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "svVZci03M90=",
+        "Meta": "[General]\ngameName=vampire\nmodID=317\nfileID=1013",
+        "Name": "Libertarian Ventrue-317-1-0-1719329227.zip",
+        "Size": 876042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "USBurning",
+          "Description": "A variation of the Ventrue starter armor. Character is wearing blue jeans, with a yellow Gadsden shirt. Neck and sleeve tattoos. 5 O\u0027clock shadow with a mustache.",
+          "FileID": 1013,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/317/317-1719328794-1808625083.png",
+          "IsNSFW": false,
+          "ModID": 317,
+          "Name": "Libertarian Ventrue",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rt4MxxqD9uk=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/mods/vampire-the-masquerade-bloodlines/addons/female-malkavian-reskin\nprompt=Click the Download Now Button to get the latest version",
+        "Name": "Female_Malkavian_Armor_0_Reskin.zip",
+        "Size": 221462,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Download Now Button to get the latest version",
+          "Url": "https://www.moddb.com/mods/vampire-the-masquerade-bloodlines/addons/female-malkavian-reskin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4SHsTMF9DAc=",
+        "Meta": "[General]\ngameName=vampire\nmodID=369\nfileID=1334",
+        "Name": "Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-1-1762064472.zip",
+        "Size": 4625,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Svarttjern",
+          "Description": "Adds a chance to play Malkavian Whispers on all maps. Includes Unofficial Patch changes and Optionally HD Overhaul and CQM Combability",
+          "FileID": 1334,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/369/369-1762059542-1106040240.png",
+          "IsNSFW": false,
+          "ModID": 369,
+          "Name": "Malkavian Whispers UPgraded",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fqe7rnsACig=",
+        "Meta": "[General]\ngameName=vampire\nmodID=334\nfileID=1137",
+        "Name": "Remixed Menu Music For Vampire The Masquerade - Bl-334-v-1-1735086042.zip",
+        "Size": 7208158,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HowtoHuman101",
+          "Description": "This mod changes the main title menu music to a remixed version, combining the original menu music with Massive Attack\u0027s Angel.",
+          "FileID": 1137,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/334/334-1735083914-625612106.jpeg",
+          "IsNSFW": false,
+          "ModID": 334,
+          "Name": "Remixed Menu Music For Vampire The Masquerade - Bloodlines",
+          "Version": "v.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jcb1D2q1WZw=",
+        "Meta": "[General]\ngameName=vampire\nmodID=88\nfileID=207",
+        "Name": "Stained glass standing lamp-88-1-0-1555020533.zip",
+        "Size": 989341,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vampire Nonsense",
+          "Description": "Texture pack for some furniture. Base pack has some furniture with a scuffed look, all of which can be replaced with an optional file.",
+          "FileID": 207,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/88/88-1594424990-896672026.png",
+          "IsNSFW": false,
+          "ModID": 88,
+          "Name": "Furniture Texture Pack",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JgJKW2H0nkc=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "r.rar",
+        "Size": 319449,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yZL+29OhGjI=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane\nprompt=Click the Download Now Button to get the latest version",
+        "Name": "Insane_Jane_by_sacerdos.rar",
+        "Size": 259212,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Download Now Button to get the latest version",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JxowohMj38k=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/massive-attack-angel-vtmb-main-menu-theme-replacer\nprompt=Click the Red Download Now button to get the lattest version.",
+        "Name": "Massive_Attack_-_Angel_VTMB_Main_Menu_Theme_Replacer.rar",
+        "Size": 15281592,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the Red Download Now button to get the lattest version.",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/massive-attack-angel-vtmb-main-menu-theme-replacer"
         }
       }
     },
@@ -2682,32 +2317,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2ZYT+kCyOc8=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line641_col_f.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line641_col_f.mp3",
-        "Size": 7993,
+        "Hash": "Tk3i9fXSUJY=",
+        "Meta": "[General]\ngameName=vampire\nmodID=298\nfileID=1146",
+        "Name": "VNCS_No_Flashlight-298-1-1-1736082381.zip",
+        "Size": 5446,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line641_col_f.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "2ZYT+kCyOc8="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nikanuur",
+          "Description": "An attempt at a visual novel cel-shaded kind of portrayal, such as games like XIII, Wolf Among Us, etc.",
+          "FileID": 1146,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/298/298-1744119632-1102067970.png",
+          "IsNSFW": false,
+          "ModID": 298,
+          "Name": "Visual Novel Cel-Shaded VtMB",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yEfgGI1sOIM=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line361_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line361_col_e.mp3",
-        "Size": 30092,
+        "Hash": "/zEkZ2XNzPI=",
+        "Meta": "[General]\ngameName=vampire\nmodID=34\nfileID=78",
+        "Name": "HDGrounds Hotfix-34-v1-211.rar",
+        "Size": 781748,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line361_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "yEfgGI1sOIM="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Leg of ham",
+          "Description": "Just some Higher definition textures worked into the game",
+          "FileID": 78,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/34-4-1460046874.jpg",
+          "IsNSFW": false,
+          "ModID": 34,
+          "Name": "HD GROUNDS WIP",
+          "Version": "v1"
         }
       }
     },
@@ -2735,116 +2380,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ha82TaebgZQ=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\dangerous_places.mp3",
-        "Name": "Vampire_sound_music_dangerous_places.mp3",
-        "Size": 4182934,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\dangerous_places.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Ha82TaebgZQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uhv25BA+I4E=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\stan_gimble\\line270_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_stan_gimble_line270_col_e.mp3",
-        "Size": 19434,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\stan_gimble\\line270_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "uhv25BA+I4E="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PAIV3f5uJZs=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\ash_lookalike\\line240_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_ash_lookalike_line240_col_e.mp3",
-        "Size": 6896,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\ash_lookalike\\line240_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "PAIV3f5uJZs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Of/hiJufZzc=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\nines\\line920_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_nines_line920_col_e.mp3",
-        "Size": 19225,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\nines\\line920_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Of/hiJufZzc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "95qOXWsIE8k=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\disturbed_and_twisted.mp3",
-        "Name": "Vampire_sound_music_disturbed_and_twisted.mp3",
-        "Size": 4334653,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\disturbed_and_twisted.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "95qOXWsIE8k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b5KQoHuFreI=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\python\\theatre\\theatre.py",
-        "Name": "Vampire_python_theatre_theatre.py",
-        "Size": 11822,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\python\\theatre\\theatre.py",
-          "GameVersion": "0.0.0.0",
-          "Hash": "b5KQoHuFreI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "m3sioPeRwaA=",
-        "Meta": "[General]\ngameName=vampire\nmodID=360\nfileID=1260",
-        "Name": "True Soak-360-1-1754973778.zip",
-        "Size": 30546,
+        "Hash": "6GObRUXayOA=",
+        "Meta": "[General]\ngameName=vampire\nmodID=237\nfileID=688",
+        "Name": "Lily UV map fix-237-1-1671754711.7z",
+        "Size": 232980,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JadedWastrel",
-          "Description": "This mod brings Bloodlines Stamina soak more in line with the table top game. Stamina will now aid in Lethal Soak for Vampires much like it does in table top. Soak difficulty has been unchanged and the mod is designed to work with Wesp\u0027s Unofficial Bloodlines Patch.\n\n\n\nNow also featuring a version for CQM while using Camarilla edition lite!",
-          "FileID": 1260,
+          "Author": "lala125",
+          "Description": "fixes the UV map of Lily\u0027s mesh",
+          "FileID": 688,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/360/360-1754973143-698631193.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/237/237-1671754658-330397973.jpeg",
           "IsNSFW": false,
-          "ModID": 360,
-          "Name": "Truly Soaking- A Lethal Soak Mod",
+          "ModID": 237,
+          "Name": "Lily UV map fix",
           "Version": "1"
         }
       }
@@ -2873,53 +2422,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iOkcQ3hFdpQ=",
-        "Meta": "[General]\ngameName=vampire\nmodID=361\nfileID=1265",
-        "Name": "Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z",
-        "Size": 901,
+        "Hash": "xini+3PD24c=",
+        "Meta": "[General]\ngameName=vampire\nmodID=361\nfileID=1267",
+        "Name": "Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z",
+        "Size": 915,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Faedrill",
           "Description": "A Vanilla\u002B reshade for better colour, contrast and sharpness with 3 Versions.",
-          "FileID": 1265,
+          "FileID": 1267,
           "GameName": "VtMB",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/361/361-1756892462-979629322.png",
           "IsNSFW": false,
           "ModID": 361,
           "Name": "Murmurs of Madness VtMB Reshade",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tOOabvCvTL4=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\mission_impossible_combat.mp3",
-        "Name": "Vampire_sound_music_mission_impossible_combat.mp3",
-        "Size": 2718823,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\mission_impossible_combat.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "tOOabvCvTL4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Fw1c8NAPq7Y=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\chinatown\\chinatown_theme.mp3",
-        "Name": "Vampire_sound_music_chinatown_chinatown_theme.mp3",
-        "Size": 5904090,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\chinatown\\chinatown_theme.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Fw1c8NAPq7Y="
         }
       }
     },
@@ -2947,357 +2464,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+P5gl305rOE=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\courier\\line120_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_courier_line120_col_e.mp3",
-        "Size": 8776,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\courier\\line120_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "+P5gl305rOE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6GObRUXayOA=",
-        "Meta": "[General]\ngameName=vampire\nmodID=237\nfileID=688",
-        "Name": "Lily UV map fix-237-1-1671754711.7z",
-        "Size": 232980,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lala125",
-          "Description": "fixes the UV map of Lily\u0027s mesh",
-          "FileID": 688,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/237/237-1671754658-330397973.jpeg",
-          "IsNSFW": false,
-          "ModID": 237,
-          "Name": "Lily UV map fix",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WwijGg4cmCI=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\tourette\\line901_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_tourette_line901_col_e.mp3",
-        "Size": 15047,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\tourette\\line901_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "WwijGg4cmCI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wp4i6W62Ki0=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\pisha\\line241_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_pisha_line241_col_e.mp3",
-        "Size": 4545,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\pisha\\line241_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "wp4i6W62Ki0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lmMr8ltxZVg=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\dhatter\\line379_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_dhatter_line379_col_e.mp3",
-        "Size": 4545,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\dhatter\\line379_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "lmMr8ltxZVg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Tk3i9fXSUJY=",
-        "Meta": "[General]\ngameName=vampire\nmodID=298\nfileID=1146",
-        "Name": "VNCS_No_Flashlight-298-1-1-1736082381.zip",
-        "Size": 5446,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nikanuur",
-          "Description": "An attempt at a visual novel cel-shaded kind of portrayal, such as games like XIII, Wolf Among Us, etc.",
-          "FileID": 1146,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/298/298-1744119632-1102067970.png",
-          "IsNSFW": false,
-          "ModID": 298,
-          "Name": "Visual Novel Cel-Shaded VtMB",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bts9kmU8n5w=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\moldy_old_world.mp3",
-        "Name": "Vampire_sound_music_moldy_old_world.mp3",
-        "Size": 2540772,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\moldy_old_world.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "bts9kmU8n5w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o4QTr9aMu3c=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\downtown\\downtown_theme.mp3",
-        "Name": "Vampire_sound_music_downtown_downtown_theme.mp3",
-        "Size": 4146154,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\downtown\\downtown_theme.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "o4QTr9aMu3c="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+en525kHrXI=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\chinatown\\lufang\\line550_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_chinatown_lufang_line550_col_e.mp3",
-        "Size": 10658,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\chinatown\\lufang\\line550_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "+en525kHrXI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GoANIZzH+4s=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\mingxiao\\line870_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_mingxiao_line870_col_e.mp3",
-        "Size": 2508,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\mingxiao\\line870_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "GoANIZzH+4s="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "l/I5Oo/SdMw=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\nines\\line930_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_nines_line930_col_e.mp3",
-        "Size": 10501,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\nines\\line930_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "l/I5Oo/SdMw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oxg7w+vPDsk=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line371_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line371_col_e.mp3",
-        "Size": 44356,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line371_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "oxg7w+vPDsk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4SHsTMF9DAc=",
-        "Meta": "[General]\ngameName=vampire\nmodID=369\nfileID=1334",
-        "Name": "Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-1-1762064472.zip",
-        "Size": 4625,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Svarttjern",
-          "Description": "Adds a chance to play Malkavian Whispers on all maps. Includes Unofficial Patch changes and Optionally HD Overhaul and CQM Combability",
-          "FileID": 1334,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/369/369-1762059542-1106040240.png",
-          "IsNSFW": false,
-          "ModID": 369,
-          "Name": "Malkavian Whispers UPgraded",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OoFgNxDQp3M=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\05. chiasm - isolated.mp3",
-        "Name": "Vampire_sound_music_licenced_05. chiasm - isolated.mp3",
-        "Size": 5087585,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\05. chiasm - isolated.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "OoFgNxDQp3M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "IwE6cE3D23Q=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\main characters\\gary\\line820_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_main characters_gary_line820_col_e.mp3",
-        "Size": 8464,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\main characters\\gary\\line820_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "IwE6cE3D23Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rDQ9wDQhpVQ=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\romero\\line691_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_romero_line691_col_e.mp3",
-        "Size": 8464,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\romero\\line691_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "rDQ9wDQhpVQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Plu3CMWwJUg=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\aerial - pound.mp3",
-        "Name": "Vampire_sound_music_licenced_aerial - pound.mp3",
-        "Size": 3989394,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\aerial - pound.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Plu3CMWwJUg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2VByF38NY9I=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line781_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line781_col_e.mp3",
-        "Size": 6269,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line781_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "2VByF38NY9I="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7+Krpumbtb4=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\asp hole.mp3",
-        "Name": "Vampire_sound_music_licenced_asp hole.mp3",
-        "Size": 6745861,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\asp hole.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "7+Krpumbtb4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rAv4Npifekg=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\mission_impossible.mp3",
-        "Name": "Vampire_sound_music_mission_impossible.mp3",
-        "Size": 4225148,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\mission_impossible.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "rAv4Npifekg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JVi3BAbPHd0=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line341_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line341_col_e.mp3",
-        "Size": 18495,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line341_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "JVi3BAbPHd0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "C73+PrB5nwM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=165629\nfileID=692199",
         "Name": "Sub-Separator-165629-0-2-1-1764345230.7z",
@@ -3313,150 +2479,6 @@
           "ModID": 165629,
           "Name": "Sub-Separator for Mod Organizer 2",
           "Version": "0.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qzsm0dHAnvA=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\daniel ash - come alive.mp3",
-        "Name": "Vampire_sound_music_licenced_daniel ash - come alive.mp3",
-        "Size": 4264630,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\daniel ash - come alive.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "qzsm0dHAnvA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jIqS1JcFZO0=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\prince1\\line1020_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_prince1_line1020_col_e.mp3",
-        "Size": 18181,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\prince1\\line1020_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "jIqS1JcFZO0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Vor0cRcOf04=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\dhatter\\line400_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_dhatter_line400_col_e.mp3",
-        "Size": 18181,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\dhatter\\line400_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Vor0cRcOf04="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Asg2GkUNnwg=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\santa monica\\knox\\line781_col_f.mp3",
-        "Name": "Vampire_sound_character_dlg_santa monica_knox_line781_col_f.mp3",
-        "Size": 8307,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\santa monica\\knox\\line781_col_f.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Asg2GkUNnwg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gtIMRSj2Wy4=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\darling violetta - a smaller god.mp3",
-        "Name": "Vampire_sound_music_licenced_darling violetta - a smaller god.mp3",
-        "Size": 4208640,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\darling violetta - a smaller god.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "gtIMRSj2Wy4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "q7UjEbfDBUI=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\chinatown\\ricky\\line123_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_chinatown_ricky_line123_col_e.mp3",
-        "Size": 26539,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\chinatown\\ricky\\line123_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "q7UjEbfDBUI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ug8D+KXxiSw=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line381_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line381_col_e.mp3",
-        "Size": 57992,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line381_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "Ug8D+KXxiSw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3FCz2FCY73U=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\genitorturers - lecher bitch.mp3",
-        "Name": "Vampire_sound_music_licenced_genitorturers - lecher bitch.mp3",
-        "Size": 3037088,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\genitorturers - lecher bitch.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "3FCz2FCY73U="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/77mf1vheX4=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\hollywood\\asphole\\asp_hole.mp3",
-        "Name": "Vampire_sound_music_hollywood_asphole_asp_hole.mp3",
-        "Size": 1344784,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\hollywood\\asphole\\asp_hole.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "/77mf1vheX4="
         }
       }
     },
@@ -3484,64 +2506,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4GOzEtvHceI=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\glaze.mp3",
-        "Name": "Vampire_sound_music_licenced_glaze.mp3",
-        "Size": 8189701,
+        "Hash": "JZ4X/KM1EWU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=266\nfileID=819",
+        "Name": "VTMBNo-IntroFix-266-0-1-1688666578.rar",
+        "Size": 1649,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\glaze.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "4GOzEtvHceI="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gametism",
+          "Description": "Speeds up game launch significantly by automatically bypassing startup or introduction videos.",
+          "FileID": 819,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/266/266-1688666491-1765367279.jpeg",
+          "IsNSFW": false,
+          "ModID": 266,
+          "Name": "No-Intro (Skip Startup - Splash Videos)",
+          "Version": "0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XK0ZII/3VAg=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\python\\griffith\\griffith.py",
-        "Name": "Vampire_python_griffith_griffith.py",
-        "Size": 1551,
+        "Hash": "iOkcQ3hFdpQ=",
+        "Meta": "[General]\ngameName=vampire\nmodID=361\nfileID=1265",
+        "Name": "Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z",
+        "Size": 901,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\python\\griffith\\griffith.py",
-          "GameVersion": "0.0.0.0",
-          "Hash": "XK0ZII/3VAg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tjQ5MfWfm1U=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line351_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line351_col_e.mp3",
-        "Size": 39914,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line351_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "tjQ5MfWfm1U="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3yI5h7fa3PM=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\music\\licenced\\lacuna coil - swamped.mp3",
-        "Name": "Vampire_sound_music_licenced_lacuna coil - swamped.mp3",
-        "Size": 2912321,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\music\\licenced\\lacuna coil - swamped.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "3yI5h7fa3PM="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Faedrill",
+          "Description": "A Vanilla\u002B reshade for better colour, contrast and sharpness with 3 Versions.",
+          "FileID": 1265,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/361/361-1756892462-979629322.png",
+          "IsNSFW": false,
+          "ModID": 361,
+          "Name": "Murmurs of Madness VtMB Reshade",
+          "Version": "1.0"
         }
       }
     }
