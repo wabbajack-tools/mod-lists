@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (792)
+### Valid (794)
 *  [0 MAIN File - MWGS 1.2.0 BETA-64395-1-2-0-1666226119.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=253957)
 *  [01 - Vanilla Weapons MWGS Patch - KSSM Version-64395-1-1-0-1665005128.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=252573)
 *  [02 - Far Harbor DLCCoast MWGS Patch - KSSM Version-64395-1-0-1663398838.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=250872)
@@ -206,6 +206,7 @@
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
+*  Data_DLCworkshop03 - Voices_en.ba2
 *  Data_DLCworkshop03.cdx
 *  Data_DLCworkshop03.esm
 *  Data_Fallout4 - Animations.ba2
@@ -353,6 +354,7 @@
 *  [FO4Edit 4.1.5 EXPERIMENTAL-2737-4-1-5-1699085923.7z](https://www.nexusmods.com/fallout4/mods/2737/?tab=files&file_id=293295)
 *  [Follower AI Approach Reaction Fix - F4SE-92024-1-0-1741367233.zip](https://www.nexusmods.com/fallout4/mods/92024/?tab=files&file_id=349791)
 *  [FOMOD Installer - Immersive Burning Molotovs and Flamers (Flamers Optional)-34084-1-2.7z](https://www.nexusmods.com/fallout4/mods/34084/?tab=files&file_id=139274)
+*  [Forgotten Era V3-97799-3-0-1764448981.zip](https://www.nexusmods.com/fallout4/mods/97799/?tab=files&file_id=375861)
 *  [Fort Hagen Prydwen Flyover Fix-76693-1-00-1702503643.zip](https://www.nexusmods.com/fallout4/mods/76693/?tab=files&file_id=296657)
 *  [Galaxy Milky Way 4k Skystars 4k-65720-1-01-1667716578.rar](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=255930)
 *  [Garden of Eden Papyrus Script Extender-74160-19-7-1757019270.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=366646)
