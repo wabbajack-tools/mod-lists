@@ -1343,7 +1343,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "h1gcz2sdU7E=",
         "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/sksevr_2_00_12.7z",
@@ -4357,7 +4357,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "B0H61OxirmU=",
         "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_19.7z",
@@ -27103,8 +27103,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 2,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/librum_vr_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/librum_vr_large.webp"
 }
