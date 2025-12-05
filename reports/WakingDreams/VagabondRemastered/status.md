@@ -1,11 +1,10 @@
 ## Validation Report - Vagabond Remastered (WakingDreams/VagabondRemastered)
 
 
-### Invalid (1)
-*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4327)
+### Valid (4328)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -3413,6 +3412,7 @@
 *  [Skoll - Werebeast Audio-113050-0-1-1709519308.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113050/?tab=files&file_id=476803)
 *  [SKSE Menu Framework-120352-2-1-1723770485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=531898)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
+*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 *  [Skuldafn Paper Map for FWMF by Limon-123990-1-1-2-1735723323.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123990/?tab=files&file_id=578288)
 *  [Skullbreaker - Blunt Weapon SFX Overhaul-79219-1-1-1702224895.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79219/?tab=files&file_id=450505)
 *  [Sky Reflection Fix-110604-1-0-1-1706805413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110604/?tab=files&file_id=466782)
