@@ -748,7 +748,7 @@
 *  [PCNV YUP patch - Open Camp McCarran-91067-PCNV-1741489399.7z](https://www.nexusmods.com/newvegas/mods/91067/?tab=files&file_id=1000147914)
 *  [Perfect Skies - Weathers Revised Patch-94521-1-0-0-1762739446.7z](https://www.nexusmods.com/newvegas/mods/94521/?tab=files&file_id=1000161134)
 *  [Perfect Skies-94521-1-0-0-1762739423.zip](https://www.nexusmods.com/newvegas/mods/94521/?tab=files&file_id=1000161132)
-*  [Performance LOD.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000162503)
+*  [Performance LOD-88167-1-5-1764992525.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000162503)
 *  [Performance Mode-92111-1-0-1746340167.7z](https://www.nexusmods.com/newvegas/mods/92111/?tab=files&file_id=1000151264)
 *  [Performance Of The Gods-45475-2-2-1747564340.7z](https://www.nexusmods.com/newvegas/mods/45475/?tab=files&file_id=1000151996)
 *  [Performance Of The Titans-89069-3-0-1763564891.zip](https://www.nexusmods.com/newvegas/mods/89069/?tab=files&file_id=1000161675)
