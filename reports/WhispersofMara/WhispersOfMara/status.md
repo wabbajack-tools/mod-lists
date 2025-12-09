@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2319)
+### Valid (2312)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [.esp replacer-70950-1-1657418363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70950/?tab=files&file_id=297684)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-4-1757833185.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=665566)
@@ -526,15 +526,12 @@
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse054-ba_orcish.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
-*  Data_ccvsvsse003-necroarts.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -543,14 +540,10 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
-*  Data_Skyrim - Textures2.bsa
 *  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Textures6.bsa
 *  Data_Skyrim - Textures7.bsa
-*  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
