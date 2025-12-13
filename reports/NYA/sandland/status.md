@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1543)
+### Valid (1549)
 *  [.44 ammo-82950-1-0-2-1715953156.rar](https://www.nexusmods.com/fallout4/mods/82950/?tab=files&file_id=317075)
 *  [.45 Auto Pistol (Colt M1911) - ECO Redux - English-69085-1-1-1-1682578547.7z](https://www.nexusmods.com/fallout4/mods/69085/?tab=files&file_id=275457)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
@@ -359,8 +359,8 @@
 *  [Dartmouth Skyscraper Settlement-77192-1-01-1712605083.rar](https://www.nexusmods.com/fallout4/mods/77192/?tab=files&file_id=309525)
 *  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
 *  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
@@ -377,22 +377,22 @@
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccbgsfo4046-tescan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccbgsfo4096-as_enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccbgsfo4110-ws_enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccBGSFO4115-X02.esl
+*  Data_ccbgsfo4115-x02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccbgsfo4116-heavyflamer.esl
 *  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
@@ -401,13 +401,13 @@
 *  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccfsvfo4007-halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccotmfo4001-remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccSBJFO4003-Grenade.esl
+*  Data_ccsbjfo4003-grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -518,6 +518,7 @@
 *  [DynStoreMats_1.3_LF-55407-1-3-1727744684.7z](https://www.nexusmods.com/fallout4/mods/55407/?tab=files&file_id=335688)
 *  [ECO - Extensions-67679-4-10-0-1716660191.7z](https://www.nexusmods.com/fallout4/mods/67679/?tab=files&file_id=318937)
 *  [ECO - ExtraIcons - Patch-84693-1-0-1718557964.rar](https://www.nexusmods.com/fallout4/mods/84693/?tab=files&file_id=323037)
+*  [ECO-67679-4-10-12-1757243491.7z](https://www.nexusmods.com/fallout4/mods/67679/?tab=files&file_id=366886)
 *  [ECO-67679-4-10-4-1721657112.7z](https://www.nexusmods.com/fallout4/mods/67679/?tab=files&file_id=327619)
 *  [EdenMeadowsSettlement-36675-3-0-1-1697303842.7z](https://www.nexusmods.com/fallout4/mods/36675/?tab=files&file_id=291734)
 *  [Editor's Choice v2-21331-2-0-1560296915.zip](https://www.nexusmods.com/fallout4/mods/21331/?tab=files&file_id=159696)
@@ -719,6 +720,7 @@
 *  [HiPoly Faces REDUX - Asian Face Enhanced Patch-58950---1648367073.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=233112)
 *  [HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)-58950-1-6-1723973155.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=330670)
 *  [Hit Those Explosives-82592-1-5-0-1727545907.7z](https://www.nexusmods.com/fallout4/mods/82592/?tab=files&file_id=335471)
+*  [Hit Those Objects-85755-1-2-0-1721438261.zip](https://www.nexusmods.com/fallout4/mods/85755/?tab=files&file_id=327300)
 *  [Hit Those Objects-85755-2-1-0-1737920179.7z](https://www.nexusmods.com/fallout4/mods/85755/?tab=files&file_id=346362)
 *  [HK G11 K2 - Kraut Space Magic - ECO Redux - Eng-69085-1-1-1-1683974604.7z](https://www.nexusmods.com/fallout4/mods/69085/?tab=files&file_id=277098)
 *  [HK G11 K2-36894-1-2-1547496447.zip](https://www.nexusmods.com/fallout4/mods/36894/?tab=files&file_id=150083)
@@ -877,6 +879,7 @@
 *  [M2 - LvlListPatch-55488-lvllist-1636026528.rar](https://www.nexusmods.com/fallout4/mods/55488/?tab=files&file_id=220616)
 *  [M2 Flamethrower 2.2 - No Leveled List-40268-2-2-B-1608903293.zip](https://www.nexusmods.com/fallout4/mods/40268/?tab=files&file_id=197612)
 *  [M2 Flamethrower 2.2.1-40268-2-2-1-1654434062.zip](https://www.nexusmods.com/fallout4/mods/40268/?tab=files&file_id=239678)
+*  [M203 - 2K-54964-1-0a-1634117600.rar](https://www.nexusmods.com/fallout4/mods/54964/?tab=files&file_id=219141)
 *  [M32 MGL - Burning Crit Effect for Incendiary rounds-63739-1-0a-1661767289.zip](https://www.nexusmods.com/fallout4/mods/63739/?tab=files&file_id=248658)
 *  [M32 MGL-63645-1-1-1661704424.zip](https://www.nexusmods.com/fallout4/mods/63645/?tab=files&file_id=248588)
 *  [M3D - OTs-02 Kiparis - ECO Redux - English-69085-1-1-1-1680076774.7z](https://www.nexusmods.com/fallout4/mods/69085/?tab=files&file_id=272253)
@@ -1341,6 +1344,7 @@
 *  [tim 1.10.163.0-27347-1-10-163-0-1575573838.zip](https://www.nexusmods.com/fallout4/mods/27347/?tab=files&file_id=172071)
 *  [Tinkerer's Raygun 1.1-58956-1-1-1648011766.zip](https://www.nexusmods.com/fallout4/mods/58956/?tab=files&file_id=232703)
 *  [Titan-78912-1-0-1708539500.rar](https://www.nexusmods.com/fallout4/mods/78912/?tab=files&file_id=304362)
+*  [TMR Pre-Generated LOD-67185-1-0-1728283743.7z](https://www.nexusmods.com/fallout4/mods/67185/?tab=files&file_id=336222)
 *  [TNB - Original_v1.0-58509-1-0-0-1646536147.7z](https://www.nexusmods.com/fallout4/mods/58509/?tab=files&file_id=231368)
 *  [Tomacuzi-9 - Americas Worst - ECO Redux - English-69085-1-1-1-1680860533.7z](https://www.nexusmods.com/fallout4/mods/69085/?tab=files&file_id=273233)
 *  [Tomacuzi-9 1.1-32713-1-1.zip](https://www.nexusmods.com/fallout4/mods/32713/?tab=files&file_id=133153)
@@ -1368,6 +1372,7 @@
 *  [University Point Settlement with Immersive Repair-73042-1-01-1-1697833757.zip](https://www.nexusmods.com/fallout4/mods/73042/?tab=files&file_id=292225)
 *  [Unlimited Survival Mode - F4SE-26163-v1-5-1-1715709285.7z](https://www.nexusmods.com/fallout4/mods/26163/?tab=files&file_id=316517)
 *  [Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=270951)
+*  [Unofficial Fallout 4 Patch-4598-2-1-7-1727752409.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=335703)
 *  [Update - BA2-86035-1-1726422431.rar](https://www.nexusmods.com/fallout4/mods/86035/?tab=files&file_id=334135)
 *  [Update ESP-87112-4-1726696091.rar](https://www.nexusmods.com/fallout4/mods/87112/?tab=files&file_id=334427)
 *  [Uradium Rifle STANDALONE-70705-1-0-1682117841.7z](https://www.nexusmods.com/fallout4/mods/70705/?tab=files&file_id=274928)
@@ -1541,6 +1546,7 @@
 *  [You Are Exceptional-76739-v1-18d-1747797012.rar](https://www.nexusmods.com/fallout4/mods/76739/?tab=files&file_id=356870)
 *  [You Are Exceptional-76739-v1-18f-1751792949.rar](https://www.nexusmods.com/fallout4/mods/76739/?tab=files&file_id=360725)
 *  [Your Voice Assistant AI (Snezhana)-95211-1-01-1753022305.7z](https://www.nexusmods.com/fallout4/mods/95211/?tab=files&file_id=361875)
+*  [Zap Gun-53998-1-4-1631891092.7z](https://www.nexusmods.com/fallout4/mods/53998/?tab=files&file_id=217146)
 *  [ZaZOut4 V0.0.3.3.7z](https://www.loverslab.com/files/file/18697-zazout4-repack/)
 *  [ZeX-V6.zip](https://www.loverslab.com/files/file/24592-zex-zaz-extended-skeleton/)
 *  [ZGCHairpack.1.1.0.zip](https://www.loverslab.com/files/file/7877-zgc-hairpack/)
