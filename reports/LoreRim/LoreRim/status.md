@@ -2043,7 +2043,7 @@
 *  [JellyFish SkyParkour animations-153098-0-2-1750428124.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153098/?tab=files&file_id=639769)
 *  [JellyFishFP CROSSBOW-158826-1-0-1757439178.7z](https://www.nexusmods.com/skyrimspecialedition/mods/158826/?tab=files&file_id=664104)
 *  [JellyFishFP DAGGER-140026-1-2b-1765297993.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140026/?tab=files&file_id=696136)
-*  [JellyFishFP Movement Remake-166972-1-0-1765610889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/166972/?tab=files&file_id=697476)
+*  [JellyFishFP Movement Remake-166972-1-1-1765654609.7z](https://www.nexusmods.com/skyrimspecialedition/mods/166972/?tab=files&file_id=697648)
 *  [JellyFishinLoop FP - Potions NG-135235-1-0b-1733159150.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135235/?tab=files&file_id=568322)
 *  [Jesper the Guard-132362-0-4-3-1742692811.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132362/?tab=files&file_id=608643)
 *  [jewels of the nord - high res-27038-1-2.rar](https://www.nexusmods.com/skyrim/mods/27038/?tab=files&file_id=1000009677)

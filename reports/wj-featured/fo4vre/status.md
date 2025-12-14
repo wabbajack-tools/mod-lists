@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (358)
+### Valid (359)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -90,8 +90,9 @@
 *  [Dark Sci Fi Vault Retexture 4k BA2-44251-2-0-1655684489.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=241019)
 *  [Dark Sci Fi Vault Retexture-44251-1-1-1586054813.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=178803)
 *  Data_Fallout4 - Sounds.ba2
+*  Data_Fallout4_VR - Main.ba2
 *  Data_Video_MainMenuLoop.bk2
-*  [Daytripper4-91141-1-2-1-1765025048.7z](https://www.nexusmods.com/fallout4/mods/91141/?tab=files&file_id=376634)
+*  [Daytripper4-91141-1-3-0-1765457885.7z](https://www.nexusmods.com/fallout4/mods/91141/?tab=files&file_id=377084)
 *  [DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z](https://www.nexusmods.com/fallout4/mods/31088/?tab=files&file_id=172178)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
 *  [Detailed Deathclaws - 2k x 2k resolution-2865-2.7z](https://www.nexusmods.com/fallout4/mods/2865/?tab=files&file_id=12753)
