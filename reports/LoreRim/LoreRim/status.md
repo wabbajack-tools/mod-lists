@@ -1728,7 +1728,7 @@
 *  [Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71110/?tab=files&file_id=298623)
 *  [Goetia Animations - Magic Spell Casting-70204-1-4-1656370500.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70204/?tab=files&file_id=294546)
 *  [Goetia Animations - Sneak Magic-75482-1-1-1663713147.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75482/?tab=files&file_id=318148)
-*  [Golden Claw - More Choices-110696-1-0-1706883077.rar](https://www.nexusmods.com/skyrimspecialedition/mods/110696/?tab=files&file_id=466998)
+*  [Golden Claw - More Choices-110696-1-1-1765735585.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110696/?tab=files&file_id=698012)
 *  [Golden Ship Model Replacer - 2K-91221-1-0-0-1683938402.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91221/?tab=files&file_id=387521)
 *  [Goldenhills Plantation Respawn Patch-105134-1-1-1700457863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105134/?tab=files&file_id=444193)
 *  [Gonz - Left Hand Mine Mini-91802-1-01-1684627770.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91802/?tab=files&file_id=390332)

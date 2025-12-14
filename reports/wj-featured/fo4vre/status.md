@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (359)
+### Valid (360)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -308,6 +308,7 @@
 *  [SKKCombatStalkers_023-30308-023-1581941681.zip](https://www.nexusmods.com/fallout4/mods/30308/?tab=files&file_id=176104)
 *  [SKKGlobalStashScrapping_009-41511-009-1698860331.zip](https://www.nexusmods.com/fallout4/mods/41511/?tab=files&file_id=293122)
 *  [splashfo4.zip](https://authored-files.wabbajack.org/splashfo4.zip_891735be-0abd-4f5a-a697-3ab506b115e7)
+*  [SS2 XDI Compatibility Patch-48254-1-4-1-1751746168.zip](https://www.nexusmods.com/fallout4/mods/48254/?tab=files&file_id=360684)
 *  [Start Me Up - Alternate Start and Quick Start-18946-2-0.zip](https://www.nexusmods.com/fallout4/mods/18946/?tab=files&file_id=77748)
 *  steam_api64.dll
 *  [Stumble Upon Interiors-15539-4-2-1575722606.7z](https://www.nexusmods.com/fallout4/mods/15539/?tab=files&file_id=172192)
