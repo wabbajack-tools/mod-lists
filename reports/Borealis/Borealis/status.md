@@ -741,7 +741,7 @@
 *  [Survival Mode - Disable By Default-59049-1-0-0-1637864324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59049/?tab=files&file_id=244329)
 *  [Survival Mode Improved - SKSE (1.6.1170)-78244-1-5-2-1708327867.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78244/?tab=files&file_id=472447)
 *  [Survival Mode Improved Patch-153781-1-0-1751150109.zip](https://www.nexusmods.com/skyrimspecialedition/mods/153781/?tab=files&file_id=642519)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.35.2/Synthesis.zip)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.35.3/Synthesis.zip)
 *  [Terrain Blending-157076-1-0-1-1755456305.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157076/?tab=files&file_id=656647)
 *  [Terrain Shadows-135817-1-0-0-1733602194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135817/?tab=files&file_id=570047)
 *  [Terrain Variation-148123-1-0-1-1758811700.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148123/?tab=files&file_id=669310)
