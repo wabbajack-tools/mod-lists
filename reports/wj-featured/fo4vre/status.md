@@ -219,7 +219,7 @@
 *  [MantellaMod VR 0.8.2-79747-0-8-2-1714448752.rar](https://www.nexusmods.com/fallout4/mods/79747/?tab=files&file_id=313159)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
 *  [MCM_VR-21497-1-0-0-1715710309.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=316521)
-*  [Misery Island 1.0.7-87983-1-0-7-1764846254.rar](https://www.nexusmods.com/fallout4/mods/87983/?tab=files&file_id=376425)
+*  [Misery Island 1.0.8-87983-1-0-8-1765808558.rar](https://www.nexusmods.com/fallout4/mods/87983/?tab=files&file_id=377488)
 *  [MO2 For VR Essentials-45429-1-1591490859.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=183707)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Monkey Trap HD-6202-1.zip](https://www.nexusmods.com/fallout4/mods/6202/?tab=files&file_id=21246)
