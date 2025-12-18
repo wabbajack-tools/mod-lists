@@ -1,10 +1,11 @@
 ## Validation Report - Degenerate Dungeon (wj-featured/degeneratedungeon)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [This lets your heroes use all 7 skills at once (poggers).7z](https://drive.google.com/uc?id=1qdbx_hh0cEi8daUeWiwMxizCUYpbI9eI&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (246)
+### Valid (245)
 *  _windows_errors.txt
 *  [1_stagecoach_GS_A-966-1-1587388552.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3711)
 *  [1_stagecoach_GS_C-966-1-1587388728.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3713)
@@ -218,7 +219,6 @@
 *  [The Profligates - CoM Trinkets 1.1-647-1-1.rar](https://www.nexusmods.com/darkestdungeon/mods/647/?tab=files&file_id=2799)
 *  [The Shrapnel - Class Mod-562-1-3.rar](https://www.nexusmods.com/darkestdungeon/mods/562/?tab=files&file_id=2714)
 *  [The Tusk - Class Mod-482-1-5.rar](https://www.nexusmods.com/darkestdungeon/mods/482/?tab=files&file_id=2717)
-*  [This lets your heroes use all 7 skills at once (poggers).7z](https://drive.google.com/uc?id=1qdbx_hh0cEi8daUeWiwMxizCUYpbI9eI&export=download)
 *  [Tifa Lockhart - Class Mod-490-1-3.rar](https://www.nexusmods.com/darkestdungeon/mods/490/?tab=files&file_id=2716)
 *  [Trinket Slots - 5 and Inventory Slots - 24 (Triple Stacked)-972-1-3-1588194673.7z](https://www.nexusmods.com/darkestdungeon/mods/972/?tab=files&file_id=3729)
 *  [wagon_DS_A-949-1-1583256805.zip](https://www.nexusmods.com/darkestdungeon/mods/949/?tab=files&file_id=3647)
