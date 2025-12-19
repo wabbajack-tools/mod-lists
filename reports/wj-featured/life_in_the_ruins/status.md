@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (797)
+### Valid (798)
 *  [0 MAIN File - MWGS 1.2.0 BETA-64395-1-2-0-1666226119.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=253957)
 *  [01 - Vanilla Weapons MWGS Patch - KSSM Version-64395-1-1-0-1665005128.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=252573)
 *  [02 - Far Harbor DLCCoast MWGS Patch - KSSM Version-64395-1-0-1663398838.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=250872)
@@ -56,7 +56,6 @@
 *  [AmericaRising2MyersPAFix-77368-V1-1704777741.7z](https://www.nexusmods.com/fallout4/mods/77368/?tab=files&file_id=299043)
 *  [AMR 3000 Anti-material Rifle-77496-1-2-1705515134.7z](https://www.nexusmods.com/fallout4/mods/77496/?tab=files&file_id=299949)
 *  [Appealing Moles- EXTRA Moles-3802-2-0.rar](https://www.nexusmods.com/fallout4/mods/3802/?tab=files&file_id=31631)
-*  [AR2 Echoes of the Past Alignment Patch-89887-1-0b-1758462858.zip](https://www.nexusmods.com/fallout4/mods/89887/?tab=files&file_id=368235)
 *  [Ar2 Vertibird Replacer (BA2)-91870-1-1-1740876049.rar](https://www.nexusmods.com/fallout4/mods/91870/?tab=files&file_id=349282)
 *  [Armor - Hellfire Power Armor (Creation Club)-75795-1-0-1-1700683450.zip](https://www.nexusmods.com/fallout4/mods/75795/?tab=files&file_id=294836)
 *  [Armor - X02 (Creation Club)-75795-1-0-0-1699185147.zip](https://www.nexusmods.com/fallout4/mods/75795/?tab=files&file_id=293399)
@@ -77,6 +76,7 @@
 *  [Automatron Caravan Fixes-73229-1-02-1694442607.zip](https://www.nexusmods.com/fallout4/mods/73229/?tab=files&file_id=289416)
 *  [AutoSave-95642-0-2-2-1754801339.7z](https://www.nexusmods.com/fallout4/mods/95642/?tab=files&file_id=363884)
 *  [Backpacks of the Commonwealth 1.7.1-29447-1-7-1-1717493463.7z](https://www.nexusmods.com/fallout4/mods/29447/?tab=files&file_id=320973)
+*  [BackportedBA2Support-1_0-81859-1-0-1714516128.zip](https://www.nexusmods.com/fallout4/mods/81859/?tab=files&file_id=313321)
 *  [Baka MaxPapyrusOps-73774-1-1-0-1691714351.rar](https://www.nexusmods.com/fallout4/mods/73774/?tab=files&file_id=286164)
 *  [BakaFramework-43627-1-10-0-1690831439.rar](https://www.nexusmods.com/fallout4/mods/43627/?tab=files&file_id=285026)
 *  [Balisong 1.0 ESL-49349-1-0-1610269625.zip](https://www.nexusmods.com/fallout4/mods/49349/?tab=files&file_id=198712)
@@ -208,6 +208,7 @@
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
+*  Data_DLCworkshop03 - Textures.ba2
 *  Data_DLCworkshop03 - Voices_en.ba2
 *  Data_DLCworkshop03.cdx
 *  Data_DLCworkshop03.esm
@@ -225,7 +226,6 @@
 *  Data_Fallout4 - Textures1.ba2
 *  Data_Fallout4 - Textures2.ba2
 *  Data_Fallout4 - Textures4.ba2
-*  Data_Fallout4 - Textures5.ba2
 *  Data_Fallout4 - Textures6.ba2
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
@@ -279,6 +279,7 @@
 *  [Dried Blood-93395-1-00-1745876211.zip](https://www.nexusmods.com/fallout4/mods/93395/?tab=files&file_id=354946)
 *  [Drumlin Diner Settlement-84482-1-1-1-1720104258.7z](https://www.nexusmods.com/fallout4/mods/84482/?tab=files&file_id=325460)
 *  [Dynamic Timescale and Chime-53786-1-2-0-1629213785.7z](https://www.nexusmods.com/fallout4/mods/53786/?tab=files&file_id=214930)
+*  [Elder's T-51 Power Armor-96643-1-1-1757916431.rar](https://www.nexusmods.com/fallout4/mods/96643/?tab=files&file_id=367650)
 *  [Elvani's Track Pack for Diamond City Radio v1.0-5467-1-0.zip](https://www.nexusmods.com/fallout4/mods/5467/?tab=files&file_id=18067)
 *  [Empty Vendor List Engine Bug Fix-83252-1-0-1716335717.zip](https://www.nexusmods.com/fallout4/mods/83252/?tab=files&file_id=318202)
 *  [ENB Helper for Fallout 4-56566-1-0-2-1677522163.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=268795)
