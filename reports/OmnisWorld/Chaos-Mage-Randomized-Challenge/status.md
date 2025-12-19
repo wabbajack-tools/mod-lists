@@ -1,12 +1,10 @@
 ## Validation Report - Chaos Mage Randomized Challenge (OmnisWorld/Chaos-Mage-Randomized-Challenge)
 
 
-### Invalid (2)
-*  [AMC-Bodyslide Output.7z](https://authored-files.wabbajack.org/AMC-Bodyslide Output.7z_07ef7074-415c-4697-be5a-0443ef603667)
-*  [ETC-Bodyslide Output.7z](https://authored-files.wabbajack.org/ETC-Bodyslide Output.7z_7d26fbdc-e0b5-449c-a0ef-7b27e7d1fbaa)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2743)
+### Valid (2744)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorDaemon.rar](https://www.patreon.com/file?h=109829703&m=339148708)
 *  [_Fuse00_ArmorFreija_CBBE_1.1.rar](https://www.patreon.com/file?h=93095428&m=248004338)
@@ -1211,6 +1209,7 @@
 *  [HDT-SMP Elmlock Armor Patch-115860-1-0-1712247439.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115860/?tab=files&file_id=487460)
 *  [HDT-SMP ESO Nord Armor Patch-80376-1-0-1670634458.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80376/?tab=files&file_id=339178)
 *  [HDT-SMP Falconer Armor Patch-84275-1-0-1675595736.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84275/?tab=files&file_id=356609)
+*  [HDT-SMP Falconer Armor Weightslide Patch-84275-1-01-1679482512.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84275/?tab=files&file_id=370987)
 *  [HDT-SMP Fitted Ebony Armor Patch for CBBE 3BA.rar](https://drive.google.com/uc?id=1falsNeHbbpRzU9d7C6f1jWV5Nr0zR5OT&export=download)
 *  [HDT-SMP Fitted Ebony Armor Patch for HIMBO.rar](https://drive.google.com/uc?id=1R3yqbARXhuZbkJiDzbz178PbpR0yJxLI&export=download)
 *  [HDT-SMP Fitted Ebony Armor Patch.rar](https://drive.google.com/uc?id=1dAlqHPsWyBvfR2xmivQA-DGnZTGJ3HM7&export=download)
