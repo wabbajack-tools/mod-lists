@@ -1,10 +1,11 @@
 ## Validation Report - Listonomicon (Listonomicon/Listonomicon)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [improvedtruestrike_be4bee2d-ac-fvmq.zip](https://g-6715.modapi.io/v1/games/6715/mods/4436187/files/6461822/download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (834)
+### Valid (833)
 *  [- Standalone Bundle  - Dragonbreath Unleashed-556-11-0-P7-1725651719.zip](https://www.nexusmods.com/baldursgate3/mods/556/?tab=files&file_id=69200)
 *  [01 - MANTIS' ARCANE INSPIRED COLLECTION-14698-1-2-0-0-1744829478.zip](https://www.nexusmods.com/baldursgate3/mods/14698/?tab=files&file_id=89249)
 *  [10 Half-Orc Heads-11045-1-1-1751594422.zip](https://www.nexusmods.com/baldursgate3/mods/11045/?tab=files&file_id=97303)
@@ -440,7 +441,6 @@
 *  [Immersive Dice Roll-6878-2-1-1755066089.zip](https://www.nexusmods.com/baldursgate3/mods/6878/?tab=files&file_id=100508)
 *  [ImmersiveGear-13840-1-3-1733862048.zip](https://www.nexusmods.com/baldursgate3/mods/13840/?tab=files&file_id=81535)
 *  [Improved Unholy Smite-12916-2-2-1765261400.rar](https://www.nexusmods.com/baldursgate3/mods/12916/?tab=files&file_id=109237)
-*  [improvedtruestrike_be4bee2d-ac-fvmq.zip](https://g-6715.modapi.io/v1/games/6715/mods/4436187/files/6461822/download)
 *  [ImpUI_P8_Fork-16649-8-0-3-1747580785.zip](https://www.nexusmods.com/baldursgate3/mods/16649/?tab=files&file_id=93329)
 *  [Increased throw weight and range from enlarge1.50x-8091-1-2-1755980126.zip](https://www.nexusmods.com/baldursgate3/mods/8091/?tab=files&file_id=101318)
 *  [Increasingly Likely Wild Magic Surge-9603-1-0-0-0-1716054017.zip](https://www.nexusmods.com/baldursgate3/mods/9603/?tab=files&file_id=57720)
