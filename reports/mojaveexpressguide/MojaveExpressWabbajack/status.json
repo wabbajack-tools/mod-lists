@@ -1,8 +1,8 @@
 {
   "MachineURL": "mojaveexpressguide/MojaveExpressWabbajack",
   "Name": "Mojave Express Wabbajack (MEW)",
-  "Version": "1.5.1.1",
-  "ModListHash": "Zo93bM29g48=",
+  "Version": "1.5.1.2",
+  "ModListHash": "+3NnomlXASE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7925,13 +7925,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4ShkO23e4ls=",
-        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file",
-        "Name": "Spice of Life Vanilla v1-5 Release Candidate.7z",
-        "Size": 227139333,
+        "Hash": "35rlbV/oADg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81775\nfileID=1000141463",
+        "Name": "PipBoyOn Node Fixes SMIM-81775-1-3-1729189716.7z",
+        "Size": 1084712,
         "State": {
-          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kiwi",
+          "Description": "Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW. As well as any other mods I decide to fix.",
+          "FileID": 1000141463,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81775/81775-1687576252-1592102725.png",
+          "IsNSFW": false,
+          "ModID": 81775,
+          "Name": "PipBoyOn Node Fixes",
+          "Version": "1.2"
         }
       }
     },
@@ -7980,21 +7988,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "35rlbV/oADg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81775\nfileID=1000141463",
-        "Name": "PipBoyOn Node Fixes SMIM-81775-1-3-1729189716.7z",
-        "Size": 1084712,
+        "Hash": "4ShkO23e4ls=",
+        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file",
+        "Name": "Spice of Life Vanilla v1-5 Release Candidate.7z",
+        "Size": 227139333,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kiwi",
-          "Description": "Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW. As well as any other mods I decide to fix.",
-          "FileID": 1000141463,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81775/81775-1687576252-1592102725.png",
-          "IsNSFW": false,
-          "ModID": 81775,
-          "Name": "PipBoyOn Node Fixes",
-          "Version": "1.2"
+          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file"
         }
       }
     }
