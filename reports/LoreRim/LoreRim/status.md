@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4420)
+### Valid (4424)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -496,8 +496,10 @@
 *  [BOS Color Variance Use Those Blankets patch-132480-1-0-3-1741895618.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132480/?tab=files&file_id=605251)
 *  [BOS Color Variance Use Those Blankets patch-132811-1-0-3-1739903774.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132811/?tab=files&file_id=596322)
 *  [BOS Color Variance Use Those Blankets patch-132997-1-0-1731697157.zip](https://www.nexusmods.com/skyrimspecialedition/mods/132997/?tab=files&file_id=562587)
+*  [BOS Color Variance Use Those Blankets patch-138889-1-0-3-1749163418.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=635006)
 *  [BOS Distributed Use Those Blankets patch-131560-1-0-2-1740074638.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131560/?tab=files&file_id=596985)
 *  [BOS Distributed Use Those Blankets patch-138889-1-0-2-1739930936.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=596454)
+*  [BOS Distributed Use Those Blankets patch-138889-1-0-6-1740522817.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=599106)
 *  [BOS Distributed Use Those Blankets patch(LessPoly)-167570-1-0-1766257824.rar](https://www.nexusmods.com/skyrimspecialedition/mods/167570/?tab=files&file_id=700072)
 *  [Bosmer NPCs have antlers - FOMOD Installer-33349-0-10-1735750808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33349/?tab=files&file_id=578387)
 *  [Bosmeri Swallowtail Armour-124248-1-1-1-1722247797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124248/?tab=files&file_id=526218)
@@ -991,7 +993,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -3318,7 +3319,9 @@
 *  [RUSTIC FURNITURE - SE - SMIM - 4K-17228-3-0-1598395557.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17228/?tab=files&file_id=157642)
 *  [Rustic Furniture Complex Material-88589-2-0-1683638152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88589/?tab=files&file_id=386333)
 *  [RUSTIC MAPS - 4K-2K-42614-2-0-1606434499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42614/?tab=files&file_id=171722)
+*  [Rustic Repose - BOS Color Variance-138889-1-0-1736714707.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=582626)
 *  [Rustic Repose - BOS Distributed-138889-1-0-1-1738023520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=588241)
+*  [Rustic Repose - BOS Distributed-138889-1-0-7-1748967830.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=634228)
 *  [Rustic Repose - BOS Distributed(LessPoly)-167570-1-0-1766257774.rar](https://www.nexusmods.com/skyrimspecialedition/mods/167570/?tab=files&file_id=700071)
 *  [Rustic UI Sounds-76410-1-2-1664769367.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76410/?tab=files&file_id=321228)
 *  [RUSTIC WINDOWS - Special Edition - 2K-1937-2-0-1586569415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1937/?tab=files&file_id=133495)
@@ -4149,6 +4152,7 @@
 *  [Upper Class Farmhouse - BOS - Parallax-114672-1-0-1711053078.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114672/?tab=files&file_id=482908)
 *  [Use Telekinesis on Traps - po3's Papyrus Extender Version-59350-0-2-3-1638465335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59350/?tab=files&file_id=246095)
 *  [Use Those Blankets - Bedroll Alternative Version-58840-1-1-1737353232.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58840/?tab=files&file_id=585399)
+*  [Use Those Blankets patch-138889-1-0-1-1739930698.rar](https://www.nexusmods.com/skyrimspecialedition/mods/138889/?tab=files&file_id=596451)
 *  [Use Those Blankets-75481-2-11-1692034218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75481/?tab=files&file_id=417054)
 *  [USSEP Patch-39333-1-0-1625375874.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39333/?tab=files&file_id=212585)
 *  [Utenlands Nordic Tents - BOS Color Variance-121203-1-2-2-1753212411.rar](https://www.nexusmods.com/skyrimspecialedition/mods/121203/?tab=files&file_id=649387)
