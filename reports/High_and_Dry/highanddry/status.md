@@ -454,7 +454,7 @@
 *  [Hidden Valley Overhauled-70859-1-4-1686529965.zip](https://www.nexusmods.com/newvegas/mods/70859/?tab=files&file_id=1000110916)
 *  [High and Dry INI Presets-88167-3-8-1766284375.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000163877)
 *  [High and Dry NVR Main Menu Replacer-92496-1-0-1748729605.7z](https://www.nexusmods.com/newvegas/mods/92496/?tab=files&file_id=1000152794)
-*  [High and Dry Patches-88167-4-2-1766284416.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000163878)
+*  [High and Dry Patches-88167-4-3-1766293938.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000163888)
 *  [High Poly Beards for CKR-91822-1-1-1744992397.zip](https://www.nexusmods.com/newvegas/mods/91822/?tab=files&file_id=1000150422)
 *  [High Priority Core - with NVMIM-88898-2-8-1744867903.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000150334)
 *  [High Priority LOD - Performance of the Titans-88898-2-7-1744698536.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000150218)
