@@ -1,8 +1,8 @@
 {
   "MachineURL": "LostProphecies/LostProphecies",
   "Name": "Lost Prophecies",
-  "Version": "2.8.3",
-  "ModListHash": "psOrvR46CtQ=",
+  "Version": "2.8.4",
+  "ModListHash": "ehJQqQvWUpk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,20 +21,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Yt1XKfN5egA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=51232\nfileID=1000051019",
-        "Name": "AttendMe 1.9-51232-1-9-1741508300.zip",
-        "Size": 11812,
+        "Hash": "lCIToRBUCk8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54954\nfileID=1000055318",
+        "Name": "Floating Healthbars-54954-1-6-1752864698.zip",
+        "Size": 1241679,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "urm",
-          "Description": "Follower HUD and teleportation",
-          "FileID": 1000051019,
+          "Author": "OwnlyMe",
+          "Description": "Can be configured however you like",
+          "FileID": 1000055318,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51232/51232-1652563692-1093372365.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54954/54954-1720627196-1122408717.png",
           "IsNSFW": false,
-          "ModID": 51232,
-          "Name": "Attend Me",
+          "ModID": 54954,
+          "Name": "(OpenMW 0.49) Floating Healthbars",
           "Version": "1.6"
         }
       }
@@ -56,21 +56,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rqrt11U3SbY=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54784\nfileID=1000045374",
-        "Name": "Distant Ebon Tower-54784-1-0-1717367319.zip",
-        "Size": 26752,
+        "Hash": "SwlHyyFbttE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54629\nfileID=1000059280",
+        "Name": "Dialogue ESP for Patch for Purists v5.0.6-54629-0-56e-1765919585.zip",
+        "Size": 602197,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GrumblingVomit",
-          "Description": "Makes the mesh underneath Ebon Tower larger so it renders from farther away in OpenMW.",
-          "FileID": 1000045374,
+          "Author": "taitechnic",
+          "Description": "UPDATE: Tamriel Rebuilt voiced dialogue ESP now properly supports TR release 24.12. Support mod for use by other OpenMW lua Mods only. Currently a WIP. Requires OpenMW 0.49.",
+          "FileID": 1000059280,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54784/54784-1717367170-1481339454.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54629/54629-1715543708-1189011810.png",
           "IsNSFW": false,
-          "ModID": 54784,
-          "Name": "Distant Ebon Tower for OpenMW",
-          "Version": "1.0"
+          "ModID": 54629,
+          "Name": "OpenMW Lua helper utility",
+          "Version": "0.51"
         }
       }
     },
@@ -98,97 +98,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hI/Fsy90bso=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=46599\nfileID=1000014602",
-        "Name": "GH Patches and Replacers-46599-1-02-1558643538.7z",
-        "Size": 3567780,
+        "Hash": "T/PcgHTIciM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57396\nfileID=1000056906",
+        "Name": "It Beats-57396-1-2-1-1758191065.zip",
+        "Size": 2976625,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Stuporstar and Greatness7",
-          "Description": "Now works with OpenMW! MWSE Graphic Herbalism harnesses the power of lua and mesh switchnodes, allowing this mod to be run without an esp or standard scripts. This dramatically optimizes performance compared to older graphic herbalism mods. It also comes with an mod configuration menu to allow you to change settings.",
-          "FileID": 1000014602,
+          "Author": "Sosnoviy Bor",
+          "Description": "Feel the heartbeat of the Red Mountain.",
+          "FileID": 1000056906,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46599/46599-1556987326-522913397.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57396/57396-1756839388-704760564.jpg",
           "IsNSFW": false,
-          "ModID": 46599,
-          "Name": "Graphic Herbalism - MWSE and OpenMW Edition",
-          "Version": "1.04"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bU21RgjPM6o=",
-        "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-patches/-/package_files/203475672/download",
-        "Name": "momw-patches.zip",
-        "Size": 19338373,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://gitlab.com/modding-openmw/momw-patches/-/package_files/203475672/download"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "E1KjV1FIjcc=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=53384\nfileID=1000039784",
-        "Name": "No Witness - No Bounty - 1.0.1-53384-1-0-1-1692378380.zip",
-        "Size": 10721,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ZackHasACat",
-          "Description": "Allows you to slay all your witnesses when a crime is committed, to remove the bounty. Inspired by Skyrim\u0027s system.",
-          "FileID": 1000039784,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53384/53384-1692240117-1154148130.png",
-          "IsNSFW": false,
-          "ModID": 53384,
-          "Name": "No Witness - No Bounty",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "F58S7xAxGlc=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000051585",
-        "Name": "OpenMW Dynamic Actors-54782-1-14-1743293226.zip",
-        "Size": 295564,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
-          "FileID": 1000051585,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
-          "IsNSFW": false,
-          "ModID": 54782,
-          "Name": "OpenMW Dynamic Actors",
-          "Version": "1.09"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Aoe+u9LyveE=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54148\nfileID=1000052157",
-        "Name": "OpenMW Skyrim Style Quest Notifications-54148-1-33a-1745790995.zip",
-        "Size": 798664,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
-          "FileID": 1000052157,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54148/54148-1707850703-1609451237.png",
-          "IsNSFW": false,
-          "ModID": 54148,
-          "Name": "OpenMW Skyrim Style Quest Notifications",
+          "ModID": 57396,
+          "Name": "It Beats (OpenMW)",
           "Version": "1.1"
         }
       }
@@ -196,21 +119,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7GsILs3wT0c=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55264\nfileID=1000054915",
-        "Name": "Potential Character Progression-55264-1-1-0-1751593781.zip",
-        "Size": 36739,
+        "Hash": "EbnsIFKN3Is=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46232\nfileID=1000016287",
+        "Name": "OpenMW Containers Animated-46232-1-2-2-1574060105.zip",
+        "Size": 4535896,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Qlonever",
-          "Description": "An OpenMW lua mod aiming to make leveling up less bothersome while retaining player choice.",
-          "FileID": 1000054915,
+          "Author": "akortunov and CemKey",
+          "Description": "Based on MW Containers Animated by qqqbbb.\n\nThis mod adds open/close animation and sounds to all containers that should have animation.\n\nUses a native animated containers support feature from OpenMW 0.46 or newer.",
+          "FileID": 1000016287,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55264/55264-1727742840-1048504920.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46232/46232-1545226737-1639948751.png",
           "IsNSFW": false,
-          "ModID": 55264,
-          "Name": "Potential Character Progression (OpenMW)",
-          "Version": "1.0.2"
+          "ModID": 46232,
+          "Name": "OpenMW Containers Animated",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Lr/aXDqmtf4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52345\nfileID=1000041309",
+        "Name": "OpenMW Player 1.0.2-52345-1-0-2-1701701809.zip",
+        "Size": 845363,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "A plugin for Mod Organizer 2 that automatically exports your mod list, enabled plugins, and grass mods to OpenMW whenever you run the game through Mod Organizer.",
+          "FileID": 1000041309,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52345/52345-1676311560-1311660267.png",
+          "IsNSFW": false,
+          "ModID": 52345,
+          "Name": "Kezyma\u0027s OpenMW Player for Mod Organizer 2",
+          "Version": "1.0.1"
         }
       }
     },
@@ -238,21 +182,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gD+Snl4GSuA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=53996\nfileID=1000051624",
-        "Name": "Show Me Everything-53996-1-2-2-1743505320.7z",
-        "Size": 433130,
+        "Hash": "Qk9uieaBSf0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51274\nfileID=1000031879",
+        "Name": "Smart Ammo for OpenMW-Lua-51274-1-1-1656337141.zip",
+        "Size": 7350,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Always Hungry",
-          "Description": "A robust user interface Lua mod that adds a configurable Actor info, various healthbars and hit chance widgets. For OpenMW 0.49",
-          "FileID": 1000051624,
+          "Author": "johnnyhostile",
+          "Description": "Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it. An OpenMW-Lua port of Abot\u0027s original.",
+          "FileID": 1000031879,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53996/53996-1705570005-401959655.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51274/51274-1653006791-579846367.gif",
           "IsNSFW": false,
-          "ModID": 53996,
-          "Name": "SME - Useful Widgets - Actor Info - Health Bar - Hit Chance",
-          "Version": "1.2.1"
+          "ModID": 51274,
+          "Name": "Smart Ammo for OpenMW-Lua",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JrsAK/5y5Lo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50445\nfileID=1000052488",
+        "Name": "TR Dra-Vashai418-50445-2-0-1746466892.7z",
+        "Size": 14751,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Denis418",
+          "Description": "Rescue a slave and help him reach Old Ebonheart.",
+          "FileID": 1000052488,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50445/50445-1637248125-209696262.jpeg",
+          "IsNSFW": false,
+          "ModID": 50445,
+          "Name": "Tamriel Rebuilt Introduction Quest - Help a Khajiit reach the City of Good People",
+          "Version": "1.1"
         }
       }
     },
@@ -343,21 +308,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yL99mGlUFnY=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=47272\nfileID=1000055233",
-        "Name": "Ebonheart_Underworks-47272-1-21-1752595307.7z",
-        "Size": 2073358,
+        "Hash": "p13aikktGRs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45368\nfileID=1000014954",
+        "Name": "Diverse Blood-45368-1-41-1561159970.7z",
+        "Size": 1697066,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dandy Daedra",
-          "Description": "Ebonheart now has its own sewage system. With filth, rats, people and quests.",
-          "FileID": 1000055233,
+          "Author": "OffworldDevil",
+          "Description": "8 new blood textures for NPCs and creatures. 1k quality.",
+          "FileID": 1000014954,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47272/47272-1572553789-863879182.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45368/45368-1539479554-1021534936.png",
           "IsNSFW": false,
-          "ModID": 47272,
-          "Name": "Ebonheart Underworks",
-          "Version": "1.17"
+          "ModID": 45368,
+          "Name": "Diverse Blood",
+          "Version": "1.42"
         }
       }
     },
@@ -385,27 +350,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AD2fxt2t5Qs=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000057980",
-        "Name": "main-54985-0-6-5-1761590516.zip",
-        "Size": 41998,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eledin",
-          "Description": "Modernized Dialogue and Decluttering of the UI",
-          "FileID": 1000057980,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54985/54985-1721161448-1473380916.png",
-          "IsNSFW": false,
-          "ModID": 54985,
-          "Name": "Interface Reimagined for OpenMW",
-          "Version": "0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "O7Ch0bW2fyM=",
         "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000047551",
         "Name": "main-54985-0-6-1728121091.zip",
@@ -421,6 +365,27 @@
           "ModID": 54985,
           "Name": "Interface Reimagined for OpenMW",
           "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1xRCqUrbp1g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51820\nfileID=1000033090",
+        "Name": "Journal and Scrolls - Scroll 1-51820-1-0-1663270168.7z",
+        "Size": 1220907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "marblemist",
+          "Description": "A selection of four new scroll textures to choose from, alongside an enhanced journal texture.",
+          "FileID": 1000033090,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51820/51820-1663268981-2061373911.jpeg",
+          "IsNSFW": false,
+          "ModID": 51820,
+          "Name": "Journal and Scrolls",
+          "Version": "1.0"
         }
       }
     },
@@ -595,6 +560,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "QquxR++ZOKw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44922\nfileID=1000052938",
+        "Name": "Cyr_Main-44922-25-05a-1747259314.7z",
+        "Size": 11783781,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ProvinceCyrodiil",
+          "Description": "PRE-ALPHA. Located between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.",
+          "FileID": 1000052938,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44922-10-1493673501.png",
+          "IsNSFW": false,
+          "ModID": 44922,
+          "Name": "Province Cyrodiil",
+          "Version": "22.12"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "mBm2SSFu6Oc=",
         "Meta": "[General]\ngameName=morrowind\nmodID=46747\nfileID=1000014604",
         "Name": "Properly Smoothed Meshes-46747-1-03-1558647998.7z",
@@ -637,42 +623,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HdHojK8FQK8=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=49785\nfileID=1000024774",
-        "Name": "Simply Walking Weapon Sheathing Edition-49785-1-3-1621215349.7z",
-        "Size": 4581422,
+        "Hash": "gD+Snl4GSuA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53996\nfileID=1000051624",
+        "Name": "Show Me Everything-53996-1-2-2-1743505320.7z",
+        "Size": 433130,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dirane Me",
-          "Description": "\u0026gt;Just walking animations\n\n\u0026gt;Optional Run Animations\n\n\u0026gt;Optional Weapon Sheathing Animations\n\n\u0022NEW FIRST PERSON WEAPON SHEATHING DRAW ANIMATIONS\u0022",
-          "FileID": 1000024774,
+          "Author": "Always Hungry",
+          "Description": "A robust user interface Lua mod that adds a configurable Actor info, various healthbars and hit chance widgets. For OpenMW 0.49",
+          "FileID": 1000051624,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49785/49785-1621130041-1652651962.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53996/53996-1705570005-401959655.png",
           "IsNSFW": false,
-          "ModID": 49785,
-          "Name": "Simply Walking (Remastered)",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qmVY+ifRUUk=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=53747\nfileID=1000052452",
-        "Name": "OpenMW Shaders-53747-1-4-1746383294.zip",
-        "Size": 9154688,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EpochWon",
-          "Description": "A few OpenMW post process shaders",
-          "FileID": 1000052452,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53747/53747-1700506964-626482232.png",
-          "IsNSFW": false,
-          "ModID": 53747,
-          "Name": "Some OpenMW Post Process Shaders",
-          "Version": "1.0"
+          "ModID": 53996,
+          "Name": "SME - Useful Widgets - Actor Info - Health Bar - Hit Chance",
+          "Version": "1.2.1"
         }
       }
     },
@@ -784,15 +749,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MyBJRSfNUA4=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=45713\nfileID=1000052515",
-        "Name": "Tribunal Rebalance-45713-1-2-1746541286.zip",
-        "Size": 21573,
+        "Hash": "qGX7ywFk984=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45713\nfileID=1000040126",
+        "Name": "Tribunal Rebalance-45713-1-1-1694379738.zip",
+        "Size": 20710,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mort",
           "Description": "This mod is intended to rebalance the Tribunal expansion in a variety of ways, most importantly by editing the stats of creatures and npcs.\n\nThis mod rebalances Tribunal as if it shipped with Morrowind.",
-          "FileID": 1000052515,
+          "FileID": 1000040126,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45713/45713-1694380022-1527337889.png",
           "IsNSFW": false,
@@ -862,48 +827,6 @@
           "ModID": 56037,
           "Name": "Vurt\u0027s Morrowind Visual Resurgence",
           "Version": "0.96"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Lr/aXDqmtf4=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=52345\nfileID=1000041309",
-        "Name": "OpenMW Player 1.0.2-52345-1-0-2-1701701809.zip",
-        "Size": 845363,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "A plugin for Mod Organizer 2 that automatically exports your mod list, enabled plugins, and grass mods to OpenMW whenever you run the game through Mod Organizer.",
-          "FileID": 1000041309,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52345/52345-1676311560-1311660267.png",
-          "IsNSFW": false,
-          "ModID": 52345,
-          "Name": "Kezyma\u0027s OpenMW Player for Mod Organizer 2",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lCIToRBUCk8=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54954\nfileID=1000055318",
-        "Name": "Floating Healthbars-54954-1-6-1752864698.zip",
-        "Size": 1241679,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OwnlyMe",
-          "Description": "Can be configured however you like",
-          "FileID": 1000055318,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54954/54954-1720627196-1122408717.png",
-          "IsNSFW": false,
-          "ModID": 54954,
-          "Name": "(OpenMW 0.49) Floating Healthbars",
-          "Version": "1.6"
         }
       }
     },
@@ -1044,6 +967,27 @@
           "ModID": 43101,
           "Name": "Dwemer Mesh Improvement",
           "Version": "2017.07.15"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yL99mGlUFnY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47272\nfileID=1000055233",
+        "Name": "Ebonheart_Underworks-47272-1-21-1752595307.7z",
+        "Size": 2073358,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dandy Daedra",
+          "Description": "Ebonheart now has its own sewage system. With filth, rats, people and quests.",
+          "FileID": 1000055233,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47272/47272-1572553789-863879182.png",
+          "IsNSFW": false,
+          "ModID": 47272,
+          "Name": "Ebonheart Underworks",
+          "Version": "1.17"
         }
       }
     },
@@ -1407,27 +1351,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EbnsIFKN3Is=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=46232\nfileID=1000016287",
-        "Name": "OpenMW Containers Animated-46232-1-2-2-1574060105.zip",
-        "Size": 4535896,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "akortunov and CemKey",
-          "Description": "Based on MW Containers Animated by qqqbbb.\n\nThis mod adds open/close animation and sounds to all containers that should have animation.\n\nUses a native animated containers support feature from OpenMW 0.46 or newer.",
-          "FileID": 1000016287,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46232/46232-1545226737-1639948751.png",
-          "IsNSFW": false,
-          "ModID": 46232,
-          "Name": "OpenMW Containers Animated",
-          "Version": "1.2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "J14CjQy3lKM=",
         "Meta": "[General]\ngameName=morrowind\nmodID=55032\nfileID=1000046494",
         "Name": "Improved Lights for All Shaders Patch-55032-1-0-1722198456.zip",
@@ -1470,6 +1393,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "F58S7xAxGlc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000051585",
+        "Name": "OpenMW Dynamic Actors-54782-1-14-1743293226.zip",
+        "Size": 295564,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
+          "FileID": 1000051585,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
+          "IsNSFW": false,
+          "ModID": 54782,
+          "Name": "OpenMW Dynamic Actors",
+          "Version": "1.09"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "SBcdck4b8K0=",
         "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000054609",
         "Name": "OpenMW Dynamic Actors-54782-1-20b-1750539932.zip",
@@ -1491,15 +1435,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "E+eZWgRFMYA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000059110",
-        "Name": "OpenMW Dynamic Actors-54782-1-27a-1765396981.zip",
-        "Size": 1310408,
+        "Hash": "dCKG99gmNks=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000056838",
+        "Name": "OpenMW Dynamic Actors-54782-1-25-1757870886.zip",
+        "Size": 1244513,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
           "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
-          "FileID": 1000059110,
+          "FileID": 1000056838,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
+          "IsNSFW": false,
+          "ModID": 54782,
+          "Name": "OpenMW Dynamic Actors",
+          "Version": "1.09"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NzT5Ih5Eme8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000059402",
+        "Name": "OpenMW Dynamic Actors-54782-1-30-1766357149.zip",
+        "Size": 1341898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
+          "FileID": 1000059402,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
           "IsNSFW": false,
@@ -1533,6 +1498,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "CUxkPvTDRGQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000055601",
+        "Name": "OpenMW Dynamic Actors-54782-1-20d-1754075621.zip",
+        "Size": 1081685,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
+          "FileID": 1000055601,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
+          "IsNSFW": false,
+          "ModID": 54782,
+          "Name": "OpenMW Dynamic Actors",
+          "Version": "1.09"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5OKKn5sQ3BY=",
         "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000057707",
         "Name": "OpenMW Dynamic Animations-57633-1-0-1760646024.zip",
@@ -1554,63 +1540,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O93eZOlX+G4=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000053133",
-        "Name": "OpenMW Dynamic Actors-54782-1-15a-1747514459.zip",
-        "Size": 536838,
+        "Hash": "1zuky9ttyv8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000058457",
+        "Name": "OpenMW Dynamic Animations-57633-1-07a-1763334878.zip",
+        "Size": 887063,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
-          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
-          "FileID": 1000053133,
+          "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
+          "FileID": 1000058457,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
           "IsNSFW": false,
-          "ModID": 54782,
-          "Name": "OpenMW Dynamic Actors",
-          "Version": "1.09"
+          "ModID": 57633,
+          "Name": "OpenMW Dynamic Animations",
+          "Version": "1.0a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "X0cKkL297WE=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55508\nfileID=1000052093",
-        "Name": "OpenMW Impact Effects-55508-1-07-1745541100.zip",
-        "Size": 9771102,
+        "Hash": "to+q7paseCU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000054300",
+        "Name": "OpenMW Quest Menu-56273-1-3-0-1749568737.zip",
+        "Size": 11756,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49 development version.",
-          "FileID": 1000052093,
+          "Author": "Roschl",
+          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
+          "FileID": 1000054300,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55508/55508-1732926148-1534225161.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
           "IsNSFW": false,
-          "ModID": 55508,
-          "Name": "OpenMW Impact Effects",
-          "Version": "1.0b"
+          "ModID": 56273,
+          "Name": "OpenMW Quest Menu",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1kdwpa6eGpI=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=46562\nfileID=1000048284",
-        "Name": "Perfect Placement OpenMW Beta-46562-2-2beta6-1731716990.7z",
-        "Size": 10048,
+        "Hash": "Aoe+u9LyveE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54148\nfileID=1000052157",
+        "Name": "OpenMW Skyrim Style Quest Notifications-54148-1-33a-1745790995.zip",
+        "Size": 798664,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hrnchamd",
-          "Description": "Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up. Requires MWSE 2.1.",
-          "FileID": 1000048284,
+          "Author": "taitechnic",
+          "Description": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
+          "FileID": 1000052157,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46562/46562-1555698110-1707792801.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54148/54148-1707850703-1609451237.png",
           "IsNSFW": false,
-          "ModID": 46562,
-          "Name": "Perfect Placement",
-          "Version": "2.1"
+          "ModID": 54148,
+          "Name": "OpenMW Skyrim Style Quest Notifications",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FXcuD0OKdIA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54137\nfileID=1000050970",
+        "Name": "OpenMW Voices of Vvardenfell patch All Dialogue-54137-0-54-1741295102.zip",
+        "Size": 3312,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "NEW version for Full Working of Kezyma\u0027s Voices of Vvardenfell, all dialogue now playable. OpenMW 0.49 only.",
+          "FileID": 1000050970,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54137/54137-1715723746-1396111053.png",
+          "IsNSFW": false,
+          "ModID": 54137,
+          "Name": "OpenMW Voices of Vvardenfell patch",
+          "Version": "0.54"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JDfk2GplfJI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55354\nfileID=1000047737",
+        "Name": "Fixed Bonelord Arms-55354-1-0-1729269276.7z",
+        "Size": 94390,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kynesifnar",
+          "Description": "Fixes the bonelord\u0027s left forearms so that they are actually positioned correctly, rather than clipping through the upper arms and disconnected from their hands.",
+          "FileID": 1000047737,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55354/55354-1729268972-1911826047.png",
+          "IsNSFW": false,
+          "ModID": 55354,
+          "Name": "Fixed Bonelord Arms",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wf4JOsiQKlM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55264\nfileID=1000055366",
+        "Name": "Potential Character Progression-55264-1-1-1-1753078128.zip",
+        "Size": 36805,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Qlonever",
+          "Description": "An OpenMW lua mod aiming to make leveling up less bothersome while retaining player choice.",
+          "FileID": 1000055366,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55264/55264-1727742840-1048504920.png",
+          "IsNSFW": false,
+          "ModID": 55264,
+          "Name": "Potential Character Progression (OpenMW)",
+          "Version": "1.0.2"
         }
       }
     },
@@ -1659,6 +1708,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6v8rG5xsz8I=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46992\nfileID=1000040988",
+        "Name": "Protective Guards - OpenMW-46992-0-18-1699969680.7z",
+        "Size": 4857,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kindi",
+          "Description": "Guards protect against hostile NPCs.",
+          "FileID": 1000040988,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46992/46992-1563905467-1888870151.jpeg",
+          "IsNSFW": false,
+          "ModID": 46992,
+          "Name": "Protective Guards (OpenMW)",
+          "Version": "See.Files.Tab"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "1Au6hzUIi10=",
         "Meta": "[General]\ngameName=morrowind\nmodID=52596\nfileID=1000051789",
         "Name": "ReAnimation v2 Rogue - OpenMW-52596-2-5-2-1744027166.rar",
@@ -1668,27 +1738,6 @@
           "Author": "Max Yari",
           "Description": "No more junky floaty first-person combat animations.\n\nA mix of new, altered vanilla, and adjusted MCAR animations.",
           "FileID": 1000051789,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52596/52596-1680396542-11334799.png",
-          "IsNSFW": false,
-          "ModID": 52596,
-          "Name": "ReAnimations - first-person animation pack",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p7sC/LN872c=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=52596\nfileID=1000052830",
-        "Name": "ReAnimation v2 Rogue - OpenMW-52596-2-6-1747083604.rar",
-        "Size": 1855004,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Yari",
-          "Description": "No more junky floaty first-person combat animations.\n\nA mix of new, altered vanilla, and adjusted MCAR animations.",
-          "FileID": 1000052830,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52596/52596-1680396542-11334799.png",
           "IsNSFW": false,
@@ -1785,27 +1834,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sDLjwk7HBIQ=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55480\nfileID=1000056412",
-        "Name": "SSQN Patches-55480-1-14-1756245820.zip",
-        "Size": 1126012,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CarlZee",
-          "Description": "Adds 600\u002B new icons and mod support for 1500\u002B quests!",
-          "FileID": 1000056412,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55480/55480-1732400790-905115982.png",
-          "IsNSFW": false,
-          "ModID": 55480,
-          "Name": "Skyrim Style Quest Notifications Great Patch Hub",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TuAV/r721sE=",
         "Meta": "[General]\ngameName=morrowind\nmodID=55480\nfileID=1000054477",
         "Name": "SSQN Patches - HOTFIX-55480-1-12-2-1750094156.zip",
@@ -1827,21 +1855,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Qk9uieaBSf0=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=51274\nfileID=1000031879",
-        "Name": "Smart Ammo for OpenMW-Lua-51274-1-1-1656337141.zip",
-        "Size": 7350,
+        "Hash": "sDLjwk7HBIQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55480\nfileID=1000056412",
+        "Name": "SSQN Patches-55480-1-14-1756245820.zip",
+        "Size": 1126012,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "johnnyhostile",
-          "Description": "Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it. An OpenMW-Lua port of Abot\u0027s original.",
-          "FileID": 1000031879,
+          "Author": "CarlZee",
+          "Description": "Adds 600\u002B new icons and mod support for 1500\u002B quests!",
+          "FileID": 1000056412,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51274/51274-1653006791-579846367.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55480/55480-1732400790-905115982.png",
           "IsNSFW": false,
-          "ModID": 51274,
-          "Name": "Smart Ammo for OpenMW-Lua",
-          "Version": "1.1"
+          "ModID": 55480,
+          "Name": "Skyrim Style Quest Notifications Great Patch Hub",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N9cllwHlhSg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55480\nfileID=1000057715",
+        "Name": "SSQN Patches-55480-1-16-1760675146.zip",
+        "Size": 1140634,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CarlZee",
+          "Description": "Adds 600\u002B new icons and mod support for 1500\u002B quests!",
+          "FileID": 1000057715,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55480/55480-1732400790-905115982.png",
+          "IsNSFW": false,
+          "ModID": 55480,
+          "Name": "Skyrim Style Quest Notifications Great Patch Hub",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b58M0dh3GCY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000007008",
+        "Name": "TRMusic-42145-1-0.rar",
+        "Size": 22238060,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000007008,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
         }
       }
     },
@@ -1926,6 +1996,27 @@
           "ModID": 46069,
           "Name": "Weapon Sheathing",
           "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Rn0h+N8Mhvs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56718\nfileID=1000053479",
+        "Name": "Zerkish AutoSave-56718-b1-0-0-1748113200.zip",
+        "Size": 7117,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zerkish",
+          "Description": "Simple Reliable AutoSaves",
+          "FileID": 1000053479,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56718/56718-1748113701-1797402610.png",
+          "IsNSFW": false,
+          "ModID": 56718,
+          "Name": "Zerkish AutoSave (For OpenMW)",
+          "Version": "b1.0.0"
         }
       }
     },
@@ -2121,6 +2212,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "hI/Fsy90bso=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46599\nfileID=1000014602",
+        "Name": "GH Patches and Replacers-46599-1-02-1558643538.7z",
+        "Size": 3567780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Stuporstar and Greatness7",
+          "Description": "Now works with OpenMW! MWSE Graphic Herbalism harnesses the power of lua and mesh switchnodes, allowing this mod to be run without an esp or standard scripts. This dramatically optimizes performance compared to older graphic herbalism mods. It also comes with an mod configuration menu to allow you to change settings.",
+          "FileID": 1000014602,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46599/46599-1556987326-522913397.png",
+          "IsNSFW": false,
+          "ModID": 46599,
+          "Name": "Graphic Herbalism - MWSE and OpenMW Edition",
+          "Version": "1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "BUIVLfemQfc=",
         "Meta": "[General]\ngameName=morrowind\nmodID=56594\nfileID=1000053114",
         "Name": "Hit Reactions Animated-56594-1-1-1747486601.rar",
@@ -2241,6 +2353,27 @@
           "ModID": 49042,
           "Name": "OAAB_Data",
           "Version": "2.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X0cKkL297WE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55508\nfileID=1000052093",
+        "Name": "OpenMW Impact Effects-55508-1-07-1745541100.zip",
+        "Size": 9771102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49 development version.",
+          "FileID": 1000052093,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55508/55508-1732926148-1534225161.png",
+          "IsNSFW": false,
+          "ModID": 55508,
+          "Name": "OpenMW Impact Effects",
+          "Version": "1.0b"
         }
       }
     },
@@ -2394,21 +2527,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "owULuiJOFP8=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=50954\nfileID=1000054301",
-        "Name": "Missing Assets Hotfix-50954-1-1-1749569281.zip",
-        "Size": 2962059,
+        "Hash": "OGCcnkB9XNw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000053974",
+        "Name": "Tamriel Rebuilt 25.06.01-42145-25-06-01-1748808578.7z",
+        "Size": 63088136,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team VonVom",
-          "Description": "Experience a lively arena with more features to come.",
-          "FileID": 1000054301,
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000053974,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50954/50954-1705203002-1739922330.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
           "IsNSFW": false,
-          "ModID": 50954,
-          "Name": "Roaring Arena - Betting and Bloodletting",
-          "Version": "0.9.5"
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
         }
       }
     },
@@ -2583,36 +2716,134 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JdQyt4fpA5k=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54858\nfileID=1000049761",
-        "Name": "Protective Guards - Factions and NPCs Protections-54858-1-3-1737716111.zip",
-        "Size": 5480,
+        "Hash": "uXlWh9BktI4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44420\nfileID=1000022312",
+        "Name": "Enchanting Balance Redone - OpenMW Version-44420-3-1-1609443566.zip",
+        "Size": 469,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kuyondo and lelimule",
-          "Description": "This mod is an improvement of Protective Guards. Now the guards don\u0027t systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not. Furthermore, guards can protect NPCs too (example: if a NPC attacks another NPC), with the same rules",
-          "FileID": 1000049761,
+          "Author": "SenseiMewtwo12345",
+          "Description": "",
+          "FileID": 1000022312,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54858/54858-1718720270-906162306.png",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 54858,
-          "Name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
-          "Version": "1.1.1"
+          "ModID": 44420,
+          "Name": "Enchanting Balance Redone",
+          "Version": "3.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qGX7ywFk984=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=45713\nfileID=1000040126",
-        "Name": "Tribunal Rebalance-45713-1-1-1694379738.zip",
-        "Size": 20710,
+        "Hash": "bU21RgjPM6o=",
+        "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-patches/-/package_files/203475672/download",
+        "Name": "momw-patches.zip",
+        "Size": 19338373,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://gitlab.com/modding-openmw/momw-patches/-/package_files/203475672/download"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8qFWzKLdz80=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56788\nfileID=1000054149",
+        "Name": "TR Newspaper Spawns on Vvardenfell-56788-1-0-1-1749198031.zip",
+        "Size": 8527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TipsyTechPriest",
+          "Description": "Places spawns of the Canyon Echo and Ebonheart Bellman in appropriate places on Vvardenfell.",
+          "FileID": 1000054149,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56788/56788-1748530837-2045343954.png",
+          "IsNSFW": false,
+          "ModID": 56788,
+          "Name": "TR Newspapers on Vvardenfell",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d8+lYaqTAwk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46720\nfileID=1000034143",
+        "Name": "Dubdilla Location Fix-46720-1-1-1671026591.7z",
+        "Size": 4196,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Half11",
+          "Description": "This mod fixes another one of Beth\u0027s oversights. One of MW\u0027s quests has voiced dialogue that sends you to a totally different location than where the quest actually takes place. I just put the cave entrance in a more logical location.",
+          "FileID": 1000034143,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46720/46720-1557409497-669842670.png",
+          "IsNSFW": false,
+          "ModID": 46720,
+          "Name": "Dubdilla Location Fix",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AD2fxt2t5Qs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000057980",
+        "Name": "main-54985-0-6-5-1761590516.zip",
+        "Size": 41998,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eledin",
+          "Description": "Modernized Dialogue and Decluttering of the UI",
+          "FileID": 1000057980,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54985/54985-1721161448-1473380916.png",
+          "IsNSFW": false,
+          "ModID": 54985,
+          "Name": "Interface Reimagined for OpenMW",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ThVnC9nFexU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44922\nfileID=1000049015",
+        "Name": "Cyr_Main-44922-24-12a-1735079448.7z",
+        "Size": 12009566,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ProvinceCyrodiil",
+          "Description": "PRE-ALPHA. Located between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.",
+          "FileID": 1000049015,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44922-10-1493673501.png",
+          "IsNSFW": false,
+          "ModID": 44922,
+          "Name": "Province Cyrodiil",
+          "Version": "22.12"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MyBJRSfNUA4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45713\nfileID=1000052515",
+        "Name": "Tribunal Rebalance-45713-1-2-1746541286.zip",
+        "Size": 21573,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mort",
           "Description": "This mod is intended to rebalance the Tribunal expansion in a variety of ways, most importantly by editing the stats of creatures and npcs.\n\nThis mod rebalances Tribunal as if it shipped with Morrowind.",
-          "FileID": 1000040126,
+          "FileID": 1000052515,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45713/45713-1694380022-1527337889.png",
           "IsNSFW": false,
@@ -2625,36 +2856,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T/PcgHTIciM=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57396\nfileID=1000056906",
-        "Name": "It Beats-57396-1-2-1-1758191065.zip",
-        "Size": 2976625,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sosnoviy Bor",
-          "Description": "Feel the heartbeat of the Red Mountain.",
-          "FileID": 1000056906,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57396/57396-1756839388-704760564.jpg",
-          "IsNSFW": false,
-          "ModID": 57396,
-          "Name": "It Beats (OpenMW)",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dCKG99gmNks=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000056838",
-        "Name": "OpenMW Dynamic Actors-54782-1-25-1757870886.zip",
-        "Size": 1244513,
+        "Hash": "O93eZOlX+G4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000053133",
+        "Name": "OpenMW Dynamic Actors-54782-1-15a-1747514459.zip",
+        "Size": 536838,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
           "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
-          "FileID": 1000056838,
+          "FileID": 1000053133,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
           "IsNSFW": false,
@@ -2667,57 +2877,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CUxkPvTDRGQ=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000055601",
-        "Name": "OpenMW Dynamic Actors-54782-1-20d-1754075621.zip",
-        "Size": 1081685,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
-          "FileID": 1000055601,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
-          "IsNSFW": false,
-          "ModID": 54782,
-          "Name": "OpenMW Dynamic Actors",
-          "Version": "1.09"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MNNycvf7FRg=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55572\nfileID=1000055847",
-        "Name": "OpenMW Dynamic Ambient Visual Effects-55572-1-17-1754938427.zip",
-        "Size": 891450,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Now under a new name! NEW : Floating dust in tombs and crypts. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
-          "FileID": 1000055847,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55572/55572-1741462216-1564911577.png",
-          "IsNSFW": false,
-          "ModID": 55572,
-          "Name": "OpenMW Dynamic Ambient Visual Effects",
-          "Version": "1.16b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1zuky9ttyv8=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000058457",
-        "Name": "OpenMW Dynamic Animations-57633-1-07a-1763334878.zip",
-        "Size": 887063,
+        "Hash": "AokuIlY7oQw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000059307",
+        "Name": "OpenMW Dynamic Animations-57633-1-08-1766009827.zip",
+        "Size": 896812,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
           "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
-          "FileID": 1000058457,
+          "FileID": 1000059307,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
           "IsNSFW": false,
@@ -2730,42 +2898,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a0JgGGqFk+Y=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55508\nfileID=1000055033",
-        "Name": "OpenMW Impact Effects-55508-1-07a-1751915261.zip",
-        "Size": 9771268,
+        "Hash": "PMffoPkgoA8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000058019",
+        "Name": "OpenMW Dynamic Animations-57633-1-03-1761685901.zip",
+        "Size": 735180,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
-          "Description": "Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49 development version.",
-          "FileID": 1000055033,
+          "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
+          "FileID": 1000058019,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55508/55508-1732926148-1534225161.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
           "IsNSFW": false,
-          "ModID": 55508,
-          "Name": "OpenMW Impact Effects",
-          "Version": "1.0b"
+          "ModID": 57633,
+          "Name": "OpenMW Dynamic Animations",
+          "Version": "1.0a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XEUOEp0Ogds=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54148\nfileID=1000059109",
-        "Name": "OpenMW Skyrim Style Quest Notifications-54148-1-36e-1765396130.zip",
-        "Size": 3193732,
+        "Hash": "MJIJxbhDCIM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000052839",
+        "Name": "OpenMW Quest Menu 1.1.1-56273-1-1-1-1747088331.zip",
+        "Size": 9882,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
-          "FileID": 1000059109,
+          "Author": "Roschl",
+          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
+          "FileID": 1000052839,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54148/54148-1707850703-1609451237.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
           "IsNSFW": false,
-          "ModID": 54148,
-          "Name": "OpenMW Skyrim Style Quest Notifications",
-          "Version": "1.1"
+          "ModID": 56273,
+          "Name": "OpenMW Quest Menu",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p7sC/LN872c=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52596\nfileID=1000052830",
+        "Name": "ReAnimation v2 Rogue - OpenMW-52596-2-6-1747083604.rar",
+        "Size": 1855004,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Max Yari",
+          "Description": "No more junky floaty first-person combat animations.\n\nA mix of new, altered vanilla, and adjusted MCAR animations.",
+          "FileID": 1000052830,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52596/52596-1680396542-11334799.png",
+          "IsNSFW": false,
+          "ModID": 52596,
+          "Name": "ReAnimations - first-person animation pack",
+          "Version": "1.5"
         }
       }
     },
@@ -2793,105 +2982,147 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OGCcnkB9XNw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000053974",
-        "Name": "Tamriel Rebuilt 25.06.01-42145-25-06-01-1748808578.7z",
-        "Size": 63088136,
+        "Hash": "a0JgGGqFk+Y=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55508\nfileID=1000055033",
+        "Name": "OpenMW Impact Effects-55508-1-07a-1751915261.zip",
+        "Size": 9771268,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tamriel Rebuilt Team",
-          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
-          "FileID": 1000053974,
+          "Author": "taitechnic",
+          "Description": "Adds visual effects and sounds when you hit objects in the world. For OpenMW 0.49 development version.",
+          "FileID": 1000055033,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55508/55508-1732926148-1534225161.png",
           "IsNSFW": false,
-          "ModID": 42145,
-          "Name": "Tamriel Rebuilt",
-          "Version": "23.02.03"
+          "ModID": 55508,
+          "Name": "OpenMW Impact Effects",
+          "Version": "1.0b"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a4DMT2yZsLc=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55216\nfileID=1000051463",
-        "Name": "DFPSO OMW-55216-0-32-1742738359.zip",
-        "Size": 2051,
+        "Hash": "Yt1XKfN5egA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51232\nfileID=1000051019",
+        "Name": "AttendMe 1.9-51232-1-9-1741508300.zip",
+        "Size": 11812,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Radac2008    paranoidnendoroid",
-          "Description": "An MWSE plugin that modifies View Distance at runtime based on framerate or user defined parameters.",
-          "FileID": 1000051463,
+          "Author": "urm",
+          "Description": "Follower HUD and teleportation",
+          "FileID": 1000051019,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55216/55216-1726213483-559820599.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51232/51232-1652563692-1093372365.png",
           "IsNSFW": false,
-          "ModID": 55216,
-          "Name": "Dynamic FPS Optimization",
-          "Version": "0.71"
+          "ModID": 51232,
+          "Name": "Attend Me",
+          "Version": "1.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YJZy+I+LWQc=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=49278\nfileID=1000022863",
-        "Name": "Kirel\u0027s Interior Weather (Cleaned and updated with tes3cmd)-49278-V1-0Edit-1612480362.7z",
-        "Size": 659558,
+        "Hash": "rqrt11U3SbY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54784\nfileID=1000045374",
+        "Name": "Distant Ebon Tower-54784-1-0-1717367319.zip",
+        "Size": 26752,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kirel",
-          "Description": "Plays weather sound effects in interior cells, but not in places like\n\ncaves, ruins, etc and places you wouldn\u0027t expect to hear them - all\n\nwith little or no FPS hit.",
-          "FileID": 1000022863,
+          "Author": "GrumblingVomit",
+          "Description": "Makes the mesh underneath Ebon Tower larger so it renders from farther away in OpenMW.",
+          "FileID": 1000045374,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49278/49278-1612480072-57112747.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54784/54784-1717367170-1481339454.jpeg",
           "IsNSFW": false,
-          "ModID": 49278,
-          "Name": "Kirel\u0027s Interior Weather",
-          "Version": "V1.0"
+          "ModID": 54784,
+          "Name": "Distant Ebon Tower for OpenMW",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Rn0h+N8Mhvs=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56718\nfileID=1000053479",
-        "Name": "Zerkish AutoSave-56718-b1-0-0-1748113200.zip",
-        "Size": 7117,
+        "Hash": "E1KjV1FIjcc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53384\nfileID=1000039784",
+        "Name": "No Witness - No Bounty - 1.0.1-53384-1-0-1-1692378380.zip",
+        "Size": 10721,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zerkish",
-          "Description": "Simple Reliable AutoSaves",
-          "FileID": 1000053479,
+          "Author": "ZackHasACat",
+          "Description": "Allows you to slay all your witnesses when a crime is committed, to remove the bounty. Inspired by Skyrim\u0027s system.",
+          "FileID": 1000039784,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56718/56718-1748113701-1797402610.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53384/53384-1692240117-1154148130.png",
           "IsNSFW": false,
-          "ModID": 56718,
-          "Name": "Zerkish AutoSave (For OpenMW)",
-          "Version": "b1.0.0"
+          "ModID": 53384,
+          "Name": "No Witness - No Bounty",
+          "Version": "1.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e6V5+GjKl/A=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000056029",
-        "Name": "main-54985-0-6-3-1755438664.zip",
-        "Size": 40601,
+        "Hash": "7GsILs3wT0c=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55264\nfileID=1000054915",
+        "Name": "Potential Character Progression-55264-1-1-0-1751593781.zip",
+        "Size": 36739,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eledin",
-          "Description": "Modernized Dialogue and Decluttering of the UI",
-          "FileID": 1000056029,
+          "Author": "Qlonever",
+          "Description": "An OpenMW lua mod aiming to make leveling up less bothersome while retaining player choice.",
+          "FileID": 1000054915,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54985/54985-1721161448-1473380916.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55264/55264-1727742840-1048504920.png",
           "IsNSFW": false,
-          "ModID": 54985,
-          "Name": "Interface Reimagined for OpenMW",
-          "Version": "0.2"
+          "ModID": 55264,
+          "Name": "Potential Character Progression (OpenMW)",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HdHojK8FQK8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49785\nfileID=1000024774",
+        "Name": "Simply Walking Weapon Sheathing Edition-49785-1-3-1621215349.7z",
+        "Size": 4581422,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dirane Me",
+          "Description": "\u0026gt;Just walking animations\n\n\u0026gt;Optional Run Animations\n\n\u0026gt;Optional Weapon Sheathing Animations\n\n\u0022NEW FIRST PERSON WEAPON SHEATHING DRAW ANIMATIONS\u0022",
+          "FileID": 1000024774,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49785/49785-1621130041-1652651962.gif",
+          "IsNSFW": false,
+          "ModID": 49785,
+          "Name": "Simply Walking (Remastered)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qmVY+ifRUUk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53747\nfileID=1000052452",
+        "Name": "OpenMW Shaders-53747-1-4-1746383294.zip",
+        "Size": 9154688,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "EpochWon",
+          "Description": "A few OpenMW post process shaders",
+          "FileID": 1000052452,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53747/53747-1700506964-626482232.png",
+          "IsNSFW": false,
+          "ModID": 53747,
+          "Name": "Some OpenMW Post Process Shaders",
+          "Version": "1.0"
         }
       }
     },
@@ -2919,21 +3150,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N9cllwHlhSg=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55480\nfileID=1000057715",
-        "Name": "SSQN Patches-55480-1-16-1760675146.zip",
-        "Size": 1140634,
+        "Hash": "E+eZWgRFMYA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54782\nfileID=1000059110",
+        "Name": "OpenMW Dynamic Actors-54782-1-27a-1765396981.zip",
+        "Size": 1310408,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CarlZee",
-          "Description": "Adds 600\u002B new icons and mod support for 1500\u002B quests!",
-          "FileID": 1000057715,
+          "Author": "taitechnic",
+          "Description": "UPDATE: Scripted Dialogue Animations for Modders. Unpaused dialogue with dynamic camera control, and enhanced Idle animations for NPC\u0027s. Customize player Idle animation, or use playlist function to animate player in any pose on demand.",
+          "FileID": 1000059110,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55480/55480-1732400790-905115982.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54782/54782-1717364168-367310833.png",
           "IsNSFW": false,
-          "ModID": 55480,
-          "Name": "Skyrim Style Quest Notifications Great Patch Hub",
-          "Version": "1.4"
+          "ModID": 54782,
+          "Name": "OpenMW Dynamic Actors",
+          "Version": "1.09"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CU+I2MS7BUw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55572\nfileID=1000058273",
+        "Name": "OpenMW Dynamic Ambient Visual Effects-55572-1-18-1762726788.zip",
+        "Size": 891591,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "Now under a new name! NEW : Floating dust in tombs and crypts. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
+          "FileID": 1000058273,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55572/55572-1741462216-1564911577.png",
+          "IsNSFW": false,
+          "ModID": 55572,
+          "Name": "OpenMW Dynamic Ambient Visual Effects",
+          "Version": "1.16b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WOSH8Gho1lw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000057935",
+        "Name": "OpenMW Dynamic Animations-57633-1-02-1761427784.zip",
+        "Size": 701376,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
+          "FileID": 1000057935,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
+          "IsNSFW": false,
+          "ModID": 57633,
+          "Name": "OpenMW Dynamic Animations",
+          "Version": "1.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "owULuiJOFP8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50954\nfileID=1000054301",
+        "Name": "Missing Assets Hotfix-50954-1-1-1749569281.zip",
+        "Size": 2962059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team VonVom",
+          "Description": "Experience a lively arena with more features to come.",
+          "FileID": 1000054301,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50954/50954-1705203002-1739922330.jpeg",
+          "IsNSFW": false,
+          "ModID": 50954,
+          "Name": "Roaring Arena - Betting and Bloodletting",
+          "Version": "0.9.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1TuQCmOTZag=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000054760",
+        "Name": "Tamriel Rebuilt 25.06.28-42145-25-06-28-1751085787.7z",
+        "Size": 64476043,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000054760,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
         }
       }
     },
@@ -2982,63 +3297,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PMffoPkgoA8=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000058019",
-        "Name": "OpenMW Dynamic Animations-57633-1-03-1761685901.zip",
-        "Size": 735180,
+        "Hash": "JdQyt4fpA5k=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54858\nfileID=1000049761",
+        "Name": "Protective Guards - Factions and NPCs Protections-54858-1-3-1737716111.zip",
+        "Size": 5480,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
-          "FileID": 1000058019,
+          "Author": "kuyondo and lelimule",
+          "Description": "This mod is an improvement of Protective Guards. Now the guards don\u0027t systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not. Furthermore, guards can protect NPCs too (example: if a NPC attacks another NPC), with the same rules",
+          "FileID": 1000049761,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54858/54858-1718720270-906162306.png",
           "IsNSFW": false,
-          "ModID": 57633,
-          "Name": "OpenMW Dynamic Animations",
-          "Version": "1.0a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FXcuD0OKdIA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54137\nfileID=1000050970",
-        "Name": "OpenMW Voices of Vvardenfell patch All Dialogue-54137-0-54-1741295102.zip",
-        "Size": 3312,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "NEW version for Full Working of Kezyma\u0027s Voices of Vvardenfell, all dialogue now playable. OpenMW 0.49 only.",
-          "FileID": 1000050970,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54137/54137-1715723746-1396111053.png",
-          "IsNSFW": false,
-          "ModID": 54137,
-          "Name": "OpenMW Voices of Vvardenfell patch",
-          "Version": "0.54"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zaitSSnT/5o=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000055976",
-        "Name": "1_OpenMW 0.5 dev patch-54985-0-2-1755259882.7z",
-        "Size": 1311,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eledin",
-          "Description": "Modernized Dialogue and Decluttering of the UI",
-          "FileID": 1000055976,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54985/54985-1721161448-1473380916.png",
-          "IsNSFW": false,
-          "ModID": 54985,
-          "Name": "Interface Reimagined for OpenMW",
-          "Version": "0.2"
+          "ModID": 54858,
+          "Name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
+          "Version": "1.1.1"
         }
       }
     },
@@ -3087,42 +3360,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "u0tZ2ccqdd4=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54148\nfileID=1000053305",
-        "Name": "OpenMW Skyrim Style Quest Notifications-54148-1-35-1747766737.zip",
-        "Size": 766302,
+        "Hash": "onnZyKylnF8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000052714",
+        "Name": "Tamriel Rebuilt 25.05.09-42145-25-05-09-1746826290.7z",
+        "Size": 62964357,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
-          "FileID": 1000053305,
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000052714,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54148/54148-1707850703-1609451237.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
           "IsNSFW": false,
-          "ModID": 54148,
-          "Name": "OpenMW Skyrim Style Quest Notifications",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "g+GVf9U/nTQ=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=49616\nfileID=1000024242",
-        "Name": "Weapon Sheathing Additions-49616-1-1-1619889923.7z",
-        "Size": 193276,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Remiros",
-          "Description": "Adds sheaths to weapons that previously didn\u0027t have any",
-          "FileID": 1000024242,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49616/49616-1619867403-603446324.png",
-          "IsNSFW": false,
-          "ModID": 49616,
-          "Name": "Weapon Sheathing Additions",
-          "Version": "1.1"
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
         }
       }
     },
@@ -3144,6 +3396,216 @@
           "ModID": 56005,
           "Name": "Fresh Loot (OpenMW)",
           "Version": "1.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a4DMT2yZsLc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55216\nfileID=1000051463",
+        "Name": "DFPSO OMW-55216-0-32-1742738359.zip",
+        "Size": 2051,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Radac2008    paranoidnendoroid",
+          "Description": "An MWSE plugin that modifies View Distance at runtime based on framerate or user defined parameters.",
+          "FileID": 1000051463,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55216/55216-1726213483-559820599.png",
+          "IsNSFW": false,
+          "ModID": 55216,
+          "Name": "Dynamic FPS Optimization",
+          "Version": "0.71"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YJZy+I+LWQc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49278\nfileID=1000022863",
+        "Name": "Kirel\u0027s Interior Weather (Cleaned and updated with tes3cmd)-49278-V1-0Edit-1612480362.7z",
+        "Size": 659558,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kirel",
+          "Description": "Plays weather sound effects in interior cells, but not in places like\n\ncaves, ruins, etc and places you wouldn\u0027t expect to hear them - all\n\nwith little or no FPS hit.",
+          "FileID": 1000022863,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49278/49278-1612480072-57112747.jpeg",
+          "IsNSFW": false,
+          "ModID": 49278,
+          "Name": "Kirel\u0027s Interior Weather",
+          "Version": "V1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e6V5+GjKl/A=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000056029",
+        "Name": "main-54985-0-6-3-1755438664.zip",
+        "Size": 40601,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eledin",
+          "Description": "Modernized Dialogue and Decluttering of the UI",
+          "FileID": 1000056029,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54985/54985-1721161448-1473380916.png",
+          "IsNSFW": false,
+          "ModID": 54985,
+          "Name": "Interface Reimagined for OpenMW",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zaitSSnT/5o=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54985\nfileID=1000055976",
+        "Name": "1_OpenMW 0.5 dev patch-54985-0-2-1755259882.7z",
+        "Size": 1311,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eledin",
+          "Description": "Modernized Dialogue and Decluttering of the UI",
+          "FileID": 1000055976,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54985/54985-1721161448-1473380916.png",
+          "IsNSFW": false,
+          "ModID": 54985,
+          "Name": "Interface Reimagined for OpenMW",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BvdiNxQEa50=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53717\nfileID=1000046803",
+        "Name": "MostWantedNerevarine 1.2-53717-1-2-1724062088.zip",
+        "Size": 6592,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "urm",
+          "Description": "Shows your current crime status in a HUD overlay reminiscent of open world crime games, such as GTA or Cyberpunk.",
+          "FileID": 1000046803,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53717/53717-1699728015-518495636.png",
+          "IsNSFW": false,
+          "ModID": 53717,
+          "Name": "Most Wanted Nerevarine",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MNNycvf7FRg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55572\nfileID=1000055847",
+        "Name": "OpenMW Dynamic Ambient Visual Effects-55572-1-17-1754938427.zip",
+        "Size": 891450,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "Now under a new name! NEW : Floating dust in tombs and crypts. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
+          "FileID": 1000055847,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55572/55572-1741462216-1564911577.png",
+          "IsNSFW": false,
+          "ModID": 55572,
+          "Name": "OpenMW Dynamic Ambient Visual Effects",
+          "Version": "1.16b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JQ0joAIjlqk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000052420",
+        "Name": "Tamriel Rebuilt 25.05.03-42145-25-05-03-1-1746300072.7z",
+        "Size": 62983667,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000052420,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BqrWfTGToyc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56572\nfileID=1000053190",
+        "Name": "main-56572-0-8-7-1747599208.7z",
+        "Size": 106986458,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eledin",
+          "Description": "Lua audio sound effects extension",
+          "FileID": 1000053190,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56572/56572-1746980774-956852264.png",
+          "IsNSFW": false,
+          "ModID": 56572,
+          "Name": "Dynamic Sounds for OpenMW",
+          "Version": "0.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hyTe4AeDu4g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56005\nfileID=1000053623",
+        "Name": "FreshLoot-56005-2-1-4-1748295921.zip",
+        "Size": 632080,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mym",
+          "Description": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments. Loots get more exciting and enemies more challenging. This mod supports over 3500 items types and 60.000 modifications applied to those items.",
+          "FileID": 1000053623,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56005/56005-1739527942-1322849265.jpeg",
+          "IsNSFW": false,
+          "ModID": 56005,
+          "Name": "Fresh Loot (OpenMW)",
+          "Version": "1.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wp4oJnBBgYA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55688\nfileID=1000053163",
+        "Name": "Project Cyrodiil - SSQN Patch-55688-1-3-1-1747567368.7z",
+        "Size": 26894,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MwGek",
+          "Description": "Adds icons for faction quests and location specific icons for the misc quests.",
+          "FileID": 1000053163,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55688/55688-1735591079-386362339.jpeg",
+          "IsNSFW": false,
+          "ModID": 55688,
+          "Name": "Project Cyrodiil - SSQN Patch",
+          "Version": "1.2"
         }
       }
     },
@@ -3192,35 +3654,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Phxa3UC5+Fo=",
-        "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/pharis-magicka-regeneration/-/package_files/140629960/download",
-        "Name": "pharis-magicka-regeneration.zip",
-        "Size": 14542,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://gitlab.com/modding-openmw/pharis-magicka-regeneration/-/package_files/140629960/download"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PTcdTtcjxVI=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56078\nfileID=1000050718",
-        "Name": "Talking Trains Speechcraft-openmw lua-56078-1-1-1740433564.7z",
-        "Size": 2737,
+        "Hash": "1kdwpa6eGpI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46562\nfileID=1000048284",
+        "Name": "Perfect Placement OpenMW Beta-46562-2-2beta6-1731716990.7z",
+        "Size": 10048,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MISTERSMELLIES",
-          "Description": "Every dialogue opening will now increase speechcraft level your progress so you will slowly level your speechcraft over the course of the game.",
-          "FileID": 1000050718,
+          "Author": "Hrnchamd",
+          "Description": "Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up. Requires MWSE 2.1.",
+          "FileID": 1000048284,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56078/56078-1740362922-222416125.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46562/46562-1555698110-1707792801.jpeg",
           "IsNSFW": false,
-          "ModID": 56078,
-          "Name": "Talking Trains Speechcraft-openmw lua",
-          "Version": "1.0"
+          "ModID": 46562,
+          "Name": "Perfect Placement",
+          "Version": "2.1"
         }
       }
     },
@@ -3284,27 +3732,6 @@
           "ModID": 50087,
           "Name": "Nords shut your windows",
           "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QquxR++ZOKw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=44922\nfileID=1000052938",
-        "Name": "Cyr_Main-44922-25-05a-1747259314.7z",
-        "Size": 11783781,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ProvinceCyrodiil",
-          "Description": "PRE-ALPHA. Located between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.",
-          "FileID": 1000052938,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44922-10-1493673501.png",
-          "IsNSFW": false,
-          "ModID": 44922,
-          "Name": "Province Cyrodiil",
-          "Version": "22.12"
         }
       }
     },
@@ -3395,141 +3822,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JDfk2GplfJI=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55354\nfileID=1000047737",
-        "Name": "Fixed Bonelord Arms-55354-1-0-1729269276.7z",
-        "Size": 94390,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kynesifnar",
-          "Description": "Fixes the bonelord\u0027s left forearms so that they are actually positioned correctly, rather than clipping through the upper arms and disconnected from their hands.",
-          "FileID": 1000047737,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55354/55354-1729268972-1911826047.png",
-          "IsNSFW": false,
-          "ModID": 55354,
-          "Name": "Fixed Bonelord Arms",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BvdiNxQEa50=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=53717\nfileID=1000046803",
-        "Name": "MostWantedNerevarine 1.2-53717-1-2-1724062088.zip",
-        "Size": 6592,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "urm",
-          "Description": "Shows your current crime status in a HUD overlay reminiscent of open world crime games, such as GTA or Cyberpunk.",
-          "FileID": 1000046803,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53717/53717-1699728015-518495636.png",
-          "IsNSFW": false,
-          "ModID": 53717,
-          "Name": "Most Wanted Nerevarine",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AokuIlY7oQw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000059307",
-        "Name": "OpenMW Dynamic Animations-57633-1-08-1766009827.zip",
-        "Size": 896812,
+        "Hash": "R73nUEGGCgM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54585\nfileID=1000057953",
+        "Name": "Open-54585-1-26-1761508078.zip",
+        "Size": 21716,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
-          "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
-          "FileID": 1000059307,
+          "Description": "Based on MWSE Animated Pickup by C3pa, telekinesis style effect when picking up items. Plus Sneak to Steal, block accidental thievery of items.",
+          "FileID": 1000057953,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54585/54585-1714851124-1692199516.png",
           "IsNSFW": false,
-          "ModID": 57633,
-          "Name": "OpenMW Dynamic Animations",
-          "Version": "1.0a"
+          "ModID": 54585,
+          "Name": "OpenMW Animated Pickup and Sneak to Steal",
+          "Version": "1.02"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "onnZyKylnF8=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000052714",
-        "Name": "Tamriel Rebuilt 25.05.09-42145-25-05-09-1746826290.7z",
-        "Size": 62964357,
+        "Hash": "kgInHybzpFk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54858\nfileID=1000052506",
+        "Name": "Protective Guards - Factions and NPCs Protections-54858-1-4-1746481983.zip",
+        "Size": 5588,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tamriel Rebuilt Team",
-          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
-          "FileID": 1000052714,
+          "Author": "kuyondo and lelimule",
+          "Description": "This mod is an improvement of Protective Guards. Now the guards don\u0027t systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not. Furthermore, guards can protect NPCs too (example: if a NPC attacks another NPC), with the same rules",
+          "FileID": 1000052506,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54858/54858-1718720270-906162306.png",
           "IsNSFW": false,
-          "ModID": 42145,
-          "Name": "Tamriel Rebuilt",
-          "Version": "23.02.03"
+          "ModID": 54858,
+          "Name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
+          "Version": "1.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YGlLt7HZ8KU=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=43484\nfileID=1000006922",
-        "Name": "Improved Weapon Meshes - Ebony-43484-1-2.7z",
-        "Size": 294604,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pherim",
-          "Description": "New and more detailed meshes for all ebony weapons.",
-          "FileID": 1000006922,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/43484-1-1424071494.jpg",
-          "IsNSFW": false,
-          "ModID": 43484,
-          "Name": "Improved Weapon Meshes - Ebony",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BqrWfTGToyc=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56572\nfileID=1000053190",
-        "Name": "main-56572-0-8-7-1747599208.7z",
-        "Size": 106986458,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eledin",
-          "Description": "Lua audio sound effects extension",
-          "FileID": 1000053190,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56572/56572-1746980774-956852264.png",
-          "IsNSFW": false,
-          "ModID": 56572,
-          "Name": "Dynamic Sounds for OpenMW",
-          "Version": "0.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hyTe4AeDu4g=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56005\nfileID=1000053623",
-        "Name": "FreshLoot-56005-2-1-4-1748295921.zip",
-        "Size": 632080,
+        "Hash": "HRLKHbx8p6Q=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56005\nfileID=1000055395",
+        "Name": "FreshLoot-56005-2-3-1753221664.zip",
+        "Size": 641515,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mym",
           "Description": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments. Loots get more exciting and enemies more challenging. This mod supports over 3500 items types and 60.000 modifications applied to those items.",
-          "FileID": 1000053623,
+          "FileID": 1000055395,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56005/56005-1739527942-1322849265.jpeg",
           "IsNSFW": false,
@@ -3542,21 +3885,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Wp4oJnBBgYA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55688\nfileID=1000053163",
-        "Name": "Project Cyrodiil - SSQN Patch-55688-1-3-1-1747567368.7z",
-        "Size": 26894,
+        "Hash": "Phxa3UC5+Fo=",
+        "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/pharis-magicka-regeneration/-/package_files/140629960/download",
+        "Name": "pharis-magicka-regeneration.zip",
+        "Size": 14542,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MwGek",
-          "Description": "Adds icons for faction quests and location specific icons for the misc quests.",
-          "FileID": 1000053163,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55688/55688-1735591079-386362339.jpeg",
-          "IsNSFW": false,
-          "ModID": 55688,
-          "Name": "Project Cyrodiil - SSQN Patch",
-          "Version": "1.2"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://gitlab.com/modding-openmw/pharis-magicka-regeneration/-/package_files/140629960/download"
         }
       }
     },
@@ -3668,42 +4004,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Sf22Qv35+PE=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54629\nfileID=1000050473",
-        "Name": "OpenMW lua helper utility-54629-0-55-1739825291.zip",
-        "Size": 2488199,
+        "Hash": "/hkrStLMMEw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56298\nfileID=1000053171",
+        "Name": "OMW Achievements (v2.1.1)-56298-v2-1-1-1747576629.7z",
+        "Size": 134127,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "UPDATE: Tamriel Rebuilt voiced dialogue ESP now properly supports TR release 24.12. Support mod for use by other OpenMW lua Mods only. Currently a WIP. Requires OpenMW 0.49.",
-          "FileID": 1000050473,
+          "Author": "Skooma Lover",
+          "Description": "OMW Achievements - a mod that adds the ability to get achievements to the game. There is support for the adding your own achievements (OpenMW 0.49\u002B required).",
+          "FileID": 1000053171,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54629/54629-1715543708-1189011810.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56298/56298-1743731566-549072007.jpeg",
           "IsNSFW": false,
-          "ModID": 54629,
-          "Name": "OpenMW Lua helper utility",
-          "Version": "0.51"
+          "ModID": 56298,
+          "Name": "OMW Achievements",
+          "Version": "v2.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b58M0dh3GCY=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000007008",
-        "Name": "TRMusic-42145-1-0.rar",
-        "Size": 22238060,
+        "Hash": "AP9CQldHp5k=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54858\nfileID=1000052819",
+        "Name": "Protective Guards - Factions and NPCs Protections-54858-1-5-1747066941.zip",
+        "Size": 5613,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tamriel Rebuilt Team",
-          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
-          "FileID": 1000007008,
+          "Author": "kuyondo and lelimule",
+          "Description": "This mod is an improvement of Protective Guards. Now the guards don\u0027t systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not. Furthermore, guards can protect NPCs too (example: if a NPC attacks another NPC), with the same rules",
+          "FileID": 1000052819,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54858/54858-1718720270-906162306.png",
           "IsNSFW": false,
-          "ModID": 42145,
-          "Name": "Tamriel Rebuilt",
-          "Version": "23.02.03"
+          "ModID": 54858,
+          "Name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u0tZ2ccqdd4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54148\nfileID=1000053305",
+        "Name": "OpenMW Skyrim Style Quest Notifications-54148-1-35-1747766737.zip",
+        "Size": 766302,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
+          "FileID": 1000053305,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54148/54148-1707850703-1609451237.png",
+          "IsNSFW": false,
+          "ModID": 54148,
+          "Name": "OpenMW Skyrim Style Quest Notifications",
+          "Version": "1.1"
         }
       }
     },
@@ -3794,63 +4151,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R73nUEGGCgM=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54585\nfileID=1000057953",
-        "Name": "Open-54585-1-26-1761508078.zip",
-        "Size": 21716,
+        "Hash": "+jLeifSilWA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57313\nfileID=1000058008",
+        "Name": "puremultimark-57313-2-3-1761647893.zip",
+        "Size": 37526,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Based on MWSE Animated Pickup by C3pa, telekinesis style effect when picking up items. Plus Sneak to Steal, block accidental thievery of items.",
-          "FileID": 1000057953,
+          "Author": "OwnlyMe",
+          "Description": "Just Lua, using vanilla spell effects",
+          "FileID": 1000058008,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54585/54585-1714851124-1692199516.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57313/57313-1755614208-341206144.png",
           "IsNSFW": false,
-          "ModID": 54585,
-          "Name": "OpenMW Animated Pickup and Sneak to Steal",
-          "Version": "1.02"
+          "ModID": 57313,
+          "Name": "(OpenMW) Pure Lua Multi Mark",
+          "Version": "1.8"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ebkPWjVULig=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54629\nfileID=1000055641",
-        "Name": "OpenMW lua helper utility-54629-0-56-1754247063.zip",
-        "Size": 2488737,
+        "Hash": "XEUOEp0Ogds=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54148\nfileID=1000059109",
+        "Name": "OpenMW Skyrim Style Quest Notifications-54148-1-36e-1765396130.zip",
+        "Size": 3193732,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taitechnic",
-          "Description": "UPDATE: Tamriel Rebuilt voiced dialogue ESP now properly supports TR release 24.12. Support mod for use by other OpenMW lua Mods only. Currently a WIP. Requires OpenMW 0.49.",
-          "FileID": 1000055641,
+          "Description": "MWSE Skyrim Style Quest Notifications by nazz190, modified for use in OpenMW. Adds popup notifications when you start or finish a quest, in the style of Skyrim. Requires OpenMW 0.49 or later.",
+          "FileID": 1000059109,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54629/54629-1715543708-1189011810.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54148/54148-1707850703-1609451237.png",
           "IsNSFW": false,
-          "ModID": 54629,
-          "Name": "OpenMW Lua helper utility",
-          "Version": "0.51"
+          "ModID": 54148,
+          "Name": "OpenMW Skyrim Style Quest Notifications",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HRLKHbx8p6Q=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56005\nfileID=1000055395",
-        "Name": "FreshLoot-56005-2-3-1753221664.zip",
-        "Size": 641515,
+        "Hash": "G9LguRuCOoU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56570\nfileID=1000052827",
+        "Name": "Fantasia Grass Mod-56570-1-0-1747077290.zip",
+        "Size": 391836731,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mym",
-          "Description": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments. Loots get more exciting and enemies more challenging. This mod supports over 3500 items types and 60.000 modifications applied to those items.",
-          "FileID": 1000055395,
+          "Author": "acidzebra",
+          "Description": "Funny grass mod for funny mushroom game.",
+          "FileID": 1000052827,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56005/56005-1739527942-1322849265.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56570/56570-1747067093-1816517082.png",
           "IsNSFW": false,
-          "ModID": 56005,
-          "Name": "Fresh Loot (OpenMW)",
-          "Version": "1.2.3"
+          "ModID": 56570,
+          "Name": "Fantasia Grass Mod",
+          "Version": "1.0"
         }
       }
     },
@@ -3899,6 +4256,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "PTcdTtcjxVI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56078\nfileID=1000050718",
+        "Name": "Talking Trains Speechcraft-openmw lua-56078-1-1-1740433564.7z",
+        "Size": 2737,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MISTERSMELLIES",
+          "Description": "Every dialogue opening will now increase speechcraft level your progress so you will slowly level your speechcraft over the course of the game.",
+          "FileID": 1000050718,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56078/56078-1740362922-222416125.png",
+          "IsNSFW": false,
+          "ModID": 56078,
+          "Name": "Talking Trains Speechcraft-openmw lua",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "GwLENWnlL1I=",
         "Meta": "[General]\ngameName=morrowind\nmodID=55293\nfileID=1000052019",
         "Name": "FairCare-55293-3-9-2-1745064288.zip",
@@ -3920,84 +4298,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JQ0joAIjlqk=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000052420",
-        "Name": "Tamriel Rebuilt 25.05.03-42145-25-05-03-1-1746300072.7z",
-        "Size": 62983667,
+        "Hash": "zeZZjIDmlAY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54585\nfileID=1000057989",
+        "Name": "OpenMW Animated Pickup and Shop Around-54585-1-26-1761604318.zip",
+        "Size": 21714,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tamriel Rebuilt Team",
-          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
-          "FileID": 1000052420,
+          "Author": "taitechnic",
+          "Description": "Based on MWSE Animated Pickup by C3pa, telekinesis style effect when picking up items. Plus Sneak to Steal, block accidental thievery of items.",
+          "FileID": 1000057989,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54585/54585-1714851124-1692199516.png",
           "IsNSFW": false,
-          "ModID": 42145,
-          "Name": "Tamriel Rebuilt",
-          "Version": "23.02.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/hkrStLMMEw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56298\nfileID=1000053171",
-        "Name": "OMW Achievements (v2.1.1)-56298-v2-1-1-1747576629.7z",
-        "Size": 134127,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Skooma Lover",
-          "Description": "OMW Achievements - a mod that adds the ability to get achievements to the game. There is support for the adding your own achievements (OpenMW 0.49\u002B required).",
-          "FileID": 1000053171,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56298/56298-1743731566-549072007.jpeg",
-          "IsNSFW": false,
-          "ModID": 56298,
-          "Name": "OMW Achievements",
-          "Version": "v2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+jLeifSilWA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57313\nfileID=1000058008",
-        "Name": "puremultimark-57313-2-3-1761647893.zip",
-        "Size": 37526,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OwnlyMe",
-          "Description": "Just Lua, using vanilla spell effects",
-          "FileID": 1000058008,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57313/57313-1755614208-341206144.png",
-          "IsNSFW": false,
-          "ModID": 57313,
-          "Name": "(OpenMW) Pure Lua Multi Mark",
-          "Version": "1.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "to+q7paseCU=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000054300",
-        "Name": "OpenMW Quest Menu-56273-1-3-0-1749568737.zip",
-        "Size": 11756,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roschl",
-          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
-          "FileID": 1000054300,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
-          "IsNSFW": false,
-          "ModID": 56273,
-          "Name": "OpenMW Quest Menu",
-          "Version": "1.0.0"
+          "ModID": 54585,
+          "Name": "OpenMW Animated Pickup and Sneak to Steal",
+          "Version": "1.02"
         }
       }
     },
@@ -4019,48 +4334,6 @@
           "ModID": 54148,
           "Name": "OpenMW Skyrim Style Quest Notifications",
           "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Wf4JOsiQKlM=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55264\nfileID=1000055366",
-        "Name": "Potential Character Progression-55264-1-1-1-1753078128.zip",
-        "Size": 36805,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Qlonever",
-          "Description": "An OpenMW lua mod aiming to make leveling up less bothersome while retaining player choice.",
-          "FileID": 1000055366,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55264/55264-1727742840-1048504920.png",
-          "IsNSFW": false,
-          "ModID": 55264,
-          "Name": "Potential Character Progression (OpenMW)",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G9LguRuCOoU=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56570\nfileID=1000052827",
-        "Name": "Fantasia Grass Mod-56570-1-0-1747077290.zip",
-        "Size": 391836731,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "acidzebra",
-          "Description": "Funny grass mod for funny mushroom game.",
-          "FileID": 1000052827,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56570/56570-1747067093-1816517082.png",
-          "IsNSFW": false,
-          "ModID": 56570,
-          "Name": "Fantasia Grass Mod",
-          "Version": "1.0"
         }
       }
     },
@@ -4109,42 +4382,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zeZZjIDmlAY=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54585\nfileID=1000057989",
-        "Name": "OpenMW Animated Pickup and Shop Around-54585-1-26-1761604318.zip",
-        "Size": 21714,
+        "Hash": "aTY4pm358W0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55032\nfileID=1000046515",
+        "Name": "ILFAS - Project Atlas Patch-55032-1-0-1722259211.zip",
+        "Size": 49425,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Based on MWSE Animated Pickup by C3pa, telekinesis style effect when picking up items. Plus Sneak to Steal, block accidental thievery of items.",
-          "FileID": 1000057989,
+          "Author": "Epoch",
+          "Description": "Patches for other mods to use distortion effects",
+          "FileID": 1000046515,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54585/54585-1714851124-1692199516.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55032/55032-1722196232-2103148375.png",
           "IsNSFW": false,
-          "ModID": 54585,
-          "Name": "OpenMW Animated Pickup and Sneak to Steal",
-          "Version": "1.02"
+          "ModID": 55032,
+          "Name": "OpenMW Distortion Effects Patches",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8sd6JMBByAw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55264\nfileID=1000047588",
-        "Name": "PotentialCharacterProgression-55264-1-0-2-1728245341.zip",
-        "Size": 32724,
+        "Hash": "ZCGqY+lSxRU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56005\nfileID=1000052596",
+        "Name": "FreshLoot-56005-2-0-3-1746648099.zip",
+        "Size": 629022,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Qlonever",
-          "Description": "An OpenMW lua mod aiming to make leveling up less bothersome while retaining player choice.",
-          "FileID": 1000047588,
+          "Author": "mym",
+          "Description": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments. Loots get more exciting and enemies more challenging. This mod supports over 3500 items types and 60.000 modifications applied to those items.",
+          "FileID": 1000052596,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55264/55264-1727742840-1048504920.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56005/56005-1739527942-1322849265.jpeg",
           "IsNSFW": false,
-          "ModID": 55264,
-          "Name": "Potential Character Progression (OpenMW)",
-          "Version": "1.0.2"
+          "ModID": 56005,
+          "Name": "Fresh Loot (OpenMW)",
+          "Version": "1.2.3"
         }
       }
     },
@@ -4193,21 +4466,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EtBwdEg7wTY=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=45399\nfileID=1000053268",
-        "Name": "Project Atlas-45399-0-7-5-1747751438.7z",
-        "Size": 199306196,
+        "Hash": "g+GVf9U/nTQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49616\nfileID=1000024242",
+        "Name": "Weapon Sheathing Additions-49616-1-1-1619889923.7z",
+        "Size": 193276,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Project Atlas Team",
-          "Description": "The goal of Project Atlas is to identify the most performance heavy areas of vanilla Morrowind and some popular mods and target high usage/strain meshes in those areas for atlasing. This effort involves reworking the UVs for those meshes and creating texture atlases to cover various sets.",
-          "FileID": 1000053268,
+          "Author": "Remiros",
+          "Description": "Adds sheaths to weapons that previously didn\u0027t have any",
+          "FileID": 1000024242,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45399/45399-1514933591-770966576.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49616/49616-1619867403-603446324.png",
           "IsNSFW": false,
-          "ModID": 45399,
-          "Name": "Project Atlas",
-          "Version": "0.7.1"
+          "ModID": 49616,
+          "Name": "Weapon Sheathing Additions",
+          "Version": "1.1"
         }
       }
     },
@@ -4298,147 +4571,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aTY4pm358W0=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55032\nfileID=1000046515",
-        "Name": "ILFAS - Project Atlas Patch-55032-1-0-1722259211.zip",
-        "Size": 49425,
+        "Hash": "0Op/YWGnxvU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57396\nfileID=1000057208",
+        "Name": "It Beats-57396-1-2-2-1759092857.zip",
+        "Size": 2976702,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Epoch",
-          "Description": "Patches for other mods to use distortion effects",
-          "FileID": 1000046515,
+          "Author": "Sosnoviy Bor",
+          "Description": "Feel the heartbeat of the Red Mountain.",
+          "FileID": 1000057208,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55032/55032-1722196232-2103148375.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57396/57396-1756839388-704760564.jpg",
           "IsNSFW": false,
-          "ModID": 55032,
-          "Name": "OpenMW Distortion Effects Patches",
-          "Version": "1.0"
+          "ModID": 57396,
+          "Name": "It Beats (OpenMW)",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UC3UOpAhSnw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000053707",
-        "Name": "OpenMW Quest Menu-56273-1-2-2-1748423877.zip",
-        "Size": 11218,
+        "Hash": "YGlLt7HZ8KU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=43484\nfileID=1000006922",
+        "Name": "Improved Weapon Meshes - Ebony-43484-1-2.7z",
+        "Size": 294604,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roschl",
-          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
-          "FileID": 1000053707,
+          "Author": "Pherim",
+          "Description": "New and more detailed meshes for all ebony weapons.",
+          "FileID": 1000006922,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/43484-1-1424071494.jpg",
           "IsNSFW": false,
-          "ModID": 56273,
-          "Name": "OpenMW Quest Menu",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZCGqY+lSxRU=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56005\nfileID=1000052596",
-        "Name": "FreshLoot-56005-2-0-3-1746648099.zip",
-        "Size": 629022,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mym",
-          "Description": "Fresh Loot dynamically improves random weapons, armors and clothing, by altering their properties or adding enchantments. Loots get more exciting and enemies more challenging. This mod supports over 3500 items types and 60.000 modifications applied to those items.",
-          "FileID": 1000052596,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56005/56005-1739527942-1322849265.jpeg",
-          "IsNSFW": false,
-          "ModID": 56005,
-          "Name": "Fresh Loot (OpenMW)",
-          "Version": "1.2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p13aikktGRs=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=45368\nfileID=1000014954",
-        "Name": "Diverse Blood-45368-1-41-1561159970.7z",
-        "Size": 1697066,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OffworldDevil",
-          "Description": "8 new blood textures for NPCs and creatures. 1k quality.",
-          "FileID": 1000014954,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45368/45368-1539479554-1021534936.png",
-          "IsNSFW": false,
-          "ModID": 45368,
-          "Name": "Diverse Blood",
-          "Version": "1.42"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WOSH8Gho1lw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57633\nfileID=1000057935",
-        "Name": "OpenMW Dynamic Animations-57633-1-02-1761427784.zip",
-        "Size": 701376,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Adds a bit of visual variance to NPC\u0027s, by customizing their walk style and adding some extra idle animations.",
-          "FileID": 1000057935,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57633/57633-1760646399-2125603799.png",
-          "IsNSFW": false,
-          "ModID": 57633,
-          "Name": "OpenMW Dynamic Animations",
-          "Version": "1.0a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jIZiPTbdQ6g=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000053675",
-        "Name": "OpenMW Quest Menu-56273-1-2-1-1748385729.zip",
-        "Size": 14332,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roschl",
-          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
-          "FileID": 1000053675,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
-          "IsNSFW": false,
-          "ModID": 56273,
-          "Name": "OpenMW Quest Menu",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6v8rG5xsz8I=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=46992\nfileID=1000040988",
-        "Name": "Protective Guards - OpenMW-46992-0-18-1699969680.7z",
-        "Size": 4857,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kindi",
-          "Description": "Guards protect against hostile NPCs.",
-          "FileID": 1000040988,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46992/46992-1563905467-1888870151.jpeg",
-          "IsNSFW": false,
-          "ModID": 46992,
-          "Name": "Protective Guards (OpenMW)",
-          "Version": "See.Files.Tab"
+          "ModID": 43484,
+          "Name": "Improved Weapon Meshes - Ebony",
+          "Version": "1.2"
         }
       }
     },
@@ -4466,6 +4634,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ebkPWjVULig=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54629\nfileID=1000055641",
+        "Name": "OpenMW lua helper utility-54629-0-56-1754247063.zip",
+        "Size": 2488737,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "UPDATE: Tamriel Rebuilt voiced dialogue ESP now properly supports TR release 24.12. Support mod for use by other OpenMW lua Mods only. Currently a WIP. Requires OpenMW 0.49.",
+          "FileID": 1000055641,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54629/54629-1715543708-1189011810.png",
+          "IsNSFW": false,
+          "ModID": 54629,
+          "Name": "OpenMW Lua helper utility",
+          "Version": "0.51"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5bcSmRyEsVA=",
         "Meta": "[General]\ngameName=morrowind\nmodID=53667\nfileID=1000058804",
         "Name": "Rafael\u0027s Shader Pack 1.9b-53667-1-9b-1764519482.7z",
@@ -4481,6 +4670,27 @@
           "ModID": 53667,
           "Name": "Rafael\u0027s Shader Pack",
           "Version": "1.1b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sf22Qv35+PE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54629\nfileID=1000050473",
+        "Name": "OpenMW lua helper utility-54629-0-55-1739825291.zip",
+        "Size": 2488199,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "taitechnic",
+          "Description": "UPDATE: Tamriel Rebuilt voiced dialogue ESP now properly supports TR release 24.12. Support mod for use by other OpenMW lua Mods only. Currently a WIP. Requires OpenMW 0.49.",
+          "FileID": 1000050473,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54629/54629-1715543708-1189011810.png",
+          "IsNSFW": false,
+          "ModID": 54629,
+          "Name": "OpenMW Lua helper utility",
+          "Version": "0.51"
         }
       }
     },
@@ -4571,48 +4781,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0Op/YWGnxvU=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=57396\nfileID=1000057208",
-        "Name": "It Beats-57396-1-2-2-1759092857.zip",
-        "Size": 2976702,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sosnoviy Bor",
-          "Description": "Feel the heartbeat of the Red Mountain.",
-          "FileID": 1000057208,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57396/57396-1756839388-704760564.jpg",
-          "IsNSFW": false,
-          "ModID": 57396,
-          "Name": "It Beats (OpenMW)",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MJIJxbhDCIM=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000052839",
-        "Name": "OpenMW Quest Menu 1.1.1-56273-1-1-1-1747088331.zip",
-        "Size": 9882,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roschl",
-          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
-          "FileID": 1000052839,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
-          "IsNSFW": false,
-          "ModID": 56273,
-          "Name": "OpenMW Quest Menu",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "InZ5zzTT97A=",
         "Meta": "[General]\ngameName=morrowind\nmodID=55687\nfileID=1000052716",
         "Name": "Diverse Blood for Tamriel Data-55687-1-1-1746829110.7z",
@@ -4628,48 +4796,6 @@
           "ModID": 55687,
           "Name": "Diverse Blood for Tamriel Rebuilt and Project Tamriel",
           "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CU+I2MS7BUw=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=55572\nfileID=1000058273",
-        "Name": "OpenMW Dynamic Ambient Visual Effects-55572-1-18-1762726788.zip",
-        "Size": 891591,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "Now under a new name! NEW : Floating dust in tombs and crypts. This mod adds ambient visuals: Smoking candles, lightning strikes, moths around lanterns, and more.",
-          "FileID": 1000058273,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55572/55572-1741462216-1564911577.png",
-          "IsNSFW": false,
-          "ModID": 55572,
-          "Name": "OpenMW Dynamic Ambient Visual Effects",
-          "Version": "1.16b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1TuQCmOTZag=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000054760",
-        "Name": "Tamriel Rebuilt 25.06.28-42145-25-06-28-1751085787.7z",
-        "Size": 64476043,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tamriel Rebuilt Team",
-          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
-          "FileID": 1000054760,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
-          "IsNSFW": false,
-          "ModID": 42145,
-          "Name": "Tamriel Rebuilt",
-          "Version": "23.02.03"
         }
       }
     },
@@ -4760,6 +4886,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "8sd6JMBByAw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55264\nfileID=1000047588",
+        "Name": "PotentialCharacterProgression-55264-1-0-2-1728245341.zip",
+        "Size": 32724,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Qlonever",
+          "Description": "An OpenMW lua mod aiming to make leveling up less bothersome while retaining player choice.",
+          "FileID": 1000047588,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55264/55264-1727742840-1048504920.png",
+          "IsNSFW": false,
+          "ModID": 55264,
+          "Name": "Potential Character Progression (OpenMW)",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "tMpX9p0/xxU=",
         "Meta": "[General]\ngameName=morrowind\nmodID=45714\nfileID=1000052578",
         "Name": "Bloodmoon Rebalance-45714-1-3-1746630036.zip",
@@ -4802,21 +4949,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d8+lYaqTAwk=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=46720\nfileID=1000034143",
-        "Name": "Dubdilla Location Fix-46720-1-1-1671026591.7z",
-        "Size": 4196,
+        "Hash": "EtBwdEg7wTY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45399\nfileID=1000053268",
+        "Name": "Project Atlas-45399-0-7-5-1747751438.7z",
+        "Size": 199306196,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Half11",
-          "Description": "This mod fixes another one of Beth\u0027s oversights. One of MW\u0027s quests has voiced dialogue that sends you to a totally different location than where the quest actually takes place. I just put the cave entrance in a more logical location.",
-          "FileID": 1000034143,
+          "Author": "Project Atlas Team",
+          "Description": "The goal of Project Atlas is to identify the most performance heavy areas of vanilla Morrowind and some popular mods and target high usage/strain meshes in those areas for atlasing. This effort involves reworking the UVs for those meshes and creating texture atlases to cover various sets.",
+          "FileID": 1000053268,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46720/46720-1557409497-669842670.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45399/45399-1514933591-770966576.png",
           "IsNSFW": false,
-          "ModID": 46720,
-          "Name": "Dubdilla Location Fix",
-          "Version": "1.1"
+          "ModID": 45399,
+          "Name": "Project Atlas",
+          "Version": "0.7.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UC3UOpAhSnw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000053707",
+        "Name": "OpenMW Quest Menu-56273-1-2-2-1748423877.zip",
+        "Size": 11218,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Roschl",
+          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
+          "FileID": 1000053707,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
+          "IsNSFW": false,
+          "ModID": 56273,
+          "Name": "OpenMW Quest Menu",
+          "Version": "1.0.0"
         }
       }
     },
@@ -4886,168 +5054,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1xRCqUrbp1g=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=51820\nfileID=1000033090",
-        "Name": "Journal and Scrolls - Scroll 1-51820-1-0-1663270168.7z",
-        "Size": 1220907,
+        "Hash": "jIZiPTbdQ6g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56273\nfileID=1000053675",
+        "Name": "OpenMW Quest Menu-56273-1-2-1-1748385729.zip",
+        "Size": 14332,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "marblemist",
-          "Description": "A selection of four new scroll textures to choose from, alongside an enhanced journal texture.",
-          "FileID": 1000033090,
+          "Author": "Roschl",
+          "Description": "This mod adds a quest menu that displays all quests. The menu can be opened by pressing the X key. Clicking on a quest reveals the journal entries associated with that quest.",
+          "FileID": 1000053675,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51820/51820-1663268981-2061373911.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56273/56273-1746357939-2013392362.jpeg",
           "IsNSFW": false,
-          "ModID": 51820,
-          "Name": "Journal and Scrolls",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kgInHybzpFk=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54858\nfileID=1000052506",
-        "Name": "Protective Guards - Factions and NPCs Protections-54858-1-4-1746481983.zip",
-        "Size": 5588,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kuyondo and lelimule",
-          "Description": "This mod is an improvement of Protective Guards. Now the guards don\u0027t systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not. Furthermore, guards can protect NPCs too (example: if a NPC attacks another NPC), with the same rules",
-          "FileID": 1000052506,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54858/54858-1718720270-906162306.png",
-          "IsNSFW": false,
-          "ModID": 54858,
-          "Name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SwlHyyFbttE=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54629\nfileID=1000059280",
-        "Name": "Dialogue ESP for Patch for Purists v5.0.6-54629-0-56e-1765919585.zip",
-        "Size": 602197,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "taitechnic",
-          "Description": "UPDATE: Tamriel Rebuilt voiced dialogue ESP now properly supports TR release 24.12. Support mod for use by other OpenMW lua Mods only. Currently a WIP. Requires OpenMW 0.49.",
-          "FileID": 1000059280,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54629/54629-1715543708-1189011810.png",
-          "IsNSFW": false,
-          "ModID": 54629,
-          "Name": "OpenMW Lua helper utility",
-          "Version": "0.51"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JrsAK/5y5Lo=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=50445\nfileID=1000052488",
-        "Name": "TR Dra-Vashai418-50445-2-0-1746466892.7z",
-        "Size": 14751,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Denis418",
-          "Description": "Rescue a slave and help him reach Old Ebonheart.",
-          "FileID": 1000052488,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50445/50445-1637248125-209696262.jpeg",
-          "IsNSFW": false,
-          "ModID": 50445,
-          "Name": "Tamriel Rebuilt Introduction Quest - Help a Khajiit reach the City of Good People",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AP9CQldHp5k=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=54858\nfileID=1000052819",
-        "Name": "Protective Guards - Factions and NPCs Protections-54858-1-5-1747066941.zip",
-        "Size": 5613,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kuyondo and lelimule",
-          "Description": "This mod is an improvement of Protective Guards. Now the guards don\u0027t systematically protect the player; it depends of the guard/attacker/defensor faction, and possibly of attacker/defensor rank, and possibly if attacker/defensor is a guard or not. Furthermore, guards can protect NPCs too (example: if a NPC attacks another NPC), with the same rules",
-          "FileID": 1000052819,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54858/54858-1718720270-906162306.png",
-          "IsNSFW": false,
-          "ModID": 54858,
-          "Name": "Protective Guards - Factions and NPCs Protections (OpenMW)",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uXlWh9BktI4=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=44420\nfileID=1000022312",
-        "Name": "Enchanting Balance Redone - OpenMW Version-44420-3-1-1609443566.zip",
-        "Size": 469,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SenseiMewtwo12345",
-          "Description": "",
-          "FileID": 1000022312,
-          "GameName": "Morrowind",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 44420,
-          "Name": "Enchanting Balance Redone",
-          "Version": "3.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8qFWzKLdz80=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=56788\nfileID=1000054149",
-        "Name": "TR Newspaper Spawns on Vvardenfell-56788-1-0-1-1749198031.zip",
-        "Size": 8527,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TipsyTechPriest",
-          "Description": "Places spawns of the Canyon Echo and Ebonheart Bellman in appropriate places on Vvardenfell.",
-          "FileID": 1000054149,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56788/56788-1748530837-2045343954.png",
-          "IsNSFW": false,
-          "ModID": 56788,
-          "Name": "TR Newspapers on Vvardenfell",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ThVnC9nFexU=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=44922\nfileID=1000049015",
-        "Name": "Cyr_Main-44922-24-12a-1735079448.7z",
-        "Size": 12009566,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ProvinceCyrodiil",
-          "Description": "PRE-ALPHA. Located between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.",
-          "FileID": 1000049015,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44922-10-1493673501.png",
-          "IsNSFW": false,
-          "ModID": 44922,
-          "Name": "Province Cyrodiil",
-          "Version": "22.12"
+          "ModID": 56273,
+          "Name": "OpenMW Quest Menu",
+          "Version": "1.0.0"
         }
       }
     }
