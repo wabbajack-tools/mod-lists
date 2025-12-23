@@ -25,7 +25,7 @@
 *  [Simple Creation Club Delayed NG-84393-1-1-0-1743445279.7z](https://www.nexusmods.com/fallout4/mods/84393/?tab=files&file_id=352493)
 *  [Simple Everyone's Best Friend-92314-1-1-1-1762012053.7z](https://www.nexusmods.com/fallout4/mods/92314/?tab=files&file_id=372036)
 *  [Simple Fallout 4 Downgrader - for v1.10.984-81933-0-3-1721026950.7z](https://www.nexusmods.com/fallout4/mods/81933/?tab=files&file_id=326792)
+*  [Simple Fallout 4 Downgrader - for v1.11.191-81933-0-3-1766437577.7z](https://www.nexusmods.com/fallout4/mods/81933/?tab=files&file_id=378352)
 *  [Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=270951)
-*  [Unofficial Fallout 4 Patch-4598-2-2-0-1764111107.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=375405)
 *  [Unofficial Fallout 4 Patch-4598-2-2-0a-1764564421.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=376040)
 *  [Weapon Debris Crash Fix-48078-1-3-1714835670.zip](https://www.nexusmods.com/fallout4/mods/48078/?tab=files&file_id=314112)
