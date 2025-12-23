@@ -1103,7 +1103,7 @@
 *  [Repair Kit - 1k-89809-1-1731095813.zip](https://www.nexusmods.com/newvegas/mods/89809/?tab=files&file_id=1000142596)
 *  [replacers 01-88405-1-02-1763866736.zip](https://www.nexusmods.com/newvegas/mods/88405/?tab=files&file_id=1000161863)
 *  [robco error V2-74643-1-0-1640080501.zip](https://www.nexusmods.com/newvegas/mods/74643/?tab=files&file_id=1000085385)
-*  [Root Builder 5.0.5-31720-5-0-5-1722935359.zip](https://www.nexusmods.com/newvegas/mods/31720/?tab=files&file_id=528774)
+*  [rootbuilder.5.0.5.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip)
 *  [saltex plaspistol 2k-90581-1-0-1736733726.7z](https://www.nexusmods.com/newvegas/mods/90581/?tab=files&file_id=1000145286)
 *  [SALTEX Sentry 2k-89905-1-0-1731797316.7z](https://www.nexusmods.com/newvegas/mods/89905/?tab=files&file_id=1000143027)
 *  [Sandcrete Kit-48139-1-1.zip](https://www.nexusmods.com/newvegas/mods/48139/?tab=files&file_id=110129)
