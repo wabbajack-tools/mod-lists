@@ -10,7 +10,6 @@ System.Text.Json.JsonException: '"' is invalid after a value. Expected either ',
    at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
    at System.Text.Json.Utf8JsonReader.ConsumeNextTokenUntilAfterAllCommentsAreSkipped(Byte marker)
    at System.Text.Json.Utf8JsonReader.ConsumeNextToken(Byte marker)
-   at System.Text.Json.Utf8JsonReader.ConsumeNextTokenOrRollback(Byte marker)
    at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
    at System.Text.Json.Utf8JsonReader.Read()
    at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
