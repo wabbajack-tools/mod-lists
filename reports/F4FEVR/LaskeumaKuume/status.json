@@ -1,8 +1,8 @@
 {
   "MachineURL": "F4FEVR/LaskeumaKuume",
   "Name": "F4FEVR",
-  "Version": "0.3.0.5",
-  "ModListHash": "PKm2Ccg5uos=",
+  "Version": "0.3.1",
+  "ModListHash": "1hBKcF3D8ts=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,41 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "siA3qyL/kTk=",
-        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4sevr_0_6_21.7z",
-        "Name": "f4sevr_0_6_21.7z",
-        "Size": 593089,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": "",
-          "FileID": 324296,
-          "GameName": "Fallout4",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 42159,
-          "Name": "Fallout 4 Script Extender VR (F4SEVR)",
-          "Version": "0.6.21"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AjaLvpIKsH4=",
-        "Meta": "[General]\ndirectURL=https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z",
-        "Name": "xEdit.4.0.4.7z",
-        "Size": 14994346,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z"
         }
       }
     },
@@ -77,21 +42,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YUKLpKgWxhI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58830\nfileID=232577",
-        "Name": "VRCP_NAC-58830-1-0-1647872677.zip",
-        "Size": 123848,
+        "Hash": "/M9XajKhjEY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57789\nfileID=241990",
+        "Name": "Burst Impact Blast FX-57789-9-51-1656568465.zip",
+        "Size": 44824998,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ap05",
+          "Description": "Burst Impact Blast FX MOD changes the fallout4 particle effect.\n\nFallout 4 Effect is not cool. So I change it coolly like the latest FPS game.\n\nAll the resources I modified are those included in Fallout 4.",
+          "FileID": 241990,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57789/57789-1643876472-2104366496.png",
+          "IsNSFW": false,
+          "ModID": 57789,
+          "Name": "Burst Impact Blast FX",
+          "Version": "9.51"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WwEFYFcVu5A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63328\nfileID=274343",
+        "Name": "VRCP_CWPointLookoutFO4-63328-1-0-1-1681732611.zip",
+        "Size": 24927536,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mith077",
-          "Description": "Fill last few gaps between Fallout 4 VR and NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition.\n\n\n\nCTD fix for Rad Weather, rain particle adjustment, flashlight patch and others.",
-          "FileID": 232577,
+          "Description": "Fallout 4 VR Compatibility Patch for large scale world expansion: Fallout 4 - Point Lookout.\n\n\n\nIncludes missing ground fix, un-extended dialogues, general freeze and CTD fixes.",
+          "FileID": 274343,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58830/58830-1647359640-1550084858.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63328/63328-1661002975-752979143.jpeg",
           "IsNSFW": false,
-          "ModID": 58830,
-          "Name": "Fallout 4 VR Compatibility Patch for NAC X",
-          "Version": "1.0"
+          "ModID": 63328,
+          "Name": "Fallout 4 VR Compatibility Patch for Point Lookout",
+          "Version": "1.0.1"
         }
       }
     },
@@ -112,83 +98,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8pv2CuAH1pM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=376649",
-        "Name": "FRIK 76-53464-v0-76-1765038593.7z",
-        "Size": 11077714,
+        "Hash": "H0olJD3bi6U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54933\nfileID=218855",
+        "Name": "Makeshift Textures - 2K-54933-1-2-1633781097.7z",
+        "Size": 480843445,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rollingrock-alandtse-shizof-CylonSurfer",
-          "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
-          "FileID": 376649,
+          "Author": "Gmoi",
+          "Description": "A full retexture for the Pipe Gun series, including the pipe revolver and the Syringer. \n\nCustom cubemaps for new and improved dirty reflections.\n\nThe recon scope is also thrown in as a bonus.",
+          "FileID": 218855,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54933/54933-1633637186-113836101.png",
           "IsNSFW": false,
-          "ModID": 53464,
-          "Name": "FRIK - Full Player Body with IK",
-          "Version": "v0.58"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bPpp8AgekK4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35909\nfileID=198172",
-        "Name": "KabutoVR - Version 3.2.0-35909-3-2-0-1609672374.zip",
-        "Size": 105663277,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cylon_Surfer",
-          "Description": "Kabuto:VR is an immersive Power Armor helmet replacement mod for \u0027Fallout 4 VR\u0027 which replaces the lackluster semi-transparent Power Armor HUD with a selection of fully enclosed helmets based on the games original helmet meshes - with a little \u0022artistic license\u0022. Now includes optional P.A.F.A.S (Power Armor Frame Activation System) Module.",
-          "FileID": 198172,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35909/35909-1609671585-2001392204.jpeg",
-          "IsNSFW": false,
-          "ModID": 35909,
-          "Name": "Kabuto VR",
-          "Version": "3.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "m5k+n8IAurk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73394\nfileID=371313",
-        "Name": "Sim Settlements 2 - All Chapters Pack-73394-3-5-0a-1761406134.zip",
-        "Size": 7929224150,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sim Settlements Team",
-          "Description": "Chapter 3 finishes the story of Sim Settlements 2. Take your settlements to war, capture non-settlement territories, and gather allies to help you fight back the Gunner Invasion!",
-          "FileID": 371313,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73394/73394-1691007678-504016188.jpeg",
-          "IsNSFW": false,
-          "ModID": 73394,
-          "Name": "Sim Settlements 2 - Chapter 3",
-          "Version": "3.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qUwScZ2wGnk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41568\nfileID=179403",
-        "Name": "WAVE-41568-1-2-1586794752.7z",
-        "Size": 5757063,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CaptainCockerel",
-          "Description": "No more elastic waves in the Commonwealth. Brand new effects and textures with a more realistic motion.",
-          "FileID": 179403,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41568/41568-1586242866-1712013754.jpeg",
-          "IsNSFW": false,
-          "ModID": 41568,
-          "Name": "WAVE - Wave Animation Vanilla Enhanced",
+          "ModID": 54933,
+          "Name": "Scrap metal and makeshift welds - A Pipe Gun Retexture",
           "Version": "1.2"
         }
       }
@@ -196,21 +119,56 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zig33o/Ql3o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53777\nfileID=214727",
-        "Name": "Customizable Loading Screen VR-53777-1-0-1628970384.7z",
-        "Size": 941247,
+        "Hash": "5oE0TJ5JNHc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23389\nfileID=317812",
+        "Name": "Wetness Shader Fix-23389-3-6-3-1716206524.7z",
+        "Size": 148763492,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KhaoMaat",
-          "Description": "Centers loading screen elements in VR and provides a number of options to customize the appearance.",
-          "FileID": 214727,
+          "Author": "Ablaze666",
+          "Description": "This small mod fixes the exaggerated shine of specific objects while it\u0027s raining.",
+          "FileID": 317812,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53777/53777-1628975134-989755779.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg",
           "IsNSFW": false,
-          "ModID": 53777,
-          "Name": "Customizable Loading Screen VR",
-          "Version": "1.0"
+          "ModID": 23389,
+          "Name": "Wetness Shader Fix",
+          "Version": "3.6.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AjaLvpIKsH4=",
+        "Meta": "[General]\ndirectURL=https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z",
+        "Name": "xEdit.4.0.4.7z",
+        "Size": 14994346,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "siA3qyL/kTk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42159\nfileID=324296",
+        "Name": "f4sevr_0_6_21.7z",
+        "Size": 593089,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": "",
+          "FileID": 324296,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 42159,
+          "Name": "Fallout 4 Script Extender VR (F4SEVR)",
+          "Version": "0.6.21"
         }
       }
     },
@@ -226,6 +184,27 @@
           "Author": "m8r98a4f2",
           "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
           "FileID": 210547,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
+          "IsNSFW": false,
+          "ModID": 48758,
+          "Name": "FallUI - Inventory",
+          "Version": "2.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aQ5TaIzbLnY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=206079",
+        "Name": "(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar",
+        "Size": 616755,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
+          "FileID": 206079,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
           "IsNSFW": false,
@@ -259,77 +238,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qZufImVUXhE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=91141\nfileID=374487",
-        "Name": "Creation Club Update for Fallout 4 VR -LITE--91141-1-1-0-1763565028.zip",
-        "Size": 1221460,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Engine fixes for those looking for a \u0027happy escape\u0027 into Virtual Reality.\n\nF4SE universal plugin that supports both Fallout 4 OG / NG / VR.",
-          "FileID": 374487,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91141/91141-1762444163-298955377.jpg",
-          "IsNSFW": false,
-          "ModID": 91141,
-          "Name": "Daytripper 4",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/M9XajKhjEY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57789\nfileID=241990",
-        "Name": "Burst Impact Blast FX-57789-9-51-1656568465.zip",
-        "Size": 44824998,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ap05",
-          "Description": "Burst Impact Blast FX MOD changes the fallout4 particle effect.\n\nFallout 4 Effect is not cool. So I change it coolly like the latest FPS game.\n\nAll the resources I modified are those included in Fallout 4.",
-          "FileID": 241990,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57789/57789-1643876472-2104366496.png",
-          "IsNSFW": false,
-          "ModID": 57789,
-          "Name": "Burst Impact Blast FX",
-          "Version": "9.51"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hCnmtixwCGk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13488\nfileID=211813",
-        "Name": "Crows and Creatures Collection 1.6-13488-V1-6-1625340654.rar",
-        "Size": 710575331,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xazomn",
-          "Description": "Complete Creatures Overhaul HQ \u0026amp; Unique realistic Textures. All created with Photo resources \u0026amp; hand painted.",
-          "FileID": 211813,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13488-1-1463229220.jpg",
-          "IsNSFW": false,
-          "ModID": 13488,
-          "Name": "Crows And Creatures",
-          "Version": "V1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qjGn3wqXsjo=",
-        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/MCM_VR.zip",
-        "Name": "MCM_VR.zip",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=316521",
+        "Name": "MCM_VR-21497-1-0-0-1715710309.zip",
         "Size": 374641,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/MCM_VR.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reg2k - Neanka - shadowslasher410",
+          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+          "FileID": 316521,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "IsNSFW": false,
+          "ModID": 21497,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.39"
         }
       }
     },
@@ -357,63 +280,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dAxqoyTwCQE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=353864",
-        "Name": "Virtual Holsters v3.0.7-51224-3-0-7-1744885937.zip",
-        "Size": 5380873,
+        "Hash": "CvLVBi1mnDM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=91141\nfileID=376125",
+        "Name": "Daytripper4-91141-1-2-0-1764604560.7z",
+        "Size": 5712105,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CylonSurfer",
-          "Description": "Adds 7 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
-          "FileID": 353864,
+          "Author": "mith077",
+          "Description": "Engine fixes for those looking for a \u0027happy escape\u0027 into Virtual Reality.\n\nF4SE universal plugin that supports both Fallout 4 OG / NG / VR.",
+          "FileID": 376125,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51224/51224-1628104334-927879350.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91141/91141-1762444163-298955377.jpg",
           "IsNSFW": false,
-          "ModID": 51224,
-          "Name": "Virtual Holsters",
-          "Version": "2.1.0"
+          "ModID": 91141,
+          "Name": "Daytripper 4",
+          "Version": "1.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4KkbhkJxL00=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48826\nfileID=287728",
-        "Name": "M8r98a4f2\u0027s Complex Item Sorter-48826-1-12-0-1692791377.7z",
-        "Size": 168476,
+        "Hash": "8pv2CuAH1pM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=376649",
+        "Name": "FRIK 76-53464-v0-76-1765038593.7z",
+        "Size": 11077714,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Automatically add item sorting tags to all items for all common item sorters. Highly versatile and completely configurable: custom processing rules, custom tag sets, custom naming rules. You can just change anything to your liking. Standard rules support most custom mods out-of-the-box.",
-          "FileID": 287728,
+          "Author": "rollingrock-alandtse-shizof-CylonSurfer",
+          "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
+          "FileID": 376649,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1636805582-768817055.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
           "IsNSFW": false,
-          "ModID": 48826,
-          "Name": "M8r98a4f2\u0027s Complex Item Sorter",
-          "Version": "1.12.0"
+          "ModID": 53464,
+          "Name": "FRIK - Full Player Body with IK",
+          "Version": "v0.58"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cUvwlnWizZE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=15909\nfileID=89032",
-        "Name": "DKS-501 Sniper Rifle 1.5-15909-1-5.7z",
-        "Size": 89550935,
+        "Hash": "xYu2V5EwlbU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=99342\nfileID=378413",
+        "Name": "Immersive Flashlight VR-99342-0-8-0-1766512367.7z",
+        "Size": 6291707,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LtCommander",
-          "Description": "The iconic long range weapon of the Fallout Series makes its return as a fully moddable gun in the Commonwealth!",
-          "FileID": 89032,
+          "Author": "LHAdonis",
+          "Description": "A highly versatile and configurable Pip-Boy flashlight replacement mod that allows the player to hold the flashlight in hand, attach it to the head, or mount it on a weapon, with separate per-mode settings for beam intensity, distance, spread, color, and gobo.",
+          "FileID": 378413,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15909-0-1475346348.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/99342/99342-1766514697-1531610530.png",
           "IsNSFW": false,
-          "ModID": 15909,
-          "Name": "DKS-501 Sniper Rifle - Standalone",
-          "Version": "1.5"
+          "ModID": 99342,
+          "Name": "Immersive Flashlight VR",
+          "Version": "0.8.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bPpp8AgekK4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35909\nfileID=198172",
+        "Name": "KabutoVR - Version 3.2.0-35909-3-2-0-1609672374.zip",
+        "Size": 105663277,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cylon_Surfer",
+          "Description": "Kabuto:VR is an immersive Power Armor helmet replacement mod for \u0027Fallout 4 VR\u0027 which replaces the lackluster semi-transparent Power Armor HUD with a selection of fully enclosed helmets based on the games original helmet meshes - with a little \u0022artistic license\u0022. Now includes optional P.A.F.A.S (Power Armor Frame Activation System) Module.",
+          "FileID": 198172,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35909/35909-1609671585-2001392204.jpeg",
+          "IsNSFW": false,
+          "ModID": 35909,
+          "Name": "Kabuto VR",
+          "Version": "3.2.0"
         }
       }
     },
@@ -441,433 +385,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5ba+z69hDuY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44691\nfileID=187294",
-        "Name": "ImmersiveChembenches-CleanVersion-44691-1-01-Alternate-1595297526.zip",
-        "Size": 1476622,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jimmygitto",
-          "Description": "Very simple no-esp model replacer for the Chemistry Stations to make them more immersive for crafting everything.\n\n\n\nAlso with an ESL-flagged ESP option (doesn\u0027t count towards your load order limit) which lets you craft the 4 alternate models.",
-          "FileID": 187294,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44691/44691-1587922780-1782943331.jpeg",
-          "IsNSFW": false,
-          "ModID": 44691,
-          "Name": "Simple Immersive Chem Benches for Crafting",
-          "Version": "1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wADLDHVcfpw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=19342\nfileID=79368",
-        "Name": "Varmint Rifle-19342-1-4.rar",
-        "Size": 47860867,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "asXas",
-          "Description": "Adds the classic Varmint Rifle from Fallout: New Vegas to Fallout 4 with new Animations/Models/Textures.",
-          "FileID": 79368,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19342-0-1476739104.jpg",
-          "IsNSFW": false,
-          "ModID": 19342,
-          "Name": "Varmint Rifle - The Return",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UrngTLqHXC0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47730\nfileID=192413",
-        "Name": "Fallout 3-style Vats Screech-47730-1-15-1601656963.zip",
-        "Size": 11327,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "John3575",
-          "Description": "Remember Fallout 3, where the VATS screech also played when exiting VATS? This mod brings that back.",
-          "FileID": 192413,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47730/47730-1601653241-1789252228.png",
-          "IsNSFW": false,
-          "ModID": 47730,
-          "Name": "Fallout 3-styled VATS Exit Sound",
-          "Version": "1.15"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cbdKujR+pJ0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=359996",
-        "Name": "VRCP_DOOMMerged-56405-2-0-1-1750944210.7z",
-        "Size": 30708249,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
-          "FileID": 359996,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
-          "IsNSFW": false,
-          "ModID": 56405,
-          "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WwEFYFcVu5A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63328\nfileID=274343",
-        "Name": "VRCP_CWPointLookoutFO4-63328-1-0-1-1681732611.zip",
-        "Size": 24927536,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Fallout 4 VR Compatibility Patch for large scale world expansion: Fallout 4 - Point Lookout.\n\n\n\nIncludes missing ground fix, un-extended dialogues, general freeze and CTD fixes.",
-          "FileID": 274343,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63328/63328-1661002975-752979143.jpeg",
-          "IsNSFW": false,
-          "ModID": 63328,
-          "Name": "Fallout 4 VR Compatibility Patch for Point Lookout",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CASJGvB4KPk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=345590",
-        "Name": "LOST Audio Tweaks-38448-6-0a-1737221373.zip",
-        "Size": 132434632,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mortercotic",
-          "Description": "My attempt to improve the audio from Fallout 4. Collection of sound tweaks, fixes and other packs!",
-          "FileID": 345590,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
-          "IsNSFW": false,
-          "ModID": 38448,
-          "Name": "LOST Audio Tweaks (LAT)",
-          "Version": "4.1.2hotfix"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sDSB39SbEkc=",
-        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR Point Lookout Patch.7z",
-        "Name": "F4FEVR Point Lookout Patch.7z",
-        "Size": 17401225,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR%20Point%20Lookout%20Patch.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1V5Pa+Z0fyA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=323314",
-        "Name": "xSE PluginPreloader F4 0.3-33946-0-3-1718686029.zip",
-        "Size": 2497829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "This mod allows preload F4SE plugins before the game initializes.",
-          "FileID": 323314,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
-          "IsNSFW": false,
-          "ModID": 33946,
-          "Name": "xSE PluginPreloader F4",
-          "Version": "0.2.5.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YHJcCpaY5yI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62843\nfileID=246599",
-        "Name": "Perk Up-62843-1-1-1660399659.7z",
-        "Size": 60375,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Makes Fallout less annoying to play by fixing bugged perks, making underused perks viable and automating low skill actions.",
-          "FileID": 246599,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62843/62843-1659531328-97607560.jpeg",
-          "IsNSFW": false,
-          "ModID": 62843,
-          "Name": "Perk Up - Lightweight Perk Overhaul",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aHXgdm544HU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=34419\nfileID=140048",
-        "Name": "Reflective Water - DLC (Requires Far Harbor and Nuka World)-34419-1-0.zip",
-        "Size": 1263,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Androl",
-          "Description": "This mod tweaks water settings to make water more physically accurate, removing the fake water color and increasing the brightness of real reflections.",
-          "FileID": 140048,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34419/34419-1535667008-1099411718.png",
-          "IsNSFW": false,
-          "ModID": 34419,
-          "Name": "Reflective Water",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0qDgwEiDQyw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51556\nfileID=206314",
-        "Name": "FallUI - HUD VR-51556-1-1c-1618916989.rar",
-        "Size": 281945,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "FallUI HUD for Fallout 4 VR improves the in-world displays for usage with Item Sorters.",
-          "FileID": 206314,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51556/51556-1618869815-542887874.png",
-          "IsNSFW": false,
-          "ModID": 51556,
-          "Name": "FallUI - HUD VR",
-          "Version": "1.1c"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pGzyS5nyQCQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=91141\nfileID=376634",
-        "Name": "Daytripper4-91141-1-2-1-1765025048.7z",
-        "Size": 5671915,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Engine fixes for those looking for a \u0027happy escape\u0027 into Virtual Reality.\n\nF4SE universal plugin that supports both Fallout 4 OG / NG / VR.",
-          "FileID": 376634,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91141/91141-1762444163-298955377.jpg",
-          "IsNSFW": false,
-          "ModID": 91141,
-          "Name": "Daytripper 4",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ah7vdbiNdNc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=16425\nfileID=75900",
-        "Name": "Vivid Waters-16425-1-10.zip",
-        "Size": 325116,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mangaclub",
-          "Description": "This mod aims to overhaul the Water textures, reflections, opacity, specularity and general look of the water in Fallout 4 to be more realistic and water like.",
-          "FileID": 75900,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16425-8-1468443584.png",
-          "IsNSFW": false,
-          "ModID": 16425,
-          "Name": "Vivid Waters - a Water overhaul for Fallout 4",
-          "Version": "1.10"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RMoweGp5CF0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=93056\nfileID=353805",
-        "Name": "True Rain-93056-1-0-1744807433.zip",
-        "Size": 15578410,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Decapper",
-          "Description": "I\u0027m sure all those weather/rain mods look good on flat screen. But in VR they look terrible. Pause the game when its rain and have a close look at the rain shards, vomit. So I decided to do something about it. Enjoy my realistic rain mod for Truestorms or vanilla.",
-          "FileID": 353805,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/93056/93056-1744807209-1372014511.jpeg",
-          "IsNSFW": false,
-          "ModID": 93056,
-          "Name": "True Rain VR or Flat - including patch for True Storms",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bJh1larbDoE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72502\nfileID=281827",
-        "Name": "Bullet Time V.A.T.S VR-72502-b1-1-1687992577.zip",
-        "Size": 38923,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cobal",
-          "Description": "A true Bullet Time V.A.T.S experience in VR. \n\n\n\nThe common methods to turn V.A.T.S into bullet time breaks perks and things that are based on hit effects.   \n\nThis mod aims to solve those problems and provide proper Bullet Time V.A.T.S in VR.",
-          "FileID": 281827,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72502/72502-1687915224-1500711543.jpeg",
-          "IsNSFW": false,
-          "ModID": 72502,
-          "Name": "Bullet Time VATS VR",
-          "Version": "b1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FCZvtvysF3w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58829\nfileID=294123",
-        "Name": "VRCP_SS2-58829-1-1-3-1699803108.zip",
-        "Size": 450032,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Fill last few gaps between Fallout 4 VR and Sim Settlements 2.\n\n\n\nManual assignment, settlement resource viewer and others.",
-          "FileID": 294123,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58829/58829-1647436676-1136407500.jpeg",
-          "IsNSFW": false,
-          "ModID": 58829,
-          "Name": "Fallout 4 VR Compatibility Patch for Sim Settlements 2",
-          "Version": "1.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Cp8xZJD6RAo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=54027\nfileID=218946",
-        "Name": "Another Pine Forest-54027-0-3-1633872743.rar",
-        "Size": 1962519195,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Oynlen",
-          "Description": "This mod will add a dense pine forest environment.",
-          "FileID": 218946,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54027/54027-1630665968-1500210132.png",
-          "IsNSFW": false,
-          "ModID": 54027,
-          "Name": "Another Pine Forest Mod",
-          "Version": "0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nb+NRPdpuC0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23139\nfileID=140403",
-        "Name": "Dogmeat - A True Companion - Normal-23139-1-3.zip",
-        "Size": 2813,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zazuban",
-          "Description": "Tired of Dogmeat acting like an oversize chihuahua? This mod fixes that and more, turning your wasteland best friend into the companion he was supposed to be!\n\n\n\nLarge balances and changes available in the new 1.3 version; download now!",
-          "FileID": 140403,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23139-0-1490829510.png",
-          "IsNSFW": false,
-          "ModID": 23139,
-          "Name": "Dogmeat - A True Companion",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zbeAlMDiGy0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=237355",
-        "Name": "Fallout 4 - Point Lookout-60330-1-1652278869.rar",
-        "Size": 4520837998,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Capital Wasteland Team",
-          "Description": "Fallout 4: Point Lookout is a fan recreation of Fallout 3\u0027s Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs.",
-          "FileID": 237355,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60330/60330-1652201203-280592258.jpeg",
-          "IsNSFW": false,
-          "ModID": 60330,
-          "Name": "Fallout 4 - Point Lookout",
-          "Version": "1.14"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kfLvdynuIYk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31088\nfileID=172178",
-        "Name": "DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z",
-        "Size": 94599,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phlunder",
-          "Description": "Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes, and scaling.",
-          "FileID": 172178,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31088/31088-1540041078-2134724658.jpeg",
-          "IsNSFW": false,
-          "ModID": 31088,
-          "Name": "DEF_UI Iconlibs Rescaled and Fixed",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iX+nL6BlLUU=",
-        "Meta": "[General]\ndirectURL=https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip",
-        "Name": "fsr2.2.1.zip",
-        "Size": 1110945,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Yvon5tsZ0fA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=91437\nfileID=347668",
         "Name": "Place in Red VR-91437-v1-0-0-1739137481.zip",
@@ -889,168 +406,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jPC0PfQxDJo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35004\nfileID=371076",
-        "Name": "Workshop Framework-35004-2-4-9-1761249838.zip",
-        "Size": 1148898,
+        "Hash": "dAxqoyTwCQE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=353864",
+        "Name": "Virtual Holsters v3.0.7-51224-3-0-7-1744885937.zip",
+        "Size": 5380873,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kinggath",
-          "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
-          "FileID": 371076,
+          "Author": "CylonSurfer",
+          "Description": "Adds 7 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
+          "FileID": 353864,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51224/51224-1628104334-927879350.png",
           "IsNSFW": false,
-          "ModID": 35004,
-          "Name": "Workshop Framework",
-          "Version": "2.3.15"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PYe8CB9nFyk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=94647\nfileID=361136",
-        "Name": "Comfort Swim VR - v0.3.0-94647-0-3-0-1752265454.7z",
-        "Size": 3927862,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LH Adonis",
-          "Description": "Fallout 4 VR mod for underwater swimming using controllers thumbsticks.",
-          "FileID": 361136,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/94647/94647-1750964348-101781093.jpg",
-          "IsNSFW": false,
-          "ModID": 94647,
-          "Name": "Comfort Swim VR",
-          "Version": "0.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jRPeV16iTv4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57680\nfileID=294142",
-        "Name": "Lightweight Lighting-57680-4-0-1699813483.7z",
-        "Size": 20893,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Lightweight lighting aims to be an all in one simple Vanilla \u002B Lighting overhaul. All while being as compatible as can be with no cell edits.",
-          "FileID": 294142,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57680/57680-1683658558-666609978.jpeg",
-          "IsNSFW": false,
-          "ModID": 57680,
-          "Name": "Lightweight Lighting - A weather and interior lighting overhaul",
-          "Version": "3.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J7DQZ6V5XfI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51556\nfileID=206260",
-        "Name": "FallUI Item Sorter for VR (English only - no DLCs)-51556-1-0-1618845506.rar",
-        "Size": 189798,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "FallUI HUD for Fallout 4 VR improves the in-world displays for usage with Item Sorters.",
-          "FileID": 206260,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51556/51556-1618869815-542887874.png",
-          "IsNSFW": false,
-          "ModID": 51556,
-          "Name": "FallUI - HUD VR",
-          "Version": "1.1c"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LJl9otO2UwU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64879\nfileID=360587",
-        "Name": "VR Address Library-64879-1-13-1-1751603834.7z",
-        "Size": 424994,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "VR Address Library database for end users. This is intended as a VR replacement for Address Library for F4SE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha.\n\n\n\nThis is not for Fallout4. This is different from Address Library for F4SE.",
-          "FileID": 360587,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64879/64879-1665041371-925259929.png",
-          "IsNSFW": false,
-          "ModID": 64879,
-          "Name": "VR Address Library for F4SEVR",
-          "Version": "1.6.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "W/228Z7KLcQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=14702\nfileID=125918",
-        "Name": "All Dogs No Door Opening-14702-1-02.7z",
-        "Size": 2021,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ulithium_Dragon",
-          "Description": "Stops Dogmeat from opening doors. Because really Bethesda, come on...",
-          "FileID": 125918,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/14702-0-1465106400.jpg",
-          "IsNSFW": false,
-          "ModID": 14702,
-          "Name": "Dogmeat - Doors are NOT for Dogs (No Door Opening)",
-          "Version": "1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nZhQp2rMXIo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40669\nfileID=164469",
-        "Name": "Weapon Accuracy Redone (DLC)-40669-1-0-1565971144.zip",
-        "Size": 1354,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "joycourier",
-          "Description": "I\u0027ve made adjustments to the spread and recoil of all weapons while still keeping the game balanced (E.G; rifle stocks are still worth it). \n\nIntended for FO4VR, obviously ruins balance of regular Fallout 4.",
-          "FileID": 164469,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40669/40669-1565970689-508064884.png",
-          "IsNSFW": false,
-          "ModID": 40669,
-          "Name": "Weapon Accuracy Redone for VR",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aQ5TaIzbLnY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=206079",
-        "Name": "(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar",
-        "Size": 616755,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
-          "FileID": 206079,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
-          "IsNSFW": false,
-          "ModID": 48758,
-          "Name": "FallUI - Inventory",
-          "Version": "2.2.1"
+          "ModID": 51224,
+          "Name": "Virtual Holsters",
+          "Version": "2.1.0"
         }
       }
     },
@@ -1078,62 +448,104 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YWvWfdpciEg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=339\nfileID=718",
-        "Name": "Dogmeat cattle dog texture-339-1-1.zip",
-        "Size": 14475025,
+        "Hash": "4KkbhkJxL00=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48826\nfileID=287728",
+        "Name": "M8r98a4f2\u0027s Complex Item Sorter-48826-1-12-0-1692791377.7z",
+        "Size": 168476,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "7iger",
-          "Description": "Retexture of dogmeat to look like my real life dog \u0022Pirate\u0022. (Cattledog x kelpie)",
-          "FileID": 718,
+          "Author": "m8r98a4f2",
+          "Description": "Automatically add item sorting tags to all items for all common item sorters. Highly versatile and completely configurable: custom processing rules, custom tag sets, custom naming rules. You can just change anything to your liking. Standard rules support most custom mods out-of-the-box.",
+          "FileID": 287728,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/339-0-1447422561.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1636805582-768817055.png",
           "IsNSFW": false,
-          "ModID": 339,
-          "Name": "Classic Dogmeat a.k.a. Pirate",
-          "Version": "2.0"
+          "ModID": 48826,
+          "Name": "M8r98a4f2\u0027s Complex Item Sorter",
+          "Version": "1.12.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b3IMlDOoVr0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
-        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
-        "Size": 111275,
+        "Hash": "hCnmtixwCGk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13488\nfileID=211813",
+        "Name": "Crows and Creatures Collection 1.6-13488-V1-6-1625340654.rar",
+        "Size": 710575331,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
-          "FileID": 114124,
+          "Author": "Xazomn",
+          "Description": "Complete Creatures Overhaul HQ \u0026amp; Unique realistic Textures. All created with Photo resources \u0026amp; hand painted.",
+          "FileID": 211813,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13488-1-1463229220.jpg",
           "IsNSFW": false,
-          "ModID": 26163,
-          "Name": "Unlimited Survival Mode - F4SE",
-          "Version": "v1.4.0"
+          "ModID": 13488,
+          "Name": "Crows And Creatures",
+          "Version": "V1.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cb2l6hsjSA0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20713\nfileID=178924",
-        "Name": "FAR - Default Resolution-20713-1-2-1586238996.7z",
-        "Size": 509297763,
+        "Hash": "cUvwlnWizZE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=15909\nfileID=89032",
+        "Name": "DKS-501 Sniper Rifle 1.5-15909-1-5.7z",
+        "Size": 89550935,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CaptainCockerel",
-          "Description": "FAR optimises and improves over six thousand distant land textures, which means more perfomance and less stutter.",
-          "FileID": 178924,
+          "Author": "LtCommander",
+          "Description": "The iconic long range weapon of the Fallout Series makes its return as a fully moddable gun in the Commonwealth!",
+          "FileID": 89032,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20713/20713-1586236118-574831082.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15909-0-1475346348.jpg",
           "IsNSFW": false,
-          "ModID": 20713,
-          "Name": "FAR - Faraway Area Reform",
+          "ModID": 15909,
+          "Name": "DKS-501 Sniper Rifle - Standalone",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "79vASXSYvWk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=295190",
+        "Name": "Advanced Needs 76 - Main File-58440-v1-8-9-1701008761.zip",
+        "Size": 22732102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlashyJoer",
+          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
+          "FileID": 295190,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
+          "IsNSFW": false,
+          "ModID": 58440,
+          "Name": "Flashy(JoeR) - Advanced Needs 76",
+          "Version": "v1.8.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cbdKujR+pJ0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=359996",
+        "Name": "VRCP_DOOMMerged-56405-2-0-1-1750944210.7z",
+        "Size": 30708249,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
+          "FileID": 359996,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
+          "IsNSFW": false,
+          "ModID": 56405,
+          "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
           "Version": "1.2"
         }
       }
@@ -1141,196 +553,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0OQRazMxhjw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1075\nfileID=17354",
-        "Name": "LongRangeBulletImpacts_v1_4_2-1075-1-4-2.zip",
-        "Size": 492,
+        "Hash": "CASJGvB4KPk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=345590",
+        "Name": "LOST Audio Tweaks-38448-6-0a-1737221373.zip",
+        "Size": 132434632,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "XLSJ",
-          "Description": "Allows bullet holes and other impact effects to be shown at long ranges. Made with FO4Edit.",
-          "FileID": 17354,
+          "Author": "Mortercotic",
+          "Description": "My attempt to improve the audio from Fallout 4. Collection of sound tweaks, fixes and other packs!",
+          "FileID": 345590,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1075-0-1447764902.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
-          "ModID": 1075,
-          "Name": "Long Range Bullet Holes",
-          "Version": "1.4.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iBSTSB+PM8o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43409\nfileID=175639",
-        "Name": "EBF UFO4P compatibility fix-43409-v2-1-0-1581247305.7z",
-        "Size": 84156,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Peregrin0",
-          "Description": "Compatibility patch for Everyone\u0027s Best Friend (EBF) and version 2.1.0 of the Unofficial Fallout 4 Patch (UFO4P). Both modify the same Papyrus script files causing one to override the corrections of the other. This mod merges the script changes.",
-          "FileID": 175639,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43409/43409-1581247077-1578558114.jpeg",
-          "IsNSFW": false,
-          "ModID": 43409,
-          "Name": "EBF UFO4P compatibility fix",
-          "Version": "v2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vYFWyWpPI9I=",
-        "Meta": "[General]\ndirectURL=https://github.com/beeradmoore/dlss-archive/releases/download/v3.5.10.0/nvngx_dlss_3.5.10.0.zip",
-        "Name": "nvngx_dlss_3.5.10.0.zip",
-        "Size": 37060373,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/beeradmoore/dlss-archive/releases/download/v3.5.10.0/nvngx_dlss_3.5.10.0.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jJgid2FXcyM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=54138\nfileID=252915",
-        "Name": "Portable Junk Recycler Mk 2-54138-1-2-1-1665346628.zip",
-        "Size": 8516927,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rux616",
-          "Description": "A highly configurable device that will scrap junk items transferred into its inventory, returning the component parts.",
-          "FileID": 252915,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54138/54138-1638312322-294132992.jpeg",
-          "IsNSFW": false,
-          "ModID": 54138,
-          "Name": "Portable Junk Recycler Mk 2",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Yffs6QtcAws=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2037\nfileID=49781",
-        "Name": "Arbitration - FOMod Installer-2037-0-4-3.7z",
-        "Size": 231478,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JackArbiter",
-          "Description": "All Optional - AI Overhaul, Stealth Overhaul, Controllable Lowered Weapons, Fall Damage Overhaul, Damage Overhaul, Compass Overhaul, Molotov Overhaul, Grenade Throwing Delay, Grenade Detection Increase",
-          "FileID": 49781,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2037-0-1448254484.jpg",
-          "IsNSFW": false,
-          "ModID": 2037,
-          "Name": "Arbitration - Combat AI - Stealth - Speed - Damage - Gameplay Overhaul and Tweaks",
-          "Version": "0.4.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lYDeVCBW/yA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=12986\nfileID=287844",
-        "Name": "Weapons of Fate - Latest Version-12986-1-3-1-1692902711.zip",
-        "Size": 1539056,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Seb263",
-          "Description": "Weapons of Fate is a mod that makes bullets behave in a more interesting and realistic manner.\n\n\n\nEach bullet has unique characteristics that are combined to determine the trajectory that the bullet will follow.\n\nAlso, bullets no longer dissapear after a certain distance, instead losing in altitude until their point of impact.",
-          "FileID": 287844,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12986/12986-1528626488-2124181168.png",
-          "IsNSFW": false,
-          "ModID": 12986,
-          "Name": "Weapons of Fate (Ballistics Overhaul)",
-          "Version": "1.3.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S7SCUs7b+Q4=",
-        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR_Intro.7z",
-        "Name": "F4FEVR_Intro.7z",
-        "Size": 10461494,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR_Intro.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vYjXiYShkKM=",
-        "Meta": "[General]\ngameName=site\nmodID=502\nfileID=2293",
-        "Name": "UpscalerBasePlugin-502-1-1-2-1693443305.zip",
-        "Size": 73302,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PureDark",
-          "Description": "My plugin for bridging DLSS/FSR2/XeSS.",
-          "FileID": 2293,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/502/502-1672090358-1967705145.png",
-          "IsNSFW": false,
-          "ModID": 502,
-          "Name": "UpscalerBasePlugin",
-          "Version": "1.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PTtBVpFxmEE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75037\nfileID=290650",
-        "Name": "Disk Cache Enabler - Fallout 4 VR-75037-v1-0-1695949197.zip",
-        "Size": 241860,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "archost-rollingrock",
-          "Description": "VR Port of Flat Fallout Disk Cache Enabler",
-          "FileID": 290650,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75037/75037-1695948960-400810494.jpeg",
-          "IsNSFW": false,
-          "ModID": 75037,
-          "Name": "Disk Cache Enabler - F4VR",
-          "Version": "v1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "q+7Gh5TcB4Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=98987\nfileID=376869",
-        "Name": "Dogmeat Heterochromia iridum-98987-1-1765216437.7z",
-        "Size": 109642,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ajantaju",
-          "Description": "Blue and brown eyes for Dogmeat.",
-          "FileID": 376869,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/98987/98987-1765216181-1623288898.png",
-          "IsNSFW": false,
-          "ModID": 98987,
-          "Name": "Dogmeat Heterochromia iridum",
-          "Version": "1"
+          "ModID": 38448,
+          "Name": "LOST Audio Tweaks (LAT)",
+          "Version": "4.1.2hotfix"
         }
       }
     },
@@ -1358,6 +595,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FCZvtvysF3w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58829\nfileID=294123",
+        "Name": "VRCP_SS2-58829-1-1-3-1699803108.zip",
+        "Size": 450032,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Fill last few gaps between Fallout 4 VR and Sim Settlements 2.\n\n\n\nManual assignment, settlement resource viewer and others.",
+          "FileID": 294123,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58829/58829-1647436676-1136407500.jpeg",
+          "IsNSFW": false,
+          "ModID": 58829,
+          "Name": "Fallout 4 VR Compatibility Patch for Sim Settlements 2",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zbeAlMDiGy0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=237355",
+        "Name": "Fallout 4 - Point Lookout-60330-1-1652278869.rar",
+        "Size": 4520837998,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Capital Wasteland Team",
+          "Description": "Fallout 4: Point Lookout is a fan recreation of Fallout 3\u0027s Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs.",
+          "FileID": 237355,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60330/60330-1652201203-280592258.jpeg",
+          "IsNSFW": false,
+          "ModID": 60330,
+          "Name": "Fallout 4 - Point Lookout",
+          "Version": "1.14"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zf374uzwhM0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=62518\nfileID=364381",
         "Name": "Gloomy Glass-62518-1-2-1755210291.7z",
@@ -1379,21 +658,448 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KDaLKb2GYPQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55890\nfileID=227607",
-        "Name": "Resized 10mm Pistol Reworked-55890-1-4-1643027929.rar",
-        "Size": 225371,
+        "Hash": "0OQRazMxhjw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1075\nfileID=17354",
+        "Name": "LongRangeBulletImpacts_v1_4_2-1075-1-4-2.zip",
+        "Size": 492,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Topol774",
-          "Description": "Smaller 10mm pistol model, reduced muzzle flash and fixed reflex sights.",
-          "FileID": 227607,
+          "Author": "XLSJ",
+          "Description": "Allows bullet holes and other impact effects to be shown at long ranges. Made with FO4Edit.",
+          "FileID": 17354,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55890/55890-1637392816-778988651.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1075-0-1447764902.png",
           "IsNSFW": false,
-          "ModID": 55890,
-          "Name": "Resized 10mm Pistol Reworked",
-          "Version": "1.4"
+          "ModID": 1075,
+          "Name": "Long Range Bullet Holes",
+          "Version": "1.4.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WOY442AWVvE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29227\nfileID=204835",
+        "Name": "SKKFastStartNewGame_019-29227-019-1617191609.zip",
+        "Size": 30242,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SKK50",
+          "Description": "FastStart a new game in less than 2 minutes from Main menu \u0026gt; Looks menu \u0026gt; SPECIAL menu \u0026gt; Outside Vault 111 with most mod added inventory items. This is a scripted bypass, not a static savegame so you get full player customisation and fresh RNG.",
+          "FileID": 204835,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29227/29227-1617188242-101692790.jpeg",
+          "IsNSFW": false,
+          "ModID": 29227,
+          "Name": "SKK Fast Start new game",
+          "Version": "020"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Tdl5KESb3ZQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23389\nfileID=255516",
+        "Name": "Wetness Shader Fix-23389-3-6-2-1667405114.7z",
+        "Size": 148762541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ablaze666",
+          "Description": "This small mod fixes the exaggerated shine of specific objects while it\u0027s raining.",
+          "FileID": 255516,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg",
+          "IsNSFW": false,
+          "ModID": 23389,
+          "Name": "Wetness Shader Fix",
+          "Version": "3.6.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PTtBVpFxmEE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75037\nfileID=290650",
+        "Name": "Disk Cache Enabler - Fallout 4 VR-75037-v1-0-1695949197.zip",
+        "Size": 241860,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "archost-rollingrock",
+          "Description": "VR Port of Flat Fallout Disk Cache Enabler",
+          "FileID": 290650,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75037/75037-1695948960-400810494.jpeg",
+          "IsNSFW": false,
+          "ModID": 75037,
+          "Name": "Disk Cache Enabler - F4VR",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jJgid2FXcyM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54138\nfileID=252915",
+        "Name": "Portable Junk Recycler Mk 2-54138-1-2-1-1665346628.zip",
+        "Size": 8516927,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rux616",
+          "Description": "A highly configurable device that will scrap junk items transferred into its inventory, returning the component parts.",
+          "FileID": 252915,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54138/54138-1638312322-294132992.jpeg",
+          "IsNSFW": false,
+          "ModID": 54138,
+          "Name": "Portable Junk Recycler Mk 2",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sDSB39SbEkc=",
+        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR Point Lookout Patch.7z",
+        "Name": "F4FEVR Point Lookout Patch.7z",
+        "Size": 17401225,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR%20Point%20Lookout%20Patch.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KR6UZ/SDwE8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35004\nfileID=313837",
+        "Name": "Workshop Framework-35004-2-3-20-1714741317.zip",
+        "Size": 1323301,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kinggath",
+          "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
+          "FileID": 313837,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
+          "IsNSFW": false,
+          "ModID": 35004,
+          "Name": "Workshop Framework",
+          "Version": "2.3.15"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x0wuS+JGw3A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42870\nfileID=173744",
+        "Name": "VR LOD Workaround-42870-1-0-1578179809.7z",
+        "Size": 497,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Terenor82",
+          "Description": "small Tweak/Workaround for the DC and Goodneighbor Crash caused by LODs",
+          "FileID": 173744,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42870/42870-1578179933-1632896539.jpeg",
+          "IsNSFW": false,
+          "ModID": 42870,
+          "Name": "VR LOD Crash Workaround",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3qBtviqDmWQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13285\nfileID=208078",
+        "Name": "Cheat Terminal v1.69-13285-1-69-1621205500.rar",
+        "Size": 799019,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NexusAU and gir489",
+          "Description": "A Holotape Cheat Menu that lets you add Caps, Stimpaks, any of the Crafting Materials, SPECIAL Points and More!\n\nAlso available for Xbox One on Bethesda.net",
+          "FileID": 208078,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13285-0-1469867170.jpg",
+          "IsNSFW": false,
+          "ModID": 13285,
+          "Name": "Cheat Terminal",
+          "Version": "1.72"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nb+NRPdpuC0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23139\nfileID=140403",
+        "Name": "Dogmeat - A True Companion - Normal-23139-1-3.zip",
+        "Size": 2813,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zazuban",
+          "Description": "Tired of Dogmeat acting like an oversize chihuahua? This mod fixes that and more, turning your wasteland best friend into the companion he was supposed to be!\n\n\n\nLarge balances and changes available in the new 1.3 version; download now!",
+          "FileID": 140403,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23139-0-1490829510.png",
+          "IsNSFW": false,
+          "ModID": 23139,
+          "Name": "Dogmeat - A True Companion",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cb2l6hsjSA0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20713\nfileID=178924",
+        "Name": "FAR - Default Resolution-20713-1-2-1586238996.7z",
+        "Size": 509297763,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CaptainCockerel",
+          "Description": "FAR optimises and improves over six thousand distant land textures, which means more perfomance and less stutter.",
+          "FileID": 178924,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20713/20713-1586236118-574831082.jpeg",
+          "IsNSFW": false,
+          "ModID": 20713,
+          "Name": "FAR - Faraway Area Reform",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jPC0PfQxDJo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35004\nfileID=371076",
+        "Name": "Workshop Framework-35004-2-4-9-1761249838.zip",
+        "Size": 1148898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kinggath",
+          "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
+          "FileID": 371076,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
+          "IsNSFW": false,
+          "ModID": 35004,
+          "Name": "Workshop Framework",
+          "Version": "2.3.15"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PhfyuLL6ReM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9476\nfileID=373365",
+        "Name": "See Through Scopes 2.6.2-9476-2-6-2-1762961842.zip",
+        "Size": 59071459,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "henkspamadres",
+          "Description": "Adds see-through (so no scope overlay) Combat Scopes to various weapons.",
+          "FileID": 373365,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9476/9476-1535110744-1741862064.jpeg",
+          "IsNSFW": false,
+          "ModID": 9476,
+          "Name": "See Through Scopes",
+          "Version": "2.5.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iBSTSB+PM8o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43409\nfileID=175639",
+        "Name": "EBF UFO4P compatibility fix-43409-v2-1-0-1581247305.7z",
+        "Size": 84156,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Peregrin0",
+          "Description": "Compatibility patch for Everyone\u0027s Best Friend (EBF) and version 2.1.0 of the Unofficial Fallout 4 Patch (UFO4P). Both modify the same Papyrus script files causing one to override the corrections of the other. This mod merges the script changes.",
+          "FileID": 175639,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43409/43409-1581247077-1578558114.jpeg",
+          "IsNSFW": false,
+          "ModID": 43409,
+          "Name": "EBF UFO4P compatibility fix",
+          "Version": "v2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "W/228Z7KLcQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=14702\nfileID=125918",
+        "Name": "All Dogs No Door Opening-14702-1-02.7z",
+        "Size": 2021,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ulithium_Dragon",
+          "Description": "Stops Dogmeat from opening doors. Because really Bethesda, come on...",
+          "FileID": 125918,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/14702-0-1465106400.jpg",
+          "IsNSFW": false,
+          "ModID": 14702,
+          "Name": "Dogmeat - Doors are NOT for Dogs (No Door Opening)",
+          "Version": "1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yHIXav/5K+s=",
+        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/VR_NACX_PA_Light_Fix.7z",
+        "Name": "VR_NACX_PA_Light_Fix.7z",
+        "Size": 404,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/VR_NACX_PA_Light_Fix.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RMoweGp5CF0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=93056\nfileID=353805",
+        "Name": "True Rain-93056-1-0-1744807433.zip",
+        "Size": 15578410,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Decapper",
+          "Description": "I\u0027m sure all those weather/rain mods look good on flat screen. But in VR they look terrible. Pause the game when its rain and have a close look at the rain shards, vomit. So I decided to do something about it. Enjoy my realistic rain mod for Truestorms or vanilla.",
+          "FileID": 353805,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/93056/93056-1744807209-1372014511.jpeg",
+          "IsNSFW": false,
+          "ModID": 93056,
+          "Name": "True Rain VR or Flat - including patch for True Storms",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "enUdvJMGusQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=937\nfileID=49501",
+        "Name": "Faster Terminal Displays (20x) Creation Kit Version-937-3-0.zip",
+        "Size": 605,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Old Nick",
+          "Description": "Speeds up the text display on terminals",
+          "FileID": 49501,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/937-0-1447711327.jpg",
+          "IsNSFW": false,
+          "ModID": 937,
+          "Name": "Faster Terminal Displays",
+          "Version": "3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QYpjXWpF1Vc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=244732",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z",
+        "Size": 28453436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 244732,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+          "IsNSFW": false,
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch - UFO4P",
+          "Version": "2.1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VkOh+/JA6OQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=350591",
+        "Name": "Buffout4 NG-64880-1-37-0-1741845594.7z",
+        "Size": 17528192,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
+          "FileID": 350591,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
+          "IsNSFW": false,
+          "ModID": 64880,
+          "Name": "Buffout 4 NG with PDB support",
+          "Version": "1.31.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YUKLpKgWxhI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58830\nfileID=232577",
+        "Name": "VRCP_NAC-58830-1-0-1647872677.zip",
+        "Size": 123848,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Fill last few gaps between Fallout 4 VR and NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition.\n\n\n\nCTD fix for Rad Weather, rain particle adjustment, flashlight patch and others.",
+          "FileID": 232577,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58830/58830-1647359640-1550084858.jpeg",
+          "IsNSFW": false,
+          "ModID": 58830,
+          "Name": "Fallout 4 VR Compatibility Patch for NAC X",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ks36L0kqknI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33486\nfileID=136105",
+        "Name": "Renamed Chem Station-33486-1-0.zip",
+        "Size": 773,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LeahTheUnknown",
+          "Description": "Because you don\u0027t make clothes with Chemistry.  Not associated with the popular Crafting Workbenches mod.",
+          "FileID": 136105,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33486/33486-1532302160-1067029802.jpeg",
+          "IsNSFW": false,
+          "ModID": 33486,
+          "Name": "Chemistry Station Renamed Crafting Workbench",
+          "Version": "1.0"
         }
       }
     },
@@ -1442,321 +1148,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "enUdvJMGusQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=937\nfileID=49501",
-        "Name": "Faster Terminal Displays (20x) Creation Kit Version-937-3-0.zip",
-        "Size": 605,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Old Nick",
-          "Description": "Speeds up the text display on terminals",
-          "FileID": 49501,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/937-0-1447711327.jpg",
-          "IsNSFW": false,
-          "ModID": 937,
-          "Name": "Faster Terminal Displays",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uXtyHNF4WQQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51403\nfileID=205814",
-        "Name": "Map tweaks VR-51403-1-0-1618333957.zip",
-        "Size": 95549,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kwiat_W",
-          "Description": "Altered zoom level, zoom out further, coloured quest indicators, lowered joystick sensitivity.",
-          "FileID": 205814,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51403/51403-1618332483-101830496.jpeg",
-          "IsNSFW": false,
-          "ModID": 51403,
-          "Name": "Map Tweaks VR",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rz1kDjFEjLs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=61214\nfileID=240452",
-        "Name": "Better Scopes VR v0.6-61214-v0-6-1655066765.zip",
-        "Size": 103760,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rollingrock",
-          "Description": "Better Scopes VR does away with the awful VR scope interface and works together with the See Through Scopes mod to bring more realistic and immersive scopes to the VR version of Fallout 4!  Main features are fully functional collimated sights and VR zoom feature based on scope maginification.",
-          "FileID": 240452,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61214/61214-1654970651-1588183004.jpeg",
-          "IsNSFW": false,
-          "ModID": 61214,
-          "Name": "Better Scopes VR",
-          "Version": "v0.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TaET66jMAPI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8300\nfileID=34993",
-        "Name": "Floppy Eared Dogmeat (One Ear)-8300-1-2.rar",
-        "Size": 269406,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MissMorose",
-          "Description": "Just a small edit to Dogmeat\u0027s mesh to give him floppy down-turned ears, to add more variety to virtual dogs!",
-          "FileID": 34993,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8300-0-1452702915.jpg",
-          "IsNSFW": false,
-          "ModID": 8300,
-          "Name": "Floppy Eared Dogmeat",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "79vASXSYvWk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=295190",
-        "Name": "Advanced Needs 76 - Main File-58440-v1-8-9-1701008761.zip",
-        "Size": 22732102,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlashyJoer",
-          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
-          "FileID": 295190,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
-          "IsNSFW": false,
-          "ModID": 58440,
-          "Name": "Flashy(JoeR) - Advanced Needs 76",
-          "Version": "v1.8.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "H0olJD3bi6U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=54933\nfileID=218855",
-        "Name": "Makeshift Textures - 2K-54933-1-2-1633781097.7z",
-        "Size": 480843445,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gmoi",
-          "Description": "A full retexture for the Pipe Gun series, including the pipe revolver and the Syringer. \n\nCustom cubemaps for new and improved dirty reflections.\n\nThe recon scope is also thrown in as a bonus.",
-          "FileID": 218855,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54933/54933-1633637186-113836101.png",
-          "IsNSFW": false,
-          "ModID": 54933,
-          "Name": "Scrap metal and makeshift welds - A Pipe Gun Retexture",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o9hDzs32BNA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=45167\nfileID=182280",
-        "Name": "Fallout4VRTools BETA v0.1-45167-v0-1-1589924169.zip",
-        "Size": 231986,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "frazaman",
-          "Description": "Create Fallout 4 VR mods based on VR controller input events\n\nSupports PapyrusVR and C\u002B\u002B/F4SEVR API",
-          "FileID": 182280,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45167/45167-1589924307-249614209.png",
-          "IsNSFW": false,
-          "ModID": 45167,
-          "Name": "Fallout4 VR Tools",
-          "Version": "v0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SPebHISxZ/0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=16387\nfileID=157363",
-        "Name": "DOOMBASED Weapons Merged-16387-1-3-1557044969.7z",
-        "Size": 673043595,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DOOM",
-          "Description": "All of my Fallout 4 weapon mods in one plugin. Including 16 highly customizable guns and a few unique variants with all new models, textures, sounds and animations. Thank you to everyone in the Nexus mods Community for making this the most downloaded weapon pack for Fallout 4!",
-          "FileID": 157363,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16387/16387-1557053971-476934564.png",
-          "IsNSFW": false,
-          "ModID": 16387,
-          "Name": "DOOMBASED Weapons Merged (Weapon Pack)",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ky6dI9GOSEo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=68599\nfileID=324194",
-        "Name": "FO4 Particle Patch v1-3-2-68599-1-3-2-1719216836.rar",
-        "Size": 12791199,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fadingsignal",
-          "Description": "FO4 Particle Patch is a comprehensive mod that updates hundreds of mesh and material files to make fog, smoke, water, blood, dirt puffs, dust (and much more) glow in the dark less, and better utilize ambient \u0026amp; point lighting. Also improves distance rendering for Far Harbor fog effects.",
-          "FileID": 324194,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68599/68599-1675756391-991298516.jpeg",
-          "IsNSFW": false,
-          "ModID": 68599,
-          "Name": "Fallout 4 Particle Patch - No More Glowing Objects",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WOY442AWVvE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=29227\nfileID=204835",
-        "Name": "SKKFastStartNewGame_019-29227-019-1617191609.zip",
-        "Size": 30242,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SKK50",
-          "Description": "FastStart a new game in less than 2 minutes from Main menu \u0026gt; Looks menu \u0026gt; SPECIAL menu \u0026gt; Outside Vault 111 with most mod added inventory items. This is a scripted bypass, not a static savegame so you get full player customisation and fresh RNG.",
-          "FileID": 204835,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29227/29227-1617188242-101692790.jpeg",
-          "IsNSFW": false,
-          "ModID": 29227,
-          "Name": "SKK Fast Start new game",
-          "Version": "020"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5oE0TJ5JNHc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23389\nfileID=317812",
-        "Name": "Wetness Shader Fix-23389-3-6-3-1716206524.7z",
-        "Size": 148763492,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ablaze666",
-          "Description": "This small mod fixes the exaggerated shine of specific objects while it\u0027s raining.",
-          "FileID": 317812,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg",
-          "IsNSFW": false,
-          "ModID": 23389,
-          "Name": "Wetness Shader Fix",
-          "Version": "3.6.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VkOh+/JA6OQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=350591",
-        "Name": "Buffout4 NG-64880-1-37-0-1741845594.7z",
-        "Size": 17528192,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
-          "FileID": 350591,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
-          "IsNSFW": false,
-          "ModID": 64880,
-          "Name": "Buffout 4 NG with PDB support",
-          "Version": "1.31.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KR6UZ/SDwE8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35004\nfileID=313837",
-        "Name": "Workshop Framework-35004-2-3-20-1714741317.zip",
-        "Size": 1323301,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kinggath",
-          "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
-          "FileID": 313837,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
-          "IsNSFW": false,
-          "ModID": 35004,
-          "Name": "Workshop Framework",
-          "Version": "2.3.15"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ixUTWUQBTs0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=99041\nfileID=377004",
-        "Name": "Custom_DOOMMerged_Disabler-99041-1-0-1765373604.7z",
-        "Size": 96541,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ajantaju",
-          "Description": "Disables weapons from DOOMBASED Weapons Merged that are too \u0022modern\u0022 for my taste. Disables leveled list injections so they\u0027re also unique.",
-          "FileID": 377004,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/99041/99041-1765373828-565663177.png",
-          "IsNSFW": false,
-          "ModID": 99041,
-          "Name": "Custom Disabler for DOOMBASED Weapons Merged",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "x0wuS+JGw3A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42870\nfileID=173744",
-        "Name": "VR LOD Workaround-42870-1-0-1578179809.7z",
-        "Size": 497,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Terenor82",
-          "Description": "small Tweak/Workaround for the DC and Goodneighbor Crash caused by LODs",
-          "FileID": 173744,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42870/42870-1578179933-1632896539.jpeg",
-          "IsNSFW": false,
-          "ModID": 42870,
-          "Name": "VR LOD Crash Workaround",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "WpqLL6kEUUg=",
         "Meta": "[General]\ngameName=fallout4\nmodID=40702\nfileID=164648",
         "Name": "Hip-Fire Perk Replacers-40702-1-2-1566165918.rar",
@@ -1772,307 +1163,6 @@
           "ModID": 40702,
           "Name": "Hip-Fire Perk Replacers",
           "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J9ZwJgdTgrk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63328\nfileID=247617",
-        "Name": "F4SEVR - Script Fix-63328-1-0-1661090270.zip",
-        "Size": 26718,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Fallout 4 VR Compatibility Patch for large scale world expansion: Fallout 4 - Point Lookout.\n\n\n\nIncludes missing ground fix, un-extended dialogues, general freeze and CTD fixes.",
-          "FileID": 247617,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63328/63328-1661002975-752979143.jpeg",
-          "IsNSFW": false,
-          "ModID": 63328,
-          "Name": "Fallout 4 VR Compatibility Patch for Point Lookout",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QK2yxuf0R98=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=230765",
-        "Name": "AN76 - Another Pine Forest Patch-58440-v1-0-0-1645858046.rar",
-        "Size": 389,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlashyJoer",
-          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
-          "FileID": 230765,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
-          "IsNSFW": false,
-          "ModID": 58440,
-          "Name": "Flashy(JoeR) - Advanced Needs 76",
-          "Version": "v1.8.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CJCnBSkKL+k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=6157\nfileID=21062",
-        "Name": "Medium-6157-1-0.7z",
-        "Size": 522,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LinuX123",
-          "Description": "A small mod that add more effects when you take a damage. Many options.",
-          "FileID": 21062,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6157-0-1450300665.jpg",
-          "IsNSFW": false,
-          "ModID": 6157,
-          "Name": "More Noticeable Hit Effect",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PhfyuLL6ReM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9476\nfileID=373365",
-        "Name": "See Through Scopes 2.6.2-9476-2-6-2-1762961842.zip",
-        "Size": 59071459,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "henkspamadres",
-          "Description": "Adds see-through (so no scope overlay) Combat Scopes to various weapons.",
-          "FileID": 373365,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9476/9476-1535110744-1741862064.jpeg",
-          "IsNSFW": false,
-          "ModID": 9476,
-          "Name": "See Through Scopes",
-          "Version": "2.5.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UGFahibt8VA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=368524",
-        "Name": "DOOMMerged_Disabler-56405-2-0-1-1758785903.zip",
-        "Size": 146482,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mith077",
-          "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
-          "FileID": 368524,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
-          "IsNSFW": false,
-          "ModID": 56405,
-          "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oHjepcojxWQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9835\nfileID=40702",
-        "Name": "Insignificant Object Remover-9835-1-0.rar",
-        "Size": 1025541,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AKcelsior",
-          "Description": "Safely removes insignificant objects to improve performance without visual degradation.",
-          "FileID": 40702,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9835-0-1456801260.jpg",
-          "IsNSFW": false,
-          "ModID": 9835,
-          "Name": "Insignificant Object Remover",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1Fea+xAMemk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52515\nfileID=314003",
-        "Name": "Fallout Priority Next-Gen-52515-4-0-1-1714794208.zip",
-        "Size": 117777,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "boring3",
-          "Description": "Elevate the CPU Priority of the game process.\n\nIncrease FPS and Prevent stutters caused by other processes.",
-          "FileID": 314003,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1675774384-593896892.png",
-          "IsNSFW": false,
-          "ModID": 52515,
-          "Name": "Fallout Priority - CPU Performance FPS Optimizer",
-          "Version": "3.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OaRr4wVyf20=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46722\nfileID=188430",
-        "Name": "NAC X Legacy edition-46722-1-0-0-1596620706.zip",
-        "Size": 178741378,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "L00",
-          "Description": "The most comprehensive modular weather, lighting and visual overhaul for Fallout 4.",
-          "FileID": 188430,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46722/46722-1596619318-1559137878.jpeg",
-          "IsNSFW": false,
-          "ModID": 46722,
-          "Name": "NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xiihgaeuwbs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38621\nfileID=204609",
-        "Name": "SKKQuickPlayerRespec_006-38621-006-1616923345.zip",
-        "Size": 8800,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SKK50",
-          "Description": "Quick player respec resets all SPECIAL base values to 1 and removes all base game playable perks, crediting points to reallocate in the perk screen.",
-          "FileID": 204609,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38621/38621-1556385066-1385257972.png",
-          "IsNSFW": false,
-          "ModID": 38621,
-          "Name": "Quick Player Respec by SKK",
-          "Version": "005"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QYpjXWpF1Vc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=244732",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z",
-        "Size": 28453436,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Unofficial Patch Project Team",
-          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 244732,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
-          "IsNSFW": false,
-          "ModID": 4598,
-          "Name": "Unofficial Fallout 4 Patch - UFO4P",
-          "Version": "2.1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yHIXav/5K+s=",
-        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/VR_NACX_PA_Light_Fix.7z",
-        "Name": "VR_NACX_PA_Light_Fix.7z",
-        "Size": 404,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/VR_NACX_PA_Light_Fix.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kO3UdlNJWPk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31527\nfileID=132199",
-        "Name": "Easy Lockpicking and Hacking-31527-2-0.7z",
-        "Size": 368,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dank Rafft",
-          "Description": "Since the original mod has some flaws (missing master and wild edits) which could lead to an automatically deactivating mod or unnecessary mod conflicts I decided to recreate it. V2 also includes easy hacking.",
-          "FileID": 132199,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31527/31527-1525430607-99493805.jpeg",
-          "IsNSFW": false,
-          "ModID": 31527,
-          "Name": "Easy Lockpicking and Hacking",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fYYT7wGa3N4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=237732",
-        "Name": "AN76 - NAC-X Patch-58440-v1-0-0-1652617745.7z",
-        "Size": 910,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlashyJoer",
-          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
-          "FileID": 237732,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
-          "IsNSFW": false,
-          "ModID": 58440,
-          "Name": "Flashy(JoeR) - Advanced Needs 76",
-          "Version": "v1.8.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "C7suJ9rlcaM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73715\nfileID=287380",
-        "Name": "Fallout4UpscalerVR-73715-1-0-3-1692538430.zip",
-        "Size": 5371285,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PureDark",
-          "Description": "F4SE Plugin to use DLSS/FSR2/XeSS in Fallout 4 VR.",
-          "FileID": 287380,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73715/73715-1691506918-228466445.png",
-          "IsNSFW": false,
-          "ModID": 73715,
-          "Name": "Fallout4 Upscaler VR - DLSS FSR2 XeSS",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+Q1vFiiBeow=",
-        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser.7z",
-        "Name": "Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser.7z",
-        "Size": 16769,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser.7z"
         }
       }
     },
@@ -2121,6 +1211,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "J9ZwJgdTgrk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63328\nfileID=247617",
+        "Name": "F4SEVR - Script Fix-63328-1-0-1661090270.zip",
+        "Size": 26718,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Fallout 4 VR Compatibility Patch for large scale world expansion: Fallout 4 - Point Lookout.\n\n\n\nIncludes missing ground fix, un-extended dialogues, general freeze and CTD fixes.",
+          "FileID": 247617,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63328/63328-1661002975-752979143.jpeg",
+          "IsNSFW": false,
+          "ModID": 63328,
+          "Name": "Fallout 4 VR Compatibility Patch for Point Lookout",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "WRR7uARaUeQ=",
         "Meta": "[General]\ngameName=fallout4\nmodID=35661\nfileID=144981",
         "Name": "Hair Specular Map Removal Thingy-35661-2-0-1541043541.zip",
@@ -2142,119 +1253,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3qBtviqDmWQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13285\nfileID=208078",
-        "Name": "Cheat Terminal v1.69-13285-1-69-1621205500.rar",
-        "Size": 799019,
+        "Hash": "b3IMlDOoVr0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
+        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
+        "Size": 111275,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NexusAU and gir489",
-          "Description": "A Holotape Cheat Menu that lets you add Caps, Stimpaks, any of the Crafting Materials, SPECIAL Points and More!\n\nAlso available for Xbox One on Bethesda.net",
-          "FileID": 208078,
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
+          "FileID": 114124,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13285-0-1469867170.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
           "IsNSFW": false,
-          "ModID": 13285,
-          "Name": "Cheat Terminal",
-          "Version": "1.72"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N6vvSSTPoZY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13459\nfileID=88106",
-        "Name": "Everyone\u0027s Best Friend v3.0.0-13459-3-0-0.rar",
-        "Size": 81039,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Valdacil",
-          "Description": "This mod allows you to have Dogmeat and a standard companion at the same time using in game functionality (not hacks or console commands).",
-          "FileID": 88106,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13459-0-1463160357.jpg",
-          "IsNSFW": false,
-          "ModID": 13459,
-          "Name": "Everyone\u0027s Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)",
-          "Version": "3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8N71VOeCTPg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31976\nfileID=260696",
-        "Name": "Fog Remover II ESL (Main) v2.2 Installer-31976-2-2-1671214076.7z",
-        "Size": 184519,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "3 Gouls and a Supermutant",
-          "Description": "Fog Remover II improves the games appearance and performance by removing Interior Fog, Mist, Steam, Dust, Smoke and Airborne Debris. Featuring the new \u0022Interior Fog Remover\u0022 option / standalone mod.",
-          "FileID": 260696,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31976/31976-1535941839-608327415.png",
-          "IsNSFW": false,
-          "ModID": 31976,
-          "Name": "Fog Remover - Performance Enhancer II",
-          "Version": "2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PKASVC5cGew=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41727\nfileID=224549",
-        "Name": "Rangemaster Remaster 1.43 Complete-41727-1-43-1640210640.7z",
-        "Size": 201220762,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jkruse05 with assets from Ha_ru - Navarro - and ngabber",
-          "Description": "The classic hunting rifle from Fallout 1, 2, and Tactics returns... again. This is an overhaul of my old mod, and includes loads of improvements.",
-          "FileID": 224549,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41727/41727-1572298931-361022591.png",
-          "IsNSFW": false,
-          "ModID": 41727,
-          "Name": "Rangemaster Remaster (Classic Hunting Rifle)",
-          "Version": "1.43"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ECaYKrNdUqU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50473\nfileID=202633",
-        "Name": "RGrip to interact UI Fix for Oculus-50473-1-0-1614632439.zip",
-        "Size": 482112,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kwiat_W",
-          "Description": "Swaps \u0022A\u0022 and \u0022Right Grip\u0022 button labels in game\u0027s interface, useful for people using Steam Input to swap functionality of these buttons.",
-          "FileID": 202633,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50473/50473-1614631971-469532479.jpeg",
-          "IsNSFW": false,
-          "ModID": 50473,
-          "Name": "Right Grip to Interact - UI fix for Oculus controllers",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OcnZdQLf/WQ=",
-        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2.7z",
-        "Name": "Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2.7z",
-        "Size": 249174,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2.7z"
+          "ModID": 26163,
+          "Name": "Unlimited Survival Mode - F4SE",
+          "Version": "v1.4.0"
         }
       }
     },
@@ -2282,6 +1295,608 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "qZufImVUXhE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=91141\nfileID=374487",
+        "Name": "Creation Club Update for Fallout 4 VR -LITE--91141-1-1-0-1763565028.zip",
+        "Size": 1221460,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Engine fixes for those looking for a \u0027happy escape\u0027 into Virtual Reality.\n\nF4SE universal plugin that supports both Fallout 4 OG / NG / VR.",
+          "FileID": 374487,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91141/91141-1762444163-298955377.jpg",
+          "IsNSFW": false,
+          "ModID": 91141,
+          "Name": "Daytripper 4",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PYe8CB9nFyk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=94647\nfileID=361136",
+        "Name": "Comfort Swim VR - v0.3.0-94647-0-3-0-1752265454.7z",
+        "Size": 3927862,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LH Adonis",
+          "Description": "Fallout 4 VR mod for underwater swimming using controllers thumbsticks.",
+          "FileID": 361136,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/94647/94647-1750964348-101781093.jpg",
+          "IsNSFW": false,
+          "ModID": 94647,
+          "Name": "Comfort Swim VR",
+          "Version": "0.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1Fea+xAMemk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52515\nfileID=314003",
+        "Name": "Fallout Priority Next-Gen-52515-4-0-1-1714794208.zip",
+        "Size": 117777,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "boring3",
+          "Description": "Elevate the CPU Priority of the game process.\n\nIncrease FPS and Prevent stutters caused by other processes.",
+          "FileID": 314003,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1675774384-593896892.png",
+          "IsNSFW": false,
+          "ModID": 52515,
+          "Name": "Fallout Priority - CPU Performance FPS Optimizer",
+          "Version": "3.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bJh1larbDoE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72502\nfileID=281827",
+        "Name": "Bullet Time V.A.T.S VR-72502-b1-1-1687992577.zip",
+        "Size": 38923,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cobal",
+          "Description": "A true Bullet Time V.A.T.S experience in VR. \n\n\n\nThe common methods to turn V.A.T.S into bullet time breaks perks and things that are based on hit effects.   \n\nThis mod aims to solve those problems and provide proper Bullet Time V.A.T.S in VR.",
+          "FileID": 281827,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72502/72502-1687915224-1500711543.jpeg",
+          "IsNSFW": false,
+          "ModID": 72502,
+          "Name": "Bullet Time VATS VR",
+          "Version": "b1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SPebHISxZ/0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=16387\nfileID=157363",
+        "Name": "DOOMBASED Weapons Merged-16387-1-3-1557044969.7z",
+        "Size": 673043595,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DOOM",
+          "Description": "All of my Fallout 4 weapon mods in one plugin. Including 16 highly customizable guns and a few unique variants with all new models, textures, sounds and animations. Thank you to everyone in the Nexus mods Community for making this the most downloaded weapon pack for Fallout 4!",
+          "FileID": 157363,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16387/16387-1557053971-476934564.png",
+          "IsNSFW": false,
+          "ModID": 16387,
+          "Name": "DOOMBASED Weapons Merged (Weapon Pack)",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ky6dI9GOSEo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68599\nfileID=324194",
+        "Name": "FO4 Particle Patch v1-3-2-68599-1-3-2-1719216836.rar",
+        "Size": 12791199,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fadingsignal",
+          "Description": "FO4 Particle Patch is a comprehensive mod that updates hundreds of mesh and material files to make fog, smoke, water, blood, dirt puffs, dust (and much more) glow in the dark less, and better utilize ambient \u0026amp; point lighting. Also improves distance rendering for Far Harbor fog effects.",
+          "FileID": 324194,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68599/68599-1675756391-991298516.jpeg",
+          "IsNSFW": false,
+          "ModID": 68599,
+          "Name": "Fallout 4 Particle Patch - No More Glowing Objects",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xiihgaeuwbs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38621\nfileID=204609",
+        "Name": "SKKQuickPlayerRespec_006-38621-006-1616923345.zip",
+        "Size": 8800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SKK50",
+          "Description": "Quick player respec resets all SPECIAL base values to 1 and removes all base game playable perks, crediting points to reallocate in the perk screen.",
+          "FileID": 204609,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38621/38621-1556385066-1385257972.png",
+          "IsNSFW": false,
+          "ModID": 38621,
+          "Name": "Quick Player Respec by SKK",
+          "Version": "005"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ECaYKrNdUqU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50473\nfileID=202633",
+        "Name": "RGrip to interact UI Fix for Oculus-50473-1-0-1614632439.zip",
+        "Size": 482112,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kwiat_W",
+          "Description": "Swaps \u0022A\u0022 and \u0022Right Grip\u0022 button labels in game\u0027s interface, useful for people using Steam Input to swap functionality of these buttons.",
+          "FileID": 202633,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50473/50473-1614631971-469532479.jpeg",
+          "IsNSFW": false,
+          "ModID": 50473,
+          "Name": "Right Grip to Interact - UI fix for Oculus controllers",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oHjepcojxWQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9835\nfileID=40702",
+        "Name": "Insignificant Object Remover-9835-1-0.rar",
+        "Size": 1025541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AKcelsior",
+          "Description": "Safely removes insignificant objects to improve performance without visual degradation.",
+          "FileID": 40702,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9835-0-1456801260.jpg",
+          "IsNSFW": false,
+          "ModID": 9835,
+          "Name": "Insignificant Object Remover",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CJCnBSkKL+k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=6157\nfileID=21062",
+        "Name": "Medium-6157-1-0.7z",
+        "Size": 522,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LinuX123",
+          "Description": "A small mod that add more effects when you take a damage. Many options.",
+          "FileID": 21062,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6157-0-1450300665.jpg",
+          "IsNSFW": false,
+          "ModID": 6157,
+          "Name": "More Noticeable Hit Effect",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m5k+n8IAurk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73394\nfileID=371313",
+        "Name": "Sim Settlements 2 - All Chapters Pack-73394-3-5-0a-1761406134.zip",
+        "Size": 7929224150,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sim Settlements Team",
+          "Description": "Chapter 3 finishes the story of Sim Settlements 2. Take your settlements to war, capture non-settlement territories, and gather allies to help you fight back the Gunner Invasion!",
+          "FileID": 371313,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73394/73394-1691007678-504016188.jpeg",
+          "IsNSFW": false,
+          "ModID": 73394,
+          "Name": "Sim Settlements 2 - Chapter 3",
+          "Version": "3.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C7suJ9rlcaM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73715\nfileID=287380",
+        "Name": "Fallout4UpscalerVR-73715-1-0-3-1692538430.zip",
+        "Size": 5371285,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "F4SE Plugin to use DLSS/FSR2/XeSS in Fallout 4 VR.",
+          "FileID": 287380,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73715/73715-1691506918-228466445.png",
+          "IsNSFW": false,
+          "ModID": 73715,
+          "Name": "Fallout4 Upscaler VR - DLSS FSR2 XeSS",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Cp8xZJD6RAo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54027\nfileID=218946",
+        "Name": "Another Pine Forest-54027-0-3-1633872743.rar",
+        "Size": 1962519195,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oynlen",
+          "Description": "This mod will add a dense pine forest environment.",
+          "FileID": 218946,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54027/54027-1630665968-1500210132.png",
+          "IsNSFW": false,
+          "ModID": 54027,
+          "Name": "Another Pine Forest Mod",
+          "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0qDgwEiDQyw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51556\nfileID=206314",
+        "Name": "FallUI - HUD VR-51556-1-1c-1618916989.rar",
+        "Size": 281945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "FallUI HUD for Fallout 4 VR improves the in-world displays for usage with Item Sorters.",
+          "FileID": 206314,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51556/51556-1618869815-542887874.png",
+          "IsNSFW": false,
+          "ModID": 51556,
+          "Name": "FallUI - HUD VR",
+          "Version": "1.1c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QK2yxuf0R98=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=230765",
+        "Name": "AN76 - Another Pine Forest Patch-58440-v1-0-0-1645858046.rar",
+        "Size": 389,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlashyJoer",
+          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
+          "FileID": 230765,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
+          "IsNSFW": false,
+          "ModID": 58440,
+          "Name": "Flashy(JoeR) - Advanced Needs 76",
+          "Version": "v1.8.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8PmFv/jS4/c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=74967\nfileID=290339",
+        "Name": "Unoficial UFO4P VR Fix-74967-0-1-1695534440.7z",
+        "Size": 555546,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nyayajp",
+          "Description": "This mod fixes a bug that increased when UFO4P2.1.5 was applied to Fallout4VR.\n\n\n\n1. CTD.\n\nShow next item on workbench.\n\nor when you pick up a Legendary.\n\n\n\nSynth Armor\n\nCombat Armor Right Leg\n\nGatling Laser\n\n\n\n2. Some objects in the DLC area will become transparent.\n\nDesk, Chair, Bradburton\u0027s Head, and M",
+          "FileID": 290339,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/74967/74967-1695533674-944053618.png",
+          "IsNSFW": false,
+          "ModID": 74967,
+          "Name": "Unofficial UFO4P VR Fix",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YWvWfdpciEg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=339\nfileID=718",
+        "Name": "Dogmeat cattle dog texture-339-1-1.zip",
+        "Size": 14475025,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "7iger",
+          "Description": "Retexture of dogmeat to look like my real life dog \u0022Pirate\u0022. (Cattledog x kelpie)",
+          "FileID": 718,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/339-0-1447422561.jpg",
+          "IsNSFW": false,
+          "ModID": 339,
+          "Name": "Classic Dogmeat a.k.a. Pirate",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1V5Pa+Z0fyA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=323314",
+        "Name": "xSE PluginPreloader F4 0.3-33946-0-3-1718686029.zip",
+        "Size": 2497829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karandra",
+          "Description": "This mod allows preload F4SE plugins before the game initializes.",
+          "FileID": 323314,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
+          "IsNSFW": false,
+          "ModID": 33946,
+          "Name": "xSE PluginPreloader F4",
+          "Version": "0.2.5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OaRr4wVyf20=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46722\nfileID=188430",
+        "Name": "NAC X Legacy edition-46722-1-0-0-1596620706.zip",
+        "Size": 178741378,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "L00",
+          "Description": "The most comprehensive modular weather, lighting and visual overhaul for Fallout 4.",
+          "FileID": 188430,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46722/46722-1596619318-1559137878.jpeg",
+          "IsNSFW": false,
+          "ModID": 46722,
+          "Name": "NAC X - NATURAL AND ATMOSPHERIC COMMONWEALTH 10 - Legacy Edition",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qUwScZ2wGnk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41568\nfileID=179403",
+        "Name": "WAVE-41568-1-2-1586794752.7z",
+        "Size": 5757063,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CaptainCockerel",
+          "Description": "No more elastic waves in the Commonwealth. Brand new effects and textures with a more realistic motion.",
+          "FileID": 179403,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41568/41568-1586242866-1712013754.jpeg",
+          "IsNSFW": false,
+          "ModID": 41568,
+          "Name": "WAVE - Wave Animation Vanilla Enhanced",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zig33o/Ql3o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53777\nfileID=214727",
+        "Name": "Customizable Loading Screen VR-53777-1-0-1628970384.7z",
+        "Size": 941247,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KhaoMaat",
+          "Description": "Centers loading screen elements in VR and provides a number of options to customize the appearance.",
+          "FileID": 214727,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53777/53777-1628975134-989755779.png",
+          "IsNSFW": false,
+          "ModID": 53777,
+          "Name": "Customizable Loading Screen VR",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UrngTLqHXC0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47730\nfileID=192413",
+        "Name": "Fallout 3-style Vats Screech-47730-1-15-1601656963.zip",
+        "Size": 11327,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "John3575",
+          "Description": "Remember Fallout 3, where the VATS screech also played when exiting VATS? This mod brings that back.",
+          "FileID": 192413,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47730/47730-1601653241-1789252228.png",
+          "IsNSFW": false,
+          "ModID": 47730,
+          "Name": "Fallout 3-styled VATS Exit Sound",
+          "Version": "1.15"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UGFahibt8VA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=368524",
+        "Name": "DOOMMerged_Disabler-56405-2-0-1-1758785903.zip",
+        "Size": 146482,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
+          "FileID": 368524,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
+          "IsNSFW": false,
+          "ModID": 56405,
+          "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+Q1vFiiBeow=",
+        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser.7z",
+        "Name": "Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser.7z",
+        "Size": 16769,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_DOOMMerged_Classic_Sniper_WattzLaser.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o9hDzs32BNA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45167\nfileID=182280",
+        "Name": "Fallout4VRTools BETA v0.1-45167-v0-1-1589924169.zip",
+        "Size": 231986,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "frazaman",
+          "Description": "Create Fallout 4 VR mods based on VR controller input events\n\nSupports PapyrusVR and C\u002B\u002B/F4SEVR API",
+          "FileID": 182280,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45167/45167-1589924307-249614209.png",
+          "IsNSFW": false,
+          "ModID": 45167,
+          "Name": "Fallout4 VR Tools",
+          "Version": "v0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q+7Gh5TcB4Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=98987\nfileID=376869",
+        "Name": "Dogmeat Heterochromia iridum-98987-1-1765216437.7z",
+        "Size": 109642,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ajantaju",
+          "Description": "Blue and brown eyes for Dogmeat.",
+          "FileID": 376869,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/98987/98987-1765216181-1623288898.png",
+          "IsNSFW": false,
+          "ModID": 98987,
+          "Name": "Dogmeat Heterochromia iridum",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5ba+z69hDuY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44691\nfileID=187294",
+        "Name": "ImmersiveChembenches-CleanVersion-44691-1-01-Alternate-1595297526.zip",
+        "Size": 1476622,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jimmygitto",
+          "Description": "Very simple no-esp model replacer for the Chemistry Stations to make them more immersive for crafting everything.\n\n\n\nAlso with an ESL-flagged ESP option (doesn\u0027t count towards your load order limit) which lets you craft the 4 alternate models.",
+          "FileID": 187294,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44691/44691-1587922780-1782943331.jpeg",
+          "IsNSFW": false,
+          "ModID": 44691,
+          "Name": "Simple Immersive Chem Benches for Crafting",
+          "Version": "1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fYYT7wGa3N4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=237732",
+        "Name": "AN76 - NAC-X Patch-58440-v1-0-0-1652617745.7z",
+        "Size": 910,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlashyJoer",
+          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
+          "FileID": 237732,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
+          "IsNSFW": false,
+          "ModID": 58440,
+          "Name": "Flashy(JoeR) - Advanced Needs 76",
+          "Version": "v1.8.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kfLvdynuIYk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31088\nfileID=172178",
+        "Name": "DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z",
+        "Size": 94599,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phlunder",
+          "Description": "Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes, and scaling.",
+          "FileID": 172178,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31088/31088-1540041078-2134724658.jpeg",
+          "IsNSFW": false,
+          "ModID": 31088,
+          "Name": "DEF_UI Iconlibs Rescaled and Fixed",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "f8iAHcMAjH0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=206129",
         "Name": "High FPS Physics Fix VR-44798-0-8-3-beta2-1618690123.zip",
@@ -2297,6 +1912,202 @@
           "ModID": 44798,
           "Name": "High FPS Physics Fix",
           "Version": "0.8.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Yffs6QtcAws=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2037\nfileID=49781",
+        "Name": "Arbitration - FOMod Installer-2037-0-4-3.7z",
+        "Size": 231478,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JackArbiter",
+          "Description": "All Optional - AI Overhaul, Stealth Overhaul, Controllable Lowered Weapons, Fall Damage Overhaul, Damage Overhaul, Compass Overhaul, Molotov Overhaul, Grenade Throwing Delay, Grenade Detection Increase",
+          "FileID": 49781,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2037-0-1448254484.jpg",
+          "IsNSFW": false,
+          "ModID": 2037,
+          "Name": "Arbitration - Combat AI - Stealth - Speed - Damage - Gameplay Overhaul and Tweaks",
+          "Version": "0.4.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kO3UdlNJWPk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31527\nfileID=132199",
+        "Name": "Easy Lockpicking and Hacking-31527-2-0.7z",
+        "Size": 368,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dank Rafft",
+          "Description": "Since the original mod has some flaws (missing master and wild edits) which could lead to an automatically deactivating mod or unnecessary mod conflicts I decided to recreate it. V2 also includes easy hacking.",
+          "FileID": 132199,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31527/31527-1525430607-99493805.jpeg",
+          "IsNSFW": false,
+          "ModID": 31527,
+          "Name": "Easy Lockpicking and Hacking",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J7DQZ6V5XfI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51556\nfileID=206260",
+        "Name": "FallUI Item Sorter for VR (English only - no DLCs)-51556-1-0-1618845506.rar",
+        "Size": 189798,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "FallUI HUD for Fallout 4 VR improves the in-world displays for usage with Item Sorters.",
+          "FileID": 206260,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51556/51556-1618869815-542887874.png",
+          "IsNSFW": false,
+          "ModID": 51556,
+          "Name": "FallUI - HUD VR",
+          "Version": "1.1c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OcnZdQLf/WQ=",
+        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2.7z",
+        "Name": "Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2.7z",
+        "Size": 249174,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/Item_Tags_F4FEVR_DLC_PL_LoreGuns_v2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ixUTWUQBTs0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=99041\nfileID=377004",
+        "Name": "Custom_DOOMMerged_Disabler-99041-1-0-1765373604.7z",
+        "Size": 96541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ajantaju",
+          "Description": "Disables weapons from DOOMBASED Weapons Merged that are too \u0022modern\u0022 for my taste. Disables leveled list injections so they\u0027re also unique.",
+          "FileID": 377004,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/99041/99041-1765373828-565663177.png",
+          "IsNSFW": false,
+          "ModID": 99041,
+          "Name": "Custom Disabler for DOOMBASED Weapons Merged",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8N71VOeCTPg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31976\nfileID=260696",
+        "Name": "Fog Remover II ESL (Main) v2.2 Installer-31976-2-2-1671214076.7z",
+        "Size": 184519,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "3 Gouls and a Supermutant",
+          "Description": "Fog Remover II improves the games appearance and performance by removing Interior Fog, Mist, Steam, Dust, Smoke and Airborne Debris. Featuring the new \u0022Interior Fog Remover\u0022 option / standalone mod.",
+          "FileID": 260696,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31976/31976-1535941839-608327415.png",
+          "IsNSFW": false,
+          "ModID": 31976,
+          "Name": "Fog Remover - Performance Enhancer II",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a6V+Z56xIuA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=34419\nfileID=140047",
+        "Name": "Reflective Water - Main File-34419-1-0.zip",
+        "Size": 4010,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Androl",
+          "Description": "This mod tweaks water settings to make water more physically accurate, removing the fake water color and increasing the brightness of real reflections.",
+          "FileID": 140047,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34419/34419-1535667008-1099411718.png",
+          "IsNSFW": false,
+          "ModID": 34419,
+          "Name": "Reflective Water",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nZhQp2rMXIo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40669\nfileID=164469",
+        "Name": "Weapon Accuracy Redone (DLC)-40669-1-0-1565971144.zip",
+        "Size": 1354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "joycourier",
+          "Description": "I\u0027ve made adjustments to the spread and recoil of all weapons while still keeping the game balanced (E.G; rifle stocks are still worth it). \n\nIntended for FO4VR, obviously ruins balance of regular Fallout 4.",
+          "FileID": 164469,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40669/40669-1565970689-508064884.png",
+          "IsNSFW": false,
+          "ModID": 40669,
+          "Name": "Weapon Accuracy Redone for VR",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iX+nL6BlLUU=",
+        "Meta": "[General]\ndirectURL=https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip",
+        "Name": "fsr2.2.1.zip",
+        "Size": 1110945,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N6vvSSTPoZY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13459\nfileID=88106",
+        "Name": "Everyone\u0027s Best Friend v3.0.0-13459-3-0-0.rar",
+        "Size": 81039,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Valdacil",
+          "Description": "This mod allows you to have Dogmeat and a standard companion at the same time using in game functionality (not hacks or console commands).",
+          "FileID": 88106,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13459-0-1463160357.jpg",
+          "IsNSFW": false,
+          "ModID": 13459,
+          "Name": "Everyone\u0027s Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)",
+          "Version": "3.0.0"
         }
       }
     },
@@ -2338,63 +2149,301 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8PmFv/jS4/c=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=74967\nfileID=290339",
-        "Name": "Unoficial UFO4P VR Fix-74967-0-1-1695534440.7z",
-        "Size": 555546,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nyayajp",
-          "Description": "This mod fixes a bug that increased when UFO4P2.1.5 was applied to Fallout4VR.\n\n\n\n1. CTD.\n\nShow next item on workbench.\n\nor when you pick up a Legendary.\n\n\n\nSynth Armor\n\nCombat Armor Right Leg\n\nGatling Laser\n\n\n\n2. Some objects in the DLC area will become transparent.\n\nDesk, Chair, Bradburton\u0027s Head, and M",
-          "FileID": 290339,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/74967/74967-1695533674-944053618.png",
-          "IsNSFW": false,
-          "ModID": 74967,
-          "Name": "Unofficial UFO4P VR Fix",
-          "Version": "0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ks36L0kqknI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33486\nfileID=136105",
-        "Name": "Renamed Chem Station-33486-1-0.zip",
-        "Size": 773,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LeahTheUnknown",
-          "Description": "Because you don\u0027t make clothes with Chemistry.  Not associated with the popular Crafting Workbenches mod.",
-          "FileID": 136105,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33486/33486-1532302160-1067029802.jpeg",
-          "IsNSFW": false,
-          "ModID": 33486,
-          "Name": "Chemistry Station Renamed Crafting Workbench",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "a6V+Z56xIuA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=34419\nfileID=140047",
-        "Name": "Reflective Water - Main File-34419-1-0.zip",
-        "Size": 4010,
+        "Hash": "aHXgdm544HU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=34419\nfileID=140048",
+        "Name": "Reflective Water - DLC (Requires Far Harbor and Nuka World)-34419-1-0.zip",
+        "Size": 1263,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Androl",
           "Description": "This mod tweaks water settings to make water more physically accurate, removing the fake water color and increasing the brightness of real reflections.",
-          "FileID": 140047,
+          "FileID": 140048,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34419/34419-1535667008-1099411718.png",
           "IsNSFW": false,
           "ModID": 34419,
           "Name": "Reflective Water",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lYDeVCBW/yA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12986\nfileID=287844",
+        "Name": "Weapons of Fate - Latest Version-12986-1-3-1-1692902711.zip",
+        "Size": 1539056,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seb263",
+          "Description": "Weapons of Fate is a mod that makes bullets behave in a more interesting and realistic manner.\n\n\n\nEach bullet has unique characteristics that are combined to determine the trajectory that the bullet will follow.\n\nAlso, bullets no longer dissapear after a certain distance, instead losing in altitude until their point of impact.",
+          "FileID": 287844,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12986/12986-1528626488-2124181168.png",
+          "IsNSFW": false,
+          "ModID": 12986,
+          "Name": "Weapons of Fate (Ballistics Overhaul)",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S7SCUs7b+Q4=",
+        "Meta": "[General]\ndirectURL=https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR_Intro.7z",
+        "Name": "F4FEVR_Intro.7z",
+        "Size": 10461494,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ajantaju/F4FEVR/raw/main/Files/F4FEVR_Intro.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RdNdy/loBSY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=378326",
+        "Name": "FRIK 77-53464-v0-77-1766420659.7z",
+        "Size": 11171114,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock-alandtse-shizof-CylonSurfer",
+          "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
+          "FileID": 378326,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
+          "IsNSFW": false,
+          "ModID": 53464,
+          "Name": "FRIK - Full Player Body with IK",
+          "Version": "v0.58"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b2a5r6cJRB8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12986\nfileID=131823",
+        "Name": "Weapons of Fate - Latest Version-12986-1-2-1.zip",
+        "Size": 2496089,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seb263",
+          "Description": "Weapons of Fate is a mod that makes bullets behave in a more interesting and realistic manner.\n\n\n\nEach bullet has unique characteristics that are combined to determine the trajectory that the bullet will follow.\n\nAlso, bullets no longer dissapear after a certain distance, instead losing in altitude until their point of impact.",
+          "FileID": 131823,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12986/12986-1528626488-2124181168.png",
+          "IsNSFW": false,
+          "ModID": 12986,
+          "Name": "Weapons of Fate (Ballistics Overhaul)",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vYFWyWpPI9I=",
+        "Meta": "[General]\ndirectURL=https://github.com/beeradmoore/dlss-archive/releases/download/v3.5.10.0/nvngx_dlss_3.5.10.0.zip",
+        "Name": "nvngx_dlss_3.5.10.0.zip",
+        "Size": 37060373,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/beeradmoore/dlss-archive/releases/download/v3.5.10.0/nvngx_dlss_3.5.10.0.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KDaLKb2GYPQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55890\nfileID=227607",
+        "Name": "Resized 10mm Pistol Reworked-55890-1-4-1643027929.rar",
+        "Size": 225371,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Topol774",
+          "Description": "Smaller 10mm pistol model, reduced muzzle flash and fixed reflex sights.",
+          "FileID": 227607,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55890/55890-1637392816-778988651.png",
+          "IsNSFW": false,
+          "ModID": 55890,
+          "Name": "Resized 10mm Pistol Reworked",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vYjXiYShkKM=",
+        "Meta": "[General]\ngameName=site\nmodID=502\nfileID=2293",
+        "Name": "UpscalerBasePlugin-502-1-1-2-1693443305.zip",
+        "Size": 73302,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "My plugin for bridging DLSS/FSR2/XeSS.",
+          "FileID": 2293,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/502/502-1672090358-1967705145.png",
+          "IsNSFW": false,
+          "ModID": 502,
+          "Name": "UpscalerBasePlugin",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pGzyS5nyQCQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=91141\nfileID=376634",
+        "Name": "Daytripper4-91141-1-2-1-1765025048.7z",
+        "Size": 5671915,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Engine fixes for those looking for a \u0027happy escape\u0027 into Virtual Reality.\n\nF4SE universal plugin that supports both Fallout 4 OG / NG / VR.",
+          "FileID": 376634,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/91141/91141-1762444163-298955377.jpg",
+          "IsNSFW": false,
+          "ModID": 91141,
+          "Name": "Daytripper 4",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ah7vdbiNdNc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=16425\nfileID=75900",
+        "Name": "Vivid Waters-16425-1-10.zip",
+        "Size": 325116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mangaclub",
+          "Description": "This mod aims to overhaul the Water textures, reflections, opacity, specularity and general look of the water in Fallout 4 to be more realistic and water like.",
+          "FileID": 75900,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16425-8-1468443584.png",
+          "IsNSFW": false,
+          "ModID": 16425,
+          "Name": "Vivid Waters - a Water overhaul for Fallout 4",
+          "Version": "1.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YHJcCpaY5yI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62843\nfileID=246599",
+        "Name": "Perk Up-62843-1-1-1660399659.7z",
+        "Size": 60375,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Makes Fallout less annoying to play by fixing bugged perks, making underused perks viable and automating low skill actions.",
+          "FileID": 246599,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62843/62843-1659531328-97607560.jpeg",
+          "IsNSFW": false,
+          "ModID": 62843,
+          "Name": "Perk Up - Lightweight Perk Overhaul",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uXtyHNF4WQQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51403\nfileID=205814",
+        "Name": "Map tweaks VR-51403-1-0-1618333957.zip",
+        "Size": 95549,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kwiat_W",
+          "Description": "Altered zoom level, zoom out further, coloured quest indicators, lowered joystick sensitivity.",
+          "FileID": 205814,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51403/51403-1618332483-101830496.jpeg",
+          "IsNSFW": false,
+          "ModID": 51403,
+          "Name": "Map Tweaks VR",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TaET66jMAPI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8300\nfileID=34993",
+        "Name": "Floppy Eared Dogmeat (One Ear)-8300-1-2.rar",
+        "Size": 269406,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MissMorose",
+          "Description": "Just a small edit to Dogmeat\u0027s mesh to give him floppy down-turned ears, to add more variety to virtual dogs!",
+          "FileID": 34993,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8300-0-1452702915.jpg",
+          "IsNSFW": false,
+          "ModID": 8300,
+          "Name": "Floppy Eared Dogmeat",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jRPeV16iTv4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57680\nfileID=294142",
+        "Name": "Lightweight Lighting-57680-4-0-1699813483.7z",
+        "Size": 20893,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Lightweight lighting aims to be an all in one simple Vanilla \u002B Lighting overhaul. All while being as compatible as can be with no cell edits.",
+          "FileID": 294142,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57680/57680-1683658558-666609978.jpeg",
+          "IsNSFW": false,
+          "ModID": 57680,
+          "Name": "Lightweight Lighting - A weather and interior lighting overhaul",
+          "Version": "3.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LJl9otO2UwU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64879\nfileID=360587",
+        "Name": "VR Address Library-64879-1-13-1-1751603834.7z",
+        "Size": 424994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "VR Address Library database for end users. This is intended as a VR replacement for Address Library for F4SE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha.\n\n\n\nThis is not for Fallout4. This is different from Address Library for F4SE.",
+          "FileID": 360587,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64879/64879-1665041371-925259929.png",
+          "IsNSFW": false,
+          "ModID": 64879,
+          "Name": "VR Address Library for F4SEVR",
+          "Version": "1.6.1"
         }
       }
     }
