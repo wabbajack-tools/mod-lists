@@ -229,7 +229,7 @@
 *  [Drethos Ancestral Tomb-53481-1-0-1694207409.zip](https://www.nexusmods.com/morrowind/mods/53481/?tab=files&file_id=1000040103)
 *  [DRHR-51674-1-0-1659447983.zip](https://www.nexusmods.com/morrowind/mods/51674/?tab=files&file_id=1000032480)
 *  [Drinking and Delving-54777-1-2-1-1749060754.zip](https://www.nexusmods.com/morrowind/mods/54777/?tab=files&file_id=1000054101)
-*  [Dubious Concoctions-57757-1-0-1762869298.zip](https://www.nexusmods.com/morrowind/mods/57757/?tab=files&file_id=1000058323)
+*  [Dubious Concoctions-57757-1-1-1764269272.zip](https://www.nexusmods.com/morrowind/mods/57757/?tab=files&file_id=1000058723)
 *  [Dungeon Details Abaesen-Pulu Egg Mine-53285-1-1-1690563723.zip](https://www.nexusmods.com/morrowind/mods/53285/?tab=files&file_id=1000039418)
 *  [Dunirai Town-57587-1-1-1760124485.7z](https://www.nexusmods.com/morrowind/mods/57587/?tab=files&file_id=1000057553)
 *  [Dunmer Lanterns Replacer-43219-14-0-1746324439.7z](https://www.nexusmods.com/morrowind/mods/43219/?tab=files&file_id=1000052427)
