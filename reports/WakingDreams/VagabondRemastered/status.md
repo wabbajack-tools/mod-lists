@@ -1,11 +1,10 @@
 ## Validation Report - Vagabond Remastered (WakingDreams/VagabondRemastered)
 
 
-### Invalid (1)
-*  [Cosmofujia ER Weapons Merged.7z](https://authored-files.wabbajack.org/Cosmofujia ER Weapons Merged.7z_a123ea36-d8ce-4220-adc4-be85a66c5ada)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4327)
+### Valid (4328)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -733,6 +732,7 @@
 *  [Contextual Crosshair-63980-1-3-1-1741784240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=604744)
 *  [ContinueSound-47473-1-0-1616595473.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47473/?tab=files&file_id=193320)
 *  [coral atronachs (se-ae) v2-33737-2-1735825530.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33737/?tab=files&file_id=578698)
+*  [Cosmofujia ER Weapons Merged.7z](https://authored-files.wabbajack.org/Cosmofujia ER Weapons Merged.7z_a123ea36-d8ce-4220-adc4-be85a66c5ada)
 *  [COTN - Dawnstar - Meshes Optimization Project-160495-1-0-1759442259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160495/?tab=files&file_id=671642)
 *  [COTN - Falkreath-160495-1-0-1759428992.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160495/?tab=files&file_id=671570)
 *  [COTN Dawnstar - Better Dynamic Snow v3-52111-1-1-1660082961.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52111/?tab=files&file_id=306141)
