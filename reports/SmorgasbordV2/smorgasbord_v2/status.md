@@ -1,4 +1,4 @@
-## Validation Report - SmorgasbordV2 (SmorgasbordV2/smorgasbord_v2)
+## Validation Report - Smorgasbord Reborn (SmorgasbordV2/smorgasbord_v2)
 
 
 ### Invalid (0)
