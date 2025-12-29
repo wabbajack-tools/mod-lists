@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1393)
+### Valid (1395)
 *  [-Perfect landscape by Pfuscher ULTRA 2.0-48403-2-0-1606852878.7z](https://www.nexusmods.com/fallout4/mods/48403/?tab=files&file_id=196059)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1 - Keep Radiants in the Commonwealth Patch-59019-1-14-1759618371.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=369219)
@@ -279,6 +279,7 @@
 *  [Eye Liner Masks-4398-0-3.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=31749)
 *  [F4ECC - 1.2-5060-1-2.rar](https://www.nexusmods.com/fallout4/mods/5060/?tab=files&file_id=16830)
 *  [Fabulous Fire Extinguisher NO LOGO-70706-1-0-1686898102.rar](https://www.nexusmods.com/fallout4/mods/70706/?tab=files&file_id=280588)
+*  [Fallout 4 Script Extender (F4SE)-42147-0-7-2-1715628153.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=316287)
 *  [Fallout4 (1.10.984) PDB-64880-2024-7-5-1720218881.7z](https://www.nexusmods.com/fallout4/mods/64880/?tab=files&file_id=325632)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
@@ -557,6 +558,7 @@
 *  [Right-handed Lever Action Replacer-30485-V1-1.7z](https://www.nexusmods.com/fallout4/mods/30485/?tab=files&file_id=124870)
 *  [RobCo Patcher - NG - ALPHA-69798-4-2-1-1758269310.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=368046)
 *  [Roof Mesh Fix 1.0 LOOSE-40861-1-0-1566881632.zip](https://www.nexusmods.com/fallout4/mods/40861/?tab=files&file_id=165246)
+*  [Root Builder 5.0.5-31720-5-0-5-1722935359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=528774)
 *  [Running Hands ESL 1.1-62240-1-1-1658520716.zip](https://www.nexusmods.com/fallout4/mods/62240/?tab=files&file_id=244135)
 *  [Sanctuary Outfits Workbench-95197-0-2-1763566081.7z](https://www.nexusmods.com/fallout4/mods/95197/?tab=files&file_id=374499)
 *  [SavrenX Organic Gore-40351-1-00-1564482159.7z](https://www.nexusmods.com/fallout4/mods/40351/?tab=files&file_id=163296)
