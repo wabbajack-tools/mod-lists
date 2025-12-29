@@ -4,4 +4,504 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (0)
+### Valid (500)
+*  [1dark_malk_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl)
+*  [AAFVentrue.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin)
+*  [Antitribu_1.1-Repack.zip](https://authored-files.wabbajack.org/Antitribu_1.1-Repack.zip_f9f184c9-157f-4f9a-bd2a-c83665667a0a)
+*  [Aristocratic_nosferatu.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/aristocratic-nosferatu-by-marius217)
+*  [Art Texture Pack 1.01-75-1-01-1571250154.zip](https://www.nexusmods.com/vampirebloodlines/mods/75/?tab=files&file_id=288)
+*  [asian_gangrel.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/asian-gangrel-female)
+*  [asian_purple_malkavian_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/asian-purple-malkavian-girl)
+*  [Barabbah Addon - Repack.7z](https://authored-files.wabbajack.org/Barabbah Addon - Repack.7z_5b9970da-5ccf-431c-8db2-68df4e9174ee)
+*  [Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip](https://www.nexusmods.com/vampirebloodlines/mods/74/?tab=files&file_id=169)
+*  [BeautifulMonsterRedux.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/beautiful-monster-redux1)
+*  [Billboards and Busstops-176-8-6-1760422457.rar](https://www.nexusmods.com/vampirebloodlines/mods/176/?tab=files&file_id=1290)
+*  [Bimbo Nosferatu by katr-224-1-1659276458.rar](https://www.nexusmods.com/vampirebloodlines/mods/224/?tab=files&file_id=640)
+*  [Black-haired_Toreador_reskin.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/black-haired-toreador-skin)
+*  [Blonde_Malkavian.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin)
+*  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
+*  [Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=997)
+*  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
+*  [BLOODLINES_EXTREME_2.0.3.zip](https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme)
+*  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
+*  [Boombox reskin - animated clock-108-1-0-1563569052.zip](https://www.nexusmods.com/vampirebloodlines/mods/108/?tab=files&file_id=264)
+*  [Brujah Connor Mclaud  The Highlander by Marius217-181-1-1620051909.rar](https://www.nexusmods.com/vampirebloodlines/mods/181/?tab=files&file_id=528)
+*  [Brujah opium-335-1-0-1735584083.rar](https://www.nexusmods.com/vampirebloodlines/mods/335/?tab=files&file_id=1143)
+*  [Brujah Skin-319-2-0-1722106221.7z](https://www.nexusmods.com/vampirebloodlines/mods/319/?tab=files&file_id=1037)
+*  [Camarilla Edition Reborn HOTFIX 2-263-2025-I-1766741268.zip](https://www.nexusmods.com/vampirebloodlines/mods/263/?tab=files&file_id=1430)
+*  [Carpet Texture Pack-152-1-0-1598207727.zip](https://www.nexusmods.com/vampirebloodlines/mods/152/?tab=files&file_id=423)
+*  [Casual Female Malkavian-267-1-0-1689345021.zip](https://www.nexusmods.com/vampirebloodlines/mods/267/?tab=files&file_id=833)
+*  [Character Eyes Improved-164-16-1719680547.rar](https://www.nexusmods.com/vampirebloodlines/mods/164/?tab=files&file_id=1015)
+*  [Chinatown_vampire.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/chinatown-vampire-by-skeletoff)
+*  [Chinatown-165-30-1760939355.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1294)
+*  [Clan Quest Mod - Repack.7z](https://authored-files.wabbajack.org/Clan Quest Mod - Repack.7z_84215957-5b0e-4dbd-b8bd-e6ddc2401a74)
+*  [Clan Quest Mod Characters-165-26-1733697490.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1128)
+*  [Clan Quest Mod Voices Remastered-315-1-0-1718750259.zip](https://www.nexusmods.com/vampirebloodlines/mods/315/?tab=files&file_id=1009)
+*  [Companion Mod Core Edition - Repack.zip](https://authored-files.wabbajack.org/Companion Mod Core Edition - Repack.zip_6f9170de-1181-43ea-9149-e7f486f1a319)
+*  [Companion Mod Core for The Final Nights 1.6.1-162-v3-1735306741.7z](https://www.nexusmods.com/vampirebloodlines/mods/162/?tab=files&file_id=1141)
+*  [Companion Mod Models-383-alpha-0-1-1764714074.zip](https://www.nexusmods.com/vampirebloodlines/mods/383/?tab=files&file_id=1398)
+*  [Computer Greeting-365-1-0-1764834066.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1400)
+*  [Corporate Goth Ventrue - male-52-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/52/?tab=files&file_id=133)
+*  [CustomPC.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/custom-pc-skins)
+*  [Cybergoth Girl-81-2-1553964828.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=184)
+*  [Damon Salvatore Tremere V.5-29-5.rar](https://www.nexusmods.com/vampirebloodlines/mods/29/?tab=files&file_id=84)
+*  dbghelp.dll
+*  [demonastery_female_t.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere)
+*  [Deranged_Darling.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/deranged-darling-malkavian-armor)
+*  [dev0lved_enb_v1.2.zip-10-1-2.zip](https://www.nexusmods.com/vampirebloodlines/mods/10/?tab=files&file_id=9)
+*  Docs_Help_Compatibility_msr.htm
+*  Docs_Help_License_license.htm
+*  Docs_Help_Readme_readme.htm
+*  Docs_Help_Readme_readme.rtf
+*  Docs_Help_Tech Help_Customer Support_Customer_support_files_header.htm
+*  Docs_Help_Tech Help_Customer Support_Customer_support.htm
+*  Docs_License.txt
+*  Docs_MSR.txt
+*  [Downtown-165-30-1760940144.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1295)
+*  [E Mesh Edit-238-1-1-1671997987.7z](https://www.nexusmods.com/vampirebloodlines/mods/238/?tab=files&file_id=691)
+*  [Fashionista Main Menu-365-0-0-1-1761803218.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1323)
+*  [Fem Joker Malkavian Skin-44-.zip](https://www.nexusmods.com/vampirebloodlines/mods/44/?tab=files&file_id=110)
+*  [Female Gangrel by Marius217-186-1-1629345561.rar](https://www.nexusmods.com/vampirebloodlines/mods/186/?tab=files&file_id=546)
+*  [Female_Malkavian_Armor_0_Reskin.zip](https://www.moddb.com/addons/female-malkavian-reskin)
+*  [Female_Tremere_Skin_Set_by_Neisseria.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vtmb-female-tremere-full-armour-set)
+*  [Furniture Texture Pack - Base Pack 1.1-88-1-1-1594389794.zip](https://www.nexusmods.com/vampirebloodlines/mods/88/?tab=files&file_id=408)
+*  [Gangmember Dark Retex Main File-292-1-0-1708542537.zip](https://www.nexusmods.com/vampirebloodlines/mods/292/?tab=files&file_id=943)
+*  [Gangrel and War Form Replacer - Luna 1.1-375-1-1-1763155362.zip](https://www.nexusmods.com/vampirebloodlines/mods/375/?tab=files&file_id=1376)
+*  [GANGREL_2022.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-model-by-marius217)
+*  [Gangrel_fem.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-female-reskinned)
+*  [Gangrel_Male_by_Kenny_Willian.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-by-kenny-willian)
+*  [Gangrel_Male_Reskin.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin)
+*  [Gerri Dandridge (Fright Night 2 New Blood) for Ventrue-50-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/50/?tab=files&file_id=126)
+*  [Golden_Rose.7z](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/the-golden-rose-v14)
+*  [HandsomeNosferatu.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/handsome-nosferatu-by-skeletoff)
+*  [HD Grounds morestuff-34-v1-2.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=75)
+*  [HD Grounds part 2-34-v1-21.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=76)
+*  [HDGrounds Hotfix-34-v1-211.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=78)
+*  [Hollywood-165-30-1761637433.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1311)
+*  [Hooded Nosferatu v1.1-100-v1-1-1557952530.rar](https://www.nexusmods.com/vampirebloodlines/mods/100/?tab=files&file_id=239)
+*  [Hotfix 1-315-1-1-1742896738.zip](https://www.nexusmods.com/vampirebloodlines/mods/315/?tab=files&file_id=1199)
+*  [Jenya's female toreador pc-149-1-0-1594830583.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=412)
+*  [LA By Night - Repack.zip](https://authored-files.wabbajack.org/LA By Night - Repack.zip_e2b1c1c0-2a41-4b19-8f2b-5cd5bd928633)
+*  [LA Nights ENB - Main File-342-1-1740509252.zip](https://www.nexusmods.com/vampirebloodlines/mods/342/?tab=files&file_id=1185)
+*  [Latex Dictator Malkavian-285-1-0-1701728128.zip](https://www.nexusmods.com/vampirebloodlines/mods/285/?tab=files&file_id=910)
+*  [latex_toreador_v1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-replacement)
+*  [Libertarian Ventrue-317-1-0-1719329227.zip](https://www.nexusmods.com/vampirebloodlines/mods/317/?tab=files&file_id=1013)
+*  [Lily UV map fix-237-1-1671754711.7z](https://www.nexusmods.com/vampirebloodlines/mods/237/?tab=files&file_id=688)
+*  [Lockpicking icons for UP-308-1-0-1717262414.rar](https://www.nexusmods.com/vampirebloodlines/mods/308/?tab=files&file_id=998)
+*  [Lovely Degenerate - Director's Cut-96-2-0-1684714169.zip](https://www.nexusmods.com/vampirebloodlines/mods/96/?tab=files&file_id=798)
+*  [Mad_Malk_V1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack)
+*  [Main Songs-324-1-0-1722428546.zip](https://www.nexusmods.com/vampirebloodlines/mods/324/?tab=files&file_id=1050)
+*  [male_malk-46-1-2.zip](https://www.nexusmods.com/vampirebloodlines/mods/46/?tab=files&file_id=114)
+*  [malemalk0.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin)
+*  [Malk_Noir_HUD-269-1-0-1690294667.zip](https://www.nexusmods.com/vampirebloodlines/mods/269/?tab=files&file_id=839)
+*  [malk_noir-45-2-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/45/?tab=files&file_id=115)
+*  [Malkavian Goth Female-378-0-0-1-1762653025.7z](https://www.nexusmods.com/vampirebloodlines/mods/378/?tab=files&file_id=1351)
+*  [Malkavian Replacer - Mads-381-1-0-1763149109.zip](https://www.nexusmods.com/vampirebloodlines/mods/381/?tab=files&file_id=1372)
+*  [Malkavian Whispers UPgraded Patch-369-1-1-1762064393.zip](https://www.nexusmods.com/vampirebloodlines/mods/369/?tab=files&file_id=1333)
+*  [Malkavian Whispers UPgraded-369-1-0-1762058485.zip](https://www.nexusmods.com/vampirebloodlines/mods/369/?tab=files&file_id=1331)
+*  [Malkavian_-_Goth_Re-skin.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin)
+*  [MALKAVIAN_2022.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-model-by-marius217)
+*  [Malkavian_Corset.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-corset)
+*  [Malkavian_Male_by_Kenny_Willian.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-by-kenny-willian)
+*  [Malkavian.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-simple-vy-marius217)
+*  [malkfemarmor0.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress)
+*  [MalkGirl-7-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/7/?tab=files&file_id=6)
+*  [materials.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu)
+*  [MavenCousland Toreador male-379-1-1762749156.zip](https://www.nexusmods.com/vampirebloodlines/mods/379/?tab=files&file_id=1360)
+*  [Metalhead_Gangrel.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/metalhead-gangrel)
+*  [MistressNosferatu-221-2-0-1654877333.rar](https://www.nexusmods.com/vampirebloodlines/mods/221/?tab=files&file_id=624)
+*  [MO2 Plugin-365-1-0-1764835640.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1402)
+*  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
+*  [ModernTorFemale(Fixed)-192-2-1a-1634819804.zip](https://www.nexusmods.com/vampirebloodlines/mods/192/?tab=files&file_id=557)
+*  [Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1267)
+*  [Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1265)
+*  [Neu Ventrue-371-1-1762325963.rar](https://www.nexusmods.com/vampirebloodlines/mods/371/?tab=files&file_id=1339)
+*  [New hands texture-149-1-0-1596153267.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=419)
+*  [NewmalePCMod.2.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-male-pc-by-skeletoff)
+*  [NewPCMod.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff)
+*  [NightIsBlack-215-2-0-1654875399.rar](https://www.nexusmods.com/vampirebloodlines/mods/215/?tab=files&file_id=618)
+*  [No-Eccentric_Malk.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/no-eccentric-malkavian)
+*  [Nocturnal Excess (ENB-ReShade)-102-2-0-1577916841.zip](https://www.nexusmods.com/vampirebloodlines/mods/102/?tab=files&file_id=345)
+*  noseqence.txt
+*  [nosf_male.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosferatu-male-transforming)
+*  [Nosferatu Gentleman-328-1-1727791218.rar](https://www.nexusmods.com/vampirebloodlines/mods/328/?tab=files&file_id=1083)
+*  [Nosferatu Interface-284-1-1734878052.rar](https://www.nexusmods.com/vampirebloodlines/mods/284/?tab=files&file_id=1136)
+*  [Nosferatu Mother Fukcer by Marius217-120-1-1567007941.rar](https://www.nexusmods.com/vampirebloodlines/mods/120/?tab=files&file_id=286)
+*  [Nosferatu Replacer - Zivot 1.0 (With intro form)-392-1-0-1766893061.zip](https://www.nexusmods.com/vampirebloodlines/mods/392/?tab=files&file_id=1443)
+*  [Nosferatu_Female.3.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10)
+*  [nosferatu_female.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosf-female-transform-skin)
+*  [Nosferatu.5.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu)
+*  [NPCs Improved-165-2-0-1633250126.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=550)
+*  [Other-165-30-1761636106.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1309)
+*  [overhauled first-person hands models-271-1-1-1695148376.zip](https://www.nexusmods.com/vampirebloodlines/mods/271/?tab=files&file_id=876)
+*  [Pc for Brujah Male by Marius217-132-1-1584673201.rar](https://www.nexusmods.com/vampirebloodlines/mods/132/?tab=files&file_id=357)
+*  [Player Characters Improved-163-7-1741784862.rar](https://www.nexusmods.com/vampirebloodlines/mods/163/?tab=files&file_id=1194)
+*  [Prelude Characters-165-30-1761641912.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1313)
+*  [ProudStannerman Toreador-376-1-1762488690.rar](https://www.nexusmods.com/vampirebloodlines/mods/376/?tab=files&file_id=1348)
+*  [ProudStannerman Tremere-376-1-1762480761.rar](https://www.nexusmods.com/vampirebloodlines/mods/376/?tab=files&file_id=1347)
+*  [r.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman)
+*  [Rats replacement-272-0-1-1690798473.zip](https://www.nexusmods.com/vampirebloodlines/mods/272/?tab=files&file_id=843)
+*  [Raving Malkavian-161-v1-1603887492.zip](https://www.nexusmods.com/vampirebloodlines/mods/161/?tab=files&file_id=459)
+*  [Red Dragon art pack add-on-75-1-0-1594483730.zip](https://www.nexusmods.com/vampirebloodlines/mods/75/?tab=files&file_id=411)
+*  [Root Builder 5.0.5-31720-5-0-5-1722935359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=528774)
+*  [Santa Monica-165-30-1761638742.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1312)
+*  [Set Malkavians Font to Standard Font-365-1-0-1764834313.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1401)
+*  [Sexy Long Hair Female Toreador by Felizpe V3-63-3-0-1568577739.rar](https://www.nexusmods.com/vampirebloodlines/mods/63/?tab=files&file_id=287)
+*  [Skin Stefan Salvatore for Ventrue V 3-28-3.rar](https://www.nexusmods.com/vampirebloodlines/mods/28/?tab=files&file_id=74)
+*  [Slick Ventrue-273-3-1726721829.rar](https://www.nexusmods.com/vampirebloodlines/mods/273/?tab=files&file_id=1072)
+*  [Street Sign Texture Pack-106-1-0-1-1594482809.zip](https://www.nexusmods.com/vampirebloodlines/mods/106/?tab=files&file_id=410)
+*  [Sub-Separator-165629-0-3-2-1764928794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/165629/?tab=files&file_id=694604)
+*  [Subtle Female Malkavian-1-1-01.7z](https://www.nexusmods.com/vampirebloodlines/mods/1/?tab=files&file_id=1)
+*  [Sweet Heather by Skeletoff-212-1-2-1654873880.rar](https://www.nexusmods.com/vampirebloodlines/mods/212/?tab=files&file_id=614)
+*  [terrible nosferatu-243-1-0-1673418331.7z](https://www.nexusmods.com/vampirebloodlines/mods/243/?tab=files&file_id=696)
+*  [The Crow Malkavian 1.1-331-1-1-1733951998.zip](https://www.nexusmods.com/vampirebloodlines/mods/331/?tab=files&file_id=1129)
+*  [The Final Nights Characters-165-25-1730823364.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1104)
+*  [The Final Nights HD 1.6 - Repack.zip](https://authored-files.wabbajack.org/The Final Nights HD 1.6 - Repack.zip_fa3e3688-8409-4e96-a838-6abf4c3e9346)
+*  [The Hecata Chronicles-300-0-9-1714578986.7z](https://www.nexusmods.com/vampirebloodlines/mods/300/?tab=files&file_id=985)
+*  [Those Goth Kids - Dancers Pack-81-2-1553964747.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=183)
+*  [Throwing a bone for the canines-90-1-0-1555174903.rar](https://www.nexusmods.com/vampirebloodlines/mods/90/?tab=files&file_id=210)
+*  [toreador by Marius217-184-1-1627849110.rar](https://www.nexusmods.com/vampirebloodlines/mods/184/?tab=files&file_id=542)
+*  [toreador Female by Marius217-188-1-1632278308.rar](https://www.nexusmods.com/vampirebloodlines/mods/188/?tab=files&file_id=549)
+*  [Toreador interface-284-1-1700899596.rar](https://www.nexusmods.com/vampirebloodlines/mods/284/?tab=files&file_id=905)
+*  [toreador Lestat by Marius217-159-1-1601640768.rar](https://www.nexusmods.com/vampirebloodlines/mods/159/?tab=files&file_id=457)
+*  [toreador Louis by Marius217-160-1-1602040681.rar](https://www.nexusmods.com/vampirebloodlines/mods/160/?tab=files&file_id=458)
+*  [toreador_reskin_beta.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin)
+*  [toreador.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-reskin-jeanette-model-pack)
+*  [Toreadorable-219-3-0-1654876629.rar](https://www.nexusmods.com/vampirebloodlines/mods/219/?tab=files&file_id=622)
+*  [Toretexture-218-1-0-1654876275.rar](https://www.nexusmods.com/vampirebloodlines/mods/218/?tab=files&file_id=621)
+*  [trem.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin)
+*  [Tremere Antitribu reskin-306-1-5-1720681869.rar](https://www.nexusmods.com/vampirebloodlines/mods/306/?tab=files&file_id=1030)
+*  [Tremere Replacer - Sunshine 1.1-374-1-1-1763155150.zip](https://www.nexusmods.com/vampirebloodlines/mods/374/?tab=files&file_id=1375)
+*  [Tremere With a Beard-279-1-0-1697766152.7z](https://www.nexusmods.com/vampirebloodlines/mods/279/?tab=files&file_id=893)
+*  [Tremere_Pack.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack)
+*  [tremere.zip](https://www.moddb.com/mods/play-as-yukie/addons/play-as-yukie)
+*  [TremereMTexturePack.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack1)
+*  [Underworld Selene for Brujah-33-1.rar](https://www.nexusmods.com/vampirebloodlines/mods/33/?tab=files&file_id=64)
+*  [Uninterrupted BGM-303-1-0-0-1715531411.7z](https://www.nexusmods.com/vampirebloodlines/mods/303/?tab=files&file_id=988)
+*  [Unique_Gangrel.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/unique-gangrel-4-new-ouftits-for-gangrel-male)
+*  [Unofficial Patch-324-1-0-1722433956.zip](https://www.nexusmods.com/vampirebloodlines/mods/324/?tab=files&file_id=1051)
+*  [unreal_enb_final_brighter-246-1-4a-1693263011.zip](https://www.nexusmods.com/vampirebloodlines/mods/246/?tab=files&file_id=872)
+*  [unreal_enb_final-246-1-4-1679021088.zip](https://www.nexusmods.com/vampirebloodlines/mods/246/?tab=files&file_id=757)
+*  [Vagabond Ventrue-288-1-0-1702943880.rar](https://www.nexusmods.com/vampirebloodlines/mods/288/?tab=files&file_id=917)
+*  [vampira.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217)
+*  [vampire   Joker  brujah-123-1-1573569086.rar](https://www.nexusmods.com/vampirebloodlines/mods/123/?tab=files&file_id=295)
+*  [Vampire Brujah   my version  Marius 217-117-1-1566516403.rar](https://www.nexusmods.com/vampirebloodlines/mods/117/?tab=files&file_id=276)
+*  [Vampire Malkavian  Gangrel  tremere  Toreador    by Marius217-133-1-1586011738.rar](https://www.nexusmods.com/vampirebloodlines/mods/133/?tab=files&file_id=361)
+*  [vampire tremere Dark by Marius217-114-1-1565234705.rar](https://www.nexusmods.com/vampirebloodlines/mods/114/?tab=files&file_id=269)
+*  [vampire tremere Jerry Dandridge (Fright Night) by Marius217-113-1-1564250426.rar](https://www.nexusmods.com/vampirebloodlines/mods/113/?tab=files&file_id=267)
+*  [vampire Tremere Male my version original by Marius217-116-1-1565840224.rar](https://www.nexusmods.com/vampirebloodlines/mods/116/?tab=files&file_id=274)
+*  [vampire_ASH_TREMERE.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ash-tremere-by-marius217)
+*  Vampire_cfg_dummy.txt
+*  [vampire_Gangrel_-_Vent.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-gangrel-by-marius217)
+*  [vampire_GANGREL_BRUJAH_TREMERE.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-gangrel-brujah-tremere-whitehair-by-marius217)
+*  [Vampire_Malkavian_Brujah_Gangrel.rar](https://www.moddb.com/addons/vampire-malkavian-gangrel-brujah-model-male-by-marius217)
+*  [vampire_Malkavian_Fight_club.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-malkavian-fight-club-by-marius217)
+*  Vampire_maps_ch_cloud_1.bsp
+*  Vampire_maps_ch_dragon_1.bsp
+*  Vampire_maps_ch_fishmarket_1.bsp
+*  Vampire_maps_ch_fulab_1.bsp
+*  Vampire_maps_ch_glaze_1.bsp
+*  Vampire_maps_ch_hub_1.bsp
+*  Vampire_maps_ch_lotus_1.bsp
+*  Vampire_maps_ch_ramen_1.bsp
+*  Vampire_maps_ch_shrekhub.bsp
+*  Vampire_maps_ch_temple_1.bsp
+*  Vampire_maps_ch_temple_2.bsp
+*  Vampire_maps_ch_temple_3.bsp
+*  Vampire_maps_ch_temple_4.bsp
+*  Vampire_maps_ch_tsengs_1.bsp
+*  Vampire_maps_ch_zhaos_1.bsp
+*  Vampire_maps_hw_609_1.bsp
+*  Vampire_maps_hw_ash_sewer_1.bsp
+*  Vampire_maps_hw_asphole_1.bsp
+*  Vampire_maps_hw_cemetery_1.bsp
+*  Vampire_maps_hw_chinese_1.bsp
+*  Vampire_maps_hw_hub_1.bsp
+*  Vampire_maps_hw_jewelry_1.bsp
+*  Vampire_maps_hw_luckystar_1.bsp
+*  Vampire_maps_hw_metalhead_1.bsp
+*  Vampire_maps_hw_netcafe_1.bsp
+*  Vampire_maps_hw_redspot_1.bsp
+*  Vampire_maps_hw_sinbin_1.bsp
+*  Vampire_maps_hw_tawni_1.bsp
+*  Vampire_maps_hw_vesuvius_1.bsp
+*  Vampire_maps_hw_warrens_1.bsp
+*  Vampire_maps_hw_warrens_2.bsp
+*  Vampire_maps_hw_warrens_3.bsp
+*  Vampire_maps_hw_warrens_4.bsp
+*  Vampire_maps_hw_warrens_5.bsp
+*  Vampire_maps_la_abandoned_building_1.bsp
+*  Vampire_maps_la_bradbury_2.bsp
+*  Vampire_maps_la_bradbury_3.bsp
+*  Vampire_maps_la_chantry_1.bsp
+*  Vampire_maps_la_confession_1.bsp
+*  Vampire_maps_la_crackhouse_1.bsp
+*  Vampire_maps_la_dane_1.bsp
+*  Vampire_maps_la_empire_1.bsp
+*  Vampire_maps_la_empire_2.bsp
+*  Vampire_maps_la_empire_3.bsp
+*  Vampire_maps_la_expipe_1.bsp
+*  Vampire_maps_la_hospital_1.bsp
+*  Vampire_maps_la_hub_1.bsp
+*  Vampire_maps_la_malkavian_1.bsp
+*  Vampire_maps_la_malkavian_2.bsp
+*  Vampire_maps_la_malkavian_3.bsp
+*  Vampire_maps_la_malkavian_4.bsp
+*  Vampire_maps_la_malkavian_5.bsp
+*  Vampire_maps_la_museum_1.bsp
+*  Vampire_maps_la_parkinggarage_1.bsp
+*  Vampire_maps_la_plaguebearer_sewer_1.bsp
+*  Vampire_maps_la_skyline_1.bsp
+*  Vampire_maps_la_ventruetower_1.bsp
+*  Vampire_maps_la_ventruetower_1b.bsp
+*  Vampire_maps_la_ventruetower_2.bsp
+*  Vampire_maps_la_ventruetower_3.bsp
+*  Vampire_maps_sm_apartment_1.bsp
+*  Vampire_maps_sm_asylum_1.bsp
+*  Vampire_maps_sm_bailbonds_1.bsp
+*  Vampire_maps_sm_basement_1.bsp
+*  Vampire_maps_sm_beachhouse_1.bsp
+*  Vampire_maps_sm_diner_1.bsp
+*  Vampire_maps_sm_gallery_1.bsp
+*  Vampire_maps_sm_hub_1.bsp
+*  Vampire_maps_sm_hub_2.bsp
+*  Vampire_maps_sm_junkyard_1.bsp
+*  Vampire_maps_sm_medical_1.bsp
+*  Vampire_maps_sm_oceanhouse_1.bsp
+*  Vampire_maps_sm_oceanhouse_2.bsp
+*  Vampire_maps_sm_pawnshop_1.bsp
+*  Vampire_maps_sm_pawnshop_2.bsp
+*  Vampire_maps_sm_pier_1.bsp
+*  Vampire_maps_sm_shreknet_1.bsp
+*  Vampire_maps_sm_tattoo.bsp
+*  Vampire_maps_sm_vamparena.bsp
+*  Vampire_maps_sm_warehouse_1.bsp
+*  Vampire_maps_sp_endsequences_a.bsp
+*  Vampire_maps_sp_endsequences_b.bsp
+*  Vampire_maps_sp_epilogue.bsp
+*  Vampire_maps_sp_genesisdevice_1.bsp
+*  Vampire_maps_sp_giovanni_1.bsp
+*  Vampire_maps_sp_giovanni_2a.bsp
+*  Vampire_maps_sp_giovanni_2b.bsp
+*  Vampire_maps_sp_giovanni_3.bsp
+*  Vampire_maps_sp_giovanni_4.bsp
+*  Vampire_maps_sp_giovanni_5.bsp
+*  Vampire_maps_sp_masquerade_1.bsp
+*  Vampire_maps_sp_ninesintro.bsp
+*  Vampire_maps_sp_observatory_1.bsp
+*  Vampire_maps_sp_observatory_2.bsp
+*  Vampire_maps_sp_soc_1.bsp
+*  Vampire_maps_sp_soc_2.bsp
+*  Vampire_maps_sp_soc_3.bsp
+*  Vampire_maps_sp_soc_4.bsp
+*  Vampire_maps_sp_taxiride.bsp
+*  Vampire_maps_sp_theatre.bsp
+*  Vampire_maps_sp_tutorial_1.bsp
+*  Vampire_media_activision.bik
+*  [vampire_nosferatu.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-nosferatu-by-marius217)
+*  [vampire_Pack_Male_PC.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampires-male-pack-pc-by-marius217)
+*  Vampire_pack000.vpk
+*  Vampire_pack001.vpk
+*  Vampire_pack002.vpk
+*  Vampire_pack003.vpk
+*  Vampire_pack004.vpk
+*  Vampire_pack005.vpk
+*  Vampire_pack006.vpk
+*  Vampire_pack007.vpk
+*  Vampire_pack008.vpk
+*  Vampire_pack009.vpk
+*  Vampire_pack010.vpk
+*  Vampire_pack101.vpk
+*  Vampire_pack102.vpk
+*  Vampire_python_museum_museum.py
+*  Vampire_python_theatre_theatre.py
+*  Vampire_sound_character_dlg_chinatown_hostess_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line1_col_n.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line2_col_n.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line3_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line4_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line4_col_n.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line507_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line508_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line171_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line181_col_f.mp3
+*  Vampire_sound_character_dlg_downtown la_bishop_vick_line1_col_f.mp3
+*  Vampire_sound_character_dlg_downtown la_bum_disease_male_line11_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_chunk2_line251_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_damsel_line541_col_f.mp3
+*  Vampire_sound_character_dlg_downtown la_prince1_line841_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_prince1_line931_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_prince1_line951_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_prince2_line1091_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_skelter_line661_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_tin_can_bill_line11_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_tin_can_bill_line11_col_f.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line191_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line201_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line231_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line271_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line311_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line341_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line351_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line361_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line371_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line381_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line81_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll1_line1_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll1_line121_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll1_line271_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll2_line1_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll2_line121_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll2_line271_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll3_line1_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll3_line121_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll4_line1_col_e.mp3
+*  Vampire_sound_character_dlg_generic_doll4_line121_col_e.mp3
+*  Vampire_sound_character_dlg_generic_newscaster_line201_col_e.mp3
+*  Vampire_sound_character_dlg_giovanni_adam_line91_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_andrei_line5_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_andrei_line81_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_ash_line610_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_courier_line1_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_flynn_line401_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_flynn_line411_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_flynn_line411_col_f.mp3
+*  Vampire_sound_character_dlg_hollywood_flynn_line421_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_flynn_line441_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_flynn_line451_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_isaac_line121_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_isaac_line721_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_isaac_line931_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line431_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line441_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line601_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_romero_line601_col_f.mp3
+*  Vampire_sound_character_dlg_hollywood_samantha_line31_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line1_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line101_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line11_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line21_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line211_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line221_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line241_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line251_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line261_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line271_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line291_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line301_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line31_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line311_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line331_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line341_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line361_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line371_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line391_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line401_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line41_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line481_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line491_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line51_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line521_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line531_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line551_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line591_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line61_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line631_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line651_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line661_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line711_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line731_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line741_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line751_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line761_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line771_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line81_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line861_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line871_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line891_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line91_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line921_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line931_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line951_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line961_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_vv_line971_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_beckett_line1_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_line171_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line1001_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line1006_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line1023_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line191_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line391_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line415_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_jack_tutorial_line626_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line311_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line351_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line371_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line381_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line381_col_n.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line391_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_nines_line401_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_regent_line311_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_regent_line371_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_regent_line561_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_regent_line571_col_e.mp3
+*  Vampire_sound_character_dlg_main characters_regent_line871_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_dennis_line181_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_julius_line111_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_knox_line291_col_f.mp3
+*  Vampire_sound_character_dlg_santa monica_mercurio_line431_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line1_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line11_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line21_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line41_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line51_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line61_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line71_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line81_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_phil_line91_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_stan_gimble_line264_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_stan_gimble_line266_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_stan_gimble_line268_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_stan_gimble_line269_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_stan_gimble_line270_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_therese_line381_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_trip_line191_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_vandal_line151_col_e.mp3
+*  Vampire_sound_music_licenced_05. chiasm - isolated.mp3
+*  Vampire_sound_music_licenced_asp hole.mp3
+*  Vampire_sound_music_licenced_darling violetta - a smaller god.mp3
+*  Vampire_sound_music_licenced_genitorturers - lecher bitch.mp3
+*  Vampire_sound_music_licenced_glaze.mp3
+*  Vampire_sound_music_licenced_lacuna coil - swamped.mp3
+*  Vampire_sound_music_licenced_ministry - bloodlines.mp3
+*  Vampire_sound_music_licenced_vesuvius.mp3
+*  Vampire_sound_music_mission_impossible_combat.mp3
+*  Vampire_sound_music_mission_impossible.mp3
+*  Vampire_sound_music_vampire_theme.mp3
+*  [vampire_Toreador_-_the_lizard_king.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-toreador-like-jim-morrison-by-marius217)
+*  [vampire_toreador.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/model-vampire-toreador-male-adapt-by-marius217)
+*  [vampire_ventrue_-_toreador_beard_male.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-toreador-beard-male-by-marius217)
+*  [vampire_ventrue_female.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female)
+*  vampire.exe
+*  [Ventrue  by Marius217-187-1-1630179822.rar](https://www.nexusmods.com/vampirebloodlines/mods/187/?tab=files&file_id=547)
+*  [Ventrue female reskin-277-v1-1697582925.7z](https://www.nexusmods.com/vampirebloodlines/mods/277/?tab=files&file_id=891)
+*  [Ventrue Interface-284-1-1734421537.rar](https://www.nexusmods.com/vampirebloodlines/mods/284/?tab=files&file_id=1133)
+*  [Ventrue_Female_Skin_by_Soya.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya)
+*  [Ventrue_Male_TrenchCoat_by_Shikamaru.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin)
+*  [Venus Retexture-16-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/16/?tab=files&file_id=22)
+*  version.inf
+*  [Viking_Embraced.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/viking-embraced)
+*  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
+*  [VTMB HD Overhaul Complete-234-2-2-1766864569.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1437)
+*  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
+*  [VTMBup115.42-80-11-5-42-1764019843.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1386)
+*  [VTMBup115.46-80-11-5-46-1765061601.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1407)
+*  [VV.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc)
+*  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
+*  [Warrior_Wolf_Gangrel.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217)
+*  [Working J Idaho Lasombra skin with some of Marius127 and Vampire nonsense outfits-250-1-0-1678664073.rar](https://www.nexusmods.com/vampirebloodlines/mods/250/?tab=files&file_id=750)
+*  [YAMR.7z](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/yamr-yet-another-malk-reskin)
+*  [Yuki PC Skin-355-1-1750689722.7z](https://www.nexusmods.com/vampirebloodlines/mods/355/?tab=files&file_id=1249)
