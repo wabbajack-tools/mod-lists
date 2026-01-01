@@ -1116,7 +1116,7 @@
 *  [Wetness Shader Fix-23389-3-6-3-1716206524.7z](https://www.nexusmods.com/fallout4/mods/23389/?tab=files&file_id=317812)
 *  [Whisper's Extra Pieces and Snaps-49570-2-1657448192.7z](https://www.nexusmods.com/fallout4/mods/49570/?tab=files&file_id=242982)
 *  [Whisper's Workbench Storage-55927-3-1683536514.7z](https://www.nexusmods.com/fallout4/mods/55927/?tab=files&file_id=276504)
-*  [Who's The General - Loose Files-59019-1-15-1765575033.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=377204)
+*  [Who's The General - Loose Files-59019-1-16-1766177584.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=377995)
 *  [Widow Shotgun - Fixed Barrel attachments-19619-1-1.rar](https://www.nexusmods.com/fallout4/mods/19619/?tab=files&file_id=80310)
 *  [Widow Shotgun black re-texture-21162-.7z](https://www.nexusmods.com/fallout4/mods/21162/?tab=files&file_id=86984)
 *  [Winchester P94 Balanced (Senki01)-35676-1-3-1576770544.rar](https://www.nexusmods.com/fallout4/mods/35676/?tab=files&file_id=172840)
