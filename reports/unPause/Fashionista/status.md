@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (500)
+### Valid (492)
 *  [1dark_malk_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl)
 *  [AAFVentrue.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin)
 *  [Antitribu_1.1-Repack.zip](https://authored-files.wabbajack.org/Antitribu_1.1-Repack.zip_f9f184c9-157f-4f9a-bd2a-c83665667a0a)
@@ -20,10 +20,11 @@
 *  [Black-haired_Toreador_reskin.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/black-haired-toreador-skin)
 *  [Blonde_Malkavian.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin)
 *  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
+*  [Bloodlines Extreme repack 2.0.4.7z](https://authored-files.wabbajack.org/Bloodlines Extreme repack 2.0.4.7z_fa497f47-d36e-441a-944a-22eec986bc9d)
 *  [Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=997)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
-*  [BLOODLINES_EXTREME_2.0.3.zip](https://www.moddb.com/mods/bloodlines-hard-difficulty/downloads/bloodlines-extreme)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
+*  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
 *  [Boombox reskin - animated clock-108-1-0-1563569052.zip](https://www.nexusmods.com/vampirebloodlines/mods/108/?tab=files&file_id=264)
 *  [Brujah Connor Mclaud  The Highlander by Marius217-181-1-1620051909.rar](https://www.nexusmods.com/vampirebloodlines/mods/181/?tab=files&file_id=528)
 *  [Brujah opium-335-1-0-1735584083.rar](https://www.nexusmods.com/vampirebloodlines/mods/335/?tab=files&file_id=1143)
@@ -286,7 +287,6 @@
 *  Vampire_maps_sp_giovanni_3.bsp
 *  Vampire_maps_sp_giovanni_4.bsp
 *  Vampire_maps_sp_giovanni_5.bsp
-*  Vampire_maps_sp_masquerade_1.bsp
 *  Vampire_maps_sp_ninesintro.bsp
 *  Vampire_maps_sp_observatory_1.bsp
 *  Vampire_maps_sp_observatory_2.bsp
@@ -313,7 +313,6 @@
 *  Vampire_pack010.vpk
 *  Vampire_pack101.vpk
 *  Vampire_pack102.vpk
-*  Vampire_python_museum_museum.py
 *  Vampire_python_theatre_theatre.py
 *  Vampire_sound_character_dlg_chinatown_hostess_line1_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line1_col_n.mp3
@@ -470,17 +469,11 @@
 *  Vampire_sound_character_dlg_santa monica_therese_line381_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_trip_line191_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_vandal_line151_col_e.mp3
-*  Vampire_sound_music_licenced_05. chiasm - isolated.mp3
-*  Vampire_sound_music_licenced_asp hole.mp3
-*  Vampire_sound_music_licenced_darling violetta - a smaller god.mp3
-*  Vampire_sound_music_licenced_genitorturers - lecher bitch.mp3
-*  Vampire_sound_music_licenced_glaze.mp3
-*  Vampire_sound_music_licenced_lacuna coil - swamped.mp3
-*  Vampire_sound_music_licenced_ministry - bloodlines.mp3
-*  Vampire_sound_music_licenced_vesuvius.mp3
+*  Vampire_sound_music_crypts_combat.mp3
+*  Vampire_sound_music_dark_asia.mp3
+*  Vampire_sound_music_default_combat.mp3
 *  Vampire_sound_music_mission_impossible_combat.mp3
 *  Vampire_sound_music_mission_impossible.mp3
-*  Vampire_sound_music_vampire_theme.mp3
 *  [vampire_Toreador_-_the_lizard_king.1.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-toreador-like-jim-morrison-by-marius217)
 *  [vampire_toreador.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/model-vampire-toreador-male-adapt-by-marius217)
 *  [vampire_ventrue_-_toreador_beard_male.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-toreador-beard-male-by-marius217)
@@ -497,8 +490,7 @@
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
 *  [VTMB HD Overhaul Complete-234-2-2-1766864569.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1437)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
-*  [VTMBup115.42-80-11-5-42-1764019843.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1386)
-*  [VTMBup115.46-80-11-5-46-1765061601.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1407)
+*  [VTMBup115.49-80-11-5-49-1767181351.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1460)
 *  [VV.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
 *  [Warrior_Wolf_Gangrel.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217)
