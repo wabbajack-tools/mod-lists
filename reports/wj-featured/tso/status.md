@@ -1,12 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (2)
-*  [[SE-Alpha] 9204 Vindictus Sonic Blade by Team TAL.zip](https://drive.google.com/uc?id=1CXe4llor7UO13v_t7NXY37dm73LojIfX&export=download)
+### Invalid (1)
 *  [[SE] DM BDOR Solios by Team TAL CBBE 3BA BS 1.4.7z](https://drive.google.com/uc?id=1ssqZ7O28hB0MuDGBoQMSnqCSFUTbugAM&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1031)
+### Valid (1032)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -62,6 +61,7 @@
 *  [[immyneedscake] Silver Fox Retouched CBBE SSE.7z](https://mega.nz/file/QmB0kQLZ#DGzlAlvVFuS5SgwMY1SIZk84TAxUDmq-lL6eOQG2nQU)
 *  [[immyneedscake] Zhumoyi CBBE SSE SMP.7z](https://mega.nz/file/g7IwQYaI#uASe7NJ04jHQ1WYVOmET4TbG5iM8c-xz_c8GtISZz_c)
 *  [[Melodic] Mistress Lilith CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/ta679dq9dpe9pcz/%255BMelodic%255D_Mistress_Lilith_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/)
+*  [[SE-Alpha] 9204 Vindictus Sonic Blade by Team TAL.zip](https://drive.google.com/uc?id=1CXe4llor7UO13v_t7NXY37dm73LojIfX&export=download)
 *  [[SE] 9204 BO MD0014 by Team TAL.7z](https://drive.google.com/uc?id=1hoJxN_qq9pR2WbKYMTlibSIcfwA1-ze0&export=download)
 *  [[SE] 9204 DR Alicia by Team TAL CBBE 3BA BS.7z](https://www.loverslab.com/files/file/13662-se-team-tals-9204-dr-alicia-smp-3ba/)
 *  [[SE] 9204 Overhit Taze by Team TAL(converted by em486).7z](https://drive.google.com/uc?id=1JoSeVzSBIa4YrbPNtrE6HNFLE4FoQ_wU&export=download)
