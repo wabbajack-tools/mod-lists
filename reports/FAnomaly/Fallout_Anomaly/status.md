@@ -5,7 +5,7 @@
 *  [enbseries_fallout4_v0501.zip](http://enbdev.com/enbseries_fallout4_v0501.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1039)
+### Valid (1113)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
@@ -99,8 +99,6 @@
 *  [AnotherOne SREP AR10 Addon-48416-0-9999-1605404370.rar](https://www.nexusmods.com/fallout4/mods/48416/?tab=files&file_id=195006)
 *  [Anti Power Armor Rifle-81587-1-0-7-1729998719.zip](https://www.nexusmods.com/fallout4/mods/81587/?tab=files&file_id=338056)
 *  [AOP - Classic Power Armor Training v1.0-78940-1-0-1708624311.7z](https://www.nexusmods.com/fallout4/mods/78940/?tab=files&file_id=304447)
-*  [APC Replacer Rusty-89930-0-1aa-1733921526.rar](https://www.nexusmods.com/fallout4/mods/89930/?tab=files&file_id=342519)
-*  [APC Transport patch-89930-0-2APCTransportPatch-1734402401.rar](https://www.nexusmods.com/fallout4/mods/89930/?tab=files&file_id=343001)
 *  [APC Transport V2.2.7-16211-V2-2-7-1683739675.7z](https://www.nexusmods.com/fallout4/mods/16211/?tab=files&file_id=276757)
 *  [Appealing Moles- EXTRA Moles-3802-2-0.rar](https://www.nexusmods.com/fallout4/mods/3802/?tab=files&file_id=31631)
 *  [AR2 Attachment Pack Patch LL-80656-1-0-1713249945.zip](https://www.nexusmods.com/fallout4/mods/80656/?tab=files&file_id=310369)
@@ -248,29 +246,86 @@
 *  [Damn Apocalypse Power Armor Module-33812-1-0-4-h1-1699517452.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293820)
 *  [Damn Apocalypse Radiation Module-33812-1-0-4-h1-1699517471.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293821)
 *  [Damn_Apocalypse_CS-61814-1-2-1667343102.7z](https://www.nexusmods.com/fallout4/mods/61814/?tab=files&file_id=255427)
+*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
+*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
+*  Data_ccBGSFO4016-Prey - Main.ba2
+*  Data_ccBGSFO4016-Prey - Textures.ba2
+*  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
+*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
+*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
+*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
+*  Data_ccBGSFO4038-HorseArmor - Main.ba2
+*  Data_ccBGSFO4038-HorseArmor - Textures.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccBGSFO4046-TesCan - Main.ba2
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
+*  Data_ccbgsfo4046-tescan.esl
+*  Data_ccBGSFO4096-AS_Enclave - Main.ba2
+*  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
+*  Data_ccbgsfo4096-as_enclave.esl
+*  Data_ccBGSFO4110-WS_Enclave - Main.ba2
+*  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
+*  Data_ccbgsfo4110-ws_enclave.esl
+*  Data_ccBGSFO4115-X02 - Main.ba2
+*  Data_ccBGSFO4115-X02 - Textures.ba2
+*  Data_ccbgsfo4115-x02.esl
+*  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
+*  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
+*  Data_ccbgsfo4116-heavyflamer.esl
+*  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
+*  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
+*  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
+*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
+*  Data_ccFSVFO4007-Halloween - Main.ba2
+*  Data_ccFSVFO4007-Halloween - Textures.ba2
+*  Data_ccfsvfo4007-halloween.esl
+*  Data_ccOTMFO4001-Remnants - Main.ba2
+*  Data_ccOTMFO4001-Remnants - Textures.ba2
+*  Data_ccotmfo4001-remnants.esl
+*  Data_ccSBJFO4003-Grenade - Main.ba2
+*  Data_ccSBJFO4003-Grenade - Textures.ba2
+*  Data_ccsbjfo4003-grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
+*  Data_DLCCoast - Textures.ba2
 *  Data_DLCCoast - Voices_en.ba2
 *  Data_DLCCoast.cdx
 *  Data_DLCCoast.esm
 *  Data_DLCNukaWorld - Geometry.csg
 *  Data_DLCNukaWorld - Main.ba2
+*  Data_DLCNukaWorld - Textures.ba2
 *  Data_DLCNukaWorld - Voices_en.ba2
 *  Data_DLCNukaWorld.cdx
 *  Data_DLCNukaWorld.esm
 *  Data_DLCRobot - Geometry.csg
 *  Data_DLCRobot - Main.ba2
+*  Data_DLCRobot - Textures.ba2
 *  Data_DLCRobot - Voices_en.ba2
 *  Data_DLCRobot.cdx
 *  Data_DLCRobot.esm
 *  Data_DLCworkshop01 - Geometry.csg
 *  Data_DLCworkshop01 - Main.ba2
+*  Data_DLCworkshop01 - Textures.ba2
 *  Data_DLCworkshop01.cdx
 *  Data_DLCworkshop01.esm
 *  Data_DLCworkshop02 - Main.ba2
+*  Data_DLCworkshop02 - Textures.ba2
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
+*  Data_DLCworkshop03 - Textures.ba2
 *  Data_DLCworkshop03 - Voices_en.ba2
 *  Data_DLCworkshop03.cdx
 *  Data_DLCworkshop03.esm
@@ -288,11 +343,30 @@
 *  Data_Fallout4 - Textures1.ba2
 *  Data_Fallout4 - Textures2.ba2
 *  Data_Fallout4 - Textures3.ba2
+*  Data_Fallout4 - Textures4.ba2
+*  Data_Fallout4 - Textures5.ba2
 *  Data_Fallout4 - Textures6.ba2
+*  Data_Fallout4 - Textures7.ba2
+*  Data_Fallout4 - Textures8.ba2
+*  Data_Fallout4 - Textures9.ba2
+*  Data_Fallout4 - TexturesPatch.ba2
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
+*  Data_Video_AGILITY.bk2
+*  Data_Video_CHARISMA.bk2
+*  Data_Video_Endgame_FEMALE_A.bk2
+*  Data_Video_Endgame_FEMALE_B.bk2
+*  Data_Video_Endgame_MALE_A.bk2
+*  Data_Video_Endgame_MALE_B.bk2
+*  Data_Video_ENDURANCE.bk2
+*  Data_Video_GameIntro_V3_B.bk2
+*  Data_Video_INTELLIGENCE.bk2
+*  Data_Video_Intro.bk2
+*  Data_Video_LUCK.bk2
 *  Data_Video_MainMenuLoop.bk2
+*  Data_Video_PERCEPTION.bk2
+*  Data_Video_STRENGTH.bk2
 *  [Deadlier Deathclaws-13822-3-3-5.7z](https://www.nexusmods.com/fallout4/mods/13822/?tab=files&file_id=111233)
 *  [Deadly Courser-88843-1-1730447677.7z](https://www.nexusmods.com/fallout4/mods/88843/?tab=files&file_id=338588)
 *  [Deathclaw Grab Skills-46460-1-3-0-1697717030.7z](https://www.nexusmods.com/fallout4/mods/46460/?tab=files&file_id=292099)
