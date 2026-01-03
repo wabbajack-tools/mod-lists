@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1325)
+### Valid (1323)
 *  [-SP4 SPURIOUS VISUALS NEUTRALIZER DLC b-77978-7b-1706742863.7z](https://www.nexusmods.com/fallout4/mods/77978/?tab=files&file_id=301753)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [0. VTAC REDUX v.2.5 - Update File-81751-v-2-5-1746294212.7z](https://www.nexusmods.com/fallout4/mods/81751/?tab=files&file_id=355303)
@@ -260,7 +260,6 @@
 *  [CW FusionGirl - Bodyslide by Karna5-59057-1-0-1648286413.7z](https://www.nexusmods.com/fallout4/mods/59057/?tab=files&file_id=233004)
 *  [Daily Life Of Hookers.rar](https://www.loverslab.com/files/file/19613-daily-life-of-hookers/)
 *  [DanksMagsV2.zip](https://www.loverslab.com/files/file/13262-danks-magazine-replacer/)
-*  [Darling Skin - REPLACER - Warm-76049-1-0-1-1700268408.7z](https://www.nexusmods.com/fallout4/mods/76049/?tab=files&file_id=294501)
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
@@ -1273,7 +1272,6 @@
 *  [WashOutThatCum_v1.2.0.zip](https://www.loverslab.com/files/file/8338-wash-out-that-cum/)
 *  [Wasteland Heroines Replacer All in One-29205-2-0-1596688655.7z](https://www.nexusmods.com/fallout4/mods/29205/?tab=files&file_id=188514)
 *  [Wasteland of Depravity - Previsibine Patches.7z](https://authored-files.wabbajack.org/Wasteland of Depravity - Previsibine Patches.7z_50daaa9e-d8b6-41d4-bd60-e5fd8503cf42)
-*  [Wasteland of Depravity 1.6 - Crimmus Main Menu.7z](https://authored-files.wabbajack.org/Wasteland of Depravity 1.6 - Crimmus Main Menu.7z_44c2d295-9bb4-43de-9b54-60bcc7ba01b7)
 *  [Wasteland Rags 2K TWB - MAIN-58841-1-1-1647348774.zip](https://www.nexusmods.com/fallout4/mods/58841/?tab=files&file_id=232085)
 *  [Wasteland Salon v1.4-1369-1-4.7z](https://www.nexusmods.com/fallout4/mods/1369/?tab=files&file_id=72551)
 *  [Waterworld - v1.4-9498-1-4.zip](https://www.nexusmods.com/fallout4/mods/9498/?tab=files&file_id=36751)
