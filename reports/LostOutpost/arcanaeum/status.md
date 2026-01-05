@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (306)
+### Valid (299)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
@@ -23,6 +23,11 @@
 *  [Ancient Nord Armo(u)ry Lite-65124-1-0-2-1675619290.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65124/?tab=files&file_id=356754)
 *  [Animation Motion Revolution-50258-1-5-3-1664395662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=320113)
 *  [Apothecary - An Alchemy Overhaul-52130-1-3-9-1701447097.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=447818)
+*  [Apothecary - Bruma Patch-52130-1-4-0-1690741497.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412400)
+*  [Apothecary - Fishing Patch-52130-1-4-1-1715110570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=498866)
+*  [Apothecary - Rare Curios Patch-52130-1-4-0-1690741443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412398)
+*  [Apothecary - Saints and Seducers-52130-1-4-0-1690741472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412399)
+*  [Apothecary - Wyrmstooth Patch-52130-1-4-0-1690741520.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412401)
 *  [Apothecary Universal Ingredient SkyPatcher-111752-1-0-1708038838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111752/?tab=files&file_id=471261)
 *  [Arbalist - A Crossbow Overhaul-168584-1-0-1-1767385499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/168584/?tab=files&file_id=704739)
 *  [Arbalist - Ancient Nord Armoury Patch-168584-1-0-0-1767370622.7z](https://www.nexusmods.com/skyrimspecialedition/mods/168584/?tab=files&file_id=704649)
@@ -54,14 +59,14 @@
 *  [Beyond Skyrim - Bruma 1.6.3-10917-1-6-3-1681654072.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=378831)
 *  [Beyond Skyrim - DLC Integration Patch 1.6.2-10917-1-6-2-1680825633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=375845)
 *  [Beyond Skyrim - Wares of Tamriel-31519-1-4-1636666120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31519/?tab=files&file_id=240652)
-*  bink2w64.dll
 *  [Blade and Blunt - A Combat Overhaul-34549-3-8-3-1757974390.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=666171)
 *  [Blended Roads-8834-1-7-1586448385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=133231)
 *  [Bone Wolf and Plague of the dead Patch-55201-1-0-1630955478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55201/?tab=files&file_id=226568)
 *  [Bonemold Weapon Pack 1.4-66906-1-4-1714270165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66906/?tab=files&file_id=495482)
 *  [Brawl Lines Expansion-94070-1-02-1688417773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94070/?tab=files&file_id=403503)
-*  [Brewer - An Alcohol Brewing Mod-83542-1-0-2-1675041238.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83542/?tab=files&file_id=354447)
+*  [Brewer - An Alcohol Brewing Mod-83542-1-0-3-1767630556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83542/?tab=files&file_id=705848)
 *  [Brewer - Bruma Patch-83542-1-0-0-1674760728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83542/?tab=files&file_id=353327)
+*  [Brewer - Rare Curios-83542-1-0-3-1767630478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83542/?tab=files&file_id=705847)
 *  [Brewer - Wares of Tamriel Patch-83542-1-0-0-1674760902.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83542/?tab=files&file_id=353330)
 *  [Brewer - Wyrmstooth Patch-83542-1-0-0-1674760833.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83542/?tab=files&file_id=353329)
 *  [Bruma Clutter for Skyrim Imperials - Base Object Swapper-74178-1-1-1664231215.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74178/?tab=files&file_id=319625)
@@ -91,7 +96,6 @@
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Textures3.bsa
 *  [Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25094/?tab=files&file_id=89159)
-*  Debug.log
 *  [deorder_plugins-1.1.zip](https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip)
 *  [Destroy The Dark Brotherhood - Quest Expansion-118229-1-03-1720776612.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118229/?tab=files&file_id=520202)
 *  [DPI Scaling Fix-95740-1-0-1689242798.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95740/?tab=files&file_id=406607)
@@ -144,7 +148,6 @@
 *  [Hand to Hand - An Adamant Addon-59790-1-5-8-1707850577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=470493)
 *  [Hand to Hand - Trainers and Skill Books Addon-59790-1-0-5-1662142266.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=312593)
 *  [High performance configuration-34705-0-5-9-1641744558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=255386)
-*  High.ini
 *  [House of Horrors - Quest Expansion-57285-1-11-1689340629.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57285/?tab=files&file_id=406917)
 *  [Huntsman - A Hunting Expansion-83870-1-0-4-1676951816.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83870/?tab=files&file_id=361902)
 *  [Huntsman - Bruma Patch-83870-1-0-2-1676920328.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83870/?tab=files&file_id=361746)
@@ -153,7 +156,6 @@
 *  [Infiltration - Quest Expansion-114054-1-01-1712680208.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114054/?tab=files&file_id=489037)
 *  [Infinity UI-74483-2-0-3-1730049690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=556134)
 *  [Innocence Lost - Quest Expansion-80974-1-11-1717263136.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=507264)
-*  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-0-1-1677526293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=363950)
 *  [Ish's Respec Mod-1960-1-6.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1960/?tab=files&file_id=51243)
 *  [JK's Skyrim - Fishing (CC) Patch-6289-1-0-1637442543.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=243032)
@@ -164,7 +166,6 @@
 *  [Keyword Item Distributor-55728-3-1-0-1705117075.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=460866)
 *  [Light Placer-127557-4-1-0-1765245389.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127557/?tab=files&file_id=695924)
 *  [Local Map Upgrade 3.1.0-129756-3-1-0-1734046344.rar](https://www.nexusmods.com/skyrimspecialedition/mods/129756/?tab=files&file_id=571814)
-*  Low.ini
 *  [Main File v1.65-18162-1-65.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18162/?tab=files&file_id=61632)
 *  [Main File-56477-1-0-1633216449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56477/?tab=files&file_id=232180)
 *  [Main Menu Design Replacer-30810-1-0-1-1575613802.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30810/?tab=files&file_id=115323)
@@ -173,9 +174,8 @@
 *  [Masterwork-142109-1-86-1757723841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/142109/?tab=files&file_id=665120)
 *  [MCM Helper SE-53000-1-4-0-1665228890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=322444)
 *  [Media Keys Fix-92948-1-0-1-1716329765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92948/?tab=files&file_id=503665)
-*  Medium.ini
 *  [Menu and Load Smoke Removed for ENB-51986-1-0-1625418666.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51986/?tab=files&file_id=212716)
-*  [Merchant - A Trading Expansion-85439-1-0-1-1678033621.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85439/?tab=files&file_id=365759)
+*  [Merchant - A Trading Expansion-85439-1-0-2-1767628470.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85439/?tab=files&file_id=705836)
 *  [Merchant - CC Fishing Patch-85439-1-0-0-1677012641.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85439/?tab=files&file_id=362118)
 *  [Merchant - Mysticism Patch-85439-1-0-0-1739972848.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85439/?tab=files&file_id=596582)
 *  [Merchant - Prices Addon-85439-1-0-0-1677012701.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85439/?tab=files&file_id=362119)
@@ -239,11 +239,6 @@
 *  [Skyrim Optimized - The New Normals(Part 2)-153879-1-0-1751285113.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153879/?tab=files&file_id=642939)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=323365)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
-*  Skyrim_Default.ini
-*  Skyrim_SkyrimPrefs.ini
-*  Skyrim.ccc
-*  SkyrimSE.exe
-*  SkyrimSELauncher.exe
 *  [SkyrimUncapperBetaForAE(Latest)-46536-0-1-7-1664661752.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46536/?tab=files&file_id=320848)
 *  [SkyUI - Ghost Item Bug Fix-49106-1-0-0-1633192591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49106/?tab=files&file_id=232098)
 *  [SkyUI SE - Difficulty Persistence Fix-106418-1-0-1701983798.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106418/?tab=files&file_id=449662)
@@ -268,7 +263,6 @@
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
 *  [Stay At System Page-76927-1-6-1665472279.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76927/?tab=files&file_id=323246)
-*  steam_api64.dll
 *  [Stormcrown - A Shout Overhaul-90659-1-1-17-1713735622.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90659/?tab=files&file_id=493442)
 *  [SUEMR v3.0 Simple Vampire Fixes SSE-18147-v3-0-1577160259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18147/?tab=files&file_id=117238)
 *  [Survival Mode Improved - SKSE (1.6.1170)-78244-1-5-2-1708327867.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78244/?tab=files&file_id=472447)
@@ -290,7 +284,6 @@
 *  [True Directional Movement-51614-2-2-5-1698369428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=437371)
 *  [True Light-135488-3-3-2-1767094229.zip](https://www.nexusmods.com/skyrimspecialedition/mods/135488/?tab=files&file_id=703553)
 *  [TrueHUD-62775-1-1-9-1703382929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=454617)
-*  Ultra.ini
 *  [Unaggressive Dragon Priests Fix-69026-1-3-1700249780.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69026/?tab=files&file_id=443393)
 *  [Unofficial Skyrim Special Edition Patch-266-4-3-1-1713394824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=491975)
 *  [USSEP Optional Patch-65708-1-0-1648631976.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65708/?tab=files&file_id=273648)
