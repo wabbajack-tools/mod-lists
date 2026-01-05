@@ -172,7 +172,7 @@
 *  [Fog Remover II ESP (Main) Installer-31976-2-1-1596407243.7z](https://www.nexusmods.com/fallout4/mods/31976/?tab=files&file_id=188239)
 *  [FOMOD Installer - Immersive Burning Molotovs and Flamers (Flamers Optional)-34084-1-2.7z](https://www.nexusmods.com/fallout4/mods/34084/?tab=files&file_id=139274)
 *  [Free Weapon Downgrades v1.3 All-In-One-2073-1-3.zip](https://www.nexusmods.com/fallout4/mods/2073/?tab=files&file_id=72716)
-*  [FRIK 77-53464-v0-77-1766420659.7z](https://www.nexusmods.com/fallout4/mods/53464/?tab=files&file_id=378326)
+*  [FRIK 77.8-53464-v0-77-8-1767472503.7z](https://www.nexusmods.com/fallout4/mods/53464/?tab=files&file_id=379723)
 *  [FTO Pip-Boy All in one-449-2-3.rar](https://www.nexusmods.com/fallout4/mods/449/?tab=files&file_id=8972)
 *  [FTO Stars 1K-145-1-0.rar](https://www.nexusmods.com/fallout4/mods/145/?tab=files&file_id=239)
 *  [Full Dialog VR - List v1.1-28516-v1-1.zip](https://www.nexusmods.com/fallout4/mods/28516/?tab=files&file_id=117525)
