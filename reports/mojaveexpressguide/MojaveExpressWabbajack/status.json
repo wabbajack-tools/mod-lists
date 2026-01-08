@@ -1,8 +1,8 @@
 {
   "MachineURL": "mojaveexpressguide/MojaveExpressWabbajack",
   "Name": "Mojave Express Wabbajack (MEW)",
-  "Version": "1.5.4.1",
-  "ModListHash": "KUNZHEo3FKE=",
+  "Version": "1.5.4.2",
+  "ModListHash": "VcneeQCmC3A=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7694,6 +7694,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "4ShkO23e4ls=",
+        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file",
+        "Name": "Spice of Life Vanilla v1-5 Release Candidate.7z",
+        "Size": 227139333,
+        "State": {
+          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "17SPJgP6pgQ=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=75878\nfileID=1000089961",
         "Name": "Higher Poly Rocks-75878-1-1-1648376708.zip",
@@ -7772,6 +7785,22 @@
           "ModID": 83065,
           "Name": "Wasted Rocks Normals",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QGPu8cxNgIY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\Fallout - Textures2.bsa",
+        "Name": "Data_Fallout - Textures2.bsa",
+        "Size": 961249657,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\Fallout - Textures2.bsa",
+          "GameVersion": "1.4.0.525",
+          "Hash": "QGPu8cxNgIY="
         }
       }
     },
@@ -7919,19 +7948,6 @@
           "ModID": 81775,
           "Name": "PipBoyOn Node Fixes",
           "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4ShkO23e4ls=",
-        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file",
-        "Name": "Spice of Life Vanilla v1-5 Release Candidate.7z",
-        "Size": 227139333,
-        "State": {
-          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file"
         }
       }
     }

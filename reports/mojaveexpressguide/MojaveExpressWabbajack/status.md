@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (381)
+### Valid (382)
 *  [1_ATMOS Ambience Overhaul - AWOP Revision-85939-1-0-1732120383.rar](https://www.nexusmods.com/newvegas/mods/85939/?tab=files&file_id=1000143178)
 *  [1_ATMOS DLC Overhaul Part I-85939-1-0-1748612428.rar](https://www.nexusmods.com/newvegas/mods/85939/?tab=files&file_id=1000152739)
 *  [1_Landscape Texture Improvements-83425-1-5-1745027108.zip](https://www.nexusmods.com/newvegas/mods/83425/?tab=files&file_id=1000150443)
@@ -106,6 +106,7 @@
 *  Data_DeadMoney - Main.bsa
 *  Data_DeadMoney.esm
 *  Data_Fallout - Meshes.bsa
+*  Data_Fallout - Textures2.bsa
 *  Data_FalloutNV.esm
 *  Data_GunRunnersArsenal.esm
 *  Data_HonestHearts.esm
