@@ -490,7 +490,7 @@
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
 *  [VTMB HD Overhaul Complete-234-2-2-1766864569.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1437)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
-*  [VTMBup115.49-80-11-5-49-1767181351.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1460)
+*  [VTMBup115.51-80-11-5-1767646822.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1467)
 *  [VV.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-re-skin-for-toreador-pc)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
 *  [Warrior_Wolf_Gangrel.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217)
