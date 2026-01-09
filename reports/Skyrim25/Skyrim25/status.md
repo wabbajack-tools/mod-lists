@@ -15,7 +15,7 @@
 *  [AltTabFix 1.1.0-148466-1-1-0-1754927924.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148466/?tab=files&file_id=654764)
 *  [Animated Static Reload Fix - NG-69331-1-0-1-1669739630.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69331/?tab=files&file_id=335899)
 *  [Arcane Blacksmith's Apron - Hood Fixes-78927-1-01-1723219708.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78927/?tab=files&file_id=529887)
-*  [Assorted Mesh Fixes-32117-0-131-1761973460.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=682461)
+*  [Assorted Mesh Fixes-32117-0-136-1767820513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=706606)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Auto Audio Switch-134404-1-0-3-1732152589.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134404/?tab=files&file_id=564432)
 *  [Auto Input Switch-54309-1-2-3-1702841492.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=452745)
@@ -266,7 +266,7 @@
 *  [Eyes AO Clipping Fix-25753-1-3-1558284484.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25753/?tab=files&file_id=92806)
 *  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
 *  [Farm Hat 01 Clipping Fix-72213-1-1-1672045134.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72213/?tab=files&file_id=343719)
-*  [Favorite Misc Items-42750-3-7-1-1665247156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=322497)
+*  [Favorite Misc Items-42750-4-0-0-1767556383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=705539)
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
 *  [Fish Plaque Fixes and Improvements-93868-0-2-1687852884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93868/?tab=files&file_id=401477)
 *  [Fixed Fixed Dragon Stalking Fix-55518-1-0-1631499484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55518/?tab=files&file_id=228030)
@@ -312,7 +312,7 @@
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
-*  [Lightened Skyrim-111475-1-09-1754293562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111475/?tab=files&file_id=652709)
+*  [Lightened Skyrim-111475-1-10-1765663682.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111475/?tab=files&file_id=697674)
 *  [Load Screen Shading Fix-98647-0-4-1755354051.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98647/?tab=files&file_id=656199)
 *  [Local Map Upgrade 3.1.0-129756-3-1-0-1734046344.rar](https://www.nexusmods.com/skyrimspecialedition/mods/129756/?tab=files&file_id=571814)
 *  [Locked Empty Container Activate Text Fix-99441-1-0-0-1693201167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99441/?tab=files&file_id=421400)
@@ -366,7 +366,7 @@
 *  Papyrus Compiler_PCompiler.dll
 *  Papyrus Compiler_ScriptCompile.bat
 *  Papyrus Compiler_StringTemplate.dll
-*  [Papyrus Extender-22854-6-2-1-1764089443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=691130)
+*  [Papyrus Extender-22854-6-3-0-1766509921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=701342)
 *  [Papyrus Tweaks 4.1.1-77779-4-1-1-1761101872.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=678973)
 *  [powerofthree's Tweaks-51073-1-1-5-1-1756670335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=661201)
 *  [Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66128/?tab=files&file_id=275418)
@@ -390,7 +390,7 @@
 *  [Shroud Hearth Barrow Script Fix-84817-1-0-0-1676220644.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84817/?tab=files&file_id=359117)
 *  [Simple Mesh Fixes-71990-0-3-1661986188.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71990/?tab=files&file_id=312098)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [SkyPatcher - AE-106659-6-2-1-1763311916.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=688192)
+*  [SkyPatcher - AE-106659-6-3-1-1767471169.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=705133)
 *  [SkyPatcher Keyword Framework-127024-1-4-0-1752431146.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127024/?tab=files&file_id=646851)
 *  [Skyrim Misc Bugfix Compilation-133286-2-4a-1758767585.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133286/?tab=files&file_id=669195)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
