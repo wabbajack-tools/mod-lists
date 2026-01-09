@@ -246,7 +246,7 @@
 *  [MEW - INIs and Configs-92739-1-5-4-1767838565.7z](https://www.nexusmods.com/newvegas/mods/92739/?tab=files&file_id=1000165798)
 *  [MEW - Iron Sight Alignments-92739-1-5-4-1767838910.7z](https://www.nexusmods.com/newvegas/mods/92739/?tab=files&file_id=1000165799)
 *  [MEW - Patches-92739-1-5-3-1766627772.7z](https://www.nexusmods.com/newvegas/mods/92739/?tab=files&file_id=1000164259)
-*  [MEW - Patches-92739-1-5-4-1767838974.7z](https://www.nexusmods.com/newvegas/mods/92739/?tab=files&file_id=1000165800)
+*  [MEW - Patches-92739-1-5-4-4-1767928590.7z](https://www.nexusmods.com/newvegas/mods/92739/?tab=files&file_id=1000165889)
 *  [MEW LOD Output-92739-1-5-4-1767839256.7z](https://www.nexusmods.com/newvegas/mods/92739/?tab=files&file_id=1000165801)
 *  [MLF-68714-3-1-1691312308.zip](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000114377)
 *  [Mod Organizer 2.5.2-ML1.5 Archive-874-2-5-2-ML1-5-1723841178.7z](https://www.nexusmods.com/site/mods/874/?tab=files&file_id=3835)
