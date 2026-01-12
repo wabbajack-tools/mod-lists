@@ -1,8 +1,8 @@
 {
   "MachineURL": "BG3EE/BG3EE",
   "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
-  "Version": "6.0.0.0",
-  "ModListHash": "kqxLK5rnQdw=",
+  "Version": "6.0.0.2",
+  "ModListHash": "OuGjPXjycwA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -455,14 +455,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2MBP8BiCbMU=",
-        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip",
-        "Name": "rootbuilder.5.0.5.zip",
-        "Size": 948891,
+        "Hash": "lCJe3i7mhoM=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip",
+        "Name": "rootbuilder.5.1.1.zip",
+        "Size": 957191,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.5.zip"
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip"
         }
       }
     },
@@ -1393,42 +1393,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8aYHTje0eR8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=757\nfileID=89901",
-        "Name": "Better Loading Screens-757-1-0-4-1745167488.7z",
-        "Size": 3509,
+        "Hash": "iHo0wVVm/50=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=15305\nfileID=103560",
+        "Name": "Custom Loading Screen-15305-3-1-1758706081.7z",
+        "Size": 2345167,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Aether",
-          "Description": "Removes padding around the loading screen image, also removes the vignette. Adds a drop shadow and stroke to hints",
-          "FileID": 89901,
+          "Author": "reyqune",
+          "Description": "A curated Baldur\u0027s Gate 3 mod list focused on a polished, slightly harder vanilla-like experience with quality-of-life upgrades and bug fixes for smoother gameplay.",
+          "FileID": 103560,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/757/757-1704835742-1904129094.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15305/15305-1741714853-436369333.jpeg",
           "IsNSFW": false,
-          "ModID": 757,
-          "Name": "Aether\u0027s Better Loading Screens",
-          "Version": "1.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+NeRsMNN7YI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1911\nfileID=13756",
-        "Name": "Even Smaller Flute-1911-1-0-1-1694034315.zip",
-        "Size": 15085,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Mainly makes the flute less bulky, and while keeping the length.",
-          "FileID": 13756,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1911/1911-1694034402-1998454809.png",
-          "IsNSFW": false,
-          "ModID": 1911,
-          "Name": "Smaller Flute",
-          "Version": "1.0.1"
+          "ModID": 15305,
+          "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
+          "Version": "1.1.10"
         }
       }
     },
@@ -1849,48 +1828,6 @@
           "ModID": 18548,
           "Name": "Waterproof Shadowheart",
           "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y0M0hJcjlj8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
-        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
-        "Size": 41598,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hoagsie",
-          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
-          "FileID": 11379,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
-          "IsNSFW": false,
-          "ModID": 1561,
-          "Name": "Faster Rolls Quartered",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "anFZr3bMUco=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=985\nfileID=7522",
-        "Name": "Smaller Lutes-985-1-0-1692134349.zip",
-        "Size": 132145,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "anshela",
-          "Description": "Exactly what it says on the tin.  May not be optimal for all races/body types.",
-          "FileID": 7522,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/985/985-1692134172-801995597.jpeg",
-          "IsNSFW": false,
-          "ModID": 985,
-          "Name": "Smaller Lutes",
-          "Version": "1.0"
         }
       }
     },
@@ -3199,21 +3136,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O+4IL28zhrs=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2113\nfileID=14938",
-        "Name": "Smaller Lyre-2113-1-0-1694421449.zip",
-        "Size": 47554,
+        "Hash": "8aYHTje0eR8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=757\nfileID=89901",
+        "Name": "Better Loading Screens-757-1-0-4-1745167488.7z",
+        "Size": 3509,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Makes the lyre smaller.",
-          "FileID": 14938,
+          "Author": "Aether",
+          "Description": "Removes padding around the loading screen image, also removes the vignette. Adds a drop shadow and stroke to hints",
+          "FileID": 89901,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2113/2113-1694421185-1522920521.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/757/757-1704835742-1904129094.png",
           "IsNSFW": false,
-          "ModID": 2113,
-          "Name": "Smaller Lyre",
-          "Version": "1.0"
+          "ModID": 757,
+          "Name": "Aether\u0027s Better Loading Screens",
+          "Version": "1.03"
         }
       }
     },
@@ -3640,21 +3577,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PP4sYMAdNj0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2248\nfileID=15704",
-        "Name": "Smaller Torches-2248-1-0-1694682452.zip",
-        "Size": 117567,
+        "Hash": "y0M0hJcjlj8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
+        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
+        "Size": 41598,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team Me",
-          "Description": "Makes the torches smaller, less like they\u0027re from a MOBA.",
-          "FileID": 15704,
+          "Author": "hoagsie",
+          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
+          "FileID": 11379,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2248/2248-1694682359-857220469.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
           "IsNSFW": false,
-          "ModID": 2248,
-          "Name": "Smaller Torches",
-          "Version": "1.0"
+          "ModID": 1561,
+          "Name": "Faster Rolls Quartered",
+          "Version": "1.1"
         }
       }
     },
@@ -4081,21 +4018,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d8RiTz1VioI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9663\nfileID=57912",
-        "Name": "Version A-9663-1-0-1716201056.rar",
-        "Size": 14155,
+        "Hash": "+NeRsMNN7YI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1911\nfileID=13756",
+        "Name": "Even Smaller Flute-1911-1-0-1-1694034315.zip",
+        "Size": 15085,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "starcityjespar",
-          "Description": "Replaces Astarion\u0027s \u0022grinch\u0022 smile with one of his other smile animations (Now includes an option to make the grinch face permanent)",
-          "FileID": 57912,
+          "Author": "Team Me",
+          "Description": "Mainly makes the flute less bulky, and while keeping the length.",
+          "FileID": 13756,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9663/9663-1716443539-672233871.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1911/1911-1694034402-1998454809.png",
           "IsNSFW": false,
-          "ModID": 9663,
-          "Name": "Astarion Unusual Smile Animation Replacer",
-          "Version": "2.0"
+          "ModID": 1911,
+          "Name": "Smaller Flute",
+          "Version": "1.0.1"
         }
       }
     },
@@ -4515,42 +4452,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HGkcc8f5XSY=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=103535",
-        "Name": "Native Camera Tweaks-945-2-4-5-1758665322.zip",
-        "Size": 307607,
+        "Hash": "anFZr3bMUco=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=985\nfileID=7522",
+        "Name": "Smaller Lutes-985-1-0-1692134349.zip",
+        "Size": 132145,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
-          "FileID": 103535,
+          "Author": "anshela",
+          "Description": "Exactly what it says on the tin.  May not be optimal for all races/body types.",
+          "FileID": 7522,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/985/985-1692134172-801995597.jpeg",
           "IsNSFW": false,
-          "ModID": 945,
-          "Name": "Native Camera Tweaks",
-          "Version": "2.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7OBjBbQw40E=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=14841\nfileID=97267",
-        "Name": "Default - Loose-14841-1-000-1751580816.rar",
-        "Size": 49533,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AIMRYAX",
-          "Description": "Fixes the visual artefact at the corner of character\u0027s mouths.",
-          "FileID": 97267,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14841/14841-1751580220-102821691.png",
-          "IsNSFW": false,
-          "ModID": 14841,
-          "Name": "Visual Artefact Fix",
-          "Version": "1.000"
+          "ModID": 985,
+          "Name": "Smaller Lutes",
+          "Version": "1.0"
         }
       }
     },
@@ -5145,15 +5061,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CD3F3ahgFnI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=19741\nfileID=110095",
-        "Name": "Goon\u0027s Vendor Overhaul-19741-1-0-0-1-1766404593.zip",
-        "Size": 4888,
+        "Hash": "HcB5Lc6LxdU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=19741\nfileID=111932",
+        "Name": "Goon\u0027s Vendor Overhaul-19741-1-0-0-2-1768154524.zip",
+        "Size": 4886,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BaldursGoonsack",
           "Description": "Traders no longer restock when levelling up or taking partial rests. They can no longer be farmed without the use of camp supplies.",
-          "FileID": 110095,
+          "FileID": 111932,
           "GameName": "BaldursGate3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/19741/19741-1763719747-842904621.png",
           "IsNSFW": false,
@@ -5355,15 +5271,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UXz/3eolTzs=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=17091\nfileID=103522",
-        "Name": "VariousDialogueFixes-17091-1-3-1-1758647242.zip",
-        "Size": 4178581,
+        "Hash": "9MbDAIFU33g=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=17091\nfileID=111948",
+        "Name": "VariousDialogueFixes-17091-1-4-0-1768160621.zip",
+        "Size": 10326346,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kelocena",
           "Description": "This mod aims to fix dialogue bugs that still permeate the game and in the process restore content that was unintentionally cut.",
-          "FileID": 103522,
+          "FileID": 111948,
           "GameName": "BaldursGate3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/17091/17091-1749944055-1554802030.png",
           "IsNSFW": false,
@@ -5411,21 +5327,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ytMxxPCI1/o=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=781\nfileID=103529",
-        "Name": "WASD-781-1-9-8-1758653752.zip",
-        "Size": 422718,
+        "Hash": "HGkcc8f5XSY=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=103535",
+        "Name": "Native Camera Tweaks-945-2-4-5-1758665322.zip",
+        "Size": 307607,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ch4nKyy",
-          "Description": "Explore Faer\u00FBn in an immersive Third-Person-View and use WASD to move your Heroes.",
-          "FileID": 103529,
+          "Author": "Ersh",
+          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
+          "FileID": 103535,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/781/781-1691761313-2064208011.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
           "IsNSFW": false,
-          "ModID": 781,
-          "Name": "WASD Character Movement",
-          "Version": "1.9.3"
+          "ModID": 945,
+          "Name": "Native Camera Tweaks",
+          "Version": "2.4.0"
         }
       }
     },
@@ -5845,21 +5761,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iHo0wVVm/50=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=15305\nfileID=103560",
-        "Name": "Custom Loading Screen-15305-3-1-1758706081.7z",
-        "Size": 2345167,
+        "Hash": "O+4IL28zhrs=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2113\nfileID=14938",
+        "Name": "Smaller Lyre-2113-1-0-1694421449.zip",
+        "Size": 47554,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reyqune",
-          "Description": "A curated Baldur\u0027s Gate 3 mod list focused on a polished, slightly harder vanilla-like experience with quality-of-life upgrades and bug fixes for smoother gameplay.",
-          "FileID": 103560,
+          "Author": "Team Me",
+          "Description": "Makes the lyre smaller.",
+          "FileID": 14938,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/15305/15305-1741714853-436369333.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2113/2113-1694421185-1522920521.png",
           "IsNSFW": false,
-          "ModID": 15305,
-          "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
-          "Version": "1.1.10"
+          "ModID": 2113,
+          "Name": "Smaller Lyre",
+          "Version": "1.0"
         }
       }
     },
@@ -6280,6 +6196,48 @@
           "ModID": 4213,
           "Name": "Yogurt Heads - Half Orc and Elf Presets",
           "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ytMxxPCI1/o=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=781\nfileID=103529",
+        "Name": "WASD-781-1-9-8-1758653752.zip",
+        "Size": 422718,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ch4nKyy",
+          "Description": "Explore Faer\u00FBn in an immersive Third-Person-View and use WASD to move your Heroes.",
+          "FileID": 103529,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/781/781-1691761313-2064208011.png",
+          "IsNSFW": false,
+          "ModID": 781,
+          "Name": "WASD Character Movement",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PP4sYMAdNj0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2248\nfileID=15704",
+        "Name": "Smaller Torches-2248-1-0-1694682452.zip",
+        "Size": 117567,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Me",
+          "Description": "Makes the torches smaller, less like they\u0027re from a MOBA.",
+          "FileID": 15704,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2248/2248-1694682359-857220469.png",
+          "IsNSFW": false,
+          "ModID": 2248,
+          "Name": "Smaller Torches",
+          "Version": "1.0"
         }
       }
     },
@@ -6727,6 +6685,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "d8RiTz1VioI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9663\nfileID=57912",
+        "Name": "Version A-9663-1-0-1716201056.rar",
+        "Size": 14155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "starcityjespar",
+          "Description": "Replaces Astarion\u0027s \u0022grinch\u0022 smile with one of his other smile animations (Now includes an option to make the grinch face permanent)",
+          "FileID": 57912,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9663/9663-1716443539-672233871.png",
+          "IsNSFW": false,
+          "ModID": 9663,
+          "Name": "Astarion Unusual Smile Animation Replacer",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "53wa7l8BJl8=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=12756\nfileID=74051",
         "Name": "Astarion Edit with Subtler Makeup-12756-1-0-0-1728130475.7z",
@@ -7162,6 +7141,27 @@
           "ModID": 5357,
           "Name": "Zip\u0027s Heads",
           "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7OBjBbQw40E=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=14841\nfileID=97267",
+        "Name": "Default - Loose-14841-1-000-1751580816.rar",
+        "Size": 49533,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AIMRYAX",
+          "Description": "Fixes the visual artefact at the corner of character\u0027s mouths.",
+          "FileID": 97267,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/14841/14841-1751580220-102821691.png",
+          "IsNSFW": false,
+          "ModID": 14841,
+          "Name": "Visual Artefact Fix",
+          "Version": "1.000"
         }
       }
     }
