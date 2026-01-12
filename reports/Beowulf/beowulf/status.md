@@ -1,11 +1,10 @@
 ## Validation Report - Beowulf (Beowulf/beowulf)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_51588c1b-31b1-4908-8a4c-1da462b1a59d)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2268)
+### Valid (2269)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [- Skyrim 202X - 4K-68307-10-5-2-1754266903.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652626)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -689,6 +688,7 @@
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
 *  [ENBLightSFP-63900-1-0-1645268560.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63900/?tab=files&file_id=265313)
+*  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_51588c1b-31b1-4908-8a4c-1da462b1a59d)
 *  [Engine Fixes - Main File-17230-7-0-19-1758815363.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=669323)
 *  [Enhanced Ore Veins - 2K - 9.0.1 - German-62801-v9-0-1-1643552361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62801/?tab=files&file_id=260474)
 *  [Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246044)
