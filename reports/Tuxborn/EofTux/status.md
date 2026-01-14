@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (613)
+### Valid (620)
 *  [(ESL) Duo Brown-Light Brown Rats for Skeevers Replacement SE 1.1-3109-1-1-1651864225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3109/?tab=files&file_id=281938)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -124,8 +124,10 @@
 *  [College Prestige Mage Outfit by Xtudo SE-56350-1-1-1633048397.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56350/?tab=files&file_id=231780)
 *  [CoMAP-56123-4-1-0-1713900587.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=494094)
 *  [Common Clothing Expansion-134088-1-7-1734795059.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134088/?tab=files&file_id=574611)
+*  [Community Shaders Emission Plane Fix-990-1-1760231353.7z](https://www.nexusmods.com/enderalspecialedition/mods/990/?tab=files&file_id=3976)
 *  [Community Shaders-86492-1-3-6-1755460877.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=656667)
 *  [Community Shaders-86492-1-4-2-1759005040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=669959)
+*  [Community Shaders-86492-1-4-6-1760824982.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=677522)
 *  [Comprehensive First Person Animation Overhaul-87169-1-0-4-hotfix-1709828463.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87169/?tab=files&file_id=477930)
 *  [Conditional Armor Type Animations-51507-1-3c-1687702364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51507/?tab=files&file_id=400908)
 *  [Conditional Dog Barking OAR-72336-1-2-0-1702053276.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72336/?tab=files&file_id=449850)
@@ -147,7 +149,6 @@
 *  Data_E - Textures1.bsa
 *  Data_E - Textures2.bsa
 *  Data_Enderal - Forgotten Stories.esm
-*  Data_SKSE_Plugins_EngineFixes.toml
 *  Data_SKSE_Plugins_SSEDisplayTweaks.ini
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -206,9 +207,11 @@
 *  [Enderal - Beacon Mesh Fix-793-1-0-1727362769.rar](https://www.nexusmods.com/enderalspecialedition/mods/793/?tab=files&file_id=3122)
 *  [Enderal - Bug Fixes-2-1-33-1663164794.rar](https://www.nexusmods.com/enderalspecialedition/mods/2/?tab=files&file_id=2064)
 *  [Enderal - Donkey (Female and Male Version)-107-2-61-1663645727.7z](https://www.nexusmods.com/enderalspecialedition/mods/107/?tab=files&file_id=2093)
+*  [Enderal - Image Space Adapter Fix-999-1-1763401799.rar](https://www.nexusmods.com/enderalspecialedition/mods/999/?tab=files&file_id=4011)
 *  [Enderal - Mesh Fixes - Hortophyll-793-1-3d-1743334355.rar](https://www.nexusmods.com/enderalspecialedition/mods/793/?tab=files&file_id=3510)
 *  [Enderal - Mesh Fixes - LevinLozenges-793-1-1-1730742310.rar](https://www.nexusmods.com/enderalspecialedition/mods/793/?tab=files&file_id=3174)
 *  [Enderal - Mesh Fixes - Overdev-793-1-1-1728811073.rar](https://www.nexusmods.com/enderalspecialedition/mods/793/?tab=files&file_id=3138)
+*  [Enderal - One Moon-1008-1-0-1767943551.rar](https://www.nexusmods.com/enderalspecialedition/mods/1008/?tab=files&file_id=4041)
 *  [Enderal Children Overhaul-764-1-0-0-1723090646.zip](https://www.nexusmods.com/enderalspecialedition/mods/764/?tab=files&file_id=2970)
 *  [Enderal Darker Tree LOD and Less Saturated-67-1-1618338969.7z](https://www.nexusmods.com/enderalspecialedition/mods/67/?tab=files&file_id=293)
 *  [Enderal Distinctive Clothing - Main File-348-1-0-1641632629.7z](https://www.nexusmods.com/enderalspecialedition/mods/348/?tab=files&file_id=1552)
@@ -240,6 +243,7 @@
 *  [Enderal-Oblivion Horses SE-32335-3-2-1722690300.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32335/?tab=files&file_id=527830)
 *  EnderalLauncher_system_config_cp.sur
 *  [EnderalSEEdit 4.1.5f-78-4-1-5f-1714283559.7z](https://www.nexusmods.com/enderalspecialedition/mods/78/?tab=files&file_id=2793)
+*  [Engine Fixes - Main File-17230-7-0-19-1758815363.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=669323)
 *  [Enhanced Market Displays-865-2-1-1744117467.7z](https://www.nexusmods.com/enderalspecialedition/mods/865/?tab=files&file_id=3532)
 *  [Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246044)
 *  [Enhanced Rocks and Mountains-85196-1-2-1720180965.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85196/?tab=files&file_id=517895)
@@ -295,7 +299,7 @@
 *  [Goetia Animations - Sneak Magic-75482-1-1-1663713147.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75482/?tab=files&file_id=318148)
 *  [Gold and Silver Reading Glasses-120188-1-1-1716656677.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120188/?tab=files&file_id=504830)
 *  [Gold Metal-15623-1-1565236400.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15623/?tab=files&file_id=102343)
-*  [Grass Collision-87816-2-1-0-1758808848.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87816/?tab=files&file_id=669298)
+*  [Grass Collision-87816-3-0-1-1760824906.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87816/?tab=files&file_id=677520)
 *  [Grass Lighting-86502-2-0-0-1733537978.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86502/?tab=files&file_id=569735)
 *  [Grave Gargoyles SE-21907-1-0-1544966970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21907/?tab=files&file_id=75292)
 *  [Grendel - Troll Audio-115955-0-1-1712341077.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115955/?tab=files&file_id=487764)
@@ -496,6 +500,7 @@
 *  [Skyland Complex Material-124865-1-0-1-1741667795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124865/?tab=files&file_id=604307)
 *  [Skylighting-139352-1-1-1-1753614917.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=650573)
 *  [Skylighting-139352-1-2-1-1759005074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=669961)
+*  [Skylighting-139352-1-2-2-1759767984.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=672949)
 *  [SkyPatcher - SE-106659-6-0-0-1753377893.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106659/?tab=files&file_id=649852)
 *  [Skypatcher version-120257-1-1716667544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120257/?tab=files&file_id=504887)
 *  [Skyrim Script Extender (SKSE64)-30379-2-0-20-1633684151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=233411)
@@ -544,6 +549,7 @@
 *  [The Notice Board Redefined for Enderal-153-1-1-1624553835.rar](https://www.nexusmods.com/enderalspecialedition/mods/153/?tab=files&file_id=751)
 *  [The Southbound Scouts - HDT-SMP-122550-1-01-1723951184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122550/?tab=files&file_id=532539)
 *  [The Weathers of Enderal - for CS - HDR-985-0-91-1759012305.rar](https://www.nexusmods.com/enderalspecialedition/mods/985/?tab=files&file_id=3958)
+*  [The Weathers of Enderal - Hotfix-985-0-92-1760124948.rar](https://www.nexusmods.com/enderalspecialedition/mods/985/?tab=files&file_id=3971)
 *  [TK Children SE-5916-2-02-1599982490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5916/?tab=files&file_id=160463)
 *  [To Your Face SE-24720-1-0h-1575072852.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=114688)
 *  [Tomato's Bridge Texture 2k Parallax-103309-1-0-1698197431.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103309/?tab=files&file_id=436850)
@@ -576,6 +582,7 @@
 *  [Unique Statues Series - Rhalata Temple-923-1-0-1-1752278417.zip](https://www.nexusmods.com/enderalspecialedition/mods/923/?tab=files&file_id=3705)
 *  [Universal Rim Lighting Fix-119367-1-1-1715731621.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119367/?tab=files&file_id=501171)
 *  [Upscaling-156952-1-1-0-1759005118.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156952/?tab=files&file_id=669963)
+*  [Upscaling-156952-1-1-1-1759767922.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156952/?tab=files&file_id=672947)
 *  [Use Those Blankets-75481-2-11-1692034218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75481/?tab=files&file_id=417054)
 *  [Vanargand Animations - Archery-60323-1-0-1639867022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60323/?tab=files&file_id=250155)
 *  [Vanargand Animations - Crossbows-66286-1-0-1649585426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66286/?tab=files&file_id=276124)
