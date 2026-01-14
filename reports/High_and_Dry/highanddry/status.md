@@ -458,7 +458,7 @@
 *  [HH Weapon Overhaul-74132-1-0v-1634853431.7z](https://www.nexusmods.com/newvegas/mods/74132/?tab=files&file_id=1000082853)
 *  [Hi Res Posters-64589-0-7-1547670614.7z](https://www.nexusmods.com/newvegas/mods/64589/?tab=files&file_id=1000051593)
 *  [Hidden Valley Overhauled-70859-1-4-1686529965.zip](https://www.nexusmods.com/newvegas/mods/70859/?tab=files&file_id=1000110916)
-*  [High and Dry INI Presets-88167-4-5-1768268502.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000166250)
+*  [High and Dry INI Presets-88167-4-6-1768346080.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000166343)
 *  [High and Dry NVR Main Menu Replacer-92496-1-0-1748729605.7z](https://www.nexusmods.com/newvegas/mods/92496/?tab=files&file_id=1000152794)
 *  [High and Dry Patches-88167-4-8-1768268531.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000166251)
 *  [High Poly Beards for CKR-91822-1-1-1744992397.zip](https://www.nexusmods.com/newvegas/mods/91822/?tab=files&file_id=1000150422)
