@@ -1,10 +1,11 @@
 ## Validation Report - F4FEVR (F4FEVR/LaskeumaKuume)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [XDI 1.3.5 VR.zip](https://www.patreon.com/file?h=145305266&m=577052398)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (121)
+### Valid (120)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
 *  [Advanced Needs 76 - Main File-58440-v1-8-9-1701008761.zip](https://www.nexusmods.com/fallout4/mods/58440/?tab=files&file_id=295190)
 *  [All Dogs No Door Opening-14702-1-02.7z](https://www.nexusmods.com/fallout4/mods/14702/?tab=files&file_id=125918)
@@ -123,6 +124,5 @@
 *  [Workshop Framework Script Override-35004-2-3-19-1710524779.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=306890)
 *  [Workshop Framework-35004-2-3-20-1714741317.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=313837)
 *  [Workshop Framework-35004-2-4-10-1765524397.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=377142)
-*  [XDI 1.3.5 VR.zip](https://www.patreon.com/file?h=145305266&m=577052398)
 *  [xEdit.4.0.4.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z)
 *  [xSE PluginPreloader F4 0.3-33946-0-3-1718686029.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=323314)
