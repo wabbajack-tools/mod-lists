@@ -1,10 +1,11 @@
 ## Validation Report - Vagabond Remastered (WakingDreams/VagabondRemastered)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanaheimr - Ore Veins - PBR.7z](https://drive.google.com/uc?id=1jjHVbrWwnaaPw1-FUjDUDw2e4clSUm1p&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4605)
+### Valid (4604)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
@@ -4320,7 +4321,6 @@
 *  [Vanaheimr - Mines and Caves - PBR.7z](https://authored-files.wabbajack.org/Vanaheimr - Mines and Caves - PBR.7z_f1b01bef-bd24-4a09-b931-a1e606146e02)
 *  [Vanaheimr - Northern Roads - 2k-152575-2-7-1763800152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152575/?tab=files&file_id=689963)
 *  [Vanaheimr - Northern Roads - PBR - 2k-152575-2-7-1763800297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152575/?tab=files&file_id=689966)
-*  [Vanaheimr - Ore Veins - PBR.7z](https://drive.google.com/uc?id=1jjHVbrWwnaaPw1-FUjDUDw2e4clSUm1p&export=download)
 *  [Vanaheimr - Ore Veins PBR.7z](https://www.nexusmods.com/skyrimspecialedition/mods/167663/?tab=files&file_id=700442)
 *  [Vanaheimr - Ore Veins-149148-3-1-1751398749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149148/?tab=files&file_id=643325)
 *  [Vanaheimr Landscapes - AIO - 2k-145439-3-5-1755200616.7z](https://www.nexusmods.com/skyrimspecialedition/mods/145439/?tab=files&file_id=655627)
