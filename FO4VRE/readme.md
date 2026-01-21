@@ -6,4 +6,4 @@
 * Quality of life improvements, FRIK, Holsters Etc
 * and much more!  
 
-* To view the Readme, [Click HERE!](https://docs.google.com/document/d/1KjAhJ3RAqUxp5TYivW7fjSC_XVEuAafiJmHfCVnb2VI/edit?usp=sharing)
+* To view the Readme, [Click HERE!](https://docs.google.com/document/d/1laDdZF5euYAAQNVvlMFgWwCKxCVdcNPPZ7lKYPsNKxU/edit?tab=t.0)
