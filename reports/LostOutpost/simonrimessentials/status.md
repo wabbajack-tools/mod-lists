@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (241)
+### Valid (243)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adamant - A Perk Overhaul-30191-5-9-2-1715101901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=498819)
@@ -93,6 +93,8 @@
 *  [dTry Plugin Updates-85740-1-0-3-1696691628.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85740/?tab=files&file_id=431955)
 *  [dTry's Key Utils AE-69944-1-1-1655790332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69944/?tab=files&file_id=292793)
 *  [Dual Casting Fix-92454-1-0-1685396946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=393174)
+*  [Dual Wield Behavior Fixes - Nemesis Files-139775-2-0-1737749282.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139775/?tab=files&file_id=586955)
+*  [DWBF for Perk Mods - FOMOD-139850-1-0-1737661416.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139850/?tab=files&file_id=586600)
 *  [DynDOLOD 3.00-68518-Alpha-197-1767455018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=705036)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-39-1757618312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=664782)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-58-1767455113.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=705037)
@@ -158,7 +160,6 @@
 *  [Open Animation Replacer-92109-2-3-6-1720373417.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=518680)
 *  p4com64.dll
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
-*  [Pandora Behaviour Engine Standalone Windows x64-133232-v4-1-2-beta-1766776077.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=702307)
 *  Papyrus Compiler_PapyrusCompiler.exe
 *  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-6-3-0-1766509921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=701342)
@@ -173,6 +174,7 @@
 *  [Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368378)
 *  [Script Effect Archetype Crash Fix-43532-1-1678779345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368379)
 *  [Simonrim Attack Speed Fix-30191-1-0-0-1674102606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=350926)
+*  [Simonrim Essentials - Nemesis Output-168857-1-0-4-1769087467.7z](https://www.nexusmods.com/skyrimspecialedition/mods/168857/?tab=files&file_id=712531)
 *  [Skyrim Extended Cut - Saints and Seducers-72772-1-1-1-1762891202.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=686538)
 *  [Skyrim Misc Bugfix Compilation-133286-2-4a-1758767585.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133286/?tab=files&file_id=669195)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
