@@ -16,6 +16,7 @@
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Halls of Sovngarde](#halls-of-sovngarde)
+    -   [Journals of Jyggalag](#journals-of-jyggalag)
     -   [Keizaal](#keizaal)
     -   [Legends of the Frost](#legends-of-the-frost)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -206,6 +207,17 @@ Halls of Sovngarde is a requiem based list which seeks to fully overhaul most el
 -   [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
 -   [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
 -   [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)
+
+---
+
+### [Journals of Jyggalag](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe)
+
+Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.
+
+[Installation Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe)  
+[Gameplay Guide](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/JOJ-Gameplay-Guide)  
+[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/146771)  
+[Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2)  
 
 ---
 
