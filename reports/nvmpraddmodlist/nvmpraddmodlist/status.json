@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "New Vegas: Multiplayer",
-  "Version": "2.1.9",
-  "ModListHash": "gSXCZg2Haas=",
+  "Version": "2.1.10",
+  "ModListHash": "yzOmsfD0D+Y=",
   "Archives": [
     {
       "Status": "Valid",
@@ -22,6 +22,19 @@
           "ModID": 874,
           "Name": "Mod Organizer 2 - ModdingLinked Edition",
           "Version": "2.5.1rc2-ML1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F4+LzH0ZDC0=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ATK Server Mods [Deactivate this for Coop Servers].7z_2c6a760e-525f-40e6-9c6d-17787470306d",
+        "Name": "ATK Server Mods [Deactivate this for Coop Servers].7z",
+        "Size": 1637539351,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/ATK%20Server%20Mods%20[Deactivate%20this%20for%20Coop%20Servers].7z_2c6a760e-525f-40e6-9c6d-17787470306d"
         }
       }
     },
@@ -63,6 +76,62 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cSalPK2cKG4=",
+        "Meta": "[General]\ndirectURL=https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z",
+        "Name": "nvse_6_3_4.7z",
+        "Size": 3438812,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k8IY6nIjp+Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
+        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
+        "Size": 44180,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
+          "FileID": 1000107287,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
+          "IsNSFW": false,
+          "ModID": 80666,
+          "Name": "ActorCause Save Bloat Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I2VFsm3KBbA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
+        "Name": "MTUI-34902.zip",
+        "Size": 424681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Max Tael",
+          "Description": "Fallout: New Vegas UI improvements.",
+          "FileID": 68836,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
+          "IsNSFW": false,
+          "ModID": 34902,
+          "Name": "MTUI",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2MBP8BiCbMU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=528774",
         "Name": "rootbuilder.5.0.5.zip",
@@ -84,6 +153,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+pfi15eRlL0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78433\nfileID=1000099151",
+        "Name": "3rd Person Minigun Aim Fix-78433-1-0-1663669570.7z",
+        "Size": 16637,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deadlypen",
+          "Description": "Fixes the long standing bug that prevents aiming up/down with the minigun in 3rd person.",
+          "FileID": 1000099151,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78433/78433-1663669190-626370251.jpeg",
+          "IsNSFW": false,
+          "ModID": 78433,
+          "Name": "3rd Person Minigun Aim Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SrZHgFWg5X8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83245\nfileID=1000117052",
+        "Name": "Vanilla Weapon Scale Fix-83245-1-0-1695975410.7z",
+        "Size": 91883,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hitman47101 and Xilandro",
+          "Description": "Playing with interactive animations mods? Using vanilla animations for weapons? Weapons disappear with those mods? This fix is for you!",
+          "FileID": 1000117052,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83245/83245-1695976294-566547102.png",
+          "IsNSFW": false,
+          "ModID": 83245,
+          "Name": "Vanilla Animations Weapon Scale Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RkbL1IhMIpY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=82979\nfileID=1000116126",
+        "Name": "World Map HD-82979-1-0-1694172081.7z",
+        "Size": 34653329,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "chilloucik",
+          "Description": "A simple HD upscale of all world maps.",
+          "FileID": 1000116126,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82979/82979-1694171521-2002590833.png",
+          "IsNSFW": false,
+          "ModID": 82979,
+          "Name": "World Map HD",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "C0cRDy1wMhk=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=75414\nfileID=1000088141",
         "Name": "Clean Pip-Boy 2022-75414-1-1-1645486260.zip",
@@ -99,6 +231,27 @@
           "ModID": 75414,
           "Name": "Clean Pip-Boy 2022",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bkdnuFJFva4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
+        "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
+        "Size": 110679,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Queue",
+          "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
+          "FileID": 1000039152,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
+          "IsNSFW": false,
+          "ModID": 53635,
+          "Name": "NVAC - New Vegas Anti Crash",
+          "Version": "7.5.1.0"
         }
       }
     },
@@ -140,19 +293,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bxUwKylInY0=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ATK Server Mods [Deactivate this for Coop Servers].7z_b6014943-a475-4644-818c-ede7229fee96",
-        "Name": "ATK Server Mods [Deactivate this for Coop Servers].7z",
-        "Size": 1637492186,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/ATK%20Server%20Mods%20[Deactivate%20this%20for%20Coop%20Servers].7z_b6014943-a475-4644-818c-ede7229fee96"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "1op6ZPsRFgg=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000152828",
         "Name": "DXVK 2.6.1-79299-2-6-1-1748788948.7z",
@@ -168,27 +308,6 @@
           "ModID": 79299,
           "Name": "DXVK",
           "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RkbL1IhMIpY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=82979\nfileID=1000116126",
-        "Name": "World Map HD-82979-1-0-1694172081.7z",
-        "Size": 34653329,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "chilloucik",
-          "Description": "A simple HD upscale of all world maps.",
-          "FileID": 1000116126,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82979/82979-1694171521-2002590833.png",
-          "IsNSFW": false,
-          "ModID": 82979,
-          "Name": "World Map HD",
-          "Version": "1.0"
         }
       }
     },
@@ -237,41 +356,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I2VFsm3KBbA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
-        "Name": "MTUI-34902.zip",
-        "Size": 424681,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Tael",
-          "Description": "Fallout: New Vegas UI improvements.",
-          "FileID": 68836,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
-          "IsNSFW": false,
-          "ModID": 34902,
-          "Name": "MTUI",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cSalPK2cKG4=",
-        "Meta": "[General]\ndirectURL=https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z",
-        "Name": "nvse_6_3_4.7z",
-        "Size": 3438812,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "dh+xUCYZfH4=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
         "Name": "4GB Patcher-62552-1-5-1618787921.7z",
@@ -287,48 +371,6 @@
           "ModID": 62552,
           "Name": "FNV 4GB Patcher",
           "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "k8IY6nIjp+Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
-        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
-        "Size": 44180,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
-          "FileID": 1000107287,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
-          "IsNSFW": false,
-          "ModID": 80666,
-          "Name": "ActorCause Save Bloat Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bkdnuFJFva4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
-        "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
-        "Size": 110679,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Queue",
-          "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
-          "FileID": 1000039152,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
-          "IsNSFW": false,
-          "ModID": 53635,
-          "Name": "NVAC - New Vegas Anti Crash",
-          "Version": "7.5.1.0"
         }
       }
     }
