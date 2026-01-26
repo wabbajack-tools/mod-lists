@@ -1,11 +1,10 @@
 ## Validation Report - Baldur's Gate 3 Enhanced Edition (BG3EE/BG3EE)
 
 
-### Invalid (1)
-*  [musicperformworkaround_a634d21-1s5t.zip](https://g-6715.modapi.io/v1/games/6715/mods/5302128/files/6861457/download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (342)
+### Valid (343)
 *  [- - X900 Increase --522-3-30-P7-1725649781.zip](https://www.nexusmods.com/baldursgate3/mods/522/?tab=files&file_id=69185)
 *  [(Option 2) Dark Urge - Rebirth - Saving Throw-14598-5-1736816096.zip](https://www.nexusmods.com/baldursgate3/mods/14598/?tab=files&file_id=84015)
 *  [(Vova's Edition) Better Hotbar 2-2417-2-0-0-34-1744994087.zip](https://www.nexusmods.com/baldursgate3/mods/2417/?tab=files&file_id=89545)
@@ -215,6 +214,7 @@
 *  [Moonrise Towers Tadpole Cargo Dialogue Bug Fix-8015-1-0-1710639344.zip](https://www.nexusmods.com/baldursgate3/mods/8015/?tab=files&file_id=50311)
 *  [More Firewine Kobolds 1.0.0-16748-1-0-0-1747926753.zip](https://www.nexusmods.com/baldursgate3/mods/16748/?tab=files&file_id=93771)
 *  [MoreReactiveCompanionsConfigurable-5447-1-0-0-11-1739831252.zip](https://www.nexusmods.com/baldursgate3/mods/5447/?tab=files&file_id=86025)
+*  [musicperformworkaround_a634d21-1s5t.zip](https://g-6715.modapi.io/v1/games/6715/mods/5302128/files/6861457/download)
 *  [MyshkaComesToCamp-6126-1-1-0-0-1726498278.zip](https://www.nexusmods.com/baldursgate3/mods/6126/?tab=files&file_id=71449)
 *  [Native Camera Tweaks-945-2-4-5-1758665322.zip](https://www.nexusmods.com/baldursgate3/mods/945/?tab=files&file_id=103535)
 *  [NativeModLoader-944-1-1692533783.zip](https://www.nexusmods.com/baldursgate3/mods/944/?tab=files&file_id=8910)

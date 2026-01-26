@@ -1,4 +1,4 @@
-## Validation Report - End Times Challenge (OmnisWorld/End-Times-Challenge)
+## Validation Report - End Times (OmnisWorld/End-Times-Challenge)
 
 
 ### Invalid (11)

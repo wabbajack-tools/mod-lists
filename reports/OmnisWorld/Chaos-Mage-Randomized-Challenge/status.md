@@ -1,4 +1,4 @@
-## Validation Report - Chaos Mage Randomized Challenge (OmnisWorld/Chaos-Mage-Randomized-Challenge)
+## Validation Report - Chaos Mage (OmnisWorld/Chaos-Mage-Randomized-Challenge)
 
 
 ### Invalid (0)
