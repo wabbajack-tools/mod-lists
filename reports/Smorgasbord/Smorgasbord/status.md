@@ -386,7 +386,7 @@
 *  [vinylplz's LRS Weapons In Loot and Traders-8310-2-0-0-1755125371.zip](https://www.nexusmods.com/7daystodie/mods/8310/?tab=files&file_id=31219)
 *  [Voltralux Vanilla POI Pack (2.0)-4916-1-2-3-1752488834.zip](https://www.nexusmods.com/7daystodie/mods/4916/?tab=files&file_id=29726)
 *  [WalkerSim2-0.9.17-6014-0-9-17-1767205161.zip](https://www.nexusmods.com/7daystodie/mods/6014/?tab=files&file_id=35202)
-*  [WalkerSim2-0.9.20-6014-0-9-20-1768783898.zip](https://www.nexusmods.com/7daystodie/mods/6014/?tab=files&file_id=35885)
+*  [WalkerSim2-1.0.0-6014-1-0-0-1769431933.zip](https://www.nexusmods.com/7daystodie/mods/6014/?tab=files&file_id=36173)
 *  [WatchTower 7-6380-0-7-1735614838.zip](https://www.nexusmods.com/7daystodie/mods/6380/?tab=files&file_id=24450)
 *  [Weighted Head for Machete-5011-1-0-1719552531.zip](https://www.nexusmods.com/7daystodie/mods/5011/?tab=files&file_id=17392)
 *  [Witos FAV 1.1-6061-1-1-1767432098.7z](https://www.nexusmods.com/7daystodie/mods/6061/?tab=files&file_id=35300)
