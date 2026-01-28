@@ -1,10 +1,11 @@
 ## Validation Report - Merethic (iAmModlist/merethic)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_4ca94445-04d4-419e-beca-6b15b549c4fe)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2139)
+### Valid (2138)
 *  [-Skyrim 202X 10.5.2 - Architecture PART 1-2347-10-5-2-1753882692.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651339)
 *  [-Skyrim 202X 10.5.2 - Landscape PART 2-2347-10-5-2-1753884060.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651342)
 *  [-Skyrim 202X 10.5.2 - Other PART 3-2347-10-5-2-1753887591.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651363)
@@ -752,7 +753,6 @@
 *  [ENB Light for Apocrypha-64463-0-1-1646291981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64463/?tab=files&file_id=267781)
 *  [ENB Light for Deathbell by Mari-73349-2-0-0-1693174433.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73349/?tab=files&file_id=421286)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
-*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_4ca94445-04d4-419e-beca-6b15b549c4fe)
 *  [Enchantable Special Item Fix-65154-1-0-2-1664574060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=320587)
 *  [Enchanted Table Bypass (Mostly for VR users)-66666-1-11-1667206199.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=327870)
 *  [Encounter Zone Informer-124456-1-0-4-1722402520.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124456/?tab=files&file_id=526870)
