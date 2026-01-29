@@ -394,14 +394,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 0,
-    "passed": 2139,
+    "failed": 1,
+    "passed": 2138,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -2686,5 +2686,33 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Pickysaurus/PickyAPITest_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Pickysaurus/PickyAPITest_large.webp"
+  },
+  {
+    "name": "Librum SE",
+    "machineURL": "librum/librum_se",
+    "failed": 0,
+    "passed": 1343,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/librum/librum_se/status.json",
+    "report": "reports/librum/librum_se/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_se_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_se_large.webp"
+  },
+  {
+    "name": "Librum VR",
+    "machineURL": "librum/librum_vr",
+    "failed": 0,
+    "passed": 1474,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/librum/librum_vr/status.json",
+    "report": "reports/librum/librum_vr/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_vr_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_vr_large.webp"
   }
 ]
