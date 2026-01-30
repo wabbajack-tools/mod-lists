@@ -481,7 +481,7 @@
 *  [CMRC-Grass Bound Records.7z](https://authored-files.wabbajack.org/CMRC-Grass Bound Records.7z_3e5d0f2d-3fab-45c7-8fa2-cb0d73592854)
 *  [CMRC-Grass Cache.7z](https://authored-files.wabbajack.org/CMRC-Grass Cache.7z_85821a0f-6556-4586-a431-2d08d06d8119)
 *  [CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z](https://authored-files.wabbajack.org/CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z_3b1b8a14-80d2-48fd-8827-83a60e712837)
-*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_f1a5a849-19a4-42ce-83ef-82ddcb9e2ea0)
+*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_84bb56cc-0ef6-4e68-9964-ebc2512c74b4)
 *  [CMRC-SSELODGen_Output.7z](https://authored-files.wabbajack.org/CMRC-SSELODGen_Output.7z_f071bd2f-2adf-491a-b302-aaec0327dbd2)
 *  [CMRC-TexGen_Output.7z](https://authored-files.wabbajack.org/CMRC-TexGen_Output.7z_802a80fe-79e9-4024-bdee-b43be2825d21)
 *  [ColdSun's Frea - A Visions NPC Replacer-134320-1-0-1731966796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134320/?tab=files&file_id=563746)
