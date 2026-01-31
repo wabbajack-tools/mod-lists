@@ -1,8 +1,8 @@
 {
   "MachineURL": "LostOutpost/thepath",
   "Name": "The Path",
-  "Version": "1.0.1",
-  "ModListHash": "VlKnU0+VXYI=",
+  "Version": "1.0.2",
+  "ModListHash": "dm89NXMYQVg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -415,21 +415,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Nu8kfj5nAxo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=134075",
-        "Name": "Better Jumping SE-18967-1-7-1-1586802920.zip",
-        "Size": 173088,
+        "Hash": "ch+HsBAf2KA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32444\nfileID=125647",
+        "Name": "All in one-32444-2-1582543914.zip",
+        "Size": 2929619,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321 and z65536",
-          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
-          "FileID": 134075,
+          "Author": "meh321",
+          "Description": "Contains header file and a database to make SKSE DLL plugins version independent easily.",
+          "FileID": 125647,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32444/32444-1581072939-1625378722.png",
           "IsNSFW": false,
-          "ModID": 18967,
-          "Name": "Better Jumping SE",
-          "Version": "1.8.6"
+          "ModID": 32444,
+          "Name": "Address Library for SKSE Plugins",
+          "Version": "8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KME+LyTC90I=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=995\nfileID=4016",
+        "Name": "CRISP i4 Enderal Icons Addon-995-1-01-1763759470.7z",
+        "Size": 473081,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LevinLozenges",
+          "Description": "A Comprehensively Robust Icon Selection Package for Enderal, covering almost all of Enderal\u0027s items, spells, and talents and more.",
+          "FileID": 4016,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/995/995-1763365060-1611350171.png",
+          "IsNSFW": false,
+          "ModID": 995,
+          "Name": "C.R.I.S.P. (i4 Enderal Icons Addon)",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "92cBXElYMsA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59818\nfileID=673149",
+        "Name": "CrashLogger-59818-1-16-0-1759821888.7z",
+        "Size": 6563387,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Generates crash logs when the game Just Works\u2122. This is a SSE/AE/VR port using fudgyduff\u0027s MIT source. This can read PDB files that mod authors may distribute.",
+          "FileID": 673149,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59818/59818-1653385406-1503960741.png",
+          "IsNSFW": false,
+          "ModID": 59818,
+          "Name": "Crash Logger SSE AE VR - PDB support",
+          "Version": "1.10.0"
         }
       }
     },
@@ -451,6 +493,27 @@
           "ModID": 138443,
           "Name": "CS Light",
           "Version": "1.1.4f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B5CzYQ5w+r8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=95740\nfileID=406607",
+        "Name": "DPI Scaling Fix-95740-1-0-1689242798.zip",
+        "Size": 4192908,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaldaien",
+          "Description": "SKSE plugin which fixes the Skyrim window being scaled to the incorrect size.",
+          "FileID": 406607,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/95740/95740-1689242639-141889995.png",
+          "IsNSFW": false,
+          "ModID": 95740,
+          "Name": "DPI Scaling Fix",
+          "Version": "1.0"
         }
       }
     },
@@ -515,22 +578,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DUEKSwD2bv0=",
-        "Meta": "[General]\ngameName=EnderalSpecialEdition\ngameFile=Data\\E - Textures1.bsa",
-        "Name": "Data_E - Textures1.bsa",
-        "Size": 1830988101,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "EnderalSpecialEdition",
-          "GameFile": "Data\\E - Textures1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "DUEKSwD2bv0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "giTfe+sElPQ=",
         "Meta": "[General]\ngameName=EnderalSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
         "Name": "Data_Skyrim - Textures4.bsa",
@@ -568,21 +615,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rhsCNmJQoXc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=85196\nfileID=366753",
-        "Name": "ERM - Enhanced Rocks and Mountains-85196-1-04-1678356005.7z",
-        "Size": 8096190,
+        "Hash": "LMCFO8ATYVY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=85702\nfileID=494324",
+        "Name": "Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z",
+        "Size": 2874224,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CaptainCockerel",
-          "Description": "This mod provides more detailed and immersive mountains and rocks. Features a new material blending system to help hide nasty seams. Easy installation and no plugins.",
-          "FileID": 366753,
+          "Author": "Parapets and Jelidity",
+          "Description": "Inserts interesting information, including item icons, into inventory interface. Importantly, its innocuous injection implementation intrinsically ignores independently installed interface improvements.",
+          "FileID": 494324,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85196/85196-1692200349-392464296.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85702/85702-1677666015-1825426947.png",
           "IsNSFW": false,
-          "ModID": 85196,
-          "Name": "ERM - Enhanced Rocks and Mountains",
-          "Version": "1.11"
+          "ModID": 85702,
+          "Name": "Inventory Interface Information Injector",
+          "Version": "1.0.2"
         }
       }
     },
@@ -610,21 +657,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+mwoL1EILb4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=256077",
-        "Name": "Papyrus Extender SE-22854-4-5-7-1641973468.7z",
-        "Size": 507649,
+        "Hash": "gXfkid3lztM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53000\nfileID=223746",
+        "Name": "MCM Helper SE-53000-1-3-0-1629918598.zip",
+        "Size": 1176933,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.",
-          "FileID": 256077,
+          "Author": "Parapets",
+          "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
+          "FileID": 223746,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22854/95017-1548256254-1238854123.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
           "IsNSFW": false,
-          "ModID": 22854,
-          "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "5.6.1"
+          "ModID": 53000,
+          "Name": "MCM Helper",
+          "Version": "1.4.0"
         }
       }
     },
@@ -652,6 +699,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "aYh8/5TWsPo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=267824",
+        "Name": "Scrambled Bugs (Special Edition)-43532-16-1646318086.7z",
+        "Size": 1073243,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Magicockerel",
+          "Description": "A collection of engine bug fixes and patches.",
+          "FileID": 267824,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "IsNSFW": false,
+          "ModID": 43532,
+          "Name": "Scrambled Bugs",
+          "Version": "21"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "vsQrg/N8Xi8=",
         "Meta": "[General]\ngameName=enderalse\nmodID=188\nfileID=1693",
         "Name": "Seaview Lodge SE-188-1-02-1644591143.rar",
@@ -667,27 +735,6 @@
           "ModID": 188,
           "Name": "Seaview Lodge SE",
           "Version": "1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Osm1o6y+SZ0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43927\nfileID=180082",
-        "Name": "SmoothCam - Octavian\u0027s Preset 1.1.2-43927-1-1-2-1610903285.7z",
-        "Size": 2090,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OctavianMods",
-          "Description": "Modern, up-to-date SmoothCam preset created with gameplay in mind, and gameplay first, while still satisfying those with a love for cinematic shots, fast-paced combat, and exploration. Made for both keyboard/mouse and controller players.",
-          "FileID": 180082,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43927/43927-1609640350-663545396.jpeg",
-          "IsNSFW": false,
-          "ModID": 43927,
-          "Name": "SmoothCam - Octavian\u0027s Preset",
-          "Version": "1.1.1"
         }
       }
     },
@@ -772,6 +819,27 @@
           "ModID": 51614,
           "Name": "True Directional Movement - Modernized Third Person Gameplay",
           "Version": "2.2.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fLoUEefivVQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23316\nfileID=117182",
+        "Name": "Cathedral Assets Optimizer-23316-5-0-10-1577124749.7z",
+        "Size": 8101756,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "G_k",
+          "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
+          "FileID": 117182,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23316/23316-1567888135-1230823006.png",
+          "IsNSFW": false,
+          "ModID": 23316,
+          "Name": "Cathedral Assets Optimizer",
+          "Version": "5.3.15"
         }
       }
     },
@@ -899,21 +967,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LMCFO8ATYVY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=85702\nfileID=494324",
-        "Name": "Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z",
-        "Size": 2874224,
+        "Hash": "rhsCNmJQoXc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=85196\nfileID=366753",
+        "Name": "ERM - Enhanced Rocks and Mountains-85196-1-04-1678356005.7z",
+        "Size": 8096190,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets and Jelidity",
-          "Description": "Inserts interesting information, including item icons, into inventory interface. Importantly, its innocuous injection implementation intrinsically ignores independently installed interface improvements.",
-          "FileID": 494324,
+          "Author": "CaptainCockerel",
+          "Description": "This mod provides more detailed and immersive mountains and rocks. Features a new material blending system to help hide nasty seams. Easy installation and no plugins.",
+          "FileID": 366753,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85702/85702-1677666015-1825426947.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85196/85196-1692200349-392464296.jpeg",
           "IsNSFW": false,
-          "ModID": 85702,
-          "Name": "Inventory Interface Information Injector",
-          "Version": "1.0.2"
+          "ModID": 85196,
+          "Name": "ERM - Enhanced Rocks and Mountains",
+          "Version": "1.11"
         }
       }
     },
@@ -999,27 +1067,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HeIUtpNLv48=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=158\nfileID=1648",
-        "Name": "Bank of Ark SE-158-1-02-1643380514.rar",
-        "Size": 3982498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kelretu and IxionXVII",
-          "Description": "Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank. (eng/ger/rus)",
-          "FileID": 1648,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/158/158-1623850285-234930998.png",
-          "IsNSFW": false,
-          "ModID": 158,
-          "Name": "Bank of Ark SE",
-          "Version": "1.04"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "iaDXIVpB1s8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=63979\nfileID=501460",
         "Name": "Vanilla hair remake-63979-1-0-2-1715806292.7z",
@@ -1083,27 +1130,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KME+LyTC90I=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=995\nfileID=4016",
-        "Name": "CRISP i4 Enderal Icons Addon-995-1-01-1763759470.7z",
-        "Size": 473081,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LevinLozenges",
-          "Description": "A Comprehensively Robust Icon Selection Package for Enderal, covering almost all of Enderal\u0027s items, spells, and talents and more.",
-          "FileID": 4016,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/995/995-1763365060-1611350171.png",
-          "IsNSFW": false,
-          "ModID": 995,
-          "Name": "C.R.I.S.P. (i4 Enderal Icons Addon)",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "vk4TNeWpwRE=",
         "Meta": "[General]\ngameName=enderalse\nmodID=110\nfileID=1675",
         "Name": "Abandoned Excavation Site SE-110-1-01-1644590109.rar",
@@ -1146,42 +1172,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XBxwT03uyNk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42997\nfileID=244390",
-        "Name": "Essential Favorites SE-42997-2-2-0-1637889161.7z",
-        "Size": 222543,
+        "Hash": "+mwoL1EILb4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=256077",
+        "Name": "Papyrus Extender SE-22854-4-5-7-1641973468.7z",
+        "Size": 507649,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "SKSE plugin that prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.",
-          "FileID": 244390,
+          "Description": "SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.",
+          "FileID": 256077,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42997/42997-1620276191-707645528.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22854/95017-1548256254-1238854123.png",
           "IsNSFW": false,
-          "ModID": 42997,
-          "Name": "Essential Favorites",
-          "Version": "2.3.0"
+          "ModID": 22854,
+          "Name": "powerofthree\u0027s Papyrus Extender",
+          "Version": "5.6.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ypnYS6hvC1c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=245335",
-        "Name": "Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z",
-        "Size": 337719,
+        "Hash": "wKOAkXKsazw=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=50\nfileID=200",
+        "Name": "SkyUI Category Icons-50-1-0-1617823070.7z",
+        "Size": 8202,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree-sasnikol",
-          "Description": "SKSE plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.",
-          "FileID": 245335,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
+          "Author": "andi5000",
+          "Description": "Revert the SkyUI Category Icons back to vanilla",
+          "FileID": 200,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/50/50-1617822927-1793095051.jpeg",
           "IsNSFW": false,
-          "ModID": 36869,
-          "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "6.6.2"
+          "ModID": 50,
+          "Name": "SkyUI - Back to Vanilla Icons",
+          "Version": "1.0"
         }
       }
     },
@@ -1230,63 +1256,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ch+HsBAf2KA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32444\nfileID=125647",
-        "Name": "All in one-32444-2-1582543914.zip",
-        "Size": 2929619,
+        "Hash": "5x9sGeeKKbg=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=190\nfileID=1294",
+        "Name": "KataPUMB Affinities-190-2-1-0-1636043735.zip",
+        "Size": 40585,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Contains header file and a database to make SKSE DLL plugins version independent easily.",
-          "FileID": 125647,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32444/32444-1581072939-1625378722.png",
-          "IsNSFW": false,
-          "ModID": 32444,
-          "Name": "Address Library for SKSE Plugins",
-          "Version": "8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "loz6vRweWkg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=258071",
-        "Name": "powerofthree\u0027s Tweaks SE-51073-1-5-1-1642691073.7z",
-        "Size": 264914,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
-          "FileID": 258071,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
-          "IsNSFW": false,
-          "ModID": 51073,
-          "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.8.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "phvh+tPZv7A=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=724\nfileID=4002",
-        "Name": "Bethini Pie Enderal SE Plugin-724-1-2-6-1762879505.rar",
-        "Size": 2682946,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NicoGamerman",
-          "Description": "Enderal SE Plugin for Bethini Pie (Performance INI Editor).",
-          "FileID": 4002,
+          "Author": "KataPUMB",
+          "Description": "Become a dragon hunter, a rift mage, a spell sword... the choice is yours. This mod adds new classes for your playable character integrated within Enderal level system.",
+          "FileID": 1294,
           "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/724/724-1720876354-1891756084.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/190/190-1625516163-1887047422.jpeg",
           "IsNSFW": false,
-          "ModID": 724,
-          "Name": "Bethini Pie (Performance INI Editor) Enderal SE Plugin",
-          "Version": "1.2"
+          "ModID": 190,
+          "Name": "KataPUMB New Affinities",
+          "Version": "2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GDlpr52d2+A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51986\nfileID=212716",
+        "Name": "Menu and Load Smoke Removed for ENB-51986-1-0-1625418666.zip",
+        "Size": 41089,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mitradis",
+          "Description": "Menu/loading smoke remover with latest ENB \u0022no menu and loading screen\u0022 feature support.",
+          "FileID": 212716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51986/51986-1625419166-287805872.jpeg",
+          "IsNSFW": false,
+          "ModID": 51986,
+          "Name": "Menu and Load Smoke Removed for ENB",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YITBdfqnPNU=",
+        "Meta": "[General]\ngameName=enderal\nmodID=151\nfileID=532",
+        "Name": "KuPu_CookingPlaces_Eng-151-1-1590959356.7z",
+        "Size": 20229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KuroPurple",
+          "Description": "Mods to small for an own page",
+          "FileID": 532,
+          "GameName": "Enderal",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2736/images/151/151-1590361657-24968684.jpeg",
+          "IsNSFW": false,
+          "ModID": 151,
+          "Name": "MM - MiniMods",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HeIUtpNLv48=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=158\nfileID=1648",
+        "Name": "Bank of Ark SE-158-1-02-1643380514.rar",
+        "Size": 3982498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kelretu and IxionXVII",
+          "Description": "Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank. (eng/ger/rus)",
+          "FileID": 1648,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/158/158-1623850285-234930998.png",
+          "IsNSFW": false,
+          "ModID": 158,
+          "Name": "Bank of Ark SE",
+          "Version": "1.04"
         }
       }
     },
@@ -1335,27 +1382,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5x9sGeeKKbg=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=190\nfileID=1294",
-        "Name": "KataPUMB Affinities-190-2-1-0-1636043735.zip",
-        "Size": 40585,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KataPUMB",
-          "Description": "Become a dragon hunter, a rift mage, a spell sword... the choice is yours. This mod adds new classes for your playable character integrated within Enderal level system.",
-          "FileID": 1294,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/190/190-1625516163-1887047422.jpeg",
-          "IsNSFW": false,
-          "ModID": 190,
-          "Name": "KataPUMB New Affinities",
-          "Version": "2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LuDReCKtLXM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=153879\nfileID=642939",
         "Name": "Skyrim Optimized - The New Normals(Part 2)-153879-1-0-1751285113.7z",
@@ -1370,6 +1396,610 @@
           "IsNSFW": false,
           "ModID": 153879,
           "Name": "Vanilla Remastered - The New Normal Edition",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pQJMynJIiE4=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=174\nfileID=759",
+        "Name": "Arrow Crafting-174-1-0-1624605037.7z",
+        "Size": 7223,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shad0wshayd3",
+          "Description": "Arrow Crafting Blueprints and Dismantling Recipes for Enderal SE",
+          "FileID": 759,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/174/174-1624603272-175499768.png",
+          "IsNSFW": false,
+          "ModID": 174,
+          "Name": "Arrow Crafting",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ibnio+WIQXY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41252\nfileID=244599",
+        "Name": "SmoothCam-41252-1-6-1-1637953179.zip",
+        "Size": 1083565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mwilsnd",
+          "Description": "SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.",
+          "FileID": 244599,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41252/41252-1602334269-1734454604.png",
+          "IsNSFW": false,
+          "ModID": 41252,
+          "Name": "SmoothCam",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2gKCBw5NaY8=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=143\nfileID=645",
+        "Name": "Old Tunnel Pathing Fix-143-1-00-1622466848.rar",
+        "Size": 15514,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ixion XVII",
+          "Description": "Fixes pathing issues in the Suncoast dungeon \u0022Old Tunnel\u0022. (trolls no longer flee from the player)",
+          "FileID": 645,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/143/143-1622466865-1643476434.png",
+          "IsNSFW": false,
+          "ModID": 143,
+          "Name": "Old Tunnel Pathing Fix",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "59NmHAYEGKI=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=421\nfileID=1873",
+        "Name": "SMIM - Plugin Replacer-421-1-0-1655571321.7z",
+        "Size": 560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deletepch",
+          "Description": "A collection of plugin replacer to make several SE mods work better in Enderal.",
+          "FileID": 1873,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/421/421-1655570552-82440213.png",
+          "IsNSFW": false,
+          "ModID": 421,
+          "Name": "Enderal Bits and Pieces - Plugin Replacer Hub",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UP7Wd38OXvI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39670\nfileID=156959",
+        "Name": "ESO Style Cursor-39670-1-0-1598059614.zip",
+        "Size": 526144,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jple",
+          "Description": "Replaces the default mouse cursor with a minimalistic, Elder Scrolls Online inspired one.",
+          "FileID": 156959,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39670/39670-1598056506-1388859143.png",
+          "IsNSFW": false,
+          "ModID": 39670,
+          "Name": "ESO Cursor",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PBlyr/OL804=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54309\nfileID=225158",
+        "Name": "Auto Input Switch-54309-1-1-2-1630404989.zip",
+        "Size": 244442,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Ever get annoyed that you can\u0027t use your mouse with your gamepad plugged in? Now you can switch between them painlessly.",
+          "FileID": 225158,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54309/54309-1629632972-1826723939.png",
+          "IsNSFW": false,
+          "ModID": 54309,
+          "Name": "Auto Input Switch",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DUEKSwD2bv0=",
+        "Meta": "[General]\ngameName=EnderalSpecialEdition\ngameFile=Data\\E - Textures1.bsa",
+        "Name": "Data_E - Textures1.bsa",
+        "Size": 1830988101,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "EnderalSpecialEdition",
+          "GameFile": "Data\\E - Textures1.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "DUEKSwD2bv0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "phvh+tPZv7A=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=724\nfileID=4002",
+        "Name": "Bethini Pie Enderal SE Plugin-724-1-2-6-1762879505.rar",
+        "Size": 2682946,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NicoGamerman",
+          "Description": "Enderal SE Plugin for Bethini Pie (Performance INI Editor).",
+          "FileID": 4002,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/724/724-1720876354-1891756084.png",
+          "IsNSFW": false,
+          "ModID": 724,
+          "Name": "Bethini Pie (Performance INI Editor) Enderal SE Plugin",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QihcG2FshE8=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=80\nfileID=1672",
+        "Name": "Riverville Catacombs-80-1-02-1644589981.rar",
+        "Size": 86987,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ixion XVII",
+          "Description": "Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.",
+          "FileID": 1672,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/80/80-1618513169-541996561.png",
+          "IsNSFW": false,
+          "ModID": 80,
+          "Name": "Forgotten Dungeons - Riverville Catacombs",
+          "Version": "1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h+F956U4MHE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=83470\nfileID=368788",
+        "Name": "Splash Screen-83470-1-0-1-1678902363.7z",
+        "Size": 3092769,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Displays a splash screen while launching the game with SKSE.",
+          "FileID": 368788,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83470/83470-1674650908-188382774.png",
+          "IsNSFW": false,
+          "ModID": 83470,
+          "Name": "Desktop Splash Screen",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ii2VqMnygIk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60805\nfileID=260412",
+        "Name": "Base Object Swapper SE-60805-1-3-0-1643517213.7z",
+        "Size": 234297,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin and framework for swapping base objects and references, using config files.",
+          "FileID": 260412,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60805/60805-1640547264-263882935.png",
+          "IsNSFW": false,
+          "ModID": 60805,
+          "Name": "Base Object Swapper",
+          "Version": "2.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "acWtDAOiU2k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42839\nfileID=255812",
+        "Name": "Equip Enchantment Fix-42839-1-3-4-1641880115.zip",
+        "Size": 205810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlavicPotato",
+          "Description": "Fixes engine bugs where item enchantments don\u0027t apply when equipped or stop working while the item is still equipped. SKSE64 plugin.",
+          "FileID": 255812,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42839/42839-1606550112-1092714395.png",
+          "IsNSFW": false,
+          "ModID": 42839,
+          "Name": "Equip Enchantment Fix",
+          "Version": "1.3.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Iu6C/0yNfxg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=15109\nfileID=114169",
+        "Name": "Fuz Ro D\u0027oh-15109-1-7-1574514494.7z",
+        "Size": 292862,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shadeMe",
+          "Description": "A SKSE64 plugin that adds support for unvoiced in-game dialog,",
+          "FileID": 114169,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/15109/15109-1517872321-1502894648.png",
+          "IsNSFW": false,
+          "ModID": 15109,
+          "Name": "Fuz Ro D-oh - Silent Voice",
+          "Version": "2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ndws0Qb5Oak=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63247\nfileID=262538",
+        "Name": "toggle compass hotkey-63247-1-0-1644267928.zip",
+        "Size": 3842,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hhuuggss",
+          "Description": "Press a key to toggle the compass/floating markers on and off.",
+          "FileID": 262538,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63247/63247-1644267704-1409189520.png",
+          "IsNSFW": false,
+          "ModID": 63247,
+          "Name": "Toggle Compass Hotkey",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Nu8kfj5nAxo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=134075",
+        "Name": "Better Jumping SE-18967-1-7-1-1586802920.zip",
+        "Size": 173088,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321 and z65536",
+          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
+          "FileID": 134075,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
+          "IsNSFW": false,
+          "ModID": 18967,
+          "Name": "Better Jumping SE",
+          "Version": "1.8.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Osm1o6y+SZ0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43927\nfileID=180082",
+        "Name": "SmoothCam - Octavian\u0027s Preset 1.1.2-43927-1-1-2-1610903285.7z",
+        "Size": 2090,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OctavianMods",
+          "Description": "Modern, up-to-date SmoothCam preset created with gameplay in mind, and gameplay first, while still satisfying those with a love for cinematic shots, fast-paced combat, and exploration. Made for both keyboard/mouse and controller players.",
+          "FileID": 180082,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43927/43927-1609640350-663545396.jpeg",
+          "IsNSFW": false,
+          "ModID": 43927,
+          "Name": "SmoothCam - Octavian\u0027s Preset",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EClIM5CDqUQ=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=99058\nfileID=1000303371",
+        "Name": "Classic Enderal Main Menu Background 4K-99058-1-0-1566365392.rar",
+        "Size": 4833719,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LionCerieals",
+          "Description": "This replaces the current background of Enderal: Forgotten Stories with the classic 4K main menu art from when the game was first released.",
+          "FileID": 1000303371,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/99058/99058-1566365116-536659813.jpeg",
+          "IsNSFW": false,
+          "ModID": 99058,
+          "Name": "Classic Enderal Main Menu Background 4K",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2SRuw52kwa0=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=133\nfileID=1678",
+        "Name": "Thalgard Monastery-133-1-01-1644590215.rar",
+        "Size": 113394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ixion XVII",
+          "Description": "Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.",
+          "FileID": 1678,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/133/133-1621529394-1504598622.png",
+          "IsNSFW": false,
+          "ModID": 133,
+          "Name": "Forgotten Dungeons - Thalgard Monastery",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1MV2BffRlaE=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=158\nfileID=1691",
+        "Name": "Bank of Ark SE-158-1-03-1644591007.rar",
+        "Size": 3982515,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kelretu and IxionXVII",
+          "Description": "Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank. (eng/ger/rus)",
+          "FileID": 1691,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/158/158-1623850285-234930998.png",
+          "IsNSFW": false,
+          "ModID": 158,
+          "Name": "Bank of Ark SE",
+          "Version": "1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yRbEJmVJOLY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4089\nfileID=248211",
+        "Name": "SSE NIF Optimizer-4089-3-1-0-1639234441.7z",
+        "Size": 1281321,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ousnius",
+          "Description": "A tool that optimizes NIF files for the SE/AE (or LE) format and fixes several potential issues. Also scans textures for compatibility.",
+          "FileID": 248211,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4089/4089-1672865211-1279856895.png",
+          "IsNSFW": false,
+          "ModID": 4089,
+          "Name": "SSE NIF Optimizer",
+          "Version": "3.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XBxwT03uyNk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42997\nfileID=244390",
+        "Name": "Essential Favorites SE-42997-2-2-0-1637889161.7z",
+        "Size": 222543,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.",
+          "FileID": 244390,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42997/42997-1620276191-707645528.png",
+          "IsNSFW": false,
+          "ModID": 42997,
+          "Name": "Essential Favorites",
+          "Version": "2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ypnYS6hvC1c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=245335",
+        "Name": "Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z",
+        "Size": 337719,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree-sasnikol",
+          "Description": "SKSE plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.",
+          "FileID": 245335,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
+          "IsNSFW": false,
+          "ModID": 36869,
+          "Name": "Spell Perk Item Distributor (SPID)",
+          "Version": "6.6.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KNmWLahw6Js=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=256101",
+        "Name": "Assorted Mesh Fixes-32117-0-44-1641984096.7z",
+        "Size": 11332545,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
+          "FileID": 256101,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1688313133-1029298072.png",
+          "IsNSFW": false,
+          "ModID": 32117,
+          "Name": "Assorted mesh fixes",
+          "Version": "0.90"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kphPE5yB9ks=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=127\nfileID=1688",
+        "Name": "Frostville SE-127-1-03-1644590649.rar",
+        "Size": 123228,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ClefJ and IxionXVII",
+          "Description": "A small but functional settlement overhaul for the Frostcliff Tavern. (eng/ger/rus)",
+          "FileID": 1688,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/127/127-1620903074-1104248956.png",
+          "IsNSFW": false,
+          "ModID": 127,
+          "Name": "Frostville SE",
+          "Version": "1.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "w5y3frjT8J4=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=151\nfileID=1696",
+        "Name": "Wellwatch Manor SE-151-1-01-1644591340.rar",
+        "Size": 121979,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ClefJ and IxionXVII",
+          "Description": "Adds a proper outpost to the Wellwatch myrad tower and a purchasable player home. (eng/ger/rus)",
+          "FileID": 1696,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/151/151-1623083661-1421311796.png",
+          "IsNSFW": false,
+          "ModID": 151,
+          "Name": "Wellwatch Manor SE",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AF6u/CaCE/Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20406\nfileID=68447",
+        "Name": "SkyUI SE - Flashing Savegames Fix-20406-1-0.zip",
+        "Size": 231895,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SkyUI Team and ousnius",
+          "Description": "Fixes the flashing savegame entries when trying to save or load a game in the in-game main menu (quest journal).",
+          "FileID": 68447,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20406/20406-1538924499-1287521034.png",
+          "IsNSFW": false,
+          "ModID": 20406,
+          "Name": "SkyUI SE - Flashing Savegames Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "loz6vRweWkg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=258071",
+        "Name": "powerofthree\u0027s Tweaks SE-51073-1-5-1-1642691073.7z",
+        "Size": 264914,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
+          "FileID": 258071,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
+          "IsNSFW": false,
+          "ModID": 51073,
+          "Name": "powerofthree\u0027s Tweaks",
+          "Version": "1.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7BqN3TyvrlU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52030\nfileID=212906",
+        "Name": "1. Slightly Difficult Archery - SSE-52030-1-1625515162.zip",
+        "Size": 418,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Askeladden and mikely92",
+          "Description": "Reduces accuracy of enemy ranged attacks - Now for SSE!",
+          "FileID": 212906,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52030/52030-1655934176-407481811.png",
+          "IsNSFW": false,
+          "ModID": 52030,
+          "Name": "Difficult Archery - SSE Port",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WffDi/d9mUw=",
+        "Meta": "[General]\ngameName=enderal\nmodID=151\nfileID=531",
+        "Name": "KuPu_MM_RestingPlace-151-1-1590959266.7z",
+        "Size": 1951,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KuroPurple",
+          "Description": "Mods to small for an own page",
+          "FileID": 531,
+          "GameName": "Enderal",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2736/images/151/151-1590361657-24968684.jpeg",
+          "IsNSFW": false,
+          "ModID": 151,
+          "Name": "MM - MiniMods",
           "Version": "1.0"
         }
       }
@@ -1440,104 +2070,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Iu6C/0yNfxg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=15109\nfileID=114169",
-        "Name": "Fuz Ro D\u0027oh-15109-1-7-1574514494.7z",
-        "Size": 292862,
+        "Hash": "tR0qnMnrYsY=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=137\nfileID=625",
+        "Name": "White Hearth - Enderal SE-137-1-0-1621856233.7z",
+        "Size": 107573,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shadeMe",
-          "Description": "A SKSE64 plugin that adds support for unvoiced in-game dialog,",
-          "FileID": 114169,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/15109/15109-1517872321-1502894648.png",
-          "IsNSFW": false,
-          "ModID": 15109,
-          "Name": "Fuz Ro D-oh - Silent Voice",
-          "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KNmWLahw6Js=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=256101",
-        "Name": "Assorted Mesh Fixes-32117-0-44-1641984096.7z",
-        "Size": 11332545,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 256101,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1688313133-1029298072.png",
-          "IsNSFW": false,
-          "ModID": 32117,
-          "Name": "Assorted mesh fixes",
-          "Version": "0.90"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2gKCBw5NaY8=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=143\nfileID=645",
-        "Name": "Old Tunnel Pathing Fix-143-1-00-1622466848.rar",
-        "Size": 15514,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ixion XVII",
-          "Description": "Fixes pathing issues in the Suncoast dungeon \u0022Old Tunnel\u0022. (trolls no longer flee from the player)",
-          "FileID": 645,
+          "Author": "SpleenofGod - ported by andi5000",
+          "Description": "A new player home near Ark (port to SE)",
+          "FileID": 625,
           "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/143/143-1622466865-1643476434.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/137/137-1621856003-1315887083.jpeg",
           "IsNSFW": false,
-          "ModID": 143,
-          "Name": "Old Tunnel Pathing Fix",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "59NmHAYEGKI=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=421\nfileID=1873",
-        "Name": "SMIM - Plugin Replacer-421-1-0-1655571321.7z",
-        "Size": 560,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deletepch",
-          "Description": "A collection of plugin replacer to make several SE mods work better in Enderal.",
-          "FileID": 1873,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/421/421-1655570552-82440213.png",
-          "IsNSFW": false,
-          "ModID": 421,
-          "Name": "Enderal Bits and Pieces - Plugin Replacer Hub",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UP7Wd38OXvI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39670\nfileID=156959",
-        "Name": "ESO Style Cursor-39670-1-0-1598059614.zip",
-        "Size": 526144,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jple",
-          "Description": "Replaces the default mouse cursor with a minimalistic, Elder Scrolls Online inspired one.",
-          "FileID": 156959,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39670/39670-1598056506-1388859143.png",
-          "IsNSFW": false,
-          "ModID": 39670,
-          "Name": "ESO Cursor",
+          "ModID": 137,
+          "Name": "White Hearth - Enderal SE",
           "Version": "1.0"
         }
       }
@@ -1561,27 +2107,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h+F956U4MHE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=83470\nfileID=368788",
-        "Name": "Splash Screen-83470-1-0-1-1678902363.7z",
-        "Size": 3092769,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Displays a splash screen while launching the game with SKSE.",
-          "FileID": 368788,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83470/83470-1674650908-188382774.png",
-          "IsNSFW": false,
-          "ModID": 83470,
-          "Name": "Desktop Splash Screen",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+QQTgOJbzyc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42750\nfileID=244322",
         "Name": "Favorite Misc Items SSE-42750-3-5-1-1637861882.7z",
@@ -1597,69 +2122,6 @@
           "ModID": 42750,
           "Name": "Favorite Misc Items",
           "Version": "3.7.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EClIM5CDqUQ=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=99058\nfileID=1000303371",
-        "Name": "Classic Enderal Main Menu Background 4K-99058-1-0-1566365392.rar",
-        "Size": 4833719,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LionCerieals",
-          "Description": "This replaces the current background of Enderal: Forgotten Stories with the classic 4K main menu art from when the game was first released.",
-          "FileID": 1000303371,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/99058/99058-1566365116-536659813.jpeg",
-          "IsNSFW": false,
-          "ModID": 99058,
-          "Name": "Classic Enderal Main Menu Background 4K",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pQJMynJIiE4=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=174\nfileID=759",
-        "Name": "Arrow Crafting-174-1-0-1624605037.7z",
-        "Size": 7223,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shad0wshayd3",
-          "Description": "Arrow Crafting Blueprints and Dismantling Recipes for Enderal SE",
-          "FileID": 759,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/174/174-1624603272-175499768.png",
-          "IsNSFW": false,
-          "ModID": 174,
-          "Name": "Arrow Crafting",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QihcG2FshE8=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=80\nfileID=1672",
-        "Name": "Riverville Catacombs-80-1-02-1644589981.rar",
-        "Size": 86987,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ixion XVII",
-          "Description": "Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.",
-          "FileID": 1672,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/80/80-1618513169-541996561.png",
-          "IsNSFW": false,
-          "ModID": 80,
-          "Name": "Forgotten Dungeons - Riverville Catacombs",
-          "Version": "1.02"
         }
       }
     },
@@ -1708,42 +2170,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fLoUEefivVQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23316\nfileID=117182",
-        "Name": "Cathedral Assets Optimizer-23316-5-0-10-1577124749.7z",
-        "Size": 8101756,
+        "Hash": "p+XKYhg5RWk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26270\nfileID=123871",
+        "Name": "Blended Roads Redone 2K-26270-1-4-1-1581589156.7z",
+        "Size": 53596714,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "G_k",
-          "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
-          "FileID": 117182,
+          "Author": "winedave",
+          "Description": "Blended Roads textures redone in high definition. 8, 4 \u0026amp; 2K versions available. The textures are also all darker than vanilla blended roads",
+          "FileID": 123871,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23316/23316-1567888135-1230823006.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26270/26270-1618160465-1010412609.png",
           "IsNSFW": false,
-          "ModID": 23316,
-          "Name": "Cathedral Assets Optimizer",
-          "Version": "5.3.15"
+          "ModID": 26270,
+          "Name": "Blended Roads Redone SE - 8K",
+          "Version": "1.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ndws0Qb5Oak=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63247\nfileID=262538",
-        "Name": "toggle compass hotkey-63247-1-0-1644267928.zip",
-        "Size": 3842,
+        "Hash": "6TQxJVj0xt0=",
+        "Meta": "[General]\ngameName=EnderalSpecialEdition\ngameFile=Data\\E - Meshes.bsa",
+        "Name": "Data_E - Meshes.bsa",
+        "Size": 1599114916,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hhuuggss",
-          "Description": "Press a key to toggle the compass/floating markers on and off.",
-          "FileID": 262538,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63247/63247-1644267704-1409189520.png",
-          "IsNSFW": false,
-          "ModID": 63247,
-          "Name": "Toggle Compass Hotkey",
-          "Version": "1.4"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "EnderalSpecialEdition",
+          "GameFile": "Data\\E - Meshes.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "6TQxJVj0xt0="
         }
       }
     },
@@ -1813,484 +2270,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Lv69fE9zA/0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24898\nfileID=126540",
-        "Name": "YesImSure-24898-1-5-0-1583022330.zip",
-        "Size": 308994,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "This mod disables annoying message prompts asking you if you\u0027re sure you\u0027d like to craft/improve/exit menus",
-          "FileID": 126540,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24898/24898-1554782769-296731752.png",
-          "IsNSFW": false,
-          "ModID": 24898,
-          "Name": "Yes Im Sure",
-          "Version": "1.7.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2SRuw52kwa0=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=133\nfileID=1678",
-        "Name": "Thalgard Monastery-133-1-01-1644590215.rar",
-        "Size": 113394,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ixion XVII",
-          "Description": "Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.",
-          "FileID": 1678,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/133/133-1621529394-1504598622.png",
-          "IsNSFW": false,
-          "ModID": 133,
-          "Name": "Forgotten Dungeons - Thalgard Monastery",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "92cBXElYMsA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59818\nfileID=673149",
-        "Name": "CrashLogger-59818-1-16-0-1759821888.7z",
-        "Size": 6563387,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "Generates crash logs when the game Just Works\u2122. This is a SSE/AE/VR port using fudgyduff\u0027s MIT source. This can read PDB files that mod authors may distribute.",
-          "FileID": 673149,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59818/59818-1653385406-1503960741.png",
-          "IsNSFW": false,
-          "ModID": 59818,
-          "Name": "Crash Logger SSE AE VR - PDB support",
-          "Version": "1.10.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "41ArzHrVFPo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=454679",
-        "Name": "SSE Display Tweaks-34705-0-5-16-1703410713.zip",
-        "Size": 186371,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SlavicPotato",
-          "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
-          "FileID": 454679,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
-          "IsNSFW": false,
-          "ModID": 34705,
-          "Name": "SSE Display Tweaks",
-          "Version": "0.5.12"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1MV2BffRlaE=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=158\nfileID=1691",
-        "Name": "Bank of Ark SE-158-1-03-1644591007.rar",
-        "Size": 3982515,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kelretu and IxionXVII",
-          "Description": "Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank. (eng/ger/rus)",
-          "FileID": 1691,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/158/158-1623850285-234930998.png",
-          "IsNSFW": false,
-          "ModID": 158,
-          "Name": "Bank of Ark SE",
-          "Version": "1.04"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yRbEJmVJOLY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4089\nfileID=248211",
-        "Name": "SSE NIF Optimizer-4089-3-1-0-1639234441.7z",
-        "Size": 1281321,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ousnius",
-          "Description": "A tool that optimizes NIF files for the SE/AE (or LE) format and fixes several potential issues. Also scans textures for compatibility.",
-          "FileID": 248211,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4089/4089-1672865211-1279856895.png",
-          "IsNSFW": false,
-          "ModID": 4089,
-          "Name": "SSE NIF Optimizer",
-          "Version": "3.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2tSuAtVKC5M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=244154",
-        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z",
-        "Size": 269290,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 244154,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "6.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gXfkid3lztM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53000\nfileID=223746",
-        "Name": "MCM Helper SE-53000-1-3-0-1629918598.zip",
-        "Size": 1176933,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
-          "FileID": 223746,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
-          "IsNSFW": false,
-          "ModID": 53000,
-          "Name": "MCM Helper",
-          "Version": "1.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kphPE5yB9ks=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=127\nfileID=1688",
-        "Name": "Frostville SE-127-1-03-1644590649.rar",
-        "Size": 123228,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ClefJ and IxionXVII",
-          "Description": "A small but functional settlement overhaul for the Frostcliff Tavern. (eng/ger/rus)",
-          "FileID": 1688,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/127/127-1620903074-1104248956.png",
-          "IsNSFW": false,
-          "ModID": 127,
-          "Name": "Frostville SE",
-          "Version": "1.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ibnio+WIQXY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41252\nfileID=244599",
-        "Name": "SmoothCam-41252-1-6-1-1637953179.zip",
-        "Size": 1083565,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mwilsnd",
-          "Description": "SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.",
-          "FileID": 244599,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41252/41252-1602334269-1734454604.png",
-          "IsNSFW": false,
-          "ModID": 41252,
-          "Name": "SmoothCam",
-          "Version": "1.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "w5y3frjT8J4=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=151\nfileID=1696",
-        "Name": "Wellwatch Manor SE-151-1-01-1644591340.rar",
-        "Size": 121979,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ClefJ and IxionXVII",
-          "Description": "Adds a proper outpost to the Wellwatch myrad tower and a purchasable player home. (eng/ger/rus)",
-          "FileID": 1696,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/151/151-1623083661-1421311796.png",
-          "IsNSFW": false,
-          "ModID": 151,
-          "Name": "Wellwatch Manor SE",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AF6u/CaCE/Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=20406\nfileID=68447",
-        "Name": "SkyUI SE - Flashing Savegames Fix-20406-1-0.zip",
-        "Size": 231895,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkyUI Team and ousnius",
-          "Description": "Fixes the flashing savegame entries when trying to save or load a game in the in-game main menu (quest journal).",
-          "FileID": 68447,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20406/20406-1538924499-1287521034.png",
-          "IsNSFW": false,
-          "ModID": 20406,
-          "Name": "SkyUI SE - Flashing Savegames Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "B5CzYQ5w+r8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=95740\nfileID=406607",
-        "Name": "DPI Scaling Fix-95740-1-0-1689242798.zip",
-        "Size": 4192908,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kaldaien",
-          "Description": "SKSE plugin which fixes the Skyrim window being scaled to the incorrect size.",
-          "FileID": 406607,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/95740/95740-1689242639-141889995.png",
-          "IsNSFW": false,
-          "ModID": 95740,
-          "Name": "DPI Scaling Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aYh8/5TWsPo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=267824",
-        "Name": "Scrambled Bugs (Special Edition)-43532-16-1646318086.7z",
-        "Size": 1073243,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Magicockerel",
-          "Description": "A collection of engine bug fixes and patches.",
-          "FileID": 267824,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
-          "IsNSFW": false,
-          "ModID": 43532,
-          "Name": "Scrambled Bugs",
-          "Version": "21"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YITBdfqnPNU=",
-        "Meta": "[General]\ngameName=enderal\nmodID=151\nfileID=532",
-        "Name": "KuPu_CookingPlaces_Eng-151-1-1590959356.7z",
-        "Size": 20229,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KuroPurple",
-          "Description": "Mods to small for an own page",
-          "FileID": 532,
-          "GameName": "Enderal",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2736/images/151/151-1590361657-24968684.jpeg",
-          "IsNSFW": false,
-          "ModID": 151,
-          "Name": "MM - MiniMods",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7BqN3TyvrlU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52030\nfileID=212906",
-        "Name": "1. Slightly Difficult Archery - SSE-52030-1-1625515162.zip",
-        "Size": 418,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Askeladden and mikely92",
-          "Description": "Reduces accuracy of enemy ranged attacks - Now for SSE!",
-          "FileID": 212906,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52030/52030-1655934176-407481811.png",
-          "IsNSFW": false,
-          "ModID": 52030,
-          "Name": "Difficult Archery - SSE Port",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WffDi/d9mUw=",
-        "Meta": "[General]\ngameName=enderal\nmodID=151\nfileID=531",
-        "Name": "KuPu_MM_RestingPlace-151-1-1590959266.7z",
-        "Size": 1951,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KuroPurple",
-          "Description": "Mods to small for an own page",
-          "FileID": 531,
-          "GameName": "Enderal",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2736/images/151/151-1590361657-24968684.jpeg",
-          "IsNSFW": false,
-          "ModID": 151,
-          "Name": "MM - MiniMods",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wKOAkXKsazw=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=50\nfileID=200",
-        "Name": "SkyUI Category Icons-50-1-0-1617823070.7z",
-        "Size": 8202,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "andi5000",
-          "Description": "Revert the SkyUI Category Icons back to vanilla",
-          "FileID": 200,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/50/50-1617822927-1793095051.jpeg",
-          "IsNSFW": false,
-          "ModID": 50,
-          "Name": "SkyUI - Back to Vanilla Icons",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p+XKYhg5RWk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26270\nfileID=123871",
-        "Name": "Blended Roads Redone 2K-26270-1-4-1-1581589156.7z",
-        "Size": 53596714,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "Blended Roads textures redone in high definition. 8, 4 \u0026amp; 2K versions available. The textures are also all darker than vanilla blended roads",
-          "FileID": 123871,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26270/26270-1618160465-1010412609.png",
-          "IsNSFW": false,
-          "ModID": 26270,
-          "Name": "Blended Roads Redone SE - 8K",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6TQxJVj0xt0=",
-        "Meta": "[General]\ngameName=EnderalSpecialEdition\ngameFile=Data\\E - Meshes.bsa",
-        "Name": "Data_E - Meshes.bsa",
-        "Size": 1599114916,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "EnderalSpecialEdition",
-          "GameFile": "Data\\E - Meshes.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "6TQxJVj0xt0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tR0qnMnrYsY=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=137\nfileID=625",
-        "Name": "White Hearth - Enderal SE-137-1-0-1621856233.7z",
-        "Size": 107573,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpleenofGod - ported by andi5000",
-          "Description": "A new player home near Ark (port to SE)",
-          "FileID": 625,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/137/137-1621856003-1315887083.jpeg",
-          "IsNSFW": false,
-          "ModID": 137,
-          "Name": "White Hearth - Enderal SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GDlpr52d2+A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51986\nfileID=212716",
-        "Name": "Menu and Load Smoke Removed for ENB-51986-1-0-1625418666.zip",
-        "Size": 41089,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mitradis",
-          "Description": "Menu/loading smoke remover with latest ENB \u0022no menu and loading screen\u0022 feature support.",
-          "FileID": 212716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51986/51986-1625419166-287805872.jpeg",
-          "IsNSFW": false,
-          "ModID": 51986,
-          "Name": "Menu and Load Smoke Removed for ENB",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PBlyr/OL804=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54309\nfileID=225158",
-        "Name": "Auto Input Switch-54309-1-1-2-1630404989.zip",
-        "Size": 244442,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Ever get annoyed that you can\u0027t use your mouse with your gamepad plugged in? Now you can switch between them painlessly.",
-          "FileID": 225158,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54309/54309-1629632972-1826723939.png",
-          "IsNSFW": false,
-          "ModID": 54309,
-          "Name": "Auto Input Switch",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "tl6ZnfMUkf4=",
         "Meta": "[General]\ngameName=enderalse\nmodID=142\nfileID=1488",
         "Name": "Golden Mare Mill SE-142-1-02-1640019172.rar",
@@ -2333,42 +2312,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ii2VqMnygIk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60805\nfileID=260412",
-        "Name": "Base Object Swapper SE-60805-1-3-0-1643517213.7z",
-        "Size": 234297,
+        "Hash": "41ArzHrVFPo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=454679",
+        "Name": "SSE Display Tweaks-34705-0-5-16-1703410713.zip",
+        "Size": 186371,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin and framework for swapping base objects and references, using config files.",
-          "FileID": 260412,
+          "Author": "SlavicPotato",
+          "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
+          "FileID": 454679,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60805/60805-1640547264-263882935.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
           "IsNSFW": false,
-          "ModID": 60805,
-          "Name": "Base Object Swapper",
-          "Version": "2.6.1"
+          "ModID": 34705,
+          "Name": "SSE Display Tweaks",
+          "Version": "0.5.12"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "acWtDAOiU2k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42839\nfileID=255812",
-        "Name": "Equip Enchantment Fix-42839-1-3-4-1641880115.zip",
-        "Size": 205810,
+        "Hash": "Lv69fE9zA/0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24898\nfileID=126540",
+        "Name": "YesImSure-24898-1-5-0-1583022330.zip",
+        "Size": 308994,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SlavicPotato",
-          "Description": "Fixes engine bugs where item enchantments don\u0027t apply when equipped or stop working while the item is still equipped. SKSE64 plugin.",
-          "FileID": 255812,
+          "Author": "Ryan",
+          "Description": "This mod disables annoying message prompts asking you if you\u0027re sure you\u0027d like to craft/improve/exit menus",
+          "FileID": 126540,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42839/42839-1606550112-1092714395.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24898/24898-1554782769-296731752.png",
           "IsNSFW": false,
-          "ModID": 42839,
-          "Name": "Equip Enchantment Fix",
-          "Version": "1.3.6"
+          "ModID": 24898,
+          "Name": "Yes Im Sure",
+          "Version": "1.7.0"
         }
       }
     },
@@ -2390,6 +2369,27 @@
           "ModID": 18,
           "Name": "EOP SE - Enderal Outposts",
           "Version": "1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2tSuAtVKC5M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=244154",
+        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z",
+        "Size": 269290,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 244154,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "IsNSFW": false,
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "6.1.1"
         }
       }
     }
