@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1362)
+### Valid (1361)
 *  [0 - No Radiant Quests for Owned Settlements-74107-1-03-1738183756.zip](https://www.nexusmods.com/fallout4/mods/74107/?tab=files&file_id=346690)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1_Diverse Wasteland - Workshop Framework - Compat-86316-2-1743673613.7z](https://www.nexusmods.com/fallout4/mods/86316/?tab=files&file_id=352768)
@@ -27,6 +27,7 @@
 *  [ALWBOWFO-72601-0-9-1688320638.rar](https://www.nexusmods.com/fallout4/mods/72601/?tab=files&file_id=282136)
 *  [Amelia and Honest Dan ESL Flagged Version-46944-1-0-0-1597935254.zip](https://www.nexusmods.com/fallout4/mods/46944/?tab=files&file_id=189531)
 *  [AmmoRemover v1.0.5-64426-1-0-5-1664930424.rar](https://www.nexusmods.com/fallout4/mods/64426/?tab=files&file_id=252499)
+*  [Angel and Diellos Extra Icons-95852-1-1-1755337893.7z](https://www.nexusmods.com/fallout4/mods/95852/?tab=files&file_id=364507)
 *  [Araki Style Face Paint-62520-1-1658602523.7z](https://www.nexusmods.com/fallout4/mods/62520/?tab=files&file_id=244244)
 *  [Assorted Modular Tweaks - ESPless-84440-1-5-3-1761710366.7z](https://www.nexusmods.com/fallout4/mods/84440/?tab=files&file_id=371635)
 *  [Atom Cats Drag Race Start Fix-60137-1-0-1651412553.zip](https://www.nexusmods.com/fallout4/mods/60137/?tab=files&file_id=236418)
@@ -253,9 +254,6 @@
 *  Data_cctosfo4002_neonflats - main.ba2
 *  Data_cctosfo4002_neonflats - textures.ba2
 *  Data_cctosfo4002_neonflats.esm
-*  Data_ccvltfo4001-homes - main.ba2
-*  Data_ccvltfo4001-homes - textures.ba2
-*  Data_ccvltfo4001-homes.esm
 *  Data_cczsef04001-bhouse - main.ba2
 *  Data_cczsef04001-bhouse - textures.ba2
 *  Data_cczsef04001-bhouse.esm
@@ -351,6 +349,7 @@
 *  [DeathclawHunterArmor-82871-1-0-1715844673.zip](https://www.nexusmods.com/fallout4/mods/82871/?tab=files&file_id=316862)
 *  [Deirdre Bugfix - No Trade Check-49271-1-0-1609955753.zip](https://www.nexusmods.com/fallout4/mods/49271/?tab=files&file_id=198419)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
+*  [Diello_Extra Icons for FIS_1.75-68889-1-75-1738538483.rar](https://www.nexusmods.com/fallout4/mods/68889/?tab=files&file_id=347014)
 *  [Disable Companion Collision-76454-v1-0-1-1701573486.7z](https://www.nexusmods.com/fallout4/mods/76454/?tab=files&file_id=295697)
 *  [Discover Nearby Collectibe Items - ESL-71704-1-3-1685903451.zip](https://www.nexusmods.com/fallout4/mods/71704/?tab=files&file_id=279373)
 *  [Diverse Wasteland Immersion Pack-86316-25-1766940763.7z](https://www.nexusmods.com/fallout4/mods/86316/?tab=files&file_id=378919)
