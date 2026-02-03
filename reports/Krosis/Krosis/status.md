@@ -1,11 +1,10 @@
 ## Validation Report - Krosis (Krosis/Krosis)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_79d2b51c-4aad-4476-9d80-a9d563889654)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2697)
+### Valid (2698)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -820,6 +819,7 @@
 *  [ENB Light PATCH-69070-1-01-1654486479.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69070/?tab=files&file_id=289103)
 *  [ENB Lights For Effect Shaders-56362-2-2-0-1728450824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=550378)
 *  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_73ae3cf5-931a-49b7-8d39-0f76cb8f7746)
+*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_79d2b51c-4aad-4476-9d80-a9d563889654)
 *  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-2-1669579454.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=335385)
 *  [Encounter Zone Informer-124456-1-0-4-1722402520.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124456/?tab=files&file_id=526870)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
