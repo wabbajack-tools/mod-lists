@@ -151,7 +151,7 @@
 *  [Andrealphus Papyrus Functions-85252-1-6-1-1754260725.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85252/?tab=files&file_id=652570)
 *  [Anga's Mill - Cities of the North Addon-64398-1-0-4-1652041666.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64398/?tab=files&file_id=282393)
 *  [Angi's Camp Tweaks-44914-1-1-0-1611840108.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44914/?tab=files&file_id=182370)
-*  [Animal Research 046 LE_SE_AE.7z](https://www.loverslab.com/files/file/35297-animal-research-the-insatiable-scholar/?do=download)
+*  [Animal Research 051 LE_SE_AE.7z](https://www.loverslab.com/topic/234579-animal-research-the-insatiable-scholar/)
 *  [Animal ResearchReplacers.zip](https://www.loverslab.com/files/file/43381-animal-research-the-insatiable-scholar-npc-replacers/)
 *  [Animated Carriage For Northern Roads-118850-1-1715091946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118850/?tab=files&file_id=498771)
 *  [Animated Carriage-112397-1-1-0-1718044068.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112397/?tab=files&file_id=510317)
