@@ -3,9 +3,507 @@
   "Name": "Horizon - Official Modlist",
   "Version": "1.4.3",
   "ModListHash": "igDGEwb2d1w=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rXDEtl7gdOU=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z",
+        "Name": "Mod.Organizer-2.5.2.7z",
+        "Size": 149660212,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4Udmxnm8e48=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=309104",
+        "Name": "Architect Texture Pack v2.1-17374-2-1-1712284930.zip",
+        "Size": 3376252108,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zawinul",
+          "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
+          "FileID": 309104,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": "Horizon v1.9",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dgwE/+3L8s8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=310391",
+        "Name": "Horizon 1.9.4d-17374-1-9-4d-1713271207.zip",
+        "Size": 1440617129,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zawinul",
+          "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
+          "FileID": 310391,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": "Horizon v1.9",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6hsmiaaLcGM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=373597",
+        "Name": "Better Console-26582-v1-6-2-1763084820.zip",
+        "Size": 323956,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+          "FileID": 373597,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "IsNSFW": false,
+          "ModID": 26582,
+          "Name": "Better Console - F4SE",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
+        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
+        "Size": 650275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": "Compatible with runtime 1.10.163.",
+          "FileID": 253313,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 42147,
+          "Name": "Fallout 4 Script Extender (F4SE)",
+          "Version": "0.6.23"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "llXJCpYJ63E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65677\nfileID=309866",
+        "Name": "Default UI Size-65677-2-1-1712920212.zip",
+        "Size": 19074018,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aigni",
+          "Description": "Fixes all bugs/problems of 21:9 resolutions and is fully compatible to FallUI, DEF_UI, Horizon, HUDFramework, etc. \n\nTested resolutions: 3440\u00D71440 and 2560 \u00D7 1080.",
+          "FileID": 309866,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65677/65677-1668454185-942962524.jpeg",
+          "IsNSFW": false,
+          "ModID": 65677,
+          "Name": "Ultra Wide Interface (21x9)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2MBP8BiCbMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=528774",
+        "Name": "Root Builder 5.0.5-31720-5-0-5-1722935359.zip",
+        "Size": 948891,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 528774,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "IsNSFW": false,
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.5.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/WSGCjqqDec=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2737\nfileID=312782",
+        "Name": "FO4Edit 4.1.5f-2737-4-1-5f-1714279051.7z",
+        "Size": 23001115,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElminsterAU and the xEdit Team",
+          "Description": "FO4Edit is the Fallout 4 version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
+          "FileID": 312782,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2737/2737-1544498623-721482526.png",
+          "IsNSFW": false,
+          "ModID": 2737,
+          "Name": "FO4Edit",
+          "Version": "4.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5MIGlFjckNc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=377674",
+        "Name": "Address Library - All In One-47327-1-11-191-1765967714.zip",
+        "Size": 52712149,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+          "FileID": 377674,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "IsNSFW": false,
+          "ModID": 47327,
+          "Name": "Address Library for F4SE Plugins",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VkOh+/JA6OQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=350591",
+        "Name": "Buffout4 NG-64880-1-37-0-1741845594.7z",
+        "Size": 17528192,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
+          "FileID": 350591,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
+          "IsNSFW": false,
+          "ModID": 64880,
+          "Name": "Buffout 4 NG with PDB support",
+          "Version": "1.31.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1vu+CR0B1TY=",
+        "Meta": "[General]\ngameName=site\nmodID=631\nfileID=3097",
+        "Name": "Bethini Pie-631-4-11-1714357636.zip",
+        "Size": 20011099,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DoubleYou",
+          "Description": "Bethini Pie (Performance INI Editor) is a universal tool to make editing INI configuration files simple via a graphical user interface.",
+          "FileID": 3097,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/631/631-1693634744-1135038961.png",
+          "IsNSFW": false,
+          "ModID": 631,
+          "Name": "Bethini Pie (Performance INI Editor)",
+          "Version": "4.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ID+2z2J10QU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=376040",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-2-0a-1764564421.7z",
+        "Size": 41962009,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 376040,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+          "IsNSFW": false,
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch - UFO4P",
+          "Version": "2.1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WYCsc97g6VQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=322390",
+        "Name": "Architect Weather and Lighting v2.2-17374-2-2-1718213815.zip",
+        "Size": 9093840,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zawinul",
+          "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
+          "FileID": 322390,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": "Horizon v1.9",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PK0TsJNp+kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
+        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+        "Size": 287655,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+          "FileID": 93183,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
+          "IsNSFW": false,
+          "ModID": 20309,
+          "Name": "HUDFramework",
+          "Version": "1.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lGeUYbinIMY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=352493",
+        "Name": "Simple Creation Club Delayed NG-84393-1-1-0-1743445279.7z",
+        "Size": 64382,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Delays the start of the Next Gen Creation Club content until meet certain requirements.",
+          "FileID": 352493,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84393%2F84393-1718047059-2034869186.png",
+          "IsNSFW": false,
+          "ModID": 84393,
+          "Name": "Simple Creation Club Delayed NG",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GqPYzEs/vD8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81933\nfileID=378352",
+        "Name": "Simple Fallout 4 Downgrader - for v1.11.191-81933-0-3-1766437577.7z",
+        "Size": 50278353,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "carxt - Nukem - Ungeziefi",
+          "Description": "A simple one-click downgrader that doesn\u2019t require any login credentials.",
+          "FileID": 378352,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81933/81933-1714619983-1474600117.png",
+          "IsNSFW": false,
+          "ModID": 81933,
+          "Name": "Simple Fallout 4 Downgrader",
+          "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "te2oUSFjYvU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81859\nfileID=313321",
+        "Name": "BackportedBA2Support-1_0-81859-1-0-1714516128.zip",
+        "Size": 1303614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukem",
+          "Description": "Adds support for the new BA2 archive format introduced in NG update 1.10.980 to versions 1.10.163 and older. Fixes crashes, similar to BEES for Skyrim Special Edition.",
+          "FileID": 313321,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81859/81859-1714515554-286241558.jpeg",
+          "IsNSFW": false,
+          "ModID": 81859,
+          "Name": "Backported Archive2 Support System",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2TfmqUhLsHE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=342948",
+        "Name": "High FPS Physics Fix-44798-0-8-11-1734374053.zip",
+        "Size": 467489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+          "FileID": 342948,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+          "IsNSFW": false,
+          "ModID": 44798,
+          "Name": "High FPS Physics Fix",
+          "Version": "0.8.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "koriU7sVY6c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=92314\nfileID=372036",
+        "Name": "Simple Everyone\u0027s Best Friend-92314-1-1-1-1762012053.7z",
+        "Size": 53002,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SoleVaultBoy",
+          "Description": "Simple and improved version of Everyone\u0027s Best Friend. Carries over essential bugfixes and greatly improves compatibility with other mods.",
+          "FileID": 372036,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/92314/92314-1742248075-1530014120.png",
+          "IsNSFW": false,
+          "ModID": 92314,
+          "Name": "Simple Everyone\u0027s Best Friend",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Adz7ehHc3IU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=377223",
+        "Name": "NextGen CC Patch (All-in-one)-17374-1-9-4d-1765588658.zip",
+        "Size": 113523,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zawinul",
+          "Description": "Horizon is a large scale overhaul of Fallout 4 that rebalances and expands the gameplay from the ground up.\n\n\n\nIt contains thousands of changes, redesigned systems, and new additions to very carefully balance everything together.\n\n\n\nThe goal of this mod is to create a more challenging and immersive experience.",
+          "FileID": 377223,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17374/17374-1526984409-813944828.jpeg",
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": "Horizon v1.9",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QecNTVClZHM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=270951",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z",
+        "Size": 28463240,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 270951,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+          "IsNSFW": false,
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch - UFO4P",
+          "Version": "2.1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3s3GKVwKBf8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=314112",
+        "Name": "Weapon Debris Crash Fix-48078-1-3-1714835670.zip",
+        "Size": 115274,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
+          "FileID": 314112,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+          "IsNSFW": false,
+          "ModID": 48078,
+          "Name": "Weapon Debris Crash Fix",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NTuIOiXhdm8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81933\nfileID=326792",
+        "Name": "Simple Fallout 4 Downgrader - for v1.10.984-81933-0-3-1721026950.7z",
+        "Size": 51931003,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "carxt - Nukem - Ungeziefi",
+          "Description": "A simple one-click downgrader that doesn\u2019t require any login credentials.",
+          "FileID": 326792,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81933/81933-1714619983-1474600117.png",
+          "IsNSFW": false,
+          "ModID": 81933,
+          "Name": "Simple Fallout 4 Downgrader",
+          "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4w9x3sSPciI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73112\nfileID=283998",
+        "Name": "Graygarden Border FCTD ix-73112-1-00-1689894231.zip",
+        "Size": 3307,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glitchfinder",
+          "Description": "Fixes a CTD some users encounter at Graygarden.",
+          "FileID": 283998,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73112/73112-1689893765-1044508790.png",
+          "IsNSFW": false,
+          "ModID": 73112,
+          "Name": "Graygarden CTD Fix - Unofficial UFO4P Patch",
+          "Version": "1.00"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_large.webp"
 }

@@ -3,9 +3,840 @@
   "Name": "OME",
   "Version": "1.1.0",
   "ModListHash": "xco2f9MTfCI=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uZtalZTAMao=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCHorseArmor.esp",
+        "Name": "Data_DLCHorseArmor.esp",
+        "Size": 97179,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCHorseArmor.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "uZtalZTAMao="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fTLY3d8xvWo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50144\nfileID=1000025153",
+        "Name": "LINK 1_4-50144-1-1593351845.7z",
+        "Size": 1428831,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maskar",
+          "Description": "LINK adds the ability to configure mods in-game, through a configuration menu, making configuring mods faster and more user friendly.",
+          "FileID": 1000025153,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50144/50144-1590352200-2102516419.jpeg",
+          "IsNSFW": false,
+          "ModID": 50144,
+          "Name": "LINK",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qYUIM9Z46O8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52837\nfileID=1000034173",
+        "Name": "TK Oblivion Benchmark V2-52837-2-0-1679821118.zip",
+        "Size": 14202,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ThinKnight",
+          "Description": "Benchmark for testing performance and stability of the game.",
+          "FileID": 1000034173,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52837/52837-1679335323-413181001.jpeg",
+          "IsNSFW": false,
+          "ModID": 52837,
+          "Name": "Benchmark",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KbC9NULEhCE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=9969\nfileID=1000029465",
+        "Name": "Unofficial Oblivion DLC Patches-9969-25-1635879747.7z",
+        "Size": 4650540,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
+          "Description": "The aim of this mod is to fix the bugs existing in the official mods released by Bethesda.",
+          "FileID": 1000029465,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/9969-2-1214077025.jpg",
+          "IsNSFW": false,
+          "ModID": 9969,
+          "Name": "Unofficial Oblivion DLC Patches",
+          "Version": "25"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "66elHepTGDU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=10739\nfileID=1000029462",
+        "Name": "Unofficial Shivering Isles Patch-10739-1-6-0-1635878152.7z",
+        "Size": 38746210,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
+          "Description": "This mod is a joint effort to fix the vast amount of bugs currently existing in the Shivering Isles expansion pack for Oblivion v1.2.0416.",
+          "FileID": 1000029462,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/10739-1-1215225594.jpg",
+          "IsNSFW": false,
+          "ModID": 10739,
+          "Name": "Unofficial Shivering Isles Patch",
+          "Version": "1.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z46BPAwATsI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60690\nfileID=357052",
+        "Name": "Profile Sync 1.1.1-60690-1-1-1-1675678382.zip",
+        "Size": 761909,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "Profile Sync is a plugin for Mod Organizer 2, it allows you to maintain the same mod order (while keeping the enabled/disabled state) across multiple profiles.",
+          "FileID": 357052,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60690/60690-1640621229-184305181.png",
+          "IsNSFW": false,
+          "ModID": 60690,
+          "Name": "Kezyma\u0027s Profile Sync for Mod Organizer",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vIh8CeGMTts=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=22368\nfileID=1000034795",
+        "Name": "Wrye Bash 311 - Standalone Executable-22368-311-1685295392.7z",
+        "Size": 44201407,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wrye Bash Team",
+          "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
+          "FileID": 1000034795,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/22368-0-1483362752.png",
+          "IsNSFW": false,
+          "ModID": 22368,
+          "Name": "Wrye Bash",
+          "Version": "310.beta1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IIVVI/IFTcI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=11536\nfileID=1000029534",
+        "Name": "TES4Edit 4.0.4-11536-4-0-4-1636547821.7z",
+        "Size": 14361777,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElminsterAU and the xEdit Team",
+          "Description": "TES4Edit is the Oblivion version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
+          "FileID": 1000029534,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/11536/11536-1544500267-132884762.png",
+          "IsNSFW": false,
+          "ModID": 11536,
+          "Name": "TES4Edit",
+          "Version": "4.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I0rCrym/HvM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000109175",
+        "Name": "DXVK 2.2 - Async-79299-2-2-1683991305.7z",
+        "Size": 929933,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN",
+          "Description": "Latest release of DXVK.",
+          "FileID": 1000109175,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
+          "IsNSFW": false,
+          "ModID": 79299,
+          "Name": "DXVK",
+          "Version": "2.1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zdbY5mfoSCc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=37952\nfileID=1000035025",
+        "Name": "xOBSE 22.9-37952-22-9-1686868858.zip",
+        "Size": 5043578,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OBSE Team",
+          "Description": "OBSE extends the scripting capabilities of Oblivion.",
+          "FileID": 1000035025,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/37952-1-1369833903.png",
+          "IsNSFW": false,
+          "ModID": 37952,
+          "Name": "Oblivion Script Extender - OBSE - xOBSE",
+          "Version": "22.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TtfoFW7IA90=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=5296\nfileID=1000029461",
+        "Name": "Unofficial Oblivion Patch-5296-3-5-7-1635873247.7z",
+        "Size": 157541088,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
+          "Description": "An Oblivion mod that fixes over 2,500 bugs (and 70,000 object placement errors.)",
+          "FileID": 1000029461,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/5296-1-1212820183.jpg",
+          "IsNSFW": false,
+          "ModID": 5296,
+          "Name": "Unofficial Oblivion Patch",
+          "Version": "3.5.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jg2cT23d4rg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=359947",
+        "Name": "Root Builder 4.4.2-31720-4-4-2-1676456105.zip",
+        "Size": 823695,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 359947,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "IsNSFW": false,
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5OHFPo8m+mE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48503\nfileID=1000027713",
+        "Name": "Crash Logger-48503-3-0-0-1620585731.zip",
+        "Size": 10893,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DavidJCobb and llde",
+          "Description": "A DLL that logs raw crash data -- the instruction pointer, x86 register values, and an attempt at identifying the source DLL (and instruction pointer relative to its module base).",
+          "FileID": 1000027713,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48503/48503-1524951033-1332207428.png",
+          "IsNSFW": false,
+          "ModID": 48503,
+          "Name": "Crash Logger",
+          "Version": "3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i+mSF/NOuUo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50066\nfileID=1000024557",
+        "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
+        "Size": 70725,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iranrmrf",
+          "Description": "This plugin fixes the Oblivion mod limit bug. It allows a maximum of 255 plugins to be loaded.",
+          "FileID": 1000024557,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50066/50066-1587582470-30531017.png",
+          "IsNSFW": false,
+          "ModID": 50066,
+          "Name": "OBL Mod Limit Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DhG52ytoNW8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49568\nfileID=1000022815",
+        "Name": "SkyBSA-49568-1-1-0-1566477186.zip",
+        "Size": 61045,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DavidJCobb",
+          "Description": "An OBSE DLL that forces Oblivion to handle BSAs and loose files the same way that Skyrim does. No more mucking around with file timestamps!",
+          "FileID": 1000022815,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49568/49568-1565722507-1458560039.png",
+          "IsNSFW": false,
+          "ModID": 49568,
+          "Name": "SkyBSA",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1wjO+x3+Sak=",
+        "Meta": "[General]\ngameName=site\nmodID=323\nfileID=2062",
+        "Name": "LOOT Warning Checker-323-1-2-4-beta-1682794034.zip",
+        "Size": 499258,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jonathan Feenstra",
+          "Description": "Mod Organizer 2 plugin to check for LOOT warnings and display them as notifications, without needing to sort the load order. Features a guided fix to clean dirty plugins using xEdit.",
+          "FileID": 2062,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/323/323-1638914827-2098327257.png",
+          "IsNSFW": false,
+          "ModID": 323,
+          "Name": "LOOT Warning Checker MO2 Plugin",
+          "Version": "1.2.4-beta"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "egtzxVJn0lo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52923\nfileID=1000034997",
+        "Name": "Achievements-52923-1-3-1686684348.7z",
+        "Size": 15443,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mixxa77",
+          "Description": "Gather and look at your Achievements like the console versions of the game!",
+          "FileID": 1000034997,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52923/52923-1682338288-1840456403.jpeg",
+          "IsNSFW": false,
+          "ModID": 52923,
+          "Name": "Achievements for Oblivion",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wb3ibmAUOjM=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCMehrunesRazor.esp",
+        "Name": "Data_DLCMehrunesRazor.esp",
+        "Size": 728780,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCMehrunesRazor.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "Wb3ibmAUOjM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ytU/of+viBI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52143\nfileID=1000031717",
+        "Name": "De-Nock Arrows-52143-1-0-1-1657229781.7z",
+        "Size": 827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Adds an arrow de-nock feature by pressing the sheath weapon key, just like in Skyrim. Uses xOBSE events to optimise the script.",
+          "FileID": 1000031717,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52143/52143-1657224911-1288778876.png",
+          "IsNSFW": false,
+          "ModID": 52143,
+          "Name": "De-Nock Arrows xOBSE",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rZnrBl4HUfM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47085\nfileID=1000022995",
+        "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
+        "Size": 186817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tiawar",
+          "Description": "An OBSE plugin containing bug fixes for the Oblivion game engine.",
+          "FileID": 1000022995,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47085,
+          "Name": "EngineBugFixes",
+          "Version": "2.22"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4kOWxMqIxbc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=32200\nfileID=1000004991",
+        "Name": "MenuQue v16b-32200-v16b.zip",
+        "Size": 1126124,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kyoma",
+          "Description": "An OBSE Plugin that adds various additional UI functions , some quest functions and some misc functions.",
+          "FileID": 1000004991,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 32200,
+          "Name": "MenuQue - OBSE Plugin",
+          "Version": "v16b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wqmnvXUXD64=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCOrrery.esp",
+        "Name": "Data_DLCOrrery.esp",
+        "Size": 47424,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCOrrery.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "wqmnvXUXD64="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UXD+Og1eESo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52020\nfileID=1000031251",
+        "Name": "PEBKAC 1_0-52020-1-1653055202.7z",
+        "Size": 2370,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maskar",
+          "Description": "This is a quick mod to check if OBSE and its plugins are installed correctly.",
+          "FileID": 1000031251,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52020/52020-1653055411-1778902262.jpeg",
+          "IsNSFW": false,
+          "ModID": 52020,
+          "Name": "PEBKAC",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2QVl60Neqts=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50348\nfileID=1000025586",
+        "Name": "Oblivion Display Tweaks-50348-1-3-1597794116.zip",
+        "Size": 76168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "Micro stutter tick fix, high framerate fix, true FOV fix, alt-tab freeze fix in fullscreen and G-Sync/FreeSync working in borderless/windowed mode.",
+          "FileID": 1000025586,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50348/50348-1597384220-354790620.png",
+          "IsNSFW": false,
+          "ModID": 50348,
+          "Name": "Oblivion Display Tweaks",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aEQpD91nRMo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43752\nfileID=1000029844",
+        "Name": "Blockhead-43752-11-1-1640043918.7z",
+        "Size": 172565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shadeMe",
+          "Description": "An OBSE plugin that adds support for gender variant head models and textures for NPCs. And allows free camera movement in the race/sex menu. And enables pain-free inventory idle overriding. And per-NPC/Race/scripted body/head texture/model overriding. And animation overriding. And equipment model overriding.",
+          "FileID": 1000029844,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43752-1-1373226750.jpg",
+          "IsNSFW": false,
+          "ModID": 43752,
+          "Name": "Blockhead",
+          "Version": "11.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mspJpSZ5pIM=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCSpellTomes.esp",
+        "Name": "Data_DLCSpellTomes.esp",
+        "Size": 625246,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCSpellTomes.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "mspJpSZ5pIM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "it3w8r65p6E=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52717\nfileID=1000033675",
+        "Name": "List Missing Mods On Load-52717-1-0-1675772636.zip",
+        "Size": 46273,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Lists the missing mods in the popup when loading a save to aid debugging.",
+          "FileID": 1000033675,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52717/52717-1675772586-2085728308.png",
+          "IsNSFW": false,
+          "ModID": 52717,
+          "Name": "List Missing Mods On Load",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gQjkFYhH06M=",
+        "Meta": "[General]\ngameName=site\nmodID=608\nfileID=2217",
+        "Name": "Master Order Checker-608-1-0-0-1689791918.7z",
+        "Size": 1126,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ForgottenGlory",
+          "Description": "Checks your load order to see if you have plugins loading before their masters.",
+          "FileID": 2217,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/608/608-1689791679-1566854452.png",
+          "IsNSFW": false,
+          "ModID": 608,
+          "Name": "MO2 Load Order Checker",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wOANV6VM+DY=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCThievesDen.esp",
+        "Name": "Data_DLCThievesDen.esp",
+        "Size": 233735,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCThievesDen.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "wOANV6VM+DY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QhQlVFEkOTc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53283\nfileID=1000035773",
+        "Name": "UOP Talos Bridge Collision Fix-53283-1-0-1692141141.zip",
+        "Size": 684,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "slowpard",
+          "Description": "No more stuck NPCs (and players) on Talos Bridge",
+          "FileID": 1000035773,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53283/53283-1692141000-1123892928.jpeg",
+          "IsNSFW": false,
+          "ModID": 53283,
+          "Name": "UOP Talos Bridge Collision Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b0FnesPEbIw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=33248\nfileID=88252",
+        "Name": "AddActorValues-33248.rar",
+        "Size": 446972,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JRoush",
+          "Description": "AddActorValues adds script functions for much greater control over actor values.  It also allows modders to add \\\u0027new\\\u0027 actor values for their own use.",
+          "FileID": 88252,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 33248,
+          "Name": "AddActorValues",
+          "Version": "1.beta5b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IqJwDxuiq7o=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16622\nfileID=27327",
+        "Name": "OBSE -Elys- Universal Silent Voice v93-16622.zip",
+        "Size": 30234,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elys",
+          "Description": "This OBSE plugin makes Oblivion play a 8 seconds duration silent voice for any missing voice file.\r\n\n\r\n\n- If the subtitles are turned off, Elys_USV will force display subtitles for missing voice files.\r\n\n- You will have up to 8 seconds to read long subtitles when there is no voice existing for an Oblivion plugin.\r\n\n- Modder creating",
+          "FileID": 27327,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 16622,
+          "Name": "OBSE -Elys- Universal Silent Voice",
+          "Version": "0.93"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QhDmjYAJCU0=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCVileLair.esp",
+        "Name": "Data_DLCVileLair.esp",
+        "Size": 257153,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCVileLair.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "QhDmjYAJCU0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GgSxTN+GNCU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45576\nfileID=1000008086",
+        "Name": "4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip",
+        "Size": 24784,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daniel Pistelli ",
+          "Description": "Small .exe with sole purpose of applying \u0026gt;2gb patch to .exe and .dll files. Automatically makes backups of original files. Applying this to all .exe and .dll related to Oblivion MAY give some of those with 4gb plus ram a performance boost. Even then extra tweaks and additional utilities are usually necessary to optimize things. ",
+          "FileID": 1000008086,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45576,
+          "Name": "4gb Ram Patcher",
+          "Version": "1.0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TaOpKN+38pw=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCBattlehornCastle.esp",
+        "Name": "Data_DLCBattlehornCastle.esp",
+        "Size": 676894,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCBattlehornCastle.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "TaOpKN+38pw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8NjtXrD9wg4=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\Knights.esp",
+        "Name": "Data_Knights.esp",
+        "Size": 2211935,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\Knights.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "8NjtXrD9wg4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4wr28RtyH/0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63243\nfileID=276843",
+        "Name": "BSArchPro-63243-0-9-1-1683802185.7z",
+        "Size": 1344346,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zilav",
+          "Description": "A tool for packing and unpacking Bethesda archives",
+          "FileID": 276843,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63243/63243-1660485667-1446195134.png",
+          "IsNSFW": false,
+          "ModID": 63243,
+          "Name": "BSArchPro",
+          "Version": "0.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ErO0uoqexyM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47592\nfileID=1000016221",
+        "Name": "Shamble Crash Fix-47592-1-0.7z",
+        "Size": 23477,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tossapon",
+          "Description": "Shivering Isles Shambles will crash the game if it got knocked down and trying to get up due to animation error. This will correct the animation and allows it to load without crashing.",
+          "FileID": 1000016221,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47592,
+          "Name": "Shambles Crash Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7FSHX+f8LyM=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\DLCFrostcrag.esp",
+        "Name": "Data_DLCFrostcrag.esp",
+        "Size": 191358,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\DLCFrostcrag.esp",
+          "GameVersion": "1.2.0416",
+          "Hash": "7FSHX+f8LyM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TSXUrEcdw7Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52700\nfileID=1000033585",
+        "Name": "BA_EngineFixes.zip-52700-v1-0-0-1675045693.zip",
+        "Size": 7489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BlueAmulet",
+          "Description": "Fixes some engine bugs",
+          "FileID": 1000033585,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52700/52700-1675045455-525336732.png",
+          "IsNSFW": false,
+          "ModID": 52700,
+          "Name": "Blue\u0027s Engine Fixes",
+          "Version": "v1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1OM/fGhxmyk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52716\nfileID=1000033673",
+        "Name": "No Inventory On Alt-Tab-52716-1-0-1675771581.zip",
+        "Size": 45545,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Prevents the inventory menu opening when you ALT-TAB.",
+          "FileID": 1000033673,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52716/52716-1675994635-922737622.png",
+          "IsNSFW": false,
+          "ModID": 52716,
+          "Name": "No Inventory On Alt-Tab",
+          "Version": "1.0"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SrKaioLists/machineURL_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SrKaioLists/machineURL_large.webp"
 }
