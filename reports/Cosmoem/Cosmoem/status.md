@@ -85,12 +85,12 @@
 *  [Companion Thoughts Overhaul-59834-0-6-1691632161.7z](https://www.nexusmods.com/fallout4/mods/59834/?tab=files&file_id=286075)
 *  [Concord Power Armor Fixed-36153-1-0-1543537460.7z](https://www.nexusmods.com/fallout4/mods/36153/?tab=files&file_id=146950)
 *  [Conduit Connection Fix-9342-1-1.zip](https://www.nexusmods.com/fallout4/mods/9342/?tab=files&file_id=36765)
-*  [Cosmoem - Aftergen.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384463)
+*  [Cosmoem - Aftergen.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384498)
 *  [Cosmoem - Bodyslides.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384208)
-*  [Cosmoem - FOLIP Before Generation.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384318)
-*  [Cosmoem - LODGEN.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384325)
+*  [Cosmoem - FOLIP Before Generation.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384492)
+*  [Cosmoem - LODGEN.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384497)
 *  [Cosmoem - Overwrite-97648-2-7-1-1768701161.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=381693)
-*  [Cosmoem - TexGen Output.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384319)
+*  [Cosmoem - TexGen Output.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384493)
 *  [Crafting Highlight Fix 2.2-27479-2-2-1765911507.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=377616)
 *  CreationKit.exe
 *  CreationKit.ini
@@ -349,6 +349,7 @@
 *  Data_Video_STRENGTH.bk2
 *  [Deirdre Bugfix - No Trade Check-49271-1-0-1609955753.zip](https://www.nexusmods.com/fallout4/mods/49271/?tab=files&file_id=198419)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
+*  [Diello_Extra Icons for FIS_1.1-68889-1-1-1677021538.7z](https://www.nexusmods.com/fallout4/mods/68889/?tab=files&file_id=268100)
 *  [Disable Companion Collision - Anniversary Edition-99213-1-0-0-1766036165.zip](https://www.nexusmods.com/fallout4/mods/99213/?tab=files&file_id=377784)
 *  [Discover Nearby Collectibe Items - ESL-71704-1-3-1685903451.zip](https://www.nexusmods.com/fallout4/mods/71704/?tab=files&file_id=279373)
 *  [Diverse Wasteland Immersion Pack-86316-25-1766940763.7z](https://www.nexusmods.com/fallout4/mods/86316/?tab=files&file_id=378919)
@@ -367,6 +368,7 @@
 *  [EoW Makeup Colors v1.0-15379-1-0.7z](https://www.nexusmods.com/fallout4/mods/15379/?tab=files&file_id=61460)
 *  [Escape Freeze NG - Anniversary Edition-95712-1-2-0-1764125451.zip](https://www.nexusmods.com/fallout4/mods/95712/?tab=files&file_id=375440)
 *  [ESL Version-45072-1-4-1625087397.rar](https://www.nexusmods.com/fallout4/mods/45072/?tab=files&file_id=211542)
+*  [Everyone's Best Friend v3.0.0-13459-3-0-0.rar](https://www.nexusmods.com/fallout4/mods/13459/?tab=files&file_id=88106)
 *  [Extended Dialogue Interface 1.4.3-27216-1-4-3-1765911221.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=377613)
 *  [Eye Liner Masks-4398-0-3.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=31749)
 *  [F4ECC - 1.2-5060-1-2.rar](https://www.nexusmods.com/fallout4/mods/5060/?tab=files&file_id=16830)
@@ -428,6 +430,7 @@
 *  [Hangman's Hangout by Cthuloot (PRP Version)-87123-1-3-6-1727995045.zip](https://www.nexusmods.com/fallout4/mods/87123/?tab=files&file_id=335953)
 *  [HDRP AIO 4K Part 1-97138-006-1765847611.7z](https://www.nexusmods.com/fallout4/mods/97138/?tab=files&file_id=377538)
 *  [HDRP AIO 4K Part 2-97138-006-1765848461.7z](https://www.nexusmods.com/fallout4/mods/97138/?tab=files&file_id=377539)
+*  [HDRP AIO 4K Part 2-97138-006a-1770163119.7z](https://www.nexusmods.com/fallout4/mods/97138/?tab=files&file_id=384193)
 *  [HDRP AIO 4K Part 3-97138-006-1765849295.7z](https://www.nexusmods.com/fallout4/mods/97138/?tab=files&file_id=377540)
 *  [HDRP CC AIO 4K-97138-006-1765150251.7z](https://www.nexusmods.com/fallout4/mods/97138/?tab=files&file_id=376800)
 *  [Heather Clothing Bodyslide Files v2-23273-2-0-1650653455.zip](https://www.nexusmods.com/fallout4/mods/23273/?tab=files&file_id=235667)
@@ -528,8 +531,6 @@
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Molotov Cocktail Nerf-15364-100.zip](https://www.nexusmods.com/fallout4/mods/15364/?tab=files&file_id=61371)
 *  [Moon Rotation Fix-80005-1-1-1-1763834614.zip](https://www.nexusmods.com/fallout4/mods/80005/?tab=files&file_id=374998)
-*  [More Power Armour Mods - Automatron-6982-1-0.zip](https://www.nexusmods.com/fallout4/mods/6982/?tab=files&file_id=45479)
-*  [More Power Armour Mods-6982-1-1.zip](https://www.nexusmods.com/fallout4/mods/6982/?tab=files&file_id=38370)
 *  msvcp110.dll
 *  msvcr110.dll
 *  [MTM - Fens Parkview Apartment Wall Fixed - ESL-40553-1-0-1567578166.7z](https://www.nexusmods.com/fallout4/mods/40553/?tab=files&file_id=165852)
@@ -557,7 +558,6 @@
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
 *  [Old World Plaids-10769-3-0.rar](https://www.nexusmods.com/fallout4/mods/10769/?tab=files&file_id=50565)
-*  [Only MPAM no AWKCR 1_0-33687-1-0.7z](https://www.nexusmods.com/fallout4/mods/33687/?tab=files&file_id=136904)
 *  [Optimized Vanilla Tree LODs-63198-3-2-1717978141.7z](https://www.nexusmods.com/fallout4/mods/63198/?tab=files&file_id=321895)
 *  [Ownership Fixes-56885-1-6-1743453948.7z](https://www.nexusmods.com/fallout4/mods/56885/?tab=files&file_id=352504)
 *  [PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar](https://www.nexusmods.com/fallout4/mods/52315/?tab=files&file_id=208918)
@@ -582,7 +582,7 @@
 *  [Post Nuclear Outfit-29484-1-0.rar](https://www.nexusmods.com/fallout4/mods/29484/?tab=files&file_id=120494)
 *  [Power Armor Animation Changes-1.1-4408-1-1-1714062877.7z](https://www.nexusmods.com/fallout4/mods/4408/?tab=files&file_id=312180)
 *  [Power Armor Collection v1-36290-1-1544144987.zip](https://www.nexusmods.com/fallout4/mods/36290/?tab=files&file_id=147452)
-*  [Power Armor Materials AND Paints (PAMAP) Revival-89990-1-1-6-1768441757.7z](https://www.nexusmods.com/fallout4/mods/89990/?tab=files&file_id=381260)
+*  [Power Armor Materials AND Paints (PAMAP) Revival-89990-1-2-0-1770342051.7z](https://www.nexusmods.com/fallout4/mods/89990/?tab=files&file_id=384458)
 *  [Previsibines Repair Pack - Full (1.10.984)-46403-74-26-1765423017.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=377059)
 *  [Previsibines Repair Pack - Update (1.10.984)-46403-74-26-1765423125.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=377060)
 *  [prkf 1.10.984-28822-1-10-984-1716399983.zip](https://www.nexusmods.com/fallout4/mods/28822/?tab=files&file_id=318312)
