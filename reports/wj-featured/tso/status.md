@@ -1,12 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [[SE] DM BDOR Solios by Team TAL CBBE 3BA BS 1.4.7z](https://drive.google.com/uc?id=1ssqZ7O28hB0MuDGBoQMSnqCSFUTbugAM&export=download)
-*  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1031)
+### Valid (1032)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -872,6 +871,7 @@
 *  [Simple Sacks SE-11301-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11301/?tab=files&file_id=30956)
 *  [Skeleton.and.Human.Bones.4k-2k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54629)
 *  [Skoglendi - A Grass Mod-93944-1-2-1688506385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93944/?tab=files&file_id=403794)
+*  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 *  [Sky Haven Temple HD-6eca2f6e-e3ce-49cf-834a-9b971918ff51.7z](https://wabbajack.b-cdn.net/Sky Haven Temple HD-6eca2f6e-e3ce-49cf-834a-9b971918ff51.7z_0f815c42-2855-41aa-a933-b48d58db36f4)
 *  [SKYBLIVION Steel Armor-31206-1-0-1577200795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31206/?tab=files&file_id=117302)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
