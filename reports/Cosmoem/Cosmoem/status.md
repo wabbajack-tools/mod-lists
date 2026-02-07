@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (676)
+### Valid (1031)
 *  [0 - No Radiant Quests for Owned Settlements-74107-1-03-1738183756.zip](https://www.nexusmods.com/fallout4/mods/74107/?tab=files&file_id=346690)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1_Diverse Wasteland - Workshop Framework - Compat-86316-2-1743673613.7z](https://www.nexusmods.com/fallout4/mods/86316/?tab=files&file_id=352768)
@@ -85,21 +85,78 @@
 *  [Companion Thoughts Overhaul-59834-0-6-1691632161.7z](https://www.nexusmods.com/fallout4/mods/59834/?tab=files&file_id=286075)
 *  [Concord Power Armor Fixed-36153-1-0-1543537460.7z](https://www.nexusmods.com/fallout4/mods/36153/?tab=files&file_id=146950)
 *  [Conduit Connection Fix-9342-1-1.zip](https://www.nexusmods.com/fallout4/mods/9342/?tab=files&file_id=36765)
-*  [Cosmoem - Aftergen.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384498)
+*  [Cosmoem - Aftergen.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384635)
 *  [Cosmoem - Bodyslides.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384208)
-*  [Cosmoem - FOLIP Before Generation.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384492)
-*  [Cosmoem - LODGEN.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384497)
+*  [Cosmoem - FOLIP Before Generation.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384634)
+*  [Cosmoem - LODGEN.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384622)
 *  [Cosmoem - Overwrite-97648-2-7-1-1768701161.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=381693)
-*  [Cosmoem - TexGen Output.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384493)
+*  [Cosmoem - TexGen Output.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=384607)
 *  [Crafting Highlight Fix 2.2-27479-2-2-1765911507.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=377616)
 *  [Creative Perks (Companion Perks)-85701-1-0-1721081682.7z](https://www.nexusmods.com/fallout4/mods/85701/?tab=files&file_id=326883)
 *  [Creative Perks Overhaul-85701-1-67-1731248617.zip](https://www.nexusmods.com/fallout4/mods/85701/?tab=files&file_id=339542)
 *  [Croup Manor Basement - An SRD Player Home-75962-1-0-8-1717781667.7z](https://www.nexusmods.com/fallout4/mods/75962/?tab=files&file_id=321489)
 *  [Cryolator Cryo-Cell Fix-15985-1-00.rar](https://www.nexusmods.com/fallout4/mods/15985/?tab=files&file_id=63878)
 *  cudart64_75.dll
+*  Data_ccacxfo4001-vsuit - main.ba2
+*  Data_ccacxfo4001-vsuit - textures.ba2
+*  Data_ccacxfo4001-vsuit.esl
+*  Data_ccawnfo4001-brandedattire - main.ba2
+*  Data_ccawnfo4001-brandedattire - textures.ba2
+*  Data_ccawnfo4001-brandedattire.esl
+*  Data_ccawnfo4002-factionclothing - main.ba2
+*  Data_ccawnfo4002-factionclothing - textures.ba2
+*  Data_ccawnfo4002-factionclothing.esl
+*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
+*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccbgsfo4001-pipboy(black).esl
+*  Data_ccbgsfo4002-pipboy(blue) - main.ba2
+*  Data_ccbgsfo4002-pipboy(blue) - textures.ba2
+*  Data_ccbgsfo4002-pipboy(blue).esl
+*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
+*  Data_ccbgsfo4003-pipboy(camo01).esl
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
+*  Data_ccbgsfo4004-pipboy(camo02).esl
+*  Data_ccbgsfo4005-bluecamo - main.ba2
+*  Data_ccbgsfo4005-bluecamo - textures.ba2
+*  Data_ccbgsfo4005-bluecamo.esl
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
+*  Data_ccbgsfo4006-pipboy(chrome).esl
+*  Data_ccbgsfo4008-pipgrn - main.ba2
+*  Data_ccbgsfo4008-pipgrn - textures.ba2
+*  Data_ccbgsfo4008-pipgrn.esl
+*  Data_ccbgsfo4009-piporan - main.ba2
+*  Data_ccbgsfo4009-piporan - textures.ba2
+*  Data_ccbgsfo4009-piporan.esl
+*  Data_ccbgsfo4010-pippnk - main.ba2
+*  Data_ccbgsfo4010-pippnk - textures.ba2
+*  Data_ccbgsfo4010-pippnk.esl
+*  Data_ccbgsfo4011-pippurp - main.ba2
+*  Data_ccbgsfo4011-pippurp - textures.ba2
+*  Data_ccbgsfo4011-pippurp.esl
+*  Data_ccbgsfo4012-pipboy(red) - main.ba2
+*  Data_ccbgsfo4012-pipboy(red) - textures.ba2
+*  Data_ccbgsfo4012-pipboy(red).esl
+*  Data_ccbgsfo4013-piptan - main.ba2
+*  Data_ccbgsfo4013-piptan - textures.ba2
+*  Data_ccbgsfo4013-piptan.esl
+*  Data_ccbgsfo4014-pipboy(white) - main.ba2
+*  Data_ccbgsfo4014-pipboy(white) - textures.ba2
+*  Data_ccbgsfo4014-pipboy(white).esl
+*  Data_ccbgsfo4015-pipyell - main.ba2
+*  Data_ccbgsfo4015-pipyell - textures.ba2
+*  Data_ccbgsfo4015-pipyell.esl
+*  Data_ccBGSFO4016-Prey - Main.ba2
+*  Data_ccBGSFO4016-Prey - Textures.ba2
+*  Data_ccbgsfo4016-prey.esl
 *  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
 *  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
 *  Data_ccbgsfo4018-gaussrifleprototype.esl
+*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
+*  Data_ccbgsfo4019-chinesestealtharmor.esl
 *  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
 *  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
 *  Data_ccbgsfo4020-powerarmorskin(black).esl
@@ -142,27 +199,207 @@
 *  Data_ccbgsfo4034-powerarmorskinyellow - main.ba2
 *  Data_ccbgsfo4034-powerarmorskinyellow - textures.ba2
 *  Data_ccbgsfo4034-powerarmorskinyellow.esl
+*  Data_ccbgsfo4035-pint - main.ba2
+*  Data_ccbgsfo4035-pint - textures.ba2
+*  Data_ccbgsfo4035-pint.esl
+*  Data_ccbgsfo4036-trnsdg - main.ba2
+*  Data_ccbgsfo4036-trnsdg - textures.ba2
+*  Data_ccbgsfo4036-trnsdg.esl
 *  Data_ccBGSFO4038-HorseArmor - Main.ba2
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccbgsfo4038-horsearmor.esl
+*  Data_ccbgsfo4040-vrworkshop01 - main.ba2
+*  Data_ccbgsfo4040-vrworkshop01 - textures.ba2
+*  Data_ccbgsfo4040-vrworkshop01.esl
+*  Data_ccbgsfo4041-doommarinearmor - main.ba2
+*  Data_ccbgsfo4041-doommarinearmor - textures.ba2
+*  Data_ccbgsfo4041-doommarinearmor.esl
+*  Data_ccbgsfo4042-bfg - main.ba2
+*  Data_ccbgsfo4042-bfg - textures.ba2
+*  Data_ccbgsfo4042-bfg.esl
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
 *  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccbgsfo4045-advarccab - main.ba2
+*  Data_ccbgsfo4045-advarccab - textures.ba2
+*  Data_ccbgsfo4045-advarccab.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_ccbgsfo4046-tescan.esl
 *  Data_ccbgsfo4047-qthund - main.ba2
 *  Data_ccbgsfo4047-qthund - textures.ba2
 *  Data_ccbgsfo4047-qthund.esl
+*  Data_ccbgsfo4048-dovah - main.ba2
+*  Data_ccbgsfo4048-dovah - textures.ba2
+*  Data_ccbgsfo4048-dovah.esl
+*  Data_ccbgsfo4049-brahminarmor - main.ba2
+*  Data_ccbgsfo4049-brahminarmor - textures.ba2
+*  Data_ccbgsfo4049-brahminarmor.esl
+*  Data_ccbgsfo4050-dgbcoll - main.ba2
+*  Data_ccbgsfo4050-dgbcoll - textures.ba2
+*  Data_ccbgsfo4050-dgbcoll.esl
+*  Data_ccbgsfo4051-dgbox - main.ba2
+*  Data_ccbgsfo4051-dgbox - textures.ba2
+*  Data_ccbgsfo4051-dgbox.esl
+*  Data_ccbgsfo4052-dgdal - main.ba2
+*  Data_ccbgsfo4052-dgdal - textures.ba2
+*  Data_ccbgsfo4052-dgdal.esl
+*  Data_ccbgsfo4053-dggoldr - main.ba2
+*  Data_ccbgsfo4053-dggoldr - textures.ba2
+*  Data_ccbgsfo4053-dggoldr.esl
+*  Data_ccbgsfo4054-dggreatd - main.ba2
+*  Data_ccbgsfo4054-dggreatd - textures.ba2
+*  Data_ccbgsfo4054-dggreatd.esl
+*  Data_ccbgsfo4055-dghusk - main.ba2
+*  Data_ccbgsfo4055-dghusk - textures.ba2
+*  Data_ccbgsfo4055-dghusk.esl
+*  Data_ccbgsfo4056-dglabb - main.ba2
+*  Data_ccbgsfo4056-dglabb - textures.ba2
+*  Data_ccbgsfo4056-dglabb.esl
+*  Data_ccbgsfo4057-dglaby - main.ba2
+*  Data_ccbgsfo4057-dglaby - textures.ba2
+*  Data_ccbgsfo4057-dglaby.esl
+*  Data_ccbgsfo4058-dglabc - main.ba2
+*  Data_ccbgsfo4058-dglabc - textures.ba2
+*  Data_ccbgsfo4058-dglabc.esl
+*  Data_ccbgsfo4059-dgpit - main.ba2
+*  Data_ccbgsfo4059-dgpit - textures.ba2
+*  Data_ccbgsfo4059-dgpit.esl
+*  Data_ccbgsfo4060-dgrot - main.ba2
+*  Data_ccbgsfo4060-dgrot - textures.ba2
+*  Data_ccbgsfo4060-dgrot.esl
+*  Data_ccbgsfo4061-dgshiinu - main.ba2
+*  Data_ccbgsfo4061-dgshiinu - textures.ba2
+*  Data_ccbgsfo4061-dgshiinu.esl
+*  Data_ccbgsfo4062-pippat - main.ba2
+*  Data_ccbgsfo4062-pippat - textures.ba2
+*  Data_ccbgsfo4062-pippat.esl
 *  Data_ccbgsfo4063-papat - main.ba2
 *  Data_ccbgsfo4063-papat - textures.ba2
 *  Data_ccbgsfo4063-papat.esl
+*  Data_ccbgsfo4070-pipabra - main.ba2
+*  Data_ccbgsfo4070-pipabra - textures.ba2
+*  Data_ccbgsfo4070-pipabra.esl
+*  Data_ccbgsfo4071-piparc - main.ba2
+*  Data_ccbgsfo4071-piparc - textures.ba2
+*  Data_ccbgsfo4071-piparc.esl
+*  Data_ccbgsfo4072-pipgrog - main.ba2
+*  Data_ccbgsfo4072-pipgrog - textures.ba2
+*  Data_ccbgsfo4072-pipgrog.esl
+*  Data_ccbgsfo4073-pipmman - main.ba2
+*  Data_ccbgsfo4073-pipmman - textures.ba2
+*  Data_ccbgsfo4073-pipmman.esl
+*  Data_ccbgsfo4074-pipinspect - main.ba2
+*  Data_ccbgsfo4074-pipinspect - textures.ba2
+*  Data_ccbgsfo4074-pipinspect.esl
+*  Data_ccbgsfo4075-pipshroud - main.ba2
+*  Data_ccbgsfo4075-pipshroud - textures.ba2
+*  Data_ccbgsfo4075-pipshroud.esl
+*  Data_ccbgsfo4076-pipmystery - main.ba2
+*  Data_ccbgsfo4076-pipmystery - textures.ba2
+*  Data_ccbgsfo4076-pipmystery.esl
+*  Data_ccbgsfo4077-piprocket - main.ba2
+*  Data_ccbgsfo4077-piprocket - textures.ba2
+*  Data_ccbgsfo4077-piprocket.esl
+*  Data_ccbgsfo4078-pipreily - main.ba2
+*  Data_ccbgsfo4078-pipreily - textures.ba2
+*  Data_ccbgsfo4078-pipreily.esl
+*  Data_ccbgsfo4079-pipvim - main.ba2
+*  Data_ccbgsfo4079-pipvim - textures.ba2
+*  Data_ccbgsfo4079-pipvim.esl
+*  Data_ccbgsfo4080-pippop - main.ba2
+*  Data_ccbgsfo4080-pippop - textures.ba2
+*  Data_ccbgsfo4080-pippop.esl
+*  Data_ccbgsfo4081-pipphenolresin - main.ba2
+*  Data_ccbgsfo4081-pipphenolresin - textures.ba2
+*  Data_ccbgsfo4081-pipphenolresin.esl
+*  Data_ccbgsfo4082-pipprc - main.ba2
+*  Data_ccbgsfo4082-pipprc - textures.ba2
+*  Data_ccbgsfo4082-pipprc.esl
+*  Data_ccbgsfo4083-pipartdeco - main.ba2
+*  Data_ccbgsfo4083-pipartdeco - textures.ba2
+*  Data_ccbgsfo4083-pipartdeco.esl
+*  Data_ccbgsfo4084-pipretro - main.ba2
+*  Data_ccbgsfo4084-pipretro - textures.ba2
+*  Data_ccbgsfo4084-pipretro.esl
+*  Data_ccbgsfo4085-piphawaii - main.ba2
+*  Data_ccbgsfo4085-piphawaii - textures.ba2
+*  Data_ccbgsfo4085-piphawaii.esl
+*  Data_ccbgsfo4086-pipadventure - main.ba2
+*  Data_ccbgsfo4086-pipadventure - textures.ba2
+*  Data_ccbgsfo4086-pipadventure.esl
+*  Data_ccbgsfo4087-piphaida - main.ba2
+*  Data_ccbgsfo4087-piphaida - textures.ba2
+*  Data_ccbgsfo4087-piphaida.esl
+*  Data_ccbgsfo4089-pipsynthwave - main.ba2
+*  Data_ccbgsfo4089-pipsynthwave - textures.ba2
+*  Data_ccbgsfo4089-pipsynthwave.esl
+*  Data_ccbgsfo4090-piptribal - main.ba2
+*  Data_ccbgsfo4090-piptribal - textures.ba2
+*  Data_ccbgsfo4090-piptribal.esl
+*  Data_ccbgsfo4091-as_bats - main.ba2
+*  Data_ccbgsfo4091-as_bats - textures.ba2
+*  Data_ccbgsfo4091-as_bats.esl
+*  Data_ccbgsfo4092-as_camoblue - main.ba2
+*  Data_ccbgsfo4092-as_camoblue - textures.ba2
+*  Data_ccbgsfo4092-as_camoblue.esl
+*  Data_ccbgsfo4093-as_camogreen - main.ba2
+*  Data_ccbgsfo4093-as_camogreen - textures.ba2
+*  Data_ccbgsfo4093-as_camogreen.esl
+*  Data_ccbgsfo4094-as_camotan - main.ba2
+*  Data_ccbgsfo4094-as_camotan - textures.ba2
+*  Data_ccbgsfo4094-as_camotan.esl
+*  Data_ccbgsfo4095-as_childrenofatom - main.ba2
+*  Data_ccbgsfo4095-as_childrenofatom - textures.ba2
+*  Data_ccbgsfo4095-as_childrenofatom.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
 *  Data_ccbgsfo4096-as_enclave.esl
+*  Data_ccbgsfo4097-as_jack-olantern - main.ba2
+*  Data_ccbgsfo4097-as_jack-olantern - textures.ba2
+*  Data_ccbgsfo4097-as_jack-olantern.esl
+*  Data_ccbgsfo4098-as_pickman - main.ba2
+*  Data_ccbgsfo4098-as_pickman - textures.ba2
+*  Data_ccbgsfo4098-as_pickman.esl
+*  Data_ccbgsfo4099-as_reillysrangers - main.ba2
+*  Data_ccbgsfo4099-as_reillysrangers - textures.ba2
+*  Data_ccbgsfo4099-as_reillysrangers.esl
+*  Data_ccbgsfo4101-as_shi - main.ba2
+*  Data_ccbgsfo4101-as_shi - textures.ba2
+*  Data_ccbgsfo4101-as_shi.esl
+*  Data_ccbgsfo4103-as_tunnelsnakes - main.ba2
+*  Data_ccbgsfo4103-as_tunnelsnakes - textures.ba2
+*  Data_ccbgsfo4103-as_tunnelsnakes.esl
+*  Data_ccbgsfo4104-ws_bats - main.ba2
+*  Data_ccbgsfo4104-ws_bats - textures.ba2
+*  Data_ccbgsfo4104-ws_bats.esl
+*  Data_ccbgsfo4105-ws_camoblue - main.ba2
+*  Data_ccbgsfo4105-ws_camoblue - textures.ba2
+*  Data_ccbgsfo4105-ws_camoblue.esl
+*  Data_ccbgsfo4106-ws_camogreen - main.ba2
+*  Data_ccbgsfo4106-ws_camogreen - textures.ba2
+*  Data_ccbgsfo4106-ws_camogreen.esl
+*  Data_ccbgsfo4107-ws_camotan - main.ba2
+*  Data_ccbgsfo4107-ws_camotan - textures.ba2
+*  Data_ccbgsfo4107-ws_camotan.esl
+*  Data_ccbgsfo4108-ws_childrenofatom - main.ba2
+*  Data_ccbgsfo4108-ws_childrenofatom - textures.ba2
+*  Data_ccbgsfo4108-ws_childrenofatom.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
 *  Data_ccbgsfo4110-ws_enclave.esl
+*  Data_ccbgsfo4111-ws_jack-olantern - main.ba2
+*  Data_ccbgsfo4111-ws_jack-olantern - textures.ba2
+*  Data_ccbgsfo4111-ws_jack-olantern.esl
+*  Data_ccbgsfo4112-ws_pickman - main.ba2
+*  Data_ccbgsfo4112-ws_pickman - textures.ba2
+*  Data_ccbgsfo4112-ws_pickman.esl
+*  Data_ccbgsfo4113-ws_reillysrangers - main.ba2
+*  Data_ccbgsfo4113-ws_reillysrangers - textures.ba2
+*  Data_ccbgsfo4113-ws_reillysrangers.esl
+*  Data_ccbgsfo4114-ws_shi - main.ba2
+*  Data_ccbgsfo4114-ws_shi - textures.ba2
+*  Data_ccbgsfo4114-ws_shi.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
 *  Data_ccbgsfo4115-x02.esl
@@ -172,6 +409,9 @@
 *  Data_ccbgsfo4117-capmerc - main.ba2
 *  Data_ccbgsfo4117-capmerc - textures.ba2
 *  Data_ccbgsfo4117-capmerc.esl
+*  Data_ccbgsfo4118-ws_tunnelsnakes - main.ba2
+*  Data_ccbgsfo4118-ws_tunnelsnakes - textures.ba2
+*  Data_ccbgsfo4118-ws_tunnelsnakes.esl
 *  Data_ccbgsfo4119-cyberdog - main.ba2
 *  Data_ccbgsfo4119-cyberdog - textures.ba2
 *  Data_ccbgsfo4119-cyberdog.esl
@@ -187,6 +427,12 @@
 *  Data_ccbgsfo4123-poweramorskin(inferno) - main.ba2
 *  Data_ccbgsfo4123-poweramorskin(inferno) - textures.ba2
 *  Data_ccbgsfo4123-poweramorskin(inferno).esl
+*  Data_ccbgsfo4124-poweramorskin(tribalhelmets) - main.ba2
+*  Data_ccbgsfo4124-poweramorskin(tribalhelmets) - textures.ba2
+*  Data_ccbgsfo4124-poweramorskin(tribalhelmets).esl
+*  Data_cccrsfo4001-pipcoa - main.ba2
+*  Data_cccrsfo4001-pipcoa - textures.ba2
+*  Data_cccrsfo4001-pipcoa.esl
 *  Data_cceejfo4001-decorationpack - main.ba2
 *  Data_cceejfo4001-decorationpack - textures.ba2
 *  Data_cceejfo4001-decorationpack.esl
@@ -202,21 +448,108 @@
 *  Data_ccfrsfo4003-cr75l - main.ba2
 *  Data_ccfrsfo4003-cr75l - textures.ba2
 *  Data_ccfrsfo4003-cr75l.esl
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
+*  Data_ccfsvfo4001-modularmilitarybackpack.esl
 *  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
 *  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccfsvfo4002-midcenturymodern.esl
 *  Data_ccfsvfo4003-slocum - main.ba2
 *  Data_ccfsvfo4003-slocum - textures.ba2
 *  Data_ccfsvfo4003-slocum.esl
+*  Data_ccfsvfo4004-vrworkshopgnrplaza - main.ba2
+*  Data_ccfsvfo4004-vrworkshopgnrplaza - textures.ba2
+*  Data_ccfsvfo4004-vrworkshopgnrplaza.esl
+*  Data_ccfsvfo4005-vrdesertisland - main.ba2
+*  Data_ccfsvfo4005-vrdesertisland - textures.ba2
+*  Data_ccfsvfo4005-vrdesertisland.esl
+*  Data_ccfsvfo4006-vrwasteland - main.ba2
+*  Data_ccfsvfo4006-vrwasteland - textures.ba2
+*  Data_ccfsvfo4006-vrwasteland.esl
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
 *  Data_ccfsvfo4007-halloween.esl
+*  Data_ccgcafo4001-factionws01army - main.ba2
+*  Data_ccgcafo4001-factionws01army - textures.ba2
+*  Data_ccgcafo4001-factionws01army.esl
+*  Data_ccgcafo4002-factionws02acat - main.ba2
+*  Data_ccgcafo4002-factionws02acat - textures.ba2
+*  Data_ccgcafo4002-factionws02acat.esl
+*  Data_ccgcafo4003-factionws03bos - main.ba2
+*  Data_ccgcafo4003-factionws03bos - textures.ba2
+*  Data_ccgcafo4003-factionws03bos.esl
+*  Data_ccgcafo4004-factionws04gun - main.ba2
+*  Data_ccgcafo4004-factionws04gun - textures.ba2
+*  Data_ccgcafo4004-factionws04gun.esl
+*  Data_ccgcafo4005-factionws05hrpink - main.ba2
+*  Data_ccgcafo4005-factionws05hrpink - textures.ba2
+*  Data_ccgcafo4005-factionws05hrpink.esl
+*  Data_ccgcafo4006-factionws06hrshark - main.ba2
+*  Data_ccgcafo4006-factionws06hrshark - textures.ba2
+*  Data_ccgcafo4006-factionws06hrshark.esl
+*  Data_ccgcafo4007-factionws07hrflames - main.ba2
+*  Data_ccgcafo4007-factionws07hrflames - textures.ba2
+*  Data_ccgcafo4007-factionws07hrflames.esl
+*  Data_ccgcafo4008-factionws08inst - main.ba2
+*  Data_ccgcafo4008-factionws08inst - textures.ba2
+*  Data_ccgcafo4008-factionws08inst.esl
+*  Data_ccgcafo4009-factionws09mm - main.ba2
+*  Data_ccgcafo4009-factionws09mm - textures.ba2
+*  Data_ccgcafo4009-factionws09mm.esl
+*  Data_ccgcafo4010-factionws10rr - main.ba2
+*  Data_ccgcafo4010-factionws10rr - textures.ba2
+*  Data_ccgcafo4010-factionws10rr.esl
+*  Data_ccgcafo4011-factionws11vt - main.ba2
+*  Data_ccgcafo4011-factionws11vt - textures.ba2
+*  Data_ccgcafo4011-factionws11vt.esl
+*  Data_ccgcafo4012-factionas01acat - main.ba2
+*  Data_ccgcafo4012-factionas01acat - textures.ba2
+*  Data_ccgcafo4012-factionas01acat.esl
+*  Data_ccgcafo4013-factionas02bos - main.ba2
+*  Data_ccgcafo4013-factionas02bos - textures.ba2
+*  Data_ccgcafo4013-factionas02bos.esl
+*  Data_ccgcafo4014-factionas03gun - main.ba2
+*  Data_ccgcafo4014-factionas03gun - textures.ba2
+*  Data_ccgcafo4014-factionas03gun.esl
+*  Data_ccgcafo4015-factionas04hrpink - main.ba2
+*  Data_ccgcafo4015-factionas04hrpink - textures.ba2
+*  Data_ccgcafo4015-factionas04hrpink.esl
+*  Data_ccgcafo4016-factionas05hrshark - main.ba2
+*  Data_ccgcafo4016-factionas05hrshark - textures.ba2
+*  Data_ccgcafo4016-factionas05hrshark.esl
+*  Data_ccgcafo4017-factionas06inst - main.ba2
+*  Data_ccgcafo4017-factionas06inst - textures.ba2
+*  Data_ccgcafo4017-factionas06inst.esl
+*  Data_ccgcafo4018-factionas07mm - main.ba2
+*  Data_ccgcafo4018-factionas07mm - textures.ba2
+*  Data_ccgcafo4018-factionas07mm.esl
+*  Data_ccgcafo4019-factionas08nuk - main.ba2
+*  Data_ccgcafo4019-factionas08nuk - textures.ba2
+*  Data_ccgcafo4019-factionas08nuk.esl
+*  Data_ccgcafo4020-factionas09rr - main.ba2
+*  Data_ccgcafo4020-factionas09rr - textures.ba2
+*  Data_ccgcafo4020-factionas09rr.esl
+*  Data_ccgcafo4021-factionas10hrflames - main.ba2
+*  Data_ccgcafo4021-factionas10hrflames - textures.ba2
+*  Data_ccgcafo4021-factionas10hrflames.esl
+*  Data_ccgcafo4022-factionas11vt - main.ba2
+*  Data_ccgcafo4022-factionas11vt - textures.ba2
+*  Data_ccgcafo4022-factionas11vt.esl
+*  Data_ccgcafo4023-factionas12army - main.ba2
+*  Data_ccgcafo4023-factionas12army - textures.ba2
+*  Data_ccgcafo4023-factionas12army.esl
 *  Data_ccgcafo4024-instituteplasmaweapons - main.ba2
 *  Data_ccgcafo4024-instituteplasmaweapons - textures.ba2
 *  Data_ccgcafo4024-instituteplasmaweapons.esl
 *  Data_ccgcafo4025-pagunmm - main.ba2
 *  Data_ccgcafo4025-pagunmm - textures.ba2
 *  Data_ccgcafo4025-pagunmm.esl
+*  Data_ccgrcfo4001-pipgreytort - main.ba2
+*  Data_ccgrcfo4001-pipgreytort - textures.ba2
+*  Data_ccgrcfo4001-pipgreytort.esl
+*  Data_ccgrcfo4002-pipgreenvim - main.ba2
+*  Data_ccgrcfo4002-pipgreenvim - textures.ba2
+*  Data_ccgrcfo4002-pipgreenvim.esl
 *  Data_ccjvdfo4001-holiday - main.ba2
 *  Data_ccjvdfo4001-holiday - textures.ba2
 *  Data_ccjvdfo4001-holiday.esl
@@ -229,9 +562,21 @@
 *  Data_ccqdrfo4001_powerarmorai - main.ba2
 *  Data_ccqdrfo4001_powerarmorai - textures.ba2
 *  Data_ccqdrfo4001_powerarmorai.esl
+*  Data_ccrpsfo4001-scavenger - main.ba2
+*  Data_ccrpsfo4001-scavenger - textures.ba2
+*  Data_ccrpsfo4001-scavenger.esl
+*  Data_ccrzrfo4001-tunnelsnakes - main.ba2
+*  Data_ccrzrfo4001-tunnelsnakes - textures.ba2
+*  Data_ccrzrfo4001-tunnelsnakes.esm
 *  Data_ccrzrfo4002-disintegrate - main.ba2
 *  Data_ccrzrfo4002-disintegrate - textures.ba2
 *  Data_ccrzrfo4002-disintegrate.esl
+*  Data_ccrzrfo4003-pipover - main.ba2
+*  Data_ccrzrfo4003-pipover - textures.ba2
+*  Data_ccrzrfo4003-pipover.esl
+*  Data_ccrzrfo4004-pipinst - main.ba2
+*  Data_ccrzrfo4004-pipinst - textures.ba2
+*  Data_ccrzrfo4004-pipinst.esl
 *  Data_ccsbjfo4001-solarflare - main.ba2
 *  Data_ccsbjfo4001-solarflare - textures.ba2
 *  Data_ccsbjfo4001-solarflare.esl
@@ -247,12 +592,21 @@
 *  Data_ccswkfo4001-astronautpowerarmor - main.ba2
 *  Data_ccswkfo4001-astronautpowerarmor - textures.ba2
 *  Data_ccswkfo4001-astronautpowerarmor.esm
+*  Data_ccswkfo4002-pipnuka - main.ba2
+*  Data_ccswkfo4002-pipnuka - textures.ba2
+*  Data_ccswkfo4002-pipnuka.esl
+*  Data_ccswkfo4003-pipquan - main.ba2
+*  Data_ccswkfo4003-pipquan - textures.ba2
+*  Data_ccswkfo4003-pipquan.esl
 *  Data_cctosfo4001-neosky - main.ba2
 *  Data_cctosfo4001-neosky - textures.ba2
 *  Data_cctosfo4001-neosky.esm
 *  Data_cctosfo4002_neonflats - main.ba2
 *  Data_cctosfo4002_neonflats - textures.ba2
 *  Data_cctosfo4002_neonflats.esm
+*  Data_ccygpfo4001-pipcruiser - main.ba2
+*  Data_ccygpfo4001-pipcruiser - textures.ba2
+*  Data_ccygpfo4001-pipcruiser.esl
 *  Data_cczsef04001-bhouse - main.ba2
 *  Data_cczsef04001-bhouse - textures.ba2
 *  Data_cczsef04001-bhouse.esm
@@ -350,6 +704,7 @@
 *  [Escape Freeze NG - Anniversary Edition-95712-1-2-0-1764125451.zip](https://www.nexusmods.com/fallout4/mods/95712/?tab=files&file_id=375440)
 *  [ESL Version-45072-1-4-1625087397.rar](https://www.nexusmods.com/fallout4/mods/45072/?tab=files&file_id=211542)
 *  [Everyone's Best Friend v3.0.0-13459-3-0-0.rar](https://www.nexusmods.com/fallout4/mods/13459/?tab=files&file_id=88106)
+*  [Exalt Cybernetics-25888-1-1-0-1539588702.zip](https://www.nexusmods.com/fallout4/mods/25888/?tab=files&file_id=143593)
 *  [Extended Dialogue Interface 1.4.3-27216-1-4-3-1765911221.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=377613)
 *  [Eye Liner Masks-4398-0-3.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=31749)
 *  [F4ECC - 1.2-5060-1-2.rar](https://www.nexusmods.com/fallout4/mods/5060/?tab=files&file_id=16830)
