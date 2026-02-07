@@ -1,10 +1,11 @@
 ## Validation Report - Beowulf (Beowulf/beowulf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Birds of Skyrim SSE Edition 2.7.7z](https://www.dropbox.com/s/0zmfolkcxrpv5d0/Birds of Skyrim SSE Edition 2.7.7z?dl=1)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2282)
+### Valid (2281)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [- Skyrim 202X - 4K-68307-10-5-2-1754266903.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652626)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
@@ -180,7 +181,6 @@
 *  [Birds of Prey and Felsaad Terns - My patches SE by Xtudo - USSEP version-90535-1-1683030453.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90535/?tab=files&file_id=384050)
 *  [Birds of Prey and Felsaad Terns (se-ae)-90518-1-1682998831.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90518/?tab=files&file_id=383970)
 *  [Birds of Skyrim SSE - German Translation-80237-2-7-7-1670451858.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80237/?tab=files&file_id=338587)
-*  [Birds of Skyrim SSE Edition 2.7.7z](https://www.dropbox.com/s/0zmfolkcxrpv5d0/Birds of Skyrim SSE Edition 2.7.7z?dl=1)
 *  [BIRDS-123068-v1-02-1727634319.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123068/?tab=files&file_id=547488)
 *  [Blackreach Bush - FOMOD-89057-2-0-1689124453.rar](https://www.nexusmods.com/skyrimspecialedition/mods/89057/?tab=files&file_id=406313)
 *  [Blackreach Crystals 4K-45917-1-0-1613752209.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45917/?tab=files&file_id=186805)
