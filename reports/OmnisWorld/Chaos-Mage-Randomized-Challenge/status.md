@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2904)
+### Valid (2899)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorCamarilla_CBBE.rar](https://www.patreon.com/file?h=144649737&m=572422884)
 *  [_Fuse00_ArmorCamarilla_Vanilla male.rar](https://www.patreon.com/file?h=144649737&m=572422940)
@@ -38,7 +38,6 @@
 *  [1AncientImparisalArmorSE-142655-4-1746702476.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142655/?tab=files&file_id=624910)
 *  [1AtmoranBattleaxeSE-112454-1-1708860261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112454/?tab=files&file_id=474322)
 *  [1DaedricArmorSE-58661-1-1637233753.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58661/?tab=files&file_id=242429)
-*  [1DaedrothsSE-44816-v-1611579198.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44816/?tab=files&file_id=181710)
 *  [1DragonsSE-132218-2-1729843419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132218/?tab=files&file_id=555337)
 *  [1DwemerArmorSE - CBBE 3BA - GDPR-133406-1-0-1749144077.rar](https://www.nexusmods.com/skyrimspecialedition/mods/133406/?tab=files&file_id=634915)
 *  [1DwemerArmorSE - HIMBO Refit-133406-1-0-1749201142.rar](https://www.nexusmods.com/skyrimspecialedition/mods/133406/?tab=files&file_id=635159)
@@ -246,7 +245,7 @@
 *  [Axarien's Inigo Animation Pack (DAR)-70423-1-0-1656449566.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70423/?tab=files&file_id=294807)
 *  [Ayleid Ruins ENB Light-62415-0-2-1648515207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62415/?tab=files&file_id=273389)
 *  [B.O.O.B.I.E.S (Immsersive Icons) 2.1.3-89241-2-1-3-1730442940.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89241/?tab=files&file_id=557732)
-*  [B612 - little asteroid of useful UI components-127701-1-0-20-1757996741.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127701/?tab=files&file_id=666275)
+*  [B612 - little asteroid of useful UI components-127701-1-0-21-1769516948.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127701/?tab=files&file_id=714216)
 *  [BA_BardSongs_FOMOD-47202-1-3-1625966592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47202/?tab=files&file_id=213912)
 *  [Badass Viking Pack-85282-1-2-1676867662.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85282/?tab=files&file_id=361539)
 *  [Bandit Lines Expansion-63733-1-09-1704806726.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=459566)
@@ -355,7 +354,6 @@
 *  [Book Of Shadows - Settings Loader-95206-1-0-0-1688674569.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95206/?tab=files&file_id=404385)
 *  [Book Of Shadows-76086-1-2-0-1664742907.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76086/?tab=files&file_id=321167)
 *  [Bosmer NPCs have antlers - FOMOD Installer-33349-0-7-1660738867.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33349/?tab=files&file_id=308214)
-*  [Boudiana Ravenscorn - CBBE 3BA-149254-1-02-1746963151.rar](https://www.nexusmods.com/skyrimspecialedition/mods/149254/?tab=files&file_id=626003)
 *  [Bound hands - helgen attack animations-89247-1-0-1681617348.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89247/?tab=files&file_id=378712)
 *  [Bounty Preview-33877-2-0-0-1585402339.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33877/?tab=files&file_id=130987)
 *  [Bow of Shadows (CC) - Invisibility Patch-91480-1-11-1724586673.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91480/?tab=files&file_id=535127)
@@ -470,7 +468,6 @@
 *  [Cities of the North - Falkreath Patch-56731-1-3-1681414570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56731/?tab=files&file_id=377972)
 *  [Cities of the North - Morthal-34168-1-2-1700483274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34168/?tab=files&file_id=444269)
 *  [Cities of the North - Winterhold-40088-1-1-1602459318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40088/?tab=files&file_id=165114)
-*  [CK Platform Extended 0.6-b477-71371-0-6-b477-1761108172.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=678997)
 *  [CL's Lord Harkon's Vampire Blade-12749-1-10.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12749/?tab=files&file_id=36515)
 *  [CL'sAmren'sFamilySword-36309-1-1-1590162714.rar](https://www.nexusmods.com/skyrimspecialedition/mods/36309/?tab=files&file_id=141432)
 *  [Classic Paralysis-45931-3-3-1-1665609270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45931/?tab=files&file_id=323577)
@@ -486,7 +483,7 @@
 *  [CMRC-Grass Bound Records.7z](https://authored-files.wabbajack.org/CMRC-Grass Bound Records.7z_34faa824-b6ee-4bf7-b4cf-525860b3a4c5)
 *  [CMRC-Grass Cache.7z](https://authored-files.wabbajack.org/CMRC-Grass Cache.7z_ffde20ec-0ecc-4023-8f53-a4f8a1558f3d)
 *  [CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z](https://authored-files.wabbajack.org/CMRC-GrassControl.ini-42161-1-2-3-1734247048.7z_0780e4cd-a2f9-41ea-a59d-988f514f1c5b)
-*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_88b0aeee-1d8b-4381-a28a-a106757d00f1)
+*  [CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z](https://authored-files.wabbajack.org/CMRC-Mod-List-Patches-Bug-Fixes-and-Overwrites.7z_1492d2d1-e065-49aa-8913-e2ec24aa5895)
 *  [CMRC-SSELODGen_Output.7z](https://authored-files.wabbajack.org/CMRC-SSELODGen_Output.7z_ba9eea24-a894-4a6a-80c5-10d5c9ea47dc)
 *  [CMRC-TexGen_Output.7z](https://authored-files.wabbajack.org/CMRC-TexGen_Output.7z_9dc46193-2602-4b4f-a788-8c1a56d42cfc)
 *  [ColdSun's Frea - A Visions NPC Replacer-134320-1-0-1731966796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/134320/?tab=files&file_id=563746)
@@ -649,7 +646,6 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -966,7 +962,6 @@
 *  [EmperorRobesReplacer_SSE_v1.02-35775-1-02-1589106360.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35775/?tab=files&file_id=139124)
 *  [ENB Anti-Aliasing-130669-1-2-3-1728259215.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=549787)
 *  [ENB Extender and Helper-99406-1-4-2-1758988547.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=669889)
-*  [ENB Frame Generation-144507-1-0-1-1741812287.zip](https://www.nexusmods.com/skyrimspecialedition/mods/144507/?tab=files&file_id=604900)
 *  [ENB Light for Apocrypha-64463-0-1-1646291981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64463/?tab=files&file_id=267781)
 *  [ENB Light-22574-0-94-1552759521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=85143)
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
@@ -2568,6 +2563,7 @@
 *  [The Dragonborn's Bestiary - 4thUnknown Addons-123389-2-5-1770052165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=716553)
 *  [The Dragonborn's Bestiary - CC Pets Addon-123389-1-0-1720317739.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=518400)
 *  [The Dragonborn's Bestiary - Creature Variants-124422-1-0-1721068611.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124422/?tab=files&file_id=521586)
+*  [The Dragonborn's Bestiary - Darkend Addon-123389-1-0-1722127020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=525751)
 *  [The Dragonborn's Bestiary - Extra Addons-123389-1-0-1720317684.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=518398)
 *  [The Dragonborn's Bestiary - MHW UI-124660-1-2-1723269739.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124660/?tab=files&file_id=530098)
 *  [The Dragonborn's Bestiary - Mihail Addons-123389-2-2-1761153285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123389/?tab=files&file_id=679164)
@@ -2780,7 +2776,6 @@
 *  [Vendor Respawn Fix-43532-1-1678779507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368380)
 *  [Vigil's Last Reward - Snazzy patch-146571-1-3-1745074281.rar](https://www.nexusmods.com/skyrimspecialedition/mods/146571/?tab=files&file_id=619035)
 *  [Vigil's Last Reward-146571-1-3-1745074227.rar](https://www.nexusmods.com/skyrimspecialedition/mods/146571/?tab=files&file_id=619033)
-*  [Vigilant - Coldharbor Landscape and Architecture Retexture-81411-1-0-0-1672077722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81411/?tab=files&file_id=343820)
 *  [Vigilante's Padded Armor - Heavy Variant-140139-1-2-1739400338.rar](https://www.nexusmods.com/skyrimspecialedition/mods/140139/?tab=files&file_id=593912)
 *  [Vigilante's Padded Armor - Vanilla HIMBO CBBE --140139-1-3-1740311946.rar](https://www.nexusmods.com/skyrimspecialedition/mods/140139/?tab=files&file_id=598154)
 *  [Vikings Weaponry - Johnskyrim-14409-1-3.rar](https://www.nexusmods.com/skyrimspecialedition/mods/14409/?tab=files&file_id=42845)
