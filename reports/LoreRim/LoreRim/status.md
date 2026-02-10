@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4471)
+### Valid (4475)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -724,6 +724,7 @@
 *  [Companions Dialogue Bundle-93592-1-2-1687156057.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93592/?tab=files&file_id=399136)
 *  [Companions Progression Requirements-78308-1-3-1720881747.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78308/?tab=files&file_id=520741)
 *  [Companions Questline Tweaks - Beta-22300-1-1-1546471344.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22300/?tab=files&file_id=77033)
+*  [Companions Radiant Expansion - Requiem-169920-1-0-1768591501.zip](https://www.nexusmods.com/skyrimspecialedition/mods/169920/?tab=files&file_id=710229)
 *  [Compare Equipment NG-158874-0-3-11-1765947942.zip](https://www.nexusmods.com/skyrimspecialedition/mods/158874/?tab=files&file_id=698822)
 *  [Compass Navigation Overhaul-74484-2-2-0-1710712304.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=481665)
 *  [Compatibility Patch - Fluffworks (Fluffy Animals)-72978-1-2-1-1676688425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72978/?tab=files&file_id=360827)
@@ -1001,6 +1002,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -1474,6 +1476,7 @@
 *  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
 *  [Face Sculptor Expanded-110116-1-02-1726238890.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110116/?tab=files&file_id=541706)
 *  [Faction Ranks-170776-1-0-0-1769378537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/170776/?tab=files&file_id=713665)
+*  [Faction Ranks-170776-1-0-1-1770543070.zip](https://www.nexusmods.com/skyrimspecialedition/mods/170776/?tab=files&file_id=719038)
 *  [Fairies ENB Light - Subtle-68831-1-1-1715103376.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68831/?tab=files&file_id=498831)
 *  [Fairies Lite ESL-67607-1-2-1651896242.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67607/?tab=files&file_id=282018)
 *  [Falchion as Bloodscythe and Soulrender-93646-1-0-1-1686930423.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93646/?tab=files&file_id=398344)
@@ -3899,6 +3902,7 @@
 *  [Steel Light Elven - Reqtificated-123237-1-0-1720029128.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123237/?tab=files&file_id=517365)
 *  [Steel Light Elven Armor - 3BA BodySlide-91244-1-1-1683982037.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91244/?tab=files&file_id=387637)
 *  [Steel Light Elven Armor-58580-1-11-1639787944.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58580/?tab=files&file_id=249954)
+*  [Stendarr Rising - The Cause Tweaks - Patch-146546-1-0-1743533337.rar](https://www.nexusmods.com/skyrimspecialedition/mods/146546/?tab=files&file_id=612758)
 *  [Stendarr Rising-49346-1-6-0-1686889033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49346/?tab=files&file_id=398208)
 *  [Stendarr's Beacon Banners - ESL Flagged-62655-0-2-1643383538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62655/?tab=files&file_id=260135)
 *  [Stonehill Springs-2503-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2503/?tab=files&file_id=3498)
