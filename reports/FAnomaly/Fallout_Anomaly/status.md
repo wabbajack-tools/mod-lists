@@ -1,4 +1,4 @@
-## Validation Report - Fallout Anomaly (FAnomaly/Fallout_Anomaly)
+## Validation Report - Fallout Anomaly - True Survival (FAnomaly/Fallout_Anomaly)
 
 
 ### Invalid (0)

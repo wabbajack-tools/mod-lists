@@ -1,12 +1,10 @@
 ## Validation Report - Wunduniik (Wunduniik/Wunduniik)
 
 
-### Invalid (2)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4694)
+### Valid (4696)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
@@ -3633,6 +3631,8 @@
 *  [SC Horses - Wild Horses CC Patch-68588-2-0-1669451370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334822)
 *  [SC Horses Add-On-123521-1-0-1720369160.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123521/?tab=files&file_id=518649)
 *  [SC Horses Mane Fix-68588-1-0-1-1669451309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334821)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [Scaffolding Over Sovngarde - High Poly-97909-1-2-1691669896.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97909/?tab=files&file_id=415755)
 *  [ScaleformTranslationPP-77359-1-8-1709114434.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=475314)
 *  [scamps  (requires CC Rare Curios)-51383-1-4-1674651449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51383/?tab=files&file_id=352913)
