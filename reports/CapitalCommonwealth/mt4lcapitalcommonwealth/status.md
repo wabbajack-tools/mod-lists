@@ -1,11 +1,10 @@
 ## Validation Report - Capital Commonwealth (CapitalCommonwealth/mt4lcapitalcommonwealth)
 
 
-### Invalid (1)
-*  [xLODGen.130.7z](https://authored-files.wabbajack.org/xLODGen.130.7z_2f012219-8701-4045-a001-d42588bb5fd9)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (547)
+### Valid (548)
 *  [.38 Machine Pistol-80048-1-0-3-1731601680.zip](https://www.nexusmods.com/fallout4/mods/80048/?tab=files&file_id=340123)
 *  [(ASMR) Another Super Mutant Retexture-94181-1-0-1748825598.rar](https://www.nexusmods.com/fallout4/mods/94181/?tab=files&file_id=357875)
 *  [(ASMR) Another Super Mutant Retexture-94181-1-0-1749345409.rar](https://www.nexusmods.com/fallout4/mods/94181/?tab=files&file_id=358336)
@@ -551,5 +550,6 @@
 *  [Workshop Highlight Fix-83706-1-1-0-1723319992.7z](https://www.nexusmods.com/fallout4/mods/83706/?tab=files&file_id=329718)
 *  [X-Cell 2.1-b109-84214-2-1-b109-1747446656.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=356490)
 *  [XDI-AR2 patch-76204-1-0-3-1710813108.7z](https://www.nexusmods.com/fallout4/mods/76204/?tab=files&file_id=307256)
+*  [xLODGen.130.7z](https://authored-files.wabbajack.org/xLODGen.130.7z_2f012219-8701-4045-a001-d42588bb5fd9)
 *  [Yao Guai-76900-1-1703204471.zip](https://www.nexusmods.com/fallout4/mods/76900/?tab=files&file_id=297350)
 *  [You And What Army 2-78925-1-06-1718469624.zip](https://www.nexusmods.com/fallout4/mods/78925/?tab=files&file_id=322904)
