@@ -1,8 +1,8 @@
 {
   "MachineURL": "unPause/Fashionista",
   "Name": "Fashionista",
-  "Version": "2.1.2",
-  "ModListHash": "zi7svB9Notk=",
+  "Version": "2.1.3",
+  "ModListHash": "+fDPYwy2CBg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,13 +21,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3OPn6JnRkIY=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Barabbah Addon - Repack.7z_5b9970da-5ccf-431c-8db2-68df4e9174ee",
-        "Name": "Barabbah Addon - Repack.7z",
-        "Size": 739869842,
+        "Hash": "+yDkDeew4Zk=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff",
+        "Name": "NewPCMod.1.rar",
+        "Size": 8063014,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Barabbah%20Addon%20-%20Repack.7z_5b9970da-5ccf-431c-8db2-68df4e9174ee"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff"
         }
       }
     },
@@ -60,37 +61,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "W2MuzxbIXEA=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=vampire.exe",
-        "Name": "vampire.exe",
-        "Size": 25088,
+        "Hash": "3OPn6JnRkIY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Barabbah Addon - Repack.7z_5b9970da-5ccf-431c-8db2-68df4e9174ee",
+        "Name": "Barabbah Addon - Repack.7z",
+        "Size": 739869842,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "vampire.exe",
-          "GameVersion": "0.0.0.0",
-          "Hash": "W2MuzxbIXEA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NK2zeXPEUEQ=",
-        "Meta": "[General]\ngameName=vampire\nmodID=300\nfileID=985",
-        "Name": "The Hecata Chronicles-300-0-9-1714578986.7z",
-        "Size": 430420775,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wallit",
-          "Description": "It is a story based on the event of Bloodlines from a Giovanni point of view, it will continue then up to the Familly Reunion, including event in between.",
-          "FileID": 985,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/300/300-1714577757-1489029815.jpeg",
-          "IsNSFW": true,
-          "ModID": 300,
-          "Name": "Hecata Chronicles",
-          "Version": "Demo"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Barabbah%20Addon%20-%20Repack.7z_5b9970da-5ccf-431c-8db2-68df4e9174ee"
         }
       }
     },
@@ -156,6 +133,27 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/Clan%20Quest%20Mod%20-%20Repack.7z_84215957-5b0e-4dbd-b8bd-e6ddc2401a74"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2vPmDN2iZa4=",
+        "Meta": "[General]\ngameName=vampire\nmodID=263\nfileID=1430",
+        "Name": "Camarilla Edition Reborn HOTFIX 2-263-2025-I-1766741268.zip",
+        "Size": 55975,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Barabbah91",
+          "Description": "Camarilla Edition is reborn!",
+          "FileID": 1430,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/263/263-1687612973-587182945.jpeg",
+          "IsNSFW": false,
+          "ModID": 263,
+          "Name": "Camarilla Edition reborn",
+          "Version": "2025-E"
         }
       }
     },
@@ -240,6 +238,27 @@
           "ModID": 234,
           "Name": "VTMB HD Overhaul",
           "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NK2zeXPEUEQ=",
+        "Meta": "[General]\ngameName=vampire\nmodID=300\nfileID=985",
+        "Name": "The Hecata Chronicles-300-0-9-1714578986.7z",
+        "Size": 430420775,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wallit",
+          "Description": "It is a story based on the event of Bloodlines from a Giovanni point of view, it will continue then up to the Familly Reunion, including event in between.",
+          "FileID": 985,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/300/300-1714577757-1489029815.jpeg",
+          "IsNSFW": true,
+          "ModID": 300,
+          "Name": "Hecata Chronicles",
+          "Version": "Demo"
         }
       }
     },
@@ -608,20 +627,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5X5iYmfgWfo=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217",
-        "Name": "vampira.zip",
-        "Size": 35121270,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+PgReXafvTY=",
         "Meta": "[General]\ngameName=vampire\nmodID=75\nfileID=411",
         "Name": "Red Dragon art pack add-on-75-1-0-1594483730.zip",
@@ -672,6 +677,27 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/aristocratic-nosferatu-by-marius217",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/aristocratic-nosferatu-by-marius217"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GpEeOSkwBm4=",
+        "Meta": "[General]\ngameName=vampire\nmodID=164\nfileID=1015",
+        "Name": "Character Eyes Improved-164-16-1719680547.rar",
+        "Size": 23528325,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tahril",
+          "Description": "Improves textures for all eyeballs and irises.",
+          "FileID": 1015,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/164/164-1673756444-1742328637.jpeg",
+          "IsNSFW": false,
+          "ModID": 164,
+          "Name": "Character eyes Improved",
+          "Version": "15"
         }
       }
     },
@@ -755,20 +781,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+yDkDeew4Zk=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff",
-        "Name": "NewPCMod.1.rar",
-        "Size": 8063014,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/new-female-pc-by-skeletoff"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "So4juMd/8/Y=",
         "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1313",
         "Name": "Prelude Characters-165-30-1761641912.rar",
@@ -805,27 +817,6 @@
           "ModID": 181,
           "Name": "Brujah Connor Mclaud  The Highlander.",
           "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GpEeOSkwBm4=",
-        "Meta": "[General]\ngameName=vampire\nmodID=164\nfileID=1015",
-        "Name": "Character Eyes Improved-164-16-1719680547.rar",
-        "Size": 23528325,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tahril",
-          "Description": "Improves textures for all eyeballs and irises.",
-          "FileID": 1015,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/164/164-1673756444-1742328637.jpeg",
-          "IsNSFW": false,
-          "ModID": 164,
-          "Name": "Character eyes Improved",
-          "Version": "15"
         }
       }
     },
@@ -958,6 +949,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "O5ag94nTUWo=",
+        "Meta": "[General]\ngameName=vampire\nmodID=108\nfileID=264",
+        "Name": "Boombox reskin - animated clock-108-1-0-1563569052.zip",
+        "Size": 1762511,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vampire Nonsense",
+          "Description": "Reskin of the boombox because jfc did it need one. (See the description for installation instructions if you are using the Unofficial Patch.)",
+          "FileID": 264,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/108/108-1563393617-659446755.png",
+          "IsNSFW": false,
+          "ModID": 108,
+          "Name": "Boombox reskin",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "qXZRLg0pdcU=",
         "Meta": "[General]\ngameName=vampire\nmodID=315\nfileID=1009",
         "Name": "Clan Quest Mod Voices Remastered-315-1-0-1718750259.zip",
@@ -973,27 +985,6 @@
           "ModID": 315,
           "Name": "Clan Quest Mod Voices Remastered",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ghx/lmOlf7w=",
-        "Meta": "[General]\ngameName=vampire\nmodID=29\nfileID=84",
-        "Name": "Damon Salvatore Tremere V.5-29-5.rar",
-        "Size": 3525946,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Felizpe",
-          "Description": "Damon Salvatore Skin from The Vampire Diaries Series for the game VAMPIRE: THE MASQUERADE - BLOODLINES. It replaces Player Clan Tremere",
-          "FileID": 84,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/29/29-1635175583-1428724078.jpeg",
-          "IsNSFW": false,
-          "ModID": 29,
-          "Name": "Damon Salvatore for Tremere",
-          "Version": "5"
         }
       }
     },
@@ -1105,27 +1096,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gveDkCxScdg=",
-        "Meta": "[General]\ngameName=vampire\nmodID=51\nfileID=164",
-        "Name": "Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar",
-        "Size": 9082036,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Felizpe",
-          "Description": "This addon replaces Player Female Clan Ventrue or Player Female Clan Lasombra (Antitribu Mod) for Gerri Dandridge (The Blood Countess) from Fright Night 2: New Blood (2013) Movie (This version has Short Hair Version)",
-          "FileID": 164,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/51/51-1638399790-610762149.jpeg",
-          "IsNSFW": false,
-          "ModID": 51,
-          "Name": "The Blood Countess (Ventrue and Lasombra) V.3",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "aH1UPr7ukF8=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/the-golden-rose-v14\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/the-golden-rose-v14",
         "Name": "Golden_Rose.7z",
@@ -1140,41 +1110,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oR102r2fI/U=",
-        "Meta": "[General]\ngameName=vampire\nmodID=149\nfileID=419",
-        "Name": "New hands texture-149-1-0-1596153267.zip",
-        "Size": 1917100,
+        "Hash": "Bs+fllOX70Y=",
+        "Meta": "[General]\ngameName=vampire\nmodID=381\nfileID=1372",
+        "Name": "Malkavian Replacer - Mads-381-1-0-1763149109.zip",
+        "Size": 1908788,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jenya66",
-          "Description": "Female toreador pc overhaul.",
-          "FileID": 419,
+          "Author": "TialRunTiefling",
+          "Description": "Replace all four female Malkavian player models with designs based on an original character. Does not fit lore or art style, just for fun.",
+          "FileID": 1372,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/149/149-1594830014-2013863879.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/381/381-1763148938-1500588540.jpg",
           "IsNSFW": false,
-          "ModID": 149,
-          "Name": "Jenya\u0027s female toreador pc overhaul",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UV+EUukfHUY=",
-        "Meta": "[General]\ngameName=vampire\nmodID=269\nfileID=839",
-        "Name": "Malk_Noir_HUD-269-1-0-1690294667.zip",
-        "Size": 1216037,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fliplock and IlexManor",
-          "Description": "An inventory icon for the Malkavian Noir reskin by fliplock.",
-          "FileID": 839,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/269/269-1690294228-371393689.png",
-          "IsNSFW": false,
-          "ModID": 269,
-          "Name": "Inventory icon for Malkavian Noir",
+          "ModID": 381,
+          "Name": "Malkavian Replacement - Mads (OC)",
           "Version": "1.0"
         }
       }
@@ -1196,14 +1145,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yxH7boPVDPc=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu",
-        "Name": "Nosferatu.5.rar",
-        "Size": 2966047,
+        "Hash": "P/XgT8fUmmA=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu",
+        "Name": "materials.1.rar",
+        "Size": 1122083,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu"
         }
       }
     },
@@ -1218,20 +1167,6 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-nosferatu-by-marius217",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-nosferatu-by-marius217"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BpQJz0RvCYw=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10",
-        "Name": "Nosferatu_Female.3.rar",
-        "Size": 2819320,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10"
         }
       }
     },
@@ -1280,15 +1215,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fQK0qQbEKhs=",
-        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1311",
-        "Name": "Hollywood-165-30-1761637433.rar",
-        "Size": 322670111,
+        "Hash": "unQ0x84prTU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1295",
+        "Name": "Downtown-165-30-1760940144.rar",
+        "Size": 559347479,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tahril",
           "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
-          "FileID": 1311,
+          "FileID": 1295,
           "GameName": "VtMB",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
           "IsNSFW": false,
@@ -1316,6 +1251,27 @@
           "ModID": 165,
           "Name": "NPCs Improved",
           "Version": "29.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I7srqV4wpeM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=33\nfileID=64",
+        "Name": "Underworld Selene for Brujah-33-1.rar",
+        "Size": 4333228,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Felizpe",
+          "Description": "This addon replaces the Female Player Clan Brujah for Selene from the movie Underworld! \n\nGame: VAMPIRE: THE MASQUERADE - BLOODLINES\n\nFelizpe from Brazil Bloodlines! Enjoy!",
+          "FileID": 64,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/33-0-1459668588.jpg",
+          "IsNSFW": false,
+          "ModID": 33,
+          "Name": "Selene from Underworld for Brujah",
+          "Version": "1"
         }
       }
     },
@@ -1385,69 +1341,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3/+L06dfQi8=",
-        "Meta": "[General]\ngameName=vampire\nmodID=160\nfileID=458",
-        "Name": "toreador Louis by Marius217-160-1-1602040681.rar",
-        "Size": 46852708,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marius217",
-          "Description": "Greetings to all. I\u0027ve designed a toreador model based ones on my favorites Anne Rice\u0027s vampires, Louis point dulac. , just choose the vampire file and download it in the main directory. I hope you like it. Take care, a hug community.",
-          "FileID": 458,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/160/160-1602040420-119433775.jpeg",
-          "IsNSFW": false,
-          "ModID": 160,
-          "Name": "Toreador Louis By Marius217",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sRbImqAcLIo=",
-        "Meta": "[General]\ngameName=vampire\nmodID=184\nfileID=542",
-        "Name": "toreador by Marius217-184-1-1627849110.rar",
-        "Size": 90511759,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marius217",
-          "Description": "Hello Just Donwload it into Vampire Files. Enjoy It.",
-          "FileID": 542,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/184/184-1627848855-1053205126.png",
-          "IsNSFW": false,
-          "ModID": 184,
-          "Name": "Toreador Male By Marius217",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RYd8rZyd0Cc=",
-        "Meta": "[General]\ngameName=vampire\nmodID=374\nfileID=1375",
-        "Name": "Tremere Replacer - Sunshine 1.1-374-1-1-1763155150.zip",
-        "Size": 2831384,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TrialRunTiefling",
-          "Description": "Replace all four female Tremere player models with designs based on an original character. Does not fit lore or art style, just for fun.",
-          "FileID": 1375,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/374/374-1763319270-1331460841.jpg",
-          "IsNSFW": false,
-          "ModID": 374,
-          "Name": "Tremere Replacement - Sunshine (OC)",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oMfCXcb9Vog=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack1\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack1",
         "Name": "TremereMTexturePack.zip",
@@ -1462,28 +1355,49 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+m9CYaAtGo4=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack",
-        "Name": "Tremere_Pack.zip",
-        "Size": 1744944,
+        "Hash": "5X5iYmfgWfo=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217",
+        "Name": "vampira.zip",
+        "Size": 35121270,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uvndwUpPbdI=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin",
-        "Name": "Ventrue_Male_TrenchCoat_by_Shikamaru.rar",
-        "Size": 380389,
+        "Hash": "WBuUjFy0Bbw=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female",
+        "Name": "vampire_ventrue_female.rar",
+        "Size": 89440814,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bdYi+8fvVBo=",
+        "Meta": "[General]\ngameName=vampire\nmodID=187\nfileID=547",
+        "Name": "Ventrue  by Marius217-187-1-1630179822.rar",
+        "Size": 90221228,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marius217",
+          "Description": "Greetings , Just download it to the vampire directory. Note: in some animations the model can be seen somewhat distorted, but it is temporary. I hope you like it.",
+          "FileID": 547,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/187/187-1630179624-1070728635.jpeg",
+          "IsNSFW": false,
+          "ModID": 187,
+          "Name": "Ventrue By Marius217",
+          "Version": "1"
         }
       }
     },
@@ -1686,6 +1600,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "fQK0qQbEKhs=",
+        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1311",
+        "Name": "Hollywood-165-30-1761637433.rar",
+        "Size": 322670111,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tahril",
+          "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
+          "FileID": 1311,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
+          "IsNSFW": false,
+          "ModID": 165,
+          "Name": "NPCs Improved",
+          "Version": "29.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "t6+gw7RJ+Cs=",
         "Meta": "[General]\ngameName=vampire\nmodID=96\nfileID=798",
         "Name": "Lovely Degenerate - Director\u0027s Cut-96-2-0-1684714169.zip",
@@ -1722,27 +1657,6 @@
           "ModID": 44,
           "Name": "Malkavian Fem Joker Skin",
           "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Bs+fllOX70Y=",
-        "Meta": "[General]\ngameName=vampire\nmodID=381\nfileID=1372",
-        "Name": "Malkavian Replacer - Mads-381-1-0-1763149109.zip",
-        "Size": 1908788,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TialRunTiefling",
-          "Description": "Replace all four female Malkavian player models with designs based on an original character. Does not fit lore or art style, just for fun.",
-          "FileID": 1372,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/381/381-1763148938-1500588540.jpg",
-          "IsNSFW": false,
-          "ModID": 381,
-          "Name": "Malkavian Replacement - Mads (OC)",
-          "Version": "1.0"
         }
       }
     },
@@ -1931,27 +1845,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "unQ0x84prTU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1295",
-        "Name": "Downtown-165-30-1760940144.rar",
-        "Size": 559347479,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tahril",
-          "Description": "Improves face and body textures for most of the NPCs. \n\nAlso added a bunch of models various characters",
-          "FileID": 1295,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/165/165-1745820020-632148927.png",
-          "IsNSFW": false,
-          "ModID": 165,
-          "Name": "NPCs Improved",
-          "Version": "29.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Wlg5vGsrV+8=",
         "Meta": "[General]\ngameName=vampire\nmodID=165\nfileID=1104",
         "Name": "The Final Nights Characters-165-25-1730823364.rar",
@@ -2015,27 +1908,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I7srqV4wpeM=",
-        "Meta": "[General]\ngameName=vampire\nmodID=33\nfileID=64",
-        "Name": "Underworld Selene for Brujah-33-1.rar",
-        "Size": 4333228,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Felizpe",
-          "Description": "This addon replaces the Female Player Clan Brujah for Selene from the movie Underworld! \n\nGame: VAMPIRE: THE MASQUERADE - BLOODLINES\n\nFelizpe from Brazil Bloodlines! Enjoy!",
-          "FileID": 64,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/33-0-1459668588.jpg",
-          "IsNSFW": false,
-          "ModID": 33,
-          "Name": "Selene from Underworld for Brujah",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "YFezA67fiDI=",
         "Meta": "[General]\ngameName=vampire\nmodID=273\nfileID=1072",
         "Name": "Slick Ventrue-273-3-1726721829.rar",
@@ -2051,6 +1923,27 @@
           "ModID": 273,
           "Name": "Slick Ventrue",
           "Version": "3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gveDkCxScdg=",
+        "Meta": "[General]\ngameName=vampire\nmodID=51\nfileID=164",
+        "Name": "Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar",
+        "Size": 9082036,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Felizpe",
+          "Description": "This addon replaces Player Female Clan Ventrue or Player Female Clan Lasombra (Antitribu Mod) for Gerri Dandridge (The Blood Countess) from Fright Night 2: New Blood (2013) Movie (This version has Short Hair Version)",
+          "FileID": 164,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/51/51-1638399790-610762149.jpeg",
+          "IsNSFW": false,
+          "ModID": 51,
+          "Name": "The Blood Countess (Ventrue and Lasombra) V.3",
+          "Version": "3.0"
         }
       }
     },
@@ -2100,6 +1993,48 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/beautiful-monster-redux1",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/beautiful-monster-redux1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3/+L06dfQi8=",
+        "Meta": "[General]\ngameName=vampire\nmodID=160\nfileID=458",
+        "Name": "toreador Louis by Marius217-160-1-1602040681.rar",
+        "Size": 46852708,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marius217",
+          "Description": "Greetings to all. I\u0027ve designed a toreador model based ones on my favorites Anne Rice\u0027s vampires, Louis point dulac. , just choose the vampire file and download it in the main directory. I hope you like it. Take care, a hug community.",
+          "FileID": 458,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/160/160-1602040420-119433775.jpeg",
+          "IsNSFW": false,
+          "ModID": 160,
+          "Name": "Toreador Louis By Marius217",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sRbImqAcLIo=",
+        "Meta": "[General]\ngameName=vampire\nmodID=184\nfileID=542",
+        "Name": "toreador by Marius217-184-1-1627849110.rar",
+        "Size": 90511759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marius217",
+          "Description": "Hello Just Donwload it into Vampire Files. Enjoy It.",
+          "FileID": 542,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/184/184-1627848855-1053205126.png",
+          "IsNSFW": false,
+          "ModID": 184,
+          "Name": "Toreador Male By Marius217",
+          "Version": "1"
         }
       }
     },
@@ -2156,6 +2091,27 @@
           "ModID": 113,
           "Name": "Tremere Jerry Dandridge\u0027s skin Pc",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RYd8rZyd0Cc=",
+        "Meta": "[General]\ngameName=vampire\nmodID=374\nfileID=1375",
+        "Name": "Tremere Replacer - Sunshine 1.1-374-1-1-1763155150.zip",
+        "Size": 2831384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TrialRunTiefling",
+          "Description": "Replace all four female Tremere player models with designs based on an original character. Does not fit lore or art style, just for fun.",
+          "FileID": 1375,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/374/374-1763319270-1331460841.jpg",
+          "IsNSFW": false,
+          "ModID": 374,
+          "Name": "Tremere Replacement - Sunshine (OC)",
+          "Version": "1.1"
         }
       }
     },
@@ -2274,20 +2230,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WBuUjFy0Bbw=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female",
-        "Name": "vampire_ventrue_female.rar",
-        "Size": 89440814,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-ventrue-female"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "sCpe5Wamz7A=",
         "Meta": "[General]\ngameName=vampire\nmodID=394\nfileID=1481",
         "Name": "Female Gangrel Reskin-394-19-01-2026-1768784023.zip",
@@ -2379,20 +2321,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6B/VVjFn+6s=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl",
-        "Name": "1dark_malk_girl.zip",
-        "Size": 623777,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "M5qjAFZ+AFA=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/black-haired-toreador-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/black-haired-toreador-skin",
         "Name": "Black-haired_Toreador_reskin.zip",
@@ -2407,14 +2335,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "o3eOHI0DQYA=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin",
-        "Name": "Blonde_Malkavian.zip",
-        "Size": 713108,
+        "Hash": "6B/VVjFn+6s=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl",
+        "Name": "1dark_malk_girl.zip",
+        "Size": 623777,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl"
         }
       }
     },
@@ -2498,6 +2426,55 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "IGcXRQvH/gQ=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin",
+        "Name": "Malkavian_-_Goth_Re-skin.rar",
+        "Size": 3376543,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ghx/lmOlf7w=",
+        "Meta": "[General]\ngameName=vampire\nmodID=29\nfileID=84",
+        "Name": "Damon Salvatore Tremere V.5-29-5.rar",
+        "Size": 3525946,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Felizpe",
+          "Description": "Damon Salvatore Skin from The Vampire Diaries Series for the game VAMPIRE: THE MASQUERADE - BLOODLINES. It replaces Player Clan Tremere",
+          "FileID": 84,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/29/29-1635175583-1428724078.jpeg",
+          "IsNSFW": false,
+          "ModID": 29,
+          "Name": "Damon Salvatore for Tremere",
+          "Version": "5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G8Nfo1K50QE=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere",
+        "Name": "demonastery_female_t.zip",
+        "Size": 876399,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Wi357fFEMIQ=",
         "Meta": "[General]\ngameName=vampire\nmodID=46\nfileID=114",
         "Name": "male_malk-46-1-2.zip",
@@ -2513,6 +2490,20 @@
           "ModID": 46,
           "Name": "Eccentric Malkavian Male",
           "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kYM/uirNr3s=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack",
+        "Name": "Mad_Malk_V1.rar",
+        "Size": 2926353,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack"
         }
       }
     },
@@ -2540,6 +2531,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JKvPwwWnSPw=",
+        "Meta": "[General]\ngameName=vampire\nmodID=219\nfileID=622",
+        "Name": "Toreadorable-219-3-0-1654876629.rar",
+        "Size": 3344922,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ansticia",
+          "Description": "Replacer for female Toreador protagonist. Including armor0, armor1, armor2, armor3, hands.",
+          "FileID": 622,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/219/219-1654876497-1591814479.jpeg",
+          "IsNSFW": false,
+          "ModID": 219,
+          "Name": "TOREADORABLE",
+          "Version": "3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ZvFTpB9HHAQ=",
         "Meta": "[General]\ngameName=vampire\nmodID=218\nfileID=621",
         "Name": "Toretexture-218-1-0-1654876275.rar",
@@ -2561,20 +2573,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rt4MxxqD9uk=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/addons/female-malkavian-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/addons/female-malkavian-reskin",
-        "Name": "Female_Malkavian_Armor_0_Reskin.zip",
-        "Size": 221462,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/addons/female-malkavian-reskin",
-          "Url": "https://www.moddb.com/addons/female-malkavian-reskin"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "IBjYXp/ytik=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-female-reskinned\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-female-reskinned",
         "Name": "Gangrel_fem.rar",
@@ -2583,20 +2581,6 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-female-reskinned",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-female-reskinned"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1XS+fF4TTIc=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin",
-        "Name": "Gangrel_Male_Reskin.zip",
-        "Size": 1476002,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin"
         }
       }
     },
@@ -2645,6 +2629,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "o3eOHI0DQYA=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin",
+        "Name": "Blonde_Malkavian.zip",
+        "Size": 713108,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/fem-malkavian-skin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Qh9f6SfGwuU=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-replacement\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-replacement",
         "Name": "latex_toreador_v1.rar",
@@ -2659,14 +2657,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kYM/uirNr3s=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack",
-        "Name": "Mad_Malk_V1.rar",
-        "Size": 2926353,
+        "Hash": "TxW58W3amNM=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin",
+        "Name": "malemalk0.zip",
+        "Size": 974021,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-malk-pack"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin"
         }
       }
     },
@@ -2694,20 +2692,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IGcXRQvH/gQ=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin",
-        "Name": "Malkavian_-_Goth_Re-skin.rar",
-        "Size": 3376543,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/world-of-goth-malkavian-re-skin"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "X87esUIi2rA=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-by-kenny-willian\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-by-kenny-willian",
         "Name": "Malkavian_Male_by_Kenny_Willian.zip",
@@ -2716,20 +2700,6 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-by-kenny-willian",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-by-kenny-willian"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Tww6/TcaHgU=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress",
-        "Name": "malkfemarmor0.zip",
-        "Size": 1549995,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress"
         }
       }
     },
@@ -2751,6 +2721,27 @@
           "ModID": 379,
           "Name": "Marius217 Toreador for MavenCousland",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mM0mimEUKW0=",
+        "Meta": "[General]\ngameName=vampire\nmodID=243\nfileID=696",
+        "Name": "terrible nosferatu-243-1-0-1673418331.7z",
+        "Size": 6105206,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ziza95",
+          "Description": "a backup for the terrible nosferatu mod",
+          "FileID": 696,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/243/243-1673418117-840136965.jpeg",
+          "IsNSFW": true,
+          "ModID": 243,
+          "Name": "Normal looking clothes for nosferatu",
+          "Version": "1.0"
         }
       }
     },
@@ -2862,41 +2853,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P/XgT8fUmmA=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu",
-        "Name": "materials.1.rar",
-        "Size": 1122083,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tattooed-female-nosferatu"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jfDT7MdoOUg=",
-        "Meta": "[General]\ngameName=vampire\nmodID=331\nfileID=1129",
-        "Name": "The Crow Malkavian 1.1-331-1-1-1733951998.zip",
-        "Size": 2821310,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dracul841",
-          "Description": "Mod replaces armor0 and armor3 for Male Malkavian",
-          "FileID": 1129,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/331/331-1730553203-1422829945.png",
-          "IsNSFW": false,
-          "ModID": 331,
-          "Name": "The Crow Malkavian",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "GgICFbz7bT0=",
         "Meta": "[General]\ngameName=vampire\nmodID=81\nfileID=183",
         "Name": "Those Goth Kids - Dancers Pack-81-2-1553964747.zip",
@@ -2918,41 +2874,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JKvPwwWnSPw=",
-        "Meta": "[General]\ngameName=vampire\nmodID=219\nfileID=622",
-        "Name": "Toreadorable-219-3-0-1654876629.rar",
-        "Size": 3344922,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ansticia",
-          "Description": "Replacer for female Toreador protagonist. Including armor0, armor1, armor2, armor3, hands.",
-          "FileID": 622,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/219/219-1654876497-1591814479.jpeg",
-          "IsNSFW": false,
-          "ModID": 219,
-          "Name": "TOREADORABLE",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OIOouZKVV6o=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin",
-        "Name": "trem.rar",
-        "Size": 821311,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Q3M/o79Ldl0=",
         "Meta": "[General]\ngameName=vampire\nmodID=306\nfileID=1030",
         "Name": "Tremere Antitribu reskin-306-1-5-1720681869.rar",
@@ -2968,6 +2889,27 @@
           "ModID": 306,
           "Name": "Tremere Antitribu reskin",
           "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QlorxU+LOYo=",
+        "Meta": "[General]\ngameName=vampire\nmodID=279\nfileID=893",
+        "Name": "Tremere With a Beard-279-1-0-1697766152.7z",
+        "Size": 3248014,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "YIY11",
+          "Description": "A model replacer for the male Tremere Skin.\n\nTremere now with beard.",
+          "FileID": 893,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/279/279-1697765705-787512134.jpeg",
+          "IsNSFW": false,
+          "ModID": 279,
+          "Name": "Tremere with a Beard",
+          "Version": "1.0"
         }
       }
     },
@@ -3016,27 +2958,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QlorxU+LOYo=",
-        "Meta": "[General]\ngameName=vampire\nmodID=279\nfileID=893",
-        "Name": "Tremere With a Beard-279-1-0-1697766152.7z",
-        "Size": 3248014,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "YIY11",
-          "Description": "A model replacer for the male Tremere Skin.\n\nTremere now with beard.",
-          "FileID": 893,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/279/279-1697765705-787512134.jpeg",
-          "IsNSFW": false,
-          "ModID": 279,
-          "Name": "Tremere with a Beard",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "I1MzVf3uKYA=",
         "Meta": "[General]\ngameName=vampire\nmodID=288\nfileID=917",
         "Name": "Vagabond Ventrue-288-1-0-1702943880.rar",
@@ -3066,6 +2987,27 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-malkavian-fight-club-by-marius217",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vampire-malkavian-fight-club-by-marius217"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jfDT7MdoOUg=",
+        "Meta": "[General]\ngameName=vampire\nmodID=331\nfileID=1129",
+        "Name": "The Crow Malkavian 1.1-331-1-1-1733951998.zip",
+        "Size": 2821310,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dracul841",
+          "Description": "Mod replaces armor0 and armor3 for Male Malkavian",
+          "FileID": 1129,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/331/331-1730553203-1422829945.png",
+          "IsNSFW": false,
+          "ModID": 331,
+          "Name": "The Crow Malkavian",
+          "Version": "1.0"
         }
       }
     },
@@ -3142,6 +3084,41 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SAgK0IbC5BU=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217",
+        "Name": "Warrior_Wolf_Gangrel.rar",
+        "Size": 9061309,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XPs4rkM4MRM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=250\nfileID=750",
+        "Name": "Working J Idaho Lasombra skin with some of Marius127 and Vampire nonsense outfits-250-1-0-1678664073.rar",
+        "Size": 4027104,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "J Idaho",
+          "Description": "Thanks to J.Idaho and Marius 217 and also Vampire Nonsense as  this is a mix of armors and a finally working but versatile Lasombra skin mod. (Includes gothic ventrue leather jacket, Marius ventrue coat, and the two classic outfits from J.Idaho.\n\n\n\nThis is meant to replace the Ventrue skin. \n\n\n\nCopy and paste the folders in your Vam",
+          "FileID": 750,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/250/250-1678665474-1496683199.png",
+          "IsNSFW": false,
+          "ModID": 250,
+          "Name": "Working Lasombra skin for Ventrue.",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Rd+nBkXLq84=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/yamr-yet-another-malk-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/yamr-yet-another-malk-reskin",
         "Name": "YAMR.7z",
@@ -3177,72 +3154,46 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PThNCQhBirE=",
-        "Meta": "[General]\ngameName=vampire\nmodID=365\nfileID=1400",
-        "Name": "Computer Greeting-365-1-0-1764834066.7z",
-        "Size": 12787,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iunPause",
-          "Description": "A streamlined, all-in-one Wabbajack modlist that modernizes Vampire: The Masquerade \u2013 Bloodlines with fixes, overhauls, and enhancements for an easy replay.",
-          "FileID": 1400,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/365/365-1760639026-710345370.jpg",
-          "IsNSFW": true,
-          "ModID": 365,
-          "Name": "Fashionista",
-          "Version": "1.0.10"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ug8D+KXxiSw=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line381_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line381_col_e.mp3",
-        "Size": 57992,
+        "Hash": "W2MuzxbIXEA=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=vampire.exe",
+        "Name": "vampire.exe",
+        "Size": 25088,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line381_col_e.mp3",
+          "GameFile": "vampire.exe",
           "GameVersion": "0.0.0.0",
-          "Hash": "Ug8D+KXxiSw="
+          "Hash": "W2MuzxbIXEA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mM0mimEUKW0=",
-        "Meta": "[General]\ngameName=vampire\nmodID=243\nfileID=696",
-        "Name": "terrible nosferatu-243-1-0-1673418331.7z",
-        "Size": 6105206,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ziza95",
-          "Description": "a backup for the terrible nosferatu mod",
-          "FileID": 696,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/243/243-1673418117-840136965.jpeg",
-          "IsNSFW": true,
-          "ModID": 243,
-          "Name": "Normal looking clothes for nosferatu",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JgJKW2H0nkc=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman",
-        "Name": "r.rar",
-        "Size": 319449,
+        "Hash": "+m9CYaAtGo4=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack",
+        "Name": "Tremere_Pack.zip",
+        "Size": 1744944,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yEfgGI1sOIM=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line361_col_e.mp3",
+        "Name": "Vampire_sound_character_dlg_downtown la_venus_line361_col_e.mp3",
+        "Size": 30092,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "VtMB",
+          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line361_col_e.mp3",
+          "GameVersion": "0.0.0.0",
+          "Hash": "yEfgGI1sOIM="
         }
       }
     },
@@ -3270,28 +3221,35 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G8Nfo1K50QE=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere",
-        "Name": "demonastery_female_t.zip",
-        "Size": 876399,
+        "Hash": "1XS+fF4TTIc=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin",
+        "Name": "Gangrel_Male_Reskin.zip",
+        "Size": 1476002,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/gangrel-male-reskin"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TxW58W3amNM=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin",
-        "Name": "malemalk0.zip",
-        "Size": 974021,
+        "Hash": "svVZci03M90=",
+        "Meta": "[General]\ngameName=vampire\nmodID=317\nfileID=1013",
+        "Name": "Libertarian Ventrue-317-1-0-1719329227.zip",
+        "Size": 876042,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-male-skin"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "USBurning",
+          "Description": "A variation of the Ventrue starter armor. Character is wearing blue jeans, with a yellow Gadsden shirt. Neck and sleeve tattoos. 5 O\u0027clock shadow with a mustache.",
+          "FileID": 1013,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/317/317-1719328794-1808625083.png",
+          "IsNSFW": false,
+          "ModID": 317,
+          "Name": "Libertarian Ventrue",
+          "Version": "1.0"
         }
       }
     },
@@ -3312,14 +3270,112 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "E563d+/wNJU=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya",
-        "Name": "Ventrue_Female_Skin_by_Soya.zip",
-        "Size": 655643,
+        "Hash": "uvndwUpPbdI=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin",
+        "Name": "Ventrue_Male_TrenchCoat_by_Shikamaru.rar",
+        "Size": 380389,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/male-ventrue-coat-skin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PThNCQhBirE=",
+        "Meta": "[General]\ngameName=vampire\nmodID=365\nfileID=1400",
+        "Name": "Computer Greeting-365-1-0-1764834066.7z",
+        "Size": 12787,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iunPause",
+          "Description": "A streamlined, all-in-one Wabbajack modlist that modernizes Vampire: The Masquerade \u2013 Bloodlines with fixes, overhauls, and enhancements for an easy replay.",
+          "FileID": 1400,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/365/365-1760639026-710345370.jpg",
+          "IsNSFW": true,
+          "ModID": 365,
+          "Name": "Fashionista",
+          "Version": "1.0.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HHVVvAeHcEk=",
+        "Meta": "[General]\ngameName=vampire\nmodID=272\nfileID=843",
+        "Name": "Rats replacement-272-0-1-1690798473.zip",
+        "Size": 174325,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "paper_boat",
+          "Description": "New rat model",
+          "FileID": 843,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/272/272-1690799615-308877214.png",
+          "IsNSFW": false,
+          "ModID": 272,
+          "Name": "Rats replacement (useless but cute)",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "avfFaVfywEk=",
+        "Meta": "[General]\ngameName=vampire\nmodID=292\nfileID=943",
+        "Name": "Gangmember Dark Retex Main File-292-1-0-1708542537.zip",
+        "Size": 159327,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sora",
+          "Description": "simple retex",
+          "FileID": 943,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/292/292-1708542466-569222346.jpeg",
+          "IsNSFW": false,
+          "ModID": 292,
+          "Name": "Hooded gangmember black gray retexture",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BpQJz0RvCYw=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10",
+        "Name": "Nosferatu_Female.3.rar",
+        "Size": 2819320,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu-female-v10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rVVbvRHEPwU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=90\nfileID=210",
+        "Name": "Throwing a bone for the canines-90-1-0-1555174903.rar",
+        "Size": 1040686,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kirotut",
+          "Description": "Slightly enhanced Pitbull \u0026amp; Rottweiler textures.",
+          "FileID": 210,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/90/90-1555174369-392518255.jpeg",
+          "IsNSFW": false,
+          "ModID": 90,
+          "Name": "Throwing a bone for the Canines",
+          "Version": "1.0"
         }
       }
     },
@@ -3426,104 +3482,34 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HHVVvAeHcEk=",
-        "Meta": "[General]\ngameName=vampire\nmodID=272\nfileID=843",
-        "Name": "Rats replacement-272-0-1-1690798473.zip",
-        "Size": 174325,
+        "Hash": "yxH7boPVDPc=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu",
+        "Name": "Nosferatu.5.rar",
+        "Size": 2966047,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "paper_boat",
-          "Description": "New rat model",
-          "FileID": 843,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/272/272-1690799615-308877214.png",
-          "IsNSFW": false,
-          "ModID": 272,
-          "Name": "Rats replacement (useless but cute)",
-          "Version": "0.1"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/less-hideous-nosferatu"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bdYi+8fvVBo=",
-        "Meta": "[General]\ngameName=vampire\nmodID=187\nfileID=547",
-        "Name": "Ventrue  by Marius217-187-1-1630179822.rar",
-        "Size": 90221228,
+        "Hash": "uG6tOdgrdhU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=285\nfileID=910",
+        "Name": "Latex Dictator Malkavian-285-1-0-1701728128.zip",
+        "Size": 3589997,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marius217",
-          "Description": "Greetings , Just download it to the vampire directory. Note: in some animations the model can be seen somewhat distorted, but it is temporary. I hope you like it.",
-          "FileID": 547,
+          "Author": "dracul841",
+          "Description": "Simple skin replacing armor02 for female Malkavian.",
+          "FileID": 910,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/187/187-1630179624-1070728635.jpeg",
-          "IsNSFW": false,
-          "ModID": 187,
-          "Name": "Ventrue By Marius217",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "avfFaVfywEk=",
-        "Meta": "[General]\ngameName=vampire\nmodID=292\nfileID=943",
-        "Name": "Gangmember Dark Retex Main File-292-1-0-1708542537.zip",
-        "Size": 159327,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sora",
-          "Description": "simple retex",
-          "FileID": 943,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/292/292-1708542466-569222346.jpeg",
-          "IsNSFW": false,
-          "ModID": 292,
-          "Name": "Hooded gangmember black gray retexture",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rVVbvRHEPwU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=90\nfileID=210",
-        "Name": "Throwing a bone for the canines-90-1-0-1555174903.rar",
-        "Size": 1040686,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kirotut",
-          "Description": "Slightly enhanced Pitbull \u0026amp; Rottweiler textures.",
-          "FileID": 210,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/90/90-1555174369-392518255.jpeg",
-          "IsNSFW": false,
-          "ModID": 90,
-          "Name": "Throwing a bone for the Canines",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XPs4rkM4MRM=",
-        "Meta": "[General]\ngameName=vampire\nmodID=250\nfileID=750",
-        "Name": "Working J Idaho Lasombra skin with some of Marius127 and Vampire nonsense outfits-250-1-0-1678664073.rar",
-        "Size": 4027104,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "J Idaho",
-          "Description": "Thanks to J.Idaho and Marius 217 and also Vampire Nonsense as  this is a mix of armors and a finally working but versatile Lasombra skin mod. (Includes gothic ventrue leather jacket, Marius ventrue coat, and the two classic outfits from J.Idaho.\n\n\n\nThis is meant to replace the Ventrue skin. \n\n\n\nCopy and paste the folders in your Vam",
-          "FileID": 750,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/250/250-1678665474-1496683199.png",
-          "IsNSFW": false,
-          "ModID": 250,
-          "Name": "Working Lasombra skin for Ventrue.",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/285/285-1701728001-1883484640.jpeg",
+          "IsNSFW": true,
+          "ModID": 285,
+          "Name": "Latex Dictator Malkavian",
           "Version": "1.0"
         }
       }
@@ -3568,64 +3554,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O5ag94nTUWo=",
-        "Meta": "[General]\ngameName=vampire\nmodID=108\nfileID=264",
-        "Name": "Boombox reskin - animated clock-108-1-0-1563569052.zip",
-        "Size": 1762511,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vampire Nonsense",
-          "Description": "Reskin of the boombox because jfc did it need one. (See the description for installation instructions if you are using the Unofficial Patch.)",
-          "FileID": 264,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/108/108-1563393617-659446755.png",
-          "IsNSFW": false,
-          "ModID": 108,
-          "Name": "Boombox reskin",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tjQ5MfWfm1U=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line351_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line351_col_e.mp3",
-        "Size": 39914,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line351_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "tjQ5MfWfm1U="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2vPmDN2iZa4=",
-        "Meta": "[General]\ngameName=vampire\nmodID=263\nfileID=1430",
-        "Name": "Camarilla Edition Reborn HOTFIX 2-263-2025-I-1766741268.zip",
-        "Size": 55975,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Barabbah91",
-          "Description": "Camarilla Edition is reborn!",
-          "FileID": 1430,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/263/263-1687612973-587182945.jpeg",
-          "IsNSFW": false,
-          "ModID": 263,
-          "Name": "Camarilla Edition reborn",
-          "Version": "2025-E"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "UQETjQdhFnA=",
         "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosf-female-transform-skin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosf-female-transform-skin",
         "Name": "nosferatu_female.zip",
@@ -3634,6 +3562,36 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosf-female-transform-skin",
           "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/nosf-female-transform-skin"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JgJKW2H0nkc=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman",
+        "Name": "r.rar",
+        "Size": 319449,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oxg7w+vPDsk=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line371_col_e.mp3",
+        "Name": "Vampire_sound_character_dlg_downtown la_venus_line371_col_e.mp3",
+        "Size": 44356,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "VtMB",
+          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line371_col_e.mp3",
+          "GameVersion": "0.0.0.0",
+          "Hash": "oxg7w+vPDsk="
         }
       }
     },
@@ -3654,51 +3612,98 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SAgK0IbC5BU=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217",
-        "Name": "Warrior_Wolf_Gangrel.rar",
-        "Size": 9061309,
+        "Hash": "rt4MxxqD9uk=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/addons/female-malkavian-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/addons/female-malkavian-reskin",
+        "Name": "Female_Malkavian_Armor_0_Reskin.zip",
+        "Size": 221462,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217",
-          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/warrior-wolf-gangrel-by-marius217"
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/addons/female-malkavian-reskin",
+          "Url": "https://www.moddb.com/addons/female-malkavian-reskin"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kW6EzSKlSes=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\ash\\line610_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_hollywood_ash_line610_col_e.mp3",
-        "Size": 4232,
+        "Hash": "Tww6/TcaHgU=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress",
+        "Name": "malkfemarmor0.zip",
+        "Size": 1549995,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\ash\\line610_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "kW6EzSKlSes="
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malk-female-funny-dress"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "svVZci03M90=",
-        "Meta": "[General]\ngameName=vampire\nmodID=317\nfileID=1013",
-        "Name": "Libertarian Ventrue-317-1-0-1719329227.zip",
-        "Size": 876042,
+        "Hash": "E563d+/wNJU=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya",
+        "Name": "Ventrue_Female_Skin_by_Soya.zip",
+        "Size": 655643,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-female-skin-by-soya"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xlEhUcdrxcU=",
+        "Meta": "[General]\ngameName=vampire\nmodID=315\nfileID=1199",
+        "Name": "Hotfix 1-315-1-1-1742896738.zip",
+        "Size": 22766,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "USBurning",
-          "Description": "A variation of the Ventrue starter armor. Character is wearing blue jeans, with a yellow Gadsden shirt. Neck and sleeve tattoos. 5 O\u0027clock shadow with a mustache.",
-          "FileID": 1013,
+          "Author": "TheAudioService",
+          "Description": "I\u0027ve remastered about 2800 voice files of Vampire: The Masquerade Bloodlines.",
+          "FileID": 1199,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/317/317-1719328794-1808625083.png",
-          "IsNSFW": false,
-          "ModID": 317,
-          "Name": "Libertarian Ventrue",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/315/315-1718748881-1001859275.jpeg",
+          "IsNSFW": true,
+          "ModID": 315,
+          "Name": "Clan Quest Mod Voices Remastered",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6GObRUXayOA=",
+        "Meta": "[General]\ngameName=vampire\nmodID=237\nfileID=688",
+        "Name": "Lily UV map fix-237-1-1671754711.7z",
+        "Size": 232980,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lala125",
+          "Description": "fixes the UV map of Lily\u0027s mesh",
+          "FileID": 688,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/237/237-1671754658-330397973.jpeg",
+          "IsNSFW": false,
+          "ModID": 237,
+          "Name": "Lily UV map fix",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OIOouZKVV6o=",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin\nprompt=ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin",
+        "Name": "trem.rar",
+        "Size": 821311,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "ModDB is broken and you need to manually download the file here - https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin",
+          "Url": "https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-reskin"
         }
       }
     },
@@ -3763,42 +3768,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xlEhUcdrxcU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=315\nfileID=1199",
-        "Name": "Hotfix 1-315-1-1-1742896738.zip",
-        "Size": 22766,
+        "Hash": "JVi3BAbPHd0=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line341_col_e.mp3",
+        "Name": "Vampire_sound_character_dlg_downtown la_venus_line341_col_e.mp3",
+        "Size": 18495,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheAudioService",
-          "Description": "I\u0027ve remastered about 2800 voice files of Vampire: The Masquerade Bloodlines.",
-          "FileID": 1199,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/315/315-1718748881-1001859275.jpeg",
-          "IsNSFW": true,
-          "ModID": 315,
-          "Name": "Clan Quest Mod Voices Remastered",
-          "Version": "1.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "VtMB",
+          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line341_col_e.mp3",
+          "GameVersion": "0.0.0.0",
+          "Hash": "JVi3BAbPHd0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6GObRUXayOA=",
-        "Meta": "[General]\ngameName=vampire\nmodID=237\nfileID=688",
-        "Name": "Lily UV map fix-237-1-1671754711.7z",
-        "Size": 232980,
+        "Hash": "oR102r2fI/U=",
+        "Meta": "[General]\ngameName=vampire\nmodID=149\nfileID=419",
+        "Name": "New hands texture-149-1-0-1596153267.zip",
+        "Size": 1917100,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lala125",
-          "Description": "fixes the UV map of Lily\u0027s mesh",
-          "FileID": 688,
+          "Author": "Jenya66",
+          "Description": "Female toreador pc overhaul.",
+          "FileID": 419,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/237/237-1671754658-330397973.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/149/149-1594830014-2013863879.jpeg",
           "IsNSFW": false,
-          "ModID": 237,
-          "Name": "Lily UV map fix",
-          "Version": "1"
+          "ModID": 149,
+          "Name": "Jenya\u0027s female toreador pc overhaul",
+          "Version": "1.0"
         }
       }
     },
@@ -3826,36 +3826,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yEfgGI1sOIM=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line361_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line361_col_e.mp3",
-        "Size": 30092,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line361_col_e.mp3",
-          "GameVersion": "0.0.0.0",
-          "Hash": "yEfgGI1sOIM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uG6tOdgrdhU=",
-        "Meta": "[General]\ngameName=vampire\nmodID=285\nfileID=910",
-        "Name": "Latex Dictator Malkavian-285-1-0-1701728128.zip",
-        "Size": 3589997,
+        "Hash": "UV+EUukfHUY=",
+        "Meta": "[General]\ngameName=vampire\nmodID=269\nfileID=839",
+        "Name": "Malk_Noir_HUD-269-1-0-1690294667.zip",
+        "Size": 1216037,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dracul841",
-          "Description": "Simple skin replacing armor02 for female Malkavian.",
-          "FileID": 910,
+          "Author": "Fliplock and IlexManor",
+          "Description": "An inventory icon for the Malkavian Noir reskin by fliplock.",
+          "FileID": 839,
           "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/285/285-1701728001-1883484640.jpeg",
-          "IsNSFW": true,
-          "ModID": 285,
-          "Name": "Latex Dictator Malkavian",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/269/269-1690294228-371393689.png",
+          "IsNSFW": false,
+          "ModID": 269,
+          "Name": "Inventory icon for Malkavian Noir",
           "Version": "1.0"
         }
       }
@@ -3873,6 +3857,43 @@
           "GameFile": "Vampire\\media\\activision.bik",
           "GameVersion": "0.0.0.0",
           "Hash": "u1LR2MT4AE8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ug8D+KXxiSw=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line381_col_e.mp3",
+        "Name": "Vampire_sound_character_dlg_downtown la_venus_line381_col_e.mp3",
+        "Size": 57992,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "VtMB",
+          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line381_col_e.mp3",
+          "GameVersion": "0.0.0.0",
+          "Hash": "Ug8D+KXxiSw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c2KG8kO2EYM=",
+        "Meta": "[General]\ngameName=vampire\nmodID=45\nfileID=115",
+        "Name": "malk_noir-45-2-0.zip",
+        "Size": 2112663,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fliplock",
+          "Description": "Noir style reskin of a the Malkavian female\u0027s second armor set for Vampire the Masquerade: Bloodlines.",
+          "FileID": 115,
+          "GameName": "VtMB",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/45-2-1512974862.jpg",
+          "IsNSFW": false,
+          "ModID": 45,
+          "Name": "Malkavian Noir",
+          "Version": "2.0"
         }
       }
     },
@@ -3921,16 +3942,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oxg7w+vPDsk=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line371_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line371_col_e.mp3",
-        "Size": 44356,
+        "Hash": "tjQ5MfWfm1U=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line351_col_e.mp3",
+        "Name": "Vampire_sound_character_dlg_downtown la_venus_line351_col_e.mp3",
+        "Size": 39914,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line371_col_e.mp3",
+          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line351_col_e.mp3",
           "GameVersion": "0.0.0.0",
-          "Hash": "oxg7w+vPDsk="
+          "Hash": "tjQ5MfWfm1U="
         }
       }
     },
@@ -4000,37 +4021,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JVi3BAbPHd0=",
-        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\downtown la\\venus\\line341_col_e.mp3",
-        "Name": "Vampire_sound_character_dlg_downtown la_venus_line341_col_e.mp3",
-        "Size": 18495,
+        "Hash": "kW6EzSKlSes=",
+        "Meta": "[General]\ngameName=VtMB\ngameFile=Vampire\\sound\\character\\dlg\\hollywood\\ash\\line610_col_e.mp3",
+        "Name": "Vampire_sound_character_dlg_hollywood_ash_line610_col_e.mp3",
+        "Size": 4232,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "VtMB",
-          "GameFile": "Vampire\\sound\\character\\dlg\\downtown la\\venus\\line341_col_e.mp3",
+          "GameFile": "Vampire\\sound\\character\\dlg\\hollywood\\ash\\line610_col_e.mp3",
           "GameVersion": "0.0.0.0",
-          "Hash": "JVi3BAbPHd0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "c2KG8kO2EYM=",
-        "Meta": "[General]\ngameName=vampire\nmodID=45\nfileID=115",
-        "Name": "malk_noir-45-2-0.zip",
-        "Size": 2112663,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fliplock",
-          "Description": "Noir style reskin of a the Malkavian female\u0027s second armor set for Vampire the Masquerade: Bloodlines.",
-          "FileID": 115,
-          "GameName": "VtMB",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/437/images/45-2-1512974862.jpg",
-          "IsNSFW": false,
-          "ModID": 45,
-          "Name": "Malkavian Noir",
-          "Version": "2.0"
+          "Hash": "kW6EzSKlSes="
         }
       }
     }
