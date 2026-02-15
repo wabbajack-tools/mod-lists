@@ -896,7 +896,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "G3/FYalwNsg=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/overwrite Output.7z_ec50ead0-c98e-46e8-93f1-3bb0313bd941",
@@ -3277,7 +3277,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "BkGZDE9Mn2I=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Bodyslide Output.7z_64f6c67b-0f4d-4587-b65e-9afa433fa154",
@@ -30206,8 +30206,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 2,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/lukxsofficial/lukxsofficiallists_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/lukxsofficial/lukxsofficiallists_large.webp"
 }
