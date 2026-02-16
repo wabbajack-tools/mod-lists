@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (909)
+### Valid (913)
 *  [1_Better Locational Damage-3815-7-7-0-1761246668.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=371069)
 *  [1_SS2 - Nobody's Leaders 2-57783-2-0-3-1668572856.zip](https://www.nexusmods.com/fallout4/mods/57783/?tab=files&file_id=257103)
 *  [2K The Patch-3747-4-2-1-1723817680.7z](https://www.nexusmods.com/fallout4/mods/3747/?tab=files&file_id=330367)
@@ -24,10 +24,10 @@
 *  [Buffout 4 - Anniversary Edition-99911-1-7-1-1770487667.zip](https://www.nexusmods.com/fallout4/mods/99911/?tab=files&file_id=384700)
 *  [Caliente's Beautiful Bodies Enhancer - v2.7.2-15-2-7-2-1766404952.7z](https://www.nexusmods.com/fallout4/mods/15/?tab=files&file_id=378308)
 *  [CHALLENGES-76347-3-0-6-1752815968.7z](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=361651)
+*  [CleanMySettlement Auto Clean Edition V1.1-56937-1-1-1652797563.zip](https://www.nexusmods.com/fallout4/mods/56937/?tab=files&file_id=237926)
 *  CreationKit.exe
 *  CreationKit.ini
 *  cudart64_75.dll
-*  Data_Sound_Voice_Processing_FonixData.cdf
 *  [Disk Cache Enabler-74841-1-0-1695168773.zip](https://www.nexusmods.com/fallout4/mods/74841/?tab=files&file_id=290028)
 *  [DLCCoast - Textures-52423-1-3-1666153289.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=253852)
 *  [DLCNukaWorld - Textures-52423-1-2-1659121824.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=244970)
@@ -84,6 +84,8 @@
 *  [Immersive Settlers-23391-1-3.zip](https://www.nexusmods.com/fallout4/mods/23391/?tab=files&file_id=96945)
 *  installscript.vdf
 *  [Interior NavCut Fix-72904-1-0-3-1689890239.zip](https://www.nexusmods.com/fallout4/mods/72904/?tab=files&file_id=283994)
+*  [Jampads 2 - a Sim Settlements 2 Add On-48618-3-5-0-1765509841.zip](https://www.nexusmods.com/fallout4/mods/48618/?tab=files&file_id=377129)
+*  [Jampads 2 - Unique NPCs - Creatures and Monsters of the Commonwealth Patch-48618-1-6-0-1634681622.rar](https://www.nexusmods.com/fallout4/mods/48618/?tab=files&file_id=219552)
 *  [Junk Town 2-48271-2-2-1614731829.rar](https://www.nexusmods.com/fallout4/mods/48271/?tab=files&file_id=202715)
 *  [Leaders and Legends of the New Commonwealth-48726-2-0-1607334430.zip](https://www.nexusmods.com/fallout4/mods/48726/?tab=files&file_id=196523)
 *  lex_accent.tlx
@@ -132,6 +134,7 @@
 *  [Rise of the Commonwealth for SS2-50684-3-5-1-1765525676.zip](https://www.nexusmods.com/fallout4/mods/50684/?tab=files&file_id=377144)
 *  [RobCo Patcher - AE - ALPHA-69798-4-3-5-1769701923.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=383400)
 *  [rootbuilder.4.5.2.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.4.5.2.zip)
+*  [SettlementMenuManagerMainFile-24204-0-1-7-1593282850.7z](https://www.nexusmods.com/fallout4/mods/24204/?tab=files&file_id=185417)
 *  [Settler Sanbox Overhaul 4.0 ESL Version-20442-4-0.7z](https://www.nexusmods.com/fallout4/mods/20442/?tab=files&file_id=135465)
 *  [sim settelements 2 scrapper-48846-5-106-1769199414.7z](https://www.nexusmods.com/fallout4/mods/48846/?tab=files&file_id=382575)
 *  [Sim Settlements 2 - All Chapters Pack-73394-3-5-2-1769743693.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=383445)
@@ -901,6 +904,7 @@
 *  [UFO4P Creations Bundle Patches-4598-1-0-1764266307.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=375614)
 *  [Ultra Interior Lighting-22101-2-3-1566718572.rar](https://www.nexusmods.com/fallout4/mods/22101/?tab=files&file_id=165082)
 *  Ultra.ini
+*  [UniqueNPCs-CreatureMonsters_2_0_Hybrid-24357-2-0.7z](https://www.nexusmods.com/fallout4/mods/24357/?tab=files&file_id=143072)
 *  [Unofficial Fallout 4 Patch-4598-2-2-0a-1764564421.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=376040)
 *  [Valkyr Body Texture-3841-1-1.rar](https://www.nexusmods.com/fallout4/mods/3841/?tab=files&file_id=16155)
 *  [Vault-Tec Tools-48700-3-0-1-1771033677.zip](https://www.nexusmods.com/fallout4/mods/48700/?tab=files&file_id=385597)
