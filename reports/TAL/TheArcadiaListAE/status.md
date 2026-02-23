@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (953)
+### Valid (957)
 *  [1_Better Locational Damage-3815-7-7-0-1761246668.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=371069)
 *  [1_SS2 - Nobody's Leaders 2-57783-2-0-3-1668572856.zip](https://www.nexusmods.com/fallout4/mods/57783/?tab=files&file_id=257103)
 *  [2.1.0 CBBE BODY AND BODYSLIDES-22431-2-1-0-1709115070.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=305057)
@@ -19,7 +19,6 @@
 *  [Arbitration - FOMod Installer-2037-0-4-3.7z](https://www.nexusmods.com/fallout4/mods/2037/?tab=files&file_id=49781)
 *  [Armor and Weapon Keywords Community Resource v9.1.-6091-v9-1-0-1770083648.rar](https://www.nexusmods.com/fallout4/mods/6091/?tab=files&file_id=384063)
 *  [Armor-Upgrade Overhaul-3815-1-1-1610287127.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=198729)
-*  [ArmorKeywords - Next Gen CC Bundle patch v9.0.0-6091-v9-0-0-1767762165.rar](https://www.nexusmods.com/fallout4/mods/6091/?tab=files&file_id=380191)
 *  [Bad Neighbors - Sim Settlements 2 Addon Pack-79710-1-0-1-1711297946.zip](https://www.nexusmods.com/fallout4/mods/79710/?tab=files&file_id=307840)
 *  [BakaFramework-43627-4-1-0-1767434541.7z](https://www.nexusmods.com/fallout4/mods/43627/?tab=files&file_id=379649)
 *  [Better Console-26582-v1-6-2-1763084820.zip](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=373597)
@@ -30,6 +29,7 @@
 *  [Bullet Counted Reload - v.2.03-41178-2-03-1766847561.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=378810)
 *  [Caliente's Beautiful Bodies Enhancer - v2.7.2-15-2-7-2-1766404952.7z](https://www.nexusmods.com/fallout4/mods/15/?tab=files&file_id=378308)
 *  [Canary v 1.0.0-44949-1-0-0-1588955837.7z](https://www.nexusmods.com/fallout4/mods/44949/?tab=files&file_id=181383)
+*  [CC's Improved Hair Colors - 3.1-18287-3-1-1736718746.7z](https://www.nexusmods.com/fallout4/mods/18287/?tab=files&file_id=345051)
 *  [CHALLENGES-76347-3-0-6-1752815968.7z](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=361651)
 *  [CK Platform Extended 0.6-b573-51165-0-6-b573-1763792784.zip](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=374915)
 *  [CleanMySettlement Auto Clean Edition V1.1-56937-1-1-1652797563.zip](https://www.nexusmods.com/fallout4/mods/56937/?tab=files&file_id=237926)
@@ -45,6 +45,9 @@
 *  [CW Varmint Rifle Vanilla Version-92764-1-0-7-1745898125.zip](https://www.nexusmods.com/fallout4/mods/92764/?tab=files&file_id=354971)
 *  [CWMerchants-91989-1-0-8-1742237653.zip](https://www.nexusmods.com/fallout4/mods/91989/?tab=files&file_id=351107)
 *  [Dak's Throwables-92935-1-0-3-1753466747.zip](https://www.nexusmods.com/fallout4/mods/92935/?tab=files&file_id=362298)
+*  Data_Fallout4 - Textures2.ba2
+*  Data_Fallout4 - Textures9.ba2
+*  [Daytripper4-91141-1-4-8-1771555884.7z](https://www.nexusmods.com/fallout4/mods/91141/?tab=files&file_id=386525)
 *  [Deeper Thoughts with Affinity-Sorted Dialogue - Expressive Curie-25050-1-1b.zip](https://www.nexusmods.com/fallout4/mods/25050/?tab=files&file_id=110824)
 *  [Disk Cache Enabler-74841-1-0-1695168773.zip](https://www.nexusmods.com/fallout4/mods/74841/?tab=files&file_id=290028)
 *  [DLCCoast - Textures-52423-1-3-1666153289.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=253852)
@@ -945,6 +948,7 @@
 *  [UFO4P Creations Bundle Patches-4598-1-0-1764266307.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=375614)
 *  [Ultra Interior Lighting-22101-2-3-1566718572.rar](https://www.nexusmods.com/fallout4/mods/22101/?tab=files&file_id=165082)
 *  Ultra.ini
+*  [Unique Creatures - Standalone-48637-3-3-1725343978.7z](https://www.nexusmods.com/fallout4/mods/48637/?tab=files&file_id=332666)
 *  [UniqueNPCs-CreatureMonsters_2_0_Hybrid-24357-2-0.7z](https://www.nexusmods.com/fallout4/mods/24357/?tab=files&file_id=143072)
 *  [Unofficial Fallout 4 Patch-4598-2-2-0a-1764564421.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=376040)
 *  [Vault-Tec Tools-48700-3-0-1-1771033677.zip](https://www.nexusmods.com/fallout4/mods/48700/?tab=files&file_id=385597)
