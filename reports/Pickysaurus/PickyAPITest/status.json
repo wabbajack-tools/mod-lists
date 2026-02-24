@@ -3,9 +3,73 @@
   "Name": "Picky\u0027s API test",
   "Version": "1.0.0",
   "ModListHash": "7nmp+00g7u4=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ES8+UokB+sI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=41595\nfileID=154691",
+        "Name": "Em\u0027s Hedgehogs-41595-1-0-1769248130.zip",
+        "Size": 4577,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RivalRabbit",
+          "Description": "Add hedgehogs to the coop to gather fruit during off seasons.",
+          "FileID": 154691,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/41595/41595-1769247295-1476702770.png",
+          "IsNSFW": false,
+          "ModID": 41595,
+          "Name": "Em\u0027s Hedgehogs",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nZG8aMWNRt4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=41600\nfileID=154717",
+        "Name": "Monster Fish-41600-1-0-1769271492.zip",
+        "Size": 47954,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RouxlzCat",
+          "Description": "Monster Fish adds 10 new fish with a monstrous and rare aesthetic, some inspired by other games, along with 10 exclusive items for fish ponds.",
+          "FileID": 154717,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/41600/41600-1769544638-479344049.png",
+          "IsNSFW": false,
+          "ModID": 41600,
+          "Name": "Monster Fish",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7qesRYWCnEc=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1915\nfileID=153187",
+        "Name": "Content Patcher 2.9.0-1915-2-9-0-1768170898.zip",
+        "Size": 343207,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pathoschild",
+          "Description": "Loads content packs that change the game\u0027s data, images, and maps without replacing XNB files.",
+          "FileID": 153187,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1915/1915-1519967846-411398257.png",
+          "IsNSFW": false,
+          "ModID": 1915,
+          "Name": "Content Patcher",
+          "Version": "1.30.2"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Pickysaurus/PickyAPITest_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Pickysaurus/PickyAPITest_large.webp"
 }
