@@ -1,10 +1,12 @@
 ## Validation Report - Do Not Go Gentle (NGVO/DNGG)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [High_Poly_Head_v1.4_(SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+*  [Wash That Blood Off 2.7z](https://build.wabbajack.org/authored_files/direct_link/Wash That Blood Off 2.7z_319c3707-07f8-48cc-bd21-bef34fae45f8)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2007)
+### Valid (2005)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
@@ -907,7 +909,6 @@
 *  [High Poly Heads for AE AIO-72555-1-1-1659996869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72555/?tab=files&file_id=305825)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
-*  [High_Poly_Head_v1.4_(SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Quality Face Tints by thescarecrow86-42340-1-2-5-1614011117.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42340/?tab=files&file_id=187418)
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
@@ -1945,7 +1946,6 @@
 *  [Wait Carriage in Inns-83044-1-2-1674565767.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83044/?tab=files&file_id=352551)
 *  [Wait Carriage in Towns - ESPFE VERSION-35418-1-1-1588800867.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35418/?tab=files&file_id=138483)
 *  [WalkFixRedux-1.6.640-72892-0-0-1-1669712207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/72892/?tab=files&file_id=335823)
-*  [Wash That Blood Off 2.7z](https://build.wabbajack.org/authored_files/direct_link/Wash That Blood Off 2.7z_319c3707-07f8-48cc-bd21-bef34fae45f8)
 *  [Water Effects-112762-1-0-0-1733538121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112762/?tab=files&file_id=569739)
 *  [Water for ENB Particle Patch-37956-3-3-2-1625200899.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37956/?tab=files&file_id=212209)
 *  [Water for ENB-37061-1-84-1698426103.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=437495)

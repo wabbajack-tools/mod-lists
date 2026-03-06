@@ -1,10 +1,11 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (wj-featured/sss)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1623)
+### Valid (1622)
 *  [(1) Alchemy Station Variants - Continuous Swap-92768-1-4-1-1705038318.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460508)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -1276,7 +1277,6 @@
 *  [skeletons don't breathe SSE loose files version-18542-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18542/?tab=files&file_id=60692)
 *  [Skill of Sneaking-94727-1-1-2-1720302233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94727/?tab=files&file_id=518330)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 *  [Sky Reflection Fix-110604-1-0-1-1706805413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110604/?tab=files&file_id=466782)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyking Signs - Books of Skyrim-112902-1-0-1711311894.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112902/?tab=files&file_id=483835)
