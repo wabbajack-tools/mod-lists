@@ -1,10 +1,11 @@
 ## Validation Report - Listonomicon (Listonomicon/Listonomicon)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [reallyshadowheartextension_a7e-56qm.zip](https://g-6715.modapi.io/v1/games/6715/mods/5247111/files/6787299/download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (862)
+### Valid (861)
 *  [- Standalone Bundle  - Dragonbreath Unleashed-556-11-0-P7-1725651719.zip](https://www.nexusmods.com/baldursgate3/mods/556/?tab=files&file_id=69200)
 *  [01 - MANTIS' ARCANE INSPIRED COLLECTION-14698-1-2-0-0-1744829478.zip](https://www.nexusmods.com/baldursgate3/mods/14698/?tab=files&file_id=89249)
 *  [10 Half-Orc Heads-11045-1-1-1751594422.zip](https://www.nexusmods.com/baldursgate3/mods/11045/?tab=files&file_id=97303)
@@ -659,7 +660,6 @@
 *  [RAW Level Progression-3939-1-0-1-1699465105.zip](https://www.nexusmods.com/baldursgate3/mods/3939/?tab=files&file_id=27420)
 *  [Reaction Points on Hotbar-13455-1-0-0-2-1768227693.zip](https://www.nexusmods.com/baldursgate3/mods/13455/?tab=files&file_id=112019)
 *  [reallyshadowheart_e49a2415-9dd-5l6d.zip](https://g-6715.modapi.io/v1/games/6715/mods/4979078/files/7125382/download)
-*  [reallyshadowheartextension_a7e-56qm.zip](https://g-6715.modapi.io/v1/games/6715/mods/5247111/files/6787299/download)
 *  [Rebalance - Class Spells-5846-1-0-7-1744563833.zip](https://www.nexusmods.com/baldursgate3/mods/5846/?tab=files&file_id=88767)
 *  [Rebalance - Gear-16874-1-0-15-10-1765372391.7z](https://www.nexusmods.com/baldursgate3/mods/16874/?tab=files&file_id=109341)
 *  [Rebalance - Level 6 Spells-5518-1-0-8-1749579177.zip](https://www.nexusmods.com/baldursgate3/mods/5518/?tab=files&file_id=95540)
