@@ -1,11 +1,12 @@
 ## Validation Report - Capital Commonwealth (CapitalCommonwealth/mt4lcapitalcommonwealth)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [enbseries_fallout4_v0501.zip](https://build.wabbajack.org/authored_files/direct_link/enbseries_fallout4_v0501.zip_ddb9a97e-45ba-4c80-824c-1fb4ed4a8dda)
 *  [xLODGen.130.7z](https://authored-files.wabbajack.org/xLODGen.130.7z_2f012219-8701-4045-a001-d42588bb5fd9)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (547)
+### Valid (546)
 *  [.38 Machine Pistol-80048-1-0-3-1731601680.zip](https://www.nexusmods.com/fallout4/mods/80048/?tab=files&file_id=340123)
 *  [(ASMR) Another Super Mutant Retexture-94181-1-0-1748825598.rar](https://www.nexusmods.com/fallout4/mods/94181/?tab=files&file_id=357875)
 *  [(ASMR) Another Super Mutant Retexture-94181-1-0-1749345409.rar](https://www.nexusmods.com/fallout4/mods/94181/?tab=files&file_id=358336)
@@ -244,7 +245,6 @@
 *  [Dynamic Helmet-46960-1-2-1-1662361653.zip](https://www.nexusmods.com/fallout4/mods/46960/?tab=files&file_id=249578)
 *  [E3PC - v1.2-37984-1-2-1552753822.zip](https://www.nexusmods.com/fallout4/mods/37984/?tab=files&file_id=154340)
 *  [EBT_Basic v101-212-1-01.7z](https://www.nexusmods.com/fallout4/mods/212/?tab=files&file_id=54175)
-*  [enbseries_fallout4_v0501.zip](https://build.wabbajack.org/authored_files/direct_link/enbseries_fallout4_v0501.zip_ddb9a97e-45ba-4c80-824c-1fb4ed4a8dda)
 *  [Enclave Remnants-89149-1-0-1-1738575581.7z](https://www.nexusmods.com/fallout4/mods/89149/?tab=files&file_id=347061)
 *  [Enclave Settlement Kit-36228-1-0-1543881534.7z](https://www.nexusmods.com/fallout4/mods/36228/?tab=files&file_id=147215)
 *  [Enemies Fear Power Armor-79662-3-0-0-1724907357.zip](https://www.nexusmods.com/fallout4/mods/79662/?tab=files&file_id=332048)
