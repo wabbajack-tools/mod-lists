@@ -699,7 +699,7 @@
 *  [Creation Club - Survival Shrines - No Costs-74367-1-0-1661890266.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74367/?tab=files&file_id=311829)
 *  CreationKit.exe
 *  CreationKit.ini
-*  [CreatureFrameworkV3-1.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=1720964&confirm=1&t=1&csrfKey=67f751ab760c6ca76f674309b514fdc5)
+*  [CreatureFrameworkV3-2A.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2140033&confirm=1&t=1&csrfKey=350ecccebdfac4831d7579439f5e3c1f)
 *  [Crimson Blood Armor-29451-1-0-1570426302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29451/?tab=files&file_id=109516)
 *  [Crimson Corner - Solitude Bordello - Lux Patch-107636-1-0-0-1703363853.rar](https://www.nexusmods.com/skyrimspecialedition/mods/107636/?tab=files&file_id=454548)
 *  [Crimson Corner - Solitude Bordello-107636-1-2-2-1705855820.rar](https://www.nexusmods.com/skyrimspecialedition/mods/107636/?tab=files&file_id=463547)
@@ -2287,7 +2287,7 @@
 *  [moreHUD Inventory Edition - AE-18619-2-1-3-0-1709428444.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=476424)
 *  [moreHUD SE - Legacy Settings Loader-55503-2-2-0-1707420202.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55503/?tab=files&file_id=469016)
 *  [moreHUD SE Light Master - AE-12688-5-2-2-0-1669904929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=336379)
-*  [MoreNastyCrittersSE_v15_5.7z](https://authored-files.wabbajack.org/MoreNastyCrittersSE_v15_5.7z_47bf5435-40f2-43d2-8545-4391ea4c1c6b)
+*  [MoreNastyCrittersSE&AE_v16_1.7z](https://authored-files.wabbajack.org/MoreNastyCrittersSE&AE_v16_1.7z_48df26cc-a277-4378-bccf-dd7de606ea5e)
 *  [Morenn Outfit-41655-1-0-1603707647.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41655/?tab=files&file_id=167137)
 *  [morrowind creatures  (requires CC Rare Curios)-51383-1-4-1674651407.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51383/?tab=files&file_id=352912)
 *  [MossyStonewall 2k-102046-1-0-1698586960.rar](https://www.nexusmods.com/skyrimspecialedition/mods/102046/?tab=files&file_id=438048)
@@ -3822,7 +3822,7 @@
 *  [YASTM (FOMOD)-56144-3-0-0-1678503366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=367328)
 *  [YesImSure-24898-1-7-0-1666563689.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=326183)
 *  [Yet Another Lydia Dialogue Expansion-161240-1-0-1762835706.zip](https://www.nexusmods.com/skyrimspecialedition/mods/161240/?tab=files&file_id=686331)
-*  [Yoana the Wanderer-164506-1-8-1769385354.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164506/?tab=files&file_id=713698)
+*  [Yoana The Wanderer-164506-1-9-1772953499.zip](https://www.nexusmods.com/skyrimspecialedition/mods/164506/?tab=files&file_id=729154)
 *  [Yoga Clothes-122169-1-1718726570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122169/?tab=files&file_id=512874)
 *  [Yol'Kreh -  The Infernal Scythes-59970-V1-2-1639332577.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59970/?tab=files&file_id=248578)
 *  [Yoliya AIO (ENG)-144473-1-2-1741880727.rar](https://www.nexusmods.com/skyrimspecialedition/mods/144473/?tab=files&file_id=605153)
