@@ -1973,7 +1973,7 @@
 *  [SLHH Expansion 3.85 Hotfix.7z](https://www.loverslab.com/files/file/6217-sexlab-horrible-harassment-expansion-lese/)
 *  [SLNights-2.7.0.zip](https://www.loverslab.com/files/file/25414-sexlab-nightlife/)
 *  [SLO Aroused NG-151502-3-1-5-1754227575.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151502/?tab=files&file_id=652413)
-*  [SLSFFameComments v3.65 SE.7z](https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/)
+*  [SLSFFameComments v3.72 SE.7z](https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/)
 *  [SLWidgets-164162-2-0-21-1762802815.zip](https://www.nexusmods.com/skyrimspecialedition/mods/164162/?tab=files&file_id=686199)
 *  [Smelters for Riften and Solitude-22566-3-0-1668381833.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22566/?tab=files&file_id=331636)
 *  [SMIM - Quality Addon - Unofficial Material Fix Patch-45597-1-12a-1615475679.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=190815)
