@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1945)
+### Valid (1944)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-4-1757833185.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=665566)
 *  [(Skyrim VR) SSE Fixes v3 for Skyrim VR 1.4.15-10547-3VR-1-4-15.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10547/?tab=files&file_id=55872)
 *  [00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=282528)
@@ -376,7 +376,6 @@
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim_VR - Main.bsa
 *  [Dawnguard Armors and Weapons Retexture SE-92161-1-0-1685045655.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391867)
 *  [Dawnguard Arsenal ISC AOS-116985-1-0-1713360361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116985/?tab=files&file_id=491797)
