@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (814)
+### Valid (813)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [1st Person Greatsword Idle Animation Fix-75031-1-0-1662823053.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75031/?tab=files&file_id=314995)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -150,6 +150,7 @@
 *  [Community Shaders-86492-1-4-11-1770452683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=718572)
 *  [Companions Progression Requirements-78308-1-3-1720881747.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78308/?tab=files&file_id=520741)
 *  [Companions Questline Tweaks - Beta-22300-1-1-1546471344.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22300/?tab=files&file_id=77033)
+*  [Complete Widescreen Fix for Vanilla and SkyUI-1778-3-8-5-1710869243.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=482242)
 *  [Config INI - GrassControl.ini-42161-1-5-9-1759775034.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=672975)
 *  [Considerate Followers-133659-1-3-0-1747253784.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133659/?tab=files&file_id=627193)
 *  [ConsoleUtilSSE NG-76649-1-5-1-1704108553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=456904)
@@ -253,7 +254,6 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -752,7 +752,6 @@
 *  [Tomato's PBR Solitude 2k-144182-1-0-PBR-1741603062.7z](https://www.nexusmods.com/skyrimspecialedition/mods/144182/?tab=files&file_id=603948)
 *  [Tomato's Riften PBR - 2k-157340-1-0-1755840351.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157340/?tab=files&file_id=658020)
 *  [Tomato's Windhelm PBR - 2K-174492-1-1-1773282607.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174492/?tab=files&file_id=730505)
-*  Tools_HavokBehaviorPostProcess_readme.txt
 *  [Treasure in the Treasury House-78135-1-0-1667533742.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78135/?tab=files&file_id=328783)
 *  [True Directional Movement-51614-2-2-6-1725670168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=539468)
 *  [True Teacher Durnehviir-44969-1-0-1611862156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44969/?tab=files&file_id=182439)
