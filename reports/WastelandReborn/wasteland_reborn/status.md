@@ -643,7 +643,7 @@
 *  [Looks Menu Customization Compendium-24830-v10.rar](https://www.nexusmods.com/fallout4/mods/24830/?tab=files&file_id=101255)
 *  [Looks Menu Temp Scroll-99120-1-0-1-0-1766071911.zip](https://www.nexusmods.com/fallout4/mods/99120/?tab=files&file_id=377833)
 *  [LooksMenu v1-6-20-12631-1-6-20-1604483725.7z](https://www.nexusmods.com/fallout4/mods/12631/?tab=files&file_id=194291)
-*  [LoreOut Patches-99136-1-3-5-1773634838.zip](https://www.nexusmods.com/fallout4/mods/99136/?tab=files&file_id=389839)
+*  [LoreOut Patches-99136-1-3-5-1-1773713629.zip](https://www.nexusmods.com/fallout4/mods/99136/?tab=files&file_id=389920)
 *  [LoreOut PRP Patch-99136-1-0-1765682109.zip](https://www.nexusmods.com/fallout4/mods/99136/?tab=files&file_id=377356)
 *  [LOST Audio Tweaks-38448-6-0a-1737221373.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=345590)
 *  [Lots More Facial Hair v. 1.21-10746-1-21.rar](https://www.nexusmods.com/fallout4/mods/10746/?tab=files&file_id=43254)
