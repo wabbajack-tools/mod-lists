@@ -1,10 +1,11 @@
 ## Validation Report - Skyrim Odyssey (Odyssey/SkyrimOdyssey)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack+MCO-DXP+v1.6.0.6 (1).zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1342)
+### Valid (1341)
 *  [(ESL)HDT-SMP Daedric Armor Patch-77553-1-0-1666545418.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77553/?tab=files&file_id=326104)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -87,7 +88,6 @@
 *  [At Your Own Pace - Thieves Guild-52704-2-1-1TG-1682573468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=382341)
 *  [Atlas Map Markers SE - Updated with MCM - Settings Loader-68573-1-0-1-1653481078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68573/?tab=files&file_id=286382)
 *  [Atlas Map Markers-24104-3-7-1-1731890635.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=563455)
-*  [Attack+MCO-DXP+v1.6.0.6 (1).zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
 *  [Awesome Potions Simplified-57607-2-1-1637408263.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57607/?tab=files&file_id=242872)

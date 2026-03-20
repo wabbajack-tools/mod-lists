@@ -1,10 +1,11 @@
 ## Validation Report - Hymns of Hircine (Scrolls_of_Schtevie/HymnsOfHircine)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3785)
+### Valid (3784)
 *  [_Grimlook33_ Endless Misery-136947-1-0-1734824668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136947/?tab=files&file_id=574756)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
@@ -291,7 +292,6 @@
 *  [Atlas Map Markers Overhaul-137793-1-4-1742867524.rar](https://www.nexusmods.com/skyrimspecialedition/mods/137793/?tab=files&file_id=609509)
 *  [Atlas Map Markers-24104-3-0-4-1742779005.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=609074)
 *  [Atronach Forge Offering Box-132887-0-2-1-1730853165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132887/?tab=files&file_id=559352)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Aura's Inventory Tweaks-68557-4-5-0-1713935718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68557/?tab=files&file_id=494229)
 *  [Auri - Remastered Audio-63787-2-2-2-1765692003.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63787/?tab=files&file_id=697809)
 *  [Auri 3DNPC Patch ESLified v2-101337-2-1733225614.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101337/?tab=files&file_id=568544)
