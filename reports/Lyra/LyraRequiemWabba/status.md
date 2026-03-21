@@ -6,7 +6,7 @@
 *  [High Poly Head v1.4 (SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1585)
+### Valid (1589)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -471,6 +471,8 @@
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Dawnfire ENB for NATIII-111660-2-4-1-1722076640.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111660/?tab=files&file_id=525522)
+*  [Dawnfire NAT3 ENB - Addon-175076-1-0-1773934954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175076/?tab=files&file_id=732998)
+*  [Dawnfire NAT3 ENB - Reborn-175076-1-0-1773934908.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175076/?tab=files&file_id=732995)
 *  [Dawnfire Required Files - Panda's NAT3 Tweaks --111660-2-4-1722003061.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111660/?tab=files&file_id=525182)
 *  [Dawnguard Roofs - JK and ClefJ Combo patch-157501-1-01-1756698353.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157501/?tab=files&file_id=661308)
 *  [Dayspring Canyon Global Markers Enabler for FWMF-61917-1-01-1642279183.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61917/?tab=files&file_id=257014)
@@ -1232,6 +1234,7 @@
 *  [Shoeless Bandit Fix-99465-1-0-1693228240.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99465/?tab=files&file_id=421489)
 *  [Shout Recovery Utility-115457-1-1-1725590858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115457/?tab=files&file_id=539199)
 *  [Shrubbery Symphony - Enhanced Greenery-108442-3-0-1-1747556936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108442/?tab=files&file_id=628389)
+*  [Sigma - Archery-174649-1-0-2-1773655242.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174649/?tab=files&file_id=731965)
 *  [Sigma - shield animations-163954-1-0-1762624941.7z](https://www.nexusmods.com/skyrimspecialedition/mods/163954/?tab=files&file_id=685329)
 *  [Silent Horizons 2 - Shader Core-101696-1-10-1756049324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101696/?tab=files&file_id=658776)
 *  [Silver Armor and Weapons Retexture SE - Half Res-89109-2-0-1-1717271858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89109/?tab=files&file_id=507326)
@@ -1241,6 +1244,7 @@
 *  [Simple Children Main - FOMOD-22789-1-1-0-1549058271.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22789/?tab=files&file_id=80397)
 *  [Simple Dual Sheath for 1.6.629 and newer-50049-1-5-7-1702208537.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=450438)
 *  [Simple Fishing Overhaul-103440-1-2-1703162004.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103440/?tab=files&file_id=453831)
+*  [Simple Follower Framework-174017-1-4-1-1-1773848060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174017/?tab=files&file_id=732688)
 *  [Simple Timed Block - STBL-130763-2-0-0-1767888289.zip](https://www.nexusmods.com/skyrimspecialedition/mods/130763/?tab=files&file_id=706861)
 *  [Simplicity of Seeding-94428-0-6-3-1733846911.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94428/?tab=files&file_id=571050)
 *  [Simplicity of Settlements - Dragon Bridge-77942-0-7-1-1731841133.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77942/?tab=files&file_id=563200)
