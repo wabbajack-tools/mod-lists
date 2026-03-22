@@ -1075,7 +1075,7 @@
 *  [XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=469854)
 *  [Yamete_REDUX_126.rar](https://www.loverslab.com/files/file/24430-yamete-redux/)
 *  [ZaZ 8+ - VRIK No Spin - VR Patch.zip](https://www.loverslab.com/files/file/17253-skyrimvr-patches-vrik-integrations-for-zazdd-camera-spinning-fixes-other-qol-patches/)
-*  [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3.7z](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
+*  [ZaZ Animation Pack+ CBBE HDT V.8.0+SE2023.7z](https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg)
 *  [ZaZ Rabbit and Chicken Death Fix ver 0.1 (ENG)-84584-0-1-1675951660.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84584/?tab=files&file_id=358023)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
 *  [Ziovendian Bodypaints - Female and Male (CBBE)-25204-1-1555774523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25204/?tab=files&file_id=89058)
