@@ -255,7 +255,6 @@
 *  [Dog Sneak Animations-96002-1-02-1769486591.7z](https://www.nexusmods.com/newvegas/mods/96002/?tab=files&file_id=1000167654)
 *  [Dri - 12.7 SMG High-Detailed Replacer-92765-1-6-1753222012.zip](https://www.nexusmods.com/newvegas/mods/92765/?tab=files&file_id=1000155108)
 *  [Dri - Classic 10mm Pistols Animation-94726-1-4-1764884460.rar](https://www.nexusmods.com/newvegas/mods/94726/?tab=files&file_id=1000162446)
-*  [Dri - Hunting Rifle and Friends-95266-1-4-1767438733.rar](https://www.nexusmods.com/newvegas/mods/95266/?tab=files&file_id=1000165190)
 *  [Dri - WAP 12.7mm Pistol-92738-1-1-1750973066.zip](https://www.nexusmods.com/newvegas/mods/92738/?tab=files&file_id=1000153994)
 *  [Drowning Visuals-84841-2-1-1757478625.zip](https://www.nexusmods.com/newvegas/mods/84841/?tab=files&file_id=1000157765)
 *  [DRPAO TTW 1.1-90313-1-1-1744943381.7z](https://www.nexusmods.com/newvegas/mods/90313/?tab=files&file_id=1000150396)
@@ -299,6 +298,7 @@
 *  [Fallout TTW Reforged (Vault Clean)-96245-1-1770441355.rar](https://www.nexusmods.com/newvegas/mods/96245/?tab=files&file_id=1000168798)
 *  [Fallout TTW Reforged (Vault Ruined)-96410-1-1771200998.rar](https://www.nexusmods.com/newvegas/mods/96410/?tab=files&file_id=1000169560)
 *  FalloutNV.exe
+*  [Fast VATS Cameras-96977-1-0-1773884026.7z](https://www.nexusmods.com/newvegas/mods/96977/?tab=files&file_id=1000172126)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Sleep Wait-66785-2-0-1693172568.zip](https://www.nexusmods.com/newvegas/mods/66785/?tab=files&file_id=1000115499)
 *  [Faster Start Menu-67811-2-0-1693172473.zip](https://www.nexusmods.com/newvegas/mods/67811/?tab=files&file_id=1000115498)

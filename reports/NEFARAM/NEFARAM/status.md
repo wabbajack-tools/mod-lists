@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2331)
+### Valid (2327)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -467,7 +467,6 @@
 *  [COTN Falkreath Patch Collection-56734-1-28-1761246530.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56734/?tab=files&file_id=679598)
 *  [COTN Morthal - Highmoon Hall Map Marker-57069-3-1636240796.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57069/?tab=files&file_id=239482)
 *  [COTN Morthal Patch Collection-34228-3-5-1736462198.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34228/?tab=files&file_id=581335)
-*  [CotN Optimized Meshes-85242-1-5-1686799558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85242/?tab=files&file_id=397906)
 *  [CotN Optimized Meshes-85242-2-1-1720351127.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85242/?tab=files&file_id=518530)
 *  [COTN Winterhold - Better Railing-45732-1-00-1613327317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45732/?tab=files&file_id=185977)
 *  [COTN Winterhold - Stonecold Fortress Map Marker-57069-3-1636240828.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57069/?tab=files&file_id=239483)
@@ -674,9 +673,6 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
-*  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -2331,7 +2327,7 @@
 *  [Yui Body-146346-2-0-1743380245.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146346/?tab=files&file_id=611948)
 *  [Yyvengar Bodypaints - Female (CBBE)-37384-1-0-1592374869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37384/?tab=files&file_id=146106)
 *  [ZAO Active Overlays 0.3 SE-39407-0-31-1612931382.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39407/?tab=files&file_id=185061)
-*  [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3.7z](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
+*  [ZaZ Animation Pack+ CBBE HDT V.8.0+SE2023.7z](https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg)
 *  [Zero Bounty Hostility Fix-95989-0-5-1755736889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95989/?tab=files&file_id=657654)
 *  [Zhizhen MakeUP 2K-138820-1-1-1737742002.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138820/?tab=files&file_id=586911)
 *  [Zora Romance for Women-91976-1-0-1684874140.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91976/?tab=files&file_id=391342)
