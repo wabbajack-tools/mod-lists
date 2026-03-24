@@ -4,8 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1119)
-*  [(No static) Pip-Boy 2000 Counters-87916-1-1-1719280641.7z](https://www.nexusmods.com/newvegas/mods/87916/?tab=files&file_id=1000135003)
+### Valid (1435)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-3-1718394986.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000134231)
 *  [00 - IVB Legion - DEFAULT-80389-1-2-1715882064.7z](https://www.nexusmods.com/newvegas/mods/80389/?tab=files&file_id=1000131304)
@@ -14,12 +13,13 @@
 *  [01 - Object Swapper Version - 2k-88812-1-2-1726395775.zip](https://www.nexusmods.com/newvegas/mods/88812/?tab=files&file_id=1000139881)
 *  [02 - Coffee Kettle - Smashed - 2k-73682-1-0-1631802732.7z](https://www.nexusmods.com/newvegas/mods/73682/?tab=files&file_id=1000081172)
 *  [02 Pip-Boy Counters - Pimp-Boy 3 Billion-62364-V5-1687185188.zip](https://www.nexusmods.com/newvegas/mods/62364/?tab=files&file_id=1000111474)
-*  [091 -  2k Body-70160-any-1634926373.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000082874)
-*  [1 - Gun and Friends Resources-93026-1-20a-1769951310.7z](https://www.nexusmods.com/newvegas/mods/93026/?tab=files&file_id=1000168208)
+*  [1 - Gun and Friends Resources-93026-1-21-1773135955.7z](https://www.nexusmods.com/newvegas/mods/93026/?tab=files&file_id=1000171483)
 *  [1_Animated Ingestibles - B42 Inject Patch-80535-1-9-1726000454.zip](https://www.nexusmods.com/newvegas/mods/80535/?tab=files&file_id=1000139642)
 *  [1_JIP LN NVSE Plugin-58277-57-30-1716662080.7z](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000132314)
 *  [1_Tales Of the Wanted Lods-84165-0-8-1703842370.7z](https://www.nexusmods.com/newvegas/mods/84165/?tab=files&file_id=1000121076)
 *  [1) Point That Somewhere Else - Main File-73938-2-23-3-1766960564.zip](https://www.nexusmods.com/newvegas/mods/73938/?tab=files&file_id=1000164609)
+*  [1) Point That Somewhere Else - Main File-73938-2-23-4-1771123405.zip](https://www.nexusmods.com/newvegas/mods/73938/?tab=files&file_id=1000169473)
+*  [1) Point That Somewhere Else - Main File-73938-2-23-5-1773609499.zip](https://www.nexusmods.com/newvegas/mods/73938/?tab=files&file_id=1000171916)
 *  [1st Person Sprint Animations - Pre 1.15 Pistol-85459-1-0-1711412291.7z](https://www.nexusmods.com/newvegas/mods/85459/?tab=files&file_id=1000126272)
 *  [2 - Gun and Friends FNV-93026-1-20a-1770003977.7z](https://www.nexusmods.com/newvegas/mods/93026/?tab=files&file_id=1000168308)
 *  [2) Point That Somewhere Else - Config (Required)-73938-2-23-0-c-1763943391.zip](https://www.nexusmods.com/newvegas/mods/73938/?tab=files&file_id=1000161916)
@@ -28,12 +28,12 @@
 *  [3D Rain-79652-2-0-1678679955.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000106367)
 *  [3D Trash Paper and Cardboard Only-92592-1-12-1756094003.zip](https://www.nexusmods.com/newvegas/mods/92592/?tab=files&file_id=1000156759)
 *  [3D Trash-92592-1-12-1756093940.zip](https://www.nexusmods.com/newvegas/mods/92592/?tab=files&file_id=1000156758)
+*  [3D Vault Door Switches II-96831-1-02-1774018813.7z](https://www.nexusmods.com/newvegas/mods/96831/?tab=files&file_id=1000172216)
+*  [3D Vault Door Switches-96362-1-1771040670.rar](https://www.nexusmods.com/newvegas/mods/96362/?tab=files&file_id=1000169393)
 *  [3rd Person Aim Fix-92458-1-03-1754853855.7z](https://www.nexusmods.com/newvegas/mods/92458/?tab=files&file_id=1000155990)
 *  [3rd Person Animation Fixpack-85198-1-31-1769547340.7z](https://www.nexusmods.com/newvegas/mods/85198/?tab=files&file_id=1000167727)
 *  [45 Beautification-94382-1-0-1761739507.rar](https://www.nexusmods.com/newvegas/mods/94382/?tab=files&file_id=1000160441)
 *  [6IXES Clutter Texture Pack NV Edition-78608-1-0-1665546120.zip](https://www.nexusmods.com/newvegas/mods/78608/?tab=files&file_id=1000099770)
-*  [A Little More Lamplight - Light Toggle Script Fix-88153-1-1-1720507932.7z](https://www.nexusmods.com/newvegas/mods/88153/?tab=files&file_id=1000135905)
-*  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [A very silly hotfix-91190-1-1-1742387845.zip](https://www.nexusmods.com/newvegas/mods/91190/?tab=files&file_id=1000148524)
 *  [A World of Pain (AWOP) - NV - Roombound Project-93396-1-3-1757173951.zip](https://www.nexusmods.com/newvegas/mods/93396/?tab=files&file_id=1000157562)
 *  [Abraxo Water-76323-1-3-1654742316.7z](https://www.nexusmods.com/newvegas/mods/76323/?tab=files&file_id=1000093968)
@@ -45,13 +45,15 @@
 *  [Afterglow -- Neon Illumination-83736-2-01-1715188521.7z](https://www.nexusmods.com/newvegas/mods/83736/?tab=files&file_id=1000130341)
 *  [Afterglow -- Open Strip Monorail Patch-83736-2-0-1715037859.7z](https://www.nexusmods.com/newvegas/mods/83736/?tab=files&file_id=1000130129)
 *  [Agua Fria INI-94767-1-0-3-1767118112.7z](https://www.nexusmods.com/newvegas/mods/94767/?tab=files&file_id=1000164777)
-*  [Agua Fria-94767-1-0-5-1769788942.7z](https://www.nexusmods.com/newvegas/mods/94767/?tab=files&file_id=1000167986)
+*  [Agua Fria-94767-1-0-5-2-1773196188.7z](https://www.nexusmods.com/newvegas/mods/94767/?tab=files&file_id=1000171538)
 *  [Aim Transition Patch (NVSE)-70974-0-1-1611611073.zip](https://www.nexusmods.com/newvegas/mods/70974/?tab=files&file_id=1000070187)
 *  [All-in-one FOMOD Edition (Updated for v1.61)-79375-v1-61-1685379983.zip](https://www.nexusmods.com/newvegas/mods/79375/?tab=files&file_id=1000110043)
 *  [Alternative head - udder removed better collision mesh and distorted texture-72290-V3-1624112215.rar](https://www.nexusmods.com/newvegas/mods/72290/?tab=files&file_id=1000077752)
+*  [Alternative Repair Kits - Harder-96670-1-0-1-1773077897.7z](https://www.nexusmods.com/newvegas/mods/96670/?tab=files&file_id=1000171427)
 *  [aMidianBorn NV Superb Mutants-78281-1-0-1662480019.7z](https://www.nexusmods.com/newvegas/mods/78281/?tab=files&file_id=1000098656)
 *  [AnhNVSE v1.3.1-74012-v1-3-1-1682350960.rar](https://www.nexusmods.com/newvegas/mods/74012/?tab=files&file_id=1000108113)
 *  [Ani - Enhanced Movement Sprint Overhaul-95116-1-0-1765971499.7z](https://www.nexusmods.com/newvegas/mods/95116/?tab=files&file_id=1000163500)
+*  [Animated - 2K Textures-96874-1-1773343998.7z](https://www.nexusmods.com/newvegas/mods/96874/?tab=files&file_id=1000171666)
 *  [Animated Campfires and GeckoSpit-72967-V1-1625774745.rar](https://www.nexusmods.com/newvegas/mods/72967/?tab=files&file_id=1000078385)
 *  [Animated Chip Poles with Red Light orbs-73507-V1-1630377365.rar](https://www.nexusmods.com/newvegas/mods/73507/?tab=files&file_id=1000080450)
 *  [Animated Decorations-72413-V2-1621859976.rar](https://www.nexusmods.com/newvegas/mods/72413/?tab=files&file_id=1000076462)
@@ -84,8 +86,10 @@
 *  [Ash Pile Fixes with TTW Support-90116-1-1733330868.zip](https://www.nexusmods.com/newvegas/mods/90116/?tab=files&file_id=1000143748)
 *  [Assorted Leather Armor Retexture - 2k-77745-0-02-1659388953.7z](https://www.nexusmods.com/newvegas/mods/77745/?tab=files&file_id=1000096864)
 *  [Assorted NCR Armor Retexture - 2k-77558-0-01-1659195009.7z](https://www.nexusmods.com/newvegas/mods/77558/?tab=files&file_id=1000096737)
+*  [Assorted UI Textures-88478-1-0-2-1774002970.zip](https://www.nexusmods.com/newvegas/mods/88478/?tab=files&file_id=1000172211)
 *  [Assorted Voice Popping Fixes-77073-2-5-1716925170.zip](https://www.nexusmods.com/newvegas/mods/77073/?tab=files&file_id=1000132747)
 *  [Asurah Reanimation Pack 0.2.3.2-64339-0-2-3-2-1610371277.7z](https://www.nexusmods.com/newvegas/mods/64339/?tab=files&file_id=1000069490)
+*  atimgpud.dll
 *  [Atmospheric Lighting Tweaks - FNV - YUP-79378-1-5-1731266645.7z](https://www.nexusmods.com/newvegas/mods/79378/?tab=files&file_id=1000142718)
 *  [Audio Region Fix - NVSE-91241-1-3-2-1743892637.7z](https://www.nexusmods.com/newvegas/mods/91241/?tab=files&file_id=1000149652)
 *  [Audley's Misc Textures-58318-2-0-1677155970.7z](https://www.nexusmods.com/newvegas/mods/58318/?tab=files&file_id=1000105420)
@@ -93,19 +97,17 @@
 *  [Awnings Retex HIgh-95650-1-0-1767883884.rar](https://www.nexusmods.com/newvegas/mods/95650/?tab=files&file_id=1000165833)
 *  [AWO - Brush Gun-95389-1-1-1767298952.zip](https://www.nexusmods.com/newvegas/mods/95389/?tab=files&file_id=1000164972)
 *  [AWO - LMG-91820-2-0-1745937479.zip](https://www.nexusmods.com/newvegas/mods/91820/?tab=files&file_id=1000151051)
-*  [AWOP Revised-71139-4-2-1741605541.zip](https://www.nexusmods.com/newvegas/mods/71139/?tab=files&file_id=1000147980)
+*  [AWOP Revised-71139-4-2-1-1771544339.7z](https://www.nexusmods.com/newvegas/mods/71139/?tab=files&file_id=1000169898)
 *  [AWOPR CKR Patch-83104-2-1712936220.rar](https://www.nexusmods.com/newvegas/mods/83104/?tab=files&file_id=1000127421)
 *  [Axes Ratified (FNV)-94384-1-1-1762684364.zip](https://www.nexusmods.com/newvegas/mods/94384/?tab=files&file_id=1000161092)
 *  [B42 - Long 15 Optics Patches-95049-1-0-1765720095.rar](https://www.nexusmods.com/newvegas/mods/95049/?tab=files&file_id=1000163243)
-*  [B42 Dropmag for 10mm SMG and Friends-92932-1-00-1752312147.zip](https://www.nexusmods.com/newvegas/mods/92932/?tab=files&file_id=1000154646)
-*  [B42 Dropmag for Gun and Friends-93681-1-1756890832.7z](https://www.nexusmods.com/newvegas/mods/93681/?tab=files&file_id=1000157374)
-*  [B42 Dropmag-75461-1-2b-1660638269.7z](https://www.nexusmods.com/newvegas/mods/75461/?tab=files&file_id=1000097687)
 *  [B42 Dynamic Pip-Boy-90847-1-1-1739985751.7z](https://www.nexusmods.com/newvegas/mods/90847/?tab=files&file_id=1000147073)
 *  [B42 Holstered Offensive Tools and Bouncy Natural B-93633-0-22a-1757286279.7z](https://www.nexusmods.com/newvegas/mods/93633/?tab=files&file_id=1000157668)
 *  [B42 Inertia - Scriptrunner-64335-1-4-1767968088.zip](https://www.nexusmods.com/newvegas/mods/64335/?tab=files&file_id=1000165920)
 *  [B42 Inject Animation Pack - Season 2-89032-1-01-1725995355.7z](https://www.nexusmods.com/newvegas/mods/89032/?tab=files&file_id=1000139641)
 *  [B42 Inject-80437-0-15b-1692435172.7z](https://www.nexusmods.com/newvegas/mods/80437/?tab=files&file_id=1000115022)
 *  [B42 Inspect DoF (ESPless)-92421-1-1748352822.zip](https://www.nexusmods.com/newvegas/mods/92421/?tab=files&file_id=1000152529)
+*  [B42 Inspect for Melee Weapons-83760-1-01-1710080834.zip](https://www.nexusmods.com/newvegas/mods/83760/?tab=files&file_id=1000125330)
 *  [B42 Inspect-71624-1-02-1690479507.7z](https://www.nexusmods.com/newvegas/mods/71624/?tab=files&file_id=1000113726)
 *  [B42 Interact-83119-0-17b-1739267784.7z](https://www.nexusmods.com/newvegas/mods/83119/?tab=files&file_id=1000146633)
 *  [B42 Loot Patch-88830-1-0-2-1733694291.rar](https://www.nexusmods.com/newvegas/mods/88830/?tab=files&file_id=1000143964)
@@ -123,45 +125,40 @@
 *  [Balanced Discounts and Barter Fixes-90644-1-1-0-1764837950.7z](https://www.nexusmods.com/newvegas/mods/90644/?tab=files&file_id=1000162421)
 *  [Balanced Mode-93406-2-5-1769321985.7z](https://www.nexusmods.com/newvegas/mods/93406/?tab=files&file_id=1000167471)
 *  [Base Object Swapper-83934-2-0-0-1770602039.7z](https://www.nexusmods.com/newvegas/mods/83934/?tab=files&file_id=1000169041)
-*  [Baseball Bats Ratified (FNV)-94305-1-1-1770588007.zip](https://www.nexusmods.com/newvegas/mods/94305/?tab=files&file_id=1000169024)
+*  [Baseball Bats Ratified (FNV)-94305-1-2-1772830043.zip](https://www.nexusmods.com/newvegas/mods/94305/?tab=files&file_id=1000171229)
 *  [Basements and Bunkers-89667-1-0-1730315809.7z](https://www.nexusmods.com/newvegas/mods/89667/?tab=files&file_id=1000142132)
 *  [Basic Console Autocomplete-82098-1-0-1689194801.zip](https://www.nexusmods.com/newvegas/mods/82098/?tab=files&file_id=1000112941)
 *  [BATH-75927-2-33-1724896360.rar](https://www.nexusmods.com/newvegas/mods/75927/?tab=files&file_id=1000138940)
 *  [Bathroom Essentials HD Collection-95647-1-01-1768330372.zip](https://www.nexusmods.com/newvegas/mods/95647/?tab=files&file_id=1000166299)
-*  [Bearable bathrooms-85797-1-0-1712090878.7z](https://www.nexusmods.com/newvegas/mods/85797/?tab=files&file_id=1000126864)
+*  [Bearable bathrooms-85797-2-0-1772577770.7z](https://www.nexusmods.com/newvegas/mods/85797/?tab=files&file_id=1000170946)
 *  [Beautiful Brains-88583-v1-1-1723499214.zip](https://www.nexusmods.com/newvegas/mods/88583/?tab=files&file_id=1000137973)
 *  [Begin Again - Dead Money Furniture Mesh Replacers-89174-v1-0-1726832373.zip](https://www.nexusmods.com/newvegas/mods/89174/?tab=files&file_id=1000140111)
 *  [Better Benches - Workbenches Retextured v1.1 (Glossiness fix)-76321-v1-1-1651513264.zip](https://www.nexusmods.com/newvegas/mods/76321/?tab=files&file_id=1000091937)
 *  [Better Bloody Mess-86723-1-1-1-1751470099.7z](https://www.nexusmods.com/newvegas/mods/86723/?tab=files&file_id=1000154194)
 *  [Better Brotherhood-75031-2-5-1-1760465757.7z](https://www.nexusmods.com/newvegas/mods/75031/?tab=files&file_id=1000159693)
-*  [Better Caravan-81002-1-6-1743628695.zip](https://www.nexusmods.com/newvegas/mods/81002/?tab=files&file_id=1000149485)
-*  [Better Character Creation-70973-1-9a-1700341717.7z](https://www.nexusmods.com/newvegas/mods/70973/?tab=files&file_id=1000119208)
+*  [Better Caravan-81002-1-7-1773580757.zip](https://www.nexusmods.com/newvegas/mods/81002/?tab=files&file_id=1000171880)
+*  [Better Character Creation-70973-2-0-1771452148.7z](https://www.nexusmods.com/newvegas/mods/70973/?tab=files&file_id=1000169806)
 *  [Better Cigarettes - B42 inject-89228-1-6-1753273308.rar](https://www.nexusmods.com/newvegas/mods/89228/?tab=files&file_id=1000155129)
 *  [Better Desperado Cowboy Hat Veiled Trigger Ver.-93007-1-1-1752999333.zip](https://www.nexusmods.com/newvegas/mods/93007/?tab=files&file_id=1000154991)
-*  [Better Face Tints for CKR - FNV-88071-1-0-1720073030.zip](https://www.nexusmods.com/newvegas/mods/88071/?tab=files&file_id=1000135570)
-*  [Better Factories-94972-1-0-1765415808.7z](https://www.nexusmods.com/newvegas/mods/94972/?tab=files&file_id=1000162940)
 *  [Better Grass-83794-1-1-1700154531.zip](https://www.nexusmods.com/newvegas/mods/83794/?tab=files&file_id=1000119142)
 *  [Better Sheriff's Hat (Lawbringer Ver.)-93017-1-0-1753034780.zip](https://www.nexusmods.com/newvegas/mods/93017/?tab=files&file_id=1000155010)
-*  [Better Transitions - Fixed OWB Doors-92876-1-0-1752129328.7z](https://www.nexusmods.com/newvegas/mods/92876/?tab=files&file_id=1000154572)
-*  [Better Transitions - INI-92876-1-21-1769654389.7z](https://www.nexusmods.com/newvegas/mods/92876/?tab=files&file_id=1000167838)
-*  [Better Transitions - NVSE-92876-1-22-1770561458.7z](https://www.nexusmods.com/newvegas/mods/92876/?tab=files&file_id=1000168985)
 *  [Better Trap Disarm-94121-1-1761227658.zip](https://www.nexusmods.com/newvegas/mods/94121/?tab=files&file_id=1000160128)
 *  [Better Weapon Restrictions and Fixes-87012-1-6-3-1726677893.zip](https://www.nexusmods.com/newvegas/mods/87012/?tab=files&file_id=1000140045)
 *  [Better Wood Desk-91629-1-0-1743429241.zip](https://www.nexusmods.com/newvegas/mods/91629/?tab=files&file_id=1000149296)
 *  [BetterStandUp-76443-2-1703547706.zip](https://www.nexusmods.com/newvegas/mods/76443/?tab=files&file_id=1000120942)
 *  [Billboards HD Remade 2K-83464-1-1-1701622240.7z](https://www.nexusmods.com/newvegas/mods/83464/?tab=files&file_id=1000119867)
+*  binkw32.dll
 *  [Birds Of A Feather Karma-88175-1-1720633031.rar](https://www.nexusmods.com/newvegas/mods/88175/?tab=files&file_id=1000136007)
 *  [Bison Steven Layout Fixx-94449-1-0-0-1762147251.zip](https://www.nexusmods.com/newvegas/mods/94449/?tab=files&file_id=1000160738)
 *  [Blackened Mountain-93750-1-0-0-1757296081.zip](https://www.nexusmods.com/newvegas/mods/93750/?tab=files&file_id=1000157677)
 *  [Blackwolf24s Final HD Clutter PACK-70035-Final-1605541501.rar](https://www.nexusmods.com/newvegas/mods/70035/?tab=files&file_id=1000067701)
 *  [Blood Decal Flashing Fix-87830-1-1-1727169336.7z](https://www.nexusmods.com/newvegas/mods/87830/?tab=files&file_id=1000140291)
 *  [Bloodbath - 2K-87271-1-1-1717135642.zip](https://www.nexusmods.com/newvegas/mods/87271/?tab=files&file_id=1000132960)
-*  [BOS Community Master Plugin-95581-1-6A-1769869797.7z](https://www.nexusmods.com/newvegas/mods/95581/?tab=files&file_id=1000168085)
+*  [BOS Community Master Plugin-95581-1-9-1774022960.7z](https://www.nexusmods.com/newvegas/mods/95581/?tab=files&file_id=1000172221)
 *  [Boss Bars NV-TTW-90542-1-8-1743551123.7z](https://www.nexusmods.com/newvegas/mods/90542/?tab=files&file_id=1000149421)
 *  [Bottle the Water-83913-2-0-0-1748301685.zip](https://www.nexusmods.com/newvegas/mods/83913/?tab=files&file_id=1000152505)
 *  [Bozar Rework-81345-1-1685489041.rar](https://www.nexusmods.com/newvegas/mods/81345/?tab=files&file_id=1000110142)
 *  [Brave New World - Revoice Only (Scripted) Hotfix-69562-1-6-1-1647427354.7z](https://www.nexusmods.com/newvegas/mods/69562/?tab=files&file_id=1000089294)
-*  [Brave New World (VoicesOnly) - NOPE Patch-96147-1-1-0-1769970552.zip](https://www.nexusmods.com/newvegas/mods/96147/?tab=files&file_id=1000168249)
 *  [Brave New World-69562-1-6-1647207951.7z](https://www.nexusmods.com/newvegas/mods/69562/?tab=files&file_id=1000089130)
 *  [Brotherhood and House Truce-73285-102-1722953075.zip](https://www.nexusmods.com/newvegas/mods/73285/?tab=files&file_id=1000137593)
 *  [Bullet feed framework-91831-1-0-0-1744629275.7z](https://www.nexusmods.com/newvegas/mods/91831/?tab=files&file_id=1000150155)
@@ -192,11 +189,10 @@
 *  [Checkmate - Skill Check Variety-87816-1-04-1735416799.7z](https://www.nexusmods.com/newvegas/mods/87816/?tab=files&file_id=1000144736)
 *  [Chems and Drugs are banned by the Legion-74221-2-0-0-1766447592.zip](https://www.nexusmods.com/newvegas/mods/74221/?tab=files&file_id=1000164041)
 *  [CKR - Long 15 Patch-95035-1-0-1765658707.zip](https://www.nexusmods.com/newvegas/mods/95035/?tab=files&file_id=1000163176)
+*  [Classic - Brahmin Carts-87184-1-1-1756150235.rar](https://www.nexusmods.com/newvegas/mods/87184/?tab=files&file_id=1000156793)
 *  [Classic Fallout Perks Pack-93111-1-35-1767159935.zip](https://www.nexusmods.com/newvegas/mods/93111/?tab=files&file_id=1000164847)
-*  [Classic Pip-Boy 2000 replacer version-85289-1-0-1709505165.rar](https://www.nexusmods.com/newvegas/mods/85289/?tab=files&file_id=1000124892)
-*  [Classic Props-92285-1-61-1761781259.zip](https://www.nexusmods.com/newvegas/mods/92285/?tab=files&file_id=1000160457)
+*  [Classic Props-92285-1-72-1773679631.7z](https://www.nexusmods.com/newvegas/mods/92285/?tab=files&file_id=1000171965)
 *  [Classy Clutter Compilation-88919-V1-3-1728031049.zip](https://www.nexusmods.com/newvegas/mods/88919/?tab=files&file_id=1000140730)
-*  [Clean Companion Wheel 256x256 Edition-70486-1-0-1709295718.7z](https://www.nexusmods.com/newvegas/mods/70486/?tab=files&file_id=1000124709)
 *  [Clean Just Assorted Mods-82724-1-2-1733074728.zip](https://www.nexusmods.com/newvegas/mods/82724/?tab=files&file_id=1000143631)
 *  [Clean Vanilla HUD - IFO4HUD Patch-83827-1-0-1700418025.zip](https://www.nexusmods.com/newvegas/mods/83827/?tab=files&file_id=1000119250)
 *  [Clean Vanilla Hud-70001-1-1-1764369439.zip](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000162118)
@@ -249,31 +245,326 @@
 *  [Cowboy Victor-76586-1-0-1652630172.7z](https://www.nexusmods.com/newvegas/mods/76586/?tab=files&file_id=1000092576)
 *  [CR Petting Pets Animations - Config-92031-1-2c-1746108450.zip](https://www.nexusmods.com/newvegas/mods/92031/?tab=files&file_id=1000151116)
 *  [CR Petting Pets Animations-92031-1-2-0-1746109510.zip](https://www.nexusmods.com/newvegas/mods/92031/?tab=files&file_id=1000151118)
-*  [Crafting and Repair Animations-92599-1-5-1768555517.zip](https://www.nexusmods.com/newvegas/mods/92599/?tab=files&file_id=1000166556)
+*  [Crafting and Repair Animations-92599-1-7-1771183441.zip](https://www.nexusmods.com/newvegas/mods/92599/?tab=files&file_id=1000169541)
 *  [Crafting XP - INI-85229-2-1-0-1767549221.zip](https://www.nexusmods.com/newvegas/mods/85229/?tab=files&file_id=1000165349)
 *  [Crafting XP-85229-2-1-0-1767549178.zip](https://www.nexusmods.com/newvegas/mods/85229/?tab=files&file_id=1000165348)
-*  [Crash Logger-82540-5-16-1767026938.7z](https://www.nexusmods.com/newvegas/mods/82540/?tab=files&file_id=1000164675)
 *  [Creepy Vault 22-89532-1-1729459114.rar](https://www.nexusmods.com/newvegas/mods/89532/?tab=files&file_id=1000141665)
 *  [Critters 1.01-86131-1-01-1713813022.7z](https://www.nexusmods.com/newvegas/mods/86131/?tab=files&file_id=1000128282)
-*  [Damage Bonuses (ESPless)-95111-1-3b-1768232571.7z](https://www.nexusmods.com/newvegas/mods/95111/?tab=files&file_id=1000166218)
+*  [Da Slop-92806-2-3-1769184893.7z](https://www.nexusmods.com/newvegas/mods/92806/?tab=files&file_id=1000167324)
+*  Data_CaravanPack - Main.bsa
+*  Data_CaravanPack.esm
+*  Data_CaravanPack.nam
+*  Data_ClassicPack - Main.bsa
+*  Data_ClassicPack.esm
+*  Data_ClassicPack.nam
+*  Data_DeadMoney - Main.bsa
+*  Data_DeadMoney - Sounds.bsa
+*  Data_DeadMoney.esm
+*  Data_DEADMONEY.NAM
+*  Data_Fallout - Meshes.bsa
+*  Data_Fallout - Misc.bsa
+*  Data_Fallout - Sound.bsa
 *  Data_Fallout - Textures.bsa
+*  Data_Fallout - Textures2.bsa
+*  Data_Fallout - Voices1.bsa
+*  Data_FalloutNV.esm
+*  Data_GunRunnersArsenal - Main.bsa
+*  Data_GunRunnersArsenal - Sounds.bsa
+*  Data_GunRunnersArsenal.esm
+*  Data_GUNRUNNERSARSENAL.NAM
+*  Data_HonestHearts - Main.bsa
+*  Data_HonestHearts - Sounds.bsa
+*  Data_HonestHearts.esm
+*  Data_HONESTHEARTS.NAM
+*  Data_LonesomeRoad - Main.bsa
+*  Data_LonesomeRoad - Sounds.bsa
+*  Data_LonesomeRoad.esm
+*  Data_LONESOMEROAD.NAM
+*  Data_MercenaryPack - Main.bsa
+*  Data_MercenaryPack.esm
+*  Data_MercenaryPack.nam
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_City_Full.mp3
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_City_Perc.mp3
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_Rural_Full.mp3
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_Rural_Full(alt1).mp3
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_Rural_Perc.mp3
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_Rural_Perc(alt1).mp3
+*  Data_Music_BTTL_Evil1_mus_BTTL_Lp_Evil1_Rural_Perc(alt2).mp3
+*  Data_Music_BTTL_Evil2_mus_BTTL_Lp_Evil2_City_Full.mp3
+*  Data_Music_BTTL_Evil2_mus_BTTL_Lp_Evil2_City_Perc.mp3
+*  Data_Music_BTTL_Evil2_mus_BTTL_Lp_Evil2_Rural_Full.mp3
+*  Data_Music_BTTL_Evil2_mus_BTTL_Lp_Evil2_Rural_Full(alt1).mp3
+*  Data_Music_BTTL_Evil2_mus_BTTL_Lp_Evil2_Rural_Perc.mp3
+*  Data_Music_BTTL_Evil2_mus_BTTL_Lp_Evil2_Rural_Perc(alt1).mp3
+*  Data_Music_BTTL_Evil3_mus_BTTL_Lp_Evil3_City_Full.mp3
+*  Data_Music_BTTL_Evil3_mus_BTTL_Lp_Evil3_City_Perc.mp3
+*  Data_Music_BTTL_Evil3_mus_BTTL_Lp_Evil3_Rural_Full.mp3
+*  Data_Music_BTTL_Evil3_mus_BTTL_Lp_Evil3_Rural_Perc.mp3
+*  Data_Music_BTTL_Evil4_mus_BTTL_Lp_Evil4_City_Full.mp3
+*  Data_Music_BTTL_Evil4_mus_BTTL_Lp_Evil4_City_Perc.mp3
+*  Data_Music_BTTL_Evil4_mus_BTTL_Lp_Evil4_Rural_Full.mp3
+*  Data_Music_BTTL_Evil4_mus_BTTL_Lp_Evil4_Rural_Perc.mp3
+*  Data_Music_BTTL_Good1_mus_BTTL_Lp_Good1_City_Full.mp3
+*  Data_Music_BTTL_Good1_mus_BTTL_Lp_Good1_City_Perc.mp3
+*  Data_Music_BTTL_Good1_mus_BTTL_Lp_Good1_Rural_Full.mp3
+*  Data_Music_BTTL_Good1_mus_BTTL_Lp_Good1_Rural_Perc.mp3
+*  Data_Music_BTTL_Good2_mus_BTTL_Lp_Good2_City_Full.mp3
+*  Data_Music_BTTL_Good2_mus_BTTL_Lp_Good2_City_Perc.mp3
+*  Data_Music_BTTL_Good2_mus_BTTL_Lp_Good2_Rural_Full.mp3
+*  Data_Music_BTTL_Good2_mus_BTTL_Lp_Good2_Rural_Full(alt1).mp3
+*  Data_Music_BTTL_Good2_mus_BTTL_Lp_Good2_Rural_Perc.mp3
+*  Data_Music_BTTL_Good2_mus_BTTL_Lp_Good2_Rural_Perc(alt1).mp3
+*  Data_Music_BTTL_Good3_mus_BTTL_Lp_Good3_City_Full.mp3
+*  Data_Music_BTTL_Good3_mus_BTTL_Lp_Good3_City_Perc.mp3
+*  Data_Music_BTTL_Good3_mus_BTTL_Lp_Good3_Rural_Full.mp3
+*  Data_Music_BTTL_Good3_mus_BTTL_Lp_Good3_Rural_Perc.mp3
+*  Data_Music_BTTL_Good4_mus_BTTL_Lp_Good4_City_Full.mp3
+*  Data_Music_BTTL_Good4_mus_BTTL_Lp_Good4_City_Perc.mp3
+*  Data_Music_BTTL_Good4_mus_BTTL_Lp_Good4_Rural_Full.mp3
+*  Data_Music_BTTL_Good4_mus_BTTL_Lp_Good4_Rural_Perc.mp3
+*  Data_Music_DNGN_Dungeon1_mus_DNGN_One_1Low.mp3
+*  Data_Music_DNGN_Dungeon1_mus_DNGN_One_1Low(alt).mp3
+*  Data_Music_DNGN_Dungeon1_mus_DNGN_One_2Mid.mp3
+*  Data_Music_DNGN_Dungeon1_mus_DNGN_One_3High.mp3
+*  Data_Music_DNGN_Dungeon2_mus_DNGN_Two_1Low.mp3
+*  Data_Music_DNGN_Dungeon2_mus_DNGN_Two_1Low(alt1).mp3
+*  Data_Music_DNGN_Dungeon2_mus_DNGN_Two_2Mid.mp3
+*  Data_Music_DNGN_Dungeon2_mus_DNGN_Two_3High.mp3
+*  Data_Music_DNGN_Dungeon3_mus_DNGN_Three_1Low.mp3
+*  Data_Music_DNGN_Dungeon3_mus_DNGN_Three_2Mid.mp3
+*  Data_Music_DNGN_Dungeon3_mus_DNGN_Three_2Mid(alt1).mp3
+*  Data_Music_DNGN_Dungeon3_mus_DNGN_Three_3High.mp3
+*  Data_Music_DNGN_Dungeon4_mus_DNGN_Four_1Low.mp3
+*  Data_Music_DNGN_Dungeon4_mus_DNGN_Four_2Mid.mp3
+*  Data_Music_DNGN_Dungeon4_mus_DNGN_Four_3High.mp3
+*  Data_Music_DNGN_Dungeon5_mus_DNGN_Five_1Low.mp3
+*  Data_Music_DNGN_Dungeon5_mus_DNGN_Five_2Mid.mp3
+*  Data_Music_DNGN_Dungeon5_mus_DNGN_Five_2Mid(alt1).mp3
+*  Data_Music_DNGN_Dungeon5_mus_DNGN_Five_3High.mp3
+*  Data_Music_DNGN_Dungeon6_mus_DNGN_Six_1Low.mp3
+*  Data_Music_DNGN_Dungeon6_mus_DNGN_Six_2Mid.mp3
+*  Data_Music_DNGN_Dungeon6_mus_DNGN_Six_3High.mp3
+*  Data_Music_DNGN_Dungeon7_mus_DNGN_Seven_1Low.mp3
+*  Data_Music_DNGN_Dungeon7_mus_DNGN_Seven_2Mid.mp3
+*  Data_Music_DNGN_Dungeon7_mus_DNGN_Seven_3High.mp3
+*  Data_Music_DNGN_Dungeon8_mus_DNGN_Eight_1Low.mp3
+*  Data_Music_DNGN_Dungeon8_mus_DNGN_Eight_2Mid.mp3
+*  Data_Music_DNGN_Dungeon8_mus_DNGN_Eight_3High.mp3
+*  Data_Music_Fallout1and2_Fallout_01MetallicMonks.mp3
+*  Data_Music_Fallout1and2_Fallout_02DesertWind.mp3
+*  Data_Music_Fallout1and2_Fallout_03ATradersLife.mp3
+*  Data_Music_Fallout1and2_Fallout_04TheVaultoftheFuture.mp3
+*  Data_Music_Fallout1and2_Fallout_05IndustrialJunk.mp3
+*  Data_Music_Fallout1and2_Fallout_06MoribundWorld.mp3
+*  Data_Music_Fallout1and2_Fallout_07VatsofGoo.mp3
+*  Data_Music_Fallout1and2_Fallout_08CityoftheDead.mp3
+*  Data_Music_Fallout1and2_Fallout_09SecondChance.mp3
+*  Data_Music_Fallout1and2_Fallout_10UndergroundTroubles.mp3
+*  Data_Music_Fallout1and2_Fallout_11CityofLostAngels.mp3
+*  Data_Music_Fallout1and2_Fallout_12FollowersCredo.mp3
+*  Data_Music_Fallout1and2_Fallout_13RadiationStorm.mp3
+*  Data_Music_Fallout1and2_Fallout_14AcolytesoftheNewgod.mp3
+*  Data_Music_Fallout1and2_Fallout_15FlameoftheAncientWorld.mp3
+*  Data_Music_Fallout1and2_Fallout_16KhansofNewCalifornia.mp3
+*  Data_Music_Fallout1and2_Fallout2_Arroyo.mp3
+*  Data_Music_Fallout1and2_Fallout2_Modoc.mp3
+*  Data_Music_Fallout1and2_Fallout2_NewReno.mp3
+*  Data_Music_Fallout1and2_Fallout2_Redding.mp3
+*  Data_Music_Fallout1and2_Fallout2_SanFrancisco.mp3
+*  Data_Music_Fallout1and2_Fallout2_VaultCity.mp3
+*  Data_Music_Fallout1and2_Fallout2_Worldmap1.mp3
+*  Data_Music_Fallout1and2_Fallout2_Worldmap2.mp3
+*  Data_Music_LOC_CaesarsLegion_mus_LOC_Caesar_Day_1Low.mp3
+*  Data_Music_LOC_CaesarsLegion_mus_LOC_Caesar_Day_2Mid.mp3
+*  Data_Music_LOC_CaesarsLegion_mus_LOC_Caesar_Day_3High.mp3
+*  Data_Music_LOC_CaesarsLegion_mus_LOC_Caesar_Night_1Low.mp3
+*  Data_Music_LOC_CaesarsLegion_mus_LOC_Caesar_Night_2Mid.mp3
+*  Data_Music_LOC_CaesarsLegion_mus_LOC_Caesar_Night_3High.mp3
+*  Data_Music_LOC_CorporateRuins_mus_LOC_CorpRuins_Day_1Low.mp3
+*  Data_Music_LOC_CorporateRuins_mus_LOC_CorpRuins_Day_2Mid.mp3
+*  Data_Music_LOC_CorporateRuins_mus_LOC_CorpRuins_Day_3High.mp3
+*  Data_Music_LOC_CorporateRuins_mus_LOC_CorpRuins_Night_1Low.mp3
+*  Data_Music_LOC_CorporateRuins_mus_LOC_CorpRuins_Night_2Mid.mp3
+*  Data_Music_LOC_CorporateRuins_mus_LOC_CorpRuins_Night_3High.mp3
+*  Data_Music_LOC_DesertExploration_mus_LOC_DesExpl_Day_1Low.mp3
+*  Data_Music_LOC_DesertExploration_mus_LOC_DesExpl_Day_2Mid.mp3
+*  Data_Music_LOC_DesertExploration_mus_LOC_DesExpl_Day_3High.mp3
+*  Data_Music_LOC_DesertExploration_mus_LOC_DesExpl_Night_1Low.mp3
+*  Data_Music_LOC_DesertExploration_mus_LOC_DesExpl_Night_2Mid.mp3
+*  Data_Music_LOC_DesertExploration_mus_LOC_DesExpl_Night_3High.mp3
+*  Data_Music_LOC_DesertSettlement_mus_LOC_DesSttl_Day_1Low.mp3
+*  Data_Music_LOC_DesertSettlement_mus_LOC_DesSttl_Day_2Mid.mp3
+*  Data_Music_LOC_DesertSettlement_mus_LOC_DesSttl_Day_3High.mp3
+*  Data_Music_LOC_DesertSettlement_mus_LOC_DesSttl_Night_1Low.mp3
+*  Data_Music_LOC_DesertSettlement_mus_LOC_DesSttl_Night_2Mid.mp3
+*  Data_Music_LOC_DesertSettlement_mus_LOC_DesSttl_Night_3High.mp3
+*  Data_Music_LOC_Freeside_mus_LOC_Freeside_Day_1Low.mp3
+*  Data_Music_LOC_Freeside_mus_LOC_Freeside_Day_2Mid.mp3
+*  Data_Music_LOC_Freeside_mus_LOC_Freeside_Day_3High.mp3
+*  Data_Music_LOC_Freeside_mus_LOC_Freeside_Night_1Low.mp3
+*  Data_Music_LOC_Freeside_mus_LOC_Freeside_Night_2Mid.mp3
+*  Data_Music_LOC_Freeside_mus_LOC_Freeside_Night_3High.mp3
+*  Data_Music_LOC_HooverDam_mus_LOC_Hoover_Caesar_1Low.mp3
+*  Data_Music_LOC_HooverDam_mus_LOC_Hoover_Caesar_2Mid.mp3
+*  Data_Music_LOC_HooverDam_mus_LOC_Hoover_Caesar_3High.mp3
+*  Data_Music_LOC_HooverDam_mus_LOC_Hoover_NCR_1Low.mp3
+*  Data_Music_LOC_HooverDam_mus_LOC_Hoover_NCR_2Mid.mp3
+*  Data_Music_LOC_HooverDam_mus_LOC_Hoover_NCR_3High.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Day_1Low.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Day_2Mid.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Day_3High.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Day_3High(alt1).mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Night_1Low.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Night_2Mid.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Night_3High.mp3
+*  Data_Music_LOC_IndustrialCity_mus_LOC_Industrial_Night_3High(alt1).mp3
+*  Data_Music_LOC_Jacobstown_mus_LOC_Jacobstown_Day_1Low.mp3
+*  Data_Music_LOC_Jacobstown_mus_LOC_Jacobstown_Day_2Mid.mp3
+*  Data_Music_LOC_Jacobstown_mus_LOC_Jacobstown_Day_3High.mp3
+*  Data_Music_LOC_Jacobstown_mus_LOC_Jacobstown_Night_1Low.mp3
+*  Data_Music_LOC_Jacobstown_mus_LOC_Jacobstown_Night_2Mid.mp3
+*  Data_Music_LOC_Jacobstown_mus_LOC_Jacobstown_Night_3High.mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Day_1Low.mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Day_2Mid.mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Day_3High.mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Day_3High(alt1).mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Night_1Low.mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Night_2Mid.mp3
+*  Data_Music_LOC_LargerTown_mus_LOC_LrgTown_Night_3High.mp3
+*  Data_Music_LOC_Mountain_mus_LOC_Mountain_Day_1Low.mp3
+*  Data_Music_LOC_Mountain_mus_LOC_Mountain_Day_2Mid.mp3
+*  Data_Music_LOC_Mountain_mus_LOC_Mountain_Day_3High.mp3
+*  Data_Music_LOC_Mountain_mus_LOC_Mountain_Night_1Low.mp3
+*  Data_Music_LOC_Mountain_mus_LOC_Mountain_Night_2Mid.mp3
+*  Data_Music_LOC_Mountain_mus_LOC_Mountain_Night_3High.mp3
+*  Data_Music_LOC_NewCaliforniaRepublic_mus_LOC_CalRepublic_Day_1Low.mp3
+*  Data_Music_LOC_NewCaliforniaRepublic_mus_LOC_CalRepublic_Day_2Mid.mp3
+*  Data_Music_LOC_NewCaliforniaRepublic_mus_LOC_CalRepublic_Day_3High.mp3
+*  Data_Music_LOC_NewCaliforniaRepublic_mus_LOC_CalRepublic_Night_1Low.mp3
+*  Data_Music_LOC_NewCaliforniaRepublic_mus_LOC_CalRepublic_Night_2Mid.mp3
+*  Data_Music_LOC_NewCaliforniaRepublic_mus_LOC_CalRepublic_Night_3High.mp3
+*  Data_Music_OLD_FO1_mus_FO1_AcolytesOfTheNewGod.mp3
+*  Data_Music_OLD_FO1_mus_FO1_CityOfLostAngels.mp3
+*  Data_Music_OLD_FO1_mus_FO1_CityOfTheDead.mp3
+*  Data_Music_OLD_FO1_mus_FO1_DesertWind.mp3
+*  Data_Music_OLD_FO1_mus_FO1_FlameOfTheAncientWorld.mp3
+*  Data_Music_OLD_FO1_mus_FO1_IndustrialJunk.mp3
+*  Data_Music_OLD_FO1_mus_FO1_MetallicMonks.mp3
+*  Data_Music_OLD_FO1_mus_FO1_RadiationStorm.mp3
+*  Data_Music_OLD_FO1_mus_FO1_SecondChance.mp3
+*  Data_Music_OLD_FO1_mus_FO1_TheVaultOfTheFuture.mp3
+*  Data_Music_OLD_FO1_mus_FO1_UndergroundTrouble.mp3
+*  Data_Music_OLD_FO2_mus_FO2_Modoc.mp3
+*  Data_Music_OLD_FO2_mus_FO2_Redding.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Base2.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Base3.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Base5.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Death.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Dungeon1.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Dungeon2.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Dungeon3.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Explore1.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Explore3.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Explore4.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Explore5.mp3
+*  Data_Music_OLD_FO3_mus_FO3_Explore6.mp3
+*  Data_Music_SCR_mus_SCR_DeathStinger.mp3
+*  Data_Music_SCR_mus_SCR_DocMitchell.mp3
+*  Data_Music_SCR_mus_SCR_GoodspringsStinger.mp3
+*  Data_Music_SCR_mus_SCR_Muzak.mp3
+*  Data_Music_SCR_mus_SCR_MuzakRadio.mp3
+*  Data_Music_SCR_mus_SCR_VegasStinger.mp3
+*  Data_Music_SCR_mus_SCR_VictorySinger.mp3
+*  Data_Music_SCR_mus_SCR_VictorySinger(alt1).mp3
+*  Data_Music_SCR_mus_SCR_VictorySinger(alt2).mp3
+*  Data_Music_Special_EndCredits.mp3
+*  Data_Music_Special_MainTitle.mp3
+*  Data_Music_Special_mus_endgameslideshow.mp3
+*  Data_Music_Special_mus_endgametransitionstinger.mp3
+*  Data_Music_Special_mus_hailchief.mp3
 *  Data_OldWorldBlues - Main.bsa
-*  [Decals Plus-93683-1-1756911755.zip](https://www.nexusmods.com/newvegas/mods/93683/?tab=files&file_id=1000157380)
+*  Data_OldWorldBlues - Sounds.bsa
+*  Data_OldWorldBlues.esm
+*  Data_OLDWORLDBLUES.NAM
+*  Data_Shaders_shaderpackage002.sdp
+*  Data_Shaders_shaderpackage003.sdp
+*  Data_Shaders_shaderpackage004.sdp
+*  Data_Shaders_shaderpackage006.sdp
+*  Data_Shaders_shaderpackage007.sdp
+*  Data_Shaders_shaderpackage009.sdp
+*  Data_Shaders_shaderpackage010.sdp
+*  Data_Shaders_shaderpackage012.sdp
+*  Data_Shaders_shaderpackage014.sdp
+*  Data_Shaders_shaderpackage016.sdp
+*  Data_Shaders_shaderpackage018.sdp
+*  Data_Sound_songs_radionv_MUS_Aint_That_A_Kick_In_the_Head.mp3
+*  Data_Sound_songs_radionv_MUS_American_Swing.mp3
+*  Data_Sound_songs_radionv_MUS_Big_Iron.mp3
+*  Data_Sound_songs_radionv_MUS_Blue_Moon.mp3
+*  Data_Sound_songs_radionv_MUS_Blues_For_You.mp3
+*  Data_Sound_songs_radionv_MUS_Cobwebs_and_Rainbows.mp3
+*  Data_Sound_songs_radionv_MUS_Concerto_For_2_Vl_Str_In_D_Minor.mp3
+*  Data_Sound_songs_radionv_MUS_Concerto_Grosso_In_B_Minor_Allegro_01.mp3
+*  Data_Sound_songs_radionv_MUS_Concerto_Grosso_In_B_Minor_Allegro_02.mp3
+*  Data_Sound_songs_radionv_MUS_EddyArnold_Rca_ItsASin.mp3
+*  Data_Sound_songs_radionv_MUS_Flower_Duet_Lakm_KPM.mp3
+*  Data_Sound_songs_radionv_MUS_Four_Seasons_No_4_The_Winter.mp3
+*  Data_Sound_songs_radionv_MUS_Goin_Under.mp3
+*  Data_Sound_songs_radionv_MUS_Hallo_Mister_X.mp3
+*  Data_Sound_songs_radionv_MUS_Happy_Times.mp3
+*  Data_Sound_songs_radionv_MUS_Heartaches_by_the_Number.mp3
+*  Data_Sound_songs_radionv_MUS_HomeOnTheWastes.mp3
+*  Data_Sound_songs_radionv_MUS_I_m_Movin_Out.mp3
+*  Data_Sound_songs_radionv_MUS_I_m_So_Blue.mp3
+*  Data_Sound_songs_radionv_MUS_In_The_Shadow_Of_The_Valley.mp3
+*  Data_Sound_songs_radionv_MUS_Its_A_Sin_To_Tell_A_Lie.mp3
+*  Data_Sound_songs_radionv_MUS_Jazz_Blues_GT.mp3
+*  Data_Sound_songs_radionv_MUS_Jazz_Club_Blues_CAS.mp3
+*  Data_Sound_songs_radionv_MUS_Jingle_Jangle_Jingle.mp3
+*  Data_Sound_songs_radionv_MUS_Joe_Cool_CAS.mp3
+*  Data_Sound_songs_radionv_MUS_Johnny_Guitar.mp3
+*  Data_Sound_songs_radionv_MUS_Lazy_Day_Blues.mp3
+*  Data_Sound_songs_radionv_MUS_Let_s_Ride_Into_The_Sunset_Together.mp3
+*  Data_Sound_songs_radionv_MUS_Lone_Star.mp3
+*  Data_Sound_songs_radionv_MUS_Love_Me_As_Though_No_Tomorrow.mp3
+*  Data_Sound_songs_radionv_MUS_Mad_About_The_Boy.mp3
+*  Data_Sound_songs_radionv_MUS_Manhattan.mp3
+*  Data_Sound_songs_radionv_MUS_NewVegasValley.mp3
+*  Data_Sound_songs_radionv_MUS_Piano_Concerto_No_21__Elvira_Madigan.mp3
+*  Data_Sound_songs_radionv_MUS_Ride_Of_The_Valkyries_01.mp3
+*  Data_Sound_songs_radionv_MUS_Roundhouse_Rock.mp3
+*  Data_Sound_songs_radionv_MUS_Sit_And_Dream.mp3
+*  Data_Sound_songs_radionv_MUS_Sleepy_Town_Blues_CAS.mp3
+*  Data_Sound_songs_radionv_MUS_Slow_Bounce.mp3
+*  Data_Sound_songs_radionv_MUS_Slow_Sax_KOS.mp3
+*  Data_Sound_songs_radionv_MUS_Somethings_Gotta_Give.mp3
+*  Data_Sound_songs_radionv_MUS_Spring_Song_KPMC.mp3
+*  Data_Sound_songs_radionv_MUS_Stars_Of_The_Midnight_Range.mp3
+*  Data_Sound_songs_radionv_MUS_Strahlende_Trompete.mp3
+*  Data_Sound_songs_radionv_MUS_StreetsOfNewReno.mp3
+*  Data_Sound_songs_radionv_MUS_Von_Spanien_Nach_S_damerika.mp3
+*  Data_Sound_songs_radionv_MUS_Where_Have_You_Been_All_My_Life.mp3
+*  Data_Sound_songs_radionv_MUS_Why_Dont_You_Do_Right.mp3
+*  Data_TribalPack - Main.bsa
+*  Data_TribalPack.esm
+*  Data_TribalPack.nam
+*  Data_Update.bsa
+*  Data_Video_FNVIntro.bik
+*  [Decals Plus-93683-1-1-1773598710.7z](https://www.nexusmods.com/newvegas/mods/93683/?tab=files&file_id=1000171905)
 *  [Decaying Ferals-83726-0-01-1699482598.7z](https://www.nexusmods.com/newvegas/mods/83726/?tab=files&file_id=1000118818)
 *  [Decent LOD Kit-88979-1-11-1767363680.7z](https://www.nexusmods.com/newvegas/mods/88979/?tab=files&file_id=1000165053)
 *  [Decent Prospector Saloon -- Skylines patch-95393-1-0-1767220249.7z](https://www.nexusmods.com/newvegas/mods/95393/?tab=files&file_id=1000164903)
 *  [Decent Prospector Saloon-95393-1-10-1769526941.7z](https://www.nexusmods.com/newvegas/mods/95393/?tab=files&file_id=1000167690)
-*  [Decent Rock Rubble-94161-1-1-1760153738.7z](https://www.nexusmods.com/newvegas/mods/94161/?tab=files&file_id=1000159516)
+*  [Decent Rock Rubble-94161-1-02-1773481743.7z](https://www.nexusmods.com/newvegas/mods/94161/?tab=files&file_id=1000171777)
 *  [Decent Rubble Piles-88125-1-07-1762037468.7z](https://www.nexusmods.com/newvegas/mods/88125/?tab=files&file_id=1000160671)
-*  [Decent Yucca Trees-94766-1-01-1767367961.7z](https://www.nexusmods.com/newvegas/mods/94766/?tab=files&file_id=1000165060)
-*  [Deimos FNV Loading Screens Optimized-93948-1-8-1769977834.7z](https://www.nexusmods.com/newvegas/mods/93948/?tab=files&file_id=1000168254)
+*  [Decent Yucca Trees-94766-1-02-1773481097.7z](https://www.nexusmods.com/newvegas/mods/94766/?tab=files&file_id=1000171776)
+*  [Deimos FNV Loading Screens Optimized-93948-2-0-1774286158.7z](https://www.nexusmods.com/newvegas/mods/93948/?tab=files&file_id=1000172426)
 *  [Delayed Malcolm (AUGMENTED)-90077-1-4-1757627001.zip](https://www.nexusmods.com/newvegas/mods/90077/?tab=files&file_id=1000157838)
 *  [Depth of Field Fix-81200-1-2-1765473353.7z](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000162968)
-*  [Depth Resolve - NVSE-93991-1-3-0-1769783408.7z](https://www.nexusmods.com/newvegas/mods/93991/?tab=files&file_id=1000167981)
+*  [Depth Resolve - NVSE-93991-1-3-1-1773247822.7z](https://www.nexusmods.com/newvegas/mods/93991/?tab=files&file_id=1000171582)
 *  [Desaturated Textures-66898-1-1556925500.7z](https://www.nexusmods.com/newvegas/mods/66898/?tab=files&file_id=1000053599)
 *  [Desert Interiors - Life in the Apocalypse-92523-1-15-1751372760.zip](https://www.nexusmods.com/newvegas/mods/92523/?tab=files&file_id=1000154131)
 *  [Desert Interiors Patch-94449-1-0-0-1762216048.zip](https://www.nexusmods.com/newvegas/mods/94449/?tab=files&file_id=1000160769)
-*  [Desert Landscapes-84284-3-5-1-1731512917.zip](https://www.nexusmods.com/newvegas/mods/84284/?tab=files&file_id=1000142885)
 *  [Desert Natural Creatures-81493-1-2-2-1744400268.rar](https://www.nexusmods.com/newvegas/mods/81493/?tab=files&file_id=1000149987)
 *  [Desert Natural Weathers NV-75437-7-9-2-1768463308.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000166453)
 *  [Desert Outskirts-94291-1-1761139036.zip](https://www.nexusmods.com/newvegas/mods/94291/?tab=files&file_id=1000160069)
@@ -289,13 +580,13 @@
 *  [DM Glowing Codes - DLC Enhancements-92714-1-0-1750752065.zip](https://www.nexusmods.com/newvegas/mods/92714/?tab=files&file_id=1000153848)
 *  [DM Glowing Codes - VanillaTTW-92714-1-1-1750751958.zip](https://www.nexusmods.com/newvegas/mods/92714/?tab=files&file_id=1000153846)
 *  [DM-MiscTexPack1b-hf-67768-0-1b-hf-1572170417.zip](https://www.nexusmods.com/newvegas/mods/67768/?tab=files&file_id=1000057126)
+*  [DM's Aerotech - Revised Mojave Patch-93558-1-0-1756137025.zip](https://www.nexusmods.com/newvegas/mods/93558/?tab=files&file_id=1000156780)
 *  [DM's Aerotech Office Park-91055-1-1-1755076757.7z](https://www.nexusmods.com/newvegas/mods/91055/?tab=files&file_id=1000156133)
 *  [DM's Camp Golf - American Remains-94715-1-0-1764592726.7z](https://www.nexusmods.com/newvegas/mods/94715/?tab=files&file_id=1000162261)
 *  [DM's Camp Golf Open Tents Patch-94715-any-1764592693.7z](https://www.nexusmods.com/newvegas/mods/94715/?tab=files&file_id=1000162260)
-*  [DM's Court of the Crimson Caravan-83504-1-1-1768197869.7z](https://www.nexusmods.com/newvegas/mods/83504/?tab=files&file_id=1000166184)
-*  [DM's Crimson Caravan YUP Patch-83504-any-1767954152.7z](https://www.nexusmods.com/newvegas/mods/83504/?tab=files&file_id=1000165908)
 *  [DM's Great Khan Culture-83506-1-0-1755655873.7z](https://www.nexusmods.com/newvegas/mods/83506/?tab=files&file_id=1000156453)
 *  [DM's Jacobstown - Goodies Patch-89391-1-0-1749766007.zip](https://www.nexusmods.com/newvegas/mods/89391/?tab=files&file_id=1000153312)
+*  [DM's Jacobstown - Mojave Scenery Overhaul Patch-93906-1-0-1758297038.zip](https://www.nexusmods.com/newvegas/mods/93906/?tab=files&file_id=1000158305)
 *  [DM's Jacobstown-92068-1-0-1763353677.7z](https://www.nexusmods.com/newvegas/mods/92068/?tab=files&file_id=1000161549)
 *  [DM's Mick's Gun Store How Little We Know-86258-0-1-1732177542.7z](https://www.nexusmods.com/newvegas/mods/86258/?tab=files&file_id=1000143242)
 *  [DM's Miguel's Pawn Shop - 1979-82611-1-1-1738568535.7z](https://www.nexusmods.com/newvegas/mods/82611/?tab=files&file_id=1000146240)
@@ -303,24 +594,23 @@
 *  [DM's Ranger Stations 1.4-92351-1-4-1755053186.7z](https://www.nexusmods.com/newvegas/mods/92351/?tab=files&file_id=1000156123)
 *  [DM's Ranger Stations 1.4-92351-1-5-1767996507.7z](https://www.nexusmods.com/newvegas/mods/92351/?tab=files&file_id=1000165962)
 *  [DM's Ranger Stations Patch The Living Desert-92351-any-1753846979.7z](https://www.nexusmods.com/newvegas/mods/92351/?tab=files&file_id=1000155469)
-*  [DM's Ranger Stations Patch YUP-92351-any-1753851951.zip](https://www.nexusmods.com/newvegas/mods/92351/?tab=files&file_id=1000155471)
-*  [DM's Toxic Cave - Enclave Remnants Bunker-83981-0-1-1702509674.7z](https://www.nexusmods.com/newvegas/mods/83981/?tab=files&file_id=1000120366)
 *  [DM's Van Graff Runnin with the Devil-86252-InitialRelease-1714357823.7z](https://www.nexusmods.com/newvegas/mods/86252/?tab=files&file_id=1000129115)
 *  [DM's Vault 19 Poseidon Pit Stop-81301-1-3-1738570778.7z](https://www.nexusmods.com/newvegas/mods/81301/?tab=files&file_id=1000146243)
 *  [DM's Westside - Like a Rolling Stone MERGED-90605-1-2-1738138321.7z](https://www.nexusmods.com/newvegas/mods/90605/?tab=files&file_id=1000146028)
+*  [DM's Westside - Revised Mojave Patch-93503-2-0-1759372525.zip](https://www.nexusmods.com/newvegas/mods/93503/?tab=files&file_id=1000159057)
 *  [DM's Westside TLD PATCH-90605-any-1737175405.7z](https://www.nexusmods.com/newvegas/mods/90605/?tab=files&file_id=1000145503)
 *  [DMR (4k)-67628-2-0-1570216020.7z](https://www.nexusmods.com/newvegas/mods/67628/?tab=files&file_id=1000056713)
+*  [DMs Ranger Stations Patch-92669-1-1-1766532912.zip](https://www.nexusmods.com/newvegas/mods/92669/?tab=files&file_id=1000164131)
 *  [Dog Sneak Animations-96002-1-02-1769486591.7z](https://www.nexusmods.com/newvegas/mods/96002/?tab=files&file_id=1000167654)
 *  [Dramatic Inertia - 3rd Person Movement Overhaul-82035-1-6-1720381638.zip](https://www.nexusmods.com/newvegas/mods/82035/?tab=files&file_id=1000135800)
-*  [DRPAO NV Only 1.12-90313-1-12-1751853787.zip](https://www.nexusmods.com/newvegas/mods/90313/?tab=files&file_id=1000154423)
 *  [Dry Wells - Idle Variety Patch-88180-1-0-1766438910.rar](https://www.nexusmods.com/newvegas/mods/88180/?tab=files&file_id=1000164026)
 *  [Dry Wells - Legion Expansion-88180-1-2-1725562277.zip](https://www.nexusmods.com/newvegas/mods/88180/?tab=files&file_id=1000139384)
 *  [Dry Wells and Desert Natural Weathers Patch-88180-1-2-1725562414.zip](https://www.nexusmods.com/newvegas/mods/88180/?tab=files&file_id=1000139385)
 *  [Dusty Distance Redone-75183-2-2-1756387913.zip](https://www.nexusmods.com/newvegas/mods/75183/?tab=files&file_id=1000156967)
 *  [DXVK 1.10.1-79299-1-10-1-1672125216.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102855)
 *  [DXVK 1.10.3-79299-1-10-3-1672125190.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102854)
+*  [DXVK 2.6.1 - HDR-79299-2-6-1-1748789011.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000152829)
 *  [DXVK 2.6.1-79299-2-6-1-1748788948.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000152828)
-*  [DXVK 2.6.2 - HDR-79299-2-6-2-1754586204.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000155818)
 *  [Dynamic Ambient Dialogue-93524-1-1-1756743999.7z](https://www.nexusmods.com/newvegas/mods/93524/?tab=files&file_id=1000157255)
 *  [Dynamic Dimmer-95242-1-1766453678.zip](https://www.nexusmods.com/newvegas/mods/95242/?tab=files&file_id=1000164053)
 *  [Dynamic Interaction Icons - Default Alternate-91449-1-0-1742559699.7z](https://www.nexusmods.com/newvegas/mods/91449/?tab=files&file_id=1000148648)
@@ -328,17 +618,19 @@
 *  [Dynamic Progression-89978-1-2-1740179618.7z](https://www.nexusmods.com/newvegas/mods/89978/?tab=files&file_id=1000147176)
 *  [Earthblighted Tunnelers-84319-0-01-1703987665.7z](https://www.nexusmods.com/newvegas/mods/84319/?tab=files&file_id=1000121171)
 *  [Ed-E Sneak Animations-94901-1-0-1765067935.7z](https://www.nexusmods.com/newvegas/mods/94901/?tab=files&file_id=1000162583)
+*  [EDEM - Weathers Revised Patch-73803-1-4-1-1724693208.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000138789)
 *  [Edit Rattan Cowboy Hat Improved-91405-1-1741959484.7z](https://www.nexusmods.com/newvegas/mods/91405/?tab=files&file_id=1000148244)
 *  [Elegant Lockpick Interface-75670-1-0-0-1647144127.7z](https://www.nexusmods.com/newvegas/mods/75670/?tab=files&file_id=1000089084)
 *  [Elijah Missing Distortion Fix-77073-1-0-1691326711.zip](https://www.nexusmods.com/newvegas/mods/77073/?tab=files&file_id=1000114386)
 *  [Enchanced Movement Skeleton Patch-75788-3-1-1768480746.7z](https://www.nexusmods.com/newvegas/mods/75788/?tab=files&file_id=1000166463)
 *  [Engine Optimizations-80993-1-0-1693171685.zip](https://www.nexusmods.com/newvegas/mods/80993/?tab=files&file_id=1000115492)
 *  [Enhanced Animations - 3rd Person Movement-95967-1-03a-1770701133.7z](https://www.nexusmods.com/newvegas/mods/95967/?tab=files&file_id=1000169128)
-*  [Enhanced Animations - Pip-Boy-96088-1-20-1771011273.7z](https://www.nexusmods.com/newvegas/mods/96088/?tab=files&file_id=1000169349)
-*  [Enhanced Blood and Gore-88111-4-0-1737476838.zip](https://www.nexusmods.com/newvegas/mods/88111/?tab=files&file_id=1000145651)
+*  [Enhanced Animations - Pip-Boy-96088-1-21-1771043990.7z](https://www.nexusmods.com/newvegas/mods/96088/?tab=files&file_id=1000169396)
+*  [Enhanced Blood and Gore - Realism-88111-4-5-1771102161.zip](https://www.nexusmods.com/newvegas/mods/88111/?tab=files&file_id=1000169449)
 *  [Enhanced Camera 1.4f hotfix-86690-1-4f-1719384716.zip](https://www.nexusmods.com/newvegas/mods/86690/?tab=files&file_id=1000135063)
 *  [Enhanced Camera Double Arms fix - EM Patch-91383-1-5-1766700070.zip](https://www.nexusmods.com/newvegas/mods/91383/?tab=files&file_id=1000164327)
 *  [Enhanced Camera Sneak Spine Fix-95372-1-0-1767121684.zip](https://www.nexusmods.com/newvegas/mods/95372/?tab=files&file_id=1000164782)
+*  [Enhanced Console Autocomplete-95031-1-1-0-1773778844.zip](https://www.nexusmods.com/newvegas/mods/95031/?tab=files&file_id=1000172057)
 *  [Enhanced Creatures INI-92824-1-10-1767339533.7z](https://www.nexusmods.com/newvegas/mods/92824/?tab=files&file_id=1000165037)
 *  [Enhanced Creatures-92824-1-11a-1769216695.7z](https://www.nexusmods.com/newvegas/mods/92824/?tab=files&file_id=1000167376)
 *  [Enhanced FOV INI-92406-1-1-1765589977.7z](https://www.nexusmods.com/newvegas/mods/92406/?tab=files&file_id=1000163095)
@@ -349,13 +641,14 @@
 *  [Enhanced Movement INI-85459-1-41-1766398888.7z](https://www.nexusmods.com/newvegas/mods/85459/?tab=files&file_id=1000163983)
 *  [Enhanced Movement-85459-1-43-1769554260.7z](https://www.nexusmods.com/newvegas/mods/85459/?tab=files&file_id=1000167739)
 *  [Enhanced-92907-1-1752108326.zip](https://www.nexusmods.com/newvegas/mods/92907/?tab=files&file_id=1000154561)
+*  [ESM Mod Patch Collection-96267-1-086-1772494977.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000170873)
 *  [ESP-ESM Explorer-89638-2-1-1762255818.7z](https://www.nexusmods.com/newvegas/mods/89638/?tab=files&file_id=1000160801)
-*  [Essential DLC Enhancements Merged-73803-1-4-3-1770540162.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000168950)
+*  [Essential DLC Enhancements Merged-73803-1-4-5-1773579327.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000171873)
 *  [Exit Categories with Tab-86715-1-1-1715572435.zip](https://www.nexusmods.com/newvegas/mods/86715/?tab=files&file_id=1000130857)
 *  [Explosion Reactions - INI-92667-1-5-0-1766599455.zip](https://www.nexusmods.com/newvegas/mods/92667/?tab=files&file_id=1000164219)
 *  [Explosion Reactions-92667-1-5-0-1766599409.zip](https://www.nexusmods.com/newvegas/mods/92667/?tab=files&file_id=1000164218)
 *  [Explosives (ESPLESS)-93058-1-1-1766425633.7z](https://www.nexusmods.com/newvegas/mods/93058/?tab=files&file_id=1000164004)
-*  [Exterior Emittance Fix-80443-1-2-1688312414.zip](https://www.nexusmods.com/newvegas/mods/80443/?tab=files&file_id=1000112319)
+*  [External Emittance Fix-80443-1-31-1772535555.7z](https://www.nexusmods.com/newvegas/mods/80443/?tab=files&file_id=1000170915)
 *  [Extras - Hi-Res Logos-74365-Extras-1711153684.7z](https://www.nexusmods.com/newvegas/mods/74365/?tab=files&file_id=1000126069)
 *  [Extras - JIP MiniMap Textures Replacer-74365-Extras-1653246498.7z](https://www.nexusmods.com/newvegas/mods/74365/?tab=files&file_id=1000092914)
 *  [Extras - Stewie's Tweaks Sorting Icons Replacer-74365-Extras-1653246511.7z](https://www.nexusmods.com/newvegas/mods/74365/?tab=files&file_id=1000092915)
@@ -367,23 +660,28 @@
 *  [F4NV Repconn Souvenir Rocket-82233-1-0-1689848144.7z](https://www.nexusmods.com/newvegas/mods/82233/?tab=files&file_id=1000113361)
 *  [F4NVAntiMaterialRifleNV-67077-1-2-1630519265.rar](https://www.nexusmods.com/newvegas/mods/67077/?tab=files&file_id=1000080502)
 *  [Fabulous New Vegas-83470-1-0-1697383767.7z](https://www.nexusmods.com/newvegas/mods/83470/?tab=files&file_id=1000117731)
-*  [Facegen EGTs-88071-1-0-1720071678.zip](https://www.nexusmods.com/newvegas/mods/88071/?tab=files&file_id=1000135569)
 *  [Faction Disguise De-Scripter-87166-1-2-1-1716829492.zip](https://www.nexusmods.com/newvegas/mods/87166/?tab=files&file_id=1000132574)
+*  [Faction Wasteland Presence-73524-5-6-1772823073.zip](https://www.nexusmods.com/newvegas/mods/73524/?tab=files&file_id=1000171223)
 *  [Faded Inventory Ycons-78674-1-0-1666007648.7z](https://www.nexusmods.com/newvegas/mods/78674/?tab=files&file_id=1000099956)
 *  [Faded Version-78509-1-0-1664702046.7z](https://www.nexusmods.com/newvegas/mods/78509/?tab=files&file_id=1000099456)
 *  [Fallout 76 Loading Menu-85663-1-0-1-1711658342.7z](https://www.nexusmods.com/newvegas/mods/85663/?tab=files&file_id=1000126465)
 *  [Fallout Alpha Rendering Tweaks-80316-2-5-2-1710935866.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000125920)
 *  [Fallout TTW Reforged (Enclave and Bunkers) Max-96239-1-1770431741.rar](https://www.nexusmods.com/newvegas/mods/96239/?tab=files&file_id=1000168779)
 *  [Fallout TTW Reforged (Vault Clean)-96245-1-1770441355.rar](https://www.nexusmods.com/newvegas/mods/96245/?tab=files&file_id=1000168798)
+*  [Fallout TTW Reforged (Vault Ruined)-96410-1-1771200998.rar](https://www.nexusmods.com/newvegas/mods/96410/?tab=files&file_id=1000169560)
+*  [Fallout TV Show Style Pip Boy Always On Screen-96666-1-1772469262.zip](https://www.nexusmods.com/newvegas/mods/96666/?tab=files&file_id=1000170827)
+*  Fallout_default.ini
+*  FalloutNV.exe
+*  FalloutNV.ico
+*  FalloutNVLauncher.exe
 *  [Famine Exception Patches-87249-1-2-1755625980.7z](https://www.nexusmods.com/newvegas/mods/87249/?tab=files&file_id=1000156429)
-*  [Famine-74985-1-4-1-1721555484.7z](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000136661)
+*  [Famine-74985-1-4-3-1773573439.7z](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000171868)
 *  [Fast Doctors-92704-1-05-1750651314.7z](https://www.nexusmods.com/newvegas/mods/92704/?tab=files&file_id=1000153776)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Sleep Wait-66785-2-0-1693172568.zip](https://www.nexusmods.com/newvegas/mods/66785/?tab=files&file_id=1000115499)
 *  [Faster Start Menu-67811-2-0-1693172473.zip](https://www.nexusmods.com/newvegas/mods/67811/?tab=files&file_id=1000115498)
 *  [Female Exhale Sounds-89228-1-0-1727505353.rar](https://www.nexusmods.com/newvegas/mods/89228/?tab=files&file_id=1000140445)
 *  [FetalPositionSkeleton-84260-1-6-1714184420.zip](https://www.nexusmods.com/newvegas/mods/84260/?tab=files&file_id=1000128806)
-*  [Fixed Meshes For Popular Strip Overhaul Mods-91312-1-0-1741507620.zip](https://www.nexusmods.com/newvegas/mods/91312/?tab=files&file_id=1000147920)
 *  [Fixes Molten Texture path-72420-V3-1621923868.rar](https://www.nexusmods.com/newvegas/mods/72420/?tab=files&file_id=1000076518)
 *  [Flag Alpha Fixes-90116-1-1733329569.zip](https://www.nexusmods.com/newvegas/mods/90116/?tab=files&file_id=1000143746)
 *  [Flags HD 2K-85595-1-2-1713907853.7z](https://www.nexusmods.com/newvegas/mods/85595/?tab=files&file_id=1000128431)
@@ -420,18 +718,19 @@
 *  [FTO - Robots - Sentry bot 2K-86606-1-0-1714924505.7z](https://www.nexusmods.com/newvegas/mods/86606/?tab=files&file_id=1000129964)
 *  [FTO - Robots - Sentry turrets 4K-86644-1-0-1715012900.7z](https://www.nexusmods.com/newvegas/mods/86644/?tab=files&file_id=1000130086)
 *  [Furniture Variation-90259-1-1-1738450073.7z](https://www.nexusmods.com/newvegas/mods/90259/?tab=files&file_id=1000146147)
+*  GDFFalloutNV.dll
 *  [GECK Extender - Config-64888-0-46-1720022640.zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000135537)
 *  [Geck Extender-64888-0-5-1767025476.7z](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000164673)
 *  [Geck-64888-0-48-1739395409 (1).zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000146712)
+*  [ggmods-754-mac10-ttw-5.4.zip](https://ggmods.com/download/754/3219)
 *  [Ghouls Inflict Radiation Damage-77401-3-5-1758992456.zip](https://www.nexusmods.com/newvegas/mods/77401/?tab=files&file_id=1000158753)
 *  [Gloomy Graves - 1k-92732-1-0-1750843137.zip](https://www.nexusmods.com/newvegas/mods/92732/?tab=files&file_id=1000153917)
 *  [Glowing Cazadors and Retexture-78123-0-01-1661403649.7z](https://www.nexusmods.com/newvegas/mods/78123/?tab=files&file_id=1000098146)
 *  [Gold Bar - B42 Interact-91239-1-0-1741028584.rar](https://www.nexusmods.com/newvegas/mods/91239/?tab=files&file_id=1000147666)
-*  [Goodies - Brave New World Revoice Only Scripted-91038-2-3-3-2-1758463499.7z](https://www.nexusmods.com/newvegas/mods/91038/?tab=files&file_id=1000158411)
-*  [Goodies - Sandy Roads Patch-91038-1-0-1740384214.7z](https://www.nexusmods.com/newvegas/mods/91038/?tab=files&file_id=1000147306)
+*  [Goodies - Brave New World (All versions)-91038-2-4-1771359960.7z](https://www.nexusmods.com/newvegas/mods/91038/?tab=files&file_id=1000169730)
 *  [Goodies - WAP Tweaks-95778-1-0-1768362412.7z](https://www.nexusmods.com/newvegas/mods/95778/?tab=files&file_id=1000166370)
-*  [Goodies INI-91028-2-3-4-1761672886.7z](https://www.nexusmods.com/newvegas/mods/91028/?tab=files&file_id=1000160404)
-*  [Goodies-91028-2-3-5a-1765073817.7z](https://www.nexusmods.com/newvegas/mods/91028/?tab=files&file_id=1000162587)
+*  [Goodies INI-91028-2-4-1771030567.7z](https://www.nexusmods.com/newvegas/mods/91028/?tab=files&file_id=1000169376)
+*  [Goodies-91028-2-4-1-2-1772238960.7z](https://www.nexusmods.com/newvegas/mods/91028/?tab=files&file_id=1000170587)
 *  [Gore Dismember and Explode Edits LE-77452-1-3-1728572222.zip](https://www.nexusmods.com/newvegas/mods/77452/?tab=files&file_id=1000141021)
 *  [GrabRotate NVSE-95178-1-1-1-1767121952.zip](https://www.nexusmods.com/newvegas/mods/95178/?tab=files&file_id=1000164784)
 *  [Graffiti Redone AIO - NV 2K-90654-1-1737269332.zip](https://www.nexusmods.com/newvegas/mods/90654/?tab=files&file_id=1000145547)
@@ -440,14 +739,14 @@
 *  [Grass for Mojave Sandy Desert - Mojave Brown-95210-1-0-1766382217.zip](https://www.nexusmods.com/newvegas/mods/95210/?tab=files&file_id=1000163971)
 *  [Grass Remesh -- DXVK transparency dithering fix-85926-1-0-1715094023.7z](https://www.nexusmods.com/newvegas/mods/85926/?tab=files&file_id=1000130201)
 *  [Grass Remesh-85926-1-0-1714762883.7z](https://www.nexusmods.com/newvegas/mods/85926/?tab=files&file_id=1000129678)
+*  [Great Giuseppe Overhaul-92669-0-930-1771024759.zip](https://www.nexusmods.com/newvegas/mods/92669/?tab=files&file_id=1000169364)
 *  [Grenade Launcher Redux-69754-1-1598273437.zip](https://www.nexusmods.com/newvegas/mods/69754/?tab=files&file_id=1000065006)
 *  [Grenade Rifle Beautification 1.1b-94262-1-1b-1761129257.rar](https://www.nexusmods.com/newvegas/mods/94262/?tab=files&file_id=1000160068)
 *  [Grounded Ranger Station Charlie-86019-0-1-1714974274.zip](https://www.nexusmods.com/newvegas/mods/86019/?tab=files&file_id=1000130026)
 *  [Gun and Friends Patch-91588-1-1-1755660099.zip](https://www.nexusmods.com/newvegas/mods/91588/?tab=files&file_id=1000156461)
 *  [Gun and Friends Perk FormList Addon NV-94356-1-1761571529.zip](https://www.nexusmods.com/newvegas/mods/94356/?tab=files&file_id=1000160342)
-*  [Gun and Friends RTR patch-93026-1-20a-1770004644.7z](https://www.nexusmods.com/newvegas/mods/93026/?tab=files&file_id=1000168310)
+*  [Gun and Friends RTR patch-93026-1-21-1773131473.7z](https://www.nexusmods.com/newvegas/mods/93026/?tab=files&file_id=1000171476)
 *  [Gun Runners Kiosk Glass Fix Alternate Version B-70293-1-1-1604874272.7z](https://www.nexusmods.com/newvegas/mods/70293/?tab=files&file_id=1000067376)
-*  [Gutted New Vegas Ruins - Fixed Navmesh and ESM-79407-1-1674520434.zip](https://www.nexusmods.com/newvegas/mods/79407/?tab=files&file_id=1000104005)
 *  [Habitable Enemy Health-91973-1-2-1756015467.7z](https://www.nexusmods.com/newvegas/mods/91973/?tab=files&file_id=1000156697)
 *  [Handsome Heart-88656-1-0-1723394451.zip](https://www.nexusmods.com/newvegas/mods/88656/?tab=files&file_id=1000137923)
 *  [Hardcore Forever (No Plugin)-75682-1-1-1648572543.7z](https://www.nexusmods.com/newvegas/mods/75682/?tab=files&file_id=1000090096)
@@ -458,29 +757,28 @@
 *  [HD Signs Part 3-82778-1-1-1697135326.7z](https://www.nexusmods.com/newvegas/mods/82778/?tab=files&file_id=1000117606)
 *  [Heaviin's Desperado Cowboyhat Retextured-79092-1-0-1669312885.zip](https://www.nexusmods.com/newvegas/mods/79092/?tab=files&file_id=1000101462)
 *  [Helios Karma-87028-1-1716070659.rar](https://www.nexusmods.com/newvegas/mods/87028/?tab=files&file_id=1000131550)
-*  [HH Weapon Overhaul-74132-1-0v-1634853431.7z](https://www.nexusmods.com/newvegas/mods/74132/?tab=files&file_id=1000082853)
 *  [Hi Res Posters-64589-0-7-1547670614.7z](https://www.nexusmods.com/newvegas/mods/64589/?tab=files&file_id=1000051593)
 *  [Hidden Valley Overhauled-70859-1-4-1686529965.zip](https://www.nexusmods.com/newvegas/mods/70859/?tab=files&file_id=1000110916)
-*  [High and Dry INI Presets-88167-5--1-1770693030.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000169123)
+*  [High and Dry INI Presets-88167-5-2-1773797590.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000172072)
 *  [High and Dry NVR Main Menu Replacer-92496-1-0-1748729605.7z](https://www.nexusmods.com/newvegas/mods/92496/?tab=files&file_id=1000152794)
-*  [High and Dry Patches-88167-5-2-1770692883.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000169122)
+*  [High and Dry Patches-88167-5-4-1774129100.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000172320)
 *  [High Poly Beards for CKR-91822-1-1-1744992397.zip](https://www.nexusmods.com/newvegas/mods/91822/?tab=files&file_id=1000150422)
 *  [High Priority Core - with NVMIM-88898-2-8-1744867903.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000150334)
 *  [High Priority LOD - Performance of the Titans-88898-2-7-1744698536.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000150218)
 *  [High Priority LOD - Remastered Quaries-88898-2-5-1728453143.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000140944)
 *  [High Priority LOD - Simple Freeside Open-88898-2-5-1728453183.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000140946)
-*  [High Priority Trees - Desert Landscapes-88898-2-5-1728453586.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000140951)
 *  [High Priority Trees - Mojave Flora Project-88898-2-7-1744700845.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000150222)
 *  [High Priority Trees - Vanilla-88898-2-7-1744698488.zip](https://www.nexusmods.com/newvegas/mods/88898/?tab=files&file_id=1000150217)
 *  [High Res Local Maps-77963-1-2-1661794525.7z](https://www.nexusmods.com/newvegas/mods/77963/?tab=files&file_id=1000098329)
 *  [High Resolution Bloom-77933-6-1743256084.7z](https://www.nexusmods.com/newvegas/mods/77933/?tab=files&file_id=1000149169)
-*  [High Resolution Screens-77989-1-1-1660681437.zip](https://www.nexusmods.com/newvegas/mods/77989/?tab=files&file_id=1000097728)
-*  [High Resolution Water Fog-78400-1-0b-1709299117.zip](https://www.nexusmods.com/newvegas/mods/78400/?tab=files&file_id=1000124717)
+*  [High Resolution Screens-77989-1-2-1771538155.7z](https://www.nexusmods.com/newvegas/mods/77989/?tab=files&file_id=1000169885)
+*  [High Resolution Water Fog-78400-1-2-1771537879.7z](https://www.nexusmods.com/newvegas/mods/78400/?tab=files&file_id=1000169883)
 *  [High-quality Inventory Icon-72075-1-2-1618943627.zip](https://www.nexusmods.com/newvegas/mods/72075/?tab=files&file_id=1000075179)
+*  high.ini
 *  [Hikikomori Modern Night Vision ini-93406-1-0-1767524855.7z](https://www.nexusmods.com/newvegas/mods/93406/?tab=files&file_id=1000165316)
 *  [Hikikomori Remake-93406-2-5-1769321941.7z](https://www.nexusmods.com/newvegas/mods/93406/?tab=files&file_id=1000167469)
 *  [HIPControl-81967-0-1b3-1688591694.7z](https://www.nexusmods.com/newvegas/mods/81967/?tab=files&file_id=1000112537)
-*  [HIQO v1.0-91501-1-0-1743641162.zip](https://www.nexusmods.com/newvegas/mods/91501/?tab=files&file_id=1000149493)
+*  [HIQO v1.1-91501-1-1-1773444752.zip](https://www.nexusmods.com/newvegas/mods/91501/?tab=files&file_id=1000171748)
 *  [HiRes Chinese Stealth Armor - Default-5666.zip](https://www.nexusmods.com/fallout3/mods/5666/?tab=files&file_id=49169)
 *  [Hit -  Power Armor Pip-Boy Anim-84046-1-1702140729.7z](https://www.nexusmods.com/newvegas/mods/84046/?tab=files&file_id=1000120160)
 *  [Hit - Automatic Rifle Redux-93618-1-1756502586.7z](https://www.nexusmods.com/newvegas/mods/93618/?tab=files&file_id=1000157051)
@@ -489,7 +787,6 @@
 *  [Hit - B42 Inject - Stimpaks-91200-1-01-1740820714.7z](https://www.nexusmods.com/newvegas/mods/91200/?tab=files&file_id=1000147588)
 *  [Hit - B42 Inject - Sunset Sarsaparilla Animations-83993-1-1701797503.7z](https://www.nexusmods.com/newvegas/mods/83993/?tab=files&file_id=1000119975)
 *  [Hit - B42 Inject - Water Anims-83812-1-1700313354.7z](https://www.nexusmods.com/newvegas/mods/83812/?tab=files&file_id=1000119196)
-*  [Hit - B42 Inject Anim Pack - Season 1 - JSawyer Ultimate Patch-80531-1-0-1679698028.7z](https://www.nexusmods.com/newvegas/mods/80531/?tab=files&file_id=1000106851)
 *  [Hit - B42 Inject Anim Pack - Season 1-80531-1-0-1679595175.7z](https://www.nexusmods.com/newvegas/mods/80531/?tab=files&file_id=1000106794)
 *  [Hit - B42 Interact - Weapons-91522-1-04-1743339905.7z](https://www.nexusmods.com/newvegas/mods/91522/?tab=files&file_id=1000149223)
 *  [Hit - B42 Interact Animation Pack-83096-1-01-1695579668.7z](https://www.nexusmods.com/newvegas/mods/83096/?tab=files&file_id=1000116809)
@@ -512,6 +809,7 @@
 *  [Holorifle Redux-69607-2-0-1598272300.zip](https://www.nexusmods.com/newvegas/mods/69607/?tab=files&file_id=1000065005)
 *  [Honest Hearts - Cave Rain Sound Fix-90744-1-0-1738017303.zip](https://www.nexusmods.com/newvegas/mods/90744/?tab=files&file_id=1000145943)
 *  [Hoover Dam Signs HD-84069-1-0-1702250763.7z](https://www.nexusmods.com/newvegas/mods/84069/?tab=files&file_id=1000120239)
+*  [Hopper Weapon Pack V 0.94-95142-0-94-1772252144.rar](https://www.nexusmods.com/newvegas/mods/95142/?tab=files&file_id=1000170601)
 *  [Horrors of The New West-68717-1-2-0-1697164593.7z](https://www.nexusmods.com/newvegas/mods/68717/?tab=files&file_id=1000117634)
 *  [Hot BnB Titans of the New West Patch-93633-1-0-1756858324.7z](https://www.nexusmods.com/newvegas/mods/93633/?tab=files&file_id=1000157351)
 *  [Hotfix 2.0.1-92826-2-0-1-1753659533.zip](https://www.nexusmods.com/newvegas/mods/92826/?tab=files&file_id=1000155351)
@@ -520,14 +818,14 @@
 *  [HQ Metal Barrels - 2K-71240-0-1-1612998446.zip](https://www.nexusmods.com/newvegas/mods/71240/?tab=files&file_id=1000071348)
 *  [HQ Signs-91964-1-0-1745356372.rar](https://www.nexusmods.com/newvegas/mods/91964/?tab=files&file_id=1000150710)
 *  [Hunting Rifle and Friends Boone's Rifle-91588-1-1745943399.zip](https://www.nexusmods.com/newvegas/mods/91588/?tab=files&file_id=1000151054)
+*  [Hymn of The New West-85227-1-1a-1771719423.7z](https://www.nexusmods.com/newvegas/mods/85227/?tab=files&file_id=1000170102)
 *  [Idle Variety - Party Banter 2 Patch-93710-1-0-0-1762565430.rar](https://www.nexusmods.com/newvegas/mods/93710/?tab=files&file_id=1000161030)
 *  [Idle Variety ESPless Patches for Various Mods-87418-1-14-1743443283.rar](https://www.nexusmods.com/newvegas/mods/87418/?tab=files&file_id=1000149302)
 *  [Idle Variety-85718-1-40e-1770605541.7z](https://www.nexusmods.com/newvegas/mods/85718/?tab=files&file_id=1000169045)
 *  [IFO4HUD-62394-3-10-1647703977.7z](https://www.nexusmods.com/newvegas/mods/62394/?tab=files&file_id=1000089486)
 *  [Illuminated Villa - Buildings Sconces-92919-0-01-1752419052.7z](https://www.nexusmods.com/newvegas/mods/92919/?tab=files&file_id=1000154696)
 *  [Immersive Critical Effects 1.07-78285-1-07-1693328209.zip](https://www.nexusmods.com/newvegas/mods/78285/?tab=files&file_id=1000115628)
-*  [ImmersiveWeaponSwitch-95356-1-1-2-1768653765.zip](https://www.nexusmods.com/newvegas/mods/95356/?tab=files&file_id=1000166661)
-*  [Improved AI (Navmesh Overhaul Mod) - NOPE Patch-96147-1-0-1770479565.zip](https://www.nexusmods.com/newvegas/mods/96147/?tab=files&file_id=1000168823)
+*  [ImmersiveWeaponSwitch-95356-1-2-0-1773488654.zip](https://www.nexusmods.com/newvegas/mods/95356/?tab=files&file_id=1000171781)
 *  [Improved Console-70801-3-1702935922.7z](https://www.nexusmods.com/newvegas/mods/70801/?tab=files&file_id=1000120606)
 *  [Improved Heavy Weapons Textures 1.5-56314-1-5.7z](https://www.nexusmods.com/newvegas/mods/56314/?tab=files&file_id=1000021522)
 *  [Improved Highways-93430-1-0-0-1762185826.zip](https://www.nexusmods.com/newvegas/mods/93430/?tab=files&file_id=1000160746)
@@ -539,7 +837,7 @@
 *  [Inspiring Interiors-89694-1-1-1741456377.7z](https://www.nexusmods.com/newvegas/mods/89694/?tab=files&file_id=1000147889)
 *  [Integrated Base Object Swapper-93564-0-01-1756174618.7z](https://www.nexusmods.com/newvegas/mods/93564/?tab=files&file_id=1000156818)
 *  [Interior Rain-79656-1-0-1673893794.zip](https://www.nexusmods.com/newvegas/mods/79656/?tab=files&file_id=1000103643)
-*  [Inviting Vaults-80872-2-0-1728599145.7z](https://www.nexusmods.com/newvegas/mods/80872/?tab=files&file_id=1000141055)
+*  [Inviting Vaults-80872-3-0-1772497430.7z](https://www.nexusmods.com/newvegas/mods/80872/?tab=files&file_id=1000170875)
 *  [Iron Sights Aligned - Mod Support-81933-2-4-1747176791.zip](https://www.nexusmods.com/newvegas/mods/81933/?tab=files&file_id=1000151774)
 *  [Iron Sights Aligned-81933-5-3-1768347575.zip](https://www.nexusmods.com/newvegas/mods/81933/?tab=files&file_id=1000166344)
 *  [ISControl-75417-2-3-1688602677.7z](https://www.nexusmods.com/newvegas/mods/75417/?tab=files&file_id=1000112545)
@@ -556,7 +854,7 @@
 *  [JIP PP LN-88687-57-54-1770614139.7z](https://www.nexusmods.com/newvegas/mods/88687/?tab=files&file_id=1000169056)
 *  [JLM Grab Tweak-83847-1-1-0-1766116733.zip](https://www.nexusmods.com/newvegas/mods/83847/?tab=files&file_id=1000163688)
 *  [JohnnyGuitar NVSE - All Tweaks Preset-86200-5-18-1757281380.7z](https://www.nexusmods.com/newvegas/mods/86200/?tab=files&file_id=1000157664)
-*  [JohnnyGuitar NVSE-66927-5-20-1765115538.7z](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000162628)
+*  [JohnnyGuitar NVSE-66927-5-23-1772469529.7z](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000170828)
 *  [Jump Sounds ESPless-88390-1-1-1722238443.zip](https://www.nexusmods.com/newvegas/mods/88390/?tab=files&file_id=1000137120)
 *  [Just Assorted Mods-66666-4-6-1717763151.7z](https://www.nexusmods.com/newvegas/mods/66666/?tab=files&file_id=1000133586)
 *  [Just Bullet Time DoF-84680-1-2-1708970359.zip](https://www.nexusmods.com/newvegas/mods/84680/?tab=files&file_id=1000124475)
@@ -569,7 +867,7 @@
 *  [KEYWORDS-83088-1-01-1695964898.7z](https://www.nexusmods.com/newvegas/mods/83088/?tab=files&file_id=1000117046)
 *  [Khan Assets (more pronounced signs)-72798-V1-1624577442.rar](https://www.nexusmods.com/newvegas/mods/72798/?tab=files&file_id=1000077939)
 *  [Killer Khans-90740-V1-1-1741007544.zip](https://www.nexusmods.com/newvegas/mods/90740/?tab=files&file_id=1000147658)
-*  [Kilter Radio-96251-1-1-1770721200.zip](https://www.nexusmods.com/newvegas/mods/96251/?tab=files&file_id=1000169132)
+*  [Kilter Radio - Optional Tracks Included-96251-2-0-1771243200.zip](https://www.nexusmods.com/newvegas/mods/96251/?tab=files&file_id=1000169600)
 *  [Kings Sign Dancer Animation-91059-1-00-1739824036.rar](https://www.nexusmods.com/newvegas/mods/91059/?tab=files&file_id=1000147005)
 *  [kNVSE-71336-37-1731454771.7z](https://www.nexusmods.com/newvegas/mods/71336/?tab=files&file_id=1000142858)
 *  [L38 WR Patch-92023-1-1745757639.zip](https://www.nexusmods.com/newvegas/mods/92023/?tab=files&file_id=1000150924)
@@ -595,7 +893,7 @@
 *  [Lip Motion Fix-94581-0-6-1763445215.7z](https://www.nexusmods.com/newvegas/mods/94581/?tab=files&file_id=1000161602)
 *  [Lived-In Freeside - Simple Open Freeside-92675-1-0-0-1755884566.zip](https://www.nexusmods.com/newvegas/mods/92675/?tab=files&file_id=1000156608)
 *  [Lived-In Freeside-93496-1-0-2-1756305033.7z](https://www.nexusmods.com/newvegas/mods/93496/?tab=files&file_id=1000156921)
-*  [Lived-In New Vegas-95255-1-0-3-2-1769792009.7z](https://www.nexusmods.com/newvegas/mods/95255/?tab=files&file_id=1000167991)
+*  [Lived-In Patch-92669-2-2-1766533047.zip](https://www.nexusmods.com/newvegas/mods/92669/?tab=files&file_id=1000164133)
 *  [Lived-In Strip-91279-1-6-0-1770336657.7z](https://www.nexusmods.com/newvegas/mods/91279/?tab=files&file_id=1000168656)
 *  [Lively Chomps and Friends-88758-1-1723901329.zip](https://www.nexusmods.com/newvegas/mods/88758/?tab=files&file_id=1000138249)
 *  [Lively Grub n' Gulp - Config File-93630-config1-1756591484.zip](https://www.nexusmods.com/newvegas/mods/93630/?tab=files&file_id=1000157133)
@@ -607,6 +905,7 @@
 *  [LOD Flicker Fix - NVSE-91705-1-2-1-1761791245.7z](https://www.nexusmods.com/newvegas/mods/91705/?tab=files&file_id=1000160476)
 *  [LODadditions-61206-1-07-1604265497.7z](https://www.nexusmods.com/newvegas/mods/61206/?tab=files&file_id=1000067094)
 *  [LODIFY FNV Wall_SoGB Editon-84165-0-8-1-1708270337.7z](https://www.nexusmods.com/newvegas/mods/84165/?tab=files&file_id=1000123914)
+*  [Lonesome Sandy Roads-96795-1-0-1772947105.zip](https://www.nexusmods.com/newvegas/mods/96795/?tab=files&file_id=1000171328)
 *  [Long 15 - CRUSLP ESPless-95004-1-1-1765575824.rar](https://www.nexusmods.com/newvegas/mods/95004/?tab=files&file_id=1000163072)
 *  [Long 15 - Desert Natural Weathers Patch-94306-1-0-1767149359.7z](https://www.nexusmods.com/newvegas/mods/94306/?tab=files&file_id=1000164824)
 *  [Long 15 - Idle Variety Patch-94306-1-0-1766430698.rar](https://www.nexusmods.com/newvegas/mods/94306/?tab=files&file_id=1000164009)
@@ -614,13 +913,17 @@
 *  [Long 15 Reloaded NAVO Patch-94938-1-0-1765495563.zip](https://www.nexusmods.com/newvegas/mods/94938/?tab=files&file_id=1000163001)
 *  [Long 15 Type 4-95318-v1-0-1766833186.zip](https://www.nexusmods.com/newvegas/mods/95318/?tab=files&file_id=1000164469)
 *  [Longer Weather Transitions ESPLess-85286-1-0-1709495033.rar](https://www.nexusmods.com/newvegas/mods/85286/?tab=files&file_id=1000124884)
+*  [Lootable Terminals-96955-1-0-1773760864.7z](https://www.nexusmods.com/newvegas/mods/96955/?tab=files&file_id=1000172037)
 *  [Lore-Consistent Animated Terminal Screens-93239-1-1-0a-1755198116.zip](https://www.nexusmods.com/newvegas/mods/93239/?tab=files&file_id=1000156215)
+*  low.ini
 *  [LR Karma-91353-1-1741696084.rar](https://www.nexusmods.com/newvegas/mods/91353/?tab=files&file_id=1000148029)
 *  [lStewieAl - Cookable Grenades-81678-1-0-1692310563.zip](https://www.nexusmods.com/newvegas/mods/81678/?tab=files&file_id=1000114959)
 *  [lStewieAl - Menu Search-81743-1-0-1692310380.zip](https://www.nexusmods.com/newvegas/mods/81743/?tab=files&file_id=1000114957)
 *  [Lucky 38 Exterior Remastered - Compatibility Editi-86590-3-0-1756495318.zip](https://www.nexusmods.com/newvegas/mods/86590/?tab=files&file_id=1000157040)
 *  [Lucky 38 Exterior Remastered 1.1-81005-1-1-1683419576.zip](https://www.nexusmods.com/newvegas/mods/81005/?tab=files&file_id=1000108857)
 *  [Lucky 38 Lights Redone-73273-2-6-1-1644119314.7z](https://www.nexusmods.com/newvegas/mods/73273/?tab=files&file_id=1000087216)
+*  [Lucky 38 Mojave View - Optional Meshes-96444-1-0-0-1771340072.zip](https://www.nexusmods.com/newvegas/mods/96444/?tab=files&file_id=1000169698)
+*  [Lucky 38 Window View - Core-96444-1-0-0-1771339941.zip](https://www.nexusmods.com/newvegas/mods/96444/?tab=files&file_id=1000169697)
 *  [Lumen - Physically Based Beverages Patch-81060-1-0-1686646813.zip](https://www.nexusmods.com/newvegas/mods/81060/?tab=files&file_id=1000111022)
 *  [Lumen - Physically Based Chems Patch-81060-1-0-1751028694.zip](https://www.nexusmods.com/newvegas/mods/81060/?tab=files&file_id=1000154018)
 *  [Lumen - Physically Based Plasma Rifles Patch-81060-1-0-1704414038.zip](https://www.nexusmods.com/newvegas/mods/81060/?tab=files&file_id=1000121450)
@@ -646,33 +949,34 @@
 *  [McCarran_Glass_transparency_Vanilla_version-69041-1-5-1591461498.zip](https://www.nexusmods.com/newvegas/mods/69041/?tab=files&file_id=1000062608)
 *  [Mccarranglass-63284-1-0.rar](https://www.nexusmods.com/newvegas/mods/63284/?tab=files&file_id=1000041823)
 *  [MCM BugFix 2-42507-.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=1000001534)
-*  [MCM Extender-93642-1-5-2-1770768064.zip](https://www.nexusmods.com/newvegas/mods/93642/?tab=files&file_id=1000169180)
-*  [Medical Clinic Overhaul (keylancer13) Patch-96267-1-0-1770539387.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000168947)
+*  [MCM Extender-93642-1-5-3-1771454275.zip](https://www.nexusmods.com/newvegas/mods/93642/?tab=files&file_id=1000169808)
 *  [Medicine Stick Buff - Vanilla Plus (Espless)-91858-1-0-1744730496.rar](https://www.nexusmods.com/newvegas/mods/91858/?tab=files&file_id=1000150240)
+*  medium.ini
 *  [Melee Hitstop (ESPless)-92543-1-4-1-1763460080.zip](https://www.nexusmods.com/newvegas/mods/92543/?tab=files&file_id=1000161614)
-*  [Melee Weapons - B42s Replacers (ESPLESS)-92350-2-4-1769995608.7z](https://www.nexusmods.com/newvegas/mods/92350/?tab=files&file_id=1000168297)
+*  [Melee Weapons - B42s Replacers (ESPLESS)-92350-2-5A-1772667543.7z](https://www.nexusmods.com/newvegas/mods/92350/?tab=files&file_id=1000171064)
 *  [Melee Weapons (ESPLESS)-92350-2-5-1770502785.7z](https://www.nexusmods.com/newvegas/mods/92350/?tab=files&file_id=1000168872)
 *  [Menace of The New West-78217-1-2-1709101271.7z](https://www.nexusmods.com/newvegas/mods/78217/?tab=files&file_id=1000124576)
 *  [Mesh Replacer - Billiards-89296-1-01-1728057145.zip](https://www.nexusmods.com/newvegas/mods/89296/?tab=files&file_id=1000140755)
 *  [MG - Season I - B42 Inject Animation Pack-90834-1-3-1740464802.rar](https://www.nexusmods.com/newvegas/mods/90834/?tab=files&file_id=1000147398)
-*  [Micro Clutter - 2k-74267-1-3-1754175814.zip](https://www.nexusmods.com/newvegas/mods/74267/?tab=files&file_id=1000155629)
 *  [Micro Clutter - Animated Ingestibles Patch-74267-AI-1645250699.7z](https://www.nexusmods.com/newvegas/mods/74267/?tab=files&file_id=1000087916)
+*  [Micro Clutter-74267-1-4-1771392921.zip](https://www.nexusmods.com/newvegas/mods/74267/?tab=files&file_id=1000169755)
 *  [MilitaryTruckReplacerAnimationtwo-74103-V2-1634701578.rar](https://www.nexusmods.com/newvegas/mods/74103/?tab=files&file_id=1000082770)
 *  [Minimal ENB Hair Fixes-68942-1-0-1589890664.rar](https://www.nexusmods.com/newvegas/mods/68942/?tab=files&file_id=1000062055)
 *  [Minimap Icons HELIOS One Solar Panels-95214-1-0-1766373473.7z](https://www.nexusmods.com/newvegas/mods/95214/?tab=files&file_id=1000163963)
 *  [MLF-68714-5-1769799172.7z](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000168001)
 *  [Mod Organizer 2.5.2-ML1.5 Archive-874-2-5-2-ML1-5-1723841178.7z](https://www.nexusmods.com/site/mods/874/?tab=files&file_id=3835)
-*  [Models_Replacement_Movable-89608-2-3-3-1770937114.zip](https://www.nexusmods.com/newvegas/mods/89608/?tab=files&file_id=1000169294)
-*  [Modern Minimap-90574-4-0-2-1765003181.zip](https://www.nexusmods.com/newvegas/mods/90574/?tab=files&file_id=1000162509)
-*  [Modern Night Vision-84991-5-0-3-1764460264.zip](https://www.nexusmods.com/newvegas/mods/84991/?tab=files&file_id=1000162160)
+*  [Models_Replacement-89608-2-3-9-1772562997.zip](https://www.nexusmods.com/newvegas/mods/89608/?tab=files&file_id=1000170933)
+*  [Modern Minimap - INI-90574-4-1-1-1771527514.zip](https://www.nexusmods.com/newvegas/mods/90574/?tab=files&file_id=1000169872)
+*  [Modern Minimap-90574-4-1-1-1771527488.zip](https://www.nexusmods.com/newvegas/mods/90574/?tab=files&file_id=1000169871)
+*  [Modern Night Vision - INI-84991-5-1-0-1773701215.zip](https://www.nexusmods.com/newvegas/mods/84991/?tab=files&file_id=1000171989)
+*  [Modern Night Vision-84991-5-1-1-1773774642.zip](https://www.nexusmods.com/newvegas/mods/84991/?tab=files&file_id=1000172050)
 *  [Mojave Bighorners-75324-1-0-1644533070.rar](https://www.nexusmods.com/newvegas/mods/75324/?tab=files&file_id=1000087498)
 *  [Mojave Flora Project-84698-1-3-1-1745010761.zip](https://www.nexusmods.com/newvegas/mods/84698/?tab=files&file_id=1000150428)
-*  [Mojave Mountain Ranges-95940-1-0-1769888714.rar](https://www.nexusmods.com/newvegas/mods/95940/?tab=files&file_id=1000168123)
 *  [Mojave Scenery Overhaul - Sandy Roads Patch 1.4b-91040-1-4b-1750427415.7z](https://www.nexusmods.com/newvegas/mods/91040/?tab=files&file_id=1000153677)
 *  [Mojave Scenery Overhaul-89867-1-8-1759850528.7z](https://www.nexusmods.com/newvegas/mods/89867/?tab=files&file_id=1000159359)
 *  [Mojave Skylines - Exteriors-91853-2-2-1756650122.zip](https://www.nexusmods.com/newvegas/mods/91853/?tab=files&file_id=1000157164)
 *  [Mojave Wildlife - Vanilla No Chanced Spawns-64638-1-1-1-1722176699.7z](https://www.nexusmods.com/newvegas/mods/64638/?tab=files&file_id=1000137093)
-*  [Momentum (ESPless)-93957-1-1-4-1768602145.zip](https://www.nexusmods.com/newvegas/mods/93957/?tab=files&file_id=1000166596)
+*  [Momentum (ESPless)-93957-1-2-0-1771586686.zip](https://www.nexusmods.com/newvegas/mods/93957/?tab=files&file_id=1000169919)
 *  [Monorail Proper Sounds-70213-2-00-update-1619339816.rar](https://www.nexusmods.com/newvegas/mods/70213/?tab=files&file_id=1000075324)
 *  [MoonlightNVSE-77683-2-00-1708887233.7z](https://www.nexusmods.com/newvegas/mods/77683/?tab=files&file_id=1000124393)
 *  [More Detailed Perk Descriptions-92416-1-0a-1748285491.zip](https://www.nexusmods.com/newvegas/mods/92416/?tab=files&file_id=1000152484)
@@ -687,10 +991,11 @@
 *  [Mr House in Colour-88174-1-0-1720632040.zip](https://www.nexusmods.com/newvegas/mods/88174/?tab=files&file_id=1000136006)
 *  [MR.SHERSH KEYWORDS-85208-1-0-1739575370.rar](https://www.nexusmods.com/newvegas/mods/85208/?tab=files&file_id=1000146830)
 *  [MrShersh Animated Pip-Boy Light-88923-2-4-3-1734609901.rar](https://www.nexusmods.com/newvegas/mods/88923/?tab=files&file_id=1000144369)
+*  [MrShersh Functional Backpack - FOMMOD 3.0.5-87761-3-0-5-1773955045.7z](https://www.nexusmods.com/newvegas/mods/87761/?tab=files&file_id=1000172181)
+*  [MSO Patch-92669-2-3-1766248617.zip](https://www.nexusmods.com/newvegas/mods/92669/?tab=files&file_id=1000163838)
 *  [Much Needed LOD fixed rocks color-81524-1-0-1686494149.zip](https://www.nexusmods.com/newvegas/mods/81524/?tab=files&file_id=1000110885)
 *  [Much Needed LOD-64805-1-2.7z](https://www.nexusmods.com/newvegas/mods/64805/?tab=files&file_id=1000047000)
-*  [Muzzle Flash Light Fix-81201-1-0a-1709305408.7z](https://www.nexusmods.com/newvegas/mods/81201/?tab=files&file_id=1000124722)
-*  [My Kind of Gas Station - A Primm Player Home-96006-1-3-0-1770668711.zip](https://www.nexusmods.com/newvegas/mods/96006/?tab=files&file_id=1000169091)
+*  [Muzzle Flash Light Fix-81201-2-1771540121.7z](https://www.nexusmods.com/newvegas/mods/81201/?tab=files&file_id=1000169890)
 *  [Mysterious Magnum Buff - Vanilla Plus-91856-1-0-1744729907.rar](https://www.nexusmods.com/newvegas/mods/91856/?tab=files&file_id=1000150238)
 *  [Navmesh Overhaul-81003-6-0-1714019262.zip](https://www.nexusmods.com/newvegas/mods/81003/?tab=files&file_id=1000128573)
 *  [NCR Emergency Radio - B42 Inject-89624-1-0-1730012332.rar](https://www.nexusmods.com/newvegas/mods/89624/?tab=files&file_id=1000141999)
@@ -699,12 +1004,10 @@
 *  [New Vegas Animation overhaul - Guns-86354-1-1-1736376123.zip](https://www.nexusmods.com/newvegas/mods/86354/?tab=files&file_id=1000145116)
 *  [New Vegas Animation Overhaul - Melee-88830-1-0-3-1741455012.7z](https://www.nexusmods.com/newvegas/mods/88830/?tab=files&file_id=1000147888)
 *  [New Vegas Black Edition v1.1-57813-1-1.zip](https://www.nexusmods.com/newvegas/mods/57813/?tab=files&file_id=1000025148)
-*  [New Vegas Interior Optimization Project-96267-1-001-1770543160.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000168957)
-*  [New Vegas Interior Optimization Project-96267-1-031-1770941154.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000169302)
+*  [New Vegas Interior Optimization Project-96267-1-091-1772823804.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000171224)
 *  [New Vegas Mesh Improvement Mod-74295-1-13hf2-1767479772.7z](https://www.nexusmods.com/newvegas/mods/74295/?tab=files&file_id=1000165242)
 *  [New Vegas Palm Trees Enhanced-83261-2-0-1763023168.zip](https://www.nexusmods.com/newvegas/mods/83261/?tab=files&file_id=1000161348)
 *  [New Vegas Script Extender (xNVSE)-67883-6-4-5-2-1770841596.7z](https://www.nexusmods.com/newvegas/mods/67883/?tab=files&file_id=1000169233)
-*  [New Vegas Suburban Overhaul-80526-1-1-1738902381.zip](https://www.nexusmods.com/newvegas/mods/80526/?tab=files&file_id=1000146419)
 *  [NillaPlus Crate Expectations 2K-84696-1-01-1708361731.7z](https://www.nexusmods.com/newvegas/mods/84696/?tab=files&file_id=1000123995)
 *  [NillaPlus destroyed hamradio 2048-85281-1-0-1709459174.7z](https://www.nexusmods.com/newvegas/mods/85281/?tab=files&file_id=1000124863)
 *  [NillaPlus Howitz Going Artillery 4K-2K base mod-84919-1-01-1707543437.7z](https://www.nexusmods.com/newvegas/mods/84919/?tab=files&file_id=1000123400)
@@ -718,17 +1021,16 @@
 *  [No Cracked Decals-90407-1-0-0-1735432568.7z](https://www.nexusmods.com/newvegas/mods/90407/?tab=files&file_id=1000144740)
 *  [No Exit to Main Menu-86136-1-4-1746130813.zip](https://www.nexusmods.com/newvegas/mods/86136/?tab=files&file_id=1000151133)
 *  [No More Character Revision (No Plugin)-69257-2-0-1648572179.7z](https://www.nexusmods.com/newvegas/mods/69257/?tab=files&file_id=1000090095)
-*  [NOPE-96050-1-0-1-1770135479.7z](https://www.nexusmods.com/newvegas/mods/96050/?tab=files&file_id=1000168449)
-*  [Normal LOD-88167-2-4-1769469458.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000167642)
+*  [NOPE Patches FOMOD-96147-1-3-7-1772727134.zip](https://www.nexusmods.com/newvegas/mods/96147/?tab=files&file_id=1000171126)
+*  [NOPE-96050-1-0-2-1772138364.7z](https://www.nexusmods.com/newvegas/mods/96050/?tab=files&file_id=1000170485)
+*  [Normal LOD-88167-2-6-1774130360.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000172325)
 *  [Novac Karma-87026-1-01-1723696223.rar](https://www.nexusmods.com/newvegas/mods/87026/?tab=files&file_id=1000138098)
 *  [Novac Sign Animated - Version 2-86223-2-0-1713969985.rar](https://www.nexusmods.com/newvegas/mods/86223/?tab=files&file_id=1000128508)
 *  [NPCs Prone-92581-1-1-1750367309.7z](https://www.nexusmods.com/newvegas/mods/92581/?tab=files&file_id=1000153645)
 *  [NPCs React to Invisibility (ESPless)-91236-1-2-2-1754512422.zip](https://www.nexusmods.com/newvegas/mods/91236/?tab=files&file_id=1000155779)
 *  [NPCs Sprint kNVSE - ESPless-83745-1-32-1766311829.7z](https://www.nexusmods.com/newvegas/mods/83745/?tab=files&file_id=1000163905)
 *  [NPCs Use Chems in Combat-90674-2-02-1743021209.7z](https://www.nexusmods.com/newvegas/mods/90674/?tab=files&file_id=1000148993)
-*  [Nuclear Core - A Little More Lamplight Patch-88902-4-5-2-1756602828.zip](https://www.nexusmods.com/newvegas/mods/88902/?tab=files&file_id=1000157139)
 *  [Nuclear Core-88902-4-5-3-1756651223.7z](https://www.nexusmods.com/newvegas/mods/88902/?tab=files&file_id=1000157165)
-*  [Nuclear Trees - Desert Landscapes Patch-88902-4-1-1728921873.zip](https://www.nexusmods.com/newvegas/mods/88902/?tab=files&file_id=1000141317)
 *  [Nuclear Trees - Mojave Flora Project-88902-4-4-1744867830.zip](https://www.nexusmods.com/newvegas/mods/88902/?tab=files&file_id=1000150333)
 *  [Nuclear Trees - Wasted Pines Patch-88902-4-0-1728453421.zip](https://www.nexusmods.com/newvegas/mods/88902/?tab=files&file_id=1000140949)
 *  [Nuka Cola Truck Ratified-94143-1-03-1761084587.zip](https://www.nexusmods.com/newvegas/mods/94143/?tab=files&file_id=1000160036)
@@ -740,11 +1042,8 @@
 *  [NVAO - Vanilla Rate of Fire-92192-1-1-1755018525.7z](https://www.nexusmods.com/newvegas/mods/92192/?tab=files&file_id=1000156097)
 *  [NVCS Installer-68776-13-1675087064.zip](https://www.nexusmods.com/newvegas/mods/68776/?tab=files&file_id=1000104280)
 *  [NVMC Redone 0.2-95109-0-2-1766117137.7z](https://www.nexusmods.com/newvegas/mods/95109/?tab=files&file_id=1000163689)
-*  [NVMIM - NOPE Patch-96147-1-0-1770244472.zip](https://www.nexusmods.com/newvegas/mods/96147/?tab=files&file_id=1000168567)
 *  [NVR - Lucky 38 Shadows Fix-92574-1-1-1749559599.zip](https://www.nexusmods.com/newvegas/mods/92574/?tab=files&file_id=1000153215)
 *  [NVR Combination Flashlight-95242-1-1766453631.7z](https://www.nexusmods.com/newvegas/mods/95242/?tab=files&file_id=1000164052)
-*  [NVR SSIL Preset - Caffeine-88167-1-0-1766590967.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000164203)
-*  [NVR SSIL Preset - Hikkomori-88167-1-0-1766590999.7z](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000164204)
 *  [NVR Version Fallout NV x True Detective Intro Repl-93526-1-0-1756011575.zip](https://www.nexusmods.com/newvegas/mods/93526/?tab=files&file_id=1000156692)
 *  [NVTF - INI-66537-1-06-1751295478.7z](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000154098)
 *  [NVTF-66537-10-61-1756195258.7z](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000156835)
@@ -767,9 +1066,10 @@
 *  [Overcharge - Energy Visuals Plus Patch (NV)-95019-1-0-1765582788.7z](https://www.nexusmods.com/newvegas/mods/95019/?tab=files&file_id=1000163084)
 *  [Overcharge - Weapon Configurations-95019-1-1-1766272481.7z](https://www.nexusmods.com/newvegas/mods/95019/?tab=files&file_id=1000163869)
 *  [OWBloomFix1.1-88469-1-1-1722393882.7z](https://www.nexusmods.com/newvegas/mods/88469/?tab=files&file_id=1000137228)
-*  [P6 - .32Pistols (TTW)-92095-3-0-1770692825.7z](https://www.nexusmods.com/newvegas/mods/92095/?tab=files&file_id=1000169121)
-*  [P6 - Barrels (Base Object Swapper)-92498-2-7-1767620967.7z](https://www.nexusmods.com/newvegas/mods/92498/?tab=files&file_id=1000165495)
+*  [P6 - 32Pistols (FNV)-92095-3-0-1-1771687216.7z](https://www.nexusmods.com/newvegas/mods/92095/?tab=files&file_id=1000170048)
+*  [P6 - Barrels (Base Object Swapper)-92498-3-0A-1773546754.7z](https://www.nexusmods.com/newvegas/mods/92498/?tab=files&file_id=1000171846)
 *  [P6 - Barrels (SFX for BOS version)-92498-2-6-1753307046.zip](https://www.nexusmods.com/newvegas/mods/92498/?tab=files&file_id=1000155146)
+*  [P6 - Bedrolls (Base Object Swapper)-96812-1-1-1773103292.7z](https://www.nexusmods.com/newvegas/mods/96812/?tab=files&file_id=1000171455)
 *  [P6 - Chinese Assault Rifles (FNV)-95360-2-0B-1769641795.7z](https://www.nexusmods.com/newvegas/mods/95360/?tab=files&file_id=1000167811)
 *  [P6 - Classic 10mm Pistols (ESPLESS)-94249-1-2-1-1767803594.7z](https://www.nexusmods.com/newvegas/mods/94249/?tab=files&file_id=1000165759)
 *  [P6 - Classic 12.7mm Pack (ESPLESS)-94171-3-0-1766193475.7z](https://www.nexusmods.com/newvegas/mods/94171/?tab=files&file_id=1000163754)
@@ -778,12 +1078,13 @@
 *  [P6 - Classic Miniguns (ESPLESS)-93069-3-0-1766259813.7z](https://www.nexusmods.com/newvegas/mods/93069/?tab=files&file_id=1000163852)
 *  [P6 - Detonators (ESPLESS)-91222-2-0A-1770519164.7z](https://www.nexusmods.com/newvegas/mods/91222/?tab=files&file_id=1000168913)
 *  [P6 - Detonators (Long 15 - NCR Expansion)-91222-2-0A-1770519253.7z](https://www.nexusmods.com/newvegas/mods/91222/?tab=files&file_id=1000168914)
+*  [P6 - Hunting Shotguns (ESPLESS)-96878-1-0-1773353094.7z](https://www.nexusmods.com/newvegas/mods/96878/?tab=files&file_id=1000171675)
 *  [P6 - L.A.E.R (ESPLESS)-92918-3-0-1770771431.7z](https://www.nexusmods.com/newvegas/mods/92918/?tab=files&file_id=1000169185)
 *  [P6 - Mentats (Base Object Swapper)-92615-3-0-1770734635.7z](https://www.nexusmods.com/newvegas/mods/92615/?tab=files&file_id=1000169148)
 *  [P6 - Missile Launchers (ESPLESS)-94334-2-4A-1768002893.7z](https://www.nexusmods.com/newvegas/mods/94334/?tab=files&file_id=1000165970)
 *  [P6 - Missile Launchers (TOTNW)-94334-2-4A-1768002907.7z](https://www.nexusmods.com/newvegas/mods/94334/?tab=files&file_id=1000165971)
 *  [P6 - MREs (Base Object Swapper)-92296-2-1-1767620678.7z](https://www.nexusmods.com/newvegas/mods/92296/?tab=files&file_id=1000165494)
-*  [P6 - Plasma Defenders (OVERCHARGE - ESPLESS)-93828-2-1A-1767922705.7z](https://www.nexusmods.com/newvegas/mods/93828/?tab=files&file_id=1000165874)
+*  [P6 - Plasma Defenders (OVERCHARGE - ESPLESS)-93828-2-2-1773424039.7z](https://www.nexusmods.com/newvegas/mods/93828/?tab=files&file_id=1000171720)
 *  [P6 - Power Fists (ESPLESS)-92979-2-0-1770833542.7z](https://www.nexusmods.com/newvegas/mods/92979/?tab=files&file_id=1000169223)
 *  [P6 - Pulse Guns and Sonic Emitters (ESPLESS)-92696-2-0-1770746302.7z](https://www.nexusmods.com/newvegas/mods/92696/?tab=files&file_id=1000169159)
 *  [P6 - Rad Suits-94212-1-2-1768877947.7z](https://www.nexusmods.com/newvegas/mods/94212/?tab=files&file_id=1000166965)
@@ -792,14 +1093,14 @@
 *  [Parallax Shaders - Objects-89445-1-5-0-1752189422.7z](https://www.nexusmods.com/newvegas/mods/89445/?tab=files&file_id=1000154593)
 *  [Parallax Shaders - Terrain (Optimized)-92708-1-0-0-1750718712.7z](https://www.nexusmods.com/newvegas/mods/92708/?tab=files&file_id=1000153823)
 *  [Party Banter 2.0-93710-2-0-1-1766934491.zip](https://www.nexusmods.com/newvegas/mods/93710/?tab=files&file_id=1000164561)
-*  [Patch Collection-96267-1-0-1770538965.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000168945)
 *  [PBT - Bad Touch Extended Patch - Everything-94227-1-01-1762964751.7z](https://www.nexusmods.com/newvegas/mods/94227/?tab=files&file_id=1000161299)
+*  [PCNV - DM's Open Crimson Caravan Ranch-83504-1-1-1768198059.7z](https://www.nexusmods.com/newvegas/mods/83504/?tab=files&file_id=1000166187)
 *  [Perfect Skies - Weathers Revised Patch-94521-1-0-0-1762739446.7z](https://www.nexusmods.com/newvegas/mods/94521/?tab=files&file_id=1000161134)
 *  [Perfect Skies-94521-1-0-0-1762739423.zip](https://www.nexusmods.com/newvegas/mods/94521/?tab=files&file_id=1000161132)
 *  [Performance Mode-92111-1-0-1746340167.7z](https://www.nexusmods.com/newvegas/mods/92111/?tab=files&file_id=1000151264)
 *  [Performance Mode-93406-2-5-1769322000.7z](https://www.nexusmods.com/newvegas/mods/93406/?tab=files&file_id=1000167472)
-*  [Performance Of The Gods-45475-2-2-1747564340.7z](https://www.nexusmods.com/newvegas/mods/45475/?tab=files&file_id=1000151996)
-*  [Performance of the titans - Some patches-95862-1-4-1769647401.zip](https://www.nexusmods.com/newvegas/mods/95862/?tab=files&file_id=1000167826)
+*  [Performance Of The Gods-45475-2-3-1772953064.7z](https://www.nexusmods.com/newvegas/mods/45475/?tab=files&file_id=1000171330)
+*  [Performance of the titans - Some patches-95862-1-5-1772752024.zip](https://www.nexusmods.com/newvegas/mods/95862/?tab=files&file_id=1000171161)
 *  [Performance Of The Titans-89069-3-0-1763564891.zip](https://www.nexusmods.com/newvegas/mods/89069/?tab=files&file_id=1000161675)
 *  [Performance Textures Max-75437-7-5-1707257660.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000123268)
 *  [Physically Based Beverages-80546-1-2-1680297307.rar](https://www.nexusmods.com/newvegas/mods/80546/?tab=files&file_id=1000107096)
@@ -808,7 +1109,6 @@
 *  [Physically Based Chems-78798-1-4-1685330835.rar](https://www.nexusmods.com/newvegas/mods/78798/?tab=files&file_id=1000110021)
 *  [Physically Based Collection 2-85122-1-3-1724564461.rar](https://www.nexusmods.com/newvegas/mods/85122/?tab=files&file_id=1000138694)
 *  [Physically Based Collection-77524-1-5-1758245716.rar](https://www.nexusmods.com/newvegas/mods/77524/?tab=files&file_id=1000158278)
-*  [Physically Based Double Barrel Multiplas-83981-Any-1702014808.7z](https://www.nexusmods.com/newvegas/mods/83981/?tab=files&file_id=1000120092)
 *  [Physically Based Kitchenware-79541-1-4-1685330490.rar](https://www.nexusmods.com/newvegas/mods/79541/?tab=files&file_id=1000110020)
 *  [Physically Based LOD-93393-1-9-1758916249.rar](https://www.nexusmods.com/newvegas/mods/93393/?tab=files&file_id=1000158704)
 *  [Physically Based Mail-89869-1-2-1758025375.rar](https://www.nexusmods.com/newvegas/mods/89869/?tab=files&file_id=1000158121)
@@ -819,6 +1119,7 @@
 *  [Physically Based Plasma Rifles Patch-95019-1-03-1766103244.7z](https://www.nexusmods.com/newvegas/mods/95019/?tab=files&file_id=1000163676)
 *  [Physically Based Plasma Rifles-83883-1-1-1701178862.rar](https://www.nexusmods.com/newvegas/mods/83883/?tab=files&file_id=1000119591)
 *  [Physically Based Rangers-70319-1-6-1699418323.rar](https://www.nexusmods.com/newvegas/mods/70319/?tab=files&file_id=1000118792)
+*  [Physically Based Revised Mojave-97001-1-0-0-1774046189.zip](https://www.nexusmods.com/newvegas/mods/97001/?tab=files&file_id=1000172236)
 *  [Physically Based Terminals-84386-1-0-1704395612.rar](https://www.nexusmods.com/newvegas/mods/84386/?tab=files&file_id=1000121445)
 *  [Physically Based Texturing - Everything-94227-1-04-1769538413.7z](https://www.nexusmods.com/newvegas/mods/94227/?tab=files&file_id=1000167718)
 *  [Physically Based Vehicles-87590-1-2-1731516646.rar](https://www.nexusmods.com/newvegas/mods/87590/?tab=files&file_id=1000142886)
@@ -828,23 +1129,22 @@
 *  [Pimp-Boy Remastered Counters-88181-1-0-1720645773.7z](https://www.nexusmods.com/newvegas/mods/88181/?tab=files&file_id=1000136023)
 *  [PimpBoy 3 Billion Remastered-78153-1-51-1670184964.zip](https://www.nexusmods.com/newvegas/mods/78153/?tab=files&file_id=1000101926)
 *  [PimpBoy 3 Billion Remastered-78153-1-7-1694979405.zip](https://www.nexusmods.com/newvegas/mods/78153/?tab=files&file_id=1000116486)
-*  [Pip-Boy 2000-90847-1-0-1738685939.7z](https://www.nexusmods.com/newvegas/mods/90847/?tab=files&file_id=1000146281)
 *  [Pip-Boy Glove replacer-90178-v1-1733788500.rar](https://www.nexusmods.com/newvegas/mods/90178/?tab=files&file_id=1000144009)
 *  [Pip-Boy Light Flicker Fix-78954-1-1-1668092370.zip](https://www.nexusmods.com/newvegas/mods/78954/?tab=files&file_id=1000100948)
 *  [Pip-Boy Light Indicator-93484-1-2-1758251874.7z](https://www.nexusmods.com/newvegas/mods/93484/?tab=files&file_id=1000158281)
+*  [Pip-Boy Screen Always On-72780-2-8-3-1770159483.7z](https://www.nexusmods.com/newvegas/mods/72780/?tab=files&file_id=1000168470)
 *  [Pip-Boy Screen Effects - INI-95296-1-1-0-1766952641.zip](https://www.nexusmods.com/newvegas/mods/95296/?tab=files&file_id=1000164594)
 *  [Pip-Boy Screen Effects-95296-1-1-3-1770533902.zip](https://www.nexusmods.com/newvegas/mods/95296/?tab=files&file_id=1000168938)
-*  [Pip-Boy UI Tweaks - INI-85343-4-3-0-1766246373.zip](https://www.nexusmods.com/newvegas/mods/85343/?tab=files&file_id=1000163830)
-*  [Pip-Boy UI Tweaks-85343-5-1-0-1768507801.zip](https://www.nexusmods.com/newvegas/mods/85343/?tab=files&file_id=1000166505)
+*  [Pip-Boy UI Tweaks - INI-85343-5-2-0-1771038422.zip](https://www.nexusmods.com/newvegas/mods/85343/?tab=files&file_id=1000169390)
+*  [Pip-Boy UI Tweaks-85343-5-2-2-1771395560.zip](https://www.nexusmods.com/newvegas/mods/85343/?tab=files&file_id=1000169757)
 *  [Pipboy Holo Panel ESPless INI-86483-1-34-1767520782.7z](https://www.nexusmods.com/newvegas/mods/86483/?tab=files&file_id=1000165305)
 *  [Pipboy Holo Panel ESPless-86483-1-36-1771015064.7z](https://www.nexusmods.com/newvegas/mods/86483/?tab=files&file_id=1000169360)
 *  [Pipe Weapons Ratified-94479-1-03-1770852388.zip](https://www.nexusmods.com/newvegas/mods/94479/?tab=files&file_id=1000169245)
 *  [Placement Fixes-90593-1-8-1747772681.7z](https://www.nexusmods.com/newvegas/mods/90593/?tab=files&file_id=1000152138)
 *  [Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged-70790-1-1-1642221863.zip](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000086259)
 *  [Plasma Weapon Iron Sights ESPLess-86640-1-1-1716588363.7z](https://www.nexusmods.com/newvegas/mods/86640/?tab=files&file_id=1000132193)
-*  [Plugins Plus-93634-v1-76-1770617892.7z](https://www.nexusmods.com/newvegas/mods/93634/?tab=files&file_id=1000169058)
 *  [PM's HD Ammo Boxes - 2K Diffuse 1K Normals-64007-1-2-1571230653.zip](https://www.nexusmods.com/newvegas/mods/64007/?tab=files&file_id=1000056915)
-*  [PM's HD Legion Overhaul - 2K-67595-1-1-1568383847.zip](https://www.nexusmods.com/newvegas/mods/67595/?tab=files&file_id=1000056381)
+*  [PM's HD Legion Overhaul - 2K-67595-1-2-1772263780.zip](https://www.nexusmods.com/newvegas/mods/67595/?tab=files&file_id=1000170624)
 *  [PM's HD Ranger Outfits - 2K-67866-1-0-1573888894.zip](https://www.nexusmods.com/newvegas/mods/67866/?tab=files&file_id=1000057525)
 *  [Police Baton Ratified (FNV)-94402-1-11-1769180056.zip](https://www.nexusmods.com/newvegas/mods/94402/?tab=files&file_id=1000167317)
 *  [Pop-Up Message Icons-76516-2-04-1698593392.7z](https://www.nexusmods.com/newvegas/mods/76516/?tab=files&file_id=1000118364)
@@ -854,14 +1154,15 @@
 *  [Prime Tapes - Compressed Textures-78513-1-0-1665442456.zip](https://www.nexusmods.com/newvegas/mods/78513/?tab=files&file_id=1000099729)
 *  [Primm Karma-87025-1-01-1716069310.rar](https://www.nexusmods.com/newvegas/mods/87025/?tab=files&file_id=1000131542)
 *  [Pristine Powder Gangers-91150-V1-1-1741013453.zip](https://www.nexusmods.com/newvegas/mods/91150/?tab=files&file_id=1000147659)
-*  [Proton Axes and X-2 Antenna Ratified - EVP Patch-94961-1-0-1765581741.zip](https://www.nexusmods.com/newvegas/mods/94961/?tab=files&file_id=1000163081)
-*  [Proton Axes and X-2 Antenna Ratified-94961-1-0-1765581347.zip](https://www.nexusmods.com/newvegas/mods/94961/?tab=files&file_id=1000163080)
-*  [Proton Axes Ratified - Long 15 Patch-94961-1-02-1765852281.zip](https://www.nexusmods.com/newvegas/mods/94961/?tab=files&file_id=1000163376)
+*  [Proton Axes and X-2 Antenna Ratified - EVP Patch-94961-1-1-1771791981.zip](https://www.nexusmods.com/newvegas/mods/94961/?tab=files&file_id=1000170220)
+*  [Proton Axes and X-2 Antenna Ratified-94961-1-01-1771791924.zip](https://www.nexusmods.com/newvegas/mods/94961/?tab=files&file_id=1000170219)
+*  [Proton Axes Ratified - Long 15 Patch-94961-1-01-1771791862.zip](https://www.nexusmods.com/newvegas/mods/94961/?tab=files&file_id=1000170217)
 *  [PSRO - Peripheral Scope Reticle Overhaul-71781-2-1-7-1687406457.7z](https://www.nexusmods.com/newvegas/mods/71781/?tab=files&file_id=1000111681)
 *  [PSROGE-91588-1-13-1767149162.zip](https://www.nexusmods.com/newvegas/mods/91588/?tab=files&file_id=1000164823)
 *  [Quest XP Overhaul-94842-1-0-1764880458.7z](https://www.nexusmods.com/newvegas/mods/94842/?tab=files&file_id=1000162445)
 *  [Radiation Visuals - INI-84917-3-4-0-1769456570.zip](https://www.nexusmods.com/newvegas/mods/84917/?tab=files&file_id=1000167626)
 *  [Radiation Visuals-84917-3-4-0-1769456514.zip](https://www.nexusmods.com/newvegas/mods/84917/?tab=files&file_id=1000167625)
+*  [Raider Corpse Dressing Fix Patch-96884-1-1-1773377199.7z](https://www.nexusmods.com/newvegas/mods/96884/?tab=files&file_id=1000171698)
 *  [Raider Dressings Animated-72311-V2-1621021402.rar](https://www.nexusmods.com/newvegas/mods/72311/?tab=files&file_id=1000076042)
 *  [Random Stuff HD-83095-1-1-1696622900.7z](https://www.nexusmods.com/newvegas/mods/83095/?tab=files&file_id=1000117374)
 *  [Ranger Station Charlie Karma-87146-1-1716402001.rar](https://www.nexusmods.com/newvegas/mods/87146/?tab=files&file_id=1000131954)
@@ -878,9 +1179,8 @@
 *  [Realtime Pip-Boy Map - INI-92277-1-4-0-1770011767.zip](https://www.nexusmods.com/newvegas/mods/92277/?tab=files&file_id=1000168321)
 *  [Realtime Pip-Boy Map-92277-1-4-0-1770011742.zip](https://www.nexusmods.com/newvegas/mods/92277/?tab=files&file_id=1000168320)
 *  [Realtime Pipboy Counters-95000-1-2-0-1766399341.zip](https://www.nexusmods.com/newvegas/mods/95000/?tab=files&file_id=1000163985)
-*  [Rebar Club and Nuka Breaker Ratified-94660-1-0-1763693450.zip](https://www.nexusmods.com/newvegas/mods/94660/?tab=files&file_id=1000161746)
+*  [Rebar Club and Nuka Breaker Ratified-94660-1-1-1771789555.zip](https://www.nexusmods.com/newvegas/mods/94660/?tab=files&file_id=1000170213)
 *  [Rectified Fire Hydrant 1K-75611-1-0-4-1770213441.zip](https://www.nexusmods.com/newvegas/mods/75611/?tab=files&file_id=1000168526)
-*  [Rectified Hydrant 2K-87872-1-0-1719118522.zip](https://www.nexusmods.com/newvegas/mods/87872/?tab=files&file_id=1000134842)
 *  [Rectified Security Booth 2K-75611-1-0-4-1770213382.zip](https://www.nexusmods.com/newvegas/mods/75611/?tab=files&file_id=1000168524)
 *  [Rectified Shopping Cart 1K-75611-1-0-4-1770213578.zip](https://www.nexusmods.com/newvegas/mods/75611/?tab=files&file_id=1000168528)
 *  [Rectified Urban Bench 1K-75611-1-0-4-1770213995.zip](https://www.nexusmods.com/newvegas/mods/75611/?tab=files&file_id=1000168532)
@@ -888,17 +1188,25 @@
 *  [Red On The Rocks - Great Khan Culture Vanilla 2.2-80534-2-2-1695953799.7z](https://www.nexusmods.com/newvegas/mods/80534/?tab=files&file_id=1000117037)
 *  [Reduced Stats Version-82867-1-01-1693767810.rar](https://www.nexusmods.com/newvegas/mods/82867/?tab=files&file_id=1000115876)
 *  [Reforged Platinum Chip V2-83803-2-1700605325.zip](https://www.nexusmods.com/newvegas/mods/83803/?tab=files&file_id=1000119327)
+*  [Reinvented the (Companion) Wheel-89902-5-0-1731849682.7z](https://www.nexusmods.com/newvegas/mods/89902/?tab=files&file_id=1000143048)
 *  [Remastered Quarries (2K- 1K)-76632-1-4-1728331112.zip](https://www.nexusmods.com/newvegas/mods/76632/?tab=files&file_id=1000140884)
 *  [RemasterQuarriesSceneryPatch-93344-1-0-1755114515.7z](https://www.nexusmods.com/newvegas/mods/93344/?tab=files&file_id=1000156156)
 *  [Repconn Revised - Retexture-94312-1-0v-1761278264.7z](https://www.nexusmods.com/newvegas/mods/94312/?tab=files&file_id=1000160184)
 *  [Restored Physics Sounds-90895-2-0-1767631995.zip](https://www.nexusmods.com/newvegas/mods/90895/?tab=files&file_id=1000165508)
 *  [Restored Weapon Mods for WAP Year One-94716-1-1-1769215061.7z](https://www.nexusmods.com/newvegas/mods/94716/?tab=files&file_id=1000167374)
+*  [Revised Mojave - DM's Vault 19 Patch-96989-1-0-1773959037.zip](https://www.nexusmods.com/newvegas/mods/96989/?tab=files&file_id=1000172185)
+*  [Revised Mojave - Sandy Roads-94670-2-0-1765281629.7z](https://www.nexusmods.com/newvegas/mods/94670/?tab=files&file_id=1000162803)
+*  [Revised Mojave Patch-92669-2-8-1769214052.zip](https://www.nexusmods.com/newvegas/mods/92669/?tab=files&file_id=1000167369)
 *  [Rewritten Sleepytyme Dreams-95930-1-0-0-1769062811.7z](https://www.nexusmods.com/newvegas/mods/95930/?tab=files&file_id=1000167174)
+*  [rina_companions_heal-85554-1-1710977189.7z](https://www.nexusmods.com/newvegas/mods/85554/?tab=files&file_id=1000125938)
+*  [Rockbiter Animation Preset-95142-0-94-1772252192.rar](https://www.nexusmods.com/newvegas/mods/95142/?tab=files&file_id=1000170603)
 *  [Rocky Ground Alternate-94862-1-1767585783.7z](https://www.nexusmods.com/newvegas/mods/94862/?tab=files&file_id=1000165412)
 *  [Rolling Pin Ratified-94286-1-02-1767486843.zip](https://www.nexusmods.com/newvegas/mods/94286/?tab=files&file_id=1000165252)
 *  [RTR - Performance Preset-92111-1-0-1747150410.7z](https://www.nexusmods.com/newvegas/mods/92111/?tab=files&file_id=1000151757)
-*  [S.P.E.C.I.A.L Ranks Revealed-94336-1-0-1766626779.7z](https://www.nexusmods.com/newvegas/mods/94336/?tab=files&file_id=1000164252)
-*  [S.P.E.C.I.A.L Stat Icons-94250-1-1-1761332042.7z](https://www.nexusmods.com/newvegas/mods/94250/?tab=files&file_id=1000160205)
+*  [Ruins of South Vegas - Revised Mojave Patch-96563-Patch-1772312752.rar](https://www.nexusmods.com/newvegas/mods/96563/?tab=files&file_id=1000170671)
+*  [Ruins of South Vegas-96563-1-2-1772580224.rar](https://www.nexusmods.com/newvegas/mods/96563/?tab=files&file_id=1000170951)
+*  [S.P.E.C.I.A.L Ranks Revealed-94336-1-1-1774047043.7z](https://www.nexusmods.com/newvegas/mods/94336/?tab=files&file_id=1000172239)
+*  [S.P.E.C.I.A.L Stat Icons-94250-1-2-1774123664.7z](https://www.nexusmods.com/newvegas/mods/94250/?tab=files&file_id=1000172315)
 *  [safe and intercom replacer-86997-1-1-1756153913.zip](https://www.nexusmods.com/newvegas/mods/86997/?tab=files&file_id=1000156795)
 *  [saltex plaspistol 2k-90581-1-0-1736733726.7z](https://www.nexusmods.com/newvegas/mods/90581/?tab=files&file_id=1000145286)
 *  [SALTEX Sentry 2k-89905-1-0-1731797316.7z](https://www.nexusmods.com/newvegas/mods/89905/?tab=files&file_id=1000143027)
@@ -919,7 +1227,8 @@
 *  [SFX 1.8.33 NV Only-87817-1-8-33-1744776843.7z](https://www.nexusmods.com/newvegas/mods/87817/?tab=files&file_id=1000150277)
 *  [SFX 1.8.34 NV Only-87817-1-8-34-1745689674.7z](https://www.nexusmods.com/newvegas/mods/87817/?tab=files&file_id=1000150885)
 *  [SFX NVR Pack 1.8.34-87817-1-8-34-1745689860.7z](https://www.nexusmods.com/newvegas/mods/87817/?tab=files&file_id=1000150887)
-*  [Shader Loader - NVSE-87814-1-32-1743790336.7z](https://www.nexusmods.com/newvegas/mods/87814/?tab=files&file_id=1000149568)
+*  [Shack Cabinets ReHammered-96685-1-1772569159.7z](https://www.nexusmods.com/newvegas/mods/96685/?tab=files&file_id=1000170941)
+*  [Shader Loader - NVSE-87814-1-4-1771548403.7z](https://www.nexusmods.com/newvegas/mods/87814/?tab=files&file_id=1000169903)
 *  [ShaderPackage002-69135-1-0-1592227585.7z](https://www.nexusmods.com/newvegas/mods/69135/?tab=files&file_id=1000062851)
 *  [ShaderPackage003-69135-1-0-1592227607.7z](https://www.nexusmods.com/newvegas/mods/69135/?tab=files&file_id=1000062852)
 *  [ShaderPackage004-69135-1-0-1592227638.7z](https://www.nexusmods.com/newvegas/mods/69135/?tab=files&file_id=1000062853)
@@ -937,31 +1246,30 @@
 *  [ShaderPackage018-69135-1-0-1592228025.7z](https://www.nexusmods.com/newvegas/mods/69135/?tab=files&file_id=1000062866)
 *  [ShaderPackage019-69135-1-0-1592228053.7z](https://www.nexusmods.com/newvegas/mods/69135/?tab=files&file_id=1000062867)
 *  [Sharecropper Sign-82771-1-2-1713856233.7z](https://www.nexusmods.com/newvegas/mods/82771/?tab=files&file_id=1000128352)
-*  [Shopping List - INI File-93488-1-2-0-1757996653.zip](https://www.nexusmods.com/newvegas/mods/93488/?tab=files&file_id=1000158108)
-*  [Shopping List-93488-1-3-0-1768974199.zip](https://www.nexusmods.com/newvegas/mods/93488/?tab=files&file_id=1000167050)
 *  [Shot up Signs. Version 2-86128-2-0-1718319942.zip](https://www.nexusmods.com/newvegas/mods/86128/?tab=files&file_id=1000134182)
 *  [Shovel and Friend RTR patch-80846-1-1-1730086150.7z](https://www.nexusmods.com/newvegas/mods/80846/?tab=files&file_id=1000142034)
 *  [Shovel and Friend-80846-1-1a-1730086219.7z](https://www.nexusmods.com/newvegas/mods/80846/?tab=files&file_id=1000142035)
 *  [Shovels Ratified FNV-94297-1-1-1770938857.zip](https://www.nexusmods.com/newvegas/mods/94297/?tab=files&file_id=1000169298)
 *  [ShowOff INI-72541-1-1650847630.7z](https://www.nexusmods.com/newvegas/mods/72541/?tab=files&file_id=1000091565)
-*  [ShowOff xNVSE-72541-1-82-1768507181.7z](https://www.nexusmods.com/newvegas/mods/72541/?tab=files&file_id=1000166504)
+*  [ShowOff xNVSE-72541-1-83-1771445557.7z](https://www.nexusmods.com/newvegas/mods/72541/?tab=files&file_id=1000169798)
 *  [Shuddup and SayThis-83666-1-2-5-1700353134.zip](https://www.nexusmods.com/newvegas/mods/83666/?tab=files&file_id=1000119218)
 *  [Sierra Madre Grand Entrance-74665-1-1-1640216753.zip](https://www.nexusmods.com/newvegas/mods/74665/?tab=files&file_id=1000085449)
 *  [Sierra Madre Penthouse-78271-2-0-0-1754590777.7z](https://www.nexusmods.com/newvegas/mods/78271/?tab=files&file_id=1000155823)
 *  [Sierra Madre Suite Windows-80655-1-1-0-1754590572.7z](https://www.nexusmods.com/newvegas/mods/80655/?tab=files&file_id=1000155822)
 *  [Sierra Madre Vending Machine Codes - Glowing-84080-1-1-1767243360.7z](https://www.nexusmods.com/newvegas/mods/84080/?tab=files&file_id=1000164930)
 *  [Simple 2K Connection Lost Screen-91450-1-1742216926.7z](https://www.nexusmods.com/newvegas/mods/91450/?tab=files&file_id=1000148449)
+*  [Simple Attack Reactions - AIO-79687-AIO-1-2-1773876250.7z](https://www.nexusmods.com/newvegas/mods/79687/?tab=files&file_id=1000172112)
 *  [Simple Diseases 1.63-74802-1-63-1688005549.7z](https://www.nexusmods.com/newvegas/mods/74802/?tab=files&file_id=1000112109)
+*  [Simple Economy eXpansion INI-96939-1-0-1-1773876347.7z](https://www.nexusmods.com/newvegas/mods/96939/?tab=files&file_id=1000172115)
+*  [Simple Economy eXpansion-96939-1-0-1-1773876334.7z](https://www.nexusmods.com/newvegas/mods/96939/?tab=files&file_id=1000172114)
 *  [Simple Freeside Overhaul - Simple Open Freeside-84468-1-5-1766005933.7z](https://www.nexusmods.com/newvegas/mods/84468/?tab=files&file_id=1000163549)
 *  [Simple Headshots-84763-2-0-0-1748302235.zip](https://www.nexusmods.com/newvegas/mods/84763/?tab=files&file_id=1000152506)
 *  [Simple Honest Hearts Workbench Fix (ESPless)-92015-1-1746801216.zip](https://www.nexusmods.com/newvegas/mods/92015/?tab=files&file_id=1000151542)
 *  [Simple Maps of Long 15-95176-1-1-1766164947.zip](https://www.nexusmods.com/newvegas/mods/95176/?tab=files&file_id=1000163717)
-*  [Simple Mojave Urbanization-85729-4-2-6-1769685529.zip](https://www.nexusmods.com/newvegas/mods/85729/?tab=files&file_id=1000167868)
 *  [Simple Open Freeside - Goodies-92675-1-0-0-1750374882.zip](https://www.nexusmods.com/newvegas/mods/92675/?tab=files&file_id=1000153652)
 *  [Simple Open Freeside MOMF-91825-1-0-1744597843.7z](https://www.nexusmods.com/newvegas/mods/91825/?tab=files&file_id=1000150143)
 *  [Simple Open Freeside-73128-1-7-1681419342.7z](https://www.nexusmods.com/newvegas/mods/73128/?tab=files&file_id=1000107621)
 *  [Simple Populated Freeside - Uncreative Edition-78445-1-4-1746877174.zip](https://www.nexusmods.com/newvegas/mods/78445/?tab=files&file_id=1000151587)
-*  [Simple Scripted Character Overhaul-91580-1-5-0-1769797890.7z](https://www.nexusmods.com/newvegas/mods/91580/?tab=files&file_id=1000167998)
 *  [Simple Scripted Trash Ownership Removal-90037-1-0-1732746111.7z](https://www.nexusmods.com/newvegas/mods/90037/?tab=files&file_id=1000143498)
 *  [Simple Worthless Item Ownership Overhaul-93584-1-0-2-1757099111.7z](https://www.nexusmods.com/newvegas/mods/93584/?tab=files&file_id=1000157505)
 *  [Simply Overhauled Dialogue - Ontologically Metapho-86916-1-1715791403.zip](https://www.nexusmods.com/newvegas/mods/86916/?tab=files&file_id=1000131193)
@@ -980,6 +1288,7 @@
 *  [Speed of Light-94734-1-1-1768265153.7z](https://www.nexusmods.com/newvegas/mods/94734/?tab=files&file_id=1000166248)
 *  [Spifferinos Patches and Fixes-95630-1-0-0-1767971218.zip](https://www.nexusmods.com/newvegas/mods/95630/?tab=files&file_id=1000165924)
 *  [Sports Equipment Ratified-94058-1-1-1761000716.zip](https://www.nexusmods.com/newvegas/mods/94058/?tab=files&file_id=1000159971)
+*  [Standalone Lucky 38 Penthouse Optimization-96267-1-087-1772582626.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000170953)
 *  [Standalone McCarran Concourse Optimization-96267-1-002-1770588924.7z](https://www.nexusmods.com/newvegas/mods/96267/?tab=files&file_id=1000169026)
 *  [Stats (And Some Perks)-86122-8-1764238637.zip](https://www.nexusmods.com/newvegas/mods/86122/?tab=files&file_id=1000162068)
 *  [Stewie Tweaks-66347-9-81-1766438632.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000164025)
@@ -987,10 +1296,9 @@
 *  [Stimpak Hotkey ESPLess-85128-2-0-1709057936.rar](https://www.nexusmods.com/newvegas/mods/85128/?tab=files&file_id=1000124548)
 *  [Street Signs HD-82760-1-1-1697137557.7z](https://www.nexusmods.com/newvegas/mods/82760/?tab=files&file_id=1000117611)
 *  [Strip Cinematic Lighting Overhaul-86501-2-1-1725017405.zip](https://www.nexusmods.com/newvegas/mods/86501/?tab=files&file_id=1000139013)
-*  [Subtle Sandstorms-83693-1-0-1699211404.zip](https://www.nexusmods.com/newvegas/mods/83693/?tab=files&file_id=1000118657)
+*  [Stupendous Seats-80478-2-0-1773084277.7z](https://www.nexusmods.com/newvegas/mods/80478/?tab=files&file_id=1000171433)
 *  [Subtle Waters 2K-95228-1-1766436647.7z](https://www.nexusmods.com/newvegas/mods/95228/?tab=files&file_id=1000164021)
-*  [Suite-er Than Ever Before - Optimized-96188-1-3-1770688647.7z](https://www.nexusmods.com/newvegas/mods/96188/?tab=files&file_id=1000169119)
-*  [Suite-er Than Ever Before-96188-1-3-1770333070.7z](https://www.nexusmods.com/newvegas/mods/96188/?tab=files&file_id=1000168652)
+*  [Suite-er Than Ever Before-96188-1-4-1773789266.7z](https://www.nexusmods.com/newvegas/mods/96188/?tab=files&file_id=1000172066)
 *  [SUP NVSE Plugin-73160-8-55-1703949554.rar](https://www.nexusmods.com/newvegas/mods/73160/?tab=files&file_id=1000121144)
 *  [SUPER Lively New Vegas-86605-1-3-1725106583.zip](https://www.nexusmods.com/newvegas/mods/86605/?tab=files&file_id=1000139065)
 *  [Surgical Tools Ratified-94230-1-2-1760997414.zip](https://www.nexusmods.com/newvegas/mods/94230/?tab=files&file_id=1000159970)
@@ -1001,20 +1309,23 @@
 *  [Tactical Freelook-93490-1-4-1-1759592321.zip](https://www.nexusmods.com/newvegas/mods/93490/?tab=files&file_id=1000159220)
 *  [Targeted Texture Enhancements-91669-1-3-1756223920.7z](https://www.nexusmods.com/newvegas/mods/91669/?tab=files&file_id=1000156844)
 *  [TCM's LOD Overhaul-70155-2-2-1757750927.zip](https://www.nexusmods.com/newvegas/mods/70155/?tab=files&file_id=1000157913)
+*  [TGMIO - AWOP Patch-90822-1-1-1738520389.zip](https://www.nexusmods.com/newvegas/mods/90822/?tab=files&file_id=1000146187)
 *  [The Freepost Mojave Express Expansion-73312-2-1-0-1770927095.zip](https://www.nexusmods.com/newvegas/mods/73312/?tab=files&file_id=1000169284)
+*  [The Great DLC Interior Overhaul-96503-1-0-0-1772731214.zip](https://www.nexusmods.com/newvegas/mods/96503/?tab=files&file_id=1000171135)
+*  [The Great Mojave Interior Overhaul-70165-1-10-2-1773607075.zip](https://www.nexusmods.com/newvegas/mods/70165/?tab=files&file_id=1000171913)
 *  [The HUD Editor (v2.7.3)-67470-2-7-3-1762887664.7z](https://www.nexusmods.com/newvegas/mods/67470/?tab=files&file_id=1000161238)
 *  [The Living Desert - Main File 2.7.3-64623-2-7-3-1769374510.zip](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000167520)
-*  [The Living Desert - NOPE Patch-96147-1-0-1770476494.zip](https://www.nexusmods.com/newvegas/mods/96147/?tab=files&file_id=1000168822)
 *  [The Living Desert .ini-64623-2-7-1742750097.zip](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000148813)
 *  [The Mod Configuration Menu-42507-1-5.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
 *  [The Molerat Extravaganza - 2048px Retexture-60110-M0L3-1.rar](https://www.nexusmods.com/newvegas/mods/60110/?tab=files&file_id=1000031527)
+*  [The Platinum Vault - ALT Patch-96071-1-0-0-1770471519.zip](https://www.nexusmods.com/newvegas/mods/96071/?tab=files&file_id=1000168818)
 *  [The Platinum Vault-96071-1-0-1-1770240105.zip](https://www.nexusmods.com/newvegas/mods/96071/?tab=files&file_id=1000168564)
 *  [The True Blade of the East (2K)-72075-1-2-1618943282.rar](https://www.nexusmods.com/newvegas/mods/72075/?tab=files&file_id=1000075177)
-*  [Thermic Lance Ratified-94555-1-1-1763007785.zip](https://www.nexusmods.com/newvegas/mods/94555/?tab=files&file_id=1000161344)
+*  [Thermic Lance Ratified-94555-1-2-1771614544.zip](https://www.nexusmods.com/newvegas/mods/94555/?tab=files&file_id=1000169961)
 *  [Thinner Blade-72075-1-2-1619773658.rar](https://www.nexusmods.com/newvegas/mods/72075/?tab=files&file_id=1000075508)
 *  [Third Person Aim Fix-96007-1-1-0-1770368167.zip](https://www.nexusmods.com/newvegas/mods/96007/?tab=files&file_id=1000168701)
 *  [Titans of The New West INI-78688-2-1-50-1767521419.7z](https://www.nexusmods.com/newvegas/mods/78688/?tab=files&file_id=1000165307)
-*  [Titans of The New West-78688-2-1-51c-1770623168.7z](https://www.nexusmods.com/newvegas/mods/78688/?tab=files&file_id=1000169064)
+*  [Titans of The New West-78688-2-1-51d-1771136133.7z](https://www.nexusmods.com/newvegas/mods/78688/?tab=files&file_id=1000169490)
 *  [TOTNW Long 15 Patch-95174-1-0-1766131325.7z](https://www.nexusmods.com/newvegas/mods/95174/?tab=files&file_id=1000163699)
 *  [Townie Names-89399-2-1728955740.rar](https://www.nexusmods.com/newvegas/mods/89399/?tab=files&file_id=1000141343)
 *  [Toy Cars Ratified - Full Version-93980-1-0-1760050217.zip](https://www.nexusmods.com/newvegas/mods/93980/?tab=files&file_id=1000159454)
@@ -1028,7 +1339,7 @@
 *  [Tweaked texture by zzjay-83470-1-0-1698078947.7z](https://www.nexusmods.com/newvegas/mods/83470/?tab=files&file_id=1000118080)
 *  [TYPE 4 patch-90178-v1-1733788541.rar](https://www.nexusmods.com/newvegas/mods/90178/?tab=files&file_id=1000144010)
 *  [TYPE4 Patches-74893-3-1-1-1718574151.7z](https://www.nexusmods.com/newvegas/mods/74893/?tab=files&file_id=1000134385)
-*  [UI Improvements-96240-1-04b-1771014667.7z](https://www.nexusmods.com/newvegas/mods/96240/?tab=files&file_id=1000169358)
+*  [UI Improvements-96240-1-04e-1771660430.7z](https://www.nexusmods.com/newvegas/mods/96240/?tab=files&file_id=1000170021)
 *  [UIO - User Interface Organizer-57174-2-30-1629600625.7z](https://www.nexusmods.com/newvegas/mods/57174/?tab=files&file_id=1000080073)
 *  [Ultimate Cowboy and Grunt Perk Expansion NV-90994-1-1-1742346998.zip](https://www.nexusmods.com/newvegas/mods/90994/?tab=files&file_id=1000148499)
 *  [Ultra-Luxe Environment Mapped-95806-1-1-1770841870.zip](https://www.nexusmods.com/newvegas/mods/95806/?tab=files&file_id=1000169235)
@@ -1037,13 +1348,13 @@
 *  [Unique Think Tank Members - Colored Tanks-70891-1-15-1612212259.rar](https://www.nexusmods.com/newvegas/mods/70891/?tab=files&file_id=1000070724)
 *  [Unique Think Tank Members - Espless-85373-2-0-1715284831.zip](https://www.nexusmods.com/newvegas/mods/85373/?tab=files&file_id=1000130468)
 *  [UnLeveled Lists-88786-1-1-1-1728968728.zip](https://www.nexusmods.com/newvegas/mods/88786/?tab=files&file_id=1000141351)
-*  [Unofficial Patch NVSE Plus-71239-1-6-3-1770575572.7z](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000169002)
+*  [Unofficial Patch NVSE Plus-71239-1-6-5-1774264102.7z](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000172404)
 *  [update Collision Meshes FNV 1.6.3 to 1.6.4-59149-1-6-4-1592854853.7z](https://www.nexusmods.com/newvegas/mods/59149/?tab=files&file_id=1000063058)
 *  [UPWF HD - 2K 2.0-94164-2-0-1760894839.rar](https://www.nexusmods.com/newvegas/mods/94164/?tab=files&file_id=1000159911)
 *  [urbanposters03-64589-0-8-1548104195.7z](https://www.nexusmods.com/newvegas/mods/64589/?tab=files&file_id=1000051705)
-*  [Vanilla Enhancements Merged-78877-1-4-0-1770546085.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000168962)
+*  [Vanilla Enhancements Merged-78877-1-5-0-1773691919.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000171978)
 *  [Vanilla Fonts Revisited-85136-6FONTS-5BETA-1729248673.zip](https://www.nexusmods.com/newvegas/mods/85136/?tab=files&file_id=1000141511)
-*  [Vanilla Objects Parallaxed-93352-1-1-1755597662.7z](https://www.nexusmods.com/newvegas/mods/93352/?tab=files&file_id=1000156423)
+*  [Vanilla Objects Parallaxed-93352-1-2-1773452054.7z](https://www.nexusmods.com/newvegas/mods/93352/?tab=files&file_id=1000171750)
 *  [Vanilla Plus AO - INI-94824-1-0-2-1765569400.7z](https://www.nexusmods.com/newvegas/mods/94824/?tab=files&file_id=1000163062)
 *  [Vanilla Plus AO - Performance INI-94824-1-0-2-1765569479.7z](https://www.nexusmods.com/newvegas/mods/94824/?tab=files&file_id=1000163063)
 *  [Vanilla Plus AO-94824-1-0-3-1768357186.7z](https://www.nexusmods.com/newvegas/mods/94824/?tab=files&file_id=1000166360)
@@ -1053,6 +1364,8 @@
 *  [Vanilla Plus Terrain-92519-1-0-2-1751840765.7z](https://www.nexusmods.com/newvegas/mods/92519/?tab=files&file_id=1000154397)
 *  [Vanilla Plus Tonemapper - Sky Brightness Tweak-91500-1-1-0-1742769717.7z](https://www.nexusmods.com/newvegas/mods/91500/?tab=files&file_id=1000148841)
 *  [Vanilla Plus Tonemapper-91500-1-1-2-1742872805.7z](https://www.nexusmods.com/newvegas/mods/91500/?tab=files&file_id=1000148898)
+*  [Vanilla Style Pip-Boy 3000 - RTR Patch v1.0-91369-1-0-1742457440.7z](https://www.nexusmods.com/newvegas/mods/91369/?tab=files&file_id=1000148572)
+*  [Vanilla Style Pip-Boy 3000-91369-1-0-1741799928.7z](https://www.nexusmods.com/newvegas/mods/91369/?tab=files&file_id=1000148111)
 *  [Vanilla Style-91907-1-0-1745017069.rar](https://www.nexusmods.com/newvegas/mods/91907/?tab=files&file_id=1000150441)
 *  [Vanilla Terrain Parallaxed-93063-0-03-1753730625.7z](https://www.nexusmods.com/newvegas/mods/93063/?tab=files&file_id=1000155384)
 *  [Vanilla_UI_Extension.7z](https://authored-files.wabbajack.org/Vanilla_UI_Extension.7z_f5276487-6196-49f1-ac01-b8f182ee1271)
@@ -1066,8 +1379,9 @@
 *  [Vendortron Position Fix-91815-2-0-1768499437.zip](https://www.nexusmods.com/newvegas/mods/91815/?tab=files&file_id=1000166483)
 *  [Version 1.0-83316-1-0-1696325110.zip](https://www.nexusmods.com/newvegas/mods/83316/?tab=files&file_id=1000117223)
 *  [Version 1.1-88929-1-1-1725152557.7z](https://www.nexusmods.com/newvegas/mods/88929/?tab=files&file_id=1000139102)
+*  VeryHigh.ini
 *  [Viewmodel Shading Fix - NVSE-84781-2-2-1737322776.7z](https://www.nexusmods.com/newvegas/mods/84781/?tab=files&file_id=1000145573)
-*  [Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000124732)
+*  [Viewmodel Shake Fix - NVSE-84443-1-21-1771542854.7z](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000169893)
 *  [Vintage Globe-69393-1-1-1714661390.rar](https://www.nexusmods.com/newvegas/mods/69393/?tab=files&file_id=1000129538)
 *  [VNV LOD Guide Plugins Merge-79358-1-0-1746220792.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000151188)
 *  [Vultures-87743-0-02-1718746714.7z](https://www.nexusmods.com/newvegas/mods/87743/?tab=files&file_id=1000134538)
@@ -1103,13 +1417,13 @@
 *  [Weathers Revised-83861-1-0-13-1743529989.7z](https://www.nexusmods.com/newvegas/mods/83861/?tab=files&file_id=1000149401)
 *  [Wheelchairs Ratified-94259-1-0-1760910385.zip](https://www.nexusmods.com/newvegas/mods/94259/?tab=files&file_id=1000159925)
 *  [Wild Wasteland Forever-71609-2-0-1647217939.7z](https://www.nexusmods.com/newvegas/mods/71609/?tab=files&file_id=1000089141)
-*  [Windows Ambient Light at Night-84945-1-0-1708127538.zip](https://www.nexusmods.com/newvegas/mods/84945/?tab=files&file_id=1000123808)
+*  [Window Ambient Light at Night Expanded (WALaNE)-95957-2-4-0-1774290084.zip](https://www.nexusmods.com/newvegas/mods/95957/?tab=files&file_id=1000172433)
 *  [Wonderful WonderGlue-82872-1-0-1693466198.7z](https://www.nexusmods.com/newvegas/mods/82872/?tab=files&file_id=1000115710)
 *  [Wooden Landmark Signs-96172-1-0-1770157617.7z](https://www.nexusmods.com/newvegas/mods/96172/?tab=files&file_id=1000168465)
 *  [Workbench Variation-90241-1-0-1734196641.7z](https://www.nexusmods.com/newvegas/mods/90241/?tab=files&file_id=1000144177)
-*  [Working Clock ESPless-86824-1-1-1765307655.7z](https://www.nexusmods.com/newvegas/mods/86824/?tab=files&file_id=1000162833)
 *  [WTH - Weapon Textures from Heaven 2k-69837-1-1-1610579173.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000069571)
 *  [WWP Cowboy Repeater Series - Main-73384-1-1629240689.7z](https://www.nexusmods.com/newvegas/mods/73384/?tab=files&file_id=1000079927)
+*  [Xolerys1 Unarmed Inspection-85633-1-0-1711427698.rar](https://www.nexusmods.com/newvegas/mods/85633/?tab=files&file_id=1000126287)
 *  [YCS186 Wild Wasteland Spawn-71284-1-2-1616767559.7z](https://www.nexusmods.com/newvegas/mods/71284/?tab=files&file_id=1000074117)
 *  [ySI - Additional Icons-92324-2-1-1766626630.7z](https://www.nexusmods.com/newvegas/mods/92324/?tab=files&file_id=1000164251)
 *  [ySI - Assorted Fixes-86715-1-3-0-1765087580.zip](https://www.nexusmods.com/newvegas/mods/86715/?tab=files&file_id=1000162601)
@@ -1117,7 +1431,9 @@
 *  [ySI - Contextual Prompts-85117-2-9-1761242565.zip](https://www.nexusmods.com/newvegas/mods/85117/?tab=files&file_id=1000160136)
 *  [ySI - Recipe Menu Support-95988-1-0-1769309295.rar](https://www.nexusmods.com/newvegas/mods/95988/?tab=files&file_id=1000167455)
 *  [ySI - Sorting Icons-74358-1-4b-1648916180.7z](https://www.nexusmods.com/newvegas/mods/74358/?tab=files&file_id=1000090359)
+*  [ySI Crafting Recipe Tracking-96836-1-0-1-1773681526.7z](https://www.nexusmods.com/newvegas/mods/96836/?tab=files&file_id=1000171966)
 *  [yUI-74357-1-4d-1646655873.7z](https://www.nexusmods.com/newvegas/mods/74357/?tab=files&file_id=1000088780)
+*  [Zion Bridges ReHammered-96788-1-1772916107.7z](https://www.nexusmods.com/newvegas/mods/96788/?tab=files&file_id=1000171296)
 *  [Zion Geology-94862-1-12-1767502007.7z](https://www.nexusmods.com/newvegas/mods/94862/?tab=files&file_id=1000165283)
 *  [Zion NP Brown Signs-96172-1-1b-1770147823.7z](https://www.nexusmods.com/newvegas/mods/96172/?tab=files&file_id=1000168459)
 *  [Zion NP Brown Signs-96172-2-0b-1770393192.7z](https://www.nexusmods.com/newvegas/mods/96172/?tab=files&file_id=1000168733)
