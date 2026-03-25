@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1437)
+### Valid (1426)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-3-1718394986.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000134231)
 *  [00 - IVB Legion - DEFAULT-80389-1-2-1715882064.7z](https://www.nexusmods.com/newvegas/mods/80389/?tab=files&file_id=1000131304)
@@ -90,7 +90,6 @@
 *  [Assorted UI Textures-88478-1-0-2-1774002970.zip](https://www.nexusmods.com/newvegas/mods/88478/?tab=files&file_id=1000172211)
 *  [Assorted Voice Popping Fixes-77073-2-5-1716925170.zip](https://www.nexusmods.com/newvegas/mods/77073/?tab=files&file_id=1000132747)
 *  [Asurah Reanimation Pack 0.2.3.2-64339-0-2-3-2-1610371277.7z](https://www.nexusmods.com/newvegas/mods/64339/?tab=files&file_id=1000069490)
-*  atimgpud.dll
 *  [Atmospheric Lighting Tweaks - FNV - YUP-79378-1-5-1731266645.7z](https://www.nexusmods.com/newvegas/mods/79378/?tab=files&file_id=1000142718)
 *  [Audio Region Fix - NVSE-91241-1-3-2-1743892637.7z](https://www.nexusmods.com/newvegas/mods/91241/?tab=files&file_id=1000149652)
 *  [Audley's Misc Textures-58318-2-0-1677155970.7z](https://www.nexusmods.com/newvegas/mods/58318/?tab=files&file_id=1000105420)
@@ -148,7 +147,6 @@
 *  [Better Wood Desk-91629-1-0-1743429241.zip](https://www.nexusmods.com/newvegas/mods/91629/?tab=files&file_id=1000149296)
 *  [BetterStandUp-76443-2-1703547706.zip](https://www.nexusmods.com/newvegas/mods/76443/?tab=files&file_id=1000120942)
 *  [Billboards HD Remade 2K-83464-1-1-1701622240.7z](https://www.nexusmods.com/newvegas/mods/83464/?tab=files&file_id=1000119867)
-*  binkw32.dll
 *  [Birds Of A Feather Karma-88175-1-1720633031.rar](https://www.nexusmods.com/newvegas/mods/88175/?tab=files&file_id=1000136007)
 *  [Bison Steven Layout Fixx-94449-1-0-0-1762147251.zip](https://www.nexusmods.com/newvegas/mods/94449/?tab=files&file_id=1000160738)
 *  [Blackened Mountain-93750-1-0-0-1757296081.zip](https://www.nexusmods.com/newvegas/mods/93750/?tab=files&file_id=1000157677)
@@ -672,10 +670,6 @@
 *  [Fallout TTW Reforged (Vault Clean)-96245-1-1770441355.rar](https://www.nexusmods.com/newvegas/mods/96245/?tab=files&file_id=1000168798)
 *  [Fallout TTW Reforged (Vault Ruined)-96410-1-1771200998.rar](https://www.nexusmods.com/newvegas/mods/96410/?tab=files&file_id=1000169560)
 *  [Fallout TV Show Style Pip Boy Always On Screen-96666-1-1772469262.zip](https://www.nexusmods.com/newvegas/mods/96666/?tab=files&file_id=1000170827)
-*  Fallout_default.ini
-*  FalloutNV.exe
-*  FalloutNV.ico
-*  FalloutNVLauncher.exe
 *  [Famine Exception Patches-87249-1-2-1755625980.7z](https://www.nexusmods.com/newvegas/mods/87249/?tab=files&file_id=1000156429)
 *  [Famine-74985-1-4-3-1773573439.7z](https://www.nexusmods.com/newvegas/mods/74985/?tab=files&file_id=1000171868)
 *  [Fast Doctors-92704-1-05-1750651314.7z](https://www.nexusmods.com/newvegas/mods/92704/?tab=files&file_id=1000153776)
@@ -720,7 +714,6 @@
 *  [FTO - Robots - Sentry bot 2K-86606-1-0-1714924505.7z](https://www.nexusmods.com/newvegas/mods/86606/?tab=files&file_id=1000129964)
 *  [FTO - Robots - Sentry turrets 4K-86644-1-0-1715012900.7z](https://www.nexusmods.com/newvegas/mods/86644/?tab=files&file_id=1000130086)
 *  [Furniture Variation-90259-1-1-1738450073.7z](https://www.nexusmods.com/newvegas/mods/90259/?tab=files&file_id=1000146147)
-*  GDFFalloutNV.dll
 *  [GECK Extender - Config-64888-0-46-1720022640.zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000135537)
 *  [Geck Extender-64888-0-5-1767025476.7z](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000164673)
 *  [Geck-64888-0-48-1739395409 (1).zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000146712)
@@ -776,7 +769,6 @@
 *  [High Resolution Screens-77989-1-2-1771538155.7z](https://www.nexusmods.com/newvegas/mods/77989/?tab=files&file_id=1000169885)
 *  [High Resolution Water Fog-78400-1-2-1771537879.7z](https://www.nexusmods.com/newvegas/mods/78400/?tab=files&file_id=1000169883)
 *  [High-quality Inventory Icon-72075-1-2-1618943627.zip](https://www.nexusmods.com/newvegas/mods/72075/?tab=files&file_id=1000075179)
-*  high.ini
 *  [Hikikomori Modern Night Vision ini-93406-1-0-1767524855.7z](https://www.nexusmods.com/newvegas/mods/93406/?tab=files&file_id=1000165316)
 *  [Hikikomori Remake-93406-2-5-1769321941.7z](https://www.nexusmods.com/newvegas/mods/93406/?tab=files&file_id=1000167469)
 *  [HIPControl-81967-0-1b3-1688591694.7z](https://www.nexusmods.com/newvegas/mods/81967/?tab=files&file_id=1000112537)
@@ -917,7 +909,6 @@
 *  [Longer Weather Transitions ESPLess-85286-1-0-1709495033.rar](https://www.nexusmods.com/newvegas/mods/85286/?tab=files&file_id=1000124884)
 *  [Lootable Terminals-96955-1-0-1773760864.7z](https://www.nexusmods.com/newvegas/mods/96955/?tab=files&file_id=1000172037)
 *  [Lore-Consistent Animated Terminal Screens-93239-1-1-0a-1755198116.zip](https://www.nexusmods.com/newvegas/mods/93239/?tab=files&file_id=1000156215)
-*  low.ini
 *  [LR Karma-91353-1-1741696084.rar](https://www.nexusmods.com/newvegas/mods/91353/?tab=files&file_id=1000148029)
 *  [lStewieAl - Cookable Grenades-81678-1-0-1692310563.zip](https://www.nexusmods.com/newvegas/mods/81678/?tab=files&file_id=1000114959)
 *  [lStewieAl - Menu Search-81743-1-0-1692310380.zip](https://www.nexusmods.com/newvegas/mods/81743/?tab=files&file_id=1000114957)
@@ -953,7 +944,6 @@
 *  [MCM BugFix 2-42507-.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=1000001534)
 *  [MCM Extender-93642-1-5-3-1771454275.zip](https://www.nexusmods.com/newvegas/mods/93642/?tab=files&file_id=1000169808)
 *  [Medicine Stick Buff - Vanilla Plus (Espless)-91858-1-0-1744730496.rar](https://www.nexusmods.com/newvegas/mods/91858/?tab=files&file_id=1000150240)
-*  medium.ini
 *  [Melee Hitstop (ESPless)-92543-1-4-1-1763460080.zip](https://www.nexusmods.com/newvegas/mods/92543/?tab=files&file_id=1000161614)
 *  [Melee Weapons - B42s Replacers (ESPLESS)-92350-2-5A-1772667543.7z](https://www.nexusmods.com/newvegas/mods/92350/?tab=files&file_id=1000171064)
 *  [Melee Weapons (ESPLESS)-92350-2-5-1770502785.7z](https://www.nexusmods.com/newvegas/mods/92350/?tab=files&file_id=1000168872)
@@ -1381,7 +1371,6 @@
 *  [Vendortron Position Fix-91815-2-0-1768499437.zip](https://www.nexusmods.com/newvegas/mods/91815/?tab=files&file_id=1000166483)
 *  [Version 1.0-83316-1-0-1696325110.zip](https://www.nexusmods.com/newvegas/mods/83316/?tab=files&file_id=1000117223)
 *  [Version 1.1-88929-1-1-1725152557.7z](https://www.nexusmods.com/newvegas/mods/88929/?tab=files&file_id=1000139102)
-*  VeryHigh.ini
 *  [Viewmodel Shading Fix - NVSE-84781-2-2-1737322776.7z](https://www.nexusmods.com/newvegas/mods/84781/?tab=files&file_id=1000145573)
 *  [Viewmodel Shake Fix - NVSE-84443-1-21-1771542854.7z](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000169893)
 *  [Vintage Globe-69393-1-1-1714661390.rar](https://www.nexusmods.com/newvegas/mods/69393/?tab=files&file_id=1000129538)
