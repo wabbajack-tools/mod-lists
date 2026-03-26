@@ -1,11 +1,10 @@
 ## Validation Report - Anvil (WakingDreams/ANVIL)
 
 
-### Invalid (1)
-*  [xLODGen.130.7z](https://authored-files.wabbajack.org/xLODGen.130.7z_46411724-ee2f-4dd2-8744-15edee2d55cd)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1054)
+### Valid (1055)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -1055,6 +1054,7 @@
 *  [Workbench 1.6.1-23164-1-6-1-1699566097.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23164/?tab=files&file_id=441266)
 *  [Worldspaces with Grass SSEEdit Script-55152-2-0-1719117187.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55152/?tab=files&file_id=514092)
 *  [Xenius Character Enhancement Complete-36985-v1-2-1591608608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36985/?tab=files&file_id=144454)
+*  [xLODGen.130.7z](https://authored-files.wabbajack.org/xLODGen.130.7z_46411724-ee2f-4dd2-8744-15edee2d55cd)
 *  [XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=469854)
 *  [XPMSSE Spazzing Skeleton Fix-75830-1-0-1663695956.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75830/?tab=files&file_id=318002)
 *  [YAR - Yuril's Additional Resources-89416-1-0-5-1731765713.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89416/?tab=files&file_id=562925)
