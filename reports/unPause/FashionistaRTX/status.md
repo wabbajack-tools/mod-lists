@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (5307)
+### Valid (5318)
 *  Bin_FileSystem_Stdio.dll
 *  Bin_MaterialSystem.dll
 *  Bin_Mss32.dll
@@ -28,7 +28,9 @@
 *  Bin_vphysics.dll
 *  Bin_vstdlib.dll
 *  Bin_zlib1.dll
+*  [Brujah Connor Mclaud  The Highlander by Marius217-181-1-1620051909.rar](https://www.nexusmods.com/vampirebloodlines/mods/181/?tab=files&file_id=528)
 *  [Computer Greeting-365-1-0-1764834066.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1400)
+*  [Corporate Goth Tremere-327-1-2-1762662636.rar](https://www.nexusmods.com/vampirebloodlines/mods/327/?tab=files&file_id=1355)
 *  Docs_Help__borders_left.htm
 *  Docs_Help__borders_side_ie.css
 *  Docs_Help__borders_style_ie.css
@@ -64,9 +66,18 @@
 *  Docs_License.txt
 *  Docs_MSR.txt
 *  [Fashionista Main Menu - RTX Edition-365-1-0-1772590272.zip](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1509)
+*  [Female Gangrel by Marius217-186-1-1629345561.rar](https://www.nexusmods.com/vampirebloodlines/mods/186/?tab=files&file_id=546)
+*  [Female Gangrel Reskin-394-19-01-2026-1768784023.zip](https://www.nexusmods.com/vampirebloodlines/mods/394/?tab=files&file_id=1481)
+*  [Gerri Dandridge (Fright Night 2 New Blood) for Ventrue-50-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/50/?tab=files&file_id=126)
+*  [Hooded Nosferatu v1.1-100-v1-1-1557952530.rar](https://www.nexusmods.com/vampirebloodlines/mods/100/?tab=files&file_id=239)
+*  [Lovely Degenerate - Director's Cut-96-2-0-1684714169.zip](https://www.nexusmods.com/vampirebloodlines/mods/96/?tab=files&file_id=798)
+*  [Malkavian Goth Female-378-0-0-1-1762653025.7z](https://www.nexusmods.com/vampirebloodlines/mods/378/?tab=files&file_id=1351)
 *  [MO2 Plugin-365-1-0-1764835640.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1402)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
+*  [Nosferatu by Marius217-189-1-1633574221.rar](https://www.nexusmods.com/vampirebloodlines/mods/189/?tab=files&file_id=551)
+*  [Player Characters Improved-163-7-1741784862.rar](https://www.nexusmods.com/vampirebloodlines/mods/163/?tab=files&file_id=1194)
 *  [Set Malkavians Font to Standard Font-365-1-0-1764834313.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1401)
+*  [toreador Lestat by Marius217-159-1-1601640768.rar](https://www.nexusmods.com/vampirebloodlines/mods/159/?tab=files&file_id=457)
 *  Vampire_cfg_dummy.txt
 *  Vampire_maps_ch_cloud_1.bsp
 *  Vampire_maps_ch_dragon_1.bsp

@@ -1,10 +1,11 @@
 ## Validation Report - Krosis (Krosis/Krosis)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2676)
+### Valid (2675)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -170,7 +171,6 @@
 *  [AST - Andrealphus Scene Tweaks-115647-1-1-1726351079.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115647/?tab=files&file_id=542245)
 *  [Athletic Shadow - 3BA Bodyslide Preset-156659-1-0-1754918668.zip](https://www.nexusmods.com/skyrimspecialedition/mods/156659/?tab=files&file_id=654717)
 *  [Atlas Map Markers-24104-3-0-4-1742779005.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=609074)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
 *  [Aura's Inventory Tweaks-68557-4-5-0-1713935718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68557/?tab=files&file_id=494229)

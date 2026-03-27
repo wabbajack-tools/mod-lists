@@ -1,10 +1,11 @@
 ## Validation Report - ARSE (ocm/tightarse)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1644)
+### Valid (1643)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -106,7 +107,6 @@
 *  [Assorted Mesh Fixes-32117-0-126-1736822797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=583110)
 *  [Assorted Mesh Fixes-32117-0-129-1757826207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=665534)
 *  [Astralite Weathers-156979-1-3-2-1760884720.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156979/?tab=files&file_id=677980)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Auri OStim Patch-61729-1-1-1691991357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61729/?tab=files&file_id=416926)
 *  [Auri Reacts To Your Music-50357-1-76-1725712909.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539632)
