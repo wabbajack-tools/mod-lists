@@ -1,10 +1,11 @@
 ## Validation Report - Fallout Anomaly - True Survival (FAnomaly/Fallout_Anomaly)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [ReShade 6.7.1 Full With License.7z](https://build.wabbajack.org/authored_files/direct_link/ReShade 6.7.1 Full With License.7z_2f9025bd-7826-4c2c-b12e-f93f060a2601)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1094)
+### Valid (1093)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.38 Machine Pistol-80048-1-0-3-1731601680.zip](https://www.nexusmods.com/fallout4/mods/80048/?tab=files&file_id=340123)
@@ -866,7 +867,6 @@
 *  [Remington Model 700 Patch-66736-1-1670534418.zip](https://www.nexusmods.com/fallout4/mods/66736/?tab=files&file_id=259712)
 *  [Replaceable Armor Plates 1.4-67852-1-4-1714519217.rar](https://www.nexusmods.com/fallout4/mods/67852/?tab=files&file_id=313330)
 *  [REPUTATION-79394-1-2-2-1742911895.7z](https://www.nexusmods.com/fallout4/mods/79394/?tab=files&file_id=351884)
-*  [ReShade 6.7.1 Full With License.7z](https://build.wabbajack.org/authored_files/direct_link/ReShade 6.7.1 Full With License.7z_2f9025bd-7826-4c2c-b12e-f93f060a2601)
 *  [Retextured Chems 2 - Ephla's Unique Chems-18867-0-6.zip](https://www.nexusmods.com/fallout4/mods/18867/?tab=files&file_id=78697)
 *  [Reverb and Ambiance Overhaul - Tweaked 1.0-63555-1-0-1661316287.rar](https://www.nexusmods.com/fallout4/mods/63555/?tab=files&file_id=247997)
 *  [Reverb and Ambiance patch v6.0-9048-6-0.rar](https://www.nexusmods.com/fallout4/mods/9048/?tab=files&file_id=90372)

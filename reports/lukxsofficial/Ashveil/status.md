@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1636)
+### Valid (1590)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -295,8 +295,6 @@
 *  [Crafting recipes-134088-1-2-1732305443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134088/?tab=files&file_id=564972)
 *  [Crashlog Tools - Updated-113668-1-1-1-1760306269.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=675319)
 *  [CrashLogger-59818-1-15-0-1728785300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=551592)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [CritterSpawn - Script Call Reduction - CritterFish-141745-2-1-5-1771312358.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141745/?tab=files&file_id=722389)
 *  [CritterSpawn - Script Call Reduction-141745-2-1-5-1771312211.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141745/?tab=files&file_id=722387)
 *  [Curation Club 1.1.0-60552-1-1-0-1673870936.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60552/?tab=files&file_id=350066)
@@ -713,7 +711,6 @@
 *  [Flat World Map Framework FOMOD Lite-29932-1-87-1690313092.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29932/?tab=files&file_id=410637)
 *  [Floating Subtitles - German-154745-2-0-0-1752607128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154745/?tab=files&file_id=647530)
 *  [Floating Subtitles-154424-2-0-2-1752668831.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154424/?tab=files&file_id=647721)
-*  flowchartx64.dll
 *  [Fluffy khajiit 3-167939-1-0-1766596872.zip](https://www.nexusmods.com/skyrimspecialedition/mods/167939/?tab=files&file_id=701693)
 *  [Fluffy Snow - 2K-8955-1-4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8955/?tab=files&file_id=23046)
 *  [Fluffy Snow for Majestic Mountains - 2K (MM1.8 and newer)-8955-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8955/?tab=files&file_id=67783)
@@ -936,15 +933,6 @@
 *  [Legendary Map-157397-1-0-2-1755902359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/157397/?tab=files&file_id=658242)
 *  [Leveled List Crash Fix-129136-1-1-1-1729025987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129136/?tab=files&file_id=552464)
 *  [LEX Main File-153176-0-1-1-9-1756096272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153176/?tab=files&file_id=658996)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [Lifesworn Vestige - Dynamic ENB cubemap-136837-1-1734820814.zip](https://www.nexusmods.com/skyrimspecialedition/mods/136837/?tab=files&file_id=574725)
 *  [Light Magic VFX Edit-151787-1-2-1749074436.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151787/?tab=files&file_id=634631)
 *  [Lightened Skyrim-50755-1-06-1657375075.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50755/?tab=files&file_id=297452)
@@ -1095,7 +1083,6 @@
 *  [Ordinator 9.35.0-1137-9-35-0-1760289511.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=675234)
 *  [Ordinator Expanded Masteries-29021-1-4-1580338707.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29021/?tab=files&file_id=121739)
 *  [Origins Of Forest - 3D Forest Grass-45719-1-4-8-1666599330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45719/?tab=files&file_id=326241)
-*  p4com64.dll
 *  [Paarthurnax - Quest Expansion - DEUTSCH-60198-1-12-1682881638.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60198/?tab=files&file_id=383415)
 *  [Paarthurnax - Quest Expansion-51711-1-12-1682859219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=383290)
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
@@ -1110,8 +1097,6 @@
 *  [Pandorable's NPCs - Dragonborn SE-30680-1-1-1575120229.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30680/?tab=files&file_id=114755)
 *  [Pandorable's NPCs - German Translation-56260-1-4-1632863056.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56260/?tab=files&file_id=231295)
 *  [Pandorable's NPCs - Males SE - German Translation-56267-1-1-1632868336.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56267/?tab=files&file_id=231309)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-10-0-1741317512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=602547)
 *  [Papyrus Ini Manipulator-65634-1-9-7-1726186850.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=541531)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
@@ -1349,7 +1334,6 @@
 *  [Skyrim's Paraglider - DEU-90655-1-5-0-1683229240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90655/?tab=files&file_id=384671)
 *  [Skyrim's Paraglider Anniversary Edition-71123-1-11-0-1704159999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=457113)
 *  [SkyrimCharacterSheet-56069-1-1-4-1708629465.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56069/?tab=files&file_id=473589)
-*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
@@ -1502,36 +1486,6 @@
 *  [To Your Face AE-24720-1-0u-1705996371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=464059)
 *  [Toggle Compass Hotkey - Settings Loader-77390-1-0-1-1667664162.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77390/?tab=files&file_id=329199)
 *  [toggle compass hotkey-63247-1-0-1644267928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63247/?tab=files&file_id=262538)
-*  Tools_Archive_Archive.exe
-*  Tools_ArtTools_Blender_bgs_skyrim_tools.zip
-*  Tools_ArtTools_Blender_io_scene_bsfbx_skyrim.zip
-*  Tools_AssetWatcher_AssetWatcher.exe
-*  Tools_AssetWatcher_platforms_qminimal.dll
-*  Tools_AssetWatcher_platforms_qoffscreen.dll
-*  Tools_AssetWatcher_platforms_qwindows.dll
-*  Tools_AssetWatcher_Plugins_Skyrim_BSFBXDLL.dll
-*  Tools_AssetWatcher_Plugins_Skyrim_Meshes_Settings.json
-*  Tools_AssetWatcher_Qt5Core.dll
-*  Tools_AssetWatcher_Qt5Gui.dll
-*  Tools_AssetWatcher_Qt5Network.dll
-*  Tools_AssetWatcher_Qt5Svg.dll
-*  Tools_AssetWatcher_Qt5Widgets.dll
-*  Tools_AssetWatcher_SettingsGeneration.py
-*  Tools_AssetWatcher_styles_Default.css
-*  Tools_AssetWatcher_styles_qwindowsvistastyle.dll
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_Exporting Blender Art Assets for Skyrim.pdf
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_readme.txt
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
-*  Tools_LipGen_LipFuzer_LIPFuzer.exe
-*  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_LipGen_LipGenerator_LipGenerator.exe
-*  Tools_redist_dxwebsetup.exe
-*  Tools_redist_VC_redist.x64.exe
-*  Tools_RoboVoicer.exe
 *  [Torches Cast Shadows 3.5 - Deutsch-11924-3-5-1575742430.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11924/?tab=files&file_id=115507)
 *  [Torches Cast Shadows-1369-3-5-1563485796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1369/?tab=files&file_id=99724)
 *  [Tower lods for medieval forts of skyrim-83582-1-1674808259.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83582/?tab=files&file_id=353468)
