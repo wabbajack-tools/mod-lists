@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (144)
+### Valid (141)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [All in one (all game versions)-32444-11-1770897704.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=720756)
@@ -27,7 +27,6 @@
 *  [ConsolePlusPlus-79975-1-5-0-1759958106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79975/?tab=files&file_id=673750)
 *  [ConsoleUtilSSE NG-76649-1-5-1-1704108553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=456904)
 *  [CrashLogger-59818-1-20-1-1770787893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=720311)
-*  CreationKitPrefs.ini
 *  [CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=484532)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
@@ -85,7 +84,6 @@
 *  [KiLoader for Skyrim-99404-1-2-1713391803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99404/?tab=files&file_id=491966)
 *  [Leveled List Crash Fix-129136-1-1-1-1729025987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129136/?tab=files&file_id=552464)
 *  [LOD Unloading Bug Fix-61251-0-2-1728699151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=551262)
-*  Logs_Script_EditorPapyrus.0.log
 *  Low.ini
 *  [MCM Helper-53000-1-5-0-1702843613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=452755)
 *  Medium.ini
@@ -119,7 +117,6 @@
 *  [Skyrim Landscape and Water Fixes - FOMOD-26138-v10-0-2-1771515251.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26138/?tab=files&file_id=723202)
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
-*  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  SkyrimSE.exe
