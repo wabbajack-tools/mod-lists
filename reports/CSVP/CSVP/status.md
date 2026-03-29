@@ -86,7 +86,6 @@
 *  [Alternate Start-112918-1-0-1709375179.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112918/?tab=files&file_id=476192)
 *  [AMatterOfTime_v3_0_0_alpha_4-12937-v3-0-0a4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
 *  [Amon - SK textures All in One-112174-1-1708477463.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112174/?tab=files&file_id=473070)
-*  [Amon Textures HD AIO-92695-3-1725194014.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92695/?tab=files&file_id=537565)
 *  [Ancestor Glade Tree vanilla-165354-1-0-1763996799.7z](https://www.nexusmods.com/skyrimspecialedition/mods/165354/?tab=files&file_id=690782)
 *  [Ancient AF Windhelm - Parallax-121745-1-2-2-1718560296.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121745/?tab=files&file_id=512235)
 *  [Ancient AF Windhelm 2K-63330-2-0-1648005938.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63330/?tab=files&file_id=271903)
@@ -508,12 +507,14 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [Dawnfire Azurite III - Required Files-147826-1-0-1-1744942847.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=618437)
 *  [Dawnfire ENB for NATIII-111660-2-4-1-1722076640.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111660/?tab=files&file_id=525522)
+*  [Dawnfire NAT3 ENB - Addon-175076-1-0-1773934954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175076/?tab=files&file_id=732998)
+*  [Dawnfire NAT3 ENB - Reborn-175076-1-0-1773934908.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175076/?tab=files&file_id=732995)
 *  [Dawnfire Required Files - Panda's NAT3 Tweaks --111660-2-4-1722003061.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111660/?tab=files&file_id=525182)
 *  [Dawnguard Weapons Are Silver - SkyPatcher-111839-1-1-1712522118.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111839/?tab=files&file_id=488454)
 *  [DbMiscFunctions-65410-9-1-1743582095.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=612946)
@@ -907,7 +908,6 @@
 *  [High Poly Dragonborn Ingredients Retextured 2K-71237-1-01-1657644662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71237/?tab=files&file_id=298421)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Milk Jug-69466-1-0-1654889947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290260)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)

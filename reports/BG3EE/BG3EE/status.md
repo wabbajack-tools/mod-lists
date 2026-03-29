@@ -88,7 +88,7 @@
 *  [Darker Underdark 240928 Update-12237-1-0-0-18-1727487429.zip](https://www.nexusmods.com/baldursgate3/mods/12237/?tab=files&file_id=73015)
 *  [Database Cleaner-5612-1-3-1705142283.zip](https://www.nexusmods.com/baldursgate3/mods/5612/?tab=files&file_id=39646)
 *  [Default - Loose-14841-1-000-1751580816.rar](https://www.nexusmods.com/baldursgate3/mods/14841/?tab=files&file_id=97267)
-*  [Dice Roulette-20857-1-0-1-1-1770002308.zip](https://www.nexusmods.com/baldursgate3/mods/20857/?tab=files&file_id=113926)
+*  [Dice Roulette-20857-1-1-0-0-1774627942.zip](https://www.nexusmods.com/baldursgate3/mods/20857/?tab=files&file_id=117572)
 *  [Display Status Immunities-17976-1-4-1-1769345330.zip](https://www.nexusmods.com/baldursgate3/mods/17976/?tab=files&file_id=113231)
 *  [Do Not Eat Owlbear Egg-12077-1-0-1725918914.zip](https://www.nexusmods.com/baldursgate3/mods/12077/?tab=files&file_id=70195)
 *  [Downed Condition DnD 5e-19103-1-2-1762105106.rar](https://www.nexusmods.com/baldursgate3/mods/19103/?tab=files&file_id=106599)
