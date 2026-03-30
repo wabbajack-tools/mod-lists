@@ -2,7 +2,7 @@
   "MachineURL": "Lyra/LyraRequiemWabba",
   "Name": "Lyra",
   "Version": "0.5.0",
-  "ModListHash": "RHBZRXt/7bk=",
+  "ModListHash": "50sE7fBl4y8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2086,20 +2086,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/xLODGen.129.7z_a9440abe-ca6c-48aa-ab31-4fe7e8f2484c"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MsIFUQ57Jbo=",
-        "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z",
-        "Name": "zEdit_v0.6.6.1_-_Portable_x64.7z",
-        "Size": 58236583,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
         }
       }
     },
@@ -32279,6 +32265,20 @@
           "ModID": 137033,
           "Name": "Vanaheimr - Mines and Caves",
           "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MsIFUQ57Jbo=",
+        "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z",
+        "Name": "zEdit_v0.6.6.1_-_Portable_x64.7z",
+        "Size": 58236583,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
         }
       }
     },
