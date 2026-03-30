@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1659)
+### Valid (1656)
 *  [(SSS) Face v1.8 FOMOD Installer-6940-1-8.zip](https://www.nexusmods.com/fallout4/mods/6940/?tab=files&file_id=32569)
 *  [0. VTAC REDUX Sharpshooter Set v.1.7.5 - Update-90994-v-1-7-5-1748457389.7z](https://www.nexusmods.com/fallout4/mods/90994/?tab=files&file_id=357426)
 *  [0. VTAC REDUX v.2.5 - Update File-81751-v-2-5-1746294212.7z](https://www.nexusmods.com/fallout4/mods/81751/?tab=files&file_id=355303)
@@ -43,6 +43,7 @@
 *  [Ace Male Textures-53790-1-7-1632752983.zip](https://www.nexusmods.com/fallout4/mods/53790/?tab=files&file_id=217877)
 *  [Achievements Mods Enabler-15639-1-41-1715103798.zip](https://www.nexusmods.com/fallout4/mods/15639/?tab=files&file_id=314936)
 *  [Adam Diver-ish-58768-1-0-1647070303.7z](https://www.nexusmods.com/fallout4/mods/58768/?tab=files&file_id=231825)
+*  [Addictol 1.1-84214-1-1-1772361097.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=387841)
 *  [Additional Hair Colors EN-38571-Release-1556148149.zip](https://www.nexusmods.com/fallout4/mods/38571/?tab=files&file_id=156734)
 *  [Address Library - All In One-47327-AIO-1715667241.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=316412)
 *  [Advanced Needs 76 - Main File-58440-v1-8-9-1701008761.zip](https://www.nexusmods.com/fallout4/mods/58440/?tab=files&file_id=295190)
@@ -134,8 +135,6 @@
 *  [CCO_v1_for Heather_v2.xx-72435-1-5-1687726149.7z](https://www.nexusmods.com/fallout4/mods/72435/?tab=files&file_id=281567)
 *  [Celine replace Curie-82823-1-0-1715883524.rar](https://www.nexusmods.com/fallout4/mods/82823/?tab=files&file_id=316934)
 *  [Cheat Terminal v1.72-13285-1-72-1683731116.rar](https://www.nexusmods.com/fallout4/mods/13285/?tab=files&file_id=276741)
-*  [Child Outfits Vanilla and Conversions Standalone - No AWKCR-40752-1-0-1593142758.zip](https://www.nexusmods.com/fallout4/mods/40752/?tab=files&file_id=185263)
-*  [Child Outfits Vanilla Standalone Ver 1.3-18664-1-3.rar](https://www.nexusmods.com/fallout4/mods/18664/?tab=files&file_id=77082)
 *  [Children of Ug Qualtoth Patch-50089-1-0-1657504336.zip](https://www.nexusmods.com/fallout4/mods/50089/?tab=files&file_id=243044)
 *  [Children of Ug-Qualtoth Previs Patch-79497-1-0-1739172593.7z](https://www.nexusmods.com/fallout4/mods/79497/?tab=files&file_id=347732)
 *  [Children of Ug-Qualtoth Redux-43527-2-1-1720480250.zip](https://www.nexusmods.com/fallout4/mods/43527/?tab=files&file_id=326122)
@@ -464,12 +463,10 @@
 *  [Garden of Eden Papyrus Script Extender - Next-Gen-74160-19-5-1743885785.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=352996)
 *  [GCM DLC Automatron-33759-4-0.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=137688)
 *  [GCM DLC Far Harbor-33759-0-6-1561641689.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=160697)
-*  [Gemini's AIO Munitions Patch - Wasteland Genesis-95495-v-3-1756131635.7z](https://www.nexusmods.com/fallout4/mods/95495/?tab=files&file_id=365510)
 *  [Gemini's CBBE Bodyslide Preset - Natasha-96048-v-2-1755786824.7z](https://www.nexusmods.com/fallout4/mods/96048/?tab=files&file_id=365084)
 *  [Gemini's FixCubeMaps Patch - Wasteland Genesis 3.1-97927-v1-0-1762381361.7z](https://www.nexusmods.com/fallout4/mods/97927/?tab=files&file_id=372482)
 *  [Gemini's Looksmenu Presets - Main 3-96085-v1-0-1755938746.7z](https://www.nexusmods.com/fallout4/mods/96085/?tab=files&file_id=365258)
 *  [Gemini's Munitions Patches - SIG Sauer Pistol Pack-97518-v1-0-1761155254.7z](https://www.nexusmods.com/fallout4/mods/97518/?tab=files&file_id=370971)
-*  [Gemini's Recipes - Wasteland Genesis-95495-v-3a-1756153565.7z](https://www.nexusmods.com/fallout4/mods/95495/?tab=files&file_id=365538)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
 *  [GIAT FAMAS FB Addon 4k-78241-1-0-1707061740.zip](https://www.nexusmods.com/fallout4/mods/78241/?tab=files&file_id=302336)
@@ -580,7 +577,6 @@
 *  [mdkd's Northern Springs Bugfixes - 2K textures-71883-1-11-1748088704.zip](https://www.nexusmods.com/fallout4/mods/71883/?tab=files&file_id=357143)
 *  Medium.ini
 *  [Merged RootBehavior-65555-1-0-3-1739312087.zip](https://www.nexusmods.com/fallout4/mods/65555/?tab=files&file_id=347843)
-*  [MergedChildModsWithExtras.esp-37812-1-4-1608336050.zip](https://www.nexusmods.com/fallout4/mods/37812/?tab=files&file_id=197296)
 *  [MG69 - Assault Rifle Replacer-56254-1-1-1646102960.zip](https://www.nexusmods.com/fallout4/mods/56254/?tab=files&file_id=231005)
 *  [Minuteman Watchtowers (ESL)-67115-0-2-1674065687.7z](https://www.nexusmods.com/fallout4/mods/67115/?tab=files&file_id=264033)
 *  [Misc anim tweaks and fixes-53597-1-6-1-1715706661.7z](https://www.nexusmods.com/fallout4/mods/53597/?tab=files&file_id=316512)
@@ -592,6 +588,7 @@
 *  [Moon Palace 1.1-18971-1-1.rar](https://www.nexusmods.com/fallout4/mods/18971/?tab=files&file_id=79294)
 *  [More Wildlife ESL-51503-1-2-1674834756.zip](https://www.nexusmods.com/fallout4/mods/51503/?tab=files&file_id=265157)
 *  [MoreLeavesFXEN-54406-1-0-1631377438.rar](https://www.nexusmods.com/fallout4/mods/54406/?tab=files&file_id=216673)
+*  [Motion Vector Fixes-98544-1-0-1-1764074619.zip](https://www.nexusmods.com/fallout4/mods/98544/?tab=files&file_id=375358)
 *  [MR-FSSt Combined ESL-62941-2-1-1659984022.7z](https://www.nexusmods.com/fallout4/mods/62941/?tab=files&file_id=246127)
 *  msvcp110.dll
 *  msvcr110.dll
@@ -718,7 +715,7 @@
 *  [RJsTattoos-84920-2-0-1719156097.rar](https://www.nexusmods.com/fallout4/mods/84920/?tab=files&file_id=324111)
 *  [Roads Redone 2K-24829-1-0.zip](https://www.nexusmods.com/fallout4/mods/24829/?tab=files&file_id=101226)
 *  [Robco - Caliber Complex Ammo Conversion-91121-1-0-1738191475.zip](https://www.nexusmods.com/fallout4/mods/91121/?tab=files&file_id=346702)
-*  [RobCo Patcher-69798-4-1-0-1734982266.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=343448)
+*  [RobCo Patcher - NG - ALPHA-69798-4-2-1-1758269310.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=368046)
 *  [Robots 2k BA2-70731-3-0-1682522639.rar](https://www.nexusmods.com/fallout4/mods/70731/?tab=files&file_id=275402)
 *  [Rock Island Lighthouse-63892-1-04-1720126322.zip](https://www.nexusmods.com/fallout4/mods/63892/?tab=files&file_id=325496)
 *  [Russian Assault Pack - 1.0-42283-1-0-1575075214.7z](https://www.nexusmods.com/fallout4/mods/42283/?tab=files&file_id=171750)
@@ -900,28 +897,29 @@
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_4b8e0b_256x240.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_a83300_256x240.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_cccccc_256x240.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.min.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.16.custom.css
-*  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_css_images_ajax-loader.gif
 *  Tools_MaterialEditor_htdocs_css_jquery.treeview.css
 *  Tools_MaterialEditor_htdocs_css_screen.css
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_diagonals-thick_18_b81900_40x40.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_diagonals-thick_20_666666_40x40.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_flat_10_000000_40x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_100_f6f6f6_1x400.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_100_fdf5ce_1x400.png
-*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_gloss-wave_35_f6a828_500x100.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_65_ffffff_1x400.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_228ef1_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ef8c08_256x240.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ffd27a_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_css_ui.spinner.css
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-bg_diagonals-thick_18_b81900_40x40.png
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-bg_diagonals-thick_20_666666_40x40.png
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-bg_glass_65_ffffff_1x400.png
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-icons_ffd27a_256x240.png
+*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-bg_gloss-wave_35_f6a828_500x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_AUTHORS.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_collapsible.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_custom-icons.html
@@ -933,6 +931,7 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_no-auto-height.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_sortable.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_addClass_default.html
+*  Tools_MaterialEditor_htdocs_development-bundle_demos_addClass_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_animate_default.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_autocomplete_categories.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_autocomplete_combobox.html
@@ -1022,6 +1021,7 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_demo-spindown-closed.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_demo-spindown-open.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_icon-docs-info.gif
+*  Tools_MaterialEditor_htdocs_development-bundle_demos_images_pbar-ani.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_position_cycler.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_position_default.html
@@ -1031,7 +1031,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_position_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_animated.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_default.html
-*  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_images_pbar-ani.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_resize.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_removeClass_default.html
@@ -1052,7 +1051,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_selectable_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_selectable_serialize.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_show_default.html
-*  Tools_MaterialEditor_htdocs_development-bundle_demos_show_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_slider_colorpicker.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_slider_default.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_slider_hotelrooms.html
@@ -1122,7 +1120,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.css
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.js
 *  Tools_MaterialEditor_htdocs_development-bundle_GPL-LICENSE.txt
-*  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.7.2.js
 *  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.9.1.js
 *  Tools_MaterialEditor_htdocs_development-bundle_MIT-LICENSE.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_package.json
@@ -1150,11 +1147,10 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.resizable.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.selectable.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.slider.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-icons_ffffff_256x240.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery-ui-1.8.20.custom.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.accordion.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.all.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.autocomplete.css
@@ -1193,7 +1189,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-gl.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-he.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hr.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hu.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hy.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-id.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-is.js
@@ -1205,7 +1200,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-lv.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ml.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ms.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-nl-BE.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-nl.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-no.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-pl.js
@@ -1228,7 +1222,7 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-CN.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-HK.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-TW.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.drop.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.scale.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.accordion.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.autocomplete.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.button.js
@@ -1247,7 +1241,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.tabs.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.widget.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.fade.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.fold.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.accordion.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.autocomplete.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.button.min.js
@@ -1290,7 +1283,7 @@
 *  Tools_MaterialEditor_htdocs_jquery-1.10.2.min.js
 *  Tools_MaterialEditor_htdocs_jquery.bgsdlgeditor.css
 *  Tools_MaterialEditor_htdocs_jquery.bgsdlgeditor.js
-*  Tools_MaterialEditor_htdocs_jquery.cleditor.js
+*  Tools_MaterialEditor_htdocs_jquery.cleditor.txt
 *  Tools_MaterialEditor_htdocs_jquery.jgrowl.css
 *  Tools_MaterialEditor_htdocs_jquery.jgrowl.js
 *  Tools_MaterialEditor_htdocs_jquery.js
@@ -1302,7 +1295,7 @@
 *  Tools_MaterialEditor_htdocs_jquery.treeview2.js
 *  Tools_MaterialEditor_htdocs_js_intro.js
 *  Tools_MaterialEditor_htdocs_js_jquery-1.6.2.min.js
-*  Tools_MaterialEditor_htdocs_js_jquery-1.7.2.min.js
+*  Tools_MaterialEditor_htdocs_js_jquery-1.7.2.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.8.16.custom.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.8.20.custom.min.js
@@ -1485,6 +1478,7 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-he.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hi.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hr.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hu.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hy.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-id.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-is.js
@@ -1500,6 +1494,7 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-mk.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ml.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ms.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-nl-BE.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-nl.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-no.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-pl.js
@@ -1523,6 +1518,7 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-CN.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-HK.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-TW.js
+*  Tools_MaterialEditor_htdocs_ui_jquery-1.7.2.min.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.8.16.custom.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.8.20.custom.js
@@ -1531,12 +1527,12 @@
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.bounce.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.clip.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.core.js
+*  Tools_MaterialEditor_htdocs_ui_jquery.effects.drop.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.explode.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.fade.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.fold.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.highlight.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.pulsate.js
-*  Tools_MaterialEditor_htdocs_ui_jquery.effects.scale.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.shake.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.slide.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.transfer.js
@@ -1564,6 +1560,7 @@
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.core.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.drop.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.explode.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fold.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.highlight.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.pulsate.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.scale.min.js

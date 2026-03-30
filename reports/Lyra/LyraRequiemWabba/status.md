@@ -1,11 +1,10 @@
 ## Validation Report - Lyra (Lyra/LyraRequiemWabba)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1587)
+### Valid (1588)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -725,6 +724,7 @@
 *  [High Poly Sweet Rolls - 2K-44077-2-0-1613863729.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44077/?tab=files&file_id=187087)
 *  [High Quality Ivy-113578-1-35-1742119283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=606234)
 *  High.ini
+*  [Hight Poly Head From Vector Plexus-74028-v1-4-1661431618.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74028/?tab=files&file_id=310254)
 *  [HLT Patch-50961-2-05-1703364361.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=454550)
 *  [Holy Wards - a retexture-18535-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18535/?tab=files&file_id=60014)
 *  [HOTFIX - Missing Textures-97981-1-2-3-7-1750904422.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97981/?tab=files&file_id=641726)
