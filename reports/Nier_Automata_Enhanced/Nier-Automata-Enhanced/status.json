@@ -2,10 +2,626 @@
   "MachineURL": "Nier_Automata_Enhanced/Nier-Automata-Enhanced",
   "Name": "Nier Automata Enhanced",
   "Version": "1.0.0",
-  "ModListHash": "FLmiBlxOQqs=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "ModListHash": "hl6h2T6ABGY=",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NEeDZZmavFA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Mod.Organizer-2.5.3beta2.7z_0c38ea80-4797-4d79-bfc0-3ebd9c2f5f89",
+        "Name": "Mod.Organizer-2.5.3beta2.7z",
+        "Size": 144329854,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Mod.Organizer-2.5.3beta2.7z_0c38ea80-4797-4d79-bfc0-3ebd9c2f5f89"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DYRCQrcjSrY=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=18\nfileID=711",
+        "Name": "Complete Package (ReShade 4.7.0)-18-1-1-1594814420.rar",
+        "Size": 49767373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ChaserJZX",
+          "Description": "A reshade preset that aims to make the image appear crisp and clean while keeping the original asthetics.",
+          "FileID": 711,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/18/18-1564503678-1655057908.png",
+          "IsNSFW": false,
+          "ModID": 18,
+          "Name": "Clean Reshade preset",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lCJe3i7mhoM=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip",
+        "Name": "rootbuilder.5.1.1.zip",
+        "Size": 957191,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "79hxZP2Ad40=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1439",
+        "Name": "2TS(SC6 Model) - Without Feathers-30-2-1653129677.zip",
+        "Size": 63687920,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1439,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R0s3XsQx3Y0=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=169\nfileID=1241",
+        "Name": "NA AI 1440p30 Cutscenes 1.1 P1-169-1-1-1633024297.zip",
+        "Size": 10244126170,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wmg317",
+          "Description": "Replaces the default pre-rendered cutscenes with 4K or 1440p resolution AI upscaled ones.",
+          "FileID": 1241,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/169/169-1630230782-1278528887.png",
+          "IsNSFW": false,
+          "ModID": 169,
+          "Name": "NieR Automata AI Upscaled 4K and 1440p Cutscenes",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vvYIKtuww8c=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=169\nfileID=1242",
+        "Name": "NA AI 1440p30 Cutscenes 1.1 P2-169-1-1-1633033808.zip",
+        "Size": 9430233585,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wmg317",
+          "Description": "Replaces the default pre-rendered cutscenes with 4K or 1440p resolution AI upscaled ones.",
+          "FileID": 1242,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/169/169-1630230782-1278528887.png",
+          "IsNSFW": false,
+          "ModID": 169,
+          "Name": "NieR Automata AI Upscaled 4K and 1440p Cutscenes",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hFm7bQCB4Dg=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=148\nfileID=1260",
+        "Name": "NieR Visual Overhaul 2.0-148-100000000000000-1637855927.zip",
+        "Size": 40015892,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "stewate",
+          "Description": "Do you ever think that Nier Automata\u0027s washed colors and purplish tint are kinda ass? This will fix it for ya. :p",
+          "FileID": 1260,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/148/148-1626644162-61409696.png",
+          "IsNSFW": false,
+          "ModID": 148,
+          "Name": "NVO(NieR Visual Overhaul) 2.0 - NO RAYTRACING INCLUDED",
+          "Version": "9999.9999"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xUB2vsJSgAU=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=20\nfileID=607",
+        "Name": "NieR Fantasy ReShade-20-v1-0-1569044446.zip",
+        "Size": 14837793,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vanguard1776",
+          "Description": "A fantasy-style ReShade preset that adds a new level of depth, color, and visual effects to the original NieR - Automata graphics.",
+          "FileID": 607,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/20/20-1568084817-1573511153.png",
+          "IsNSFW": false,
+          "ModID": 20,
+          "Name": "NieR Fantasy ReShade",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HbfhGdsKOlE=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=763\nfileID=3965",
+        "Name": "1440p Texture Pack AI-Enhanced-763-2-1767232986.zip",
+        "Size": 8138537937,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CascadeHush",
+          "Description": "Hi res texture pack for Wax based on 4K Texture Pack AI-Enhanced by Evgeshajk, condensed and downscaled for mid-range systems typically targeting 1440p.\n\nExample images are 1:1 pixel resolution with original screen captures without additional mods. They are 1080p crops (in line with Nexus Mods recommendations) of 1440p images.",
+          "FileID": 3965,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/763/763-1767318697-548529918.jpg",
+          "IsNSFW": false,
+          "ModID": 763,
+          "Name": "1440p and 1080p Texture Pack AI-Enhanced",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P/hU0DNZbOI=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1438",
+        "Name": "2BS(Vanilla) - Without Feathers-30-2-1653129630.zip",
+        "Size": 54107354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1438,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NKEMgzqE7D0=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1442",
+        "Name": "A2 CLEAN-30-2-1653130236.zip",
+        "Size": 80667511,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1442,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pTga5m2IMjE=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=5\nfileID=1106",
+        "Name": "NieR Automata - Texture Pack V1.03-5-1-03-1627339412.zip",
+        "Size": 1220886395,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GPUnity",
+          "Description": "Texture Pack intended to upgrade low quality assets. 2B and A2 textures are carefully redrawn in 4K.",
+          "FileID": 1106,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/5/5-1620604795-793538488.jpeg",
+          "IsNSFW": false,
+          "ModID": 5,
+          "Name": "HD Texture Pack",
+          "Version": "1.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qQrvzY3jPWA=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=723\nfileID=3802",
+        "Name": "Fonts Fix-723-1-0-1749297661.7z",
+        "Size": 44192128,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Arthandas",
+          "Description": "Upscales the fonts and fixes the weird outlines behind the letters.",
+          "FileID": 3802,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/723/723-1749297344-1592077190.png",
+          "IsNSFW": false,
+          "ModID": 723,
+          "Name": "HD Texture Pack - Fonts Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5QwZE+ySuBM=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1090",
+        "Name": "PODS-30-2-1626883462.7z",
+        "Size": 129529354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1090,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/xoaqfiUSxw=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=702\nfileID=3649",
+        "Name": "Red Chest Markers-702-1-0-0-1740414139.zip",
+        "Size": 53024,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MetalTxus",
+          "Description": "Turns chest markers red, to better differentiate them from most other icons.",
+          "FileID": 3649,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/702/702-1740414100-1910339160.png",
+          "IsNSFW": false,
+          "ModID": 702,
+          "Name": "Red Chest Markers",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QbeEVJkVaJQ=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1440",
+        "Name": "9S-30-2-1653129980.zip",
+        "Size": 57264330,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1440,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zi1g+IvNRhs=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1441",
+        "Name": "A2 Vanilla(Dirty)-30-2-1653130119.zip",
+        "Size": 87602235,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1441,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6q8w38Wdv6s=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=210\nfileID=1313",
+        "Name": "Amusement Park Unlcok-210-1-0-0-1648235575.zip",
+        "Size": 9972122,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RaiderBV",
+          "Description": "Unlocks a hidden area on the satellite map in the Amusement Park. Includes the castle, broken Ferris Wheel and roller coaster.",
+          "FileID": 1313,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/210/210-1648234615-1051674242.png",
+          "IsNSFW": false,
+          "ModID": 210,
+          "Name": "Hidden Amusement Park Map Unlock",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lO3QbhXxGOY=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=151\nfileID=1080",
+        "Name": "Main Menu-151-1-0-1626789755.rar",
+        "Size": 442033,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ChaserJZX",
+          "Description": "Yeah so the color banding was pretty damn bad. Fixed it up and used different compression",
+          "FileID": 1080,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/151/151-1626672825-1641659886.png",
+          "IsNSFW": false,
+          "ModID": 151,
+          "Name": "Home Menu Texture compression fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EPE8EhAQguE=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=174\nfileID=1232",
+        "Name": "DualShock4 Buttons-174-1-1-0-1631888923.7z",
+        "Size": 56937,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spodi",
+          "Description": "DualShock4 Buttons for Nier Automata July 2021 Patch. \n\nRequires Special K.",
+          "FileID": 1232,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/174/174-1631890251-551570903.png",
+          "IsNSFW": false,
+          "ModID": 174,
+          "Name": "DualShock4 (PS4) Buttons",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BUcdPi6xV5Y=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=744\nfileID=3888",
+        "Name": "WAX-744-0-2-1-1758618396.zip",
+        "Size": 1572508,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Woeful_Wolf",
+          "Description": "Various extensions and rewrites of game engine systems, allowing greater modding capabilities and some other custom goodies.",
+          "FileID": 3888,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/744/744-1757259605-1076285097.jpg",
+          "IsNSFW": false,
+          "ModID": 744,
+          "Name": "Wolf\u0027s Automata eXtensions (WAX)",
+          "Version": "0.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+M7xhLM/1bc=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=728\nfileID=3814",
+        "Name": "Doropod-728-1-00-1749948240.zip",
+        "Size": 1651744,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Baal",
+          "Description": "Repalces Pod 042 with Doro",
+          "FileID": 3814,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/728/728-1749948114-1236662979.png",
+          "IsNSFW": false,
+          "ModID": 728,
+          "Name": "Doro Pod",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nTyvdCp/sZ8=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=149\nfileID=1067",
+        "Name": "Grain Removal-149-1-0-1626651145.rar",
+        "Size": 285937,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ChaserJZX",
+          "Description": "Removes the grid overlay like the other mod, just for the new patch. Also can remove the grain seen in the Bunker.",
+          "FileID": 1067,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/149/149-1626651669-640423942.png",
+          "IsNSFW": false,
+          "ModID": 149,
+          "Name": "Grid Vignette and Bunker Grain Removal",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fDlqXAa3u2E=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=149\nfileID=1893",
+        "Name": "Remove Everything-149-1-0-1671482300.7z",
+        "Size": 108278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ChaserJZX",
+          "Description": "Removes the grid overlay like the other mod, just for the new patch. Also can remove the grain seen in the Bunker.",
+          "FileID": 1893,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/149/149-1626651669-640423942.png",
+          "IsNSFW": false,
+          "ModID": 149,
+          "Name": "Grid Vignette and Bunker Grain Removal",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pO2QGsZY9Bo=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1436",
+        "Name": "2BS(Vanilla)-30-2-1653129516.zip",
+        "Size": 54263493,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1436,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ado2fSKRBjw=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=359\nfileID=1864",
+        "Name": "Fixed Sand Footsteps-359-1-0-1668036926.7z",
+        "Size": 25782,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Takahama and Kekoulis",
+          "Description": "This mod replaces the floating sand footstep effect with a properly adjusted one. No more floating footsteps!",
+          "FileID": 1864,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/359/359-1668036504-903869667.png",
+          "IsNSFW": false,
+          "ModID": 359,
+          "Name": "Sand Footsteps Remastered (Fixes Floating Footsep Effects)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BaYnPvhSSqM=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=149\nfileID=1064",
+        "Name": "Grid Removal-149-1-0-1626650696.rar",
+        "Size": 1841087,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ChaserJZX",
+          "Description": "Removes the grid overlay like the other mod, just for the new patch. Also can remove the grain seen in the Bunker.",
+          "FileID": 1064,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/149/149-1626651669-640423942.png",
+          "IsNSFW": false,
+          "ModID": 149,
+          "Name": "Grid Vignette and Bunker Grain Removal",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s0KV9qz9GYI=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=165\nfileID=3573",
+        "Name": "Automata-LodMod-165-0-77-5-1735827200.zip",
+        "Size": 128741,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "emoose",
+          "Description": "Wrapper DLL for NieR Automata that improves graphical quality, helps reduce annoying graphical bugs, and patches various improvements into the game!",
+          "FileID": 3573,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/165/165-1629328637-1346581732.png",
+          "IsNSFW": false,
+          "ModID": 165,
+          "Name": "Automata-LodMod",
+          "Version": "0.77.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f8myEp87bj8=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=254\nfileID=1466",
+        "Name": "Inventory Limit 999-254-1-0-0-1656658154.7z",
+        "Size": 68569,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RaiderBV",
+          "Description": "Increases the inventory limit of all items (resources, consumables, loot, etc.) to 999 (from 99)",
+          "FileID": 1466,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/254/254-1656657984-75007137.png",
+          "IsNSFW": false,
+          "ModID": 254,
+          "Name": "Inventory Limit Increase to 999",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ab3je4OAeco=",
+        "Meta": "[General]\ngameName=nierautomata\nmodID=30\nfileID=1437",
+        "Name": "2TS(SC6 Model)-30-2-1653129568.zip",
+        "Size": 63787758,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Petrarca",
+          "Description": "2b/9s/a2 new texture",
+          "FileID": 1437,
+          "GameName": "NieRAutomata",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1950/images/30/30-1587418360-831625301.png",
+          "IsNSFW": false,
+          "ModID": 30,
+          "Name": "ANDROIDS REMASTERED",
+          "Version": "1"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Nier_Automata_Enhanced/Nier-Automata-Enhanced_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Nier_Automata_Enhanced/Nier-Automata-Enhanced_large.webp"
 }
