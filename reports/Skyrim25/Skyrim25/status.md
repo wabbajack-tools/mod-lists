@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (484)
+### Valid (483)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adoption Spouse and Moving Fixes v1.2.0-92845-1-2-0-1687026746.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92845/?tab=files&file_id=398718)
@@ -299,7 +299,6 @@
 *  [Infinity UI-74483-2-0-3-1730049690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=556134)
 *  installscript.vdf
 *  [Instantly Skip Dialogue NG-89163-1-1-1-1693399775.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89163/?tab=files&file_id=422013)
-*  [Item Stacking Tweaks SKSE-173918-1-0-6-1773250925.zip](https://www.nexusmods.com/skyrimspecialedition/mods/173918/?tab=files&file_id=730345)
 *  [Items Stolen Bug Fix-99141-1-0-7-1714517433.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99141/?tab=files&file_id=496552)
 *  [Kart_CSSET_POST_1.6.1130-38775-1-2-3-4-1714757549.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38775/?tab=files&file_id=497442)
 *  [Keywords Fixed - USEEP - ESL-21597---1586818157.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21597/?tab=files&file_id=134154)
