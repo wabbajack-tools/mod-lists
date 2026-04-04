@@ -10,18 +10,21 @@ using Newtonsoft.Json;
 using Wabbajack.DTOs;
 using Wabbajack.DTOs.JsonConverters;
 using Xunit;
+using Xunit.Abstractions;
 
 namespace ModlistValidation
 {
     public class TestModlists
     {
+        private readonly ITestOutputHelper _testOutputHelper;
         private readonly DTOSerializer _dtoSerializer;
         private static readonly HttpClient Client = new();
         private const string InvalidReposMarkdown = "files/Invalid_Repositories.md";
         private bool _isPullRequest = false;
 
-        public TestModlists()
+        public TestModlists(ITestOutputHelper testOutputHelper)
         {
+            _testOutputHelper = testOutputHelper;
             var services = new ServiceCollection();
             services.AddDTOConverters();
             services.AddDTOSerializer();
@@ -29,7 +32,9 @@ namespace ModlistValidation
             var serviceProvider = services.BuildServiceProvider();
             _dtoSerializer = serviceProvider.GetRequiredService<DTOSerializer>();
 
-            File.WriteAllText(InvalidReposMarkdown, "# Failing Repositories\n\n");
+            File.WriteAllText(InvalidReposMarkdown, "# Failing Repositories\n\n" +
+                                                    "The validation re-runs those every 4 hours or when a pull request" +
+                                                    "is merged into the main branch of this repository.\n\n");
         }
 
         [Theory]
@@ -65,15 +70,36 @@ namespace ModlistValidation
                 Assert.True(e == null, $"Unable to deserialize file \"{invalidReposFile}\"");
                 throw;
             }
+            var repoKeys = new HashSet<string>(repositories.Keys);
+            var repoValues = new HashSet<Uri>(repositories.Values);
+            var invalidRepoKeys = new HashSet<string>(invalidRepositories.Keys);
+            var invalidRepoValues = new HashSet<Uri>(invalidRepositories.Values);
             if (!_isPullRequest)
             {
                 var filteredInvalidRepositories = invalidRepositories
-                    .Where(x => !repositories.ContainsKey(x.Key));
+                    .Where(x => !(repoKeys.Contains(x.Key) || repoValues.Contains(x.Value)));
                 foreach (var invalidRepository in filteredInvalidRepositories)
                 {
+                    if (repoKeys.Contains(invalidRepository.Key))
+                    {
+                        _testOutputHelper.WriteLine($"Duplicate repository machineURL found: {invalidRepository.Key}\n" +
+                                                    $"Check the Invalid_Repositories.md file for more information.");
+                        continue;
+                    }
+                    if (repoValues.Contains(invalidRepository.Value))
+                    {
+                        _testOutputHelper.WriteLine($"Duplicate repository GithubURL found: {invalidRepository.Value}\n" +
+                                                    $"Check the Invalid_Repositories.md file for more information.");
+                        continue;
+                    }
                     repositories.Add(invalidRepository.Key,invalidRepository.Value);
                 }
                 invalidRepositories.Clear();
+            }
+            else
+            {
+                Assert.False(repoKeys.Overlaps(invalidRepoKeys), "The pull request contains duplicate repository machineUrls! Check the Invalid_Repositories.md file for more information.");
+                Assert.False(repoValues.Overlaps(invalidRepoValues), "The pull request contains duplicate repository GithubUrls! Check the Invalid_Repositories.md file for more information.");
             }
             foreach (var entry in repositories)
             {
@@ -100,8 +126,11 @@ namespace ModlistValidation
                     File.WriteAllText(invalidReposFile, invalidReposJson);
 
                     var entryKeyString = entry.Key;
+                    var entryValueString = entry.Value;
 
                     var repoReport = $"## {entryKeyString}\n\n" +
+                                     $"`RepoMachineURL`:`{entryKeyString}`\n\n" +
+                                     $"`GithubURL`:`{entryValueString}`\n\n" +
                                      $"Failed due to the following Error:\n" +
                                      $"```\n{e}\n```\n\n";
 
@@ -217,5 +246,6 @@ namespace ModlistValidation
 
             Assert.EndsWith(".md", uri.AbsolutePath, StringComparison.OrdinalIgnoreCase);
         }
+
     }
 }
