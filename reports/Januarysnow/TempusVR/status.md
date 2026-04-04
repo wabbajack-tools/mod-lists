@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2351)
+### Valid (2348)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
@@ -556,8 +556,6 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -665,6 +663,7 @@
 *  Data_Interface_Translate_RUSSIAN.txt
 *  Data_Interface_Translate_SPANISH.txt
 *  Data_MarketplaceTextures.bsa
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
@@ -1752,8 +1751,6 @@
 *  [Realm of Lorkhan-18223-4-2-1715729998.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18223/?tab=files&file_id=501161)
 *  [RealWheatFields RedbagsRorikstead Patch-151229-1-1748733440.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151229/?tab=files&file_id=633352)
 *  [Rebalance Patch-61559-1-6-1-1675649041.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61559/?tab=files&file_id=356964)
-*  [Recharge Framework - Wabbajack-157327-1-0-0-1755739216.zip](https://www.nexusmods.com/skyrimspecialedition/mods/157327/?tab=files&file_id=657662)
-*  [Recharge Framework Tutorial-157327-1-0-0-1755730068.zip](https://www.nexusmods.com/skyrimspecialedition/mods/157327/?tab=files&file_id=657619)
 *  [Recipes 1.1.1-84909-1-1-1-1677267647.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84909/?tab=files&file_id=362967)
 *  [Red Lavender Texture Fix-104486-1-0-1699667645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104486/?tab=files&file_id=441591)
 *  [Redbag's Rorikstead - Creation Club Silver Armor Compatibility Patch-58728-1-0-1637346080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58728/?tab=files&file_id=242730)
@@ -1946,8 +1943,8 @@
 *  [Skyrim VR ESL-106712-1-2-1710128225.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106712/?tab=files&file_id=479274)
 *  [Skyrim VR USSEP 4.2.1 and SSE 1.5.97 Compatibility Patch-31673-1-2-1578696926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31673/?tab=files&file_id=119359)
 *  [Skyrim Weapons Expansion - BSA-32500-1-3-1603260368.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=166390)
+*  Skyrim_Default.ini
 *  [skyrim-freeze-fix-160704-0-0-3-1759890280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=673465)
-*  Skyrim.ini
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  [Skyrim's Got Talent - VR Patch 0.4-118812-0-4-1715031932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118812/?tab=files&file_id=498592)
 *  [Skyrims Unique Treasures SE-5261-4-7-1703367806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=454562)

@@ -589,7 +589,7 @@
 *  [Moons and Stars - Sky Overhaul SKSEVR-73667-2-0-0-1660965855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73667/?tab=files&file_id=308823)
 *  [More Informative Console 1.0.1 VR-19250-1-0-1-1653433878.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286244)
 *  [moreHUD VR-33215-1-1-0-1652988637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=284988)
-*  [MoreNastyCrittersSE&AE_v16_1C.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)
+*  [MoreNastyCrittersSE&AE_v16_1C.7z](https://authored-files.wabbajack.org/MoreNastyCrittersSE&AE_v16_1C.7z_5600f23f-ce42-4dd3-bbff-6b429c5f5dd1)
 *  [Mountain Z Fight Patch Compressed ESL-37891-1-2-1627789802.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37891/?tab=files&file_id=218003)
 *  [Mu Dynamic NormalMap-154657-1-4-2-1755098325.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154657/?tab=files&file_id=655259)
 *  [Mum's the Word-77409-2-1-1666299465.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77409/?tab=files&file_id=325421)

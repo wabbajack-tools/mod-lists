@@ -2,7 +2,7 @@
   "MachineURL": "iAmModlist/tahrovin",
   "Name": "Tahrovin",
   "Version": "3.0.7",
-  "ModListHash": "NNQ+gFd5VnE=",
+  "ModListHash": "AgTFsjQ5gdE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1441,13 +1441,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "rahWrw4di30=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/\nprompt=CreatureFrameworkV3-2A.7z then ModCompatibilityKitsForMNC",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/MoreNastyCrittersSE\u0026AE_v16_1C.7z_5600f23f-ce42-4dd3-bbff-6b429c5f5dd1",
         "Name": "MoreNastyCrittersSE\u0026AE_v16_1C.7z",
         "Size": 246480191,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "CreatureFrameworkV3-2A.7z then ModCompatibilityKitsForMNC",
-          "Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/MoreNastyCrittersSE\u0026AE_v16_1C.7z_5600f23f-ce42-4dd3-bbff-6b429c5f5dd1"
         }
       }
     },
