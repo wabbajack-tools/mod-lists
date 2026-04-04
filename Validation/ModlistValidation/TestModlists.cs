@@ -82,7 +82,7 @@ namespace ModlistValidation
                 {
                     if (repoKeys.Contains(invalidRepository.Key))
                     {
-                        _testOutputHelper.WriteLine($"Duplicate repository machineURL found: {invalidRepository.Key}\n" +
+                        _testOutputHelper.WriteLine($"Duplicate repository RepMachineURL found: {invalidRepository.Key}\n" +
                                                     $"Check the Invalid_Repositories.md file for more information.");
                         continue;
                     }
