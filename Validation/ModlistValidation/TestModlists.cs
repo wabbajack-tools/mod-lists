@@ -98,7 +98,7 @@ namespace ModlistValidation
             }
             else
             {
-                Assert.False(repoKeys.Overlaps(invalidRepoKeys), "The pull request contains duplicate repository machineUrls! Check the Invalid_Repositories.md file for more information.");
+                Assert.False(repoKeys.Overlaps(invalidRepoKeys), "The pull request contains duplicate repository RepoMachineUrls! Check the Invalid_Repositories.md file for more information.");
                 Assert.False(repoValues.Overlaps(invalidRepoValues), "The pull request contains duplicate repository GithubUrls! Check the Invalid_Repositories.md file for more information.");
             }
             foreach (var entry in repositories)
