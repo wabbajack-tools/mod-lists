@@ -272,7 +272,7 @@
 *  [LittleRedSonja_Mumpfy_ArmorPack06_Resident_Evil-8466-1-2-1-1774987298.zip](https://www.nexusmods.com/7daystodie/mods/8466/?tab=files&file_id=37925)
 *  [LittleRedSonja_Mumpfy_ArmorPack07_TWD-8662-1-1-1-1768986282.zip](https://www.nexusmods.com/7daystodie/mods/8662/?tab=files&file_id=35987)
 *  [LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime-8929-1-2-0-1765920203.zip](https://www.nexusmods.com/7daystodie/mods/8929/?tab=files&file_id=34610)
-*  [LittleRedSonja_Mumpfy_ArmorPack09_Fallout-9489-1-2-1-1771077012.zip](https://www.nexusmods.com/7daystodie/mods/9489/?tab=files&file_id=36693)
+*  [LittleRedSonja_Mumpfy_ArmorPack09_Fallout-9489-1-2-2-1776200555.zip](https://www.nexusmods.com/7daystodie/mods/9489/?tab=files&file_id=38420)
 *  [LittleRedSonja_Punisher_NPC-8373-1-0-0-1755432132.zip](https://www.nexusmods.com/7daystodie/mods/8373/?tab=files&file_id=31343)
 *  [LittleRedSonja_ShoppingTime_ADD-ON_PARTS-5822-1-0-0-1725447005.zip](https://www.nexusmods.com/7daystodie/mods/5822/?tab=files&file_id=21631)
 *  [LittleRedSonja_ShoppingTime_ADD-ON_TOOLS-5822-1-1-0-1731677448.zip](https://www.nexusmods.com/7daystodie/mods/5822/?tab=files&file_id=23407)
