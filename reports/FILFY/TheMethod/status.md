@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (434)
+### Valid (441)
 *  [A Clear Map of Skyrim and Other Worlds FOMOD-56367-4-0-1669293184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=334140)
 *  [ACMOS Road Generator-79205-4-1-1769881745.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79205/?tab=files&file_id=715796)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
@@ -224,6 +224,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [Dead Dwarven Explodes - CIF-147815-2-0-1745141589.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147815/?tab=files&file_id=619332)
 *  [Description Framework-105799-2-1-2-1756574770.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105799/?tab=files&file_id=660797)
 *  [Dialogue History-114238-2-3-3-1766137052.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114238/?tab=files&file_id=699573)
 *  [Disable Particle Wind for magic-175895-1-2-0-1775137244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/175895/?tab=files&file_id=737792)
@@ -248,6 +249,7 @@
 *  [Fast Decompress-174643-1-3-1773820113.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174643/?tab=files&file_id=732576)
 *  [Faster File Copy-175531-1-4-1775202707.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175531/?tab=files&file_id=738047)
 *  [Favorite Misc Items-42750-4-0-0-1767556383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=705539)
+*  [Fires Hurt - OIF-157720-1-2-1765322918.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157720/?tab=files&file_id=696257)
 *  [First person magic hand light fix-142757-1-0-0-1740412015.zip](https://www.nexusmods.com/skyrimspecialedition/mods/142757/?tab=files&file_id=598605)
 *  [Floating Subtitles-154424-3-2-0-1771902951.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154424/?tab=files&file_id=725131)
 *  flowchartx64.dll
@@ -264,7 +266,9 @@
 *  [Grass Lighting-86502-2-0-0-1733537978.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86502/?tab=files&file_id=569735)
 *  [Hair Specular-149011-1-0-3-1768812951.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149011/?tab=files&file_id=711383)
 *  [Headpart Whitelist-106126-1-0-1701619887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106126/?tab=files&file_id=448523)
+*  [Headshot Kills - CIF-148579-1-2-1746001063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148579/?tab=files&file_id=622326)
 *  High.ini
+*  [Hit to Switch - OIF-156058-1-3-2-1764262574.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156058/?tab=files&file_id=691827)
 *  [HorsesSimplyTurnBetter-57790-1-0-0-1635787436.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57790/?tab=files&file_id=238472)
 *  [I4 - SkyUI Weapons Pack-85703-1-0-0-1677368495.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85703/?tab=files&file_id=363368)
 *  [ImGui Icons - Untarnished UI Patch-148703-1-0-0-1750008225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148703/?tab=files&file_id=638228)
@@ -340,6 +344,7 @@
 *  [Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368378)
 *  [Screen Space GI-130375-4-0-1-1768812976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130375/?tab=files&file_id=711384)
 *  [Screen Space Shadows-93209-2-0-0-1758808941.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93209/?tab=files&file_id=669300)
+*  [Scriptless Stagger Limit - Main File-148376-1-2-1745759294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148376/?tab=files&file_id=621538)
 *  [Security Overhaul SKSE - Add-ons-59529-0-1-9-1-1699596506.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=441363)
 *  [Security Overhaul SKSE - Extra Locks-126119-0-1-1724129863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/126119/?tab=files&file_id=533416)
 *  [Security Overhaul SKSE - Lock Variations-58224-4-0-0-1724139207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=533430)
@@ -380,6 +385,7 @@
 *  [Stuck Underwater Visuals and Sounds Fix SKSE-173716-0-1-2-1774816289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/173716/?tab=files&file_id=736448)
 *  [Subsurface Scattering-114114-3-0-1-1770385535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114114/?tab=files&file_id=718213)
 *  [Survival Mode Improved - SKSE 1.6.4 RC 2-78244-1-6-4-1774549688.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78244/?tab=files&file_id=735419)
+*  [Telekinesis Extension - OIF-164821-1-1763524260.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164821/?tab=files&file_id=688971)
 *  [Terrain Blending-157076-1-0-1-1755456305.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157076/?tab=files&file_id=656647)
 *  [Terrain Helper-143149-1-0-0-1753692098.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143149/?tab=files&file_id=650852)
 *  [Terrain Variation-148123-1-0-1-1758811700.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148123/?tab=files&file_id=669310)
@@ -427,6 +433,7 @@
 *  [Untarnished UI - ImGui Icons Patch-159543-1-0-0-1758242637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/159543/?tab=files&file_id=667170)
 *  [Upscaling-156952-1-2-0-1770424570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156952/?tab=files&file_id=718422)
 *  [Use Or Take-70868-1-3-0-1737972237.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70868/?tab=files&file_id=587987)
+*  [Use Telekinesis on Traps - po3's Papyrus Extender Version-59350-0-2-3-1638465335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59350/?tab=files&file_id=246095)
 *  [Vampires Cast No Shadow 2-46107-1-2-2-1728456347.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46107/?tab=files&file_id=550395)
 *  [Vanilla Hair Flow Maps-149011-1-0-1754485462.7z](https://www.nexusmods.com/skyrimspecialedition/mods/149011/?tab=files&file_id=653312)
 *  [Vanilla PBR-174091-1-3-1774182682.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174091/?tab=files&file_id=734065)

@@ -634,7 +634,7 @@
 *  [Nirn Necessities - SE by Xtudo - Non-HDT patch-133857-1-1731529156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133857/?tab=files&file_id=561937)
 *  [Nirn Necessities - SMP Accessories-112481-1-03-1731887957.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112481/?tab=files&file_id=563435)
 *  [No Compass In Dialogue-116120-1-0-0-1712511971.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116120/?tab=files&file_id=488396)
-*  [No Fire During The Rain-161369-1-1-1-1764288468.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161369/?tab=files&file_id=691975)
+*  [No Fire During The Rain -  Vanilla-161369-1-1-1762956033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161369/?tab=files&file_id=686723)
 *  [No Furniture Camera-100515-1-0-0-1694638728.7z](https://www.nexusmods.com/skyrimspecialedition/mods/100515/?tab=files&file_id=425588)
 *  [No Idles For Guards Optional Patch-77566-1-06-1676572685.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77566/?tab=files&file_id=360343)
 *  [No Loot When Armed-143253-2-0-1745325844.7z](https://www.nexusmods.com/skyrimspecialedition/mods/143253/?tab=files&file_id=620149)
