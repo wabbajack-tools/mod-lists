@@ -1,11 +1,12 @@
 ## Validation Report - Mages & Vikings (MagesAndVikings/MagesAndVikings)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [[Dint999] HairPack02 SSE 1.11 (base).zip](https://drive.google.com/uc?id=1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g&export=download)
 *  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3637)
+### Valid (3636)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
@@ -60,7 +61,6 @@
 *  [(CC) Spell Knight Armor - Ryn's Karthspire-82657-1-01-1718199913.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82657/?tab=files&file_id=510907)
 *  [(FLM) WorldSpaces Patches for Vigilant-11849-1-7-x-1694617699.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=425477)
 *  [(Updated) Optional BodySlide slider support-34360-1-1-0-1588123334.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34360/?tab=files&file_id=136894)
-*  [[Dint999] HairPack02 SSE 1.11 (base).zip](https://drive.google.com/uc?id=1YpZYTgllS08MRaqm4AxD7cIfc1wxT24g&export=download)
 *  [[TalesOfStar] Flying Air Balloons v1.0.2 (fomod).7z](https://www.patreon.com/file?h=111649008&m=421429268)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
 *  [01a) HIMBO V5 - Core (Nevernude Body)-46311-5-8-1772908656.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=728973)

@@ -1,8 +1,8 @@
 {
   "MachineURL": "nvmpraddmodlist/nvmpraddmodlist",
   "Name": "New Vegas: Multiplayer",
-  "Version": "2.1.10",
-  "ModListHash": "yzOmsfD0D+Y=",
+  "Version": "2.2.0",
+  "ModListHash": "HLwOOSAc08Y=",
   "Archives": [
     {
       "Status": "Valid",
@@ -28,104 +28,47 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F4+LzH0ZDC0=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ATK Server Mods [Deactivate this for Coop Servers].7z_2c6a760e-525f-40e6-9c6d-17787470306d",
+        "Hash": "e99JaSYEAKE=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ATK Server Mods [Deactivate this for Coop Servers].7z_06c1ef50-2758-4655-8b9b-4b147c0a8704",
         "Name": "ATK Server Mods [Deactivate this for Coop Servers].7z",
-        "Size": 1637539351,
+        "Size": 1198722272,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/ATK%20Server%20Mods%20[Deactivate%20this%20for%20Coop%20Servers].7z_2c6a760e-525f-40e6-9c6d-17787470306d"
+          "Url": "https://authored-files.wabbajack.org/ATK%20Server%20Mods%20[Deactivate%20this%20for%20Coop%20Servers].7z_06c1ef50-2758-4655-8b9b-4b147c0a8704"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kAcFPvVdmaQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=65094\nfileID=1000100792",
-        "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4-65094-v1-4-1667751016.zip",
-        "Size": 6134945,
+        "Hash": "J74BngjovIc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000143106",
+        "Name": "DXVK 2.5.1-79299-2-5-1-1731942450.7z",
+        "Size": 1207092,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kcat",
-          "Description": "Enables 3D positional audio in Fallout: New Vegas or any other game that supports DirectSound3D. You\u0027ll be able to hear if sounds are in front, behind, above, or below you in a full 360 degrees. Optionally, you can use this mod to enable up to 7.0 speakers, 3rd order Ambisonics, or up to EAX 4.0 in other compatible games.",
-          "FileID": 1000100792,
+          "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN - Lilium - Wall_SoGB",
+          "Description": "Latest release of DXVK and its HDR variant. Preconfigured for FNV compatibility.",
+          "FileID": 1000143106,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65094/65094-1667750762-969603928.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
           "IsNSFW": false,
-          "ModID": 65094,
-          "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
-          "Version": "v1.4"
+          "ModID": 79299,
+          "Name": "DXVK",
+          "Version": "2.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HZM8iVPQEEk=",
-        "Meta": "[General]\ndirectURL=https://github.com/NVMP/ClientDistribution/releases/download/8.1/build_release_client.zip",
+        "Hash": "lEwnCaGE55k=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/build_release_client.zip_daec59b4-57ab-4695-9fdc-4c0921cc1aec",
         "Name": "build_release_client.zip",
-        "Size": 50290788,
+        "Size": 94879504,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/NVMP/ClientDistribution/releases/download/8.1/build_release_client.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cSalPK2cKG4=",
-        "Meta": "[General]\ndirectURL=https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z",
-        "Name": "nvse_6_3_4.7z",
-        "Size": 3438812,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "k8IY6nIjp+Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
-        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
-        "Size": 44180,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
-          "FileID": 1000107287,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
-          "IsNSFW": false,
-          "ModID": 80666,
-          "Name": "ActorCause Save Bloat Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I2VFsm3KBbA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
-        "Name": "MTUI-34902.zip",
-        "Size": 424681,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max Tael",
-          "Description": "Fallout: New Vegas UI improvements.",
-          "FileID": 68836,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
-          "IsNSFW": false,
-          "ModID": 34902,
-          "Name": "MTUI",
-          "Version": "1.0"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/build_release_client.zip_daec59b4-57ab-4695-9fdc-4c0921cc1aec"
         }
       }
     },
@@ -153,20 +96,209 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+pfi15eRlL0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=78433\nfileID=1000099151",
-        "Name": "3rd Person Minigun Aim Fix-78433-1-0-1663669570.7z",
-        "Size": 16637,
+        "Hash": "C0cRDy1wMhk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75414\nfileID=1000088141",
+        "Name": "Clean Pip-Boy 2022-75414-1-1-1645486260.zip",
+        "Size": 13425,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deadlypen",
-          "Description": "Fixes the long standing bug that prevents aiming up/down with the minigun in 3rd person.",
-          "FileID": 1000099151,
+          "Author": "hadesTTW",
+          "Description": "A simple mod that removes the scanlines, the dirt, and the distortion of the Pip-Boy screen, and makes the background solid black. Compatible with multiple alternate Pip-Boys and Darnified UI out of the box.",
+          "FileID": 1000088141,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78433/78433-1663669190-626370251.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75414/75414-1645287865-1709454735.png",
           "IsNSFW": false,
-          "ModID": 78433,
-          "Name": "3rd Person Minigun Aim Fix",
+          "ModID": 75414,
+          "Name": "Clean Pip-Boy 2022",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t6o6281mWiQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=91705\nfileID=1000160476",
+        "Name": "LOD Flicker Fix - NVSE-91705-1-2-1-1761791245.7z",
+        "Size": 83560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pr0bability and WallSoGB",
+          "Description": "Fixes flickering objects caused by lack of depth buffer precision.",
+          "FileID": 1000160476,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/91705/91705-1743877015-941586892.png",
+          "IsNSFW": false,
+          "ModID": 91705,
+          "Name": "LOD Flicker Fix - NVSE",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I2VFsm3KBbA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=34902\nfileID=68836",
+        "Name": "MTUI-34902.zip",
+        "Size": 424681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Max Tael",
+          "Description": "Fallout: New Vegas UI improvements.",
+          "FileID": 68836,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/34902-1-1287703327.jpg",
+          "IsNSFW": false,
+          "ModID": 34902,
+          "Name": "MTUI",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ezqZlIIPPZc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79211\nfileID=1000105230",
+        "Name": "OneTweak-79211-2-1-0-4-1676812882.7z",
+        "Size": 80276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nucleoprotein AKA virusek - Wall_SoGB",
+          "Description": "Truly updated OneTweak.",
+          "FileID": 1000105230,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79211/79211-1670268232-1388795756.png",
+          "IsNSFW": false,
+          "ModID": 79211,
+          "Name": "OneTweak but Really Updated",
+          "Version": "2.1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9qIKEopIGg4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=85198\nfileID=1000167727",
+        "Name": "3rd Person Animation Fixpack-85198-1-31-1769547340.7z",
+        "Size": 724580,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wombat",
+          "Description": "Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad blending, etc, of 3rd person animations.",
+          "FileID": 1000167727,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/85198/85198-1708935340-638382848.jpeg",
+          "IsNSFW": false,
+          "ModID": 85198,
+          "Name": "3rd Person Animation Fixpack",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "djzIOg66RaI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=60926\nfileID=1000033954",
+        "Name": "Main annimation-60926-1-0.rar",
+        "Size": 25338,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hunk92",
+          "Description": "Updated animations for the Motorcycle Replacer Mod made by Ajax120",
+          "FileID": 1000033954,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/60926-4-1446761508.jpg",
+          "IsNSFW": false,
+          "ModID": 60926,
+          "Name": "Motorcycle Replacer Animation Update",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IeZceL6sX0k=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=60926\nfileID=1000034708",
+        "Name": "Motorcycle animation Update (Necklace item slot)-60926-1-03.rar",
+        "Size": 273581,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hunk92",
+          "Description": "Updated animations for the Motorcycle Replacer Mod made by Ajax120",
+          "FileID": 1000034708,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/60926-4-1446761508.jpg",
+          "IsNSFW": false,
+          "ModID": 60926,
+          "Name": "Motorcycle Replacer Animation Update",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YcDLnBmCq88=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=43894\nfileID=98436",
+        "Name": "Moorcycle replacement plus more-43894-V0-25.zip",
+        "Size": 44401802,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ajax120",
+          "Description": "Replaces the Fallout motorcycle with a American Classic.",
+          "FileID": 98436,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/43894-1-1315939625.jpg",
+          "IsNSFW": false,
+          "ModID": 43894,
+          "Name": "Motorcycle Replacer",
+          "Version": "V2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kf9qH9cxFuk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=97254\nfileID=1000173203",
+        "Name": "Ajax120 Motorcycle Replacer Retexture-97254-1-1775485982.7z",
+        "Size": 57427901,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dazaster",
+          "Description": "A retexture of Ajax120\u0027s original mod",
+          "FileID": 1000173203,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/97254/97254-1775485805-1329525198.png",
+          "IsNSFW": false,
+          "ModID": 97254,
+          "Name": "Ajax120 Motorcycle Replacer Retexture",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hhzXe0WW69Y=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=61178\nfileID=1000034806",
+        "Name": "Sound Replacer for Advanced J3XMotorcycle-61178-.rar",
+        "Size": 4065475,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Basteth",
+          "Description": "This is a simple sound replacer for the mod Advanced J3XMotorcycle which adds more realistic and better quality sounds for the bike.",
+          "FileID": 1000034806,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61178-0-1451239651.jpg",
+          "IsNSFW": false,
+          "ModID": 61178,
+          "Name": "Sound Replacer for Advanced J3XMotorcycle",
           "Version": "1.0"
         }
       }
@@ -216,56 +348,77 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C0cRDy1wMhk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75414\nfileID=1000088141",
-        "Name": "Clean Pip-Boy 2022-75414-1-1-1645486260.zip",
-        "Size": 13425,
+        "Hash": "zs1UyarNf7g=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=44051\nfileID=99186",
+        "Name": "Replacement advanced-44051-V0-15.zip",
+        "Size": 1800572,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hadesTTW",
-          "Description": "A simple mod that removes the scanlines, the dirt, and the distortion of the Pip-Boy screen, and makes the background solid black. Compatible with multiple alternate Pip-Boys and Darnified UI out of the box.",
-          "FileID": 1000088141,
+          "Author": "Ajax120",
+          "Description": "Just replaces J3x motorcycle with my chopper.",
+          "FileID": 99186,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75414/75414-1645287865-1709454735.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/44051-1-1316892753.jpg",
           "IsNSFW": false,
-          "ModID": 75414,
-          "Name": "Clean Pip-Boy 2022",
-          "Version": "1.1"
+          "ModID": 44051,
+          "Name": "J3X Motorcycle replacer",
+          "Version": "v0.15"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bkdnuFJFva4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
-        "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
-        "Size": 110679,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Queue",
-          "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
-          "FileID": 1000039152,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
-          "IsNSFW": false,
-          "ModID": 53635,
-          "Name": "NVAC - New Vegas Anti Crash",
-          "Version": "7.5.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hPliaaVlWnU=",
-        "Meta": "[General]\ndirectURL=https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z",
-        "Name": "nvtf.7z",
-        "Size": 834632,
+        "Hash": "cSalPK2cKG4=",
+        "Meta": "[General]\ndirectURL=https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z",
+        "Name": "nvse_6_3_4.7z",
+        "Size": 3438812,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z"
+          "Url": "https://github.com/xNVSE/NVSE/releases/download/6.3.4/nvse_6_3_4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qbuJmYA2J2E=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=87814\nfileID=1000169903",
+        "Name": "Shader Loader - NVSE-87814-1-4-1771548403.7z",
+        "Size": 177100,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB",
+          "Description": "Allows loading shaders from loose files.",
+          "FileID": 1000169903,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/87814%2F87814-1718828824-1429281561.png",
+          "IsNSFW": false,
+          "ModID": 87814,
+          "Name": "Shader Loader - NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CtRcdFjf/v4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=48505\nfileID=110894",
+        "Name": "texture-48505-1-0.7z",
+        "Size": 134300,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "gunnerama",
+          "Description": "replacer for http://newvegas.nexusmods.com/mods/43894",
+          "FileID": 110894,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/48505-1-1354503663.jpg",
+          "IsNSFW": false,
+          "ModID": 48505,
+          "Name": "motorcycle texture replacer",
+          "Version": "1.0"
         }
       }
     },
@@ -293,27 +446,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1op6ZPsRFgg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000152828",
-        "Name": "DXVK 2.6.1-79299-2-6-1-1748788948.7z",
-        "Size": 1164626,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN - Lilium - Wall_SoGB",
-          "Description": "Latest release of DXVK and its HDR variant. Preconfigured for FNV compatibility.",
-          "FileID": 1000152828,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
-          "IsNSFW": false,
-          "ModID": 79299,
-          "Name": "DXVK",
-          "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "E5xZZIzuaws=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=71973\nfileID=1000074493",
         "Name": "Fast Weapon Lag Fix-71973-1-0-1617537597.zip",
@@ -335,21 +467,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ezqZlIIPPZc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79211\nfileID=1000105230",
-        "Name": "OneTweak-79211-2-1-0-4-1676812882.7z",
-        "Size": 80276,
+        "Hash": "V08tIJOEZ9Y=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81200\nfileID=1000162968",
+        "Name": "Depth of Field Fix-81200-1-2-1765473353.7z",
+        "Size": 112376,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nucleoprotein AKA virusek - Wall_SoGB",
-          "Description": "Truly updated OneTweak.",
-          "FileID": 1000105230,
+          "Author": "WallSoGB lStewieAl",
+          "Description": "Fix for depth of field bleeding over onto player\u0027s viewmodel. Additionally fixes washed out colors caused by low bit depth.",
+          "FileID": 1000162968,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79211/79211-1670268232-1388795756.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81200/81200-1684511070-828022971.png",
           "IsNSFW": false,
-          "ModID": 79211,
-          "Name": "OneTweak but Really Updated",
-          "Version": "2.1.0.4"
+          "ModID": 81200,
+          "Name": "Depth of Field Fix - NVSE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+pfi15eRlL0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78433\nfileID=1000099151",
+        "Name": "3rd Person Minigun Aim Fix-78433-1-0-1663669570.7z",
+        "Size": 16637,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deadlypen",
+          "Description": "Fixes the long standing bug that prevents aiming up/down with the minigun in 3rd person.",
+          "FileID": 1000099151,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78433/78433-1663669190-626370251.jpeg",
+          "IsNSFW": false,
+          "ModID": 78433,
+          "Name": "3rd Person Minigun Aim Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gx33ZsxfKbs=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=55334\nfileID=1000050990",
+        "Name": "Enhanced Camera 1.4c-55334-1-4c-1544995335.zip",
+        "Size": 65026,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LogicDragon",
+          "Description": "This is a NVSE plugin that enables a visible body and player shadows when in first person. Also, any points where the game force switches to 3rd person (sitting/knockout/death, etc.) are now in 1st person.",
+          "FileID": 1000050990,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/55334-1-1395204865.jpg",
+          "IsNSFW": false,
+          "ModID": 55334,
+          "Name": "New Vegas - Enhanced Camera",
+          "Version": "1.4c"
         }
       }
     },
@@ -373,10 +547,234 @@
           "Version": "1.5"
         }
       }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k8IY6nIjp+Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
+        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
+        "Size": 44180,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
+          "FileID": 1000107287,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
+          "IsNSFW": false,
+          "ModID": 80666,
+          "Name": "ActorCause Save Bloat Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kAcFPvVdmaQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=65094\nfileID=1000100792",
+        "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4-65094-v1-4-1667751016.zip",
+        "Size": 6134945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kcat",
+          "Description": "Enables 3D positional audio in Fallout: New Vegas or any other game that supports DirectSound3D. You\u0027ll be able to hear if sounds are in front, behind, above, or below you in a full 360 degrees. Optionally, you can use this mod to enable up to 7.0 speakers, 3rd order Ambisonics, or up to EAX 4.0 in other compatible games.",
+          "FileID": 1000100792,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65094/65094-1667750762-969603928.png",
+          "IsNSFW": false,
+          "ModID": 65094,
+          "Name": "DSOAL - True 3D Sound for Headphones (HRTF mod) v1.4",
+          "Version": "v1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g8iUs5hxgkE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80316\nfileID=1000125920",
+        "Name": "Fallout Alpha Rendering Tweaks-80316-2-5-2-1710935866.7z",
+        "Size": 172702,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wall_SoGB",
+          "Description": "Mod aims to fix some alpha rendering issues like broken effects when using Transparency Multisampling.",
+          "FileID": 1000125920,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80316/80316-1678301895-342759583.png",
+          "IsNSFW": false,
+          "ModID": 80316,
+          "Name": "Fallout Alpha Rendering Tweaks - NVSE",
+          "Version": "2.4.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q5Yci3tYPsM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81201\nfileID=1000169890",
+        "Name": "Muzzle Flash Light Fix-81201-2-1771540121.7z",
+        "Size": 1308,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB",
+          "Description": "Fixes muzzle flash lights not being culled after shot, leading to game still using them for illumination.",
+          "FileID": 1000169890,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81201/81201-1684517868-2078010282.png",
+          "IsNSFW": false,
+          "ModID": 81201,
+          "Name": "Muzzle Flash Light Fix - NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pXPikR/Rj4k=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=84781\nfileID=1000145573",
+        "Name": "Viewmodel Shading Fix - NVSE-84781-2-2-1737322776.7z",
+        "Size": 101964,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB",
+          "Description": "Mod fixes totally wrong specular lighting, and lack of muzzle flash lights on viewmodel.",
+          "FileID": 1000145573,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84781/84781-1706803094-145264700.png",
+          "IsNSFW": false,
+          "ModID": 84781,
+          "Name": "Viewmodel Shading Fix - NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bkdnuFJFva4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=53635\nfileID=1000039152",
+        "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
+        "Size": 110679,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Queue",
+          "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
+          "FileID": 1000039152,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/53635-1-1392182407.png",
+          "IsNSFW": false,
+          "ModID": 53635,
+          "Name": "NVAC - New Vegas Anti Crash",
+          "Version": "7.5.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fx84ML1sM84=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=84443\nfileID=1000169893",
+        "Name": "Viewmodel Shake Fix - NVSE-84443-1-21-1771542854.7z",
+        "Size": 1648,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB",
+          "Description": "Fix for massive shaking during aiming caused by floating point precision loss.",
+          "FileID": 1000169893,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84443/84443-1704739236-1536261728.png",
+          "IsNSFW": false,
+          "ModID": 84443,
+          "Name": "Viewmodel Shake Fix - NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hPliaaVlWnU=",
+        "Meta": "[General]\ndirectURL=https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z",
+        "Name": "nvtf.7z",
+        "Size": 834632,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/nvmp-main/New-Vegas-Tick-Fix/releases/download/10.2.2.3b/nvtf.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kL1t4GJ0EP8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=91241\nfileID=1000149652",
+        "Name": "Audio Region Fix - NVSE-91241-1-3-2-1743892637.7z",
+        "Size": 192954,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB",
+          "Description": "Fixes acoustic spaces not changing with exterior regions.",
+          "FileID": 1000149652,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/91241/91241-1741041902-296096976.png",
+          "IsNSFW": false,
+          "ModID": 91241,
+          "Name": "Audio Region Fix - NVSE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BOeJZE3JwfI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79516\nfileID=1000103531",
+        "Name": "Fog-based Object Culling-79516-2-1673628097.7z",
+        "Size": 39646,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wall_SoGB",
+          "Description": "Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.",
+          "FileID": 1000103531,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79516/79516-1673791491-1249036662.png",
+          "IsNSFW": false,
+          "ModID": 79516,
+          "Name": "Fog-based Object Culling",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VL6dFEWtSJU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=85267\nfileID=1000126248",
+        "Name": "zlib Updated - NVSE-85267-1-1-1711358337.7z",
+        "Size": 100806,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB Jean-loup Gailly Mark Adler",
+          "Description": "Updates zlib to the latest version for faster loading and less stutter.",
+          "FileID": 1000126248,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/85267/85267-1709400897-615404599.png",
+          "IsNSFW": false,
+          "ModID": 85267,
+          "Name": "zlib Updated - NVSE",
+          "Version": "1.0"
+        }
+      }
     }
   ],
   "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/nvmpraddmodlist/nvmpraddmodlist_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/nvmpraddmodlist/nvmpraddmodlist_large.webp"
 }
