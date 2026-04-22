@@ -1,10 +1,11 @@
 ## Validation Report - N.Y.A-NSFW-Modlist-Skyrim (NYA/nyaskyrim)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [N.Y.A NPC Plugin Chooser Output.zip](https://authored-files.wabbajack.org/N.Y.A NPC Plugin Chooser Output.zip_9f354220-d318-41d5-9448-24ab55b51d50)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4284)
+### Valid (4283)
 *  [_Grimlook33_ Endless Misery-136947-1-0-1734824668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136947/?tab=files&file_id=574756)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [-Grimlook33- The Dark Sovereign-144759-1-1-1742061649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/144759/?tab=files&file_id=606021)
@@ -2696,7 +2697,6 @@
 *  [N.Y.A - xLODGen Output v2.rar](https://authored-files.wabbajack.org/N.Y.A - xLODGen Output v2.rar_bbd2953b-a306-4698-8497-6409c3b88d46)
 *  [N.Y.A BHKS Bodyslide Output.rar](https://authored-files.wabbajack.org/N.Y.A BHKS Bodyslide Output.rar_d80aee30-05fe-4053-8abf-eea48b0f4ba4)
 *  [N.Y.A Custom - Main Menu Video - 1440p.7z](https://authored-files.wabbajack.org/N.Y.A Custom - Main Menu Video - 1440p.7z_996ef1c3-6cd9-489d-9046-4efab8757920)
-*  [N.Y.A NPC Plugin Chooser Output.zip](https://authored-files.wabbajack.org/N.Y.A NPC Plugin Chooser Output.zip_9f354220-d318-41d5-9448-24ab55b51d50)
 *  [Naked Comments Overhaul-136846-1-0-1734732351.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136846/?tab=files&file_id=574361)
 *  [Narukami - hdt-SMP (CBBE 3BA - BHUNP)-61202-1-0-1644589352.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61202/?tab=files&file_id=263398)
 *  [Narukami - Texture DLC 4K-61202-1-0-1644589444.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61202/?tab=files&file_id=263399)
