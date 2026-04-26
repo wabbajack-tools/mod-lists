@@ -1,10 +1,11 @@
 ## Validation Report - Authoria - Requiem Reforged (Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [xLODGen.132.7z](https://build.wabbajack.org/authored_files/direct_link/xLODGen.132.7z_f51dbc3f-05c2-4888-b6f9-b93f6858927d)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3599)
+### Valid (3598)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -3585,7 +3586,6 @@
 *  [Xelzaz Reacts To Your Music-50357-1-76-1725713171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539634)
 *  [Xelzaz Sirenroot Patch-62893-1-0-2-1738404524.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=589737)
 *  [Xelzaz' Telvanni Spellsword Armor Enhanced-88253-1-1-1681236102.zip](https://www.nexusmods.com/skyrimspecialedition/mods/88253/?tab=files&file_id=377379)
-*  [xLODGen.132.7z](https://build.wabbajack.org/authored_files/direct_link/xLODGen.132.7z_f51dbc3f-05c2-4888-b6f9-b93f6858927d)
 *  [XPMSSE Spazzing Skeleton Fix-75830-1-0-1663695956.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75830/?tab=files&file_id=318002)
 *  [Xtudo - Non-HDT Helga Dress and Underwear 3BA-139114-1-0opt-1737312630.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139114/?tab=files&file_id=585199)
 *  [YAR - Yuril's Additional Resources - Parallax-89416-1-0-5-1731765750.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89416/?tab=files&file_id=562927)
