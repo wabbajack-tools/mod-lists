@@ -237,6 +237,7 @@
 *  Data_Fallout4 - Textures1.ba2
 *  Data_Fallout4 - Textures2.ba2
 *  Data_Fallout4 - Textures4.ba2
+*  Data_Fallout4 - Textures5.ba2
 *  Data_Fallout4 - Textures6.ba2
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
@@ -584,7 +585,6 @@
 *  [Plugin Resources-62971-6-5-1725192000.7z](https://www.nexusmods.com/fallout4/mods/62971/?tab=files&file_id=332451)
 *  [Plutonium Creatures V 1.15-32647-1-15-1703598938.rar](https://www.nexusmods.com/fallout4/mods/32647/?tab=files&file_id=297784)
 *  [Ponytail Hairstyles by Azar v2_5a - BA2 version-8126-2-5a.zip](https://www.nexusmods.com/fallout4/mods/8126/?tab=files&file_id=90790)
-*  [Power Armor Frame Retextured 4K-41369-II-1599472953.zip](https://www.nexusmods.com/fallout4/mods/41369/?tab=files&file_id=190817)
 *  [Power Armor HUD - paHUD-21622-1-0-1-1715779313.7z](https://www.nexusmods.com/fallout4/mods/21622/?tab=files&file_id=316685)
 *  [Power Armor Imact Effects v1.52-34012-1-52-1572376474.7z](https://www.nexusmods.com/fallout4/mods/34012/?tab=files&file_id=169845)
 *  [PPPL (F4 1.10.163)-3938-1-5-6-10163-1575581331.7z](https://www.nexusmods.com/fallout4/mods/3938/?tab=files&file_id=172080)
