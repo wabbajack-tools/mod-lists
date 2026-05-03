@@ -473,7 +473,7 @@
 *  [Lunar Survival Damage-69104-1-1-1687251937.7z](https://www.nexusmods.com/fallout4/mods/69104/?tab=files&file_id=281038)
 *  [LunarArsenal - America Rising 2-101287-1-1775462724.7z](https://www.nexusmods.com/fallout4/mods/101287/?tab=files&file_id=392413)
 *  [LunarArsenal - HandmadeTurrets - ScrappyTurrets-101287-1-1772984897.7z](https://www.nexusmods.com/fallout4/mods/101287/?tab=files&file_id=388950)
-*  [LunarArsenal - SouthOfTheSea-AtomsStorm-101287-1-1776059977.7z](https://www.nexusmods.com/fallout4/mods/101287/?tab=files&file_id=393218)
+*  [LunarArsenal - SouthOfTheSea-AtomsStorm-101287-2-1777818376.7z](https://www.nexusmods.com/fallout4/mods/101287/?tab=files&file_id=395619)
 *  [LunarArsenal - Super Mutant Redux-101287-1-1772984660.7z](https://www.nexusmods.com/fallout4/mods/101287/?tab=files&file_id=388948)
 *  [Lush Ambience ESL-38609-2-1-1597688218.zip](https://www.nexusmods.com/fallout4/mods/38609/?tab=files&file_id=189318)
 *  [Lush Ambience Far Harbor-73968-1-0-1692300127.zip](https://www.nexusmods.com/fallout4/mods/73968/?tab=files&file_id=287031)
