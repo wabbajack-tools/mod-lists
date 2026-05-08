@@ -1,11 +1,12 @@
 ## Validation Report - Authoria - Requiem Reforged (Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [[TalesOfStar] Flying Air Balloons v1.0.2 (fomod).7z](https://www.patreon.com/file?h=111649008&m=421429268)
 *  [xLODGen.132.7z](https://build.wabbajack.org/authored_files/direct_link/xLODGen.132.7z_f51dbc3f-05c2-4888-b6f9-b93f6858927d)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3598)
+### Valid (3597)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -19,7 +20,6 @@
 *  [(Q) Community Overlays 1 - Bugfix Patch-22487-1-0-2-1548457861.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=79615)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.17.7z_3c14b05c-adfb-407e-90a3-fc14108fe3f5)
 *  [[Dint999] HairPack02 SSE 1.11 (base).7z](https://authored-files.wabbajack.org/[Dint999] HairPack02 SSE 1.11 (base).7z_6fe2f169-87f6-4cd6-b88b-f4e40911237b)
-*  [[TalesOfStar] Flying Air Balloons v1.0.2 (fomod).7z](https://www.patreon.com/file?h=111649008&m=421429268)
 *  [0 Lore-Friendly Load Screen Compendium (16-9) (2K)-138294-2-1-1746799043.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138294/?tab=files&file_id=625267)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
 *  [01 - Skysight Skins ULTRA - FOMOD Installer-6580-2-0-2-1748249727.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=631385)
