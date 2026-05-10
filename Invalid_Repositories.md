@@ -2,6 +2,25 @@
 
 The validation re-runs those every 4 hours or when a pull requestis merged into the main branch of this repository.
 
+## FAnomaly
+
+`RepoMachineURL`:`FAnomaly`
+
+`GithubURL`:`https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/modlist.json`
+
+Failed due to the following Error:
+```
+Xunit.Sdk.FailException: Unable to Validate "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/master/modlist.json". Due to the following Error:
+Xunit.Sdk.TrueException: MachineUrl/ModlistRepository is not valid! Allowed Characters are: 0-9, A-Z, a-z, _ and - use https://regex101.com/r/cVYtyA/2to test: "NomadsReach/Fallout-Anomaly" ("Fallen World")
+   at Xunit.Assert.True(Nullable`1 condition, String userMessage) in /_/src/xunit.assert/Asserts/BooleanAsserts.cs:line 141
+   at Xunit.Assert.True(Boolean condition, String userMessage) in /_/src/xunit.assert/Asserts/BooleanAsserts.cs:line 123
+   at ModlistValidation.TestModlists.ValidateMachineUrl(String machineUrl, String name) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 224
+   at ModlistValidation.TestModlists.ValidateIndividualModlists(List`1 modlists) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 203
+   at ModlistValidation.TestModlists.TestRepositories(String file) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 114
+   at Xunit.Assert.Fail(String message) in /_/src/xunit.assert/Asserts/FailAsserts.cs:line 38
+   at ModlistValidation.TestModlists.TestRepositories(String file) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 118
+```
+
 ## jamesthewicked88
 
 `RepoMachineURL`:`jamesthewicked88`
