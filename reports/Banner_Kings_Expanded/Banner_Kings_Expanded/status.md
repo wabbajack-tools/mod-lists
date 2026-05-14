@@ -1,12 +1,11 @@
 ## Validation Report - [FR-EN] Banner Kings Expanded (Banner_Kings_Expanded/Banner_Kings_Expanded)
 
 
-### Invalid (2)
-*  [LifeInCalradia_Housing-3468-0.6.5.2.zip](https://drive.google.com/uc?id=1LDU4l5zSXqVIvgY0XiY9OoYysdReL8po&export=download)
+### Invalid (1)
 *  [MyLittleWarband.zip](https://drive.google.com/uc?id=1zvDNt6e6FbC7TIjRNnMvWaYdw047Ue_4&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (117)
+### Valid (118)
 *  [(RELEASE) BE - Companion Expanded-6736-v1-2-12-2-1737966597.zip](https://www.nexusmods.com/mountandblade2bannerlord/mods/6736/?tab=files&file_id=45454)
 *  [(RELEASE) BE - Settlement Interactions-6887-v1-2-12-1-1738224203.zip](https://www.nexusmods.com/mountandblade2bannerlord/mods/6887/?tab=files&file_id=45503)
 *  [1.2.12.0 TroopSort Core 1.2.12-3596-1-2-12-0-1733140648.zip](https://www.nexusmods.com/mountandblade2bannerlord/mods/3596/?tab=files&file_id=44651)
@@ -75,6 +74,7 @@
 *  [KnockedDownHeroesInfluencesTroops-7955-1-1-2-1744296161.7z](https://www.nexusmods.com/mountandblade2bannerlord/mods/7955/?tab=files&file_id=46917)
 *  [LeohBKFix.zip-7627-1-2-12-1737217463.zip](https://www.nexusmods.com/mountandblade2bannerlord/mods/7627/?tab=files&file_id=45272)
 *  [LessMenusMoreImmersion 1.0-6717-1-0-0-1728169238.zip](https://www.nexusmods.com/mountandblade2bannerlord/mods/6717/?tab=files&file_id=43802)
+*  [LifeInCalradia_Housing-3468-0.6.5.2.zip](https://drive.google.com/uc?id=1LDU4l5zSXqVIvgY0XiY9OoYysdReL8po&export=download)
 *  [LT_Nemesis-5729-1-5-1-1706886359.7z](https://www.nexusmods.com/mountandblade2bannerlord/mods/5729/?tab=files&file_id=40096)
 *  [Mavs Expand Your Clan - For Version 1.2.9-6256-1-0-6-4-1707482613.7z](https://www.nexusmods.com/mountandblade2bannerlord/mods/6256/?tab=files&file_id=40259)
 *  [MercenaryWithFief-7398-1-2-11-1729961910.zip](https://www.nexusmods.com/mountandblade2bannerlord/mods/7398/?tab=files&file_id=44094)
