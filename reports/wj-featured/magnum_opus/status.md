@@ -114,7 +114,7 @@
 *  [Better Automatic Weapon Sounds - Nuka World-29622-1-0-2.rar](https://www.nexusmods.com/fallout4/mods/29622/?tab=files&file_id=121094)
 *  [Better Automatic Weapon Sounds-29622-1-0-2.rar](https://www.nexusmods.com/fallout4/mods/29622/?tab=files&file_id=121093)
 *  [Better Bloatflies-44117-1-1585419705.zip](https://www.nexusmods.com/fallout4/mods/44117/?tab=files&file_id=178321)
-*  [Better Console-26582-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=120757)
+*  [Better Console-26582-v1-6-2-1763084820.zip](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=373597)
 *  [Better Fusion Core Management - F4SE-91399-2-1-1772191471.zip](https://www.nexusmods.com/fallout4/mods/91399/?tab=files&file_id=387573)
 *  [Better Junk Fences-13744-1-2.rar](https://www.nexusmods.com/fallout4/mods/13744/?tab=files&file_id=55851)
 *  [Better Junk Fences-9000-1-3.zip](https://www.nexusmods.com/fallout4/mods/9000/?tab=files&file_id=90975)

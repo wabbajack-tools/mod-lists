@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (921)
+### Valid (918)
 *  [Add-on Maker's Toolkit for Sim Settlements 2-48521-3-5-1-1764908121.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=376513)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [BA2 Archive Version Patcher-82114-1-0-1714846044.7z](https://www.nexusmods.com/fallout4/mods/82114/?tab=files&file_id=314201)
@@ -21,9 +21,6 @@
 *  CreationKit.exe
 *  CreationKit.ini
 *  cudart64_75.dll
-*  Data_ccgcafo4003-factionws03bos - textures.ba2
-*  Data_cctosfo4002_neonflats - textures.ba2
-*  Data_cczsef04001-bhouse - textures.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
