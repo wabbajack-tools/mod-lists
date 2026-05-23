@@ -74,7 +74,7 @@
 *  [Armor for Dogmeat and Strong - ESL replacer-27682-1-1-1667491521.7z](https://www.nexusmods.com/fallout4/mods/27682/?tab=files&file_id=255632)
 *  [Armor-Upgrade Overhaul-3815-1-1-1610287127.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=198729)
 *  [Army Fatigues Tiger Stripe Faded -4047-1-0.rar](https://www.nexusmods.com/fallout4/mods/4047/?tab=files&file_id=12779)
-*  [ARs of the Wasteland - Esl Version-104624-1-1778280512.7z](https://www.nexusmods.com/fallout4/mods/104624/?tab=files&file_id=396312)
+*  [ARs of the Wasteland - Esl Version-104624-V1-1-1779120710.7z](https://www.nexusmods.com/fallout4/mods/104624/?tab=files&file_id=397428)
 *  [Assaultron HD - MEDIUM-36045-1-1-1707300604.rar](https://www.nexusmods.com/fallout4/mods/36045/?tab=files&file_id=302775)
 *  [Atom Cats Drag Race Start Fix-60137-1-0-1651412553.zip](https://www.nexusmods.com/fallout4/mods/60137/?tab=files&file_id=236418)
 *  [Atom's Glory Threads - CBBE-42577-1-0-4-1636797320.zip](https://www.nexusmods.com/fallout4/mods/42577/?tab=files&file_id=221323)
