@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1152)
+### Valid (1154)
 *  [.44 Magnum Ammo Replacer-86687-1-0-1724533172.zip](https://www.nexusmods.com/fallout4/mods/86687/?tab=files&file_id=331529)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [01. 4estGimp - WTTO Injection Robco-65815--96-1718565815.7z](https://www.nexusmods.com/fallout4/mods/65815/?tab=files&file_id=323056)
@@ -74,7 +74,7 @@
 *  [Armor for Dogmeat and Strong - ESL replacer-27682-1-1-1667491521.7z](https://www.nexusmods.com/fallout4/mods/27682/?tab=files&file_id=255632)
 *  [Armor-Upgrade Overhaul-3815-1-1-1610287127.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=198729)
 *  [Army Fatigues Tiger Stripe Faded -4047-1-0.rar](https://www.nexusmods.com/fallout4/mods/4047/?tab=files&file_id=12779)
-*  [ARs of the Wasteland - Esl Version-104624-V1-1-1779120710.7z](https://www.nexusmods.com/fallout4/mods/104624/?tab=files&file_id=397428)
+*  [ARs of the Wasteland - Esl Version-104624-V1-1-1-1779279956.7z](https://www.nexusmods.com/fallout4/mods/104624/?tab=files&file_id=397654)
 *  [Assaultron HD - MEDIUM-36045-1-1-1707300604.rar](https://www.nexusmods.com/fallout4/mods/36045/?tab=files&file_id=302775)
 *  [Atom Cats Drag Race Start Fix-60137-1-0-1651412553.zip](https://www.nexusmods.com/fallout4/mods/60137/?tab=files&file_id=236418)
 *  [Atom's Glory Threads - CBBE-42577-1-0-4-1636797320.zip](https://www.nexusmods.com/fallout4/mods/42577/?tab=files&file_id=221323)
@@ -121,6 +121,7 @@
 *  [Better Locational Damage - Holotape Begone-93085-1-0-1744894010.zip](https://www.nexusmods.com/fallout4/mods/93085/?tab=files&file_id=353872)
 *  [Better Locational Damage - RobCo Patch-69804-1-7-0-1770917851.zip](https://www.nexusmods.com/fallout4/mods/69804/?tab=files&file_id=385418)
 *  [Better Locational Damage-3815-7-8-1-1770970024.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=385502)
+*  [Better Military Cots-80864-1-0-1713554881.7z](https://www.nexusmods.com/fallout4/mods/80864/?tab=files&file_id=310833)
 *  [Better Notes 0.1.4-19000-0-1-4.7z](https://www.nexusmods.com/fallout4/mods/19000/?tab=files&file_id=104536)
 *  [Better Plasma Infusion-71172-1-1683664772.zip](https://www.nexusmods.com/fallout4/mods/71172/?tab=files&file_id=276640)
 *  [Better Quarry Sites-1366-v2-0.rar](https://www.nexusmods.com/fallout4/mods/1366/?tab=files&file_id=4383)
@@ -140,7 +141,7 @@
 *  [BLD - AI Tweaks - Preview-3815-1-0-1579967207.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=174803)
 *  [Blink Grenades V 1.6-19065-1-6.rar](https://www.nexusmods.com/fallout4/mods/19065/?tab=files&file_id=84895)
 *  [Blocking Overhaul-73333-1-2-0-1690986813.zip](https://www.nexusmods.com/fallout4/mods/73333/?tab=files&file_id=285200)
-*  [Boat To Spectacle Island DLC-104246-1-2-1778415686.zip](https://www.nexusmods.com/fallout4/mods/104246/?tab=files&file_id=396490)
+*  [Boat To Spectacle Island DLC-104246-1-3-1778494492.zip](https://www.nexusmods.com/fallout4/mods/104246/?tab=files&file_id=396592)
 *  [BobIguanaDinerMainFile-19133-1-1.rar](https://www.nexusmods.com/fallout4/mods/19133/?tab=files&file_id=122587)
 *  [BodySlide and CBBE for the Human-Sized Alien Suit-94745-1-0-0-1751589378.zip](https://www.nexusmods.com/fallout4/mods/94745/?tab=files&file_id=360578)
 *  [BodySlide and Outfit Studio - v5.7.1-25-5-7-1-1753637014.7z](https://www.nexusmods.com/fallout4/mods/25/?tab=files&file_id=362479)
@@ -260,6 +261,7 @@
 *  [Danse post BoS left arm PA fix-70767-1-1-1682285445.7z](https://www.nexusmods.com/fallout4/mods/70767/?tab=files&file_id=275166)
 *  [Dark Sci Fi Vault Retexture 4k - White Squares Fix-44251-2-1-1666904005.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=254789)
 *  [Dark Sci Fi Vault Retexture 4k BA2-44251-2-0-1655684489.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=241019)
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
@@ -993,7 +995,7 @@
 *  [SuperMutantRedux 2.5-SD-DLC-11853-2-5-1540490103.7z](https://www.nexusmods.com/fallout4/mods/11853/?tab=files&file_id=144416)
 *  [Surplus Rifle-71816-1-2-1685671457.zip](https://www.nexusmods.com/fallout4/mods/71816/?tab=files&file_id=279040)
 *  [Survival Mode Overhaul - Heather Casdin Patch-101900-1-0-1777494036.zip](https://www.nexusmods.com/fallout4/mods/101900/?tab=files&file_id=395219)
-*  [Survival Mode Overhaul-101900-1-08-1778245458.zip](https://www.nexusmods.com/fallout4/mods/101900/?tab=files&file_id=396232)
+*  [Survival Mode Overhaul-101900-1-09-1779714482.zip](https://www.nexusmods.com/fallout4/mods/101900/?tab=files&file_id=398122)
 *  [Survival Outfit Collection 1.8-12205-1-8.zip](https://www.nexusmods.com/fallout4/mods/12205/?tab=files&file_id=56006)
 *  [Sweet Sweep System-86648-1-0-0-1723576366.7z](https://www.nexusmods.com/fallout4/mods/86648/?tab=files&file_id=330032)
 *  [Swimming Loose Files 1.0 Redo-62123-1-0-1657604770.zip](https://www.nexusmods.com/fallout4/mods/62123/?tab=files&file_id=243154)
