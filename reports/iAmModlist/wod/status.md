@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1374)
+### Valid (1375)
 *  [-SP4 SPURIOUS VISUALS NEUTRALIZER DLC b-77978-7b-1706742863.7z](https://www.nexusmods.com/fallout4/mods/77978/?tab=files&file_id=301753)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [(Main Files) C.H.A.K. Animation Pack-63246-1-15-1681659565.zip](https://www.nexusmods.com/fallout4/mods/63246/?tab=files&file_id=274247)
@@ -270,6 +270,7 @@
 *  [CW FusionGirl - Bodyslide by Karna5-59057-1-0-1648286413.7z](https://www.nexusmods.com/fallout4/mods/59057/?tab=files&file_id=233004)
 *  [Daily Life Of Hookers.rar](https://www.loverslab.com/files/file/19613-daily-life-of-hookers/)
 *  [DanksMagsV2.zip](https://www.loverslab.com/files/file/13262-danks-magazine-replacer/)
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
@@ -899,7 +900,7 @@
 *  [NPC Drinking Fix-53980-1-0-0-1629653826.7z](https://www.nexusmods.com/fallout4/mods/53980/?tab=files&file_id=215300)
 *  [NPC Footsteps Overhaul 1.0-65948-1-0-1668038866.zip](https://www.nexusmods.com/fallout4/mods/65948/?tab=files&file_id=256480)
 *  [NPC LLD Realance-24163-1-0.zip](https://www.nexusmods.com/fallout4/mods/24163/?tab=files&file_id=98469)
-*  [NPCs Dont Move In Dialogue-105104-1-01-1779494978.7z](https://www.nexusmods.com/fallout4/mods/105104/?tab=files&file_id=397864)
+*  [NPCs Dont Move In Dialogue-105104-1-02-1779813370.7z](https://www.nexusmods.com/fallout4/mods/105104/?tab=files&file_id=398305)
 *  [NPCs Use Items-73717-1-2-1-1693743625.zip](https://www.nexusmods.com/fallout4/mods/73717/?tab=files&file_id=288795)
 *  [NPCs use MAIM Redux Items-78602-1-0-2-1773072068.zip](https://www.nexusmods.com/fallout4/mods/78602/?tab=files&file_id=389066)
 *  [Nuka Cola and Beverage Patch-59508-1-0-1649438303.7z](https://www.nexusmods.com/fallout4/mods/59508/?tab=files&file_id=234301)

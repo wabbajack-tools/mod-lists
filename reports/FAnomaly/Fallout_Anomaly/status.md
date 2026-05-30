@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1019)
+### Valid (1024)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.38 Machine Pistol-80048-1-0-3-1731601680.zip](https://www.nexusmods.com/fallout4/mods/80048/?tab=files&file_id=340123)
@@ -219,8 +219,8 @@
 *  [Darker Highways-95266-v1-0-1753223622.zip](https://www.nexusmods.com/fallout4/mods/95266/?tab=files&file_id=362078)
 *  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
-*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
 *  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
@@ -237,22 +237,22 @@
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccBGSFO4044-HellfirePowerArmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccbgsfo4046-tescan.esl
+*  Data_ccBGSFO4046-TesCan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccbgsfo4096-as_enclave.esl
+*  Data_ccBGSFO4096-AS_Enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccbgsfo4110-ws_enclave.esl
+*  Data_ccBGSFO4110-WS_Enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccbgsfo4115-x02.esl
+*  Data_ccBGSFO4115-X02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccbgsfo4116-heavyflamer.esl
+*  Data_ccBGSFO4116-HeavyFlamer.esl
 *  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
@@ -261,13 +261,13 @@
 *  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccfsvfo4007-halloween.esl
+*  Data_ccFSVFO4007-Halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccotmfo4001-remnants.esl
+*  Data_ccOTMFO4001-Remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccsbjfo4003-grenade.esl
+*  Data_ccSBJFO4003-Grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -418,6 +418,7 @@
 *  Fallout4.ccc
 *  Fallout4.exe
 *  Fallout4Launcher.exe
+*  [FalloutChat-105467-1-1780008429.zip](https://www.nexusmods.com/fallout4/mods/105467/?tab=files&file_id=398597)
 *  [Fallsouls - Unpaused Game Menus-29119-v1-1-0-1715540208.7z](https://www.nexusmods.com/fallout4/mods/29119/?tab=files&file_id=316055)
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
 *  [FallUI - HUD-51813-1-7-1-1668637124.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=257220)
@@ -600,6 +601,7 @@
 *  [LEO-66900-2-0-6-1775042029.zip](https://www.nexusmods.com/fallout4/mods/66900/?tab=files&file_id=391673)
 *  [LessFood_inExteriors-69509-1-1678396589.rar](https://www.nexusmods.com/fallout4/mods/69509/?tab=files&file_id=269890)
 *  [LevelUpMenuEx - Extended-94823-1-1-5-1768782713.zip](https://www.nexusmods.com/fallout4/mods/94823/?tab=files&file_id=381849)
+*  [LevelUpMenuEx - Extended-94823-1-2-1778456033.zip](https://www.nexusmods.com/fallout4/mods/94823/?tab=files&file_id=396543)
 *  [Lever Action Shotgun (Winchester 1887 Terminator)-78619-1-0-3-1722894669.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=329242)
 *  [Lever Action Shotgun-84092-1-0-3Reup-1722914084.zip](https://www.nexusmods.com/fallout4/mods/84092/?tab=files&file_id=329274)
 *  [LIF-63914-3-1-0-1763459963.7z](https://www.nexusmods.com/fallout4/mods/63914/?tab=files&file_id=374251)
@@ -775,6 +777,7 @@
 *  [PowerArmor Training-90989-1-0a-1737597395.zip](https://www.nexusmods.com/fallout4/mods/90989/?tab=files&file_id=346057)
 *  [PPPL (F4 1.10.163)-3938-1-5-6-10163-1575581331.7z](https://www.nexusmods.com/fallout4/mods/3938/?tab=files&file_id=172080)
 *  [Previsibines Repair Pack - Full (1.11.191)-46403-81-5-1774283634.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=390691)
+*  [PrismaUI F4-105454-1-1-1780032237.zip](https://www.nexusmods.com/fallout4/mods/105454/?tab=files&file_id=398633)
 *  [prkf 1.10.163.0-28822-1-10-163-0-1575573793.zip](https://www.nexusmods.com/fallout4/mods/28822/?tab=files&file_id=172070)
 *  [Puddle Replacer-53834-0-1-1629017152.rar](https://www.nexusmods.com/fallout4/mods/53834/?tab=files&file_id=214749)
 *  [Pump Actions of the Wasteland - Esl version-99991-V1-2-1772814947.7z](https://www.nexusmods.com/fallout4/mods/99991/?tab=files&file_id=388639)
@@ -822,8 +825,10 @@
 *  [Russian Stimpack Audio - No Grunt-71528-1-0-1689117920.zip](https://www.nexusmods.com/fallout4/mods/71528/?tab=files&file_id=283071)
 *  [Russian Stimpack Audio - Original-71528-1-0-1689117964.zip](https://www.nexusmods.com/fallout4/mods/71528/?tab=files&file_id=283072)
 *  [S7 Skill System - A Skyrim Style Leveling Overhaul-62743-0-8-0-BETA-1723907766.7z](https://www.nexusmods.com/fallout4/mods/62743/?tab=files&file_id=330527)
+*  [S7 Skill System - A Skyrim Style Leveling Overhaul-62743-0-9-22-1-BETA-1779733955.zip](https://www.nexusmods.com/fallout4/mods/62743/?tab=files&file_id=398160)
 *  [S7 Skill System - True Damage Perk Patch-66982-5-0-1757874198.zip](https://www.nexusmods.com/fallout4/mods/66982/?tab=files&file_id=367566)
 *  [S7 Skill System - Vanilla Perk Overhaul-79599-1-22-1766586882.zip](https://www.nexusmods.com/fallout4/mods/79599/?tab=files&file_id=378512)
+*  [S7 Vanilla Perk Overhaul-79599-1-3-1778457206.zip](https://www.nexusmods.com/fallout4/mods/79599/?tab=files&file_id=396547)
 *  [S7 VPO - MAIM Redux Patch-79602-1-1-1757884634.zip](https://www.nexusmods.com/fallout4/mods/79602/?tab=files&file_id=367600)
 *  [S7 VPO - Ultimate Hacking Patch-79602-1-1-1757873995.zip](https://www.nexusmods.com/fallout4/mods/79602/?tab=files&file_id=367560)
 *  [S7 VPO - Ultimate Lockpicking Patch-79602-1-1-1757874035.zip](https://www.nexusmods.com/fallout4/mods/79602/?tab=files&file_id=367561)
@@ -880,8 +885,8 @@
 *  [SUP F4SE Plugin-55419-11-70-1709825241.rar](https://www.nexusmods.com/fallout4/mods/55419/?tab=files&file_id=305956)
 *  [SuperMutantEquality-86503-Beta-0-4-2-1732716781.zip](https://www.nexusmods.com/fallout4/mods/86503/?tab=files&file_id=341461)
 *  [SuperMutantRedux 2.5-SD-DLC-11853-2-5-1540490103.7z](https://www.nexusmods.com/fallout4/mods/11853/?tab=files&file_id=144416)
-*  [Survival Mode Overhaul - Heather Casdin Patch-101900-1-0-1777494036.zip](https://www.nexusmods.com/fallout4/mods/101900/?tab=files&file_id=395219)
 *  [Survival Mode Overhaul-101900-1-08-1778245458.zip](https://www.nexusmods.com/fallout4/mods/101900/?tab=files&file_id=396232)
+*  [Survival Mode Overhaul-101900-1-09-1779714482.zip](https://www.nexusmods.com/fallout4/mods/101900/?tab=files&file_id=398122)
 *  [Swimming ESL 1.0-62123-1-0-1657572230.zip](https://www.nexusmods.com/fallout4/mods/62123/?tab=files&file_id=243114)
 *  [Synth Power Armor (ESPFE-BA2)-67969-1-3-1679460557.rar](https://www.nexusmods.com/fallout4/mods/67969/?tab=files&file_id=271454)
 *  [Synth Power Armor-67969-1-3-1675684805.rar](https://www.nexusmods.com/fallout4/mods/67969/?tab=files&file_id=266451)

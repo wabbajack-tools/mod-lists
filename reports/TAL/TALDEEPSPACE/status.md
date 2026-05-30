@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (159)
+### Valid (158)
 *  [4K Beards-615-1-3-1694043824.zip](https://www.nexusmods.com/starfield/mods/615/?tab=files&file_id=2477)
 *  [4K Eyebrows-606-1-3-1694043443.zip](https://www.nexusmods.com/starfield/mods/606/?tab=files&file_id=2474)
 *  [4K Eyes and Eyelashes-606-1-3-1694042136.zip](https://www.nexusmods.com/starfield/mods/606/?tab=files&file_id=2469)
@@ -26,6 +26,7 @@
 *  [Better Dialogue Controls-1223-1-4-0-1697482701.zip](https://www.nexusmods.com/starfield/mods/1223/?tab=files&file_id=18461)
 *  [Better NPCs-5622-1-4-1-1717664767.zip](https://www.nexusmods.com/starfield/mods/5622/?tab=files&file_id=36414)
 *  [Better Ship Part Snaps-5698-1-1-0-1775915440.7z](https://www.nexusmods.com/starfield/mods/5698/?tab=files&file_id=62405)
+*  [BetterConsole SFSE-3683-1-4-3-1724346268.7z](https://www.nexusmods.com/starfield/mods/3683/?tab=files&file_id=42117)
 *  bink2w64.dll
 *  [CaCAO-10709-1-04-1722629432.zip](https://www.nexusmods.com/starfield/mods/10709/?tab=files&file_id=41041)
 *  clang_rt.asan_dynamic-x86_64.dll
@@ -55,8 +56,6 @@
 *  [Landscape Surfaces Redone 4K - BA2-6761-1-0-1701346228.7z](https://www.nexusmods.com/starfield/mods/6761/?tab=files&file_id=26417)
 *  libHttpClient.GDK.dll
 *  libxess.dll
-*  [Light in the Dark - Akila City-12637-1-11-1734370279.7z](https://www.nexusmods.com/starfield/mods/12637/?tab=files&file_id=48395)
-*  [Light in the Dark - New Atlantis-12622-1-35-1734632607.7z](https://www.nexusmods.com/starfield/mods/12622/?tab=files&file_id=48576)
 *  [Lin Redone 4K-6884-1-0-1700106210.7z](https://www.nexusmods.com/starfield/mods/6884/?tab=files&file_id=24401)
 *  Low.ini
 *  [Marika Boros Redone 4K-6885-1-0-1700106399.7z](https://www.nexusmods.com/starfield/mods/6885/?tab=files&file_id=24403)
@@ -75,6 +74,7 @@
 *  [Project Warfare 1.16-11313-1-16-1747512881.zip](https://www.nexusmods.com/starfield/mods/11313/?tab=files&file_id=52614)
 *  [Project Warfare Ammo Patch-12964-1-1-1741512011.zip](https://www.nexusmods.com/starfield/mods/12964/?tab=files&file_id=51040)
 *  [ProjectWarfareAddonPack1 1.06-12063-1-06-1741511222.zip](https://www.nexusmods.com/starfield/mods/12063/?tab=files&file_id=51038)
+*  [Realistic Sun Disk Size-10619-1-0-0-1721352765.zip](https://www.nexusmods.com/starfield/mods/10619/?tab=files&file_id=40304)
 *  [Root Builder-31720-5-1-1-1767959063.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip)
 *  [Royal Weathers - Climate and Proc Gen Improvements-7946-1-6-1775932206.zip](https://www.nexusmods.com/starfield/mods/7946/?tab=files&file_id=62440)
 *  [Royal Weathers - Va'ruun'kai-11835-1-2-1728828713.zip](https://www.nexusmods.com/starfield/mods/11835/?tab=files&file_id=45719)
@@ -93,7 +93,6 @@
 *  [SavrenX Cave Wetness-3814-1-00-1695551941.7z](https://www.nexusmods.com/starfield/mods/3814/?tab=files&file_id=11431)
 *  [SF High Priority Launcher-14902-1-1-4-1778810963.zip](https://www.nexusmods.com/starfield/mods/14902/?tab=files&file_id=66000)
 *  [SFSE-106-0-2-20-1778772856.7z](https://www.nexusmods.com/starfield/mods/106/?tab=files&file_id=65946)
-*  [SGS Lut - 50-595-1-0-1694036302.zip](https://www.nexusmods.com/starfield/mods/595/?tab=files&file_id=2406)
 *  [Ship Builder Categories-7310-1-21-0-1775874374.7z](https://www.nexusmods.com/starfield/mods/7310/?tab=files&file_id=62373)
 *  [Ship Combat Revised - Engines - V1.3-9371-2-0-1777408756.7z](https://www.nexusmods.com/starfield/mods/9371/?tab=files&file_id=64663)
 *  [Ship Combat Revised - Habs - V1.3-9371-2-0-1777408886.7z](https://www.nexusmods.com/starfield/mods/9371/?tab=files&file_id=64664)
@@ -108,10 +107,10 @@
 *  sl.nrd.dll
 *  sl.reflex.dll
 *  [Smarter Spacesuit Auto-Hide-8423-2-2-0-1727740172.zip](https://www.nexusmods.com/starfield/mods/8423/?tab=files&file_id=44576)
-*  [Souls NPCs-11387-1-52-1738446498.rar](https://www.nexusmods.com/starfield/mods/11387/?tab=files&file_id=50020)
 *  [Space Mining 1.1a-8269-1-1a-1706939939.zip](https://www.nexusmods.com/starfield/mods/8269/?tab=files&file_id=30985)
 *  ssce5564.dll
 *  [Starfield Community Patch-1-1-0-0-1727729773.zip](https://www.nexusmods.com/starfield/mods/1/?tab=files&file_id=44566)
+*  [Starfield Engine Fixes - Game version 1.16.242-10457-18-2-1779041055.zip](https://www.nexusmods.com/starfield/mods/10457/?tab=files&file_id=66291)
 *  [Starfield Extended - Shields Rebalanced v1.01-6238-v1-01-1778603319.rar](https://www.nexusmods.com/starfield/mods/6238/?tab=files&file_id=65796)
 *  [Starfield HD Overhaul part 01-5124-3-08-1739623762.zip](https://www.nexusmods.com/starfield/mods/5124/?tab=files&file_id=50417)
 *  [Starfield HD Overhaul part 02-5124-3-10-1758051235.zip](https://www.nexusmods.com/starfield/mods/5124/?tab=files&file_id=56764)
