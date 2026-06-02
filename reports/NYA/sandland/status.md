@@ -386,8 +386,8 @@
 *  [Dartmouth Skyscraper Settlement-77192-1-01-1712605083.rar](https://www.nexusmods.com/fallout4/mods/77192/?tab=files&file_id=309525)
 *  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
-*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
 *  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
@@ -404,22 +404,22 @@
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccBGSFO4044-HellfirePowerArmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccbgsfo4046-tescan.esl
+*  Data_ccBGSFO4046-TesCan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccbgsfo4096-as_enclave.esl
+*  Data_ccBGSFO4096-AS_Enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccbgsfo4110-ws_enclave.esl
+*  Data_ccBGSFO4110-WS_Enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccbgsfo4115-x02.esl
+*  Data_ccBGSFO4115-X02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccbgsfo4116-heavyflamer.esl
+*  Data_ccBGSFO4116-HeavyFlamer.esl
 *  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
@@ -428,13 +428,13 @@
 *  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccfsvfo4007-halloween.esl
+*  Data_ccFSVFO4007-Halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccotmfo4001-remnants.esl
+*  Data_ccOTMFO4001-Remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccsbjfo4003-grenade.esl
+*  Data_ccSBJFO4003-Grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2

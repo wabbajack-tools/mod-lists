@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (822)
+### Valid (824)
 *  [1 - Accessible Bridges Patch-74249-1-00-1693404650.zip](https://www.nexusmods.com/fallout4/mods/74249/?tab=files&file_id=288438)
 *  [1 - Remove buildable items - Mannequins-101590-1-0-1771349519.zip](https://www.nexusmods.com/fallout4/mods/101590/?tab=files&file_id=386192)
 *  [1 - The Beantown Interiors Project Patch-21344-2-0-1673392809.zip](https://www.nexusmods.com/fallout4/mods/21344/?tab=files&file_id=263100)
@@ -169,31 +169,31 @@
 *  [Danse by PokaPefk - face replacer-35410-1-0-1539881575.rar](https://www.nexusmods.com/fallout4/mods/35410/?tab=files&file_id=143855)
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccbgsfo4046-tescan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccbgsfo4096-as_enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccbgsfo4110-ws_enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccBGSFO4115-X02.esl
+*  Data_ccbgsfo4115-x02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccbgsfo4116-heavyflamer.esl
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccfsvfo4007-halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccotmfo4001-remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccSBJFO4003-Grenade.esl
+*  Data_ccsbjfo4003-grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -219,6 +219,7 @@
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
+*  Data_DLCworkshop03 - Textures.ba2
 *  Data_DLCworkshop03 - Voices_en.ba2
 *  Data_DLCworkshop03.cdx
 *  Data_DLCworkshop03.esm
@@ -702,6 +703,7 @@
 *  [SKI-T6M - Plasma Autocannon - Loose Files-78053-1-1-1723339090.rar](https://www.nexusmods.com/fallout4/mods/78053/?tab=files&file_id=329757)
 *  [Skin and Bones Supermutant Trunk 2k-101300-1-0-1770905063.7z](https://www.nexusmods.com/fallout4/mods/101300/?tab=files&file_id=385390)
 *  [SkjAlert V5.1-4106-5-1.7z](https://www.nexusmods.com/fallout4/mods/4106/?tab=files&file_id=54946)
+*  [SKKFastStartNewGame_021-29227-021-1745492845.zip](https://www.nexusmods.com/fallout4/mods/29227/?tab=files&file_id=354497)
 *  [SKKPlayerUndead_005_MCM-41002-005-1657867936.zip](https://www.nexusmods.com/fallout4/mods/41002/?tab=files&file_id=243395)
 *  [SKKPlayerUndead_009-41002-009-1698852263.zip](https://www.nexusmods.com/fallout4/mods/41002/?tab=files&file_id=293104)
 *  [Sleep Or Save-12262-2-2-1540248406.zip](https://www.nexusmods.com/fallout4/mods/12262/?tab=files&file_id=144174)
