@@ -219,8 +219,8 @@
 *  [Darker Highways-95266-v1-0-1753223622.zip](https://www.nexusmods.com/fallout4/mods/95266/?tab=files&file_id=362078)
 *  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
 *  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
@@ -237,22 +237,22 @@
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccbgsfo4046-tescan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccbgsfo4096-as_enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccbgsfo4110-ws_enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccBGSFO4115-X02.esl
+*  Data_ccbgsfo4115-x02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccbgsfo4116-heavyflamer.esl
 *  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
@@ -261,13 +261,13 @@
 *  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccfsvfo4007-halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccotmfo4001-remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccSBJFO4003-Grenade.esl
+*  Data_ccsbjfo4003-grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -418,7 +418,7 @@
 *  Fallout4.ccc
 *  Fallout4.exe
 *  Fallout4Launcher.exe
-*  [FalloutChat-105467-1-1780008429.zip](https://www.nexusmods.com/fallout4/mods/105467/?tab=files&file_id=398597)
+*  [FalloutChat Works with all versions-105467-2-1780452907.zip](https://www.nexusmods.com/fallout4/mods/105467/?tab=files&file_id=399191)
 *  [Fallsouls - Unpaused Game Menus-29119-v1-1-0-1715540208.7z](https://www.nexusmods.com/fallout4/mods/29119/?tab=files&file_id=316055)
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
 *  [FallUI - HUD-51813-1-7-1-1668637124.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=257220)
@@ -646,7 +646,6 @@
 *  [Mag Poop-65212-v1-1-1678524172.7z](https://www.nexusmods.com/fallout4/mods/65212/?tab=files&file_id=270097)
 *  [Magic Effect and Spell Engine Fixes - F4SE-83433-2-1-1766860283.zip](https://www.nexusmods.com/fallout4/mods/83433/?tab=files&file_id=378832)
 *  [Magic Effect and Spell Engine Fixes-83433-1-1-1740661689.zip](https://www.nexusmods.com/fallout4/mods/83433/?tab=files&file_id=349055)
-*  [MAIM Redux - Wheel Menu Patch-89985-1-0-2-1742407225.zip](https://www.nexusmods.com/fallout4/mods/89985/?tab=files&file_id=351261)
 *  [MAIM Redux FOMOD installer-72235-1-03-1747516758.zip](https://www.nexusmods.com/fallout4/mods/72235/?tab=files&file_id=356558)
 *  [Main File - AIO Installer-25087-0-5.zip](https://www.nexusmods.com/fallout4/mods/25087/?tab=files&file_id=105015)
 *  [Main file all in one-16265-2.7z](https://www.nexusmods.com/fallout4/mods/16265/?tab=files&file_id=100909)
@@ -777,7 +776,9 @@
 *  [PowerArmor Training-90989-1-0a-1737597395.zip](https://www.nexusmods.com/fallout4/mods/90989/?tab=files&file_id=346057)
 *  [PPPL (F4 1.10.163)-3938-1-5-6-10163-1575581331.7z](https://www.nexusmods.com/fallout4/mods/3938/?tab=files&file_id=172080)
 *  [Previsibines Repair Pack - Full (1.11.191)-46403-81-5-1774283634.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=390691)
-*  [PrismaUI F4-105454-1-1-1780032237.zip](https://www.nexusmods.com/fallout4/mods/105454/?tab=files&file_id=398633)
+*  [PrismaDebugger F4-105619-1-2-1780455418.zip](https://www.nexusmods.com/fallout4/mods/105619/?tab=files&file_id=399197)
+*  [PrismaFOV-105676-1-1780456280.zip](https://www.nexusmods.com/fallout4/mods/105676/?tab=files&file_id=399201)
+*  [PrismaUI F4 NG and OG Supports all game versions.-105454-1-6-5-1780455479.zip](https://www.nexusmods.com/fallout4/mods/105454/?tab=files&file_id=399198)
 *  [prkf 1.10.163.0-28822-1-10-163-0-1575573793.zip](https://www.nexusmods.com/fallout4/mods/28822/?tab=files&file_id=172070)
 *  [Puddle Replacer-53834-0-1-1629017152.rar](https://www.nexusmods.com/fallout4/mods/53834/?tab=files&file_id=214749)
 *  [Pump Actions of the Wasteland - Esl version-99991-V1-2-1772814947.7z](https://www.nexusmods.com/fallout4/mods/99991/?tab=files&file_id=388639)
@@ -1010,8 +1011,7 @@
 *  [West Tek Tactical Optics MCM Options-59558-1-1-0-1651453550.zip](https://www.nexusmods.com/fallout4/mods/59558/?tab=files&file_id=236491)
 *  [West Tek Tactical Optics v2.0.1 (minor update)-12220-2-0-1.rar](https://www.nexusmods.com/fallout4/mods/12220/?tab=files&file_id=90810)
 *  [Wet Effects-46966-1-6-0-1664114008.7z](https://www.nexusmods.com/fallout4/mods/46966/?tab=files&file_id=251683)
-*  [Wheel Menu - FallUIified-60831-1-2-1654035012.rar](https://www.nexusmods.com/fallout4/mods/60831/?tab=files&file_id=239186)
-*  [WheelMenu-36706-1-5-0-1553049462.zip](https://www.nexusmods.com/fallout4/mods/36706/?tab=files&file_id=154619)
+*  [Wheel Menu Remastered-105620-1-0-5-1780434536.7z](https://www.nexusmods.com/fallout4/mods/105620/?tab=files&file_id=399166)
 *  [Workbench Humming - Lower Chance-46384-1-0-0-lc-1596721975.7z](https://www.nexusmods.com/fallout4/mods/46384/?tab=files&file_id=188532)
 *  [Workbench Rework - RobCo-69987-1-0-1679771367.zip](https://www.nexusmods.com/fallout4/mods/69987/?tab=files&file_id=271846)
 *  [Workshop Framework Script Override-35004-2-3-19-1710524779.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=306890)
