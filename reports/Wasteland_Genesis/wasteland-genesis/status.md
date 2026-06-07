@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1656)
+### Valid (1653)
 *  [(SSS) Face v1.8 FOMOD Installer-6940-1-8.zip](https://www.nexusmods.com/fallout4/mods/6940/?tab=files&file_id=32569)
 *  [0. VTAC REDUX Sharpshooter Set v.1.7.5 - Update-90994-v-1-7-5-1748457389.7z](https://www.nexusmods.com/fallout4/mods/90994/?tab=files&file_id=357426)
 *  [0. VTAC REDUX v.2.5 - Update File-81751-v-2-5-1746294212.7z](https://www.nexusmods.com/fallout4/mods/81751/?tab=files&file_id=355303)
@@ -27,7 +27,6 @@
 *  [4K The Patch-3747-4-2-1-1723817639.7z](https://www.nexusmods.com/fallout4/mods/3747/?tab=files&file_id=330366)
 *  [512 Standalone Hair Colors (1 ESP)-21365-2-0.zip](https://www.nexusmods.com/fallout4/mods/21365/?tab=files&file_id=90716)
 *  [77wanderer's AN76 and Mutant Menagerie Patch-79195-0-77-1709256392.rar](https://www.nexusmods.com/fallout4/mods/79195/?tab=files&file_id=305275)
-*  [90 FPS-79804-1-4-10-1744585837.7z](https://www.nexusmods.com/fallout4/mods/79804/?tab=files&file_id=353649)
 *  [A Bundle of Tape-26076-1-3.rar](https://www.nexusmods.com/fallout4/mods/26076/?tab=files&file_id=109632)
 *  [A Cannibal In Concord-14320-2-1.rar](https://www.nexusmods.com/fallout4/mods/14320/?tab=files&file_id=60741)
 *  [A Forest - Away From It All patch-59862-0-1-1668287028.zip](https://www.nexusmods.com/fallout4/mods/59862/?tab=files&file_id=256774)
@@ -87,7 +86,6 @@
 *  [ba2 - esl-74991-1-0-2-1695659666.7z](https://www.nexusmods.com/fallout4/mods/74991/?tab=files&file_id=290444)
 *  [Ba2 2k Authors Vehicle picks Left To Rot-76129-0-4-1703342594.7z](https://www.nexusmods.com/fallout4/mods/76129/?tab=files&file_id=297519)
 *  [BakaFramework-43627-2-0-1-1715443149.7z](https://www.nexusmods.com/fallout4/mods/43627/?tab=files&file_id=315807)
-*  [BakaMaxPapyrusOps-73774-2-0-1-1715265987.7z](https://www.nexusmods.com/fallout4/mods/73774/?tab=files&file_id=315338)
 *  [Banshee Recon Armor - CBBE BodySlide-40047-1-1-1564072704.7z](https://www.nexusmods.com/fallout4/mods/40047/?tab=files&file_id=162820)
 *  [Banshee Recon Armor CBBE 1.1-31295-1-1.7z](https://www.nexusmods.com/fallout4/mods/31295/?tab=files&file_id=128614)
 *  [Barefoot Footstep 1.2-14790-1-2.7z](https://www.nexusmods.com/fallout4/mods/14790/?tab=files&file_id=59668)
@@ -118,7 +116,6 @@
 *  [Bonus Happiness-65683-1-01-1667498534.zip](https://www.nexusmods.com/fallout4/mods/65683/?tab=files&file_id=255651)
 *  [Boon Island 1.0.4-84449-1-0-4-1719753662.rar](https://www.nexusmods.com/fallout4/mods/84449/?tab=files&file_id=325050)
 *  [Brighter Settlement Lights v1.2.1-2494-1-2.zip](https://www.nexusmods.com/fallout4/mods/2494/?tab=files&file_id=9673)
-*  [Buffout4 NG-64880-1-37-0-1741845594.7z](https://www.nexusmods.com/fallout4/mods/64880/?tab=files&file_id=350591)
 *  [Bullet Counted Reload - v.2.02-41178-2-02-1747046848.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=356074)
 *  [Bunnygirl Outfit Latex Reskin Replacer-16798-.rar](https://www.nexusmods.com/fallout4/mods/16798/?tab=files&file_id=76440)
 *  [Bunnygirl Outfit v1.71 non AWKCR-16798-.rar](https://www.nexusmods.com/fallout4/mods/16798/?tab=files&file_id=76467)
@@ -173,6 +170,7 @@
 *  [CoTaP - Standalone - 2k BA2 (Recommended)-87712-1-0-1733962144.7z](https://www.nexusmods.com/fallout4/mods/87712/?tab=files&file_id=342568)
 *  [CoTaP Face Texture Specular Fix-87358-1-0-1725961340.rar](https://www.nexusmods.com/fallout4/mods/87358/?tab=files&file_id=333474)
 *  [CoTaP Standalone LMMC-89381-1-1-1732224642.zip](https://www.nexusmods.com/fallout4/mods/89381/?tab=files&file_id=340925)
+*  [Coursers and Synths - Sexy Edition-90505-1-5-1739073026.rar](https://www.nexusmods.com/fallout4/mods/90505/?tab=files&file_id=347583)
 *  [COURSERS- PROJECT BEAUTY (FACEGEN)-90505-2-0-1751795657.rar](https://www.nexusmods.com/fallout4/mods/90505/?tab=files&file_id=360729)
 *  [Crafting Highlight Fix 1.9-27479-1-9-1718721187.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=323378)
 *  CreationKit.exe
@@ -463,10 +461,11 @@
 *  [Garden of Eden Papyrus Script Extender - Next-Gen-74160-19-5-1743885785.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=352996)
 *  [GCM DLC Automatron-33759-4-0.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=137688)
 *  [GCM DLC Far Harbor-33759-0-6-1561641689.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=160697)
+*  [Gemini's AIO Munitions Patch - Wasteland Genesis-95495-3-1-2-1775329125.7z](https://www.nexusmods.com/fallout4/mods/95495/?tab=files&file_id=392159)
 *  [Gemini's CBBE Bodyslide Preset - Natasha-96048-v-2-1755786824.7z](https://www.nexusmods.com/fallout4/mods/96048/?tab=files&file_id=365084)
 *  [Gemini's FixCubeMaps Patch - Wasteland Genesis 3.1-97927-v1-0-1762381361.7z](https://www.nexusmods.com/fallout4/mods/97927/?tab=files&file_id=372482)
 *  [Gemini's Looksmenu Presets - Main 3-96085-v1-0-1755938746.7z](https://www.nexusmods.com/fallout4/mods/96085/?tab=files&file_id=365258)
-*  [Gemini's Munitions Patches - SIG Sauer Pistol Pack-97518-v1-0-1761155254.7z](https://www.nexusmods.com/fallout4/mods/97518/?tab=files&file_id=370971)
+*  [Gemini's Recipes - Wasteland Genesis-95495-v3-1-2-1775461173.7z](https://www.nexusmods.com/fallout4/mods/95495/?tab=files&file_id=392407)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
 *  [GIAT FAMAS FB Addon 4k-78241-1-0-1707061740.zip](https://www.nexusmods.com/fallout4/mods/78241/?tab=files&file_id=302336)
@@ -496,7 +495,6 @@
 *  [Hookers of the Commonwealth (HotC) - v.0.99h-21354-0-99h.rar](https://www.nexusmods.com/fallout4/mods/21354/?tab=files&file_id=91071)
 *  [HOTC more bikinis patch-35636-2-0-1549579717.zip](https://www.nexusmods.com/fallout4/mods/35636/?tab=files&file_id=151765)
 *  [HotC SE - v.0.95d-22074-0-95d.rar](https://www.nexusmods.com/fallout4/mods/22074/?tab=files&file_id=97207)
-*  [HotFo4 MagazinesReplacerDLC AchillesEdition-54985-1-0-1634129910.7z](https://www.nexusmods.com/fallout4/mods/54985/?tab=files&file_id=219151)
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
 *  [I'm Darlene-36254-2-01-1663711465.7z](https://www.nexusmods.com/fallout4/mods/36254/?tab=files&file_id=251232)
 *  [IAF - ESP-less Patches-82190-0-4-0-1714995934.zip](https://www.nexusmods.com/fallout4/mods/82190/?tab=files&file_id=314610)
@@ -657,7 +655,6 @@
 *  [People Live In - USAF Satellite Station Olivia-59993-1-03-1729296545.zip](https://www.nexusmods.com/fallout4/mods/59993/?tab=files&file_id=337190)
 *  [Perchik71 - IN-GAME MOD Explorer NG (MCM)-56922-1-16-702-1715654226.zip](https://www.nexusmods.com/fallout4/mods/56922/?tab=files&file_id=316375)
 *  [Performance Textures-68187-1-4-1714417430.zip](https://www.nexusmods.com/fallout4/mods/68187/?tab=files&file_id=313094)
-*  [Persistent Volume Sliders-58416-1-1-1645852559.7z](https://www.nexusmods.com/fallout4/mods/58416/?tab=files&file_id=230756)
 *  [Pey's Tactical Reload Patch Repository-70974-1-6-1730278891.7z](https://www.nexusmods.com/fallout4/mods/70974/?tab=files&file_id=338400)
 *  [PFABOB 2K BA2-70452-1-0-1681329805.rar](https://www.nexusmods.com/fallout4/mods/70452/?tab=files&file_id=273834)
 *  [Phoenix Lab Full Magazine Retexture-47323--75-1599704667.zip](https://www.nexusmods.com/fallout4/mods/47323/?tab=files&file_id=191001)
@@ -838,6 +835,7 @@
 *  [The Wilderness-71732-3-1716920461.zip](https://www.nexusmods.com/fallout4/mods/71732/?tab=files&file_id=319654)
 *  [TheKite_ScoopDigger-18856-1-0b-1560024566.zip](https://www.nexusmods.com/fallout4/mods/18856/?tab=files&file_id=159440)
 *  [TheSanctuaryBridge.zip-22949-1-2.zip](https://www.nexusmods.com/fallout4/mods/22949/?tab=files&file_id=95515)
+*  [Thirsty Magazines AIO-104820-2-0-1779112571.zip](https://www.nexusmods.com/fallout4/mods/104820/?tab=files&file_id=397412)
 *  [This one-66740-2-1670370119.zip](https://www.nexusmods.com/fallout4/mods/66740/?tab=files&file_id=259473)
 *  [Thuggysmurf_Optimization-56876-2-3-2-1750691774.7z](https://www.nexusmods.com/fallout4/mods/56876/?tab=files&file_id=359761)
 *  [Thuggysmurf's Mods FaceGen-86384-2-0-0-1724533159.7z](https://www.nexusmods.com/fallout4/mods/86384/?tab=files&file_id=331528)
@@ -901,6 +899,7 @@
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.min.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.16.custom.css
+*  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_css_images_ajax-loader.gif
 *  Tools_MaterialEditor_htdocs_css_jquery.treeview.css
 *  Tools_MaterialEditor_htdocs_css_screen.css
@@ -910,6 +909,7 @@
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_100_f6f6f6_1x400.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_100_fdf5ce_1x400.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_65_ffffff_1x400.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_gloss-wave_35_f6a828_500x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_222222_256x240.png
@@ -919,7 +919,6 @@
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_css_ui.spinner.css
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-bg_gloss-wave_35_f6a828_500x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_AUTHORS.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_collapsible.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_custom-icons.html
@@ -1120,6 +1119,7 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.css
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.js
 *  Tools_MaterialEditor_htdocs_development-bundle_GPL-LICENSE.txt
+*  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.7.2.js
 *  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.9.1.js
 *  Tools_MaterialEditor_htdocs_development-bundle_MIT-LICENSE.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_package.json
@@ -1147,9 +1147,8 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.resizable.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.selectable.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.slider.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery-ui-1.8.20.custom.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.theme.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.accordion.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.all.css
@@ -1222,7 +1221,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-CN.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-HK.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-TW.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.scale.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.accordion.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.autocomplete.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.button.js
@@ -1240,7 +1238,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.sortable.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.tabs.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.widget.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.fade.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.accordion.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.autocomplete.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.button.min.js
@@ -1283,7 +1280,7 @@
 *  Tools_MaterialEditor_htdocs_jquery-1.10.2.min.js
 *  Tools_MaterialEditor_htdocs_jquery.bgsdlgeditor.css
 *  Tools_MaterialEditor_htdocs_jquery.bgsdlgeditor.js
-*  Tools_MaterialEditor_htdocs_jquery.cleditor.txt
+*  Tools_MaterialEditor_htdocs_jquery.cleditor.js
 *  Tools_MaterialEditor_htdocs_jquery.jgrowl.css
 *  Tools_MaterialEditor_htdocs_jquery.jgrowl.js
 *  Tools_MaterialEditor_htdocs_jquery.js
@@ -1295,7 +1292,7 @@
 *  Tools_MaterialEditor_htdocs_jquery.treeview2.js
 *  Tools_MaterialEditor_htdocs_js_intro.js
 *  Tools_MaterialEditor_htdocs_js_jquery-1.6.2.min.js
-*  Tools_MaterialEditor_htdocs_js_jquery-1.7.2.js
+*  Tools_MaterialEditor_htdocs_js_jquery-1.7.2.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.8.16.custom.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.8.20.custom.min.js
@@ -1518,7 +1515,6 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-CN.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-HK.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-TW.js
-*  Tools_MaterialEditor_htdocs_ui_jquery-1.7.2.min.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.8.16.custom.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.8.20.custom.js
@@ -1533,6 +1529,7 @@
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.fold.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.highlight.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.pulsate.js
+*  Tools_MaterialEditor_htdocs_ui_jquery.effects.scale.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.shake.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.slide.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.transfer.js
@@ -1560,6 +1557,7 @@
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.core.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.drop.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.explode.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fade.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fold.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.highlight.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.pulsate.min.js
@@ -1657,7 +1655,6 @@
 *  [Wildlife Overhaul - Squirrels-49792-2-0-1690489039.zip](https://www.nexusmods.com/fallout4/mods/49792/?tab=files&file_id=284616)
 *  [Workshop Framework Facegen-88162-1-1727805790.zip](https://www.nexusmods.com/fallout4/mods/88162/?tab=files&file_id=335759)
 *  [Workshop Framework-35004-2-4-4-1735006785.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=343469)
-*  [X-Cell 2.1-b126-84214-2-1-b126-1757773434.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=367407)
 *  [XDI Player Voice Unlocker Patch NG-37356-1-00-1720970054.7z](https://www.nexusmods.com/fallout4/mods/37356/?tab=files&file_id=326720)
 *  [Your Voice Assistant AI (Snezhana)-95211-1-01-1753022305.7z](https://www.nexusmods.com/fallout4/mods/95211/?tab=files&file_id=361875)
 *  [ZP's Fire and Smoke ba2-88430-01-1728934708.zip](https://www.nexusmods.com/fallout4/mods/88430/?tab=files&file_id=336835)

@@ -1,12 +1,13 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (2)
+### Invalid (3)
 *  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [High_Poly_Head_v1.4_(SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+*  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2667)
+### Valid (2666)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1580,7 +1581,6 @@
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Nether's Follower Framework - Settings Loader-57022-1-0-1634145115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57022/?tab=files&file_id=234609)
-*  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
 *  [NetScriptFramework SkyrimSE v18-21294-18-1635489335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=237679)
 *  [New Glazed Pots-69273-1-0-1-1654617313.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69273/?tab=files&file_id=289507)
 *  [New Legion - Tullius Mesh Fix-43103-1-0-1607415466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43103/?tab=files&file_id=173761)
