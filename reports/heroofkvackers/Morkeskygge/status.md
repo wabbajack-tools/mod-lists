@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (753)
+### Valid (746)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474 (1).7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [0-Elden Rim-Base 3.7.2-65625-3-7-2-1771416448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=722819)
@@ -19,7 +19,6 @@
 *  [1AncientImparisalArmorSE-142655-4-1746702476.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142655/?tab=files&file_id=624910)
 *  [1DaedrothsSE-44816-v-1611579198.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44816/?tab=files&file_id=181710)
 *  [1FleshColossusSE-55719-1-1631893972.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55719/?tab=files&file_id=228976)
-*  [1NGarmorSE-63772-1-1645091465.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63772/?tab=files&file_id=264812)
 *  [1ScampsSE-44505-0-1610972897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44505/?tab=files&file_id=180229)
 *  [1SpriggansSE-90547-3-1717235202.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90547/?tab=files&file_id=507165)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -171,14 +170,10 @@
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
-*  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse054-ba_orcish.bsa
 *  Data_ccqdrsse001-survivalmode.esl
-*  Data_ccvsvsse003-necroarts.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -392,7 +387,6 @@
 *  [Improved Theater mesh - High version-90934-1-0-1683577676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90934/?tab=files&file_id=386106)
 *  [In-Game Patcher-158681-1-4-2-1758808150.7z](https://www.nexusmods.com/skyrimspecialedition/mods/158681/?tab=files&file_id=669293)
 *  [Inertia - Latest Version-148746-1-1-0-1749035032.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148746/?tab=files&file_id=634469)
-*  [Infantry Armor - Iron Armor Replacer-174163-1-0-1772910151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174163/?tab=files&file_id=728979)
 *  [Infinity Dodge-78193-1-3-1693233609.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78193/?tab=files&file_id=421509)
 *  [Infinity UI-74483-2-0-3-1730049690.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=556134)
 *  installscript.vdf
@@ -411,7 +405,7 @@
 *  [Keyword Item Distributor-55728-3-4-0-1710234193.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=479670)
 *  [KIA - SCAR AE (Actually SSE) - Patch-156051-1-0-1754126037.zip](https://www.nexusmods.com/skyrimspecialedition/mods/156051/?tab=files&file_id=652075)
 *  [Kill Caps Lock NG-99090-1-0-0-1-1692902904.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99090/?tab=files&file_id=420132)
-*  [KillmoveParalysisFix AE-65312-1-0-0-1647868286.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65312/?tab=files&file_id=271571)
+*  [Killmove Fixes-140398-1-0-1738208773.rar](https://www.nexusmods.com/skyrimspecialedition/mods/140398/?tab=files&file_id=588979)
 *  [King Olaf's Fire Festival Not Ending Fix-65849-0-1-1648899684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65849/?tab=files&file_id=274311)
 *  [Know Your Enemy-13807-10-0-0-1671230554.rar](https://www.nexusmods.com/skyrimspecialedition/mods/13807/?tab=files&file_id=341157)
 *  [Koralina's COtR Makeup for Female-90801-1-0-1683416334.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90801/?tab=files&file_id=385492)
@@ -737,7 +731,6 @@
 *  [Vokrii 3.8.2-26176-3-8-2-1642771755.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=258362)
 *  [Volkihar Soundscape Overhaul-118891-1-1-1715465187.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118891/?tab=files&file_id=500242)
 *  [Volumetric Mists-29273-1-4-2-1585565974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29273/?tab=files&file_id=131426)
-*  [Water Effects Brightness and Reflection Fix-63862-0-6-1753307796.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63862/?tab=files&file_id=649686)
 *  [Water in Wells - mesh-only animated wells-57268-0-8-1708175250.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57268/?tab=files&file_id=471786)
 *  [Weapon Styles for IED-85085-3-0-1-1740520119.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85085/?tab=files&file_id=599100)
 *  [Weapon Switch Animation Fix - Behavior Patch Ver-125415-1-0-0-1722598417.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125415/?tab=files&file_id=527544)
