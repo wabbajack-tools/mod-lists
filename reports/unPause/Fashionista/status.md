@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (540)
+### Valid (496)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -30,8 +30,10 @@
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
 *  [BLOODLINES_EXTREME_2.1.0-Repack.7z](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_2.1.0-Repack.7z_ac969c81-5773-44a9-95b9-5182fbe72a95)
 *  [BLOODLINES_EXTREME_2.1.0.zip](https://www.moddb.com/downloads/start/132997)
+*  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
 *  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
+*  [Bloodlines_Prelude_II_Early_Access_v1.1.2.exe](https://www.moddb.com/downloads/start/289563)
 *  [Boombox reskin - animated clock-108-1-0-1563569052.zip](https://www.nexusmods.com/vampirebloodlines/mods/108/?tab=files&file_id=264)
 *  [Brighter UI-234-1-6-1726951399.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1075)
 *  [Brujah Amy model-332-4-0-1732954136.zip](https://www.nexusmods.com/vampirebloodlines/mods/332/?tab=files&file_id=1111)
@@ -150,6 +152,7 @@
 *  [Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1267)
 *  [Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1265)
 *  [Music HUSHED-368-1-0-1762028492.7z](https://www.nexusmods.com/vampirebloodlines/mods/368/?tab=files&file_id=1330)
+*  [Nadia - female PC seduction-239-1-1671981695.7z](https://www.nexusmods.com/vampirebloodlines/mods/239/?tab=files&file_id=690)
 *  [Neu Ventrue-371-1-1762325963.rar](https://www.nexusmods.com/vampirebloodlines/mods/371/?tab=files&file_id=1339)
 *  [New Badass Prince LaCroix-56-1-1540324215.rar](https://www.nexusmods.com/vampirebloodlines/mods/56/?tab=files&file_id=139)
 *  [New hands texture-149-1-0-1596153267.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=419)
@@ -176,6 +179,7 @@
 *  [Player Characters Improved-163-7-1741784862.rar](https://www.nexusmods.com/vampirebloodlines/mods/163/?tab=files&file_id=1194)
 *  [Prelude Characters-165-30-1761641912.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1313)
 *  [Prelude Male Hunter Improved-370-1-1762071923.rar](https://www.nexusmods.com/vampirebloodlines/mods/370/?tab=files&file_id=1335)
+*  [Profile Executable Selector-181705-1-1780678022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181705/?tab=files&file_id=759831)
 *  [Profile Sync-60690-2-2-0-1767828121.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=706651)
 *  [ProudStannerman Toreador-376-1-1762488690.rar](https://www.nexusmods.com/vampirebloodlines/mods/376/?tab=files&file_id=1348)
 *  [ProudStannerman Tremere-376-1-1762480761.rar](https://www.nexusmods.com/vampirebloodlines/mods/376/?tab=files&file_id=1347)
@@ -199,6 +203,8 @@
 *  [The Final Nights HD 1.6 - Repack.zip](https://authored-files.wabbajack.org/The Final Nights HD 1.6 - Repack.zip_fa3e3688-8409-4e96-a838-6abf4c3e9346)
 *  [The Gentleman v1.0-98-1-0-1556424554.rar](https://www.nexusmods.com/vampirebloodlines/mods/98/?tab=files&file_id=232)
 *  [The Hecata Chronicles-300-0-9-1714578986.7z](https://www.nexusmods.com/vampirebloodlines/mods/300/?tab=files&file_id=985)
+*  [The Undisciplined Caitiff v1.4.3 Hotfix 1-140-1-4-3-1-1702486336.7z](https://www.nexusmods.com/vampirebloodlines/mods/140/?tab=files&file_id=915)
+*  [The Undisciplined Caitiff-140-1-4-3-1672451067.7z](https://www.nexusmods.com/vampirebloodlines/mods/140/?tab=files&file_id=694)
 *  [The Vampire Armand  by Marius217-145-1-1591118651.rar](https://www.nexusmods.com/vampirebloodlines/mods/145/?tab=files&file_id=401)
 *  [Those Goth Kids - Dancers Pack-81-2-1553964747.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=183)
 *  [Throwing a bone for the canines-90-1-0-1555174903.rar](https://www.nexusmods.com/vampirebloodlines/mods/90/?tab=files&file_id=210)
@@ -239,70 +245,37 @@
 *  [vampire Tremere Male my version original by Marius217-116-1-1565840224.rar](https://www.nexusmods.com/vampirebloodlines/mods/116/?tab=files&file_id=274)
 *  [vampire_ASH_TREMERE.rar](https://www.moddb.com/addons/start/184534)
 *  Vampire_cfg_dummy.txt
+*  Vampire_cfg_user.cfg
 *  [vampire_Gangrel_-_Vent.rar](https://www.moddb.com/addons/start/183888)
 *  [vampire_GANGREL_BRUJAH_TREMERE.rar](https://www.moddb.com/addons/start/186124)
 *  [Vampire_Malkavian_Brujah_Gangrel.rar](https://www.moddb.com/addons/start/186491)
 *  [vampire_Malkavian_Fight_club.rar](https://www.moddb.com/addons/start/176957)
-*  Vampire_maps_ch_cloud_1.bsp
 *  Vampire_maps_ch_dragon_1.bsp
-*  Vampire_maps_ch_fishmarket_1.bsp
 *  Vampire_maps_ch_fulab_1.bsp
 *  Vampire_maps_ch_glaze_1.bsp
 *  Vampire_maps_ch_hub_1.bsp
-*  Vampire_maps_ch_lotus_1.bsp
-*  Vampire_maps_ch_ramen_1.bsp
-*  Vampire_maps_ch_shrekhub.bsp
-*  Vampire_maps_ch_temple_1.bsp
-*  Vampire_maps_ch_temple_2.bsp
 *  Vampire_maps_ch_temple_3.bsp
-*  Vampire_maps_ch_temple_4.bsp
-*  Vampire_maps_ch_tsengs_1.bsp
-*  Vampire_maps_ch_zhaos_1.bsp
-*  Vampire_maps_hw_609_1.bsp
 *  Vampire_maps_hw_ash_sewer_1.bsp
 *  Vampire_maps_hw_asphole_1.bsp
-*  Vampire_maps_hw_cemetery_1.bsp
-*  Vampire_maps_hw_chinese_1.bsp
 *  Vampire_maps_hw_hub_1.bsp
 *  Vampire_maps_hw_jewelry_1.bsp
 *  Vampire_maps_hw_luckystar_1.bsp
 *  Vampire_maps_hw_metalhead_1.bsp
 *  Vampire_maps_hw_netcafe_1.bsp
-*  Vampire_maps_hw_redspot_1.bsp
 *  Vampire_maps_hw_sinbin_1.bsp
 *  Vampire_maps_hw_tawni_1.bsp
 *  Vampire_maps_hw_vesuvius_1.bsp
-*  Vampire_maps_hw_warrens_1.bsp
-*  Vampire_maps_hw_warrens_2.bsp
-*  Vampire_maps_hw_warrens_3.bsp
-*  Vampire_maps_hw_warrens_4.bsp
 *  Vampire_maps_hw_warrens_5.bsp
-*  Vampire_maps_la_abandoned_building_1.bsp
 *  Vampire_maps_la_bradbury_2.bsp
-*  Vampire_maps_la_bradbury_3.bsp
 *  Vampire_maps_la_chantry_1.bsp
 *  Vampire_maps_la_confession_1.bsp
 *  Vampire_maps_la_crackhouse_1.bsp
 *  Vampire_maps_la_dane_1.bsp
 *  Vampire_maps_la_empire_1.bsp
-*  Vampire_maps_la_empire_2.bsp
-*  Vampire_maps_la_empire_3.bsp
 *  Vampire_maps_la_expipe_1.bsp
-*  Vampire_maps_la_hospital_1.bsp
 *  Vampire_maps_la_hub_1.bsp
-*  Vampire_maps_la_malkavian_1.bsp
-*  Vampire_maps_la_malkavian_2.bsp
-*  Vampire_maps_la_malkavian_3.bsp
-*  Vampire_maps_la_malkavian_4.bsp
-*  Vampire_maps_la_malkavian_5.bsp
-*  Vampire_maps_la_museum_1.bsp
 *  Vampire_maps_la_parkinggarage_1.bsp
-*  Vampire_maps_la_plaguebearer_sewer_1.bsp
 *  Vampire_maps_la_skyline_1.bsp
-*  Vampire_maps_la_ventruetower_1.bsp
-*  Vampire_maps_la_ventruetower_1b.bsp
-*  Vampire_maps_la_ventruetower_2.bsp
-*  Vampire_maps_la_ventruetower_3.bsp
 *  Vampire_maps_sm_apartment_1.bsp
 *  Vampire_maps_sm_asylum_1.bsp
 *  Vampire_maps_sm_bailbonds_1.bsp
@@ -311,38 +284,18 @@
 *  Vampire_maps_sm_diner_1.bsp
 *  Vampire_maps_sm_gallery_1.bsp
 *  Vampire_maps_sm_hub_1.bsp
-*  Vampire_maps_sm_hub_2.bsp
-*  Vampire_maps_sm_junkyard_1.bsp
 *  Vampire_maps_sm_medical_1.bsp
-*  Vampire_maps_sm_oceanhouse_1.bsp
-*  Vampire_maps_sm_oceanhouse_2.bsp
 *  Vampire_maps_sm_pawnshop_1.bsp
-*  Vampire_maps_sm_pawnshop_2.bsp
 *  Vampire_maps_sm_pier_1.bsp
-*  Vampire_maps_sm_shreknet_1.bsp
 *  Vampire_maps_sm_tattoo.bsp
 *  Vampire_maps_sm_vamparena.bsp
 *  Vampire_maps_sm_warehouse_1.bsp
-*  Vampire_maps_sp_endsequences_a.bsp
-*  Vampire_maps_sp_endsequences_b.bsp
-*  Vampire_maps_sp_epilogue.bsp
-*  Vampire_maps_sp_genesisdevice_1.bsp
-*  Vampire_maps_sp_giovanni_1.bsp
 *  Vampire_maps_sp_giovanni_2a.bsp
-*  Vampire_maps_sp_giovanni_2b.bsp
-*  Vampire_maps_sp_giovanni_3.bsp
-*  Vampire_maps_sp_giovanni_4.bsp
 *  Vampire_maps_sp_giovanni_5.bsp
-*  Vampire_maps_sp_ninesintro.bsp
-*  Vampire_maps_sp_observatory_1.bsp
-*  Vampire_maps_sp_observatory_2.bsp
 *  Vampire_maps_sp_soc_1.bsp
 *  Vampire_maps_sp_soc_2.bsp
 *  Vampire_maps_sp_soc_3.bsp
-*  Vampire_maps_sp_soc_4.bsp
-*  Vampire_maps_sp_taxiride.bsp
 *  Vampire_maps_sp_theatre.bsp
-*  Vampire_maps_sp_tutorial_1.bsp
 *  Vampire_media_activision.bik
 *  [vampire_nosferatu.rar](https://www.moddb.com/addons/start/221444)
 *  [vampire_Pack_Male_PC.rar](https://www.moddb.com/addons/start/183093)
@@ -533,12 +486,15 @@
 *  version.inf
 *  [Viking_Embraced.rar](https://www.moddb.com/addons/start/216674)
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
+*  [VTM_The_Final_Nights_1.6_HD_Full.exe](https://www.moddb.com/downloads/start/197397)
 *  [VtmB Antitribu Lasombra black clothes-248-1-0-1678275328.rar](https://www.nexusmods.com/vampirebloodlines/mods/248/?tab=files&file_id=745)
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
+*  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
 *  [VTMBup115.73-80-11-5-1779783826.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1549)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
+*  [War_Games.exe](https://www.moddb.com/downloads/start/304323)
 *  [Warrior_Wolf_Gangrel.rar](https://www.moddb.com/addons/start/179930)
 *  [World Texture Separation 1 3-234-2-2-1774102944.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1519)
 *  [World Texture Separation 2 3-234-2-2-1774102825.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1518)
