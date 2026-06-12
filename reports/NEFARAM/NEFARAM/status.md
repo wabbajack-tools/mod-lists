@@ -1,11 +1,12 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [BaboDialogue 5.71.7z](https://authored-files.wabbajack.org/BaboDialogue 5.71.7z_e23a90de-7316-4ccf-9539-beffb75e6067)
 *  [enbseries_skyrimse_v0503.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0503.zip_bac932de-2362-4915-9cea-c240e96a5f60)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2326)
+### Valid (2325)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -227,7 +228,6 @@
 *  [B.O.O.B.I.E.S (Immsersive Icons) 2.1.3-89241-2-1-3-1730442940.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89241/?tab=files&file_id=557732)
 *  [BA_BardSongs_FOMOD-47202-1-3-1625966592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47202/?tab=files&file_id=213912)
 *  [Babodialogue 5.70 Voice Pack 1.00 SE.7z](https://www.loverslab.com/files/file/35644-babodialogue-580-voicepack/?do=download)
-*  [BaboDialogue 5.71.7z](https://authored-files.wabbajack.org/BaboDialogue 5.71.7z_e23a90de-7316-4ccf-9539-beffb75e6067)
 *  [BakaFactory ABC LE SE.7z](https://authored-files.wabbajack.org/BakaFactory ABC LE SE.7z_5c525d02-a7cf-404e-9a4e-81a1aef26d32)
 *  [BakaFactory SLAL Animation 6.50.7z](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)
 *  [Balazar's Bitch v0.946 SE.7z](https://www.loverslab.com/files/file/29983-adventures-with-balazar-balazars-bitch-beta/?do=download)
