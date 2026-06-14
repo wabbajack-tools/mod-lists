@@ -14,6 +14,7 @@
     -   [Arkay's Commandment](#arkays-commandment)
     -   [Aurbaesence](#aurbaesence)
     -   [Do Not Go Gentle](#do-not-go-gentle)
+    -   [ElderTeej](#elderteej)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Halls of Sovngarde](#halls-of-sovngarde)
     -   [Journals of Jyggalag](#journals-of-jyggalag)
@@ -176,6 +177,21 @@ This list is designed as Requiem modlist with [Bruma](https://www.nexusmods.com/
 -   [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
 -   [Modern Combat Overhaul - ADXP | MCO](https://www.skyrim-guild.com/distar/mods/attack) and [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
 -   [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
+
+---
+
+### [ElderTeej](https://github.com/crispyfires/ETJ/blob/main/README.md)
+
+ElderTeej is a [Vokord](https://www.nexusmods.com/skyrimspecialedition/mods/129564)-powered power fantasy list featuring every official [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) display and several unofficial ones. This is a dungeon crawling, loot gremlin experience built on the AE version of Skyrim and tuned to my personal likings, with vibrant visuals, engaging combat, and a ton of story content; you're supposed to be the Dragonborn, go fill the museum and kick some butt while you're at it!  
+
+**_Mods to get familiar with:_**
+
+- [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052)
+- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+- [Northern Roads](https://www.nexusmods.com/skyrimspecialedition/mods/77530)
+- [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
+
+Check the whole load order [here!](https://loadorderlibrary.com/lists/elderteej-3)
 
 ---
 
