@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (759)
+### Valid (757)
 *  [01. Starfield Shader Cache Reset Tool-15632-1-4-1768636817.zip](https://www.nexusmods.com/starfield/mods/15632/?tab=files&file_id=59843)
 *  [1.1 ver-13027-1-1-1737478360.zip](https://www.nexusmods.com/starfield/mods/13027/?tab=files&file_id=49680)
 *  [1.11-13179-1-11-1739343345.zip](https://www.nexusmods.com/starfield/mods/13179/?tab=files&file_id=50345)
@@ -40,7 +40,6 @@
 *  [Aurie_BuildOutpostsWithCredits_TMClassM_patch-12658-1-0-1769445673.zip](https://www.nexusmods.com/starfield/mods/12658/?tab=files&file_id=60078)
 *  [Auto Hide HUD and Widgets-8946-6-2-1758484412.zip](https://www.nexusmods.com/starfield/mods/8946/?tab=files&file_id=56868)
 *  [Auto Highlight Outpost Items-6926-2-6-1754511220.zip](https://www.nexusmods.com/starfield/mods/6926/?tab=files&file_id=55346)
-*  [Auto Spacesuit Hider-7432-3-0-1754501870.zip](https://www.nexusmods.com/starfield/mods/7432/?tab=files&file_id=55331)
 *  [Auto Transfer Mineral Deposits and Resources-8606-5-3-1754510033.zip](https://www.nexusmods.com/starfield/mods/8606/?tab=files&file_id=55343)
 *  [Auto Unlock SFSE-5571-2-0-1-1748524152.7z](https://www.nexusmods.com/starfield/mods/5571/?tab=files&file_id=53028)
 *  [Backpack mesh fixes MO2-13067-1-0-1737756914.7z](https://www.nexusmods.com/starfield/mods/13067/?tab=files&file_id=49786)
@@ -160,10 +159,8 @@
 *  Data_SFBGS008 - Main.ba2
 *  Data_SFBGS008.esm
 *  Data_SFBGS00D - Main.ba2
-*  Data_SFBGS00D - Textures.ba2
 *  Data_SFBGS047 - Main.ba2
 *  Data_SFBGS050 - Main.ba2
-*  Data_SFBGS050 - Textures.ba2
 *  Data_ShatteredSpace - Main01.ba2
 *  Data_ShatteredSpace - Main02.ba2
 *  Data_ShatteredSpace - Textures.ba2
@@ -752,6 +749,7 @@
 *  [VTI Ship Habs-14947-5-4-10-1772667123.zip](https://www.nexusmods.com/starfield/mods/14947/?tab=files&file_id=60903)
 *  [WaitMeInShip_v1.3-13876-1-3-1749806751.zip](https://www.nexusmods.com/starfield/mods/13876/?tab=files&file_id=53724)
 *  [Walk With Me (slightly slower)-12528-1-0-1765312779.zip](https://www.nexusmods.com/starfield/mods/12528/?tab=files&file_id=58939)
+*  [WalterLowerBodyMaterial-13098-1-0-1745840974.7z](https://www.nexusmods.com/starfield/mods/13098/?tab=files&file_id=52203)
 *  [We Were Once Here-9878-1-2-1726879195.7z](https://www.nexusmods.com/starfield/mods/9878/?tab=files&file_id=43971)
 *  [Weapon Skin Expansion - Wasp Unlocked-9801-V1-00-1718478665.zip](https://www.nexusmods.com/starfield/mods/9801/?tab=files&file_id=37484)
 *  [Weapon Workbench Snap Fix-13466-1-1742581283.7z](https://www.nexusmods.com/starfield/mods/13466/?tab=files&file_id=51339)
