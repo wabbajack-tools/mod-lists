@@ -1,8 +1,8 @@
 {
   "MachineURL": "librum/librum_vr",
   "Name": "Librum VR",
-  "Version": "3.1.0.7",
-  "ModListHash": "i3VbT3Nq+9k=",
+  "Version": "3.1.0.8",
+  "ModListHash": "k+5Im0XInqM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2921,16 +2921,23 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "p9AtTVCy7q4=",
-        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=56194641\u0026i=8887786",
-        "Name": "Nethers_Follower_Framework_UNI_2_7_9.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55653\nfileID=228648",
+        "Name": "Nether\u0027s Follower Framework - Universal Installer (LE or SSE)-55653-2-7-9-1631753067.zip",
         "Size": 9181316,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.patreon.com/file?h=56194641\u0026i=8887786"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Netherworks",
+          "Description": "Nether\u0027s Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.",
+          "FileID": 228648,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55653/109150-1631751354-1152366051.jpeg",
+          "IsNSFW": false,
+          "ModID": 55653,
+          "Name": "Nether\u0027s Follower Framework",
+          "Version": "2.8.5"
         }
       }
     },
@@ -29991,8 +29998,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_vr_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_vr_large.webp"
 }
