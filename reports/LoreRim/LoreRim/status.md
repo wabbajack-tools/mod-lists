@@ -1621,7 +1621,7 @@
 *  [For Honor in Skyrim I Valkyrie-78609-1-3-1675933392.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78609/?tab=files&file_id=357965)
 *  [For Honor in Skyrim I Warden-70537-2-6-1675930635.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70537/?tab=files&file_id=357954)
 *  [For Honor in Skyrim I Warlord-81594-1-2-1675933544.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81594/?tab=files&file_id=357966)
-*  [For Honor in Skyrim-151478-1-5-1760864694.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151478/?tab=files&file_id=677834)
+*  [For Honor in Skyrim-151478-1-8-1768709955.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151478/?tab=files&file_id=710759)
 *  [Forgotten Creatures-104355-2-4-1657480679.7z](https://www.nexusmods.com/skyrim/mods/104355/?tab=files&file_id=1000354240)
 *  [Forgotten Retex Project - Half Res-7849-8-3-1675171828.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7849/?tab=files&file_id=354954)
 *  [Forgotten Retex Project Patch-74577-1-0-1663442390.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74577/?tab=files&file_id=317015)
