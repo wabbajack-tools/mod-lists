@@ -1988,7 +1988,7 @@
 *  [SkyUI-12604-6-11-1778020881.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=749043)
 *  [Sleeping Expanded-59250-1-22-1670752210.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=339580)
 *  [slightly Better Bunting - FYX 3D Sighpost-142315-1-2-1740267775.rar](https://www.nexusmods.com/skyrimspecialedition/mods/142315/?tab=files&file_id=597903)
-*  [slightly Better Dust-133368-1-0-1730974133.rar](https://www.nexusmods.com/skyrimspecialedition/mods/133368/?tab=files&file_id=559712)
+*  [slightly Better Dimmer Dust-133368-1-0-1732834132.rar](https://www.nexusmods.com/skyrimspecialedition/mods/133368/?tab=files&file_id=567101)
 *  [Slightly Better Vanilla Male Movement Animations-175600-3-0-1778095031.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175600/?tab=files&file_id=749383)
 *  [Slip off Slopes - rag doll damage depends on difficulty-45886-0-5-1641957949.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45886/?tab=files&file_id=256059)
 *  [Slip Off Slopes MCM-72941-1-2-1661973000.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72941/?tab=files&file_id=312036)

@@ -1,4 +1,4 @@
-## Validation Report - ReSkyrimed (ReSKyrimed/ReSkyrimedProject)
+## Validation Report - ReSkyrimed (ReSkyrimed/ReSkyrimedProject)
 
 
 ### Invalid (0)
