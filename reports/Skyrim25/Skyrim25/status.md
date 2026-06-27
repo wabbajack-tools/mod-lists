@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (474)
+### Valid (476)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adoption Spouse and Moving Fixes v1.2.0-92845-1-2-0-1687026746.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92845/?tab=files&file_id=398718)
@@ -53,6 +53,7 @@
 *  [College of Winterhold Quest Start Fixes-53817-0-4-1659219863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=303446)
 *  [Combat Music Fix NG-110459-1-2-0-1749299871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110459/?tab=files&file_id=635576)
 *  [Comprehensive Critical Damage Fix AE-157530-1-3-1-1756287240.rar](https://www.nexusmods.com/skyrimspecialedition/mods/157530/?tab=files&file_id=659689)
+*  [Consistent Sensitivity Overhaul-129322-1-0-1726426861.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129322/?tab=files&file_id=542608)
 *  [Console Commands Extender - 1.6.1130 Update-74390-1-12-0-1704159838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74390/?tab=files&file_id=457109)
 *  [ConsolePlusPlus-79975-1-5-0-1759958106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79975/?tab=files&file_id=673750)
 *  [ConsoleUtilSSE NG-76649-1-5-1-1704108553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=456904)
@@ -60,6 +61,7 @@
 *  CreationKit.exe
 *  CreationKit.ini
 *  [Creep Cluster Collision Fixes-93260-1-1-0-1690423711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93260/?tab=files&file_id=411022)
+*  [Critter Fixes-180956-0-1-1-1780209809.7z](https://www.nexusmods.com/skyrimspecialedition/mods/180956/?tab=files&file_id=758113)
 *  [CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=484532)
 *  [Curation Club 1.1.0-60552-1-1-0-1673870936.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60552/?tab=files&file_id=350066)
 *  Data__ResourcePack.bsa
