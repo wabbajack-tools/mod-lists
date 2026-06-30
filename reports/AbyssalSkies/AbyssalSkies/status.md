@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (843)
+### Valid (844)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [0-Elden Rim-Base 3.7.2-65625-3-7-2-1771416448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65625/?tab=files&file_id=722819)
@@ -292,6 +292,7 @@
 *  Data_ccvsvsse003-necroarts.bsa
 *  Data_ccvsvsse004-beafarmer.bsa
 *  Data_MarketplaceTextures.bsa
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
