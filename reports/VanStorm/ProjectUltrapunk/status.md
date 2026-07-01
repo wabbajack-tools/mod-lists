@@ -71,7 +71,7 @@
 *  [Disassemble As Looting Choice-4648-2-0-1696350948.zip](https://www.nexusmods.com/cyberpunk2077/mods/4648/?tab=files&file_id=50820)
 *  [Dog Town Upscaled Lasers 2k-11562-1-0-1702312481.rar](https://www.nexusmods.com/cyberpunk2077/mods/11562/?tab=files&file_id=60837)
 *  [Dont Disassemble Expensive Junk-17239-1-0-0-1729190680.zip](https://www.nexusmods.com/cyberpunk2077/mods/17239/?tab=files&file_id=89643)
-*  [DrawDistanceReImagined-27210-0-6-8-1780261628.zip](https://www.nexusmods.com/cyberpunk2077/mods/27210/?tab=files&file_id=147241)
+*  [DrawDistanceReImagined-27210-0-7-0-0-150436.zip](https://www.nexusmods.com/cyberpunk2077/mods/27210/?tab=files&file_id=150436)
 *  [Dust Trail FX - Only on Skiding-20419-2-31-1-1767898352.zip](https://www.nexusmods.com/cyberpunk2077/mods/20419/?tab=files&file_id=132148)
 *  [EbunikeCombatTriggerFixes-30209-1-0-1780425675.zip](https://www.nexusmods.com/cyberpunk2077/mods/30209/?tab=files&file_id=147420)
 *  [EddiesNotificationFix-16420-1-01-1724960163.zip](https://www.nexusmods.com/cyberpunk2077/mods/16420/?tab=files&file_id=85857)
