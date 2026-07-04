@@ -731,7 +731,7 @@
 *  [Diamond 3BA puffy pussy normal maps-45718-2-6-1745768312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=621576)
 *  [Diamond Textures CBBE v2 based on FSC v11-45718-2-4b-1701531167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=448147)
 *  [Diamond Textures CBBE v2 based on FSC v11-45718-2-6-1745767979.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=621573)
-*  [Diary Of Mine 8.3.1a_SE_fomod.7z](https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download)
+*  [Diary Of Mine 8.3.1b_SE_fomod.7z](https://www.loverslab.com/files/file/16941-diary-of-mine-for-paradise-halls/?do=download)
 *  [Dido-78029-1-0-1667337535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78029/?tab=files&file_id=328291)
 *  [Dilon Vul 3D Hybrid LOD-54635-1-0-0-1630086488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54635/?tab=files&file_id=224187)
 *  [Dilon Vul SSE-27367-1-9-1608317448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27367/?tab=files&file_id=174981)
