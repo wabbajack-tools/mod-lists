@@ -690,7 +690,7 @@
 *  [WOODFIRES - Redux-41469-1-4-1610846652.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41469/?tab=files&file_id=179966)
 *  [Word Wall Transparency Fix for ENB-41463-0-3-1692153527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41463/?tab=files&file_id=417521)
 *  [Wotn - Custom CC Integration-112972-2-0-3-1732502845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112972/?tab=files&file_id=565823)
-*  [WotN - Custom MCM Settings and Scripts - 4.1.4 112972 4.1.4 2026-07-07T03-48Z izKcFp4XH.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112972/?tab=files&file_id=772640)
+*  [WotN - Custom MCM Settings and Scripts - 4.1.5 112972 4.1.5 2026-07-09T20-34Z izKcFp4ya.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112972/?tab=files&file_id=773756)
 *  [WotN - Custom Plugins - 4.1.4 112972 4.1.4 2026-07-09T04-27Z kATsMWu2x.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112972/?tab=files&file_id=773500)
 *  [WotN - Dyndolod - 4.1.0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112972/?tab=files&file_id=765273)
 *  [WotN - Grass Cut-112972-4-0-0-1780074889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112972/?tab=files&file_id=757557)
