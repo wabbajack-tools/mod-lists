@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (700)
+### Valid (699)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [1_HDR.7z](https://www.nexusmods.com/skyrimspecialedition/mods/179371/?tab=files&file_id=763936)
 *  [1_Screen Space GI.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130375/?tab=files&file_id=763934)
@@ -368,7 +368,6 @@
 *  [Hearthfire Has Snow - Both-114711-1-0-1711073966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114711/?tab=files&file_id=482994)
 *  [Hearthfires Houses Building Fix-27298-0-2-1718261006.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27298/?tab=files&file_id=511094)
 *  High.ini
-*  [Horizon Fix 184607 0.2.0 2026-07-09T01-29Z UK35XnNNh.zip](https://www.nexusmods.com/skyrimspecialedition/mods/184607/?tab=files&file_id=773455)
 *  [Horse Riding Improvements-113535-v1-0-1-1709994468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113535/?tab=files&file_id=478639)
 *  [Horsemen Torch Wield Fix and Mount Tweaks SE-77303-1-3-1712010600.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77303/?tab=files&file_id=486592)
 *  [Horsepower - Modernized Horse Riding-169335-1-1-4-1774706313.rar](https://www.nexusmods.com/skyrimspecialedition/mods/169335/?tab=files&file_id=736007)
