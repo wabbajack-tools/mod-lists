@@ -1,10 +1,11 @@
 ## Validation Report - ZISS (Zora's Immersive Survival Souls) (GamesRedone/ZISS)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0504.zip](http://enbdev.com/enbseries_skyrimse_v0504.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (637)
+### Valid (636)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [03 - Skysight Skins PERFORMANCE - FOMOD Installer-6580-2-0-2-1748220446.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=631261)
@@ -183,7 +184,6 @@
 *  [Embers XD 2K-37085-3-2-2-1775470947.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=739064)
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
 *  [ENB Light-22574-0-94-1552759521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=85143)
-*  [enbseries_skyrimse_v0504.zip](http://enbdev.com/enbseries_skyrimse_v0504.zip)
 *  [Encounter Zone Informer-124456-1-0-4-1722402520.7z](https://www.nexusmods.com/skyrimspecialedition/mods/124456/?tab=files&file_id=526870)
 *  [EncounterZone Level Indicator-177593-1-0-0-1776397603.zip](https://www.nexusmods.com/skyrimspecialedition/mods/177593/?tab=files&file_id=742685)
 *  [Engine Fixes - SKSE64 Preloader-17230-7-1771936758.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=725261)

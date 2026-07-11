@@ -1,8 +1,8 @@
 {
   "MachineURL": "GamesRedone/ZISS",
   "Name": "ZISS (Zora\u0027s Immersive Survival Souls)",
-  "Version": "1.1.0",
-  "ModListHash": "xZwSYHwQhDI=",
+  "Version": "1.1.3",
+  "ModListHash": "k9W+P/8kUq8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7702,12 +7702,12 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
-        "Hash": "OWaFkBLzqWw=",
+        "Hash": "SRkqAlGenwE=",
         "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0504.zip\ndirectURLHeaders=Referer:http://enbdev.com/mod_tesskyrimse_v0504.htm",
         "Name": "enbseries_skyrimse_v0504.zip",
-        "Size": 3398236,
+        "Size": 3398303,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
@@ -13290,8 +13290,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_large.webp"
 }

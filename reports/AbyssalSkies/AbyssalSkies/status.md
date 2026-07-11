@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (864)
+### Valid (862)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139840/?tab=files&file_id=701500)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -221,8 +221,6 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse040-advobgobs.bsa
 *  Data_ccbgssse041-netchleather.bsa
