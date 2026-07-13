@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1602)
+### Valid (1603)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [00 - AE - Anniversary Edition Patch-63640-1-5-3-1697376793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=434195)
 *  [00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=282528)
@@ -777,6 +777,7 @@
 *  [Inner Sanctum - Praedy's Chantry of Auriel Patch-122088-Patch-1720536992.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122088/?tab=files&file_id=519365)
 *  [Inner Sanctum - Snow Elf Ruins Overhaul-122088-1-0-1720282886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122088/?tab=files&file_id=518249)
 *  [Innocence Lost - Quest Expansion-80974-1-12-1747555025.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=628376)
+*  [Input Manager-174545-1-0-4-1779559852.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174545/?tab=files&file_id=755448)
 *  [Installer_AnimatedWaterLilySE-75407-v1-2-1680189907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75407/?tab=files&file_id=373358)
 *  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
