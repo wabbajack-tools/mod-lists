@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (236)
+### Valid (239)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adamant - A Perk Overhaul-30191-5-9-2-1715101901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=498819)
@@ -20,6 +20,7 @@
 *  [Apothecary - Fishing Patch-52130-1-4-1-1715110570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=498866)
 *  [Apothecary - Rare Curios Patch-52130-1-4-0-1690741443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412398)
 *  [Apothecary - Saints and Seducers-52130-1-4-0-1690741472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412399)
+*  [Apprentice - A Class Overhaul 169288 1.0.3 2026-07-12T21-10Z IoFlhf0Bu.7z](https://www.nexusmods.com/skyrimspecialedition/mods/169288/?tab=files&file_id=775304)
 *  [Arena - An Encounter Zone Overhaul-33487-1-2-0-1687450157.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33487/?tab=files&file_id=399865)
 *  [Arena - Harder Easy Spawns-33487-1-1-2-1696275112.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33487/?tab=files&file_id=430710)
 *  [Artificer - An Artifact Overhaul-99619-1-0-11-1707516439.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99619/?tab=files&file_id=469357)
@@ -48,7 +49,7 @@
 *  CreationKit.exe
 *  CreationKit.ini
 *  [Crossbow Reload Speed Perk Fix-180382-1-1779131442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/180382/?tab=files&file_id=753809)
-*  [Crusader Beta 184207 0.5 2026-07-06T21-07Z VMSnJrUNw.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184207/?tab=files&file_id=772528)
+*  [Crusader Beta 184207 0.6 2026-07-17T04-42Z hfH9s6mPm.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184207/?tab=files&file_id=777597)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  Data__ResourcePack.bsa
@@ -136,10 +137,12 @@
 *  [Locational Encounter Zones-85212-1-0-2-1676905795.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85212/?tab=files&file_id=361658)
 *  Low.ini
 *  [Manbeast - A Werewolf Overhaul-44746-2-1-1-1700174116.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44746/?tab=files&file_id=443146)
+*  [Manual Crossbow Reloading - SKSE 185238 1.1.0 2026-07-16T15-18Z 587RqTEh1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185238/?tab=files&file_id=777265)
 *  [Masterwork-142109-1-86-1757723841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/142109/?tab=files&file_id=665120)
 *  [MCM Helper-53000-1-6-2-1777219181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=746161)
 *  [Media Keys Fix-92948-1-0-1-1716329765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92948/?tab=files&file_id=503665)
 *  Medium.ini
+*  [Mercantile Plugin 184207 1.0.0 2026-07-14T21-16Z aChSzYZKi.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184207/?tab=files&file_id=776341)
 *  [Mod Organizer 2.5.2-ML1.5 Archive-874-2-5-2-ML1-5-1723841178.7z](https://www.nexusmods.com/site/mods/874/?tab=files&file_id=3835)
 *  [More Informative Console 1.2.2-19250-1-2-2-1726885673.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=544360)
 *  [Mundus - A Standing Stone Overhaul-33411-1-14-2-1755449148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33411/?tab=files&file_id=656616)
@@ -155,7 +158,7 @@
 *  Papyrus Compiler_PapyrusCompiler.exe
 *  Papyrus Compiler_ScriptCompile.bat
 *  [PEPE Main File-91192-2-2-4-6-1766689366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91192/?tab=files&file_id=702049)
-*  [Pilgrim - A Religion Overhaul-54099-1-2-2-1707509859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=469333)
+*  [Pilgrim - A Religion Overhaul 54099 1.3.1 2026-07-17T19-04Z oPpNfUdIn.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=777833)
 *  [powerofthree's Tweaks-51073-1-1-5-1-1756670335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=661201)
 *  [QuestsAreInSkyrim_USSEP_1_3-18416-1-3-1647194854.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18416/?tab=files&file_id=269931)
 *  [Radiant Requirements - Quests Are In Skyrim USSEP Patch-45427-1-1-0-1616957392.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45427/?tab=files&file_id=194220)
