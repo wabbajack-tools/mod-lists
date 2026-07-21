@@ -498,7 +498,7 @@
 *  [Turpentine 0.4.5c-2865-0-4-5c-1750160091.zip](https://www.nexusmods.com/oblivionremastered/mods/2865/?tab=files&file_id=17803)
 *  [ue4ss_Loader-3421-1-6-0-1752693008.zip](https://www.nexusmods.com/oblivionremastered/mods/3421/?tab=files&file_id=19248)
 *  [UE4SS-32-3-0-1-447-1752753994.zip](https://www.nexusmods.com/oblivionremastered/mods/32/?tab=files&file_id=19272)
-*  [Ultimate Combat 5439 2.6 2026-07-12T06-18Z xEkRneSCG.zip](https://www.nexusmods.com/oblivionremastered/mods/5439/?tab=files&file_id=23107)
+*  [Ultimate Combat 5439 2.7 2026-07-19T13-03Z XdmNwz668.zip](https://www.nexusmods.com/oblivionremastered/mods/5439/?tab=files&file_id=23203)
 *  [UnarmedEquipmentExpansion-2459-1-2-1748155765.zip](https://www.nexusmods.com/oblivionremastered/mods/2459/?tab=files&file_id=14008)
 *  [Underwater Treasures-5253-1-2-1769464416.zip](https://www.nexusmods.com/oblivionremastered/mods/5253/?tab=files&file_id=21299)
 *  [Unique Container Sound ver 1.3-4957-1-3-1757824399.7z](https://www.nexusmods.com/oblivionremastered/mods/4957/?tab=files&file_id=20238)
