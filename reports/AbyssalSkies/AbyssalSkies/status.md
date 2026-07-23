@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (862)
+### Valid (870)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139840/?tab=files&file_id=701500)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -17,9 +17,9 @@
 *  [A. Whiterun Expansion 1.5 Normal Version - Fortified Whiterun Patch-52622-1-01-1627683320.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52622/?tab=files&file_id=217760)
 *  [A. Whiterun Expansion 1.5 Normal Version-37982-1-5-1616329047.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37982/?tab=files&file_id=192696)
 *  [Abyssal Skies - CBBE Output-178646-1-1-1780772464.7z](https://www.nexusmods.com/skyrimspecialedition/mods/178646/?tab=files&file_id=760209)
-*  [Abyssal Skies - Dyndolod Output.zip](https://authored-files.wabbajack.org/Abyssal Skies - Dyndolod Output.zip_beb65270-c3d1-460e-b985-0a77e320a0dc)
+*  [Abyssal Skies - Dyndolod Output.zip](https://authored-files.wabbajack.org/Abyssal Skies - Dyndolod Output.zip_e3a9af84-994c-4823-935c-eadc027314d3)
 *  [Abyssal Skies - Pandora Output-178646-1-0-1-1778111399.7z](https://www.nexusmods.com/skyrimspecialedition/mods/178646/?tab=files&file_id=749489)
-*  [Abyssal Skies - XLodGen Output.7z](https://authored-files.wabbajack.org/Abyssal Skies - XLodGen Output.7z_25b68b98-b8b8-4dac-b128-6be920e2bcc6)
+*  [Abyssal Skies - XLodGen Output.7z](https://authored-files.wabbajack.org/Abyssal Skies - XLodGen Output.7z_e13b8c79-12a4-403d-b4c1-c643708dc1f6)
 *  [Abyssal Tides Magic-97892-1-64-1739196399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/97892/?tab=files&file_id=593051)
 *  [Abyssal Wind Magic-96352-1-4-1690531558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96352/?tab=files&file_id=411378)
 *  [Adamant - A Perk Overhaul-30191-5-9-2-1715101901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=498819)
@@ -109,7 +109,6 @@
 *  [Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3-198-2-0-3-1712683181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=489053)
 *  [CalmNirnRootSoundReplacer-88915-1-0-0-1681102199.zip](https://www.nexusmods.com/skyrimspecialedition/mods/88915/?tab=files&file_id=376900)
 *  [Campfire 1.12.1SEVR Release-667-1-12-1SEVR.zip](https://www.nexusmods.com/skyrimspecialedition/mods/667/?tab=files&file_id=65049)
-*  [Candy Shops of Skyrim Installer v1.5-9488-1-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9488/?tab=files&file_id=25008)
 *  [Capital Whiterun Dialogue Addon-181606-1-4-1780680682.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181606/?tab=files&file_id=759839)
 *  [Capital Windhelm Expansion - CRF-42990-1-3-1614324249.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42990/?tab=files&file_id=188123)
 *  [Capital Windhelm Expansion - USSEP-42990-1-1615772082.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42990/?tab=files&file_id=191575)
@@ -175,6 +174,7 @@
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  [Custom Skills Menu Add-On-143275-1-0-1740873533.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143275/?tab=files&file_id=600699)
 *  [Cutting Room Floor-276-3-1-24-1772078312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/276/?tab=files&file_id=725754)
+*  [Dac0da v110 134405 1.1.0 2026-07-01T05-49Z pQ0AZ3zfy.rar](https://www.nexusmods.com/skyrimspecialedition/mods/134405/?tab=files&file_id=770261)
 *  [Daedric Armors and Weapons Retexture SE-84151-2-0-1721422812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84151/?tab=files&file_id=522855)
 *  [Daedric Steel Knight Armor-60838-1-0-1640610253.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60838/?tab=files&file_id=252041)
 *  [DALC Fix Preset-103052-1-0-33-1763196252.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103052/?tab=files&file_id=687618)
@@ -221,6 +221,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse040-advobgobs.bsa
 *  Data_ccbgssse041-netchleather.bsa
@@ -546,6 +548,11 @@
 *  [Kvetchi Set - SE by Xtudo - 2K textures patch-110632-1-1706797591.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110632/?tab=files&file_id=466756)
 *  [Kvetchi Set - SE by Xtudo - Fixes-110632-1-6-1734609896.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110632/?tab=files&file_id=573863)
 *  [Lamenthia's Marks of Beauty 2k-49845-1-0-1620935505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49845/?tab=files&file_id=203299)
+*  [Leviathan Animations II - Greatsword Moveset NPC-94715-1-1-1688153873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94715/?tab=files&file_id=402565)
+*  [Leviathan Animations II - Greatsword Moveset PC-94715-1-1-1688153824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94715/?tab=files&file_id=402564)
+*  [Leviathan Animations II - Greatsword Non Combat Locomotion-84201-1-0-1675528954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84201/?tab=files&file_id=356303)
+*  [Leviathan Animations II - Greatsword Power Attacks-92266-1-1-1685388417.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92266/?tab=files&file_id=393150)
+*  [Leviathan Animations II Greatsword Sprint Attacks-92266-1-0-1685181174.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92266/?tab=files&file_id=392323)
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
@@ -846,6 +853,7 @@
 *  [Velvet Curve 3BA Bodyslide Preset-153654-1-1750962537.rar](https://www.nexusmods.com/skyrimspecialedition/mods/153654/?tab=files&file_id=641912)
 *  [VickusDickus' Apex Khajiit Armory Reforged 2K-17114-2-2-2-1756268242.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17114/?tab=files&file_id=659647)
 *  [VickusDickus' Apex Khajiit Armory Reforged CBBE-17114-2-2-1-1756188505.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17114/?tab=files&file_id=659332)
+*  [VIGILANT SE v182 11849 1.8.2 2026-06-16T13-45Z pQ0AZ3NWv.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=764410)
 *  [Vokrii 3.8.2-26176-3-8-2-1642771755.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=258362)
 *  [Vokriinator Black-26702-6-15-3-1746281209.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26702/?tab=files&file_id=623237)
 *  [WABBAJACK-45598-1-0-1-1614516758.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45598/?tab=files&file_id=188557)
