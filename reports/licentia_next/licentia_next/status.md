@@ -1,10 +1,12 @@
 ## Validation Report - Licentia NEXT (licentia_next/licentia_next)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Nether's Elana_2_1_0_Approach_TestFix.rar](https://www.patreon.com/file?h=142697088&m=561858364)
+*  [Nether's Elana_2_1_0.rar](https://www.patreon.com/file?h=142697088&m=558575507)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1773)
+### Valid (1771)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -1105,8 +1107,6 @@
 *  [Nemesis Patch-24296-1-3-2-1584996736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24296/?tab=files&file_id=130181)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Nether Dragon Breath Optimization-23723-6-6-0-1702134285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=450174)
-*  [Nether's Elana_2_1_0_Approach_TestFix.rar](https://www.patreon.com/file?h=142697088&m=561858364)
-*  [Nether's Elana_2_1_0.rar](https://www.patreon.com/file?h=142697088&m=558575507)
 *  [Nether's Follower Framework - Universal Installer-55653-2-8-6b-1712793520.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55653/?tab=files&file_id=489439)
 *  [New Beginnings - Dragonstart-57818-1-3-3-1730499152.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57818/?tab=files&file_id=557986)
 *  [New Beginnings-57818-1-3-7-1741448503.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57818/?tab=files&file_id=603163)
