@@ -63,6 +63,7 @@
     -   [Uranium Fever](#uranium-fever)
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#welcome-to-night-city)
+    -   [Chrome & Blood](#chrome--blood)
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
     -   [Project 2077](#Project-2077)
 -   [Baldur's Gate 3](#baldurs-gate-3)
@@ -830,6 +831,16 @@ Night City is full of hardened gangoons with hair triggers and bad attitudes. Bu
 The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
 
 The **Welcome to Night City** profile brings the vanilla balance you know and love with all the best mods. The **Cyberpunk THING** profile provides a more challening and immersive approach with a focus on realism. Switch between them at any time, for any reason, all remaining save safe.
+
+---
+
+### [Chrome & Blood](https://qcargile.github.io/Chrome-Blood/)
+
+Chrome & Blood turns Cyberpunk 2077 into a harsher Night City with overhauled combat, immersive UI, sharper visuals, and a large gear expansion covering weapons, cyberware, vehicles, and clothing.
+
+- [Install guide](https://qcargile.github.io/Chrome-Blood/install.html)
+- [Load order](https://qcargile.github.io/Chrome-Blood/loadorder.html)
+- [Mod breakdown](https://qcargile.github.io/Chrome-Blood/mods.html)
 
 ---
 

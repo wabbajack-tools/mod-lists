@@ -1,10 +1,12 @@
 ## Validation Report - Whispers of Mara (WhispersofMara/WhispersOfMara)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Nether's Elana_2_1_0_Approach_TestFix.rar](https://www.patreon.com/file?h=142697088&m=561858364)
+*  [Nether's Elana_2_1_0.rar](https://www.patreon.com/file?h=142697088&m=558575507)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2508)
+### Valid (2506)
 *  [.esp replacer-70950-1-1657418363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70950/?tab=files&file_id=297684)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -1612,8 +1614,6 @@
 *  [Nepos the Nose Hotfix-86150-1-1-1684405031.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86150/?tab=files&file_id=389355)
 *  [Nessa - a visual replacer - ezPG version-109800-1-0-1705892674.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109800/?tab=files&file_id=463667)
 *  [Nessa - OStim Patch-78485-2-0-0-1702181835.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78485/?tab=files&file_id=450349)
-*  [Nether's Elana_2_1_0_Approach_TestFix.rar](https://www.patreon.com/file?h=142697088&m=561858364)
-*  [Nether's Elana_2_1_0.rar](https://www.patreon.com/file?h=142697088&m=558575507)
 *  [Nether's Eola - D7 Patch-139041-1-0-1742954588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139041/?tab=files&file_id=609877)
 *  [Nether's Eola FOMOD Installer-57250-1-0-2-1637602282.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57250/?tab=files&file_id=243506)
 *  [Nether's Follower Framework - Settings Loader-57022-1-0-1634145115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57022/?tab=files&file_id=234609)
