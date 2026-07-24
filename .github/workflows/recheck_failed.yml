@@ -1,0 +1,67 @@
+name: Recheck Failed Lists
+
+concurrency:
+    group: Validations-${{ github.ref }}
+    cancel-in-progress: false
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-cli:
+    name: Recheck Failed Lists
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    env:
+      NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
+      NEXUS_LOGIN: ${{ secrets.NEXUS_LOGIN }}
+      VECTOR_PLEXUS: ${{ secrets.VECTOR_PLEXUS }}
+      LOVERS_LAB: ${{ secrets.LOVERS_LAB }}
+      FTP_CREDENTIALS: ${{ secrets.FTP_CREDENTIALS }}
+      DISCORD_ENDPOINTS: ${{ secrets.DISCORD_ENDPOINTS }}
+
+    steps:
+      - name: Setup .NET Core SDK 9.0.x
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Checkout Wabbajack Source
+        uses: actions/checkout@v4
+        with:
+          repository: wabbajack-tools/wabbajack
+          ref: validation_fix
+
+      - name: Checkout Modlist Source
+        uses: actions/checkout@v4
+        with:
+          repository: wabbajack-tools/mod-lists
+          path: mod-lists
+          ref: master
+
+      - name: Add System.Commandline
+        continue-on-error: true
+        run: dotnet nuget add source https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-libraries/nuget/v3/index.json -n System.Commandline
+
+      - name: Install dependencies
+        run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
+
+      - name: Recheck Failed Lists
+        run: dotnet run -c Release --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports --only-failed
+
+      - name: Upload Reports
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Recheck Failed Lists
+          branch: master
+          repository: mod-lists
+          file_pattern: reports/*
+
+      - uses: actions/upload-artifact@v4
+        name: Upload Artifacts
+        if: always()
+        with:
+          name: mod-list-reports
+          path: ${{ github.workspace }}/mod-lists/reports
