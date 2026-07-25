@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (755)
+### Valid (754)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [1st Person Greatsword Idle Animation Fix-75031-1-0-1662823053.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75031/?tab=files&file_id=314995)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -250,7 +250,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
