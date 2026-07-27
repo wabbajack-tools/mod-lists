@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1455)
+### Valid (1454)
 *  [00 - Dogs and Coyote - Overhaul-89187-1-1-1727126190.zip](https://www.nexusmods.com/newvegas/mods/89187/?tab=files&file_id=1000140279)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-3-1718394986.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000134231)
 *  [00 - IVB Legion - DEFAULT-80389-1-2-1715882064.7z](https://www.nexusmods.com/newvegas/mods/80389/?tab=files&file_id=1000131304)
@@ -1186,7 +1186,6 @@
 *  [Ranger Station Charlie Karma-87146-1-1716402001.rar](https://www.nexusmods.com/newvegas/mods/87146/?tab=files&file_id=1000131954)
 *  [RC JIP CCC Icons 1-7-1-92126-1-7-1-1760850534.zip](https://www.nexusmods.com/newvegas/mods/92126/?tab=files&file_id=1000159881)
 *  [Read All About It - Newspapers Remade-97963-1-1780258865.zip](https://www.nexusmods.com/newvegas/mods/97963/?tab=files&file_id=1000175791)
-*  Readme.txt
 *  [Real Campfires-84714-1-1706410738.rar](https://www.nexusmods.com/newvegas/mods/84714/?tab=files&file_id=1000122668)
 *  [Real Time Reflections - INI-82343-1-3-6-1720285527.7z](https://www.nexusmods.com/newvegas/mods/82343/?tab=files&file_id=1000135724)
 *  [Real Time Reflections-82343-1-3-7-1720303295.7z](https://www.nexusmods.com/newvegas/mods/82343/?tab=files&file_id=1000135737)
