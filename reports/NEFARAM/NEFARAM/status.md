@@ -1447,7 +1447,7 @@
 *  [moreHUD Inventory Edition - AE-18619-2-0-4-0-1643595624.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=260617)
 *  [moreHUD Inventory Edition - AE-18619-2-1-3-0-1709428444.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=476424)
 *  [moreHUD SE Light Master - AE-12688-5-2-2-0-1669904929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=336379)
-*  [MoreNastyCrittersSE&AE_v16_1G.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download)
+*  [MoreNastyCrittersSE&AE_v16_2.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download)
 *  [Morihaus' Refuge-68558-1-0-0-1653431388.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68558/?tab=files&file_id=286234)
 *  [Morrowloot Miscellania - Hybrid Loot-27094-1-0-1-1590074279.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27094/?tab=files&file_id=141251)
 *  [Morrowloot Miscellania - Unleveled Uniques-27094-1-0-1608381375.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27094/?tab=files&file_id=175095)
