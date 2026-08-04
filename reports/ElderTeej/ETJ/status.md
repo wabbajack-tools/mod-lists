@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2986)
+### Valid (2984)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -742,8 +742,6 @@
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Dawnfang PBR-174945-1-0-1773779723.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174945/?tab=files&file_id=732432)
-*  [Dawnfire Azurite III - Required FIles-147826-2-1-1-1773570295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=731604)
-*  [Dawnfire Azurite III ENB-147826-2-1-1769847484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=715601)
 *  [Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25094/?tab=files&file_id=89159)
 *  [DBM Animated Armoury Patch-134438-1-2-1-1754796432.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134438/?tab=files&file_id=654350)
 *  [DBM New Armoury - DAR-38813-1-2-1617202066.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38813/?tab=files&file_id=194900)

@@ -2640,7 +2640,7 @@
 *  [moreHUD Inventory Edition Loose Version - AE-18619-2-1-3-0-1709428517.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=476425)
 *  [moreHUD SE Light Master - AE-12688-5-2-2-0-1669904929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=336379)
 *  [Morekvior Main-44600-1-2-1612269871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44600/?tab=files&file_id=183540)
-*  [MoreNastyCrittersSE&AE_v16_1G.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2149405&confirm=1&t=1&csrfKey=a4ee21102c1939b18b47f6e714fd6542)
+*  [MoreNastyCrittersSE&AE_v16_2.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2149405&confirm=1&t=1&csrfKey=a4ee21102c1939b18b47f6e714fd6542)
 *  [Morenn Outfit-41655-1-0-1603707647.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41655/?tab=files&file_id=167137)
 *  [Morning Fogs SSE - Thick Fog-21436-1-3-1-1553685846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21436/?tab=files&file_id=86474)
 *  [Morthal Barrow-90737-1-4-1736296204.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90737/?tab=files&file_id=580618)
