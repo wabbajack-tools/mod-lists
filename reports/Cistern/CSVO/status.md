@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (466)
+### Valid (464)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
 *  [1_Save Unbaker-85565-1-0-4-1677453959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85565/?tab=files&file_id=363731)
@@ -97,7 +97,7 @@
 *  [Cloud Shadows-139185-1-4-0-1778823267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139185/?tab=files&file_id=752480)
 *  [College of Winterhold Quest Start Fixes-53817-0-4-1659219863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=303446)
 *  [CoMAP-56123-4-3-0-1749770992.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=637224)
-*  [Community Shaders 86492 1.7.3 2026-06-27T10-38Z 6Xybdafll.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=768735)
+*  [Community Shaders 86492 1.8.1 2026-08-03T21-26Z aChSzYn1p.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=785145)
 *  [Conjuration Limit Fix-117155-1-4-1-1770577119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117155/?tab=files&file_id=719239)
 *  [Console Commands Extender - 1.6.1130 Update-74390-1-12-0-1704159838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74390/?tab=files&file_id=457109)
 *  [ConsolePlusPlus-79975-1-5-0-1759958106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79975/?tab=files&file_id=673750)
@@ -115,7 +115,6 @@
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
@@ -124,7 +123,6 @@
 *  Data_ccbgssse037-curios.esl
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
-*  Data_ccvsvsse003-necroarts.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -157,6 +155,7 @@
 *  [DynDOLOD 3.00-68518-Alpha-198-1767630909.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=705850)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-41-1778434637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=750750)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-59-1777722398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=747879)
+*  [Effects 11 179824 1.0.0 2026-08-03T19-20Z Ks18n0h9u.zip](https://www.nexusmods.com/skyrimspecialedition/mods/179824/?tab=files&file_id=785098)
 *  [Embers XD 2K 37085 3.2.6 2026-07-22T13-10Z aChSzYMUv.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=779813)
 *  [Embershard Mines Log Path Fix-132289-1-0-1729872986.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132289/?tab=files&file_id=555413)
 *  [Enchantment Art Extender 105492 3.0.2 2026-06-16T09-21Z JrECN2H2v.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105492/?tab=files&file_id=764320)
@@ -277,7 +276,6 @@
 *  [Mountain LOD Helper-146350-1-4-6-1772658530.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146350/?tab=files&file_id=727990)
 *  [MQ104PlayerScript Fix-90996-1-0-2-1684013496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90996/?tab=files&file_id=387832)
 *  [Mute On Focus Loss-130163-6-1744621727.zip](https://www.nexusmods.com/skyrimspecialedition/mods/130163/?tab=files&file_id=617152)
-*  [NativeWaterLightStabilizer 186700 1.2 2026-07-31T23-22Z N2AYL5rn5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/186700/?tab=files&file_id=783852)
 *  [Natural Waterfalls-87261-3-3-1756339007.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87261/?tab=files&file_id=659925)
 *  [Nature of the Wild Lands - Animations MESHES-148132-1-04-1769870167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148132/?tab=files&file_id=715711)
 *  [Nature of the Wild Lands - Rock Replacer 2K-132984-2-1-1-1744071530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132984/?tab=files&file_id=615040)
@@ -352,7 +350,7 @@
 *  [SKSE Menu Framework 120352 3.13-Hotfix2 2026-07-09T16-10Z 587RqTYjW.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=773663)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
-*  [Skylighting 139352 1.4.0 2026-06-15T11-09Z 31i7Io5rA.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=763932)
+*  [Skylighting 139352 1.5.0 2026-08-03T19-30Z UK35XnuBw.zip](https://www.nexusmods.com/skyrimspecialedition/mods/139352/?tab=files&file_id=785109)
 *  [Skyrim 3D Furniture - Upper Furniture Addon-145630-1-1-1762999576.7z](https://www.nexusmods.com/skyrimspecialedition/mods/145630/?tab=files&file_id=686905)
 *  [Skyrim 3D Furniture PBR and Complex Material Hub 182471 1.3 2026-07-20T15-30Z eVtX7JFdN.7z](https://www.nexusmods.com/skyrimspecialedition/mods/182471/?tab=files&file_id=779049)
 *  [Skyrim 3D Furniture SMIM patch-23552-1-3-0-1551301681.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23552/?tab=files&file_id=83163)

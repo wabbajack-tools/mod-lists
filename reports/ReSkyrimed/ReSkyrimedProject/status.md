@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1649)
+### Valid (1647)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [00 - AE - Anniversary Edition Patch-63640-1-5-3-1697376793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=434195)
 *  [00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=282528)
@@ -76,7 +76,6 @@
 *  [Apachii Divine Elegance Store SSE HDT-SMP-17416-1-3-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17416/?tab=files&file_id=58847)
 *  [Apachii_Divine_Elegance_CBBE_SSE_v_2_0-9213-2-0-1646703764.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9213/?tab=files&file_id=268756)
 *  [Apachii_DivineElegance_Iris_Dress_Textures_Fix_v_2-9213-2-0-1701789334.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9213/?tab=files&file_id=449020)
-*  [Apprentice - A Class Overhaul 169288 1.0.3 2026-07-12T21-10Z IoFlhf0Bu.7z](https://www.nexusmods.com/skyrimspecialedition/mods/169288/?tab=files&file_id=775304)
 *  [Arc's Kettle Redux 2k-110929-1-1707130550.rar](https://www.nexusmods.com/skyrimspecialedition/mods/110929/?tab=files&file_id=467960)
 *  [Arcadia's Bubbling Cauldron - ESL-122952-1-0b-1719621166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122952/?tab=files&file_id=515936)
 *  [Arch-Curate Vyrthur Revoiced-145795-1-0-1742953645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/145795/?tab=files&file_id=609863)
@@ -1360,7 +1359,6 @@
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
 *  [Skyrim Souls RE - Unpaused Menus-27859-3-1-2-1779355258.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=754726)
 *  Skyrim_Default.ini
-*  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  SkyrimSE.exe
