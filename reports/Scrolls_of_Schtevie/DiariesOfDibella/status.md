@@ -2337,7 +2337,7 @@
 *  [moreHUD Inventory Edition - AE-18619-2-1-3-0-1709428444.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=476424)
 *  [moreHUD SE - Legacy Settings Loader-55503-2-2-0-1707420202.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55503/?tab=files&file_id=469016)
 *  [moreHUD SE Light Master - AE-12688-5-2-2-0-1669904929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=336379)
-*  [MoreNastyCrittersSE&AE_v16_1G.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2160061&confirm=1&t=1&csrfKey=7d5f5005e0ca59e0e86fbd5bd537ab9a)
+*  [MoreNastyCrittersSE&AE_v16_2.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/?do=download&r=2169763&confirm=1&t=1&csrfKey=190c56d2aad910963a70a62cc373489c)
 *  [Morenn Outfit-41655-1-0-1603707647.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41655/?tab=files&file_id=167137)
 *  [Morrowloot Ultimate - Patches Compendium-119964-1-0-0-1716301206.rar](https://www.nexusmods.com/skyrimspecialedition/mods/119964/?tab=files&file_id=503507)
 *  [MorrowLoot Ultimate 2.0e-3058-2-0e-1696284196.rar](https://www.nexusmods.com/skyrimspecialedition/mods/3058/?tab=files&file_id=430762)
