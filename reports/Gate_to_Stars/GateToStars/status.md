@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (845)
+### Valid (848)
 *  [02. Starfield Shader Cache Reset Tool STANDALONE-15632-1-4-6-1776549603.zip](https://www.nexusmods.com/starfield/mods/15632/?tab=files&file_id=63433)
 *  [1. Ultrawide Loading screens 21x9-13975-1-2-1776682328.zip](https://www.nexusmods.com/starfield/mods/13975/?tab=files&file_id=63605)
 *  [1.11-13179-1-11-1739343345.zip](https://www.nexusmods.com/starfield/mods/13179/?tab=files&file_id=50345)
@@ -335,6 +335,7 @@
 *  [Fafnir SolarSystem by Ezmods-14476-2-5-1754341198.zip](https://www.nexusmods.com/starfield/mods/14476/?tab=files&file_id=55272)
 *  [Fake panic crowd scream begone-8419-1-0-1707725310.zip](https://www.nexusmods.com/starfield/mods/8419/?tab=files&file_id=31443)
 *  [Fast Travel Settings 14762 1 2026-07-14T20-46Z qd5Tg9Fdx.zip](https://www.nexusmods.com/starfield/mods/14762/?tab=files&file_id=69287)
+*  [Faster Cell Lookup 17211 1.2 2026-06-14T19-23Z xzTDtbbT8.7z](https://www.nexusmods.com/starfield/mods/17211/?tab=files&file_id=67955)
 *  [Faster Favorites Menu-1581-2-0-1747939349.zip](https://www.nexusmods.com/starfield/mods/1581/?tab=files&file_id=52719)
 *  [Fireapple's - Faces in the crowd-13190-3-0-1739690716.7z](https://www.nexusmods.com/starfield/mods/13190/?tab=files&file_id=50449)
 *  [Flashy(JoeR) - Sometimes They Leave Loose Files-16702-1-03-1778109032.zip](https://www.nexusmods.com/starfield/mods/16702/?tab=files&file_id=65341)
@@ -356,7 +357,7 @@
 *  [Galactic Mesh Fixes (loose)-13258-0-15-1781040156.7z](https://www.nexusmods.com/starfield/mods/13258/?tab=files&file_id=67723)
 *  [Gallion 17626 1.11 2026-07-11T05-37Z kRcAwxos1.zip](https://www.nexusmods.com/starfield/mods/17626/?tab=files&file_id=69168)
 *  [Garages and Invisible Landing Pad-11099-1-0-1724432521.zip](https://www.nexusmods.com/starfield/mods/11099/?tab=files&file_id=42206)
-*  [Gate to Stars Version and Clean UI 14762 1.0.0.25 2026-07-25T00-20Z cjtExT1Ua.zip](https://www.nexusmods.com/starfield/mods/14762/?tab=files&file_id=69678)
+*  [Gate to Stars Version and Clean UI 14762 1.0.0.26 2026-08-07T16-43Z UAPKhIvqh.zip](https://www.nexusmods.com/starfield/mods/14762/?tab=files&file_id=70175)
 *  [GC's Ultrawide Photomode Frames-14212-1-1-1750776172.zip](https://www.nexusmods.com/starfield/mods/14212/?tab=files&file_id=54125)
 *  [Generated Litter-14811-1-10-1757435739.zip](https://www.nexusmods.com/starfield/mods/14811/?tab=files&file_id=56552)
 *  [Generic Crew Member Disappearance Fix-7523-1-2-1740423316.zip](https://www.nexusmods.com/starfield/mods/7523/?tab=files&file_id=50717)
@@ -685,6 +686,7 @@
 *  [Ship HUD Tweaks-5518-2-2-1-1775785970.zip](https://www.nexusmods.com/starfield/mods/5518/?tab=files&file_id=62258)
 *  [Ship Power Allocation Fix-6707-0-1-3-1776532473.7z](https://www.nexusmods.com/starfield/mods/6707/?tab=files&file_id=63391)
 *  [Ship Vendor Framework-10057-1-10-0-1778277983.7z](https://www.nexusmods.com/starfield/mods/10057/?tab=files&file_id=65470)
+*  [ShipNavPanel 1.2.0 17836 1.2.0 2026-08-03T19-58Z EFSwD4ORN.zip](https://www.nexusmods.com/starfield/mods/17836/?tab=files&file_id=70055)
 *  [Show Star Names-5188-2-3-1776469666.zip](https://www.nexusmods.com/starfield/mods/5188/?tab=files&file_id=63302)
 *  [Shut Up Cora - Less Chatter While Flying-8424-2-1-0-1726708449.zip](https://www.nexusmods.com/starfield/mods/8424/?tab=files&file_id=43872)
 *  [SIH Shattered Space Patch-13353-1-0-1741092226.zip](https://www.nexusmods.com/starfield/mods/13353/?tab=files&file_id=50905)
@@ -721,6 +723,7 @@
 *  [Starfield Engine Fixes - Game version 1.16.244 10457 20.2 2026-06-21T13-32Z ZTp3Rjj84.zip](https://www.nexusmods.com/starfield/mods/10457/?tab=files&file_id=68363)
 *  [Starfield Hair and Beards-8364-2-2-1753764496.zip](https://www.nexusmods.com/starfield/mods/8364/?tab=files&file_id=55145)
 *  [Starfield Little Bits - Laser Only When Aiming-17016-1-4-1778674789.7z](https://www.nexusmods.com/starfield/mods/17016/?tab=files&file_id=65850)
+*  [Starfield Pause LOD Hold 17816 1.1 2026-07-31T16-54Z JIVrWAscL.zip](https://www.nexusmods.com/starfield/mods/17816/?tab=files&file_id=69970)
 *  Starfield_de.ini
 *  Starfield_es.ini
 *  Starfield_fr.ini
