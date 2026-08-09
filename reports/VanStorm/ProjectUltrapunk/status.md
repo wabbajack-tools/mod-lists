@@ -281,7 +281,7 @@
 *  [V's Apartment Vending Machine - ULTRA HD-15116-2-0-0-1717663218.rar](https://www.nexusmods.com/cyberpunk2077/mods/15116/?tab=files&file_id=79458)
 *  [Vanilla Enhanced-23639-v1-0-1-1755735796.rar](https://www.nexusmods.com/cyberpunk2077/mods/23639/?tab=files&file_id=118609)
 *  [Vehicle Interior Windows - HQ-29619-3-1-7-152665-1784428080.zip](https://www.nexusmods.com/cyberpunk2077/mods/29619/?tab=files&file_id=152665)
-*  [Vehicle Mirrors - LQ-29619-3-1-9-152986-1784678520.zip](https://www.nexusmods.com/cyberpunk2077/mods/29619/?tab=files&file_id=152986)
+*  [Vehicle Mirrors - LQ 29619 3.2.0 2026-08-09T05-32Z rxs7xRANm.zip](https://www.nexusmods.com/cyberpunk2077/mods/29619/?tab=files&file_id=155465)
 *  [VehicleExitFix-22786-1-0-1752937333.zip](https://www.nexusmods.com/cyberpunk2077/mods/22786/?tab=files&file_id=114225)
 *  [VehicleTrunkInteractionFix-31286-1-0-0-0-151317.zip](https://www.nexusmods.com/cyberpunk2077/mods/31286/?tab=files&file_id=151317)
 *  [VendorsXL 19679 2.2.0 2026-08-07T15-58Z cB3xB0qjH.zip](https://www.nexusmods.com/cyberpunk2077/mods/19679/?tab=files&file_id=155182)
