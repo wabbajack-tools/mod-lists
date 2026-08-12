@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (250)
+### Valid (251)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
@@ -112,11 +112,12 @@
 *  [Equip Enchantment Fix for 1.6.629 and newer-42839-1-3-6-1702212166.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=450462)
 *  [Explosion Collision Fix-154076-1-0-1-1752169470.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154076/?tab=files&file_id=645944)
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
+*  [FLICK NG 181603 1.3.0 2026-07-21T07-23Z 4t2yDcX2t.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181603/?tab=files&file_id=779322)
 *  flowchartx64.dll
 *  [FormList Manipulator - FLM-74037-1-8-1-1727507011.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74037/?tab=files&file_id=546948)
 *  [Fuz Ro D'oh-15109-2-5-1706039953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=464222)
 *  [GetActorValuePercentage - Fix-165998-1-1-0-1775837820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/165998/?tab=files&file_id=740544)
-*  [Global Variable Framework-178161-1-0-3-1776953078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/178161/?tab=files&file_id=744979)
+*  [Global Variable Framework 178161 1.0.4 2026-06-14T15-39Z Ae46W7YXJ.7z](https://www.nexusmods.com/skyrimspecialedition/mods/178161/?tab=files&file_id=763665)
 *  [Grass Generation MO2 Plugin v1 (fix)-42161-1-1700580336.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=444728)
 *  [HasMagicEffect - Condition Tweak-169779-1-0-0-1768698077.7z](https://www.nexusmods.com/skyrimspecialedition/mods/169779/?tab=files&file_id=710721)
 *  [HelpExtender-74376-1-3-0-1704159967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74376/?tab=files&file_id=457112)
@@ -163,6 +164,7 @@
 *  [No Console Spam-119246-1-1-0-1724442248.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119246/?tab=files&file_id=534584)
 *  [No More Blinding Fog-87342-0-1-1679219937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87342/?tab=files&file_id=369937)
 *  [NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69326/?tab=files&file_id=324089)
+*  [NPC Perk Storage - SKSE 174259 1.0.0 2026-08-02T08-29Z lNkz9LJTW.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174259/?tab=files&file_id=784423)
 *  [Octagon-28773-1-1-6-1649529304.rar](https://www.nexusmods.com/skyrimspecialedition/mods/28773/?tab=files&file_id=275968)
 *  [Open Animation Replacer-92109-3-1-4-1778530345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=751161)
 *  [Opt. 2 - Even Wider Rescaled MCM Menu for SkyUI-22825-1-2-1572528179.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22825/?tab=files&file_id=112005)
@@ -179,6 +181,7 @@
 *  [Papyrus Profiler-82770-2-1-0-1712419017.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82770/?tab=files&file_id=488052)
 *  [Papyrus Tweaks 4.1.1-77779-4-1-1-1761101872.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=678973)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
+*  [PCA 2022.1-23852-2022-1-1651831763.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23852/?tab=files&file_id=281826)
 *  [PEPE Experimental File-91192-2-3-4-0-1777058643.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91192/?tab=files&file_id=745458)
 *  [Perk Adjuster-127999-2-1-1-1761253571.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127999/?tab=files&file_id=679625)
 *  [Photo Mode-91701-2-0-3-1770548941.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=719055)
@@ -205,8 +208,6 @@
 *  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
-*  [SkyUI - Ghost Item Bug Fix-49106-1-0-0-1633192591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49106/?tab=files&file_id=232098)
-*  [SkyUI_SE.esp Plugin with Skyrim.esm Master ESPFE-67166-5-2a-1651085623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67166/?tab=files&file_id=280020)
 *  [SkyUI-12604-6-11-1778020881.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=749043)
 *  [Smaller Vanilla Cursors-20617-0-000001-1539731683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20617/?tab=files&file_id=69462)
 *  [SmoothCam-41252-1-7-1-1773112010.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=729856)
