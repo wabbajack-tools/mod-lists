@@ -1,11 +1,10 @@
 ## Validation Report - Abyssal Skies (AbyssalSkies/AbyssalSkies)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_4fe4701f-b5f4-4bee-a97e-2e3d6eb4515c)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (869)
+### Valid (870)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139840/?tab=files&file_id=701500)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -357,6 +356,7 @@
 *  [Elven Enforcer Armor 2K-109638-1-31-1707129357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109638/?tab=files&file_id=467953)
 *  [ENB Extender and Helper-99406-1-4-3-1772037658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=725651)
 *  [ENB Input Disabler-62796-1-1-1-1714677715.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=497176)
+*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_4fe4701f-b5f4-4bee-a97e-2e3d6eb4515c)
 *  [Enderal Weapon Pack SE-135297-V1-0-1733041427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135297/?tab=files&file_id=567861)
 *  [Enhanced Dynamic Lighting-111110-1-0-0-1707306874.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111110/?tab=files&file_id=468591)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
