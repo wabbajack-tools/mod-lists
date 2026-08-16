@@ -1,11 +1,10 @@
 ## Validation Report - Abyssal Skies (AbyssalSkies/AbyssalSkies)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0505.zip](http://enbdev.com/enbseries_skyrimse_v0505.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (869)
+### Valid (870)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139840/?tab=files&file_id=701500)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -357,6 +356,7 @@
 *  [Elven Enforcer Armor 2K-109638-1-31-1707129357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109638/?tab=files&file_id=467953)
 *  [ENB Extender and Helper-99406-1-4-3-1772037658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=725651)
 *  [ENB Input Disabler-62796-1-1-1-1714677715.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=497176)
+*  [enbseries_skyrimse_v0505.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0505.zip_ca41e393-959b-4b1d-906e-06a07d4339c7)
 *  [Enderal Weapon Pack SE-135297-V1-0-1733041427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135297/?tab=files&file_id=567861)
 *  [Enhanced Dynamic Lighting-111110-1-0-0-1707306874.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111110/?tab=files&file_id=468591)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
@@ -543,6 +543,7 @@
 *  [Kozakowy's Falka Armor - CBBE 3BA Bodyslide-52651-1-0-1-1627678770.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52651/?tab=files&file_id=217745)
 *  [Kozakowy's Falka Armor UNP - SSE v1.8.1-33939-1-8-1-1614390796.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33939/?tab=files&file_id=188290)
 *  [KreatE-83757-1-5-1772037779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83757/?tab=files&file_id=725653)
+*  [Kris-Papyrus-Extender-115164-2-3-0-1778939558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115164/?tab=files&file_id=752894)
 *  [KS Hairdos SMP-31300-1-4-3-1596895272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31300/?tab=files&file_id=154433)
 *  [KS Hairdos SSE-6817-1-9-1645369981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6817/?tab=files&file_id=265640)
 *  [Kvetchi Mercenary Set ESL-79226-1-1-1669487796.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79226/?tab=files&file_id=334954)
@@ -639,9 +640,8 @@
 *  Papyrus Compiler_PCompiler.dll
 *  Papyrus Compiler_ScriptCompile.bat
 *  Papyrus Compiler_StringTemplate.dll
-*  [Papyrus Extender-115164-2-2-0-1774800100.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115164/?tab=files&file_id=736393)
-*  [Papyrus Extender-22854-5-8-0-1722764081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=528115)
-*  [Papyrus Ini Manipulator-65634-1-9-7-1726186850.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=541531)
+*  [Papyrus Extender 22854 6.4.3 2026-07-20T04-04Z OyYrPubih.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=778854)
+*  [Papyrus Ini Manipulator 65634 1.9.8 2026-08-08T09-54Z s6Og0d9au.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=786924)
 *  [Papyrus Tweaks 4.1.1-77779-4-1-1-1761101872.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=678973)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
 *  [Particle Patch-65720-1-3-9-1755332473.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=656110)
