@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (474)
+### Valid (475)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adoption Spouse and Moving Fixes v1.2.0-92845-1-2-0-1687026746.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92845/?tab=files&file_id=398718)
@@ -45,8 +45,6 @@
 *  [Cathedral Assets Optimizer 64-23316-5-3-15-1687526925.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=400106)
 *  [CC Horse Armor Stays Token-26092-1-0-1677165963.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=362612)
 *  [CC Plugins Universal Start Fix-97490-1-0-1691142080.zip](https://www.nexusmods.com/skyrimspecialedition/mods/97490/?tab=files&file_id=413948)
-*  [CC_Content_Anniversary_Cleaned_Update-58801-1-1-1638783538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=247007)
-*  [CC_Content_Anniversary_Cleaned-58801-1-1638434261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=246013)
 *  [Changelog helper-155643-1-1-1753648714.zip](https://www.nexusmods.com/skyrimspecialedition/mods/155643/?tab=files&file_id=650742)
 *  [Charge Dialogue Fix-17716-1-4-1639512548.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17716/?tab=files&file_id=249154)
 *  [Chillwind Depths CTD Fix-44249-1-0-1-1623084432.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44249/?tab=files&file_id=207969)
@@ -228,6 +226,15 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
+*  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures1.bsa
+*  Data_Skyrim - Textures2.bsa
+*  Data_Skyrim - Textures3.bsa
+*  Data_Skyrim - Textures4.bsa
+*  Data_Skyrim - Textures5.bsa
+*  Data_Skyrim - Textures6.bsa
+*  Data_Skyrim - Textures7.bsa
+*  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
@@ -269,7 +276,6 @@
 *  [Exit Sneak On Sprint-138669-1-2-1-1769456857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/138669/?tab=files&file_id=714015)
 *  [Explosion Collision Fix-154076-1-0-1-1752169470.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154076/?tab=files&file_id=645944)
 *  [Eyes AO Clipping Fix-25753-1-3-1558284484.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25753/?tab=files&file_id=92806)
-*  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
 *  [Farm Hat 01 Clipping Fix-72213-1-1-1672045134.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72213/?tab=files&file_id=343719)
 *  [Favorite Misc Items-42750-4-0-0-1767556383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=705539)
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
@@ -305,7 +311,6 @@
 *  installscript.vdf
 *  [Instantly Skip Dialogue NG-89163-1-1-1-1693399775.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89163/?tab=files&file_id=422013)
 *  [Items Stolen Bug Fix-99141-1-0-7-1714517433.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99141/?tab=files&file_id=496552)
-*  [Kart_CSSET_POST_1.6.1130-38775-1-2-3-4-1714757549.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38775/?tab=files&file_id=497442)
 *  [Keywords Fixed - USEEP - ESL-21597---1586818157.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21597/?tab=files&file_id=134154)
 *  [King Olaf's Fire Festival Not Ending Fix-65849-0-1-1648899684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65849/?tab=files&file_id=274311)
 *  [Labyrinthian Shalidor's Maze Fixes-52239-0-3-1626070810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52239/?tab=files&file_id=214147)
@@ -383,7 +388,6 @@
 *  [Scare my Enemy Bug Fix-44685-1-0-1611374649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44685/?tab=files&file_id=181189)
 *  [Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368378)
 *  [Script Effect Archetype Crash Fix-43532-1-1678779345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368379)
-*  [SCROTE BSA Version-97155-1-0-2-1714948522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97155/?tab=files&file_id=498293)
 *  [Serana's Hood Fix-20243-3-1-0-1627660653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=217670)
 *  [Shoeless Bandit Fix - Skypatcher-99465-1-0-0-1705249521.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99465/?tab=files&file_id=461322)
 *  [ShowRaceMenu NG - Latest Version-173086-1-0-4-1776530436.zip](https://www.nexusmods.com/skyrimspecialedition/mods/173086/?tab=files&file_id=743242)
@@ -469,9 +473,6 @@
 *  [Unofficial Skyrim Special Edition Patch-266-4-3-8a-1774132896.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=733846)
 *  [Vampire Loading Screen Eye Fix - LSSF-98187-1-0-1692458216.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98187/?tab=files&file_id=418574)
 *  [Vampire Lord Transform FX Fixed-39529-1-1597709554.rar](https://www.nexusmods.com/skyrimspecialedition/mods/39529/?tab=files&file_id=156225)
-*  [Vanilla Script MicroOptimizations-54061-1-17-1696891566.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=432771)
-*  [Voices EN  - Part 2-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57857)
-*  [Voices EN - Part 1-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57972)
 *  [WE05 Script Fix-49851-1-0-1-1620879756.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49851/?tab=files&file_id=203176)
 *  [WM Flora Fixes - CC Fishing Patch-161779-1-0-0-1760656633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161779/?tab=files&file_id=676783)
 *  [WM Flora Fixes - USSEP Patch-161779-1-0-0-1760656721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161779/?tab=files&file_id=676786)
