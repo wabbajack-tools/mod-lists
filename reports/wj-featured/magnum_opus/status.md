@@ -1,8 +1,7 @@
 ## Validation Report - Magnum Opus (wj-featured/magnum_opus)
 
 
-### Invalid (1)
-*  [Magnum Opus - Bodyslide Output.7z](https://wabbajack.b-cdn.net/Magnum Opus - Bodyslide Output.7z_08752b10-b06f-4595-b72a-77973b675a27)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (1209)
