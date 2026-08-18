@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (470)
+### Valid (471)
 *  [0 - No Radiant Quests for Owned Settlements-74107-1-03-1738183756.zip](https://www.nexusmods.com/fallout4/mods/74107/?tab=files&file_id=346690)
 *  [1.Izanami's Vault Girl Posters Black Hair 103619 3.0 2026-07-06T02-55Z SmerDuc9k.7z](https://www.nexusmods.com/fallout4/mods/103619/?tab=files&file_id=402350)
 *  [1980sChinathemedOutfits 1.4 107694 1.4 2026-08-07T02-39Z 2hTc9pp6i.zip](https://www.nexusmods.com/fallout4/mods/107694/?tab=files&file_id=406159)
@@ -90,31 +90,31 @@
 *  [CWMerchants-91989-1-0-8-1742237653.zip](https://www.nexusmods.com/fallout4/mods/91989/?tab=files&file_id=351107)
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccBGSFO4044-HellfirePowerArmor.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccbgsfo4046-tescan.esl
+*  Data_ccBGSFO4046-TesCan.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccbgsfo4096-as_enclave.esl
+*  Data_ccBGSFO4096-AS_Enclave.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccbgsfo4110-ws_enclave.esl
+*  Data_ccBGSFO4110-WS_Enclave.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccbgsfo4115-x02.esl
+*  Data_ccBGSFO4115-X02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccbgsfo4116-heavyflamer.esl
+*  Data_ccBGSFO4116-HeavyFlamer.esl
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccfsvfo4007-halloween.esl
+*  Data_ccFSVFO4007-Halloween.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccotmfo4001-remnants.esl
+*  Data_ccOTMFO4001-Remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccsbjfo4003-grenade.esl
+*  Data_ccSBJFO4003-Grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -309,6 +309,7 @@
 *  [MapMarkerEdit-102701-0-2-1773982786.zip](https://www.nexusmods.com/fallout4/mods/102701/?tab=files&file_id=390223)
 *  [MapMarkerOverhaul007-78072-007-1767771807.zip](https://www.nexusmods.com/fallout4/mods/78072/?tab=files&file_id=380205)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
+*  [MCM.zip](https://www.nexusmods.com/fallout4/mods/97648/?tab=files&file_id=407688)
 *  Medium.ini
 *  [Minimal Minimap 78827 2.9.0.0 2026-07-21T16-11Z 9Utw5R8NV.zip](https://www.nexusmods.com/fallout4/mods/78827/?tab=files&file_id=404048)
 *  [Minimal Minutemen Radiants-74107-1-03-1738183721.zip](https://www.nexusmods.com/fallout4/mods/74107/?tab=files&file_id=346689)
@@ -446,7 +447,7 @@
 *  [Unique - Quest Items Are Not Junk-84054-1-3-1765381680.rar](https://www.nexusmods.com/fallout4/mods/84054/?tab=files&file_id=377007)
 *  [Unlimited Survival Mode - F4SE-26163-v1-6-0-1767030557.zip](https://www.nexusmods.com/fallout4/mods/26163/?tab=files&file_id=379046)
 *  [Unofficial CC X-02 Patch-94839-1-2-1769726826.rar](https://www.nexusmods.com/fallout4/mods/94839/?tab=files&file_id=383426)
-*  [Unofficial Fallout 4 Patch-4598-2-2-1a-1779927834.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=398481)
+*  [Unofficial Fallout 4 Patch 4598 2.2.2a 2026-08-18T21-17Z seiQXqqfJ.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=407774)
 *  [Useful Crank-24349-1-5-1560707432.rar](https://www.nexusmods.com/fallout4/mods/24349/?tab=files&file_id=160020)
 *  [Valentine Jaw Sync-42985-1-0-1578874429.7z](https://www.nexusmods.com/fallout4/mods/42985/?tab=files&file_id=174235)
 *  [Valentine REBORN - HD Retexture - V2 - Blue Eyes-9568-2-0.7z](https://www.nexusmods.com/fallout4/mods/9568/?tab=files&file_id=90547)
