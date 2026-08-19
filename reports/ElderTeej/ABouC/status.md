@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (859)
+### Valid (860)
 *  [.bat Command Collection-1917-0-62-1611882118.rar](https://www.nexusmods.com/fallout4/mods/1917/?tab=files&file_id=200167)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1 - Keep Radiants in the Commonwealth Patch-59019-1-13-1757630024.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=367267)
@@ -177,6 +177,7 @@
 *  [cVc Dead Wasteland 6 - DLC3-43818-2-2-1625377324.zip](https://www.nexusmods.com/fallout4/mods/43818/?tab=files&file_id=211841)
 *  [cVc Dead Wasteland 6 - Magpie Menu-43818-2-0-1620283148.zip](https://www.nexusmods.com/fallout4/mods/43818/?tab=files&file_id=207346)
 *  [cVc Dead Wasteland 6 - No World Space Edits-43818-6-8a-1714209056.zip](https://www.nexusmods.com/fallout4/mods/43818/?tab=files&file_id=312551)
+*  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
