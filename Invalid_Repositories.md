@@ -2,6 +2,20 @@
 
 The validation re-runs those every 4 hours or when a pull requestis merged into the main branch of this repository.
 
+## Just_Another_Requiem_List
+
+`RepoMachineURL`:`Just_Another_Requiem_List`
+
+`GithubURL`:`https://raw.githubusercontent.com/mccakit/Just_Another_Requiem_List/main/modlists.json`
+
+Failed due to the following Error:
+```
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at System.Net.Http.HttpClient.GetStringAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at ModlistValidation.TestModlists.TestRepositories(String file) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 109
+```
+
 ## jamesthewicked88
 
 `RepoMachineURL`:`jamesthewicked88`
