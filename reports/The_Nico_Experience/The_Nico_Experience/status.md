@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2488)
+### Valid (2496)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -141,6 +141,7 @@
 *  [Abyssal Wind Magic-96352-1-4-1690531558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96352/?tab=files&file_id=411378)
 *  [AC Valhalla Inspired Dagger Dual Dagger Moveset Player-70029-1-2-0-1663595926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70029/?tab=files&file_id=317630)
 *  [ACC - Autorun Console Commands-24919-2-3-1555236354.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24919/?tab=files&file_id=88428)
+*  [Accurate Projectile Collision - Latest Version 188551 2.0.0 2026-08-17T23-21Z IoFlhfdgK.zip](https://www.nexusmods.com/skyrimspecialedition/mods/188551/?tab=files&file_id=791424)
 *  [Acoustic Space Improvement Fixes (1.2.1)-78992-1-2-1-1680351847.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78992/?tab=files&file_id=374006)
 *  [Action Based Projectiles - Odin Patch-54611-1-0-1630417776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54611/?tab=files&file_id=225184)
 *  [Action Based Projectiles Patches - FOMOD-55122-2-3-2-1723675843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55122/?tab=files&file_id=531580)
@@ -358,6 +359,7 @@
 *  [Book Paper 2k-15742-New-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15742/?tab=files&file_id=47850)
 *  [Book Requirement Remover-82495-1-0-1675567579.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82495/?tab=files&file_id=356520)
 *  [Born in a Barn - Curtains for Shacks BOS -Parallax-113432-1-2-1710583495.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113432/?tab=files&file_id=481094)
+*  [BOS Color Variance Use Those Blankets patch 131951 1.0.3 2026-06-28T21-49Z hfH9s6IyO.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131951/?tab=files&file_id=769413)
 *  [Bosmer_House Fixes - Nico-105031-1-0-1712361490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=487850)
 *  [Boulder in Skyrim-110937-1-2-1718440805.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110937/?tab=files&file_id=511688)
 *  [Bow Rapid Combo V3 - Settings Loader-92696-1-0-1-1685888779.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92696/?tab=files&file_id=394970)
@@ -500,7 +502,7 @@
 *  [Convenient Horses-9519-7-1-1641573606.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9519/?tab=files&file_id=254743)
 *  [Cooking Categories Improvement (2.0.1)-84875-2-0-1-1686780839.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84875/?tab=files&file_id=397858)
 *  [Cooking with Fire-73607-0-2-1660929265.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73607/?tab=files&file_id=308699)
-*  [Core Impact Framework - Latest Version-146873-1-0-3-1745173935.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=619492)
+*  [Core Impact Framework - Latest Version 146873 2.0.4 2026-08-16T02-31Z s6Og0dFJz.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=790582)
 *  [Countess Armor HDT-SMP Body Physics-71116-1-1-1657491913.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71116/?tab=files&file_id=297963)
 *  [Countess Armor-71116-1-2-1657865145.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71116/?tab=files&file_id=299060)
 *  [CoverKhajiits 2K-71067-1-3-1674574017.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71067/?tab=files&file_id=352569)
@@ -543,6 +545,7 @@
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
 *  [Darkend_Shader_Fix - Nico-105031-2-5-1A-1757620086.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=664800)
 *  [Darkstorm-77718-1-82-1691781876.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77718/?tab=files&file_id=416174)
+*  Data__ResourcePack.bsa
 *  Data_ccafdsse001-dwesanctuary.bsa
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
@@ -697,7 +700,6 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -781,6 +783,7 @@
 *  [Dont Wine About It SE-105031-1-1-1700336047.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=443703)
 *  [DOOR v2 x2048-38500-2-1595293391.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38500/?tab=files&file_id=151371)
 *  [DoS - Missives Patch - Nico-105031-1-0-1706319903.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=465215)
+*  [Dovahnique's Diverse Dark Elf Lanterns - BOS - Nocturnal Moths-78788-1-1-1673239855.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78788/?tab=files&file_id=348039)
 *  [Dovahzul Overlays-120405-2-0-1719000264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120405/?tab=files&file_id=513725)
 *  [dp hd honeycomb 2k-84243-1-1675561240.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84243/?tab=files&file_id=356497)
 *  [Dragon Armors and Weapons Retexture SE-83222-2-2-1-1768340857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83222/?tab=files&file_id=709129)
@@ -815,6 +818,8 @@
 *  [DualWieldBlockandParry1_0_1-16334-1-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16334/?tab=files&file_id=50354)
 *  [Dungeons Addon-71504-1-3-1658490624.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71504/?tab=files&file_id=301096)
 *  [Dunlain Falls Interior and Exterior house fix-67765-1-1-1680608445.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67765/?tab=files&file_id=375005)
+*  [Dunmer Dreams - BOS Color Variance - Custom Frame 131951 1.0.3 2026-06-28T21-43Z 4t2yDcg8j.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131951/?tab=files&file_id=769402)
+*  [Dunmeri Furniture in Gray Quarter BOS patch-131951-1-0-1-1732497712.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131951/?tab=files&file_id=565807)
 *  [DUST v6 x2048-38444-6-1-1626629469.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38444/?tab=files&file_id=215336)
 *  [Dusty Vampire Dust SE SMIM version-62907-v1-0-1643682969.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62907/?tab=files&file_id=260867)
 *  [Dwaylin_Stonefist - Preset-105031-1-0-1716311416.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=503575)
@@ -1019,6 +1024,7 @@
 *  [Follower Framework patch by ff7Legend-11278-1-1711810776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=485694)
 *  [FOMOD_fixed glowing and too bright textures-33692-2-1-1615226976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33692/?tab=files&file_id=190257)
 *  [Footprints - ENB-3808-1-6-0-1613342638.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3808/?tab=files&file_id=186011)
+*  [Footprints - Player Footprints Fix-78957-1-0-0-1668712420.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78957/?tab=files&file_id=332607)
 *  [Footprints 1.6.1-3808-1-6-1-1613434284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3808/?tab=files&file_id=186188)
 *  [Footprints Sand Patch FOMOD 0.9-50484-0-9-1639872529.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50484/?tab=files&file_id=250175)
 *  [Forgotten Dungeons SSE-449-11-03-1587467233.rar](https://www.nexusmods.com/skyrimspecialedition/mods/449/?tab=files&file_id=135423)
@@ -2042,6 +2048,8 @@
 *  [Skyrim Objects SMIMed - Warmaiden's Holes-77086-0-1-2-1692567482.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77086/?tab=files&file_id=419125)
 *  [Skyrim on Skooma-80975-69-69-1711962049.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80975/?tab=files&file_id=486353)
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
+*  [Skyrim Revoiced Patch Collection-163710-2-0-2-1779018971.rar](https://www.nexusmods.com/skyrimspecialedition/mods/163710/?tab=files&file_id=753269)
+*  [Skyrim Revoiced-163710-2-0-2-1779018945.rar](https://www.nexusmods.com/skyrimspecialedition/mods/163710/?tab=files&file_id=753268)
 *  [Skyrim SE - Project Optimization - ESL VERSION-14084-1-5-1644564092.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14084/?tab=files&file_id=263338)
 *  [Skyrim Sewers - Radiant Enabled 1.1-56025-1-1-1689106755.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56025/?tab=files&file_id=406262)
 *  [Skyrim Sewers 4 Solitude Manhole Relocation-45181-1-1-1612273040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45181/?tab=files&file_id=183547)
