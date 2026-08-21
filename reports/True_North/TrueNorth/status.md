@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1285)
+### Valid (1286)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-4-1757833185.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=665566)
 *  [(CVEO) by LDD-160705-3-0-1-1766924471.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160705/?tab=files&file_id=702850)
 *  [0 Lore-Friendly Load Screen Compendium (16-9) (2K)-138294-2-1-1746799043.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138294/?tab=files&file_id=625267)
@@ -412,6 +412,7 @@
 *  [Deadly Dragon Lair Locations-129681-2-1-1-1742083295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129681/?tab=files&file_id=606112)
 *  [Death Drop Overhaul - Latest Version 151590 1.3.2 2026-07-16T13-57Z FpnkHZPPg.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151590/?tab=files&file_id=777198)
 *  [Death Idle Fix - Latest Version-152344-1-0-1-1756249769.zip](https://www.nexusmods.com/skyrimspecialedition/mods/152344/?tab=files&file_id=659582)
+*  Debug.log
 *  [Defeat the Dragon Cult-86625-1-0-0-1678335009.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86625/?tab=files&file_id=366721)
 *  [Depths of the Soul - Quest Mod - ESL - 1.0.3-118261-1-0-3-1753411387.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118261/?tab=files&file_id=649955)
 *  [Destroy The Dark Brotherhood - Quest Expansion-118229-1-03-1720776612.zip](https://www.nexusmods.com/skyrimspecialedition/mods/118229/?tab=files&file_id=520202)
