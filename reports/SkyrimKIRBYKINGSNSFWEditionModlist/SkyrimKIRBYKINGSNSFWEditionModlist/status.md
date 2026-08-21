@@ -1,4 +1,4 @@
-## Validation Report - Skyrim KIRBYKINGS NSFW Edition Modlist (SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist)
+## Validation Report - Kirbykings Modlist NSFW Edition (SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist)
 
 
 ### Invalid (0)
