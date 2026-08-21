@@ -507,7 +507,7 @@
 *  [Helps To Have A Map-37238-2-3-1673986204.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37238/?tab=files&file_id=350510)
 *  [Hermaeous Mora speaks Japanese-42185-1-1654879226.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42185/?tab=files&file_id=290196)
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
-*  [Hide Buttons - Unlock Edition-1619-1-6-7-1-1768212054.7z](https://www.nexusmods.com/site/mods/1619/?tab=files&file_id=1768212054)
+*  [Hide Buttons - Unlock Edition-1619-1-6-7-1-1768212054.7z](https://www.nexusmods.com/site/mods/1619/?tab=files&file_id=6670)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-3-1685145181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=392209)
 *  [High Poly Blackreach Mushrooms-40418-1-1-1617711701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=196429)
