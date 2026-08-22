@@ -1,8 +1,8 @@
 {
   "MachineURL": "True_North/TrueNorth",
   "Name": "True North",
-  "Version": "5.7.0",
-  "ModListHash": "wij2InbX2Vs=",
+  "Version": "5.8.0",
+  "ModListHash": "GOd24JyBHbM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -11827,10 +11827,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+LybF813t+s=",
+        "Hash": "aaZbJJoROMQ=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.esm",
         "Name": "Data_ccbgssse001-fish.esm",
-        "Size": 1425176,
+        "Size": 1203393,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
@@ -18890,10 +18890,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i3iF8LGbgKo=",
+        "Hash": "GZ8rqbiqvUk=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.esl",
         "Name": "Data_ccqdrsse001-survivalmode.esl",
-        "Size": 240724,
+        "Size": 237674,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
@@ -21709,10 +21709,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0o3x9+jxQCI=",
+        "Hash": "CByOwpFn630=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.esm",
         "Name": "Data_ccbgssse025-advdsgs.esm",
-        "Size": 812873,
+        "Size": 614669,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
@@ -25868,27 +25868,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "096KisXkYig=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=133324\nfileID=599376",
-        "Name": "Unique Farmhouse Architecture - Falkreath-133324-1-4-1740590526.rar",
-        "Size": 10316841,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pieter82",
-          "Description": "Replaces Falkreath\u0027s farmhouse architecture with unique models. Implemented with Base Object Swapper, no world space edits.",
-          "FileID": 599376,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/133324/133324-1730921019-524394899.png",
-          "IsNSFW": false,
-          "ModID": 133324,
-          "Name": "Unique Farmhouse Architecture - Falkreath (Base Object Swapper)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "01JhCEtTsRY=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
         "Name": "Data_Skyrim - Textures0.bsa",
@@ -25921,16 +25900,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8whleN2j350=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 106921425,
+        "Hash": "xT3J6oJEmXA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
+        "Name": "Data_MarketplaceTextures.bsa",
+        "Size": 3224203,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameFile": "Data\\MarketplaceTextures.bsa",
           "GameVersion": "1.7.99.0",
-          "Hash": "8whleN2j350="
+          "Hash": "xT3J6oJEmXA="
         }
       }
     },
@@ -25953,16 +25932,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xT3J6oJEmXA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
-        "Name": "Data_MarketplaceTextures.bsa",
-        "Size": 3224203,
+        "Hash": "8whleN2j350=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 106921425,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\MarketplaceTextures.bsa",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
           "GameVersion": "1.7.99.0",
-          "Hash": "xT3J6oJEmXA="
+          "Hash": "8whleN2j350="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "096KisXkYig=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=133324\nfileID=599376",
+        "Name": "Unique Farmhouse Architecture - Falkreath-133324-1-4-1740590526.rar",
+        "Size": 10316841,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pieter82",
+          "Description": "Replaces Falkreath\u0027s farmhouse architecture with unique models. Implemented with Base Object Swapper, no world space edits.",
+          "FileID": 599376,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/133324/133324-1730921019-524394899.png",
+          "IsNSFW": false,
+          "ModID": 133324,
+          "Name": "Unique Farmhouse Architecture - Falkreath (Base Object Swapper)",
+          "Version": "1.0"
         }
       }
     },
@@ -26017,22 +26017,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DDpz8fqBLQc=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67768230,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.7.99.0",
-          "Hash": "DDpz8fqBLQc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "WCdFSuPPmI4=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
         "Name": "Data_Skyrim - Textures8.bsa",
@@ -26043,6 +26027,22 @@
           "GameFile": "Data\\Skyrim - Textures8.bsa",
           "GameVersion": "1.7.99.0",
           "Hash": "WCdFSuPPmI4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DDpz8fqBLQc=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67768230,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.7.99.0",
+          "Hash": "DDpz8fqBLQc="
         }
       }
     }
