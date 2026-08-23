@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1035)
+### Valid (1036)
 *  [''I HAVE NO GREETING'' Fix for Oblivion-49115-V2-1687570593.zip](https://www.nexusmods.com/oblivion/mods/49115/?tab=files&file_id=1000035117)
 *  ['Big Tony's Deli' Lore Friendly Sign Replacement-51800-1-1645921915.zip](https://www.nexusmods.com/oblivion/mods/51800/?tab=files&file_id=1000030476)
 *  [(Vanilla) Ayleid Statues - Retextured-54989-1-0-0-1743082731.zip](https://www.nexusmods.com/oblivion/mods/54989/?tab=files&file_id=1000041262)
@@ -182,6 +182,7 @@
 *  [Better OCOv2 Agemaps-53487-1-3-1697732978.7z](https://www.nexusmods.com/oblivion/mods/53487/?tab=files&file_id=1000036578)
 *  [Better Scroll Background-27882.7z](https://www.nexusmods.com/oblivion/mods/27882/?tab=files&file_id=50366)
 *  [Better Unique Merchant Items-53000-1-1-1708402278.7z](https://www.nexusmods.com/oblivion/mods/53000/?tab=files&file_id=1000037805)
+*  [Better Vanilla Leveling-55279-1-1-4-1780939113.7z](https://www.nexusmods.com/oblivion/mods/55279/?tab=files&file_id=1000045234)
 *  [Big Beautiful and Wide version-50082-1-2-1594450770.7z](https://www.nexusmods.com/oblivion/mods/50082/?tab=files&file_id=1000025268)
 *  binkw32.dll
 *  [Birthsigns Reshoveled-53910-1-4-2-1739724494.zip](https://www.nexusmods.com/oblivion/mods/53910/?tab=files&file_id=1000040850)
