@@ -1,10 +1,11 @@
 ## Validation Report - Krosis (Krosis/Krosis)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Krosis - ESLifier Output Update.7z](https://authored-files.wabbajack.org/Krosis - ESLifier Output Update.7z_acd81d33-913e-442d-a141-d57d25419331)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3454)
+### Valid (3453)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -1819,7 +1820,6 @@
 *  [KreatE-83757-1-4-1-1764929580.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83757/?tab=files&file_id=694609)
 *  [Kris-Papyrus-Extender-115164-2-3-0-1778939558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115164/?tab=files&file_id=752894)
 *  [Krosis - Custom Patches 157177 2.2 2026-08-13T14-23Z Z3mWyIsqA.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157177/?tab=files&file_id=789373)
-*  [Krosis - ESLifier Output Update.7z](https://authored-files.wabbajack.org/Krosis - ESLifier Output Update.7z_acd81d33-913e-442d-a141-d57d25419331)
 *  [Krosis - SFW Bodyslide 157177 2.2 2026-08-13T14-24Z Sx9oEw7m7.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157177/?tab=files&file_id=789374)
 *  [Krosis 2.0 - Outputs (part 1) 157177 2.2 2026-08-13T14-30Z hfH9s6iwN.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157177/?tab=files&file_id=789377)
 *  [Krosis 2.0 - Outputs (part 2) 157177 2.2 2026-08-13T14-32Z IoFlhfdxa.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157177/?tab=files&file_id=789378)
