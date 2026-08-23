@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3818)
+### Valid (3824)
 *  [_Grimlook33_ Endless Misery-136947-1-0-1734824668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136947/?tab=files&file_id=574756)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [-The New Gentleman body patch-61263-2-1-1773845378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=732677)
@@ -309,6 +309,7 @@
 *  [Auto Input Switch-54309-1-2-3-1702841492.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=452745)
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
 *  [Automatic Compatibility Patch Creation Script (xEdit)-52919-1-01-1629771324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52919/?tab=files&file_id=223370)
+*  [Automatic CRDW - MANUAL INSTALL - MO2 Plugin 189151 1.2.6 2026-08-22T16-30Z 2Bej58o9R.zip](https://www.nexusmods.com/skyrimspecialedition/mods/189151/?tab=files&file_id=793369)
 *  [Automation Tools r6c-49373-1-5c.zip](https://www.nexusmods.com/skyrim/mods/49373/?tab=files&file_id=1000129948)
 *  [AVG Main File-84743-1-9-5-10-1748192375.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=631111)
 *  [AVG Main File-84743-1-9-5-6-1717206606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=507063)
@@ -690,6 +691,7 @@
 *  [Crashlog Tools-113668-1-0-3-0-1716492753.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=504174)
 *  [Crashlog Tools-113668-1-0-4-0-1725208949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=537656)
 *  [CrashLogger-59818-1-16-0-1759821888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=673149)
+*  [CRDW AE 186434 1.1.4 2026-08-01T17-00Z RHaV1OFcs.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186434/?tab=files&file_id=784136)
 *  [Create outfit from armor script-70907-1-0-1657211444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70907/?tab=files&file_id=296891)
 *  [Creation Club - Survival Shrines - No Costs-74367-1-0-1661890266.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74367/?tab=files&file_id=311829)
 *  CreationKit.exe
@@ -906,6 +908,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -2706,6 +2709,7 @@
 *  [Project ja-Kha'jay - Khajiit Will Follow-90022-1-03-1703785585.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90022/?tab=files&file_id=455836)
 *  [Project ja-Kha'jay - Patch Collection-110682-1-0-1706869439.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110682/?tab=files&file_id=466953)
 *  [Project ja-Kha'jay-57610-4-08-1-1720830356.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57610/?tab=files&file_id=520523)
+*  [Project JKJ - Khajiit Will Follow Body Patches 186674 1.0 2026-07-30T01-23Z HZCMOypCE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186674/?tab=files&file_id=783078)
 *  [Pronouns Patcher v1.0.3-43816-1-0-3-1776526614.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43816/?tab=files&file_id=743199)
 *  [Pronouns v2.1.4 - All-in-One-43816-2-1-4-1735432794.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43816/?tab=files&file_id=577094)
 *  [Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66128/?tab=files&file_id=275418)
@@ -3072,6 +3076,7 @@
 *  [Skyrims Unique Treasures SE-5261-4-7-1703367806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=454562)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
+*  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
 *  [Skyshards Offer Skills-63013-2-30-1659787312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63013/?tab=files&file_id=305051)
 *  [Skyshards v1.6.0-60748-1-6-0-1640462572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60748/?tab=files&file_id=251721)
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
@@ -3297,6 +3302,7 @@
 *  [TDM Vigilant Boss ini-53708-1-2-1628793098.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53708/?tab=files&file_id=220684)
 *  [Tel Mithryn Overhaul - Parallax Meshes-100397-1-1-1700029293.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=442757)
 *  [Teleporting thralls fix ordinator-83981-1-0-1675231879.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83981/?tab=files&file_id=355174)
+*  [Telvanni Paragliding - SPO-119472-ParaglidingOne-1733336897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/119472/?tab=files&file_id=568969)
 *  [Tem's Houses - Amren's Family Home-126201-2-0-0-1733687817.rar](https://www.nexusmods.com/skyrimspecialedition/mods/126201/?tab=files&file_id=570418)
 *  [Tem's Houses - Carlotta's House-131898-1-1-0-1729416631.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131898/?tab=files&file_id=553910)
 *  [Tem's Houses - Left-Hand Mine-134388-1-0-0-1732035819.rar](https://www.nexusmods.com/skyrimspecialedition/mods/134388/?tab=files&file_id=564000)

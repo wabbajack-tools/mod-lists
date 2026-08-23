@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2206)
+### Valid (2207)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [00 - ArgKha Mouth Fix - SE-96952-1-2-1690982901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96952/?tab=files&file_id=413435)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
@@ -380,6 +380,7 @@
 *  [Crashlog Tools-113668-1-0-3-0-1716492753.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=504174)
 *  [Crashlog Tools-113668-1-0-4-0-1725208949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=537656)
 *  [CrashLogger-59818-1-16-0-1759821888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=673149)
+*  [CRDW AE 186434 1.1.4 2026-08-01T17-00Z RHaV1OFcs.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186434/?tab=files&file_id=784136)
 *  [Create outfit from armor script-70907-1-0-1657211444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70907/?tab=files&file_id=296891)
 *  [Creation Club - Survival Shrines - No Costs-74367-1-0-1661890266.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74367/?tab=files&file_id=311829)
 *  CreationKit.exe

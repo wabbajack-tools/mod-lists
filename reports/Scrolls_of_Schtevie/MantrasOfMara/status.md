@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3853)
+### Valid (3859)
 *  [_Grimlook33_ Endless Misery-136947-1-0-1734824668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136947/?tab=files&file_id=574756)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [-The New Gentleman body patch-61263-2-1-1773845378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=732677)
@@ -173,10 +173,10 @@
 *  [Alit (Creature Series pt.4) SE-66175-1-0-1649407419.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66175/?tab=files&file_id=275619)
 *  [All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=470707)
 *  [Almost Vanilla - HIMBO Preset-121450-1-1-1717927255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/121450/?tab=files&file_id=509874)
-*  [Alpia Racemenu Plugins (06.2026).7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2160153&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029)
-*  [Alpia Slavetats Orc SE-LE.7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152752&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b)
-*  [Alpia Slavetats Riek SE-LE.7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2152753&confirm=1&t=1&csrfKey=e98a06dfa0e8c54b7025d66a5b64f04b)
-*  [Alpia Slavetats SE (06.2026).7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2160151&confirm=1&t=1&csrfKey=e65c7e037f6a1e976feedcc5c8477029)
+*  [Alpia Racemenu Plugins (08.2026).7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2175449&confirm=1&t=1&csrfKey=c1da82069bb3277e5fcd7b793ae8d629)
+*  [Alpia Slavetats Orc SE-LE (08.2026).7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2175447&confirm=1&t=1&csrfKey=c1da82069bb3277e5fcd7b793ae8d629)
+*  [Alpia Slavetats Riek SE-LE (08.2026).7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2175448&confirm=1&t=1&csrfKey=c1da82069bb3277e5fcd7b793ae8d629)
+*  [Alpia Slavetats SE (08.2026).7z](https://www.loverslab.com/files/file/30951-alpia-scribbles-slavetats-pack/?do=download&r=2175445&confirm=1&t=1&csrfKey=c1da82069bb3277e5fcd7b793ae8d629)
 *  [ALT - (A) Markarth's Forge - Parallax-88936-1-0-2-1681377576.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88936/?tab=files&file_id=377849)
 *  [ALT - The Snow Elves Throne - BOS-90590-1-0-2-1684655845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90590/?tab=files&file_id=390429)
 *  [Alt Perspecitve - AP - Reimperialized - Kaidan2-153769-1-0-0-1751159980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153769/?tab=files&file_id=642547)
@@ -316,6 +316,7 @@
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
 *  [Automated.SLSB.Conversions.v0.9d.hf.7z](https://www.loverslab.com/files/file/25318-sexlab-p/?do=download&r=2093477&confirm=1&t=1&csrfKey=f1c91ecafaecd20871239192b570e512)
 *  [Automatic Compatibility Patch Creation Script (xEdit)-52919-1-01-1629771324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52919/?tab=files&file_id=223370)
+*  [Automatic CRDW - MANUAL INSTALL - MO2 Plugin 189151 1.2.6 2026-08-22T16-30Z 2Bej58o9R.zip](https://www.nexusmods.com/skyrimspecialedition/mods/189151/?tab=files&file_id=793369)
 *  [Automation Tools r6c-49373-1-5c.zip](https://www.nexusmods.com/skyrim/mods/49373/?tab=files&file_id=1000129948)
 *  [AVG Main File-84743-1-9-5-10-1748192375.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=631111)
 *  [AVG Main File-84743-1-9-5-6-1717206606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=507063)
@@ -697,6 +698,7 @@
 *  [Crashlog Tools-113668-1-0-3-0-1716492753.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=504174)
 *  [Crashlog Tools-113668-1-0-4-0-1725208949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113668/?tab=files&file_id=537656)
 *  [CrashLogger-59818-1-16-0-1759821888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=673149)
+*  [CRDW AE 186434 1.1.4 2026-08-01T17-00Z RHaV1OFcs.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186434/?tab=files&file_id=784136)
 *  [Create outfit from armor script-70907-1-0-1657211444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70907/?tab=files&file_id=296891)
 *  [Creation Club - Survival Shrines - No Costs-74367-1-0-1661890266.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74367/?tab=files&file_id=311829)
 *  CreationKit.exe
@@ -917,6 +919,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -2692,6 +2695,7 @@
 *  [Project ja-Kha'jay - Khajiit Will Follow-90022-1-03-1703785585.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90022/?tab=files&file_id=455836)
 *  [Project ja-Kha'jay - Patch Collection-110682-1-0-1706869439.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110682/?tab=files&file_id=466953)
 *  [Project ja-Kha'jay-57610-4-08-1-1720830356.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57610/?tab=files&file_id=520523)
+*  [Project JKJ - Khajiit Will Follow Body Patches 186674 1.0 2026-07-30T01-23Z HZCMOypCE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186674/?tab=files&file_id=783078)
 *  [Pronouns Patcher v1.0.3-43816-1-0-3-1776526614.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43816/?tab=files&file_id=743199)
 *  [Pronouns v2.1.4 - All-in-One-43816-2-1-4-1735432794.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43816/?tab=files&file_id=577094)
 *  [Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66128/?tab=files&file_id=275418)
@@ -3090,6 +3094,7 @@
 *  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
+*  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
 *  [Skyshards Offer Skills-63013-2-30-1659787312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63013/?tab=files&file_id=305051)
 *  [Skyshards v1.6.0-60748-1-6-0-1640462572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60748/?tab=files&file_id=251721)
 *  [SkyTactics - Dynamic Combat Styles-131148-1-0-0-1728415605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/131148/?tab=files&file_id=550292)
@@ -3327,6 +3332,7 @@
 *  [TDM Vigilant Boss ini-53708-1-2-1628793098.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53708/?tab=files&file_id=220684)
 *  [Tel Mithryn Overhaul - Parallax Meshes-100397-1-1-1700029293.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=442757)
 *  [Teleporting thralls fix ordinator-83981-1-0-1675231879.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83981/?tab=files&file_id=355174)
+*  [Telvanni Paragliding - SPO-119472-ParaglidingOne-1733336897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/119472/?tab=files&file_id=568969)
 *  [Tem's Houses - Amren's Family Home-126201-2-0-0-1733687817.rar](https://www.nexusmods.com/skyrimspecialedition/mods/126201/?tab=files&file_id=570418)
 *  [Tem's Houses - Carlotta's House-131898-1-1-0-1729416631.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131898/?tab=files&file_id=553910)
 *  [Tem's Houses - Left-Hand Mine-134388-1-0-0-1732035819.rar](https://www.nexusmods.com/skyrimspecialedition/mods/134388/?tab=files&file_id=564000)
