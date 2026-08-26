@@ -905,7 +905,7 @@
 *  [Echelon - PBR-181447-1-1780344426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181447/?tab=files&file_id=758708)
 *  [eeekie's Real Delphine Redux-53890-1-0-1629054327.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53890/?tab=files&file_id=221436)
 *  [EFA Mouth SSE-19532-1-0-1542544522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19532/?tab=files&file_id=72700)
-*  [Effects 11 179824 1.0.0 2026-08-03T19-20Z Ks18n0h9u.zip](https://www.nexusmods.com/skyrimspecialedition/mods/179824/?tab=files&file_id=785098)
+*  [Effects 11 179824 1.0.0 2026-08-03T19-20Z Ks18n0h9u.zip](https://github.com/community-shaders/skyrim-community-shaders/releases/download/v1.8.0/Effects11-2026-08-03T18-59Z.zip)
 *  [EFM SE - Racemenu plugin-35785-1-0-1595174244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151142)
 *  [Eimars Edge PBR-171240-1-0-1-1779775334.zip](https://www.nexusmods.com/skyrimspecialedition/mods/171240/?tab=files&file_id=756370)
 *  [Elden Parry - Precision Compatibility Patch-115144-0-1-1711520035.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115144/?tab=files&file_id=484522)
