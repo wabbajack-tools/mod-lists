@@ -143,7 +143,6 @@
 *  [Better Melee Durability NV Version-94786-1-1764385534.rar](https://www.nexusmods.com/newvegas/mods/94786/?tab=files&file_id=1000162126)
 *  [Better View From Casino's Courtyards-81159-1-4-1690929778.zip](https://www.nexusmods.com/newvegas/mods/81159/?tab=files&file_id=1000114096)
 *  [Better View From Courtyards - LightBright Patch-81159-PatchLB-1-1715034153.zip](https://www.nexusmods.com/newvegas/mods/81159/?tab=files&file_id=1000130118)
-*  [BetterStandUp-76443-2-1703547706.zip](https://www.nexusmods.com/newvegas/mods/76443/?tab=files&file_id=1000120942)
 *  [Billboards HD Remade 4K-83464-1-1-1701622334.7z](https://www.nexusmods.com/newvegas/mods/83464/?tab=files&file_id=1000119868)
 *  [Birds Of A Feather Karma-88175-1-1720633031.rar](https://www.nexusmods.com/newvegas/mods/88175/?tab=files&file_id=1000136007)
 *  [Blackwolf24s Final HD Clutter PACK-70035-Final-1605541501.rar](https://www.nexusmods.com/newvegas/mods/70035/?tab=files&file_id=1000067701)
@@ -254,6 +253,7 @@
 *  Data_FalloutNV.esm
 *  Data_GunRunnersArsenal - Main.bsa
 *  Data_GunRunnersArsenal.esm
+*  Data_HonestHearts - Main.bsa
 *  Data_HonestHearts.esm
 *  Data_LonesomeRoad - Main.bsa
 *  Data_LonesomeRoad.esm
