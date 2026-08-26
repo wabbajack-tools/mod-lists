@@ -2989,7 +2989,7 @@
 *  [SexLab Solutions v3 - Revisited SE v1.1.6.7z](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/?do=download&r=1895689&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5)
 *  [SexLab_Solutions - USSEP Patch.7z](https://www.loverslab.com/files/file/28863-mod-tweaks/?do=download&r=1979818&confirm=1&t=1&csrfKey=69fd77326ed00b0d83bd1196cd2c3ef5)
 *  [SEXLAB-sound fx replaceer -suck-150872-1-0-1748084561.zip](https://www.nexusmods.com/skyrimspecialedition/mods/150872/?tab=files&file_id=630619)
-*  [SexLabFrameworkAE_v166b.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/?do=download)
+*  [SexLabFrameworkAE_v166c.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166c-08252026/?do=download&r=2176542&confirm=1&t=1&csrfKey=ac9f5f8132aaed8bffe301147fc9d1e7)
 *  [SexLabSexSound 0.13.0.zip](https://www.loverslab.com/files/file/44147-sexlab-sex-sound/?do=download&r=2116303&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed)
 *  [SG Female Eyebrows - High Poly Head-70905-1-0-1657207481.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70905/?tab=files&file_id=296876)
 *  [Shaders of Solstheim - Ash and Moss - Parallax Meshes-60144-0-1-1639987706.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60144/?tab=files&file_id=250468)
