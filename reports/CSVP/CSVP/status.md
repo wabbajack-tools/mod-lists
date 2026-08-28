@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2067)
+### Valid (2070)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
@@ -135,6 +135,7 @@
 *  [Assorted Mesh Fixes-32117-0-139-2-1774464085.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=735115)
 *  [At Your Own Pace - College of Winterhold-52704-2-1-0MG-1684436813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=389486)
 *  [At Your Own Pace - Companions-52704-3-0-4CP-1700976265.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=446173)
+*  [At Your Own Pace - Dark Brotherhood-52704-1-1-1DB-1638762189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=246952)
 *  [At Your Own Pace - Dawnguard-52704-1-0-1DG-1700976366.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=446174)
 *  [At Your Own Pace - Dragonborn-52704-1-0-1DB-1661116882.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=309285)
 *  [At Your Own Pace - Main Quest-52704-2-1-0-1677557354.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52704/?tab=files&file_id=364095)
@@ -375,6 +376,7 @@
 *  Data_ccbgssse006-stendarshammer.esl
 *  Data_ccbgssse007-chrysamere.bsa
 *  Data_ccbgssse007-chrysamere.esl
+*  Data_ccbgssse008-wraithguard.bsa
 *  Data_ccbgssse010-petdwarvenarmoredmudcrab.bsa
 *  Data_ccbgssse010-petdwarvenarmoredmudcrab.esl
 *  Data_ccbgssse011-hrsarmrelvn.bsa
@@ -459,6 +461,7 @@
 *  Data_cceejsse001-hstead.esm
 *  Data_cceejsse002-tower.bsa
 *  Data_cceejsse002-tower.esl
+*  Data_cceejsse004-hall.bsa
 *  Data_ccffbsse001-imperialdragon.bsa
 *  Data_ccffbsse001-imperialdragon.esl
 *  Data_ccffbsse002-crossbowpack.bsa
