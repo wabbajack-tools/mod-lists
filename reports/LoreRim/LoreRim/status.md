@@ -756,7 +756,7 @@
 *  [Convenient Reading-50202-1-1-1622046204.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50202/?tab=files&file_id=205659)
 *  [Cooking in Kettles on Campfires-124883-1-2-1764935310.rar](https://www.nexusmods.com/skyrimspecialedition/mods/124883/?tab=files&file_id=694629)
 *  [Copy Paste In Menus-178439-1-0-3-1778187304.7z](https://www.nexusmods.com/skyrimspecialedition/mods/178439/?tab=files&file_id=749753)
-*  [Core Impact Framework - Latest Version-146873-1-2-8-1771158591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=721776)
+*  [Core Impact Framework - Latest Version 146873 2.0.5 2026-08-28T13-23Z kATsMWjG0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=796419)
 *  [COTN - Dawnstar-160495-1-0-1760810768.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160495/?tab=files&file_id=677439)
 *  [COTN - Falkreath Gonzeh - 2K-102073-1-1-1696767497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/102073/?tab=files&file_id=432242)
 *  [COTN - Falkreath Gonzeh - Updated Normal Maps-102073-1-0-1734770570.rar](https://www.nexusmods.com/skyrimspecialedition/mods/102073/?tab=files&file_id=574505)

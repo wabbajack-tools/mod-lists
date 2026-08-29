@@ -1,4 +1,4 @@
-## Validation Report - Intricate Skyrim (sailorofthemind/intricateskyrim)
+## Validation Report - IntricateSkyrim (sailorofthemind/intricateskyrim)
 
 
 ### Invalid (0)
