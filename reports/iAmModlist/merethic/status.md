@@ -1784,7 +1784,7 @@
 *  [SexLab Sexlife SE v1.4.2.7z](https://www.loverslab.com/files/file/10671-sexlab-sexlife-se/)
 *  [SexLab Solutions v3 - Revisited SE v1.1.6.7z](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/)
 *  [SexLab Vanilla Voices 2.8.7z](https://www.loverslab.com/files/file/318-sexlab-vanilla-voices/)
-*  [SexLabFrameworkAE_v166c.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/)
+*  [SexLabFrameworkAE_v166d.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/)
 *  [Sexy Orc-96959-1-1690602099.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96959/?tab=files&file_id=411653)
 *  [Sexyfantasy SlimStacked 3BA  (big boobs)-122186-2-0-1718737782.rar](https://www.nexusmods.com/skyrimspecialedition/mods/122186/?tab=files&file_id=512941)
 *  [Shapely Girl - CBBE 3BA Bodyslide Preset-139920-1-0-1737747328.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139920/?tab=files&file_id=586941)
