@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (856)
+### Valid (853)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139840/?tab=files&file_id=701500)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -179,14 +179,11 @@
 *  [Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64057/?tab=files&file_id=266435)
 *  [Dark Brotherhood Armors Retexture SE-93890-1-0-1687267107.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93890/?tab=files&file_id=399399)
 *  [Dark Knight Heavy Padded Armor Set WITH HDT SMP-104977--6-1704759636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104977/?tab=files&file_id=459360)
-*  Data__ResourcePack.bsa
-*  Data__ResourcePack.esl
 *  Data_ccafdsse001-dwesanctuary.bsa
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
 *  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -222,7 +219,6 @@
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
 *  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -231,8 +227,6 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -314,7 +308,6 @@
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
 *  Data_ccqdrsse001-survivalmode.bsa
-*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
@@ -348,6 +341,7 @@
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
+*  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Dawnfire Azurite III - Required FIles-147826-2-1-1-1773570295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=731604)
 *  [Dawnfire Azurite III ENB-147826-2-1-1769847484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=715601)
@@ -356,6 +350,7 @@
 *  [Deadly Dragons SE Patches-23723-6-5-6-1639507938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=249137)
 *  [Deadly Dragons SE-23723-6-6-1-1706624758.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=466265)
 *  [Dear Diary Dark Mode (texts - white color)-60837-1-1-1-1667594519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60837/?tab=files&file_id=328989)
+*  Debug.log
 *  [DementedLulu's INIGO 2.0-126199-1-0-1722990384.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126199/?tab=files&file_id=529013)
 *  [Diverse Dragons Collection SE-695-2-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/695/?tab=files&file_id=36470)
 *  [DOVAJUMP-125550-0-6-1-1767304008.rar](https://www.nexusmods.com/skyrimspecialedition/mods/125550/?tab=files&file_id=704417)
@@ -499,6 +494,7 @@
 *  [Inigo Official Patch SE-62868-2-0-0-1728131052.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62868/?tab=files&file_id=549240)
 *  [INIGO_V2.4C SE-1461-2-4C.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1461/?tab=files&file_id=10496)
 *  [inn of heros with tavern chatter-63393-1-1644529455.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63393/?tab=files&file_id=263226)
+*  installscript.vdf
 *  [Interaction Icons Rework-52743-2-35-1721481526.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=523081)
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
 *  [Iron Armors and Weapons Retexture SE-84978-2-0-1724091121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84978/?tab=files&file_id=533198)
@@ -851,6 +847,7 @@
 *  [Whiterun Exteriors Patch Collection-78920-1-7-1779668318.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78920/?tab=files&file_id=755856)
 *  [Whiterun Forest Borealis v3.3.0-11343-3-3-1-1769362772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11343/?tab=files&file_id=713569)
 *  [Widescreen Scale Removed-136793-1-0-3-1752316982.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136793/?tab=files&file_id=646336)
+*  [Widescreen Scale Removed-136793-1-0-4-1767116931.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136793/?tab=files&file_id=703666)
 *  [Winter Wonderland Magic-93871-1-3-1687977298.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93871/?tab=files&file_id=401963)
 *  [Wizarding Traversal Magic-124125-1-43-1723398323.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124125/?tab=files&file_id=530577)
 *  [WolfTwinsMod-123505-3-1738854569.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123505/?tab=files&file_id=591763)
