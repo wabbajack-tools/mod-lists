@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (336)
+### Valid (362)
 *  [3rd Person Camera Stagger Remover-25316-1-1556164319.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25316/?tab=files&file_id=89592)
 *  [A. Tween Menu Overhaul - Classic-143275-1-1-1748014644.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143275/?tab=files&file_id=630292)
 *  [Accuracy - Latest Version 187578 1.0.0 2026-08-07T23-01Z RHaV1OGJ2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/187578/?tab=files&file_id=786740)
@@ -79,6 +79,33 @@
 *  [CS Light-138443-2-0-1-1779929946.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138443/?tab=files&file_id=756910)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
+*  Data__ResourcePack.bsa
+*  Data__ResourcePack.esl
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_MarketplaceTextures.bsa
+*  Data_Skyrim - Animations.bsa
+*  Data_Skyrim - Interface.bsa
+*  Data_Skyrim - Meshes0.bsa
+*  Data_Skyrim - Meshes1.bsa
+*  Data_Skyrim - Misc.bsa
+*  Data_Skyrim - Shaders.bsa
+*  Data_Skyrim - Sounds.bsa
+*  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures1.bsa
+*  Data_Skyrim - Textures2.bsa
+*  Data_Skyrim - Textures3.bsa
+*  Data_Skyrim - Textures4.bsa
+*  Data_Skyrim - Textures5.bsa
+*  Data_Skyrim - Textures6.bsa
+*  Data_Skyrim - Textures7.bsa
+*  Data_Skyrim - Textures8.bsa
+*  Data_Skyrim - Voices_en0.bsa
+*  Data_Skyrim.esm
+*  Data_Video_BGS_Logo.bik
 *  [Death Drop Overhaul - Latest Version 151590 1.3.2 2026-07-16T13-57Z FpnkHZPPg.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151590/?tab=files&file_id=777198)
 *  Debug.log
 *  [Description Framework-105799-2-1-2-1756574770.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105799/?tab=files&file_id=660797)
@@ -244,7 +271,6 @@
 *  [Replace Nirnroot Sound with Wind Chimes-39151-0-1-1596885968.rar](https://www.nexusmods.com/skyrimspecialedition/mods/39151/?tab=files&file_id=154416)
 *  [Reverb Interior Sounds Expansion (1.5.0)-77947-1-5-0-1675142342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77947/?tab=files&file_id=354860)
 *  [RicochetFramework 1.1.1 160603 1.1.1 2026-08-01T22-43Z QRde31jz1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/160603/?tab=files&file_id=784279)
-*  [Root Builder-31720-5-1-1-1767959063.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=707262)
 *  [Ruined Tundra Farmhouse FaceGen-125600-1-0-1723120033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/125600/?tab=files&file_id=529429)
 *  [Saints and Seducers - PBR-169480-1-0-1768159419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/169480/?tab=files&file_id=708327)
 *  [Sanguine Symphony - Latest Version 148388 1.3.3 2026-08-01T18-09Z kATsMWElO.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148388/?tab=files&file_id=784164)
