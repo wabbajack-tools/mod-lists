@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (856)
+### Valid (818)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(LORE ACCURATE) Dagoth Ur Follower-139840-1-17-1766541767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/139840/?tab=files&file_id=701500)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -179,28 +179,20 @@
 *  [Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64057/?tab=files&file_id=266435)
 *  [Dark Brotherhood Armors Retexture SE-93890-1-0-1687267107.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93890/?tab=files&file_id=399399)
 *  [Dark Knight Heavy Padded Armor Set WITH HDT SMP-104977--6-1704759636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104977/?tab=files&file_id=459360)
-*  Data__ResourcePack.bsa
-*  Data__ResourcePack.esl
 *  Data_ccafdsse001-dwesanctuary.bsa
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
-*  Data_ccasvsse001-almsivi.esm
 *  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
-*  Data_ccbgssse003-zombies.esl
 *  Data_ccbgssse004-ruinsedge.bsa
-*  Data_ccbgssse004-ruinsedge.esl
 *  Data_ccbgssse005-goldbrand.bsa
-*  Data_ccbgssse005-goldbrand.esl
 *  Data_ccbgssse006-stendarshammer.bsa
 *  Data_ccbgssse006-stendarshammer.esl
 *  Data_ccbgssse007-chrysamere.bsa
 *  Data_ccbgssse007-chrysamere.esl
 *  Data_ccbgssse008-wraithguard.bsa
-*  Data_ccbgssse008-wraithguard.esl
 *  Data_ccbgssse010-petdwarvenarmoredmudcrab.bsa
 *  Data_ccbgssse010-petdwarvenarmoredmudcrab.esl
 *  Data_ccbgssse011-hrsarmrelvn.bsa
@@ -212,9 +204,7 @@
 *  Data_ccbgssse014-spellpack01.bsa
 *  Data_ccbgssse014-spellpack01.esl
 *  Data_ccbgssse016-umbra.bsa
-*  Data_ccbgssse016-umbra.esm
 *  Data_ccbgssse018-shadowrend.bsa
-*  Data_ccbgssse018-shadowrend.esl
 *  Data_ccbgssse019-staffofsheogorath.bsa
 *  Data_ccbgssse019-staffofsheogorath.esl
 *  Data_ccbgssse020-graycowl.bsa
@@ -222,11 +212,8 @@
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
 *  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
-*  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
-*  Data_ccbgssse034-mntuni.esl
 *  Data_ccbgssse035-petnhound.bsa
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
@@ -234,19 +221,12 @@
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
-*  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
-*  Data_ccbgssse040-advobgobs.esl
 *  Data_ccbgssse041-netchleather.bsa
-*  Data_ccbgssse041-netchleather.esl
 *  Data_ccbgssse043-crosselv.bsa
-*  Data_ccbgssse043-crosselv.esl
 *  Data_ccbgssse045-hasedoki.bsa
-*  Data_ccbgssse045-hasedoki.esl
 *  Data_ccbgssse050-ba_daedric.bsa
-*  Data_ccbgssse050-ba_daedric.esl
 *  Data_ccbgssse051-ba_daedricmail.bsa
-*  Data_ccbgssse051-ba_daedricmail.esl
 *  Data_ccbgssse052-ba_iron.bsa
 *  Data_ccbgssse052-ba_iron.esl
 *  Data_ccbgssse053-ba_leather.bsa
@@ -258,17 +238,12 @@
 *  Data_ccbgssse056-ba_silver.bsa
 *  Data_ccbgssse056-ba_silver.esl
 *  Data_ccbgssse057-ba_stalhrim.bsa
-*  Data_ccbgssse057-ba_stalhrim.esl
 *  Data_ccbgssse058-ba_steel.bsa
 *  Data_ccbgssse058-ba_steel.esl
 *  Data_ccbgssse059-ba_dragonplate.bsa
-*  Data_ccbgssse059-ba_dragonplate.esl
 *  Data_ccbgssse060-ba_dragonscale.bsa
-*  Data_ccbgssse060-ba_dragonscale.esl
 *  Data_ccbgssse061-ba_dwarven.bsa
-*  Data_ccbgssse061-ba_dwarven.esl
 *  Data_ccbgssse062-ba_dwarvenmail.bsa
-*  Data_ccbgssse062-ba_dwarvenmail.esl
 *  Data_ccbgssse063-ba_ebony.bsa
 *  Data_ccbgssse063-ba_ebony.esl
 *  Data_ccbgssse064-ba_elven.bsa
@@ -276,7 +251,6 @@
 *  Data_ccbgssse066-staves.bsa
 *  Data_ccbgssse066-staves.esl
 *  Data_ccbgssse067-daedinv.bsa
-*  Data_ccbgssse067-daedinv.esm
 *  Data_ccbgssse068-bloodfall.bsa
 *  Data_ccbgssse068-bloodfall.esl
 *  Data_ccbgssse069-contest.bsa
@@ -284,51 +258,35 @@
 *  Data_cccbhsse001-gaunt.bsa
 *  Data_cccbhsse001-gaunt.esl
 *  Data_ccedhsse001-norjewel.bsa
-*  Data_ccedhsse001-norjewel.esl
 *  Data_ccedhsse002-splkntset.bsa
-*  Data_ccedhsse002-splkntset.esl
 *  Data_ccedhsse003-redguard.bsa
-*  Data_ccedhsse003-redguard.esl
 *  Data_cceejsse001-hstead.bsa
-*  Data_cceejsse001-hstead.esm
 *  Data_cceejsse002-tower.bsa
 *  Data_cceejsse002-tower.esl
 *  Data_cceejsse003-hollow.bsa
 *  Data_cceejsse003-hollow.esl
 *  Data_cceejsse004-hall.bsa
-*  Data_cceejsse004-hall.esl
 *  Data_cceejsse005-cave.bsa
-*  Data_cceejsse005-cave.esm
 *  Data_ccffbsse001-imperialdragon.bsa
-*  Data_ccffbsse001-imperialdragon.esl
 *  Data_ccffbsse002-crossbowpack.bsa
 *  Data_ccffbsse002-crossbowpack.esl
 *  Data_ccfsvsse001-backpacks.bsa
 *  Data_ccfsvsse001-backpacks.esl
 *  Data_cckrtsse001_altar.bsa
-*  Data_cckrtsse001_altar.esl
 *  Data_ccmtysse001-knightsofthenine.bsa
 *  Data_ccmtysse001-knightsofthenine.esl
 *  Data_ccmtysse002-ve.bsa
-*  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
-*  Data_ccpewsse002-armsofchaos.esl
 *  Data_ccqdrsse001-survivalmode.bsa
-*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
-*  Data_ccrmssse001-necrohouse.esl
 *  Data_cctwbsse001-puzzledungeon.bsa
-*  Data_cctwbsse001-puzzledungeon.esm
 *  Data_ccvsvsse001-winter.bsa
 *  Data_ccvsvsse001-winter.esl
 *  Data_ccvsvsse002-pets.bsa
-*  Data_ccvsvsse002-pets.esl
 *  Data_ccvsvsse003-necroarts.bsa
-*  Data_ccvsvsse003-necroarts.esl
 *  Data_ccvsvsse004-beafarmer.bsa
-*  Data_ccvsvsse004-beafarmer.esl
 *  Data_MarketplaceTextures.bsa
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
@@ -348,6 +306,7 @@
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
+*  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Dawnfire Azurite III - Required FIles-147826-2-1-1-1773570295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=731604)
 *  [Dawnfire Azurite III ENB-147826-2-1-1769847484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147826/?tab=files&file_id=715601)
@@ -356,6 +315,7 @@
 *  [Deadly Dragons SE Patches-23723-6-5-6-1639507938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=249137)
 *  [Deadly Dragons SE-23723-6-6-1-1706624758.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=466265)
 *  [Dear Diary Dark Mode (texts - white color)-60837-1-1-1-1667594519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60837/?tab=files&file_id=328989)
+*  Debug.log
 *  [DementedLulu's INIGO 2.0-126199-1-0-1722990384.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126199/?tab=files&file_id=529013)
 *  [Diverse Dragons Collection SE-695-2-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/695/?tab=files&file_id=36470)
 *  [DOVAJUMP-125550-0-6-1-1767304008.rar](https://www.nexusmods.com/skyrimspecialedition/mods/125550/?tab=files&file_id=704417)
@@ -499,6 +459,7 @@
 *  [Inigo Official Patch SE-62868-2-0-0-1728131052.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62868/?tab=files&file_id=549240)
 *  [INIGO_V2.4C SE-1461-2-4C.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1461/?tab=files&file_id=10496)
 *  [inn of heros with tavern chatter-63393-1-1644529455.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63393/?tab=files&file_id=263226)
+*  installscript.vdf
 *  [Interaction Icons Rework-52743-2-35-1721481526.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=523081)
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
 *  [Iron Armors and Weapons Retexture SE-84978-2-0-1724091121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84978/?tab=files&file_id=533198)
@@ -851,6 +812,7 @@
 *  [Whiterun Exteriors Patch Collection-78920-1-7-1779668318.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78920/?tab=files&file_id=755856)
 *  [Whiterun Forest Borealis v3.3.0-11343-3-3-1-1769362772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11343/?tab=files&file_id=713569)
 *  [Widescreen Scale Removed-136793-1-0-3-1752316982.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136793/?tab=files&file_id=646336)
+*  [Widescreen Scale Removed-136793-1-0-4-1767116931.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136793/?tab=files&file_id=703666)
 *  [Winter Wonderland Magic-93871-1-3-1687977298.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93871/?tab=files&file_id=401963)
 *  [Wizarding Traversal Magic-124125-1-43-1723398323.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124125/?tab=files&file_id=530577)
 *  [WolfTwinsMod-123505-3-1738854569.rar](https://www.nexusmods.com/skyrimspecialedition/mods/123505/?tab=files&file_id=591763)

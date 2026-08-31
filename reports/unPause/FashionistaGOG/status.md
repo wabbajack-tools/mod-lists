@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1186)
+### Valid (1160)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -21,9 +21,7 @@
 *  [Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip](https://www.nexusmods.com/vampirebloodlines/mods/74/?tab=files&file_id=169)
 *  [BeautifulMonsterRedux.rar](https://www.moddb.com/addons/start/17687)
 *  [Bimbo Nosferatu by katr-224-1-1659276458.rar](https://www.nexusmods.com/vampirebloodlines/mods/224/?tab=files&file_id=640)
-*  Bin_engine.dll
 *  Bin_loader_bugs_fix.ini
-*  Bin_vampire_python21.dll
 *  [Black-haired_Toreador_reskin.zip](https://www.moddb.com/addons/start/257201)
 *  [Blonde_Malkavian.zip](https://www.moddb.com/addons/start/32806)
 *  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
@@ -75,14 +73,8 @@
 *  [Deranged_Darling.zip](https://www.moddb.com/addons/start/102284)
 *  [Devilspawn Fleshfeast - Horror Tape Reskin(s)-107-1-0-1563029064.zip](https://www.nexusmods.com/vampirebloodlines/mods/107/?tab=files&file_id=254)
 *  Docs_Help__borders_left.htm
-*  Docs_Help_Compatibility_msr.htm
 *  Docs_Help_Credits_credits.htm
 *  Docs_Help_License_license.htm
-*  Docs_Help_Manual_Vampire.rtf
-*  Docs_Help_Readme_readme.htm
-*  Docs_Help_Readme_readme.rtf
-*  Docs_Help_Tech Help_Customer Support_Customer_support_files_header.htm
-*  Docs_Help_Tech Help_Customer Support_Customer_support.htm
 *  Docs_Help_Tech Help_Information_Sound_Card_Conflicts.htm
 *  Docs_License.txt
 *  Docs_MSR.txt
@@ -113,6 +105,7 @@
 *  goggame-1207659240.info
 *  goggame-1207659240.script
 *  goggame-galaxyFileList.ini
+*  goglog.ini
 *  [Golden_Rose_v1.5.7z](https://www.moddb.com/addons/start/299724)
 *  [HandsomeNosferatu.1.rar](https://www.moddb.com/addons/start/174198)
 *  [HD Grounds morestuff-34-v1-2.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=75)
@@ -125,6 +118,8 @@
 *  [Jenya's female toreador pc-149-1-0-1594830583.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=412)
 *  [LA By Night - Repack.zip](https://authored-files.wabbajack.org/LA By Night - Repack.zip_e2b1c1c0-2a41-4b19-8f2b-5cd5bd928633)
 *  [LA Nights ENB - Main File-342-1-1740509252.zip](https://www.nexusmods.com/vampirebloodlines/mods/342/?tab=files&file_id=1185)
+*  [La_by_Night_2.5.1.rar](https://www.moddb.com/downloads/start/311426)
+*  [La_by_Night_2.5.2.rar](https://www.moddb.com/downloads/start/311664)
 *  [Lasombra_Ventrue_carbon_skin_By_3Dell.zip](https://www.moddb.com/addons/start/126593)
 *  [Latex Dictator Malkavian-285-1-0-1701728128.zip](https://www.nexusmods.com/vampirebloodlines/mods/285/?tab=files&file_id=910)
 *  [latex_toreador_v1.rar](https://www.moddb.com/addons/start/17508)
@@ -132,7 +127,6 @@
 *  [Libertarian Ventrue-317-1-0-1719329227.zip](https://www.nexusmods.com/vampirebloodlines/mods/317/?tab=files&file_id=1013)
 *  [Lily UV map fix-237-1-1671754711.7z](https://www.nexusmods.com/vampirebloodlines/mods/237/?tab=files&file_id=688)
 *  Loader.dll
-*  Loader.exe
 *  [Lockpicking icons for UP-308-1-0-1717262414.rar](https://www.nexusmods.com/vampirebloodlines/mods/308/?tab=files&file_id=998)
 *  [Lovely Degenerate - Director's Cut-96-2-0-1684714169.zip](https://www.nexusmods.com/vampirebloodlines/mods/96/?tab=files&file_id=798)
 *  [Mad_Malk_V1.rar](https://www.moddb.com/addons/start/17589)
@@ -518,7 +512,7 @@
 *  Unofficial_Patch_materials_hud_hotkeywindow.tth
 *  Unofficial_Patch_materials_hud_hotkeywindow.ttz
 *  Unofficial_Patch_materials_hud_infobar_icons_inventory_full.vmt
-*  Unofficial_Patch_materials_hud_infobar_icons_lockpicking_skill_too_low.vmt
+*  Unofficial_Patch_materials_hud_infobar_icons_lockpicking_skill_success.vmt
 *  Unofficial_Patch_materials_hud_infobar_icons_masquerade_enforced.vmt
 *  Unofficial_Patch_materials_hud_inventory_images_general_items_garysphoto.vmt
 *  Unofficial_Patch_materials_hud_new_ui_bloodbarfill.tth
@@ -634,32 +628,16 @@
 *  Unofficial_Patch_python_chinatown_chinatown.py
 *  Unofficial_Patch_python_downtown_downtown.py
 *  Unofficial_Patch_python_fileutil.py
-*  Unofficial_Patch_python_fileutil.pyc
 *  Unofficial_Patch_python_fusyndicate_fusyndicate.py
 *  Unofficial_Patch_python_gallery_gallery.py
 *  Unofficial_Patch_python_giovanni_giovanni.py
 *  Unofficial_Patch_python_hollywood_hollywood.py
-*  Unofficial_Patch_python_lib_copy_reg.pyc
-*  Unofficial_Patch_python_lib_random.pyc
-*  Unofficial_Patch_python_lib_string.pyc
-*  Unofficial_Patch_python_lib_types.pyc
 *  Unofficial_Patch_python_museum_museum.py
 *  Unofficial_Patch_python_santamonica_santamonica.py
 *  Unofficial_Patch_python_temple_temple.py
 *  Unofficial_Patch_python_theatre_theatre.py
-*  Unofficial_Patch_python_theatre_theatre.pyc
 *  Unofficial_Patch_python_tutorial_tutorial.py
-*  Unofficial_Patch_python_tutorial_tutorial.pyc
 *  Unofficial_Patch_python_vamputil.py
-*  Unofficial_Patch_python_vamputil.pyc
-*  Unofficial_Patch_python_zvtool___init__.pyc
-*  Unofficial_Patch_python_zvtool_zvtool_file.pyc
-*  Unofficial_Patch_python_zvtool_zvtool_globals.pyc
-*  Unofficial_Patch_python_zvtool_zvtool_grabee.pyc
-*  Unofficial_Patch_python_zvtool_zvtool_npc.pyc
-*  Unofficial_Patch_python_zvtool_zvtool_pc.pyc
-*  Unofficial_Patch_python_zvtool_zvtool_util.pyc
-*  Unofficial_Patch_python_zvtool_zvtool.pyc
 *  Unofficial_Patch_resource_gameui_english.txt
 *  Unofficial_Patch_save_autosave.sav
 *  Unofficial_Patch_save_Vampire-000.sav
@@ -711,7 +689,7 @@
 *  Unofficial_Patch_sound_schemes_sp_giovanni_2a.txt
 *  Unofficial_Patch_sound_schemes_sp_taxi.txt
 *  Unofficial_Patch_sound_schemes_sp_tutorial_city.txt
-*  Unofficial_Patch_sound_weapons_tireiron_botch.wav
+*  Unofficial_Patch_sound_weapons_lockpicks_botch.wav
 *  Unofficial_Patch_vdata_hackterminals_asianvamp_laptop.txt
 *  Unofficial_Patch_vdata_hackterminals_beachouse_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_bertrams_computer.txt
@@ -934,7 +912,7 @@
 *  Vampire_maps_ch_hub_1.bsp
 *  Vampire_maps_ch_temple_3.bsp
 *  Vampire_maps_graphs_ch_hub_1.ain
-*  Vampire_maps_graphs_sp_ninesintro.ain
+*  Vampire_maps_graphs_la_malkavian_5.ain
 *  Vampire_maps_hw_ash_sewer_1.bsp
 *  Vampire_maps_hw_asphole_1.bsp
 *  Vampire_maps_hw_hub_1.bsp
@@ -992,7 +970,6 @@
 *  Vampire_pack010.vpk
 *  Vampire_pack101.vpk
 *  Vampire_pack102.vpk
-*  Vampire_python_demo_demo.pyc
 *  Vampire_resource_optionssubgameplay.res
 *  Vampire_resource_trackerscheme.res
 *  Vampire_scripts_liblist.gam
@@ -1168,7 +1145,6 @@
 *  [Ventrue_Female_Skin_by_Soya.zip](https://www.moddb.com/addons/start/259059)
 *  [Ventrue_Male_TrenchCoat_by_Shikamaru.rar](https://www.moddb.com/addons/start/259074)
 *  [Venus Retexture-16-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/16/?tab=files&file_id=22)
-*  Version.inf
 *  [Viking_Embraced.rar](https://www.moddb.com/addons/start/216674)
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
 *  [VTM_The_Final_Nights_1.6_HD_Full.exe](https://www.moddb.com/downloads/start/197397)
@@ -1176,8 +1152,6 @@
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
 *  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
-*  VTMBup-loader.txt
-*  VTMBup-readme.txt
 *  [VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1581)
 *  [VV_Posters-194-1-0-1636564291.7z](https://www.nexusmods.com/vampirebloodlines/mods/194/?tab=files&file_id=558)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)

@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2970)
+### Valid (2938)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -505,8 +505,6 @@
 *  [Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81409/?tab=files&file_id=493920)
 *  [CrashLogger-59818-1-24-0-1782605772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=769017)
 *  [CRDW AE 186434 1.1.4 2026-08-01T17-00Z RHaV1OFcs.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186434/?tab=files&file_id=784136)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Creep Cluster Collision Fixes-93260-1-1-0-1690423711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93260/?tab=files&file_id=411022)
 *  [Crime Bounty Decay SE-25457-1-1-1673525259.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25457/?tab=files&file_id=348839)
 *  [Crimson Ranger Armor - PBR-158181-1-0-1756653189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/158181/?tab=files&file_id=661116)
@@ -719,7 +717,6 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -905,7 +902,7 @@
 *  [Echelon - PBR-181447-1-1780344426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181447/?tab=files&file_id=758708)
 *  [eeekie's Real Delphine Redux-53890-1-0-1629054327.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53890/?tab=files&file_id=221436)
 *  [EFA Mouth SSE-19532-1-0-1542544522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19532/?tab=files&file_id=72700)
-*  [Effects 11 179824 1.0.0 2026-08-03T19-20Z Ks18n0h9u.zip](https://www.nexusmods.com/skyrimspecialedition/mods/179824/?tab=files&file_id=785098)
+*  [Effects 11 179824 1.0.0 2026-08-03T19-20Z Ks18n0h9u.zip](https://github.com/community-shaders/skyrim-community-shaders/releases/download/v1.8.0/Effects11-2026-08-03T18-59Z.zip)
 *  [EFM SE - Racemenu plugin-35785-1-0-1595174244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151142)
 *  [Eimars Edge PBR-171240-1-0-1-1779775334.zip](https://www.nexusmods.com/skyrimspecialedition/mods/171240/?tab=files&file_id=756370)
 *  [Elden Parry - Precision Compatibility Patch-115144-0-1-1711520035.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115144/?tab=files&file_id=484522)
@@ -1075,7 +1072,6 @@
 *  [Floating Crows Fix outside Abandoned Shack-146563-1-1743547285.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146563/?tab=files&file_id=612835)
 *  [Floating Subtitles 154424 3.3.4 2026-07-18T14-17Z uhRBKsSYG.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154424/?tab=files&file_id=778109)
 *  [FloatingSwordFollower.zip-89089-1-12-1718488241.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89089/?tab=files&file_id=511886)
-*  flowchartx64.dll
 *  [Fluffspansion - Optional ESPs-88138-1-0-1730339011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88138/?tab=files&file_id=557356)
 *  [Fluffworks - Auto Patches-64445-2-4-1772424160.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=727150)
 *  [Fluffworks - Dismembering Framework Patch-146339-1-1-1780971359.7z](https://www.nexusmods.com/skyrimspecialedition/mods/146339/?tab=files&file_id=761385)
@@ -1594,15 +1590,6 @@
 *  [Leveling Freedom - Settings Loader-90311-1-0-3-1687123361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90311/?tab=files&file_id=399051)
 *  [Leveling Freedom ESPFE-69589-0-B-1666405709.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69589/?tab=files&file_id=325656)
 *  [LEX Main File-153176-0-1-4-3-1764613685.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153176/?tab=files&file_id=693388)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr2.clx
-*  lex_ssceca.tlx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [LG - Apoc Odin and Other Patches 153665 1.1.7 2026-08-07T12-59Z 9LMpgbzV7.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153665/?tab=files&file_id=786546)
 *  [Light Magic VFX Edit-151787-1-2-1749074436.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151787/?tab=files&file_id=634631)
 *  [Light Placer-127557-4-2-1-1778212502.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127557/?tab=files&file_id=749822)
@@ -1822,7 +1809,7 @@
 *  [NFF Ignore Token - Shirley A Skyrim Follower-110040-1-0-1710864268.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110040/?tab=files&file_id=482219)
 *  [NGIO - NG (1.6.10) 42161 1.6.10 2026-07-31T03-16Z cE8hkASXb.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=783496)
 *  [Nibenean Armors and Outfit SE by Xtudo-50785-3-1623417069.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50785/?tab=files&file_id=208599)
-*  [NIF Preview-137741-0-4-3-1737472791.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137741/?tab=files&file_id=585907)
+*  [NIF Preview MO2-2.5.2-137741-0-5-1-1778773147.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137741/?tab=files&file_id=752232)
 *  [Niflheim Dragon Armor ESL-56859-1-00-1633845523.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56859/?tab=files&file_id=233856)
 *  [Nilheim - Quest Expansion-53792-1-14-1755291881.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=655965)
 *  [Nilheim QE - USSEP patch-53792-1-14-1755291955.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=655966)
@@ -1938,20 +1925,11 @@
 *  [OverlayFixAndOtherFixes 138586 1.74-prerelease 2026-06-24T09-02Z yIjvuhZDz.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138586/?tab=files&file_id=767498)
 *  [OxygenMeter2 FOMOD SSE AE640 AE1170-64532-1-0-7-1708856967.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=474315)
 *  [P.U.F - KrittaKitty's Realistic Horse Breeds-133076-3-0-1774817031.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133076/?tab=files&file_id=736459)
-*  p4com64.dll
 *  [Paarthurnax   Quest Expansion Patch 1.13-33084-1-5-6Patches-1780958095.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33084/?tab=files&file_id=761322)
 *  [Paarthurnax - Quest Expansion-51711-1-13-1779833493.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=756573)
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
 *  [Pandora Behaviour Engine v4.3.1-beta-133232-v4-3-1-beta-1776378314.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=742625)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
-*  Papyrus Compiler_antlr.runtime.dll
-*  Papyrus Compiler_Antlr3.Runtime.dll
-*  Papyrus Compiler_Antlr3.Utility.dll
-*  Papyrus Compiler_PapyrusAssembler.exe
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_PCompiler.dll
-*  Papyrus Compiler_ScriptCompile.bat
-*  Papyrus Compiler_StringTemplate.dll
 *  [Papyrus Extender 22854 6.4.3 2026-07-20T04-04Z OyYrPubih.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=778854)
 *  [Papyrus Tweaks 4.1.1-77779-4-1-1-1761101872.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=678973)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-6-1705639805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=462773)
@@ -2375,7 +2353,6 @@
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  [Skyrim's Unique Drinks-85824-1-1-1679359812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85824/?tab=files&file_id=370504)
-*  SkyrimReservedAddOnIndexes.txt
 *  [Skyrims Unique Treasures SE-5261-4-7-1703367806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=454562)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
@@ -2652,15 +2629,6 @@
 *  [TomatoRim PBR - ECSS Landscapes-177621-1-0-PBR-1776786269.7z](https://www.nexusmods.com/skyrimspecialedition/mods/177621/?tab=files&file_id=744324)
 *  [TomatoRim PBR - Landscapes 2K-177621-1-6-PBR-1778862888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/177621/?tab=files&file_id=752604)
 *  [TomatoRim PBR - Northern Roads-177621-1-0-PBR-1776786266.7z](https://www.nexusmods.com/skyrimspecialedition/mods/177621/?tab=files&file_id=744322)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_readme.txt
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
-*  Tools_LipGen_LipFuzer_LIPFuzer.exe
-*  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_RoboVoicer.exe
 *  [TotTB - Artifacts of Boethiah - Creation Club Patch-66015-1-1-1649721276.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66015/?tab=files&file_id=276532)
 *  [Tournament of the Ten Bloods 2.1-15264-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15264/?tab=files&file_id=51382)
 *  [Trade and Barter - Settings Loader-57926-2-0-1-1738836219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57926/?tab=files&file_id=591681)

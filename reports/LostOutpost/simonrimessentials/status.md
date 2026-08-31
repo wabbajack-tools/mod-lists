@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (273)
+### Valid (243)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adamant - A Perk Overhaul 30191 6.0.4 2026-08-19T20-58Z Z3mWyIsKY.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=792101)
@@ -53,44 +53,14 @@
 *  [Custom Skills Framework-41780-3-1-0-1714511162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41780/?tab=files&file_id=496520)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
-*  Data_ccafdsse001-dwesanctuary.bsa
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse005-goldbrand.bsa
-*  Data_ccbgssse016-umbra.bsa
-*  Data_ccbgssse020-graycowl.bsa
-*  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
-*  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse038-bowofshadows.bsa
-*  Data_ccbgssse040-advobgobs.bsa
-*  Data_ccbgssse041-netchleather.bsa
-*  Data_ccbgssse045-hasedoki.bsa
-*  Data_ccbgssse051-ba_daedricmail.bsa
-*  Data_ccbgssse053-ba_leather.bsa
-*  Data_ccbgssse055-ba_orcishscaled.bsa
-*  Data_ccbgssse056-ba_silver.bsa
-*  Data_ccbgssse057-ba_stalhrim.bsa
-*  Data_ccbgssse062-ba_dwarvenmail.bsa
-*  Data_ccbgssse063-ba_ebony.bsa
-*  Data_ccbgssse064-ba_elven.bsa
-*  Data_ccbgssse067-daedinv.bsa
-*  Data_ccedhsse002-splkntset.bsa
-*  Data_ccedhsse003-redguard.bsa
-*  Data_cceejsse005-cave.bsa
-*  Data_ccffbsse001-imperialdragon.bsa
-*  Data_cckrtsse001_altar.bsa
-*  Data_ccmtysse002-ve.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
-*  Data_cctwbsse001-puzzledungeon.bsa
-*  Data_ccvsvsse002-pets.bsa
-*  Data_ccvsvsse003-necroarts.bsa
-*  Data_ccvsvsse004-beafarmer.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
