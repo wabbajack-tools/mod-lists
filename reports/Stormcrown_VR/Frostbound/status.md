@@ -4,7 +4,8 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (362)
+### Valid (370)
+*  [1.6.1170 Missing Files 189279 2 2026-08-22T19-39Z L5WQbqheO.7z](https://www.nexusmods.com/skyrimspecialedition/mods/189279/?tab=files&file_id=793499)
 *  [3rd Person Camera Stagger Remover-25316-1-1556164319.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25316/?tab=files&file_id=89592)
 *  [A. Tween Menu Overhaul - Classic-143275-1-1-1748014644.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143275/?tab=files&file_id=630292)
 *  [Accuracy - Latest Version 187578 1.0.0 2026-08-07T23-01Z RHaV1OGJ2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/187578/?tab=files&file_id=786740)
@@ -67,6 +68,7 @@
 *  [College of Winterhold - Quest Expansion-66666-1-16-1744547275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=616798)
 *  [CoMAP-56123-4-4-0-1779986964.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=757156)
 *  [Community Shaders 86492 1.8.3 2026-08-07T18-54Z n0oTCm8m2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=786669)
+*  [Community Shaders 86492 1.8.4 2026-08-27T00-05Z pQ0AZ3BNB.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=795658)
 *  [Compass Navigation Overhaul-74484-2-2-0-1710712304.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=481665)
 *  [Console Commands Extender - 1.6.1130 Update-74390-1-12-0-1704159838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74390/?tab=files&file_id=457109)
 *  [ConsolePlusPlus-79975-1-5-0-1759958106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79975/?tab=files&file_id=673750)
@@ -82,10 +84,15 @@
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
 *  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
 *  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
+*  Data_Dawnguard.esm
+*  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
@@ -105,6 +112,7 @@
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
+*  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Death Drop Overhaul - Latest Version 151590 1.3.2 2026-07-16T13-57Z FpnkHZPPg.zip](https://www.nexusmods.com/skyrimspecialedition/mods/151590/?tab=files&file_id=777198)
 *  Debug.log
@@ -125,7 +133,6 @@
 *  [DynDOLOD 3.00-68518-Alpha-203-1778566832.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=751283)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-41-1778434637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=750750)
 *  [DynDOLOD Output - Performance 181414 0.2.0 2026-07-13T19-30Z PuQ2UKast.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181414/?tab=files&file_id=775768)
-*  [DynDOLOD Output - Performance-181414-0-1-0-1780690772.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181414/?tab=files&file_id=759894)
 *  [DynDOLOD Output - Quality 181414 0.2.0 2026-07-13T19-30Z L5WQbqcTc.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181414/?tab=files&file_id=775767)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-59-1777722398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=747879)
 *  [ElSopa - Animated Celtic Icons 1.2-22938-1-2-1548636212.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22938/?tab=files&file_id=79827)
@@ -348,6 +355,7 @@
 *  [Ultimate Optimized Scripts Compilation-122999-1-83-1773848722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122999/?tab=files&file_id=732690)
 *  Ultra.ini
 *  [Unaggressive Dragon Priests Fix-69026-1-3-1-1714315952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69026/?tab=files&file_id=495656)
+*  [Unique Region Name Framework (SKSE) - AE 190139 1.0.1.0 2026-08-31T09-34Z QRde31F4p.7z](https://www.nexusmods.com/skyrimspecialedition/mods/190139/?tab=files&file_id=798042)
 *  [Unofficial Material Fix-21027-1-18-0-1743165030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=610851)
 *  [Unofficial Skyrim Special Edition Patch-266-4-3-8a-1774132896.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=733846)
 *  [Upscaling.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156952/?tab=files&file_id=758189)
