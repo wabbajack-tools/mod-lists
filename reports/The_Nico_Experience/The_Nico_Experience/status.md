@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2509)
+### Valid (2506)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -517,8 +517,6 @@
 *  [CRDW SE 186434 1.1.4 2026-08-01T17-04Z PuQ2UKyWP.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186434/?tab=files&file_id=784138)
 *  [Creation Club Patch-96150-1-0-1689725650.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96150/?tab=files&file_id=408395)
 *  [Creation Kit Custom-23894-1-0-1553184339.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23894/?tab=files&file_id=85718)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [CritterSpawn - Script Call Reduction-141745-2-0-1760993327.zip](https://www.nexusmods.com/skyrimspecialedition/mods/141745/?tab=files&file_id=678547)
 *  [Crouch Sliding Main-39157-1-1597512428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155804)
 *  [Crows and Ravens (SE-AE)-98555-1-1692315713.rar](https://www.nexusmods.com/skyrimspecialedition/mods/98555/?tab=files&file_id=418076)
@@ -697,7 +695,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -706,6 +703,7 @@
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -1887,6 +1885,8 @@
 *  [Reverb Interior Sound Expansion Patch-90417-1-5-1693912599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90417/?tab=files&file_id=423463)
 *  [Reverb Interior Sounds Expansion (1.5.0)-77947-1-5-0-1675142342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77947/?tab=files&file_id=354860)
 *  [Reversed Dual Dagger Moveset For MCO-82543-1-0-1673466208.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82543/?tab=files&file_id=348681)
+*  [Ricochet Framework - Latest Version 160603 1.1.2 2026-08-16T03-58Z Dc5uGkrQy.zip](https://www.nexusmods.com/skyrimspecialedition/mods/160603/?tab=files&file_id=790593)
+*  [Ricochet Framework - MCM menu 160603 MCM-02 2026-08-01T18-19Z IoFlhf1X8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/160603/?tab=files&file_id=784170)
 *  [Riekling Animation-82974-1-0-1674114968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82974/?tab=files&file_id=350971)
 *  [Riekling Barrels SMIM-43306-0-1-1607862251.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43306/?tab=files&file_id=174353)
 *  [Riellata Overlays for 3BA-114275-1-0-1710719089.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114275/?tab=files&file_id=481698)
@@ -2073,7 +2073,6 @@
 *  [skyrim-freeze-fix-160704-0-0-4-1760281302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=675181)
 *  Skyrim.ccc
 *  [Skyrim's Paraglider - ZERO(Plus)-133280-2-0-1731804918.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133280/?tab=files&file_id=563091)
-*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
@@ -2338,8 +2337,6 @@
 *  [TNE_CC_SnS Bow and Arrow Replacer-105031-1-0-1745976225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=622255)
 *  [TNTR-107836-0-50-1730387290.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107836/?tab=files&file_id=557474)
 *  [Tools not weapons DAR animations-70117-1-5-1661621282.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70117/?tab=files&file_id=310837)
-*  Tools_AssetWatcher_styles_qwindowsvistastyle.dll
-*  Tools_HavokBehaviorPostProcess_readme.txt
 *  [Torch Cremation SE (esl and bash)-59203-2-0-1639605027.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59203/?tab=files&file_id=249445)
 *  [Torches Ignite Oil-13226-1-01.rar](https://www.nexusmods.com/skyrimspecialedition/mods/13226/?tab=files&file_id=53789)
 *  [Tower lods for medieval forts of skyrim-83582-1-1674808259.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83582/?tab=files&file_id=353468)

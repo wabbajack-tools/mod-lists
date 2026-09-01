@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1662)
+### Valid (1656)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [00 - AE - Anniversary Edition Patch-63640-1-5-3-1697376793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=434195)
 *  [00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=282528)
@@ -441,7 +441,6 @@
 *  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
-*  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures1.bsa
@@ -452,8 +451,6 @@
 *  Data_Skyrim - Textures6.bsa
 *  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Textures8.bsa
-*  Data_Skyrim - Voices_en0.bsa
-*  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Dawnguard Armors and Weapons Retexture SE-Half Res-92161-1-0-1685046171.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391871)
@@ -736,7 +733,6 @@
 *  [High Quality Ivy Replacer for Falkreath-111770-1-0-1710485030.rar](https://www.nexusmods.com/skyrimspecialedition/mods/111770/?tab=files&file_id=480704)
 *  [High Quality Ivy-113578-1-35-1742119283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=606234)
 *  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
-*  High.ini
 *  [HIMBO NordwarUA - New Legion-53308-2-1-1749560461.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53308/?tab=files&file_id=636519)
 *  [HIMBO Patch-126327-HIMBO-1-0-0-1724122081.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126327/?tab=files&file_id=533390)
 *  [Hircine Revoiced-147721-1-0-1744684813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147721/?tab=files&file_id=617420)
@@ -799,7 +795,6 @@
 *  [Innocence Lost - Quest Expansion-80974-1-12-1747555025.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=628376)
 *  [Input Manager-174545-1-0-4-1779559852.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174545/?tab=files&file_id=755448)
 *  [Installer_AnimatedWaterLilySE-75407-v1-2-1680189907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75407/?tab=files&file_id=373358)
-*  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
 *  [Inverse Kinematics - Feet of Skyrim 184979 4 2026-07-13T17-58Z UK35Xnz0d.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184979/?tab=files&file_id=775747)
 *  [Inverse Kinematics - Feet of Skyrim 184979 6 2026-07-17T00-10Z IoFlhf040.zip](https://www.nexusmods.com/skyrimspecialedition/mods/184979/?tab=files&file_id=777536)
@@ -1365,7 +1360,6 @@
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
 *  [Skyrim Souls RE - Unpaused Menus-27859-3-1-2-1779355258.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=754726)
 *  [Skyrim Unbound Reborn-27962-3-0-16-1-1780137569.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=757821)
-*  Skyrim_Default.ini
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve As a Bard-50357-1-76-1725712975.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=539633)
 *  SkyrimSE.exe
