@@ -2,6 +2,24 @@
 
 The validation re-runs those every 4 hours or when a pull requestis merged into the main branch of this repository.
 
+## Wasteland_Genesis
+
+`RepoMachineURL`:`Wasteland_Genesis`
+
+`GithubURL`:`https://raw.githubusercontent.com/FirebirdGaming/wasteland-genesis-modlist/main/modlists.json`
+
+Failed due to the following Error:
+```
+Xunit.Sdk.FailException: Unable to Validate "https://raw.githubusercontent.com/FirebirdGaming/wasteland-genesis-modlist/main/modlists.json". Due to the following Error:
+Xunit.Sdk.TrueException: Modlist has no valid Download Url (Unable to create Uri)! ("Skadi's Veil")
+   at Xunit.Assert.True(Nullable`1 condition, String userMessage) in /_/src/xunit.assert/Asserts/BooleanAsserts.cs:line 141
+   at Xunit.Assert.True(Boolean condition, String userMessage) in /_/src/xunit.assert/Asserts/BooleanAsserts.cs:line 123
+   at ModlistValidation.TestModlists.ValidateIndividualModlists(List`1 modlists) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 197
+   at ModlistValidation.TestModlists.TestRepositories(String file) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 114
+   at Xunit.Assert.Fail(String message) in /_/src/xunit.assert/Asserts/FailAsserts.cs:line 38
+   at ModlistValidation.TestModlists.TestRepositories(String file) in /home/runner/work/mod-lists/mod-lists/Validation/ModlistValidation/TestModlists.cs:line 118
+```
+
 ## Just_Another_Requiem_List
 
 `RepoMachineURL`:`Just_Another_Requiem_List`
