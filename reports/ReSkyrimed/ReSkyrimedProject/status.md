@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1656)
+### Valid (1657)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [00 - AE - Anniversary Edition Patch-63640-1-5-3-1697376793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=434195)
 *  [00 - Skyrim Horse Overhaul SE - by zzjay-63640-1-5-2-1652115555.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=282528)
@@ -451,6 +451,7 @@
 *  Data_Skyrim - Textures6.bsa
 *  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Textures8.bsa
+*  Data_Skyrim - Voices_en0.bsa
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [Dawnguard Armors and Weapons Retexture SE-Half Res-92161-1-0-1685046171.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391871)
