@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1160)
+### Valid (1150)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -81,7 +81,6 @@
 *  [DXVK and DLLs-234-2-1-1764416548.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1388)
 *  [Dzengrave Brujah-380-2-1763535180.rar](https://www.nexusmods.com/vampirebloodlines/mods/380/?tab=files&file_id=1378)
 *  [E Mesh Edit-238-1-1-1671997987.7z](https://www.nexusmods.com/vampirebloodlines/mods/238/?tab=files&file_id=691)
-*  EULA.txt
 *  [Executable Icon Fixer.7z](https://www.nexusmods.com/site/mods/1996/?tab=files&file_id=8185)
 *  [Fashionista Main Menu-365-0-0-1-1761803218.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1323)
 *  [Fem Joker Malkavian Skin-44-.zip](https://www.nexusmods.com/vampirebloodlines/mods/44/?tab=files&file_id=110)
@@ -99,13 +98,6 @@
 *  [Gangrel_Male_by_Kenny_Willian.zip](https://www.moddb.com/addons/start/233356)
 *  [Gangrel_Male_Reskin.zip](https://www.moddb.com/addons/start/25615)
 *  [Gerri Dandridge (Fright Night 2 New Blood) for Ventrue-50-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/50/?tab=files&file_id=126)
-*  gog.ico
-*  goggame-1207659240.hashdb
-*  goggame-1207659240.ico
-*  goggame-1207659240.info
-*  goggame-1207659240.script
-*  goggame-galaxyFileList.ini
-*  goglog.ini
 *  [Golden_Rose_v1.5.7z](https://www.moddb.com/addons/start/299724)
 *  [HandsomeNosferatu.1.rar](https://www.moddb.com/addons/start/174198)
 *  [HD Grounds morestuff-34-v1-2.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=75)
@@ -123,7 +115,6 @@
 *  [Lasombra_Ventrue_carbon_skin_By_3Dell.zip](https://www.moddb.com/addons/start/126593)
 *  [Latex Dictator Malkavian-285-1-0-1701728128.zip](https://www.nexusmods.com/vampirebloodlines/mods/285/?tab=files&file_id=910)
 *  [latex_toreador_v1.rar](https://www.moddb.com/addons/start/17508)
-*  Launch Vampire - The Masquerade - Bloodlines.lnk
 *  [Libertarian Ventrue-317-1-0-1719329227.zip](https://www.nexusmods.com/vampirebloodlines/mods/317/?tab=files&file_id=1013)
 *  [Lily UV map fix-237-1-1671754711.7z](https://www.nexusmods.com/vampirebloodlines/mods/237/?tab=files&file_id=688)
 *  Loader.dll
@@ -158,7 +149,7 @@
 *  [MistressNosferatu-221-2-0-1654877333.rar](https://www.nexusmods.com/vampirebloodlines/mods/221/?tab=files&file_id=624)
 *  [MO2 Plugin-365-1-0-1764835640.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1402)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
-*  [Model Texture Separation 3 3-234-2-2-1774103372.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1521)
+*  [Model Texture Separation 3 3 234 2.4 2026-08-27T17-24Z UIdbpgeI.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1601)
 *  [ModernTorFemale(Fixed)-192-2-1a-1634819804.zip](https://www.nexusmods.com/vampirebloodlines/mods/192/?tab=files&file_id=557)
 *  [Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1267)
 *  [Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1265)
@@ -184,6 +175,9 @@
 *  [NPCs Improved-165-1-1778299042.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1540)
 *  [NPCs_Improved_27_kxJn5Xgp.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1563)
 *  [NPFO_1.3.zip](https://www.moddb.com/addons/start/195881)
+*  [NSFW Poster Pack 411 1 2026-08-02T11-37Z kxJn5XH0.rar](https://www.nexusmods.com/vampirebloodlines/mods/411/?tab=files&file_id=1584)
+*  [NSFW Poster Pack Ming Alternative 411 2 2026-08-03T18-20Z Lv4ZkH6T.rar](https://www.nexusmods.com/vampirebloodlines/mods/411/?tab=files&file_id=1587)
+*  [NSFW Poster Pack Yukie Alternative 411 1 2026-08-03T16-20Z SgkhvuzF.rar](https://www.nexusmods.com/vampirebloodlines/mods/411/?tab=files&file_id=1586)
 *  [Only Characters-234-2-1-1764417380.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1391)
 *  [Optional Art and Immersion-234-2-2-1770217647.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1488)
 *  [overhauled first-person hands models-271-1-1-1695148376.zip](https://www.nexusmods.com/vampirebloodlines/mods/271/?tab=files&file_id=876)
@@ -245,10 +239,6 @@
 *  [truefolder-170925-2-1769521737.zip](https://www.nexusmods.com/skyrimspecialedition/mods/170925/?tab=files&file_id=714240)
 *  [UI UX Separation-234-2-1-1764417426.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1392)
 *  [Underworld Selene for Brujah-33-1.rar](https://www.nexusmods.com/vampirebloodlines/mods/33/?tab=files&file_id=64)
-*  unins000.dat
-*  unins000.exe
-*  unins000.ini
-*  unins000.msg
 *  [Uninterrupted BGM-303-1-0-0-1715531411.7z](https://www.nexusmods.com/vampirebloodlines/mods/303/?tab=files&file_id=988)
 *  [Unique_Gangrel.zip](https://www.moddb.com/addons/start/177681)
 *  [Unofficial Patch-324-1-0-1722433956.zip](https://www.nexusmods.com/vampirebloodlines/mods/324/?tab=files&file_id=1051)
@@ -1136,6 +1126,7 @@
 *  [vampire_ventrue_-_toreador_beard_male.rar](https://www.moddb.com/addons/start/180082)
 *  [vampire_ventrue_female.rar](https://www.moddb.com/addons/start/220023)
 *  Vampire.exe
+*  [VampireGamepad 410 1 2026-08-08T11-26Z KoaqQbV4.zip](https://www.nexusmods.com/vampirebloodlines/mods/410/?tab=files&file_id=1588)
 *  [vampires males pack-229-1-1663703248.rar](https://www.nexusmods.com/vampirebloodlines/mods/229/?tab=files&file_id=655)
 *  [Ventrue  by Marius217-187-1-1630179822.rar](https://www.nexusmods.com/vampirebloodlines/mods/187/?tab=files&file_id=547)
 *  [Ventrue female reskin-277-v1-1697582925.7z](https://www.nexusmods.com/vampirebloodlines/mods/277/?tab=files&file_id=891)
@@ -1149,6 +1140,7 @@
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
 *  [VTM_The_Final_Nights_1.6_HD_Full.exe](https://www.moddb.com/downloads/start/197397)
 *  [VtmB Antitribu Lasombra black clothes-248-1-0-1678275328.rar](https://www.nexusmods.com/vampirebloodlines/mods/248/?tab=files&file_id=745)
+*  [VTMB HD Overhaul Complete 234 2.4 2026-08-27T17-21Z UIdbpgeC.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1599)
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
 *  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
@@ -1158,9 +1150,7 @@
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
 *  [War_Games.exe](https://www.moddb.com/downloads/start/304323)
 *  [Warrior_Wolf_Gangrel.rar](https://www.moddb.com/addons/start/179930)
-*  webcache.zip
-*  [World Texture Separation 1 3-234-2-2-1774102944.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1519)
-*  [World Texture Separation 2 3-234-2-2-1774102825.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1518)
+*  [World Texture Separation 1 3 234 2.4 2026-08-27T17-20Z cTVK2UF3.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1598)
 *  [X20 Scripts-103-1-13-1691551157.zip](https://www.nexusmods.com/vampirebloodlines/mods/103/?tab=files&file_id=848)
 *  [X20 Textures (formerly Basic)-103-1-13-1691551056.zip](https://www.nexusmods.com/vampirebloodlines/mods/103/?tab=files&file_id=847)
 *  [YAMR.7z](https://www.moddb.com/addons/start/176262)
