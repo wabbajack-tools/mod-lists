@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3778)
+### Valid (3769)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
@@ -216,7 +216,7 @@
 *  [Alternate Texture - Dirtier-132480-1-0-1-1730313257.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132480/?tab=files&file_id=557241)
 *  [Alternative Armors Complex Material-139065-1-3-0-1771994391.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139065/?tab=files&file_id=725498)
 *  [Alternative shader flags-171447-1-1770055855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/171447/?tab=files&file_id=716558)
-*  [AMON ENB For NAT III 2026 99786 10 2026-07-12T18-25Z 2Bej58S5W.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99786/?tab=files&file_id=775265)
+*  [Amon Enb Reborn For NAT 3 LUX 2026 99786 1 2026-08-31T12-18Z s6Og0dUaN.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99786/?tab=files&file_id=798084)
 *  [Amon NAT III Esp Fix-99786-2-1737327807.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99786/?tab=files&file_id=585300)
 *  [Amulet of Dibella by Ave-132737-1-0-3-1731851971.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132737/?tab=files&file_id=563246)
 *  [An Abstract Falkreath - The Ruined Kingdom-107946-1-0-1703798505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107946/?tab=files&file_id=455881)
@@ -908,7 +908,6 @@
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
-*  Data_Video_BGS_Logo.bik
 *  [Daughters of Malacath-83362-final-1678851700.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83362/?tab=files&file_id=368674)
 *  [Dawnfire NAT3 ENB - Addon-175076-1-0-1773934954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175076/?tab=files&file_id=732998)
 *  [Dawnfire NAT3 ENB - Reborn-175076-1-0-1773934908.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175076/?tab=files&file_id=732995)
@@ -961,7 +960,6 @@
 *  [Death Idle Fix - Latest Version-152344-1-0-1-1756249769.zip](https://www.nexusmods.com/skyrimspecialedition/mods/152344/?tab=files&file_id=659582)
 *  [DeathKnight-146179-1-0-1744206258.7z](https://www.nexusmods.com/skyrimspecialedition/mods/146179/?tab=files&file_id=615479)
 *  [DeathSpiral 185602 1.4 2026-08-23T20-33Z VMSnJrQyI.zip](https://www.nexusmods.com/skyrimspecialedition/mods/185602/?tab=files&file_id=794042)
-*  Debug.log
 *  [Deep Slumber - A Dwemer Bed Replacer(LessPoly)-165691-1-0-1764336629.rar](https://www.nexusmods.com/skyrimspecialedition/mods/165691/?tab=files&file_id=692167)
 *  [Deep Slumber - BOS Distributed UTB patch-131560-1-0-4-1748467812.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131560/?tab=files&file_id=632335)
 *  [Deep Slumber - BOS Distributed-131560-1-0-4-1748467705.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131560/?tab=files&file_id=632331)
@@ -1707,8 +1705,7 @@
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Priests of Skyrim - Main Files-174870-1-0-1773838253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174870/?tab=files&file_id=732642)
 *  [High Quality Ivy-113578-1-35-1742119283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=606234)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/[Dint999] HairPack02 SSE 1.11 (base).7z_6fe2f169-87f6-4cd6-b88b-f4e40911237b)
-*  High.ini
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_e8083e7e-ea7c-489c-b62e-a2928768841b)
 *  [Higher Poly Dragon Skeleton - Simplicity Of Snow-94508-1-0-1688123687.rar](https://www.nexusmods.com/skyrimspecialedition/mods/94508/?tab=files&file_id=402435)
 *  [Higher Poly Vanilla Burnt Corpses-150421-1-1-1778182180.rar](https://www.nexusmods.com/skyrimspecialedition/mods/150421/?tab=files&file_id=749730)
 *  [Higher Poly Vanilla Dragon Skeleton _ Parallax-94508-1-5-1709401803.rar](https://www.nexusmods.com/skyrimspecialedition/mods/94508/?tab=files&file_id=476310)
@@ -1853,7 +1850,6 @@
 *  [Input Manager 174545 1.1.0 2026-08-08T23-26Z bqv3tSQPz.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174545/?tab=files&file_id=787218)
 *  [Inquisitor Armor - SE by Xtudo - FIXES 4K-143410-1-1740959133.7z](https://www.nexusmods.com/skyrimspecialedition/mods/143410/?tab=files&file_id=601171)
 *  [Inquisitor Armor-73980-1-1-1661465686.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73980/?tab=files&file_id=310377)
-*  installscript.vdf
 *  [Intuitive Weaknesses And Resistances - TDB Patch 136238 1 2026-08-03T19-28Z lNkz9LJCy.rar](https://www.nexusmods.com/skyrimspecialedition/mods/136238/?tab=files&file_id=785105)
 *  [Intuitive Weaknesses and Resistances 136238 1.2 2026-08-03T19-25Z 6XybdaU5L.rar](https://www.nexusmods.com/skyrimspecialedition/mods/136238/?tab=files&file_id=785103)
 *  [IntuitiveQuickStart-181066-1-0-0-1779925578.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181066/?tab=files&file_id=756891)
@@ -2144,7 +2140,6 @@
 *  [Lovely Makeup 2K-94271-1-0-1687994578.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94271/?tab=files&file_id=402036)
 *  [LOVERBOY EYES-82650-1-1673608714.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82650/?tab=files&file_id=349132)
 *  [Low stance only-164549-1-0-3-1776971205.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164549/?tab=files&file_id=745058)
-*  Low.ini
 *  [LoY - SE by Xtudo - Artificer Wuuthrad and Shield-111121-1-4-1707854482.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111121/?tab=files&file_id=470509)
 *  [LoY - SE by Xtudo - Fixes - Standalone version-111121-1-1707316092.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111121/?tab=files&file_id=468614)
 *  [LoY - SE by Xtudo - Fixes - Wolf Brown 2K-111121-1-2-1707516464.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111121/?tab=files&file_id=469358)
@@ -2280,7 +2275,6 @@
 *  [Medieval Wine HD - My version SE by Xtudo - 2K-96830-1-1-1704636462.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96830/?tab=files&file_id=458832)
 *  [Medieval Wine HD - My version SE by Xtudo - EAaS-96830-1-1690460920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96830/?tab=files&file_id=411127)
 *  [Medium Textures-41118-1-0-1601840424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41118/?tab=files&file_id=163924)
-*  Medium.ini
 *  [Mehrunes Dagon - Heads Replacer SE by Xtudo-133386-1-1730989526.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133386/?tab=files&file_id=559774)
 *  [Mehrunes Dagon Unique Shrine-133264-0-1-2-1730856188.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133264/?tab=files&file_id=559364)
 *  [Mehrunes Dagon's Shrine Unlocked - FOMOD Installer-119502-4-4-1721150806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/119502/?tab=files&file_id=521854)
@@ -3118,8 +3112,6 @@
 *  [Skyrim Unbound Reborn - COTN Dawnstar Patch-68994-1-0-0-1654168159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68994/?tab=files&file_id=288273)
 *  [Skyrim Unbound Reborn - COTN Falkreath Patch-68994-1-0-0-1654168072.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68994/?tab=files&file_id=288271)
 *  [Skyrim Unbound Reborn 27962 3.0.17 2026-07-09T06-52Z uhRBKsrCN.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=773521)
-*  Skyrim_Default.ini
-*  Skyrim_SkyrimPrefs.ini
 *  [skyrim-freeze-fix-160704-0-0-4-1760281302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=675181)
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Adamant Synergy 101206 1.1.0 2026-08-16T09-07Z 6XybdapSJ.zip](https://www.nexusmods.com/skyrimspecialedition/mods/101206/?tab=files&file_id=790683)
@@ -3493,7 +3485,6 @@
 *  [Ultimate Animated Potions NG-97674-2-8-1739367782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97674/?tab=files&file_id=593730)
 *  [Ultimate Markarth - Lamps Addon-134454-1-1732130814.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134454/?tab=files&file_id=564329)
 *  [Ultimate Optimized Scripts Compilation-122999-1-83-1773848722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122999/?tab=files&file_id=732690)
-*  Ultra.ini
 *  [Unclench - A Behavior Fix-117695-1-0-1714089890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117695/?tab=files&file_id=494821)
 *  [Undead Snow Elves (se-ae)-87023-1-1678811650.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87023/?tab=files&file_id=368464)
 *  [undead werewolves (se-ae) 1.1-44466-1-1-1694953109.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44466/?tab=files&file_id=426633)
