@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2165)
+### Valid (2164)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [00 - ArgKha Mouth Fix - SE-96952-1-2-1690982901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96952/?tab=files&file_id=413435)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
@@ -1771,7 +1771,6 @@
 *  [skyrim-freeze-fix-160704-0-0-4-1760281302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160704/?tab=files&file_id=675181)
 *  Skyrim.ccc
 *  [SkyrimOutfitEquipmentSystemNG-147011-1-0-4-1744173905.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147011/?tab=files&file_id=615397)
-*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyTitties All-In-One-86440-1-1678525672.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86440/?tab=files&file_id=367412)

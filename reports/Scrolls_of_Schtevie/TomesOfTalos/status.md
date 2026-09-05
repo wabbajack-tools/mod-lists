@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3388)
+### Valid (3385)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -814,7 +814,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -2713,7 +2712,6 @@
 *  [Skyrim's Paraglider - ONE-134795-3-0-1740020728.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134795/?tab=files&file_id=596783)
 *  [Skyrim's Paraglider Anniversary Edition-71123-1-11-0-1704159999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=457113)
 *  [SkyrimOutfitEquipmentSystemNG-147011-1-0-4-1744173905.zip](https://www.nexusmods.com/skyrimspecialedition/mods/147011/?tab=files&file_id=615397)
-*  SkyrimReservedAddOnIndexes.txt
 *  [Skyrims Unique Treasures SE-5261-4-7-1703367806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=454562)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
@@ -3060,7 +3058,6 @@
 *  [Tomato's Wood Overhaul 2K-115201-2-2-1719177163.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115201/?tab=files&file_id=514305)
 *  [Tonal Architect 1.0.0-51199-1-0-0-1623873919.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51199/?tab=files&file_id=209466)
 *  [Tools of Kagrenac - Forgotten Cities Patch-92206-1-1685109536.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92206/?tab=files&file_id=392058)
-*  Tools_HavokBehaviorPostProcess_readme.txt
 *  [Tops And Bottoms - Casual Pirate Separated-142288-1-1-2-1748496958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142288/?tab=files&file_id=632435)
 *  [Tops And Bottoms - Common Clothing Expansion-136007-1-2-1-1738496344.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136007/?tab=files&file_id=590194)
 *  [Tops And Bottoms - Winged Hussar Armor-131319-1-3-1-1736273473.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131319/?tab=files&file_id=580429)
