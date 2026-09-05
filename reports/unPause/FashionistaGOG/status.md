@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1023)
+### Valid (1028)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -14,14 +14,13 @@
 *  [asian_gangrel.zip](https://www.moddb.com/addons/start/17574)
 *  [asian_purple_malkavian_girl.zip](https://www.moddb.com/addons/start/17689)
 *  [ATM_crash_fix_v2.7z](https://www.moddb.com/downloads/start/97264)
+*  [BAEO_patch_1.0a.rar](https://www.moddb.com/downloads/start/315152)
 *  [BAEO.rar](https://www.moddb.com/downloads/start/313720)
 *  [Barabbah Addon - Repack.7z](https://authored-files.wabbajack.org/Barabbah Addon - Repack.7z_5b9970da-5ccf-431c-8db2-68df4e9174ee)
-*  [Barabbah's Addon (archive version)-157-7-9-9-1774715638.7z](https://www.nexusmods.com/vampirebloodlines/mods/157/?tab=files&file_id=1526)
-*  [Barabbah's Addon 7.9.9 (Radio Update)-157-7-9-9-rad-up-1779111459.7z](https://www.nexusmods.com/vampirebloodlines/mods/157/?tab=files&file_id=1543)
+*  [Barabbahs_Addon_7.9.9b.exe](https://www.moddb.com/downloads/start/291987)
 *  [Beautiful Monster - Female Hands Retexture-74-1-1548960681.zip](https://www.nexusmods.com/vampirebloodlines/mods/74/?tab=files&file_id=169)
 *  [BeautifulMonsterRedux.rar](https://www.moddb.com/addons/start/17687)
 *  [Bimbo Nosferatu by katr-224-1-1659276458.rar](https://www.nexusmods.com/vampirebloodlines/mods/224/?tab=files&file_id=640)
-*  Bin_loader_bugs_fix.ini
 *  [Black-haired_Toreador_reskin.zip](https://www.moddb.com/addons/start/257201)
 *  [Blonde_Malkavian.zip](https://www.moddb.com/addons/start/32806)
 *  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
@@ -29,6 +28,7 @@
 *  [Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=997)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
 *  [BLOODLINES_EXTREME_2.1.4 - Repack.zip](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_2.1.4 - Repack.zip_a7a586cc-a234-4750-8b59-7fcbd0b571eb)
+*  [BLOODLINES_EXTREME_2.1.4.zip](https://www.moddb.com/downloads/start/132997)
 *  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
 *  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
@@ -74,9 +74,37 @@
 *  [Deranged_Darling.zip](https://www.moddb.com/addons/start/102284)
 *  [Devilspawn Fleshfeast - Horror Tape Reskin(s)-107-1-0-1563029064.zip](https://www.nexusmods.com/vampirebloodlines/mods/107/?tab=files&file_id=254)
 *  Docs_Help__borders_left.htm
+*  Docs_Help__borders_side_ie.css
+*  Docs_Help__borders_style_ie.css
+*  Docs_Help__borders_top_files_atvi.jpg
+*  Docs_Help__borders_top_files_filelist.xml
+*  Docs_Help__borders_top_files_image004.png
+*  Docs_Help__borders_top_files_oledata.mso
+*  Docs_Help__borders_top.htm
+*  Docs_Help_Compatibility_msr.htm
 *  Docs_Help_Credits_credits.htm
+*  Docs_Help_Default.htm
+*  Docs_Help_images_Activision.jpg
+*  Docs_Help_images_ATVIsmall_invert.jpg
+*  Docs_Help_images_ATVIsmall.jpg
+*  Docs_Help_images_troika.gif
+*  Docs_Help_images_Vamp.gif
+*  Docs_Help_images_White_Wolf.jpg
+*  Docs_Help_images_yellowstripe.jpg
+*  Docs_Help_index.htm
 *  Docs_Help_License_license.htm
+*  Docs_Help_Manual_manual_US.pdf
+*  Docs_Help_Tech Help_Customer Support_Customer_support_files_filelist.xml
+*  Docs_Help_Tech Help_Customer Support_Customer_support_files_header.htm
+*  Docs_Help_Tech Help_Customer Support_Customer_support.htm
+*  Docs_Help_Tech Help_Default.htm
+*  Docs_Help_Tech Help_Information_Audio_Problems.htm
+*  Docs_Help_Tech Help_Information_autoplay.htm
+*  Docs_Help_Tech Help_Information_DirectX.htm
+*  Docs_Help_Tech Help_Information_Electronic_Registration.htm
+*  Docs_Help_Tech Help_Information_Installing_the_game_to_a_compressed_hard_drive.htm
 *  Docs_Help_Tech Help_Information_Sound_Card_Conflicts.htm
+*  Docs_Help_Tech Help_Information_Updates_and_or_Patches.htm
 *  Docs_License.txt
 *  Docs_MSR.txt
 *  [DXVK and DLLs-234-2-1-1764416548.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1388)
@@ -110,7 +138,9 @@
 *  [Jenya's female toreador pc-149-1-0-1594830583.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=412)
 *  [LA By Night - Repack.zip](https://authored-files.wabbajack.org/LA By Night - Repack.zip_e2b1c1c0-2a41-4b19-8f2b-5cd5bd928633)
 *  [LA Nights ENB - Main File-342-1-1740509252.zip](https://www.nexusmods.com/vampirebloodlines/mods/342/?tab=files&file_id=1185)
+*  [LA_by_Night_-_Patch_2.5.6a_hotfix.exe](https://www.moddb.com/downloads/start/313966)
 *  [LA_by_Night_-_Patch_2.5.6a_hotfix.zip](https://authored-files.wabbajack.org/LA_by_Night_-_Patch_2.5.6a_hotfix.zip_14061fca-a332-4587-a2e9-6c489a69315a)
+*  [LA_by_Night_2.5_installer_2.zip](https://www.moddb.com/downloads/start/311224)
 *  [La_by_Night_2.5.1.rar](https://www.moddb.com/downloads/start/311426)
 *  [La_by_Night_2.5.2.rar](https://www.moddb.com/downloads/start/311664)
 *  [Lasombra_Ventrue_carbon_skin_By_3Dell.zip](https://www.moddb.com/addons/start/126593)
@@ -118,7 +148,6 @@
 *  [latex_toreador_v1.rar](https://www.moddb.com/addons/start/17508)
 *  [Libertarian Ventrue-317-1-0-1719329227.zip](https://www.nexusmods.com/vampirebloodlines/mods/317/?tab=files&file_id=1013)
 *  [Lily UV map fix-237-1-1671754711.7z](https://www.nexusmods.com/vampirebloodlines/mods/237/?tab=files&file_id=688)
-*  Loader.dll
 *  [Lockpicking icons for UP-308-1-0-1717262414.rar](https://www.nexusmods.com/vampirebloodlines/mods/308/?tab=files&file_id=998)
 *  [Lovely Degenerate - Director's Cut-96-2-0-1684714169.zip](https://www.nexusmods.com/vampirebloodlines/mods/96/?tab=files&file_id=798)
 *  [Mad_Malk_V1.rar](https://www.moddb.com/addons/start/17589)
@@ -141,7 +170,6 @@
 *  [Malkavian.rar](https://www.moddb.com/addons/start/177028)
 *  [malkfemarmor0.zip](https://www.moddb.com/addons/start/81693)
 *  [MalkGirl-7-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/7/?tab=files&file_id=6)
-*  manual.pdf
 *  [materials.1.rar](https://www.moddb.com/addons/start/195088)
 *  [MavenCousland Toreador male-379-1-1762749156.zip](https://www.nexusmods.com/vampirebloodlines/mods/379/?tab=files&file_id=1360)
 *  [Mercurio Retexture - 4096x2048-156-1-1-1599728978.zip](https://www.nexusmods.com/vampirebloodlines/mods/156/?tab=files&file_id=447)
@@ -204,12 +232,10 @@
 *  [Sound Separation-234-1-6-1726951719.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1077)
 *  [Street Sign Texture Pack-106-1-0-1-1594482809.zip](https://www.nexusmods.com/vampirebloodlines/mods/106/?tab=files&file_id=410)
 *  [Subtle Female Malkavian-1-1-01.7z](https://www.nexusmods.com/vampirebloodlines/mods/1/?tab=files&file_id=1)
-*  support.ico
 *  [Sweet Heather by Skeletoff-212-1-2-1654873880.rar](https://www.nexusmods.com/vampirebloodlines/mods/212/?tab=files&file_id=614)
 *  [terrible nosferatu-243-1-0-1673418331.7z](https://www.nexusmods.com/vampirebloodlines/mods/243/?tab=files&file_id=696)
 *  [The Crow Malkavian 1.1-331-1-1-1733951998.zip](https://www.nexusmods.com/vampirebloodlines/mods/331/?tab=files&file_id=1129)
 *  [The Final Nights Characters-165-25-1730823364.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1104)
-*  [The Final Nights HD 1.6 - Repack.zip](https://authored-files.wabbajack.org/The Final Nights HD 1.6 - Repack.zip_fa3e3688-8409-4e96-a838-6abf4c3e9346)
 *  [The Gentleman v1.0-98-1-0-1556424554.rar](https://www.nexusmods.com/vampirebloodlines/mods/98/?tab=files&file_id=232)
 *  [The Hecata Chronicles-300-0-9-1714578986.7z](https://www.nexusmods.com/vampirebloodlines/mods/300/?tab=files&file_id=985)
 *  [The Undisciplined Caitiff v1.4.3 Hotfix 1-140-1-4-3-1-1702486336.7z](https://www.nexusmods.com/vampirebloodlines/mods/140/?tab=files&file_id=915)
@@ -217,6 +243,8 @@
 *  [The Vampire Armand  by Marius217-145-1-1591118651.rar](https://www.nexusmods.com/vampirebloodlines/mods/145/?tab=files&file_id=401)
 *  [The_Final_Nights_Reborn - Repack.zip](https://authored-files.wabbajack.org/The_Final_Nights_Reborn - Repack.zip_11c44bab-8447-4c88-9e8a-86ee0ba711f3)
 *  [The_Final_Nights_Reborn_-_Patch - Repack.7z](https://authored-files.wabbajack.org/The_Final_Nights_Reborn_-_Patch - Repack.7z_8e74830a-b06a-4da4-8bec-8be2715179a3)
+*  [The_Final_Nights_Reborn_-_Patch.exe](https://www.moddb.com/downloads/start/313098)
+*  [The_Final_Nights_Reborn.exe](https://www.moddb.com/downloads/start/307621)
 *  [Therese's Photo Shoot (Explicit).rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1561)
 *  [Those Goth Kids - Dancers Pack-81-2-1553964747.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=183)
 *  [Throwing a bone for the canines-90-1-0-1555174903.rar](https://www.nexusmods.com/vampirebloodlines/mods/90/?tab=files&file_id=210)
@@ -244,521 +272,6 @@
 *  [Uninterrupted BGM-303-1-0-0-1715531411.7z](https://www.nexusmods.com/vampirebloodlines/mods/303/?tab=files&file_id=988)
 *  [Unique_Gangrel.zip](https://www.moddb.com/addons/start/177681)
 *  [Unofficial Patch-324-1-0-1722433956.zip](https://www.nexusmods.com/vampirebloodlines/mods/324/?tab=files&file_id=1051)
-*  Unofficial_Patch_cfg_autoexec.cfg
-*  Unofficial_Patch_cfg_skill1.cfg
-*  Unofficial_Patch_cfg_user.cfg
-*  Unofficial_Patch_dlg_chinatown_barabus.dlg
-*  Unofficial_Patch_dlg_chinatown_ji.dlg
-*  Unofficial_Patch_dlg_chinatown_kiki.dlg
-*  Unofficial_Patch_dlg_chinatown_lufang.dlg
-*  Unofficial_Patch_dlg_chinatown_mandarin.dlg
-*  Unofficial_Patch_dlg_chinatown_ricky.dlg
-*  Unofficial_Patch_dlg_chinatown_tseng.dlg
-*  Unofficial_Patch_dlg_chinatown_wongho.dlg
-*  Unofficial_Patch_dlg_chinatown_yukie.dlg
-*  Unofficial_Patch_dlg_chinatown_zhao.dlg
-*  Unofficial_Patch_dlg_chinatown_zygaena.dlg
-*  Unofficial_Patch_dlg_downtown la_bishop_vick.dlg
-*  Unofficial_Patch_dlg_downtown la_boris.dlg
-*  Unofficial_Patch_dlg_downtown la_bum_disease_female.dlg
-*  Unofficial_Patch_dlg_downtown la_bum_disease_male.dlg
-*  Unofficial_Patch_dlg_downtown la_bum.dlg
-*  Unofficial_Patch_dlg_downtown la_chunk2.dlg
-*  Unofficial_Patch_dlg_downtown la_chunk3.dlg
-*  Unofficial_Patch_dlg_downtown la_danecopconvo1.dlg
-*  Unofficial_Patch_dlg_downtown la_dirty_cop.dlg
-*  Unofficial_Patch_dlg_downtown la_hannah.dlg
-*  Unofficial_Patch_dlg_downtown la_igor.dlg
-*  Unofficial_Patch_dlg_downtown la_junkie_girl.dlg
-*  Unofficial_Patch_dlg_downtown la_larry.dlg
-*  Unofficial_Patch_dlg_downtown la_milligan.dlg
-*  Unofficial_Patch_dlg_downtown la_prince1.dlg
-*  Unofficial_Patch_dlg_downtown la_prince2.dlg
-*  Unofficial_Patch_dlg_downtown la_skelter.dlg
-*  Unofficial_Patch_dlg_downtown la_tin_can_bill.dlg
-*  Unofficial_Patch_dlg_downtown la_venus.dlg
-*  Unofficial_Patch_dlg_generic_doll1.dlg
-*  Unofficial_Patch_dlg_generic_doll2.dlg
-*  Unofficial_Patch_dlg_generic_doll3.dlg
-*  Unofficial_Patch_dlg_generic_hunter1.dlg
-*  Unofficial_Patch_dlg_generic_hunterv.dlg
-*  Unofficial_Patch_dlg_generic_mcfly.dlg
-*  Unofficial_Patch_dlg_generic_prostitute.dlg
-*  Unofficial_Patch_dlg_giovanni_adam.dlg
-*  Unofficial_Patch_dlg_giovanni_christopher.dlg
-*  Unofficial_Patch_dlg_giovanni_luca.dlg
-*  Unofficial_Patch_dlg_giovanni_maria.dlg
-*  Unofficial_Patch_dlg_giovanni_mira.dlg
-*  Unofficial_Patch_dlg_giovanni_nadia.dlg
-*  Unofficial_Patch_dlg_giovanni_victor.dlg
-*  Unofficial_Patch_dlg_hollywood_andrei.dlg
-*  Unofficial_Patch_dlg_hollywood_ash_lookalike.dlg
-*  Unofficial_Patch_dlg_hollywood_ash.dlg
-*  Unofficial_Patch_dlg_hollywood_courier.dlg
-*  Unofficial_Patch_dlg_hollywood_dhatter.dlg
-*  Unofficial_Patch_dlg_hollywood_flynn.dlg
-*  Unofficial_Patch_dlg_hollywood_isaac.dlg
-*  Unofficial_Patch_dlg_hollywood_misti.dlg
-*  Unofficial_Patch_dlg_hollywood_romero.dlg
-*  Unofficial_Patch_dlg_hollywood_samantha.dlg
-*  Unofficial_Patch_dlg_hollywood_slater.dlg
-*  Unofficial_Patch_dlg_hollywood_sweeper.dlg
-*  Unofficial_Patch_dlg_hollywood_tommy.dlg
-*  Unofficial_Patch_dlg_hollywood_vv.dlg
-*  Unofficial_Patch_dlg_main characters_beckett.dlg
-*  Unofficial_Patch_dlg_main characters_caine.dlg
-*  Unofficial_Patch_dlg_main characters_heather.dlg
-*  Unofficial_Patch_dlg_main characters_jack_tutorial.dlg
-*  Unofficial_Patch_dlg_main characters_jack.dlg
-*  Unofficial_Patch_dlg_main characters_johansen.dlg
-*  Unofficial_Patch_dlg_main characters_mingxiao.dlg
-*  Unofficial_Patch_dlg_main characters_mingxiao2.dlg
-*  Unofficial_Patch_dlg_main characters_nines.dlg
-*  Unofficial_Patch_dlg_main characters_regent.dlg
-*  Unofficial_Patch_dlg_santa monica_arthur.dlg
-*  Unofficial_Patch_dlg_santa monica_bertram.dlg
-*  Unofficial_Patch_dlg_santa monica_brian.dlg
-*  Unofficial_Patch_dlg_santa monica_cal.dlg
-*  Unofficial_Patch_dlg_santa monica_chunk.dlg
-*  Unofficial_Patch_dlg_santa monica_clinic_guard.dlg
-*  Unofficial_Patch_dlg_santa monica_copper.dlg
-*  Unofficial_Patch_dlg_santa monica_danielle.dlg
-*  Unofficial_Patch_dlg_santa monica_doris.dlg
-*  Unofficial_Patch_dlg_santa monica_e.dlg
-*  Unofficial_Patch_dlg_santa monica_jeanette.dlg
-*  Unofficial_Patch_dlg_santa monica_killer.dlg
-*  Unofficial_Patch_dlg_santa monica_knox.dlg
-*  Unofficial_Patch_dlg_santa monica_lily.dlg
-*  Unofficial_Patch_dlg_santa monica_malcolm.dlg
-*  Unofficial_Patch_dlg_santa monica_mercurio.dlg
-*  Unofficial_Patch_dlg_santa monica_noir_cop.dlg
-*  Unofficial_Patch_dlg_santa monica_nurse.dlg
-*  Unofficial_Patch_dlg_santa monica_rosa.dlg
-*  Unofficial_Patch_dlg_santa monica_smblueblood.dlg
-*  Unofficial_Patch_dlg_santa monica_smphone.dlg
-*  Unofficial_Patch_dlg_santa monica_stan_gimble.dlg
-*  Unofficial_Patch_dlg_santa monica_therese.dlg
-*  Unofficial_Patch_dlg_santa monica_tourette.dlg
-*  Unofficial_Patch_dlg_santa monica_trip.dlg
-*  Unofficial_Patch_dlg_santa monica_vandal.dlg
-*  Unofficial_Patch_dlg_warrens_imalia.dlg
-*  Unofficial_Patch_dlg_warrens_mitnick.dlg
-*  Unofficial_Patch_maps_ch_cloud_1.bsp
-*  Unofficial_Patch_maps_ch_dragon_1.bsp
-*  Unofficial_Patch_maps_ch_fishmarket_1.bsp
-*  Unofficial_Patch_maps_ch_fulab_1.bsp
-*  Unofficial_Patch_maps_ch_glaze_1.bsp
-*  Unofficial_Patch_maps_ch_hub_1.bsp
-*  Unofficial_Patch_maps_ch_lotus_1.bsp
-*  Unofficial_Patch_maps_ch_ramen_1.bsp
-*  Unofficial_Patch_maps_ch_temple_1.bsp
-*  Unofficial_Patch_maps_ch_temple_2.bsp
-*  Unofficial_Patch_maps_ch_temple_3.bsp
-*  Unofficial_Patch_maps_ch_temple_4.bsp
-*  Unofficial_Patch_maps_ch_tsengs_1.bsp
-*  Unofficial_Patch_maps_graphs_ch_hub_1.ain
-*  Unofficial_Patch_maps_graphs_ch_temple_2.ain
-*  Unofficial_Patch_maps_graphs_ch_zhaos_1.ain
-*  Unofficial_Patch_maps_graphs_hw_warrens_4.ain
-*  Unofficial_Patch_maps_graphs_la_confession_1.ain
-*  Unofficial_Patch_maps_graphs_la_hub_1.ain
-*  Unofficial_Patch_maps_graphs_la_museum_1.ain
-*  Unofficial_Patch_maps_graphs_la_parkinggarage_1.ain
-*  Unofficial_Patch_maps_graphs_sm_hub_1.ain
-*  Unofficial_Patch_maps_graphs_sm_hub_2.ain
-*  Unofficial_Patch_maps_graphs_sm_warehouse_1.ain
-*  Unofficial_Patch_maps_graphs_sp_genesisdevice_1.loc
-*  Unofficial_Patch_maps_graphs_sp_theatre.loc
-*  Unofficial_Patch_maps_graphs_sp_tutorial_1.ain
-*  Unofficial_Patch_maps_graphs_sp_tutorial_1.loc
-*  Unofficial_Patch_maps_hw_609_1.bsp
-*  Unofficial_Patch_maps_hw_ash_sewer_1.bsp
-*  Unofficial_Patch_maps_hw_asphole_1.bsp
-*  Unofficial_Patch_maps_hw_cemetery_1.bsp
-*  Unofficial_Patch_maps_hw_chateau_1.bsp
-*  Unofficial_Patch_maps_hw_chinese_1.bsp
-*  Unofficial_Patch_maps_hw_hub_1.bsp
-*  Unofficial_Patch_maps_hw_jewelry_1.bsp
-*  Unofficial_Patch_maps_hw_luckystar_1.bsp
-*  Unofficial_Patch_maps_hw_metalhead_1.bsp
-*  Unofficial_Patch_maps_hw_netcafe_1.bsp
-*  Unofficial_Patch_maps_hw_redspot_1.bsp
-*  Unofficial_Patch_maps_hw_sinbin_1.bsp
-*  Unofficial_Patch_maps_hw_tawni_1.bsp
-*  Unofficial_Patch_maps_hw_vesuvius_1.bsp
-*  Unofficial_Patch_maps_hw_warrens_1.bsp
-*  Unofficial_Patch_maps_hw_warrens_2.bsp
-*  Unofficial_Patch_maps_hw_warrens_2b.bsp
-*  Unofficial_Patch_maps_hw_warrens_3.bsp
-*  Unofficial_Patch_maps_hw_warrens_5.bsp
-*  Unofficial_Patch_maps_la_abandoned_building_1.bsp
-*  Unofficial_Patch_maps_la_bradbury_2.bsp
-*  Unofficial_Patch_maps_la_bradbury_3.bsp
-*  Unofficial_Patch_maps_la_chantry_1.bsp
-*  Unofficial_Patch_maps_la_confession_1.bsp
-*  Unofficial_Patch_maps_la_crackhouse_1.bsp
-*  Unofficial_Patch_maps_la_dane_1.bsp
-*  Unofficial_Patch_maps_la_empire_1.bsp
-*  Unofficial_Patch_maps_la_empire_2.bsp
-*  Unofficial_Patch_maps_la_empire_3.bsp
-*  Unofficial_Patch_maps_la_expipe_1.bsp
-*  Unofficial_Patch_maps_la_hub_1.bsp
-*  Unofficial_Patch_maps_la_library_1.bsp
-*  Unofficial_Patch_maps_la_malkavian_1.bsp
-*  Unofficial_Patch_maps_la_malkavian_2.bsp
-*  Unofficial_Patch_maps_la_malkavian_3.bsp
-*  Unofficial_Patch_maps_la_malkavian_3b.bsp
-*  Unofficial_Patch_maps_la_malkavian_4.bsp
-*  Unofficial_Patch_maps_la_malkavian_5.bsp
-*  Unofficial_Patch_maps_la_museum_1.bsp
-*  Unofficial_Patch_maps_la_parkinggarage_1.bsp
-*  Unofficial_Patch_maps_la_plaguebearer_sewer_1.bsp
-*  Unofficial_Patch_maps_la_skyline_1.bsp
-*  Unofficial_Patch_maps_la_ventruetower_1.bsp
-*  Unofficial_Patch_maps_la_ventruetower_1b.bsp
-*  Unofficial_Patch_maps_la_ventruetower_2.bsp
-*  Unofficial_Patch_maps_la_ventruetower_3.bsp
-*  Unofficial_Patch_maps_sm_apartment_1.bsp
-*  Unofficial_Patch_maps_sm_asylum_1.bsp
-*  Unofficial_Patch_maps_sm_bailbonds_1.bsp
-*  Unofficial_Patch_maps_sm_basement_1.bsp
-*  Unofficial_Patch_maps_sm_beachhouse_1.bsp
-*  Unofficial_Patch_maps_sm_coffee_1.bsp
-*  Unofficial_Patch_maps_sm_diner_1.bsp
-*  Unofficial_Patch_maps_sm_gallery_1.bsp
-*  Unofficial_Patch_maps_sm_hub_1.bsp
-*  Unofficial_Patch_maps_sm_hub_2.bsp
-*  Unofficial_Patch_maps_sm_junkyard_1.bsp
-*  Unofficial_Patch_maps_sm_medical_1.bsp
-*  Unofficial_Patch_maps_sm_oceanhouse_1.bsp
-*  Unofficial_Patch_maps_sm_oceanhouse_2.bsp
-*  Unofficial_Patch_maps_sm_pawnshop_1.bsp
-*  Unofficial_Patch_maps_sm_pawnshop_2.bsp
-*  Unofficial_Patch_maps_sm_pier_1.bsp
-*  Unofficial_Patch_maps_sm_shreknet_1.bsp
-*  Unofficial_Patch_maps_sm_tattoo.bsp
-*  Unofficial_Patch_maps_sm_warehouse_1.bsp
-*  Unofficial_Patch_maps_sp_endsequences_a.bsp
-*  Unofficial_Patch_maps_sp_endsequences_b.bsp
-*  Unofficial_Patch_maps_sp_epilogue.bsp
-*  Unofficial_Patch_maps_sp_giovanni_1.bsp
-*  Unofficial_Patch_maps_sp_giovanni_2a.bsp
-*  Unofficial_Patch_maps_sp_giovanni_2b.bsp
-*  Unofficial_Patch_maps_sp_giovanni_3.bsp
-*  Unofficial_Patch_maps_sp_giovanni_4.bsp
-*  Unofficial_Patch_maps_sp_masquerade_1.bsp
-*  Unofficial_Patch_maps_sp_ninesintro.bsp
-*  Unofficial_Patch_maps_sp_observatory_1.bsp
-*  Unofficial_Patch_maps_sp_observatory_2.bsp
-*  Unofficial_Patch_maps_sp_soc_1.bsp
-*  Unofficial_Patch_maps_sp_soc_2.bsp
-*  Unofficial_Patch_maps_sp_soc_3.bsp
-*  Unofficial_Patch_maps_sp_soc_4.bsp
-*  Unofficial_Patch_maps_sp_taxiride.bsp
-*  Unofficial_Patch_maps_sp_theatre.bsp
-*  Unofficial_Patch_maps_sp_tutorial_1.bsp
-*  Unofficial_Patch_materials_decals_pictures_loft002.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft003.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft004.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft005.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft006.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft007.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft008.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft009.vmt
-*  Unofficial_Patch_materials_decals_pictures_loft010.vmt
-*  Unofficial_Patch_materials_decals_signs_applications.vmt
-*  Unofficial_Patch_materials_decals_signs_backtoschoolsale.vmt
-*  Unofficial_Patch_materials_decals_signs_chubmenu.vmt
-*  Unofficial_Patch_materials_decals_signs_everett.vmt
-*  Unofficial_Patch_materials_decals_signs_grillmenu.vmt
-*  Unofficial_Patch_materials_decals_signs_orderhere.vmt
-*  Unofficial_Patch_materials_decals_signs_peepshow2.vmt
-*  Unofficial_Patch_materials_decals_signs_securearea.vmt
-*  Unofficial_Patch_materials_decals_signs_smokeshop.vmt
-*  Unofficial_Patch_materials_decals_signs_tata.vmt
-*  Unofficial_Patch_materials_decals_signs_tatb.vmt
-*  Unofficial_Patch_materials_decals_signs_tatc.vmt
-*  Unofficial_Patch_materials_decals_signs_tatd.vmt
-*  Unofficial_Patch_materials_decals_signs_tate.vmt
-*  Unofficial_Patch_materials_decals_signs_tatf.vmt
-*  Unofficial_Patch_materials_decals_signs_tatg.vmt
-*  Unofficial_Patch_materials_decals_signs_tath.vmt
-*  Unofficial_Patch_materials_decals_signs_tati.vmt
-*  Unofficial_Patch_materials_decals_signs_tatj.vmt
-*  Unofficial_Patch_materials_decals_signs_tatk.vmt
-*  Unofficial_Patch_materials_decals_signs_tatl.vmt
-*  Unofficial_Patch_materials_decals_signs_tatm.vmt
-*  Unofficial_Patch_materials_decals_signs_tatn.vmt
-*  Unofficial_Patch_materials_decals_signs_tato.vmt
-*  Unofficial_Patch_materials_decals_signs_tatp.vmt
-*  Unofficial_Patch_materials_decals_signs_tatq.vmt
-*  Unofficial_Patch_materials_decals_signs_tatr.vmt
-*  Unofficial_Patch_materials_decals_signs_tats.vmt
-*  Unofficial_Patch_materials_decals_signs_tatt.vmt
-*  Unofficial_Patch_materials_decals_signs_tatu.vmt
-*  Unofficial_Patch_materials_decals_signs_tatv.vmt
-*  Unofficial_Patch_materials_decals_signs_tatw.vmt
-*  Unofficial_Patch_materials_decals_signs_thomas.vmt
-*  Unofficial_Patch_materials_decals_signs_trnsigna.vmt
-*  Unofficial_Patch_materials_hud_hotkeywindow.tth
-*  Unofficial_Patch_materials_hud_hotkeywindow.ttz
-*  Unofficial_Patch_materials_hud_infobar_icons_inventory_full.vmt
-*  Unofficial_Patch_materials_hud_infobar_icons_lockpicking_skill_success.vmt
-*  Unofficial_Patch_materials_hud_infobar_icons_masquerade_enforced.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_garysphoto.vmt
-*  Unofficial_Patch_materials_interface_mainmenu_vtm_title.tth
-*  Unofficial_Patch_materials_interface_mainmenu_vtm_title.ttz
-*  Unofficial_Patch_materials_models_character_npc_unique_chinatown_mandarin_mandaringlasses.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_downtown_lacroix_princebodyfinal.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_kilpatrick_kilpatricklens.vmt
-*  Unofficial_Patch_materials_models_character_pc_male_nosferatu_armor2_eyeball_l.vmt
-*  Unofficial_Patch_materials_models_character_pc_male_nosferatu_armor2_eyeball_r.vmt
-*  Unofficial_Patch_materials_models_hands_female_gangrel_FGHandbottom.tth
-*  Unofficial_Patch_materials_models_hands_female_gangrel_FGHandbottom.ttz
-*  Unofficial_Patch_materials_models_hands_female_gangrel_FGHandtop.tth
-*  Unofficial_Patch_materials_models_hands_female_gangrel_FGHandtop.ttz
-*  Unofficial_Patch_materials_models_hands_male_gangrel_MGHandbottom_normal.tth
-*  Unofficial_Patch_materials_models_hands_male_gangrel_MGHandbottom_normal.ttz
-*  Unofficial_Patch_materials_models_hands_male_gangrel_MGHandtop_normal.tth
-*  Unofficial_Patch_materials_models_hands_male_gangrel_MGHandtop_normal.ttz
-*  Unofficial_Patch_materials_models_items_garys_tape_garys_tape.vmt
-*  Unofficial_Patch_materials_models_items_lillyonbeachphoto_beach.tth
-*  Unofficial_Patch_materials_models_items_lillyonbeachphoto_beach.ttz
-*  Unofficial_Patch_materials_models_scenery_furniture_refrigerator_logo.vmt
-*  Unofficial_Patch_materials_objects_vesgirle.tth
-*  Unofficial_Patch_materials_objects_vesgirle.ttz
-*  Unofficial_Patch_materials_signs_animated.vmt
-*  Unofficial_Patch_materials_signs_billboard_1.vmt
-*  Unofficial_Patch_materials_signs_doorsign_office.vmt
-*  Unofficial_Patch_materials_signs_doorsign_utility.vmt
-*  Unofficial_Patch_materials_signs_expipe.vmt
-*  Unofficial_Patch_materials_signs_fire_exit.vmt
-*  Unofficial_Patch_materials_signs_foxy.vmt
-*  Unofficial_Patch_materials_signs_handicapped.vmt
-*  Unofficial_Patch_materials_signs_manager.vmt
-*  Unofficial_Patch_materials_signs_ohlogo.vmt
-*  Unofficial_Patch_materials_signs_stop.vmt
-*  Unofficial_Patch_materials_sprites_moonchinatown.vmt
-*  Unofficial_Patch_materials_wood_brbdoora.vmt
-*  Unofficial_Patch_models_character_monster_animalism_beastform_animalism_beastform.mdl
-*  Unofficial_Patch_models_character_npc_unique_downtown_igor_vdor.mdl
-*  Unofficial_Patch_models_character_npc_unique_malkavian_mansion_bach_buch.mdl
-*  Unofficial_Patch_models_scenery_trash_greendumpster_greendumpster.phy
-*  Unofficial_Patch_models_scenery_trash_yellowdumpster_yellowdumpster.phy
-*  Unofficial_Patch_models_scenery_vehicles_cargotruck_cargotruck.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_cargotruck_cargotruck.mdl
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_car_idle.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_car_idle.mdl
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningbird_green.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningbird_green.mdl
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningBird_Green.phy
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningbird.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningbird.mdl
-*  Unofficial_Patch_models_scenery_vehicles_omnishpere_copcar.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_omnishpere_copcar.mdl
-*  Unofficial_Patch_models_scenery_vehicles_paneltruck_truck.dx7_2bone.vtx
-*  Unofficial_Patch_models_scenery_vehicles_paneltruck_truckclean.dx7_2bone.vtx
-*  Unofficial_Patch_models_scenery_vehicles_vw_bus_vw_bus.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_vw_bus_vw_bus.mdl
-*  Unofficial_Patch_models_scenery_vehicles_yugo_yugo.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_yugo_yugo.mdl
-*  Unofficial_Patch_particles_barrelfireemitter.txt
-*  Unofficial_Patch_particles_embrace_bleeding_neck2.txt
-*  Unofficial_Patch_python_chinatown_chinatown.py
-*  Unofficial_Patch_python_downtown_downtown.py
-*  Unofficial_Patch_python_fileutil.py
-*  Unofficial_Patch_python_fusyndicate_fusyndicate.py
-*  Unofficial_Patch_python_giovanni_giovanni.py
-*  Unofficial_Patch_python_hollywood_hollywood.py
-*  Unofficial_Patch_python_museum_museum.py
-*  Unofficial_Patch_python_santamonica_santamonica.py
-*  Unofficial_Patch_python_temple_temple.py
-*  Unofficial_Patch_python_theatre_theatre.py
-*  Unofficial_Patch_python_tutorial_tutorial.py
-*  Unofficial_Patch_python_vamputil.py
-*  Unofficial_Patch_resource_gameui_english.txt
-*  Unofficial_Patch_save_autosave.sav
-*  Unofficial_Patch_save_Vampire-000.sav
-*  Unofficial_Patch_save_Vampire-999.sav
-*  Unofficial_Patch_scripts_kb_act.lst
-*  Unofficial_Patch_scripts_kb_def.lst
-*  Unofficial_Patch_sound_character_dlg_downtown la_venus_line51_col_f.vcd
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line287_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_main characters_bach_line121_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line101_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line11_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line21_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line71_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line17_col_e.lip
-*  Unofficial_Patch_sound_cinematic_la_epilogue_epilogue_scene.vcd
-*  Unofficial_Patch_sound_schemes_glaze2.txt
-*  Unofficial_Patch_sound_schemes_hw_warrens_5.txt
-*  Unofficial_Patch_sound_schemes_la_expipe_1.txt
-*  Unofficial_Patch_sound_schemes_lotusblossom.txt
-*  Unofficial_Patch_sound_schemes_oceanhouse_interior_floor3.txt
-*  Unofficial_Patch_sound_schemes_oceanhouse_interior.txt
-*  Unofficial_Patch_sound_schemes_sm_basement_1.txt
-*  Unofficial_Patch_sound_schemes_sm_pier_1.txt
-*  Unofficial_Patch_sound_schemes_sm_streets.txt
-*  Unofficial_Patch_sound_schemes_sp_giovanni_2a.txt
-*  Unofficial_Patch_sound_schemes_sp_taxi.txt
-*  Unofficial_Patch_sound_schemes_sp_tutorial_city.txt
-*  Unofficial_Patch_sound_weapons_lockpicks_botch.wav
-*  Unofficial_Patch_vdata_hackterminals_asianvamp_laptop.txt
-*  Unofficial_Patch_vdata_hackterminals_beachouse_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_bertrams_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_blood_bank_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_carson_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_clinic_administration_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_clinic_cis_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_clinic_security_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_confessione3_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_dane_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_empire_lobby_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_fu_server.txt
-*  Unofficial_Patch_vdata_hackterminals_fu_terminals.txt
-*  Unofficial_Patch_vdata_hackterminals_fu_terminals2.txt
-*  Unofficial_Patch_vdata_hackterminals_hack_charlimits.txt
-*  Unofficial_Patch_vdata_hackterminals_haven_pc.txt
-*  Unofficial_Patch_vdata_hackterminals_jeanette_laptop.txt
-*  Unofficial_Patch_vdata_hackterminals_kilpatricks_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_lucky_pc.txt
-*  Unofficial_Patch_vdata_hackterminals_malcolm_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_milligan_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_morgue_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_museum_computer_2.txt
-*  Unofficial_Patch_vdata_hackterminals_museum_computer_3.txt
-*  Unofficial_Patch_vdata_hackterminals_museum_computer_4.txt
-*  Unofficial_Patch_vdata_hackterminals_museum_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_netcafe_computer_2.txt
-*  Unofficial_Patch_vdata_hackterminals_netcafe_computer_3.txt
-*  Unofficial_Patch_vdata_hackterminals_netcafe_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub1_terminal.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub2_terminal.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub3_metalop.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub3_metalsec.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub4_terminal1.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub4_terminal2.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub4_terminal3.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub4_terminal5.txt
-*  Unofficial_Patch_vdata_hackterminals_shrekhub4_terminal6.txt
-*  Unofficial_Patch_vdata_hackterminals_sinbin.txt
-*  Unofficial_Patch_vdata_hackterminals_skyline_apt3.txt
-*  Unofficial_Patch_vdata_hackterminals_soc_int_hack.txt
-*  Unofficial_Patch_vdata_hackterminals_tawni_terminal.txt
-*  Unofficial_Patch_vdata_hackterminals_therese_pc.txt
-*  Unofficial_Patch_vdata_hackterminals_tutorial_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_ventruetower2_terminal.txt
-*  Unofficial_Patch_vdata_hackterminals_warrens2_computer.txt
-*  Unofficial_Patch_vdata_items_item_a_body_armor.txt
-*  Unofficial_Patch_vdata_items_item_a_hvy_cloth - vampire.txt
-*  Unofficial_Patch_vdata_items_item_a_hvy_leather - hunter.txt
-*  Unofficial_Patch_vdata_items_item_a_hvy_leather.txt
-*  Unofficial_Patch_vdata_items_item_a_lt_cloth.txt
-*  Unofficial_Patch_vdata_items_item_a_lt_leather - hunter.txt
-*  Unofficial_Patch_vdata_items_item_a_lt_leather.txt
-*  Unofficial_Patch_vdata_items_item_g_astrolite.txt
-*  Unofficial_Patch_vdata_items_item_g_bailbond_receipt.txt
-*  Unofficial_Patch_vdata_items_item_g_bertrams_cd.txt
-*  Unofficial_Patch_vdata_items_item_g_cash_box.txt
-*  Unofficial_Patch_vdata_items_item_g_drugs_drug_box.txt
-*  Unofficial_Patch_vdata_items_item_g_drugs_morphine_bottle.txt
-*  Unofficial_Patch_vdata_items_item_g_drugs_perscription_bottle.txt
-*  Unofficial_Patch_vdata_items_item_g_drugs_pill_bottle.txt
-*  Unofficial_Patch_vdata_items_item_g_edane_print_report.txt
-*  Unofficial_Patch_vdata_items_item_g_edane_report.txt
-*  Unofficial_Patch_vdata_items_item_g_eldervitaepack.txt
-*  Unofficial_Patch_vdata_items_item_g_gargoyle_book.txt
-*  Unofficial_Patch_vdata_items_item_g_garys_cd.txt
-*  Unofficial_Patch_vdata_items_item_g_garys_film.txt
-*  Unofficial_Patch_vdata_items_item_g_garys_tape.txt
-*  Unofficial_Patch_vdata_items_item_g_hannahs_appt_book.txt
-*  Unofficial_Patch_vdata_items_item_g_horrortape_1.txt
-*  Unofficial_Patch_vdata_items_item_g_idol_cat.txt
-*  Unofficial_Patch_vdata_items_item_g_keyring.txt
-*  Unofficial_Patch_vdata_items_item_g_larry_briefcase.txt
-*  Unofficial_Patch_vdata_items_item_g_lilly_diary.txt
-*  Unofficial_Patch_vdata_items_item_g_lilly_photo.txt
-*  Unofficial_Patch_vdata_items_item_g_mercurio_journal.txt
-*  Unofficial_Patch_vdata_items_item_g_oh_diary.txt
-*  Unofficial_Patch_vdata_items_item_g_pisha_book.txt
-*  Unofficial_Patch_vdata_items_item_g_ring_gold.txt
-*  Unofficial_Patch_vdata_items_item_g_ring_serial_killer_1.txt
-*  Unofficial_Patch_vdata_items_item_g_ring_silver.txt
-*  Unofficial_Patch_vdata_items_item_g_ring03.txt
-*  Unofficial_Patch_vdata_items_item_g_wireless_camera_2.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_blood_buff.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_hacking.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_heal_rate.txt
-*  Unofficial_Patch_vdata_items_item_p_research_hg_computers.txt
-*  Unofficial_Patch_vdata_items_item_p_research_hg_dodge.txt
-*  Unofficial_Patch_vdata_items_item_p_research_hg_firearms.txt
-*  Unofficial_Patch_vdata_items_item_p_research_hg_melee.txt
-*  Unofficial_Patch_vdata_items_item_p_research_lg_computers.txt
-*  Unofficial_Patch_vdata_items_item_p_research_lg_dodge.txt
-*  Unofficial_Patch_vdata_items_item_p_research_lg_firearms.txt
-*  Unofficial_Patch_vdata_items_item_p_research_lg_stealth.txt
-*  Unofficial_Patch_vdata_items_item_p_research_mg_brawl.txt
-*  Unofficial_Patch_vdata_items_item_p_research_mg_finance.txt
-*  Unofficial_Patch_vdata_items_item_p_research_mg_melee.txt
-*  Unofficial_Patch_vdata_items_item_p_research_mg_security.txt
-*  Unofficial_Patch_vdata_items_item_s_physicshand-null.txt
-*  Unofficial_Patch_vdata_items_item_w_avamp_blade.txt
-*  Unofficial_Patch_vdata_items_item_w_chang_blade.txt
-*  Unofficial_Patch_vdata_items_item_w_colt_anaconda.txt
-*  Unofficial_Patch_vdata_items_item_w_crossbow_flaming.txt
-*  Unofficial_Patch_vdata_items_item_w_crossbow.txt
-*  Unofficial_Patch_vdata_items_item_w_deserteagle.txt
-*  Unofficial_Patch_vdata_items_item_w_flamethrower.txt
-*  Unofficial_Patch_vdata_items_item_w_glock_17c.txt
-*  Unofficial_Patch_vdata_items_item_w_grenade_frag.txt
-*  Unofficial_Patch_vdata_items_item_w_ithaca_m_37.txt
-*  Unofficial_Patch_vdata_items_item_w_mac_10.txt
-*  Unofficial_Patch_vdata_items_item_w_mingxiao_melee.txt
-*  Unofficial_Patch_vdata_items_item_w_mingxiao_spit.txt
-*  Unofficial_Patch_vdata_items_item_w_occultblade.txt
-*  Unofficial_Patch_vdata_items_item_w_rem_m_700_bach.txt
-*  Unofficial_Patch_vdata_items_item_w_remington_m_700.txt
-*  Unofficial_Patch_vdata_items_item_w_steyr_aug.txt
-*  Unofficial_Patch_vdata_items_item_w_supershotgun.txt
-*  Unofficial_Patch_vdata_items_item_w_thirtyeight.txt
-*  Unofficial_Patch_vdata_items_item_w_uzi.txt
-*  Unofficial_Patch_vdata_items_weapon_physcannon.txt
-*  Unofficial_Patch_vdata_signs_fortune_note.txt
-*  Unofficial_Patch_vdata_signs_museum_note.txt
-*  Unofficial_Patch_vdata_signs_sinbin_note.txt
-*  Unofficial_Patch_vdata_signs_sinbin_temp.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dementation2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_disciplines1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_get1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_moving1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_questlog1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup.txt
-*  Unofficial_Patch_vdata_system_charcreatewizard.txt
-*  Unofficial_Patch_vdata_system_clandoc000.txt
-*  Unofficial_Patch_vdata_system_credits.txt
-*  Unofficial_Patch_vdata_system_disciplinetgt_001.txt
-*  Unofficial_Patch_vdata_system_disciplinetgt_002.txt
-*  Unofficial_Patch_vdata_system_experience_table.txt
-*  Unofficial_Patch_vdata_system_feats.txt
-*  Unofficial_Patch_vdata_system_histories000.txt
-*  Unofficial_Patch_vdata_system_infobartypes.txt
-*  Unofficial_Patch_vdata_system_items.txt
-*  Unofficial_Patch_vdata_system_loadingtips.txt
-*  Unofficial_Patch_vdata_system_mapnames_localized.txt
-*  Unofficial_Patch_vdata_system_npctemplate000.txt
-*  Unofficial_Patch_vdata_system_npctemplate001.txt
-*  Unofficial_Patch_vdata_system_npctemplate004.txt
-*  Unofficial_Patch_vdata_system_npctemplate012.txt
-*  Unofficial_Patch_vdata_system_quests_chinatown.txt
-*  Unofficial_Patch_vdata_system_quests_downtown.txt
-*  Unofficial_Patch_vdata_system_quests_hollywood.txt
-*  Unofficial_Patch_vdata_system_quests_santamonica.txt
-*  Unofficial_Patch_vdata_system_rules.txt
-*  Unofficial_Patch_vdata_system_stats.txt
-*  Unofficial_Patch_vdata_system_strings.txt
-*  Unofficial_Patch_vdata_system_traiteffects000.txt
-*  Unofficial_Patch_vdata_system_vendors.txt
 *  [unreal_enb_final-246-1-4-1679021088.zip](https://www.nexusmods.com/vampirebloodlines/mods/246/?tab=files&file_id=757)
 *  [Vagabond Ventrue-288-1-0-1702943880.rar](https://www.nexusmods.com/vampirebloodlines/mods/288/?tab=files&file_id=917)
 *  [vampira.zip](https://www.moddb.com/addons/start/242282)
@@ -779,8 +292,6 @@
 *  Vampire_maps_ch_glaze_1.bsp
 *  Vampire_maps_ch_hub_1.bsp
 *  Vampire_maps_ch_temple_3.bsp
-*  Vampire_maps_graphs_ch_hub_1.ain
-*  Vampire_maps_graphs_la_malkavian_5.ain
 *  Vampire_maps_hw_ash_sewer_1.bsp
 *  Vampire_maps_hw_asphole_1.bsp
 *  Vampire_maps_hw_hub_1.bsp
@@ -836,24 +347,514 @@
 *  Vampire_pack008.vpk
 *  Vampire_pack009.vpk
 *  Vampire_pack010.vpk
+*  Vampire_pack100.vpk
 *  Vampire_pack101.vpk
-*  Vampire_pack102.vpk
-*  Vampire_resource_optionssubgameplay.res
-*  Vampire_resource_trackerscheme.res
-*  Vampire_scripts_liblist.gam
+*  Vampire_python_theatre_theatre.py
+*  Vampire_sound_character_dlg_chinatown_barabus_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line100_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line102_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line103_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line82_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line83_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line84_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line85_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line86_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line87_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line88_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line90_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line92_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line93_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line94_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line95_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line96_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line97_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line98_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barabus_line99_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barry_r_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_barry_r_line11_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line1_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line1_col_n.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line2_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line2_col_n.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line21_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line3_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line31_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line4_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_hostess_line4_col_n.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_hostess_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line191_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line201_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line211_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line221_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line231_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line241_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line251_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line261_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line271_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line281_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line291_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line301_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line311_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line321_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line331_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line341_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line351_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line361_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line371_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line381_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line391_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line401_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line411_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line421_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line431_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line441_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line451_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line461_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line471_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line481_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line491_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line501_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line503_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line504_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line505_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line506_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_ji_line507_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_ji_line508_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line509_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line518_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line528_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line538_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line548_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line558_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line568_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ji_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line1_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line191_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_johnny_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_johnny_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line1_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line11_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line21_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line41_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line71_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_kiki_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line126_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line191_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line2_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line201_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line211_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line221_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line221_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line231_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line241_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line251_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line261_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line271_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line281_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line291_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line3_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line301_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line301_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line311_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line321_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line331_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line341_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line351_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line351_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line361_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line371_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line381_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line391_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line4_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line401_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line411_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line421_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line431_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line441_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line441_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line451_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line451_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line461_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line471_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line481_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line491_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line491_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line501_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line511_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line521_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line541_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line542_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line543_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line544_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line545_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line546_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line547_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line548_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line549_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line550_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line551_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line552_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line553_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line554_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line66_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_lufang_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line161_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_mandarin_line171_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_mandarin_line171_col_f.mp3
 *  Vampire_sound_character_dlg_chinatown_mandarin_line181_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_mandarin_line181_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line191_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line201_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line211_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line221_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line231_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line241_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line251_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line261_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line271_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line281_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line291_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line331_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line341_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line351_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line371_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line381_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line391_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line401_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line411_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line421_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line431_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line441_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line451_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line461_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line471_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line481_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line491_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line499_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line500_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line501_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line511_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line521_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line531_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line541_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line551_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line561_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line571_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_mandarin_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line122_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line123_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line124_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line125_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line126_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line127_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line128_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line142_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line143_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line31_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_ricky_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line1_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line11_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line21_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line31_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line41_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line51_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_shu_line61_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_tseng_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line171_col_f.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line191_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line201_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line211_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line221_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line231_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line241_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line251_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line261_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line271_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line281_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line291_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line301_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line311_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line321_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line331_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line341_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line351_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line361_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line371_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line381_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line401_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line411_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line421_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line431_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line441_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line451_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line461_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line471_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line481_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line491_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line501_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line511_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line521_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line531_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line541_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line551_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line561_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line571_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line581_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line591_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line601_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line611_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line621_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line631_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line641_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line651_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line671_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line672_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line673_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line674_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line675_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line676_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line677_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line678_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line679_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line680_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line681_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line682_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line683_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line684_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line685_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line686_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line76_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_wongho_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line191_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line201_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line211_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line221_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line231_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line241_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line251_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line261_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line271_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line291_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line301_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line311_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line321_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line331_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line341_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line351_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line361_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line371_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line381_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line391_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line401_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line411_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line421_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line431_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line441_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line451_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line461_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line471_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line481_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line491_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line501_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line511_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line521_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line541_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_yukie_line91_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line1_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line101_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line11_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line111_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line121_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line131_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line141_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line151_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line161_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line171_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line181_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line191_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line201_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line21_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line211_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line221_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line231_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line241_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line251_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line261_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line271_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line281_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line291_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line301_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line31_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line311_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line321_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line41_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line51_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line61_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line71_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line81_col_e.mp3
+*  Vampire_sound_character_dlg_chinatown_zygaena_line91_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_bishop_vick_line1_col_f.mp3
 *  Vampire_sound_character_dlg_downtown la_bum_disease_male_line11_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_chunk2_line251_col_e.mp3
@@ -896,6 +897,7 @@
 *  Vampire_sound_character_dlg_hollywood_isaac_line121_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_isaac_line721_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_isaac_line931_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_kerri_line131_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_romero_line431_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_romero_line441_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_romero_line601_col_e.mp3
@@ -991,9 +993,13 @@
 *  Vampire_sound_character_dlg_santa monica_therese_line381_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_trip_line191_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_vandal_line151_col_e.mp3
-*  Vampire_sound_music_downtown_downtown_theme.mp3
 *  Vampire_sound_music_mission_impossible_combat.mp3
 *  Vampire_sound_music_mission_impossible.mp3
+*  Vampire_sound_radio_radio_loop_1.mp3
+*  Vampire_sound_radio_radio_loop_2.mp3
+*  Vampire_sound_radio_radio_loop_3.mp3
+*  Vampire_sound_radio_radio_loop_4.mp3
+*  Vampire_sound_radio_radio_loop_5.mp3
 *  [vampire_Toreador_-_the_lizard_king.1.rar](https://www.moddb.com/addons/start/179577)
 *  [vampire_toreador.rar](https://www.moddb.com/addons/start/176545)
 *  [vampire_ventrue_-_toreador_beard_male.rar](https://www.moddb.com/addons/start/180082)
@@ -1016,7 +1022,6 @@
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
 *  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
-*  [VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1581)
 *  [VTMBup115.83.exe](https://www.moddb.com/downloads/start/255290)
 *  [VV_Posters-194-1-0-1636564291.7z](https://www.nexusmods.com/vampirebloodlines/mods/194/?tab=files&file_id=558)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)
