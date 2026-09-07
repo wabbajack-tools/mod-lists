@@ -9,7 +9,7 @@
 *  [Additional Clockwork-47087-3-0-6-1774574019.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=735524)
 *  [Aetherium Armor and Weapons Compilation Cleaned-55438-1-1631400377.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55438/?tab=files&file_id=227724)
 *  [AetheriumArmornWeaponsSSE with BSA-2687-1-1-1-1689449793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2687/?tab=files&file_id=407387)
-*  [AetheriumSwordsnArmor - Loreqtificated.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184848/?tab=files&file_id=785941)
+*  [AetheriumSwordsnArmor - Loreqtificated.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184848/?tab=files&file_id=801785)
 *  [Alternate Perspective Patch for v 3-55871-1-3-1-1660733893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55871/?tab=files&file_id=308206)
 *  [Alternative Riften - PATCH COLLECTION-169108-1-4-7-1777517919.zip](https://www.nexusmods.com/skyrimspecialedition/mods/169108/?tab=files&file_id=747188)
 *  [Amulets of Skyrim - Sacrilege Desecrated Amulet of Auriel Patch-55032-1-0-0-1630691481.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55032/?tab=files&file_id=225883)

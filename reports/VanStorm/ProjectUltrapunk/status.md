@@ -20,7 +20,7 @@
 *  [Allow Highest AI LOD-16720-0-1-151789-1783820820.rar](https://www.nexusmods.com/cyberpunk2077/mods/16720/?tab=files&file_id=151789)
 *  [Alternative Hair Material-12184-0-1-1766796803.rar](https://www.nexusmods.com/cyberpunk2077/mods/12184/?tab=files&file_id=130918)
 *  [Always_Best_Quality For 2.31-12700-4-0-2-31-1757680825.zip](https://www.nexusmods.com/cyberpunk2077/mods/12700/?tab=files&file_id=121077)
-*  [ArchiveXL-4198-1-27-1-154093-1785439920.zip](https://www.nexusmods.com/cyberpunk2077/mods/4198/?tab=files&file_id=154093)
+*  [ArchiveXL 4198 1.27.3 2026-09-07T10-15Z aI50IA5YP.zip](https://www.nexusmods.com/cyberpunk2077/mods/4198/?tab=files&file_id=159683)
 *  [asphalt_patches_4K-8K-2723-1-0-1631560011.rar](https://www.nexusmods.com/cyberpunk2077/mods/2723/?tab=files&file_id=16776)
 *  [Audioware-12001-v1-9-9-154824-1785893580.zip](https://www.nexusmods.com/cyberpunk2077/mods/12001/?tab=files&file_id=154824)
 *  [auto_drive_enhanced-23157-0-0-0-20-1780657849.zip](https://www.nexusmods.com/cyberpunk2077/mods/23157/?tab=files&file_id=147642)
