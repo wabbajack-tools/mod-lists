@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1035)
+### Valid (999)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  a_basetexture.tth
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
@@ -74,42 +74,6 @@
 *  [demonastery_female_t.zip](https://www.moddb.com/addons/start/259066)
 *  [Deranged_Darling.zip](https://www.moddb.com/addons/start/102284)
 *  [Devilspawn Fleshfeast - Horror Tape Reskin(s)-107-1-0-1563029064.zip](https://www.nexusmods.com/vampirebloodlines/mods/107/?tab=files&file_id=254)
-*  Docs_Help__borders_left.htm
-*  Docs_Help__borders_side_ie.css
-*  Docs_Help__borders_style_ie.css
-*  Docs_Help__borders_top_files_atvi.jpg
-*  Docs_Help__borders_top_files_filelist.xml
-*  Docs_Help__borders_top_files_image004.png
-*  Docs_Help__borders_top_files_oledata.mso
-*  Docs_Help__borders_top.htm
-*  Docs_Help_Compatibility_msr.htm
-*  Docs_Help_Credits_credits.htm
-*  Docs_Help_Default.htm
-*  Docs_Help_images_Activision.jpg
-*  Docs_Help_images_ATVIsmall_invert.jpg
-*  Docs_Help_images_ATVIsmall.jpg
-*  Docs_Help_images_troika.gif
-*  Docs_Help_images_Vamp.gif
-*  Docs_Help_images_White_Wolf.jpg
-*  Docs_Help_images_yellowstripe.jpg
-*  Docs_Help_index.htm
-*  Docs_Help_License_license.htm
-*  Docs_Help_Manual_manual_US.pdf
-*  Docs_Help_Readme_readme.htm
-*  Docs_Help_Readme_readme.rtf
-*  Docs_Help_Tech Help_Customer Support_Customer_support_files_filelist.xml
-*  Docs_Help_Tech Help_Customer Support_Customer_support_files_header.htm
-*  Docs_Help_Tech Help_Customer Support_Customer_support.htm
-*  Docs_Help_Tech Help_Default.htm
-*  Docs_Help_Tech Help_Information_Audio_Problems.htm
-*  Docs_Help_Tech Help_Information_autoplay.htm
-*  Docs_Help_Tech Help_Information_DirectX.htm
-*  Docs_Help_Tech Help_Information_Electronic_Registration.htm
-*  Docs_Help_Tech Help_Information_Installing_the_game_to_a_compressed_hard_drive.htm
-*  Docs_Help_Tech Help_Information_Sound_Card_Conflicts.htm
-*  Docs_Help_Tech Help_Information_Updates_and_or_Patches.htm
-*  Docs_License.txt
-*  Docs_MSR.txt
 *  [DXVK and DLLs-234-2-1-1764416548.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1388)
 *  [Dzengrave Brujah-380-2-1763535180.rar](https://www.nexusmods.com/vampirebloodlines/mods/380/?tab=files&file_id=1378)
 *  [E Mesh Edit-238-1-1-1671997987.7z](https://www.nexusmods.com/vampirebloodlines/mods/238/?tab=files&file_id=691)
