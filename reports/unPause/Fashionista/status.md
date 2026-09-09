@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (999)
+### Valid (1000)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  a_basetexture.tth
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
@@ -194,6 +194,7 @@
 *  [Root Builder 5.0.5-31720-5-0-5-1722935359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=528774)
 *  [Samantha Female Player Replacer-251-1-0-1678950330.zip](https://www.nexusmods.com/vampirebloodlines/mods/251/?tab=files&file_id=752)
 *  [sequined_gown.zip-47-1-3.zip](https://www.nexusmods.com/vampirebloodlines/mods/47/?tab=files&file_id=118)
+*  [Set Malkavians Font to Standard Font-365-1-0-1764834313.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1401)
 *  [Sexy Long Hair Female Toreador by Felizpe V3-63-3-0-1568577739.rar](https://www.nexusmods.com/vampirebloodlines/mods/63/?tab=files&file_id=287)
 *  [Skin Stefan Salvatore for Ventrue V 3-28-3.rar](https://www.nexusmods.com/vampirebloodlines/mods/28/?tab=files&file_id=74)
 *  [Slick Ventrue-273-3-1726721829.rar](https://www.nexusmods.com/vampirebloodlines/mods/273/?tab=files&file_id=1072)
