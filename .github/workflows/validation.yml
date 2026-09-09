@@ -1,7 +1,7 @@
 name: Validation
 
 concurrency:
-    group: Validations-${{ github.ref }}
+    group: repo-validation-${{ github.ref }}
     cancel-in-progress: false
 
 on:
