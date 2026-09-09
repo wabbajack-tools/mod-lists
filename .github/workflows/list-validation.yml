@@ -39,7 +39,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: wabbajack-tools/wabbajack
-          ref: validation_fix
+          ref: validation_fix_v2
 
       - name: Checkout Modlist Source
         uses: actions/checkout@v4
