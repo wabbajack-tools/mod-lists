@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (567)
+### Valid (568)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [ HD Stone Quarry and Clay Deposit 2K-38479-1-0.7z](https://www.nexusmods.com/skyrim/mods/38479/?tab=files&file_id=1000039564)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -103,8 +103,8 @@
 *  [Cyb's Remix Skin UUNP-12467-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12467/?tab=files&file_id=34597)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  [Dark Brotherhood Reborn - Dawnstar Sanctuary-22070-1-0-7-1545521259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22070/?tab=files&file_id=75937)
-*  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
+*  Data_ccBGSSSE001-Fish.bsa
+*  Data_ccBGSSSE001-Fish.esm
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -113,7 +113,6 @@
 *  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
-*  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures1.bsa
@@ -158,7 +157,7 @@
 *  [Ennead Banners 2K.7z-10564-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10564/?tab=files&file_id=40419)
 *  [Ennead Detailed Rugs Patch 2K-10564-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10564/?tab=files&file_id=31483)
 *  [EPIC Main Menu SE-52967-1-0-1627507552.rar](https://www.nexusmods.com/skyrimspecialedition/mods/52967/?tab=files&file_id=217348)
-*  [Equip Enchantment Fix-42839-1-3-5-1652756103.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=284365)
+*  [Equip Enchantment Fix for 1.5.39 - 1.6.353-42839-1-3-6-1702212128.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=450461)
 *  [ESL flagged-46283-1-1-1614378909.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46283/?tab=files&file_id=188232)
 *  [ESL Plugin-29895-1-2-1604680824.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29895/?tab=files&file_id=168906)
 *  [ETaC Complete - JKs Skyrim - CFTO Patch-24416-1-0-1553383850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24416/?tab=files&file_id=85983)
@@ -244,6 +243,7 @@
 *  [Immersive College NPCs-9252-1-1-02-1578696450.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9252/?tab=files&file_id=119358)
 *  [Immersive Dragon Sounds v4.4.1 - USSEP-23418-4-4-1-1610729926.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23418/?tab=files&file_id=179716)
 *  [Immersive Dragon Sounds v4.4.beta-23418-4-4-beta-1571422535.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23418/?tab=files&file_id=110721)
+*  [Immersive Equipment Displays for 1.5.39 - 1.6.353-62001-1-7-4-1702213343.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=450464)
 *  [Immersive Equipment Displays-62001-1-3-2-1645483225.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=266002)
 *  [Immersive Horses Script Fixes-40543-1-2-1630171166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40543/?tab=files&file_id=224411)
 *  [Immersive Horses-13402-3-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13402/?tab=files&file_id=55760)
@@ -260,7 +260,6 @@
 *  [Improved Horse Step Sounds - Special Edition-848-2-2-1541612556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/848/?tab=files&file_id=71621)
 *  [Improvement Names Customized SSE-27776-1-3-0-1583021613.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27776/?tab=files&file_id=126534)
 *  [Inconsequential NPCs 1 dot 9e-36334-1-9e.rar](https://www.nexusmods.com/skyrim/mods/36334/?tab=files&file_id=1000165316)
-*  installscript.vdf
 *  [Integration Patch for Hand Hammers (1.1.0)-37199-RELZ-1593992457.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37199/?tab=files&file_id=148984)
 *  [Integration Patch for Helps To Have A Map-37552-RELZ-1592839446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37552/?tab=files&file_id=146917)
 *  [Intro Scenes Only Once-22028-1-0-1545346180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22028/?tab=files&file_id=75783)
@@ -324,6 +323,7 @@
 *  [Missives 2.03 SSE-17576-2-03-1562185360.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17576/?tab=files&file_id=98093)
 *  [Missives Notes Retexture-46201-1-0-1614289834.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46201/?tab=files&file_id=188007)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
+*  [Modern Clap Bug Fix-38621-1-1-1595650689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38621/?tab=files&file_id=152011)
 *  [More Informative Console 1.0.1 SE-19250-1-0-1-1653434078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286245)
 *  [More Radiant Quests for the Companions-24144-1-2-1553159661.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24144/?tab=files&file_id=85678)
 *  [More Saddles SSE - FOMOD Installer-7868-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/7868/?tab=files&file_id=21262)
@@ -359,7 +359,7 @@
 *  [Northbourne NPCs of Winterhold -  Males Only Version (mostly)-43413-1-0-1608200976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43413/?tab=files&file_id=174826)
 *  [NotificationLogSSE-27707-1-2-0-1583021883.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27707/?tab=files&file_id=126536)
 *  [NPC Overhaul - Version 3-23755-1-5.7z](https://www.nexusmods.com/skyrim/mods/23755/?tab=files&file_id=1000096774)
-*  [NPCsUsePotions SE-67489-1-1-1-1651999623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=282285)
+*  [NPCsUsePotions - Fomod-67489-3-1-9-1704621326.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=458776)
 *  [Obscure's College of Winterhold NPC Stuck in Staircase Fix-53713-0-1-1628757244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53713/?tab=files&file_id=220576)
 *  [Obscure's College of Winterhold-20514-1-6-1-1587010675.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20514/?tab=files&file_id=134566)
 *  [Obscure's Faces of Winterhold-25691-1-2-4-1578532390.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25691/?tab=files&file_id=119169)
@@ -517,6 +517,7 @@
 *  [Stop Auto Start Keep it Clean Script for Dirt and Blood Users-47095-1-0-1615924556.rar](https://www.nexusmods.com/skyrimspecialedition/mods/47095/?tab=files&file_id=191870)
 *  [SunHelm Survival-39414-3-0-5-1633355746.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39414/?tab=files&file_id=232570)
 *  [Suspicious City Guards-38762-5-1595968194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38762/?tab=files&file_id=152650)
+*  [TainerGoldExploitFix-8627.7z](https://www.nexusmods.com/skyrim/mods/8627/?tab=files&file_id=28614)
 *  [Take Notes - Journal of the Dragonborn SSE (alpha)-13570-1-0a.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13570/?tab=files&file_id=39125)
 *  [TavernAIFix-se-23107-1-1d-1592428108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=146207)
 *  [Texture - Alpha werewolf -13779-1-7.rar](https://www.nexusmods.com/skyrim/mods/13779/?tab=files&file_id=1000111813)
