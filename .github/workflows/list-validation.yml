@@ -1,7 +1,7 @@
 name: List Validation
 
 concurrency:
-    group: Validations-${{ github.ref }}
+    group: reports-validation-${{ github.ref }}
     cancel-in-progress: false
 
 on:
@@ -36,13 +36,13 @@ jobs:
           dotnet-version: '9.0.x'
 
       - name: Checkout Wabbajack Source
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: wabbajack-tools/wabbajack
           ref: validation_fix
 
       - name: Checkout Modlist Source
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: wabbajack-tools/mod-lists
           path: mod-lists
@@ -56,7 +56,14 @@ jobs:
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
 
       - name: Run List Validation
-        run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports --batch-size 25 --cycle-hours 4
+        run: dotnet run -c Release --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports --batch-size 100 --cycle-hours 12
+
+      - name: Rebase onto latest master
+        working-directory: mod-lists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin master
 
       - name: Upload Reports
         uses: stefanzweifel/git-auto-commit-action@v4
