@@ -1,7 +1,7 @@
 name: Recheck Failed Lists
 
 concurrency:
-    group: Validations-${{ github.ref }}
+    group: reports-validation-${{ github.ref }}
     cancel-in-progress: false
 
 on:
