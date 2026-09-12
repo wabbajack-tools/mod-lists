@@ -277,7 +277,7 @@
 *  [Precision-72347-2-0-4-1674360214.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=351862)
 *  [Pristine Vanilla Movement-66635-1-1-1650775951.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66635/?tab=files&file_id=279306)
 *  [PrivateProfileRedirector AE 0.6.2 (RT 1.6.1170)-18860-0-6-2-1727798544.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18860/?tab=files&file_id=548084)
-*  [QuickLoot IE 4.0 BETA-120075-4-0-0-beta1-1775583833.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120075/?tab=files&file_id=739564)
+*  [QuickLoot IE 120075 4.1.0 2026-09-12T14-10Z L5WQbqjLZ.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120075/?tab=files&file_id=804101)
 *  [Radiant Requirements-45427-1-2-0-1628779546.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45427/?tab=files&file_id=220630)
 *  [Read or Take SKSE 69588 1.5.0 2026-06-16T15-09Z JrECN2HEx.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69588/?tab=files&file_id=764444)
 *  [Regional Save Names 49698 1.3.2 2026-08-30T08-02Z 2Bej58lkV.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49698/?tab=files&file_id=797461)
