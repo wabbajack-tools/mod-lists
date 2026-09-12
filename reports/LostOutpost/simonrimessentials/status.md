@@ -8,9 +8,9 @@
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
 *  [Adamant - A Perk Overhaul 30191 6.0.4 2026-08-19T20-58Z Z3mWyIsKY.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=792101)
+*  [Address Library All in One (1.7.104.0) v13 32444 13 2026-08-27T15-29Z Ae46W7Fw2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=795954)
 *  [Aetherius A Race Overhaul 26686 2.15.1 2026-07-07T02-24Z kATsMWuSQ.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=772611)
 *  [Alchemy XP Fix-117389-1-0-1713743824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117389/?tab=files&file_id=493497)
-*  [All in one Address Library (Anniversary Edition)-32444-11-1707902394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=470707)
 *  [Animation Motion Revolution-50258-1-5-3-1664395662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=320113)
 *  [Animation Queue Fix-82395-1-0-1-1673338766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348271)
 *  [Apothecary - An Alchemy Overhaul-52130-1-3-9-1701447097.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=447818)
@@ -37,8 +37,9 @@
 *  [Candlehearth - An Inn Overhaul-97542-1-1-1-1692799446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97542/?tab=files&file_id=419795)
 *  [Candlehearth - Tavern AI Fix Patch-97542-1-1-0-1691680299.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97542/?tab=files&file_id=415808)
 *  [CARP Main File-89042-1-1-2-15-1770160450.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89042/?tab=files&file_id=717058)
+*  [CK Address Library for 1.7.99.0 71371 0.6-b682 2026-08-30T15-14Z tSBIcETc4.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=797615)
 *  [CK Custom ini-19817-4-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19817/?tab=files&file_id=65800)
-*  [CK Platform Extended 0.6-b477-71371-0-6-b477-1761108172.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=678997)
+*  [CK Platform Extended (No AVX2) 0.6-b701 71371 0.6-b701 2026-09-01T00-37Z Z3mWyIRza.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=798425)
 *  [Classic Sprinting Redone (Anniversary Edition)-20166-2-3-1-1708891434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=474483)
 *  [Config INI - GrassControl.ini (1.6.3)-42161-1-6-3-1778867621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=752630)
 *  [Conjuration Limit Fix Addon 188102 1.0.1 2026-08-19T21-00Z Sx9oEw7WR.7z](https://www.nexusmods.com/skyrimspecialedition/mods/188102/?tab=files&file_id=792102)
@@ -64,7 +65,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_MarketplaceTextures.bsa
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -105,6 +106,7 @@
 *  [Faster Reanimation - 33 Percent Faster-46357-1-0-1-1614550583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46357/?tab=files&file_id=188663)
 *  [First Person Height Fix SKSE-169904-1-0-0-1768593184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/169904/?tab=files&file_id=710233)
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
+*  flowchartx32.dll
 *  flowchartx64.dll
 *  [Forget Spell-51125-1-2-6-1702301931.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=450857)
 *  [Gourmet_-_A_Cooking_Overhaul_1.2.0_eVtX7JwHC.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96876/?tab=files&file_id=767021)
@@ -126,8 +128,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
+*  lex_sscebr.tlx
 *  lex_sscebr2.clx
-*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -232,8 +234,6 @@
 *  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  Tools_LipGen_LipFuzer_LIPFuzer.exe
 *  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_LipGen_LipGenerator_FonixData.cdf
-*  Tools_LipGen_LipGenerator_LipGenerator.exe
 *  Tools_redist_dxwebsetup.exe
 *  Tools_redist_VC_redist.x64.exe
 *  Tools_RoboVoicer.exe
