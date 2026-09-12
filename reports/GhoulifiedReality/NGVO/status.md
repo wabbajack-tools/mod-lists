@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1803)
+### Valid (1802)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader ONLY-17230-7-1755965800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=658442)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.17.7z_3c14b05c-adfb-407e-90a3-fc14108fe3f5)
@@ -1654,7 +1654,6 @@
 *  Tools_Elric_xg.dll
 *  Tools_Elric_xtexconv.exe
 *  Tools_Exporting Blender Art Assets for Skyrim.pdf
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
 *  Tools_HavokBehaviorPostProcess_readme.txt
 *  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  Tools_LipGen_LipFuzer_LIPFuzer.exe
