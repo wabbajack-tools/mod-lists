@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (913)
+### Valid (915)
 *  [(SSS) Face v1.8 FOMOD Installer-6940-1-8.zip](https://www.nexusmods.com/fallout4/mods/6940/?tab=files&file_id=32569)
 *  [0. VTAC REDUX Sharpshooter Set v.1.7.5 - Update-90994-v-1-7-5-1748457389.7z](https://www.nexusmods.com/fallout4/mods/90994/?tab=files&file_id=357426)
 *  [0. VTAC REDUX v.2.5 - Update File-81751-v-2-5-1746294212.7z](https://www.nexusmods.com/fallout4/mods/81751/?tab=files&file_id=355303)
@@ -615,6 +615,7 @@
 *  [NoSharedDogmeatTemplate-18547-1-00-1600471502.rar](https://www.nexusmods.com/fallout4/mods/18547/?tab=files&file_id=191591)
 *  [NPCS Travel - Fixes (dubbed ESL)-89132-1-1731175276.zip](https://www.nexusmods.com/fallout4/mods/89132/?tab=files&file_id=339412)
 *  [Nuclear Flare Lucky Slut Replacer-NoLevel-Vanilla-104296-1-0-2-1778126105.zip](https://www.nexusmods.com/fallout4/mods/104296/?tab=files&file_id=396092)
+*  [Nuclear Flare S.P.E.C.I.A.L. Progression Redux-104568-1-0-0-1778120057.zip](https://www.nexusmods.com/fallout4/mods/104568/?tab=files&file_id=396081)
 *  [Nude Male Uncut-22110-1-2b.7z](https://www.nexusmods.com/fallout4/mods/22110/?tab=files&file_id=102292)
 *  [Nuka World Bottle Fix-66764-1-01-1670513798.zip](https://www.nexusmods.com/fallout4/mods/66764/?tab=files&file_id=259665)
 *  [Nuka World LOD - Best Choice-72024-1-2-1687123687.7z](https://www.nexusmods.com/fallout4/mods/72024/?tab=files&file_id=280905)
@@ -625,6 +626,7 @@
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
 *  [NXGEN - Nice Bush-49356-1-11-1610870890.rar](https://www.nexusmods.com/fallout4/mods/49356/?tab=files&file_id=199201)
+*  [OAR Sexy Synth Patch 105034 1 2026-09-12T15-23Z DzMlEf97R.zip](https://www.nexusmods.com/fallout4/mods/105034/?tab=files&file_id=411133)
 *  [Old Time Religion-50089-1-3-1633463871.zip](https://www.nexusmods.com/fallout4/mods/50089/?tab=files&file_id=218529)
 *  [Onyx Nightshade's Settlements - County Crossing v1.10-25366-1-10.zip](https://www.nexusmods.com/fallout4/mods/25366/?tab=files&file_id=111114)
 *  [Onyx Nightshade's Settlements - Covenant v1.00-26540-1-00.zip](https://www.nexusmods.com/fallout4/mods/26540/?tab=files&file_id=108437)
