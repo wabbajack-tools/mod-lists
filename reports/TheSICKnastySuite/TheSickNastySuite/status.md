@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2292)
+### Valid (2293)
 *  [ Light Fix for Tales from the Commonwealth-Fallout4-106992-1-0-0-0-403338.zip](https://www.nexusmods.com/fallout4/mods/106992/?tab=files&file_id=403338)
 *  [.22 PDW - Calico M100 - TR -Munitions-93527-1-0-5-1746533903.zip](https://www.nexusmods.com/fallout4/mods/93527/?tab=files&file_id=355543)
 *  [.38 Machine Pistol (Mac-11) Tactical Reload 103379 1.02 2026-06-22T20-35Z OtKdIloaf.rar](https://www.nexusmods.com/fallout4/mods/103379/?tab=files&file_id=401130)
@@ -131,7 +131,7 @@
 *  [Active Effects on HUD AE (F4SE) 103513 1.1.0 2026-09-02T14-45Z ARl5Vnq7Y.zip](https://www.nexusmods.com/fallout4/mods/103513/?tab=files&file_id=409687)
 *  [ActiveEffects.zip-32735-1-2-7-1715889420.zip](https://www.nexusmods.com/fallout4/mods/32735/?tab=files&file_id=316950)
 *  [Actor Scale Remover-19978-1-0.7z](https://www.nexusmods.com/fallout4/mods/19978/?tab=files&file_id=81713)
-*  [Actor Widgets 108919 1.5.1 2026-09-16T12-14Z ARl5VnqGe.zip](https://www.nexusmods.com/fallout4/mods/108919/?tab=files&file_id=411720)
+*  [Actor Widgets 108919 1.5.3 2026-09-17T18-04Z ARl5VnqpH.zip](https://www.nexusmods.com/fallout4/mods/108919/?tab=files&file_id=411906)
 *  [ActorVelocityFramework AE-56604-1-53-1776700235.zip](https://www.nexusmods.com/fallout4/mods/56604/?tab=files&file_id=394144)
 *  [Adaptable Munitions Patch for the Adaptive Pistol-100039-1-0-0-1768123331.zip](https://www.nexusmods.com/fallout4/mods/100039/?tab=files&file_id=380738)
 *  [Adaptive NPC Aim 107082 1.3.0 2026-09-11T16-32Z ARl5VnqzF.zip](https://www.nexusmods.com/fallout4/mods/107082/?tab=files&file_id=410976)
@@ -614,6 +614,7 @@
 *  [Dak's Weapons On Super Mutants FOMOD-86530-1-6-5-1753464937.zip](https://www.nexusmods.com/fallout4/mods/86530/?tab=files&file_id=362294)
 *  [DakSW59TR 108798 1 2026-09-08T03-10Z tCAJxPN5K.zip](https://www.nexusmods.com/fallout4/mods/108798/?tab=files&file_id=410529)
 *  [DakVintageRepeaterHaBCRMesh 106839 1 2026-07-25T01-07Z 86DAb3qpF.zip](https://www.nexusmods.com/fallout4/mods/106839/?tab=files&file_id=404386)
+*  [Damage Widgets 109145 1.0.1 2026-09-17T18-55Z gXceq17sd.zip](https://www.nexusmods.com/fallout4/mods/109145/?tab=files&file_id=411914)
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -1298,7 +1299,7 @@
 *  [melee blood 2k-58051-1-1644712838.rar](https://www.nexusmods.com/fallout4/mods/58051/?tab=files&file_id=229365)
 *  [MercerRescuedSynths-73648-1-2-2-1719986626.7z](https://www.nexusmods.com/fallout4/mods/73648/?tab=files&file_id=325343)
 *  [Merchants Sell Robot Repair Kits - RobCo Patcher-103999-1-0-0-1777030331.7z](https://www.nexusmods.com/fallout4/mods/103999/?tab=files&file_id=394575)
-*  [Merge INNR Conflicts - xEdit Script 109109 1.0.2 2026-09-17T02-40Z CvRyicu4Q.7z](https://www.nexusmods.com/fallout4/mods/109109/?tab=files&file_id=411809)
+*  [Merge INNR Conflicts - xEdit Script 109109 1.0.3 2026-09-17T18-33Z bnEVTOJ6O.7z](https://www.nexusmods.com/fallout4/mods/109109/?tab=files&file_id=411912)
 *  [Merged RootBehavior-65555-1-0-4-1753405514.zip](https://www.nexusmods.com/fallout4/mods/65555/?tab=files&file_id=362234)
 *  [Mesh Fix-52414-1-0-1622680278.7z](https://www.nexusmods.com/fallout4/mods/52414/?tab=files&file_id=209385)
 *  [Meshes-61420-1-1-1655553687.rar](https://www.nexusmods.com/fallout4/mods/61420/?tab=files&file_id=240883)
@@ -2042,7 +2043,7 @@
 *  [The Slog Spawns Ghoul Settlers-98120-1-0-0-1763688546.7z](https://www.nexusmods.com/fallout4/mods/98120/?tab=files&file_id=374700)
 *  [The Third Rail Mayhem-96182-1-0-1-1756380282.7z](https://www.nexusmods.com/fallout4/mods/96182/?tab=files&file_id=365780)
 *  [The Train - RE-RAILED 108840 1.0.5 2026-09-15T22-13Z KAmp6bZjk.7z](https://www.nexusmods.com/fallout4/mods/108840/?tab=files&file_id=411655)
-*  [The Train - RE-RAILED Patch Hub 108840 1.0.5 2026-09-17T03-04Z 3TfnOrCV9.7z](https://www.nexusmods.com/fallout4/mods/108840/?tab=files&file_id=411814)
+*  [The Train - RE-RAILED Patch Hub 108840 1.0.5 2026-09-17T18-59Z VZ2gWd4Ra.7z](https://www.nexusmods.com/fallout4/mods/108840/?tab=files&file_id=411916)
 *  [The Wild Key Chase 1.0-67972-1-0-1674665344.rar](https://www.nexusmods.com/fallout4/mods/67972/?tab=files&file_id=264788)
 *  [The Wretched - Stranger Commonwealth-97647-1-0-1-1761970183.rar](https://www.nexusmods.com/fallout4/mods/97647/?tab=files&file_id=371989)
 *  [The Wretched - Stranger Commonwealth-98120-1-0-1-1763500006.7z](https://www.nexusmods.com/fallout4/mods/98120/?tab=files&file_id=374361)
