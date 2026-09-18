@@ -2,7 +2,7 @@
   "MachineURL": "iAmModlist/merethic",
   "Name": "Merethic",
   "Version": "1.5.8.5",
-  "ModListHash": "KlAHSXzCT+E=",
+  "ModListHash": "OsIcWdqYIkI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -13957,7 +13957,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "qJv6DWXkQ10=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/636039181_MNCABC-FluffworksPatchv0.2.rar_1b71d328-4495-4fb4-8b8e-26d588862f65",
@@ -44378,211 +44378,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/UjmU5YV13I=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 810446049,
+        "Hash": "MoS+FCNe/h4=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures3.bsa",
+        "Name": "Data_Skyrim - Textures3.bsa",
+        "Size": 1406304717,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameFile": "Data\\Skyrim - Textures3.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "/UjmU5YV13I="
+          "Hash": "MoS+FCNe/h4="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MhDJueWnro8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 17658991,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "MhDJueWnro8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6iTbRKbwFAw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=91431\nfileID=388469",
-        "Name": "DLC2PillarBuilderActorScript Tweak-91431-1-0-0-1684183721.7z",
-        "Size": 3128,
+        "Hash": "1JvVx2fq1Lw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=139840\nfileID=674671",
+        "Name": "Main File - Dagoth Ur Follower-139840-1-0-1760203849.rar",
+        "Size": 160570095,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Overhauls the DLC2PillarBuilderActorScript from scratch for better performance, by making it only update when necessary and expands on its features for a more comprehensive behavior handling. No ESP.",
-          "FileID": 388469,
+          "Author": "DerKernel",
+          "Description": "Upon Dagoth\u2019s defeat at Red Mountain, his essence returned to the void between time and space and reflected upon the Heart, upon reality, and upon his dream. A fully-voiced follower with over 1,000 lines, custom items, and a custom quest, Dagoth Ur is your one true companion, Moon-and-Star.",
+          "FileID": 674671,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91431/91431-1684181139-265039344.png",
-          "IsNSFW": false,
-          "ModID": 91431,
-          "Name": "DLC2PillarBuilderActorScript Tweak",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ia3REakZzbo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
-        "Name": "Data_ccbgssse067-daedinv.bsa",
-        "Size": 386611908,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "ia3REakZzbo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SW4OllhUu2M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=90585\nfileID=384303",
-        "Name": "DLC2dunFrostmoonTriggerScript Optimization-90585-1-0-0-1683097955.7z",
-        "Size": 2898,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Reworks the DLC2dunFrostmoonTriggerScript to not check repeatedly if you\u0027re near the camp by replacing an inefficient event with RegisterForSingleUpdateGameTime. No ESP.",
-          "FileID": 384303,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90585/90585-1683095870-1056715558.png",
-          "IsNSFW": false,
-          "ModID": 90585,
-          "Name": "DLC2dunFrostmoonTriggerScript Optimization",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qrCpjbvR9U0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=89890\nfileID=381339",
-        "Name": "DLC2MiraakScript-89890-1-0-0-1682276775.7z",
-        "Size": 2738,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Fixes the DLC2MiraakScript to not take up all of the game\u0027s scripting resources and wrecking the scripting engine in the process, by reworking a very inefficient while loop. No ESP.",
-          "FileID": 381339,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89890/89890-1682273618-1909525012.png",
-          "IsNSFW": false,
-          "ModID": 89890,
-          "Name": "DLC2MiraakScript Fix",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ir+wT463MZM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=92705\nfileID=394416",
-        "Name": "DLC2AudioRepeaterActivator01Script Tweak-92705-1-0-0-1685739114.7z",
-        "Size": 1367,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Reworks the DLC2AudioRepeaterActivator01Script to fix a few bugs with its implementation and improve performance. No ESP.",
-          "FileID": 394416,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92705/92705-1685735412-954806356.png",
-          "IsNSFW": false,
-          "ModID": 92705,
-          "Name": "DLC2AudioRepeaterActivator01Script Tweak",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SUuRTSSNnIM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=94620\nfileID=402554",
-        "Name": "MQ105SprintTriggerScript Fix-94620-1-0-1-1688152095.zip",
-        "Size": 7929,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Prevents the MQ105SprintTriggerScript from duplicating itself and getting stuck running forever in your save. No ESP.",
-          "FileID": 402554,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/94620/94620-1688052400-1908006205.png",
-          "IsNSFW": false,
-          "ModID": 94620,
-          "Name": "MQ105SprintTriggerScript Fix",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Y3oyhmKPUIE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32161\nfileID=666949",
-        "Name": "SDA 4.2.2 Hotfix-32161-4-2-2-1758190760.7z",
-        "Size": 500744,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Martimius",
-          "Description": "An expansion of Serana\u0027s dialogue and NPC features to make her a more immersive follower. Serana Dialogue Add-On is highly acclaimed and also featured in Forbes magazine.",
-          "FileID": 666949,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32161/32161-1695975858-1433117051.jpeg",
-          "IsNSFW": false,
-          "ModID": 32161,
-          "Name": "Serana Dialogue Add-On",
-          "Version": "4.0.2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xIc2f3jM9H4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=89708\nfileID=382257",
-        "Name": "DLC2dunSeekerInvisScript Fix-89708-1-1-0-1682544408.7z",
-        "Size": 2767,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Reworks the DLC2dunSeekerInvisScript to improve performance and prevent FPS drops by replacing an inefficient while loop with RegisterForSingleUpdate. No ESP.",
-          "FileID": 382257,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89708/89708-1682091183-60216228.png",
-          "IsNSFW": false,
-          "ModID": 89708,
-          "Name": "DLC2dunSeekerInvisScript Fix",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PDVHLK2W12M=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1345109830,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "PDVHLK2W12M="
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/139840/139840-1759417612-1133326533.jpg",
+          "IsNSFW": true,
+          "ModID": 139840,
+          "Name": "(Lore Accurate) Dagoth Ur Follower",
+          "Version": "1.0"
         }
       }
     },
@@ -44599,6 +44425,160 @@
           "GameFile": "Data\\Skyrim - Textures4.bsa",
           "GameVersion": "1.7.104.0",
           "Hash": "7HFZBrSQNwk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cZv6LibcEMw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57897\nfileID=239073",
+        "Name": "Modpocalypse NPCs (v3) Wyrmstooth-57897-1-01-1636071342.7z",
+        "Size": 11961222,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Wyrmstooth\u0022.",
+          "FileID": 239073,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57897/57897-1635985214-1015348546.jpeg",
+          "IsNSFW": false,
+          "ModID": 57897,
+          "Name": "Modpocalypse NPCs - Wyrmstooth",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s22hF4O5cfI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
+        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
+        "Size": 861471059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of every NPC in the base game.",
+          "FileID": 223358,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
+          "IsNSFW": false,
+          "ModID": 54422,
+          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+i3PaQR2v/A=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse069-contest.bsa",
+        "Name": "Data_ccbgssse069-contest.bsa",
+        "Size": 42851238,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse069-contest.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "+i3PaQR2v/A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VTFw7kmYtLs=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
+        "Name": "Data_ccbgssse025-advdsgs.bsa",
+        "Size": 1092876237,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "VTFw7kmYtLs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zFjHt8eDapM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccasvsse001-almsivi.bsa",
+        "Name": "Data_ccasvsse001-almsivi.bsa",
+        "Size": 524046246,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccasvsse001-almsivi.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "zFjHt8eDapM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PJMJLiaO22Y=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\_ResourcePack.bsa",
+        "Name": "Data__ResourcePack.bsa",
+        "Size": 916509890,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\_ResourcePack.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "PJMJLiaO22Y="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gmtzSRavyZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse001-imperialdragon.bsa",
+        "Name": "Data_ccffbsse001-imperialdragon.bsa",
+        "Size": 177912136,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "gmtzSRavyZY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G/rXqztUR/c=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
+        "Name": "Data_ccbgssse063-ba_ebony.bsa",
+        "Size": 47723055,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "G/rXqztUR/c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h0mIieAhiGo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse036-petbwolf.bsa",
+        "Name": "Data_ccbgssse036-petbwolf.bsa",
+        "Size": 17946631,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse036-petbwolf.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "h0mIieAhiGo="
         }
       }
     },
@@ -44637,58 +44617,48 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "s22hF4O5cfI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
-        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
-        "Size": 861471059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of every NPC in the base game.",
-          "FileID": 223358,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
-          "IsNSFW": false,
-          "ModID": 54422,
-          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cZv6LibcEMw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57897\nfileID=239073",
-        "Name": "Modpocalypse NPCs (v3) Wyrmstooth-57897-1-01-1636071342.7z",
-        "Size": 11961222,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Wyrmstooth\u0022.",
-          "FileID": 239073,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57897/57897-1635985214-1015348546.jpeg",
-          "IsNSFW": false,
-          "ModID": 57897,
-          "Name": "Modpocalypse NPCs - Wyrmstooth",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PJMJLiaO22Y=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\_ResourcePack.bsa",
-        "Name": "Data__ResourcePack.bsa",
-        "Size": 916509890,
+        "Hash": "lHKecWZdnlI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
+        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
+        "Size": 43781890,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\_ResourcePack.bsa",
+          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "PJMJLiaO22Y="
+          "Hash": "lHKecWZdnlI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MNpDudAjreE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
+        "Name": "Data_Skyrim - Textures6.bsa",
+        "Size": 107081915,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "MNpDudAjreE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6n+UdS1Y8jw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67768230,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "6n+UdS1Y8jw="
         }
       }
     },
@@ -44821,271 +44791,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MNpDudAjreE=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 107081915,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "MNpDudAjreE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6n+UdS1Y8jw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67768230,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "6n+UdS1Y8jw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4fzcfeOm1HY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37920\nfileID=148807",
-        "Name": "Pandorable NPCs Dragonborn - Salt and Wind Textures-37920-1-1-1593902456.zip",
-        "Size": 30104380,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jasperthegnome Shiva182 and 1NGR",
-          "Description": "Adds salt and wind textures for the NPCs in Pandorable NPCs - Dragonborn",
-          "FileID": 148807,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37920/37920-1593831481-1287744618.png",
-          "IsNSFW": false,
-          "ModID": 37920,
-          "Name": "Pandorable\u0027s NPCs - Dragonborn - Salt and Wind Textures",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aFQD2idURr8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19450\nfileID=90158",
-        "Name": "Pandorable\u0027s NPCs SE - Salt and Wind Textures-19450-1-2-1556538108.7z",
-        "Size": 40806696,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shiva182",
-          "Description": "Adds Salt and Wind textures for Pandorable\u0027s NPCs",
-          "FileID": 90158,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19450/93193-1534857021-2077451794.jpeg",
-          "IsNSFW": false,
-          "ModID": 19450,
-          "Name": "Pandorable\u0027s NPCs SE - Salt and Wind Textures",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jVF7Hrpub6s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44336\nfileID=182831",
-        "Name": "Pandorable\u0027s Males - Salt and Wind-44336-1-1-1612010405.zip",
-        "Size": 25296383,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable jasperthegnome Shiva182 mashanen",
-          "Description": "Simple retexture of Pandorable\u0027s NPCs - Males hair textures with Salt \u0026amp; Wind ones",
-          "FileID": 182831,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44336/44336-1610588798-597540708.png",
-          "IsNSFW": false,
-          "ModID": 44336,
-          "Name": "Pandorable\u0027s Males - Salt and Wind retexture",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sNspUDy200Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=20967\nfileID=128212",
-        "Name": "Botox for Skyrim SE-20967-1-74-1583961910.7z",
-        "Size": 571340995,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kaspar",
-          "Description": "Facelift all female faces of Skyrim, including bandits, vampires and other no-names. Adds KS-Hair and vampire fangs.",
-          "FileID": 128212,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20967/20967-1584617221-1816959071.jpeg",
-          "IsNSFW": false,
-          "ModID": 20967,
-          "Name": "Botox for Skyrim",
-          "Version": "1.74"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Kn32RyN2Sag=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 214496000,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "Kn32RyN2Sag="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MoS+FCNe/h4=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1406304717,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "MoS+FCNe/h4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1JvVx2fq1Lw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=139840\nfileID=674671",
-        "Name": "Main File - Dagoth Ur Follower-139840-1-0-1760203849.rar",
-        "Size": 160570095,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DerKernel",
-          "Description": "Upon Dagoth\u2019s defeat at Red Mountain, his essence returned to the void between time and space and reflected upon the Heart, upon reality, and upon his dream. A fully-voiced follower with over 1,000 lines, custom items, and a custom quest, Dagoth Ur is your one true companion, Moon-and-Star.",
-          "FileID": 674671,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/139840/139840-1759417612-1133326533.jpg",
-          "IsNSFW": true,
-          "ModID": 139840,
-          "Name": "(Lore Accurate) Dagoth Ur Follower",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+i3PaQR2v/A=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse069-contest.bsa",
-        "Name": "Data_ccbgssse069-contest.bsa",
-        "Size": 42851238,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse069-contest.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "+i3PaQR2v/A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VTFw7kmYtLs=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
-        "Name": "Data_ccbgssse025-advdsgs.bsa",
-        "Size": 1092876237,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "VTFw7kmYtLs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zFjHt8eDapM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccasvsse001-almsivi.bsa",
-        "Name": "Data_ccasvsse001-almsivi.bsa",
-        "Size": 524046246,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccasvsse001-almsivi.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "zFjHt8eDapM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gmtzSRavyZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse001-imperialdragon.bsa",
-        "Name": "Data_ccffbsse001-imperialdragon.bsa",
-        "Size": 177912136,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "gmtzSRavyZY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h0mIieAhiGo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse036-petbwolf.bsa",
-        "Name": "Data_ccbgssse036-petbwolf.bsa",
-        "Size": 17946631,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse036-petbwolf.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "h0mIieAhiGo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PG1IwuWeJ9w=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse056-ba_silver.bsa",
-        "Name": "Data_ccbgssse056-ba_silver.bsa",
-        "Size": 48153079,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "PG1IwuWeJ9w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ulJPbfHx/wM=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse034-mntuni.bsa",
         "Name": "Data_ccbgssse034-mntuni.bsa",
@@ -45134,6 +44839,107 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "zy0DomDts78=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse064-ba_elven.bsa",
+        "Name": "Data_ccbgssse064-ba_elven.bsa",
+        "Size": 45841470,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "zy0DomDts78="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PG1IwuWeJ9w=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse056-ba_silver.bsa",
+        "Name": "Data_ccbgssse056-ba_silver.bsa",
+        "Size": 48153079,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "PG1IwuWeJ9w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7D6VZkSXU8c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35339\nfileID=137645",
+        "Name": "CO 61 Converus Bugfix-35339-1-01-1588440899.7z",
+        "Size": 79550,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DomainWolf",
+          "Description": "A set of 20\u002B overlays made from the ideas of members of the community! UUNP, CBBE, and Male Support! Contains many different kinds of overlays and bodypaints! Some of my best quality work.",
+          "FileID": 137645,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35339/35339-1588115066-2101106101.png",
+          "IsNSFW": false,
+          "ModID": 35339,
+          "Name": "Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PDVHLK2W12M=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1345109830,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "PDVHLK2W12M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ia3REakZzbo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
+        "Name": "Data_ccbgssse067-daedinv.bsa",
+        "Size": 386611908,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "ia3REakZzbo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6cfO4iV3RJM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse018-shadowrend.bsa",
+        "Name": "Data_ccbgssse018-shadowrend.bsa",
+        "Size": 73376289,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse018-shadowrend.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "6cfO4iV3RJM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "lZhXJ4LoAtc=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse053-ba_leather.bsa",
         "Name": "Data_ccbgssse053-ba_leather.bsa",
@@ -45150,16 +44956,195 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RZRHVHedHe0=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511492648,
+        "Hash": "/UjmU5YV13I=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 810446049,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "RZRHVHedHe0="
+          "Hash": "/UjmU5YV13I="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MhDJueWnro8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 17658991,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "MhDJueWnro8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6iTbRKbwFAw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=91431\nfileID=388469",
+        "Name": "DLC2PillarBuilderActorScript Tweak-91431-1-0-0-1684183721.7z",
+        "Size": 3128,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ferrari365",
+          "Description": "Overhauls the DLC2PillarBuilderActorScript from scratch for better performance, by making it only update when necessary and expands on its features for a more comprehensive behavior handling. No ESP.",
+          "FileID": 388469,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91431/91431-1684181139-265039344.png",
+          "IsNSFW": false,
+          "ModID": 91431,
+          "Name": "DLC2PillarBuilderActorScript Tweak",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SW4OllhUu2M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=90585\nfileID=384303",
+        "Name": "DLC2dunFrostmoonTriggerScript Optimization-90585-1-0-0-1683097955.7z",
+        "Size": 2898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ferrari365",
+          "Description": "Reworks the DLC2dunFrostmoonTriggerScript to not check repeatedly if you\u0027re near the camp by replacing an inefficient event with RegisterForSingleUpdateGameTime. No ESP.",
+          "FileID": 384303,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90585/90585-1683095870-1056715558.png",
+          "IsNSFW": false,
+          "ModID": 90585,
+          "Name": "DLC2dunFrostmoonTriggerScript Optimization",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qrCpjbvR9U0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=89890\nfileID=381339",
+        "Name": "DLC2MiraakScript-89890-1-0-0-1682276775.7z",
+        "Size": 2738,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ferrari365",
+          "Description": "Fixes the DLC2MiraakScript to not take up all of the game\u0027s scripting resources and wrecking the scripting engine in the process, by reworking a very inefficient while loop. No ESP.",
+          "FileID": 381339,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89890/89890-1682273618-1909525012.png",
+          "IsNSFW": false,
+          "ModID": 89890,
+          "Name": "DLC2MiraakScript Fix",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ir+wT463MZM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=92705\nfileID=394416",
+        "Name": "DLC2AudioRepeaterActivator01Script Tweak-92705-1-0-0-1685739114.7z",
+        "Size": 1367,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ferrari365",
+          "Description": "Reworks the DLC2AudioRepeaterActivator01Script to fix a few bugs with its implementation and improve performance. No ESP.",
+          "FileID": 394416,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92705/92705-1685735412-954806356.png",
+          "IsNSFW": false,
+          "ModID": 92705,
+          "Name": "DLC2AudioRepeaterActivator01Script Tweak",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SUuRTSSNnIM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=94620\nfileID=402554",
+        "Name": "MQ105SprintTriggerScript Fix-94620-1-0-1-1688152095.zip",
+        "Size": 7929,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ferrari365",
+          "Description": "Prevents the MQ105SprintTriggerScript from duplicating itself and getting stuck running forever in your save. No ESP.",
+          "FileID": 402554,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/94620/94620-1688052400-1908006205.png",
+          "IsNSFW": false,
+          "ModID": 94620,
+          "Name": "MQ105SprintTriggerScript Fix",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y3oyhmKPUIE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32161\nfileID=666949",
+        "Name": "SDA 4.2.2 Hotfix-32161-4-2-2-1758190760.7z",
+        "Size": 500744,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Martimius",
+          "Description": "An expansion of Serana\u0027s dialogue and NPC features to make her a more immersive follower. Serana Dialogue Add-On is highly acclaimed and also featured in Forbes magazine.",
+          "FileID": 666949,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32161/32161-1695975858-1433117051.jpeg",
+          "IsNSFW": false,
+          "ModID": 32161,
+          "Name": "Serana Dialogue Add-On",
+          "Version": "4.0.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xIc2f3jM9H4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=89708\nfileID=382257",
+        "Name": "DLC2dunSeekerInvisScript Fix-89708-1-1-0-1682544408.7z",
+        "Size": 2767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ferrari365",
+          "Description": "Reworks the DLC2dunSeekerInvisScript to improve performance and prevent FPS drops by replacing an inefficient while loop with RegisterForSingleUpdate. No ESP.",
+          "FileID": 382257,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89708/89708-1682091183-60216228.png",
+          "IsNSFW": false,
+          "ModID": 89708,
+          "Name": "DLC2dunSeekerInvisScript Fix",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kn32RyN2Sag=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 214496000,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "Kn32RyN2Sag="
         }
       }
     },
@@ -45262,91 +45247,106 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G/rXqztUR/c=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
-        "Name": "Data_ccbgssse063-ba_ebony.bsa",
-        "Size": 47723055,
+        "Hash": "RZRHVHedHe0=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1511492648,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "G/rXqztUR/c="
+          "Hash": "RZRHVHedHe0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7D6VZkSXU8c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35339\nfileID=137645",
-        "Name": "CO 61 Converus Bugfix-35339-1-01-1588440899.7z",
-        "Size": 79550,
+        "Hash": "4fzcfeOm1HY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37920\nfileID=148807",
+        "Name": "Pandorable NPCs Dragonborn - Salt and Wind Textures-37920-1-1-1593902456.zip",
+        "Size": 30104380,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DomainWolf",
-          "Description": "A set of 20\u002B overlays made from the ideas of members of the community! UUNP, CBBE, and Male Support! Contains many different kinds of overlays and bodypaints! Some of my best quality work.",
-          "FileID": 137645,
+          "Author": "jasperthegnome Shiva182 and 1NGR",
+          "Description": "Adds salt and wind textures for the NPCs in Pandorable NPCs - Dragonborn",
+          "FileID": 148807,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35339/35339-1588115066-2101106101.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37920/37920-1593831481-1287744618.png",
           "IsNSFW": false,
-          "ModID": 35339,
-          "Name": "Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos",
-          "Version": "1.0"
+          "ModID": 37920,
+          "Name": "Pandorable\u0027s NPCs - Dragonborn - Salt and Wind Textures",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6cfO4iV3RJM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse018-shadowrend.bsa",
-        "Name": "Data_ccbgssse018-shadowrend.bsa",
-        "Size": 73376289,
+        "Hash": "aFQD2idURr8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19450\nfileID=90158",
+        "Name": "Pandorable\u0027s NPCs SE - Salt and Wind Textures-19450-1-2-1556538108.7z",
+        "Size": 40806696,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse018-shadowrend.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "6cfO4iV3RJM="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shiva182",
+          "Description": "Adds Salt and Wind textures for Pandorable\u0027s NPCs",
+          "FileID": 90158,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19450/93193-1534857021-2077451794.jpeg",
+          "IsNSFW": false,
+          "ModID": 19450,
+          "Name": "Pandorable\u0027s NPCs SE - Salt and Wind Textures",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lHKecWZdnlI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
-        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
-        "Size": 43781890,
+        "Hash": "jVF7Hrpub6s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44336\nfileID=182831",
+        "Name": "Pandorable\u0027s Males - Salt and Wind-44336-1-1-1612010405.zip",
+        "Size": 25296383,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "lHKecWZdnlI="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable jasperthegnome Shiva182 mashanen",
+          "Description": "Simple retexture of Pandorable\u0027s NPCs - Males hair textures with Salt \u0026amp; Wind ones",
+          "FileID": 182831,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44336/44336-1610588798-597540708.png",
+          "IsNSFW": false,
+          "ModID": 44336,
+          "Name": "Pandorable\u0027s Males - Salt and Wind retexture",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zy0DomDts78=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse064-ba_elven.bsa",
-        "Name": "Data_ccbgssse064-ba_elven.bsa",
-        "Size": 45841470,
+        "Hash": "sNspUDy200Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20967\nfileID=128212",
+        "Name": "Botox for Skyrim SE-20967-1-74-1583961910.7z",
+        "Size": 571340995,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "zy0DomDts78="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaspar",
+          "Description": "Facelift all female faces of Skyrim, including bandits, vampires and other no-names. Adds KS-Hair and vampire fangs.",
+          "FileID": 128212,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20967/20967-1584617221-1816959071.jpeg",
+          "IsNSFW": false,
+          "ModID": 20967,
+          "Name": "Botox for Skyrim",
+          "Version": "1.74"
         }
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
 }
