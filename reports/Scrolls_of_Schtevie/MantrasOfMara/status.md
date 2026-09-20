@@ -3253,7 +3253,7 @@
 *  [Stuck on Screen Load Door Prompt Fix-96531-0-1-1-1690218125.rar](https://www.nexusmods.com/skyrimspecialedition/mods/96531/?tab=files&file_id=410215)
 *  [Stuff of Shadows - 3D Nightingale Stone and Stuff-130481-0-3-1729899642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130481/?tab=files&file_id=555533)
 *  [Subclasses of Skyrim 2-98784-1-0-3-1708260599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98784/?tab=files&file_id=472158)
-*  [SubmissiveLolaResubmission 2.1.13.7z](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=2083332&confirm=1&t=1&csrfKey=355e792d6fa52c8df9631d9d5f2e37ed)
+*  [SubmissiveLolaResubmission 2.1.24.7z](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=2182586&confirm=1&t=1&csrfKey=5eb60367d6ebdb2948efd50dd568237d)
 *  [Substance Designer-135279-1-1-1733580438.rar](https://www.nexusmods.com/skyrimspecialedition/mods/135279/?tab=files&file_id=569905)
 *  [Subtitles-113214-0-6-2-1737415550.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113214/?tab=files&file_id=585712)
 *  [SUEMR Optional No-Glow Vampire Eye Meshes SSE-18147-v3-0-1577160333.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18147/?tab=files&file_id=117240)
