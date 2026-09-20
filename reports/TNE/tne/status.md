@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3844)
+### Valid (3842)
 *  [  StormcloakRevival 2K-70723-1-0a.7z](https://www.nexusmods.com/skyrim/mods/70723/?tab=files&file_id=1000181522)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -1284,7 +1284,6 @@
 *  [Flickering Meshes Fix-53957-2-3-1719182247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53957/?tab=files&file_id=514331)
 *  [Floating Ash Pile Fix-63434-0-3-1758512841.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63434/?tab=files&file_id=668239)
 *  [Flora Cut for TNE-23894-1-9-2-1747260400.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23894/?tab=files&file_id=627217)
-*  flowchartx32.dll
 *  [Flowers and plants mesh fix SE-35843-1-3-1592834758.rar](https://www.nexusmods.com/skyrimspecialedition/mods/35843/?tab=files&file_id=146910)
 *  [Fluffy Rabbit Fur-100042-1-1-1715599186.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100042/?tab=files&file_id=500640)
 *  [Flute Animation Fix-69609-1-3-1727765977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=547984)
@@ -3092,7 +3091,6 @@
 *  Skyrim.ccc
 *  [Skyrim's Environmental Audio Enhancer-98204-1-6-1745923076.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98204/?tab=files&file_id=622092)
 *  [SkyrimCharacterSheet-56069-1-1-4-1708629465.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56069/?tab=files&file_id=473589)
-*  SkyrimReservedAddOnIndexes.txt
 *  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
