@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (848)
+### Valid (849)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [03 - Skysight Skins PERFORMANCE - FOMOD Installer-6580-2-0-2-1748220446.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=631261)
@@ -44,6 +44,7 @@
 *  [Artesian Cloaks of Skyrim FOMOD-17416-1-3-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17416/?tab=files&file_id=58843)
 *  [Ascend - Hidden Peaks of Skyrim-120802-1-01-1724932479.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120802/?tab=files&file_id=536417)
 *  [Assorted_Mesh_Fixes_0.139.3_s6Og0dhln.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=768960)
+*  [Attack MCO unarmed PA fix-93294-1-0-1686555789.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93294/?tab=files&file_id=397164)
 *  [Attack MCO-DXP-175044-1-6-0-6-1773913408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175044/?tab=files&file_id=732907)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
@@ -121,6 +122,7 @@
 *  [Config INI - GrassControl.ini (1.6.3)-42161-1-6-3-1778867621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=752630)
 *  [ConsoleUtilSSE NG-76649-1-5-1-1704108553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=456904)
 *  [Container Distribution Framework-120152-3-0-2-1740934552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120152/?tab=files&file_id=601042)
+*  [Content Catalog Nuker 189542 1 2026-08-24T23-19Z 8gJHT4UvV.zip](https://www.nexusmods.com/skyrimspecialedition/mods/189542/?tab=files&file_id=794696)
 *  [Controller enabled SkyUI Map Search-27007-1-1-1562513076.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27007/?tab=files&file_id=98475)
 *  [Core Impact Framework - Latest Version-146873-1-2-8-1771158591.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146873/?tab=files&file_id=721776)
 *  [Crackling Fire-137631-1-2-1737581799.7z](https://www.nexusmods.com/skyrimspecialedition/mods/137631/?tab=files&file_id=586317)
@@ -220,7 +222,6 @@
 *  Data_ccbgssse062-ba_dwarvenmail.esl
 *  Data_ccbgssse063-ba_ebony.bsa
 *  Data_ccbgssse063-ba_ebony.esl
-*  Data_ccbgssse064-ba_elven.bsa
 *  Data_ccbgssse066-staves.bsa
 *  Data_ccbgssse066-staves.esl
 *  Data_ccbgssse067-daedinv.bsa
@@ -622,7 +623,7 @@
 *  [Precision-72347-2-0-4-1674360214.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=351862)
 *  [Pregenerated Vanilla and USSEP-66356-1-0-1649695517.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66356/?tab=files&file_id=276448)
 *  [Press E To Heal Followers-101823-1-0-1697198920.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101823/?tab=files&file_id=433552)
-*  [prod80-ReShade-Repository-master.zip](https://github.com/prod80/prod80-ReShade-Repository/archive/refs/heads/master.zip)
+*  [prod80-ReShade-Repository-FROZEN.zip](https://github.com/GamesRedone/prod80-ReShade-Repository/archive/refs/tags/FROZEN.zip)
 *  [Proper Mod-Added Torch Support-104521-1-5-1770312021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104521/?tab=files&file_id=717886)
 *  [QuickLoot IE - A QuickLoot EE Fork-120075-3-4-1-1739389633.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120075/?tab=files&file_id=593878)
 *  [QuickLoot IE - Favourites style-51017-2-0-0-1725141590.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51017/?tab=files&file_id=537356)
@@ -641,8 +642,8 @@
 *  [Remember Lockpick Angle-26838-4-2-1666611500.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26838/?tab=files&file_id=326266)
 *  [Remove Cloaks and Capes - Campfire-149658-1-0-1746827982.rar](https://www.nexusmods.com/skyrimspecialedition/mods/149658/?tab=files&file_id=625426)
 *  [Replacer - Nyghtfall-39011-2-1-1703094507.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39011/?tab=files&file_id=453620)
-*  [reshade-shaders-legacy.zip](https://github.com/crosire/reshade-shaders/archive/refs/heads/legacy.zip)
-*  [reshade-shaders-slim.zip](https://github.com/crosire/reshade-shaders/archive/refs/heads/slim.zip)
+*  [reshade-shaders-FROZEN-LEGACY.zip](https://github.com/GamesRedone/reshade-shaders/archive/refs/tags/FROZEN-LEGACY.zip)
+*  [reshade-shaders-FROZEN.zip](https://github.com/GamesRedone/reshade-shaders/archive/refs/tags/FROZEN.zip)
 *  [Ricochet Framework - Latest Version-160603-1-0-2-1760215403.zip](https://www.nexusmods.com/skyrimspecialedition/mods/160603/?tab=files&file_id=674817)
 *  [ring necked pheasants (se-ae)-95121-1-1688574825.rar](https://www.nexusmods.com/skyrimspecialedition/mods/95121/?tab=files&file_id=404052)
 *  [Root Builder-31720-5-1-1-1767959063.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=707262)
@@ -675,7 +676,7 @@
 *  [Serious Civil War Fort Personnel-137106-1-0-3-1762347476.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137106/?tab=files&file_id=684086)
 *  [Settings Loader (CS) 181971 v1.1.0 2026-07-08T18-32Z Z3mWyIkLh.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181971/?tab=files&file_id=773315)
 *  [Settings Loader (ENB) 181971 v1.1.0 2026-07-08T18-31Z kATsMWuzI.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181971/?tab=files&file_id=773314)
-*  [Shaders-master.zip](https://github.com/brussell1/Shaders/archive/refs/heads/master.zip)
+*  [Shaders-FROZEN.zip](https://github.com/GamesRedone/Shaders/archive/refs/tags/FROZEN.zip)
 *  [Shadow of Skyrim - No Startup Message-65136-1-3-4-1677950345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65136/?tab=files&file_id=365443)
 *  [Shadow of Skyrim-65136-1-3-4-1677950671.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65136/?tab=files&file_id=365445)
 *  [Ships on the Horizon - Animated-79034-1-2-1708194056.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79034/?tab=files&file_id=471867)
@@ -758,7 +759,7 @@
 *  [Super Fast Get Up Animation-46714-1-0-1615242774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46714/?tab=files&file_id=190327)
 *  [Survival Mode - Disable Permanently-59049-1-0-0-1637864411.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59049/?tab=files&file_id=244331)
 *  [Suspicious City Guards-38762-5-1595968194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38762/?tab=files&file_id=152650)
-*  [SweetFX-master.zip](https://github.com/CeeJayDK/SweetFX/archive/refs/heads/master.zip)
+*  [SweetFX-FROZEN.zip](https://github.com/GamesRedone/SweetFX/archive/refs/tags/FROZEN.zip)
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.36.6/Synthesis.zip)
 *  [TavernAIFix-se-23107-1-2-1646241760.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=267651)
 *  [Tempered Skins for Females-8505-1-31-1581275267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8505/?tab=files&file_id=123402)

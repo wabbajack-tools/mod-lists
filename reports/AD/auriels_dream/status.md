@@ -1,11 +1,10 @@
 ## Validation Report - Auriels Dream - VR (AD/auriels_dream)
 
 
-### Invalid (1)
-*  [FSR2.2.zip](https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (874)
+### Valid (875)
 *  [2K Caveworm-41956-1-0-1604317541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41956/?tab=files&file_id=168277)
 *  [2K ElSopa HD - Grindstone-22647-1-0-1547611945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22647/?tab=files&file_id=78482)
 *  [2K ElSopa HD - The Smelter-22524-1-0-1547182864.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22524/?tab=files&file_id=77912)
@@ -356,6 +355,7 @@
 *  [Frankly HD Nightingale Armor and Weapons 1.1-18560-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18560/?tab=files&file_id=59909)
 *  [Frankly HD Thieves Guild Armors-19953-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19953/?tab=files&file_id=66049)
 *  [Frost Slow Tweaks-26584-2-0-0-1571010928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26584/?tab=files&file_id=110260)
+*  [FSR2.2.zip](https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a)
 *  [FYX - 3D Dock Ramp-64529-1-0-1-1647966717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64529/?tab=files&file_id=271825)
 *  [FYX - 3D Farmhouse Walkway-64809-1-0-2b-1648789762.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64809/?tab=files&file_id=274015)
 *  [FYX - 3D Honeyside Deck Floor-64485-1-0-3-1647966873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64485/?tab=files&file_id=271828)
