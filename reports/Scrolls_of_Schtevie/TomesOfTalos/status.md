@@ -2299,7 +2299,7 @@
 *  [Patches for The Great Cities and Towns-9005-0-2-01e-1736020621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=579389)
 *  [Payload Interpreter - Nemesis Less Patch-78146-v1-0-1667564948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328880)
 *  [Payload Interpreter-65089-1-1-0-1685672813.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65089/?tab=files&file_id=394150)
-*  [PCA 2022.1-23852-2022-1-1651831763.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23852/?tab=files&file_id=281826)
+*  [PCA.SE.7z](https://github.com/Kiyozz/papyrus-compiler-app/releases/download/v5.8.0/PCA.SE.7z)
 *  [Pearls and Clams - BOS version - 2k-129611-1-0-3-1748985756.zip](https://www.nexusmods.com/skyrimspecialedition/mods/129611/?tab=files&file_id=634311)
 *  [Peasant Dreams - BOS Color Variance-130488-1-0-7-1749829000.rar](https://www.nexusmods.com/skyrimspecialedition/mods/130488/?tab=files&file_id=637396)
 *  [Pelagia Farm - LOTD Patch-105088-1-0-0-1701364294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105088/?tab=files&file_id=447474)
