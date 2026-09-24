@@ -293,7 +293,7 @@
 *  [Dark Brotherhood Reborn - Dawnstar Sanctuary-22070-1-0-7-1545521259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22070/?tab=files&file_id=75937)
 *  [Dark Knight Armor 4K-40775-1-1-1602262257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40775/?tab=files&file_id=164652)
 *  [Dark Watchtowers Grim Version-155345-1-1-1757077253.zip](https://www.nexusmods.com/skyrimspecialedition/mods/155345/?tab=files&file_id=662618)
-*  [DarkDukla Eye v16-68347-16-0-1685202044.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68347/?tab=files&file_id=392406)
+*  [DarkDukla Eye II 68347 20.0 2026-07-28T21-31Z HZCMOypdD.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68347/?tab=files&file_id=782582)
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
 *  Data__ResourcePack.bsa
 *  Data__ResourcePack.esl
@@ -590,7 +590,7 @@
 *  [ENB Anti-Aliasing-130669-1-2-3-1728259215.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=549787)
 *  [ENB Extender and Helper-99406-1-4-3-1772037658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=725651)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
-*  [enbseries_skyrimse_v0505.zip](http://enbdev.com/enbseries_skyrimse_v0505.zip)
+*  [enbseries_skyrimse_v0505.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0505.zip_ca41e393-959b-4b1d-906e-06a07d4339c7)
 *  [Engine Fixes (All-In-One) for 1.6.1170 and newer-17230-7-0-19-AIO-1758815694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=669326)
 *  [Enter College of Winterhold as Dragonborn Fix-102605-1-0-1697311704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/102605/?tab=files&file_id=433944)
 *  [Environs - Hroggar's House-83457-2-0-3-1723196175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83457/?tab=files&file_id=529772)
