@@ -1,0 +1,39 @@
+name: Submit a new modlist repository
+description: Get your unofficial modlist repository added to the Wabbajack gallery.
+title: "[Repository Submission] "
+labels: ["repository-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your modlist repository! Fill in the two fields below and automation takes care of the rest:
+        it checks your `modlists.json`, comments here if anything needs fixing, and opens the pull request for you.
+
+        Before you start you need:
+        - Your `.wabbajack` file uploaded to the [Wabbajack CDN](https://wiki.wabbajack.org/wabbajack_cdn_and_gallery_access/Getting%20CDN%20Access.html)
+        - A public GitHub repository containing a `modlists.json` describing your list ([guide](https://wiki.wabbajack.org/wabbajack_cdn_and_gallery_access/Adding%20a%20Custom%20Repository%20to%20Wabbajack.html))
+
+        If a check fails, the bot comments here with exactly what to fix. Fix it in your `modlists.json`, then comment `fixed` on this issue and the checks run again.
+  - type: input
+    id: repo-name
+    attributes:
+      label: Repository name
+      description: A unique name for your repository in the gallery. Letters, numbers, `_` and `-` only. We suggest your username, since any additional modlists of yours will live in the same repository. This name also becomes the first half of the Machine URL you publish updates with, as `<this name>/<your list's machineURL>`.
+      placeholder: JohnDoe
+    validations:
+      required: true
+  - type: input
+    id: modlists-url
+    attributes:
+      label: Link to your modlists.json
+      description: A link to the `modlists.json` file in your repository. A regular GitHub link is fine - it is converted to the raw format automatically.
+      placeholder: https://github.com/JohnDoe/my-modlists/blob/main/modlists.json
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Content rules
+      options:
+        - label: My modlist follows the [Wabbajack policies](https://wiki.wabbajack.org/policies_and_license/Policies%20and%20License.html), and everything it inlines or rehosts is allowed on the Wabbajack CDN.
+          required: true
