@@ -4,11 +4,12 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (214)
+### Valid (215)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
 *  [Absorb XP Fix 143589 2.1.0 2026-08-22T17-34Z QRde319Hu.7z](https://www.nexusmods.com/skyrimspecialedition/mods/143589/?tab=files&file_id=793392)
 *  [Actor Limit Fix Anniversary (1.7.99.0 And Later) 32349 9 2026-08-26T15-27Z CmfxYj7VC.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=795423)
+*  [Actor Value Generator - Main File 84743 2.3.6.0 2026-09-06T04-44Z gbrZ4tQ11.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=801108)
 *  [Address Library All in One (1.7.104.0) v13 32444 13 2026-08-27T15-29Z Ae46W7Fw2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=795954)
 *  [Alchemy XP Fix 117389 1.1 2026-08-30T08-27Z Yj6wQRiKT.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117389/?tab=files&file_id=797470)
 *  [Andrealphus Papyrus Functions 85252 1.9.0 2026-09-04T19-44Z QRde31FKm.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85252/?tab=files&file_id=800275)
@@ -16,11 +17,10 @@
 *  [Animation Queue Fix 82395 1.0.2 2026-08-31T16-18Z PuQ2UKIR4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=798212)
 *  [AnimObject Swapper 75167 2.0.0 2026-09-20T04-01Z vlGiB9yiY.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=808062)
 *  [Assorted Animation Fixes-93271-1-02-1691850867.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93271/?tab=files&file_id=416390)
-*  [Assorted Mesh Fixes 32117 0.139.3 2026-06-27T20-59Z s6Og0dhln.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=768960)
+*  [Assorted Mesh Fixes 32117 0.144 2026-09-26T09-10Z CmfxYjJ0x.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=810799)
 *  [Auto Input Switch 54309 1.3.1 2026-08-26T19-19Z 4t2yDcne2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=795566)
 *  [Auto Parallax 79473 1.0.28 2026-08-24T21-04Z 8gJHT4US8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=794630)
 *  [Autorun-45451-1-0-1612756843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45451/?tab=files&file_id=184691)
-*  [AVG Main File 84743 2.3.4.0 2026-08-30T15-33Z izKcFpCGY.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=797626)
 *  [BAE v0.10-974-0-10.7z](https://www.nexusmods.com/skyrimspecialedition/mods/974/?tab=files&file_id=5396)
 *  [Barter Limit Fix 77173 1.0.2 2026-09-03T14-58Z HZCMOyQKb.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77173/?tab=files&file_id=799756)
 *  [Base Object Swapper 60805 3.5.0 2026-08-25T12-33Z Ae46W7Fxr.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=794962)
@@ -87,15 +87,16 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  [DbMiscFunctions 65410 10.4 2026-08-27T05-37Z L5WQbqhzr.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=795761)
+*  [DbMiscFunctions 65410 10.9 2026-09-11T23-04Z 6Xybda5sG.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=803889)
 *  [Difficulty Global Variable 120521 2.3.0 2026-08-29T09-41Z s6Og0dUgi.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120521/?tab=files&file_id=796922)
 *  [Disable Havok Script Tweak Resource - Standalone-93426-1-1-1686658457.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93426/?tab=files&file_id=397471)
+*  [DovahKit (bundle) 192694 0.1.2 2026-09-28T04-40Z cE8hkAicl.zip](https://www.nexusmods.com/skyrimspecialedition/mods/192694/?tab=files&file_id=811582)
 *  [Dual Casting Fix 92454 1.0.1 2026-08-28T22-33Z aChSzYWa5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92454/?tab=files&file_id=796677)
 *  [Dynamic Books-117290-1-0-5-1754287001.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117290/?tab=files&file_id=652695)
-*  [Effect Animation Framework-171917-1-0-2-1770495839.7z](https://www.nexusmods.com/skyrimspecialedition/mods/171917/?tab=files&file_id=718799)
+*  [Effect Animation Framework 171917 1.1.0 2026-09-04T17-07Z Ae46W7GK9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/171917/?tab=files&file_id=800232)
 *  [Engine Fixes 7.0.21 beta for Skyrim AE 1.7.99 17230 7.0.21 2026-08-24T16-52Z vlGiB9OkV.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=794484)
 *  [Equip Enchantment Fix for 1.6.629 and newer 42839 1.3.7 2026-09-18T19-34Z Z3mWyI68E.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=807291)
-*  [FLICK NG 181603 1.4.0 2026-09-07T18-44Z s6Og0dLrc.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181603/?tab=files&file_id=801990)
+*  [FLICK NG 181603 1.5.0 2026-09-28T03-20Z 8gJHT4K8v.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181603/?tab=files&file_id=811556)
 *  flowchartx64.dll
 *  [GetActorValuePercentage - Fix 165998 2.1.0 2026-08-30T08-47Z aChSzY0PZ.7z](https://www.nexusmods.com/skyrimspecialedition/mods/165998/?tab=files&file_id=797483)
 *  [Global Variable Framework 178161 1.1.0 2026-09-02T23-06Z JrECN2WXw.7z](https://www.nexusmods.com/skyrimspecialedition/mods/178161/?tab=files&file_id=799474)
@@ -112,7 +113,6 @@
 *  [Keyword Item Distributor (SE AE) 55728 4.1.0 2026-08-25T01-04Z 587RqTfrf.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=794743)
 *  [King Olaf's Fire Festival Not Ending Fix-65849-0-1-1648899684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65849/?tab=files&file_id=274311)
 *  [Leveled List Crash Fix 129136 2.0.1 2026-08-29T20-25Z oPpNfUy27.7z](https://www.nexusmods.com/skyrimspecialedition/mods/129136/?tab=files&file_id=797177)
-*  [LEX Main File 153176 0.6.2.0 2026-08-30T01-21Z lNkz9LrBc.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153176/?tab=files&file_id=797319)
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
@@ -122,6 +122,7 @@
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
+*  [Lexicon - Main File 153176 0.6.3.0 2026-09-06T05-03Z VMSnJrsdO.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153176/?tab=files&file_id=801110)
 *  [LOD Unloading Bug Fix-61251-0-2-1728699151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=551262)
 *  [Log Watcher 163979 3.0.3 2026-09-22T14-18Z XnIqaCevZ.7z](https://www.nexusmods.com/skyrimspecialedition/mods/163979/?tab=files&file_id=809149)
 *  [Magic Student (WIChangeLocation04) Quest Fix-80676-0-1-1671093954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80676/?tab=files&file_id=340731)
@@ -141,7 +142,7 @@
 *  [No Console Spam 119246 1.2.0 2026-08-21T01-14Z gbrZ4tkQ8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119246/?tab=files&file_id=792552)
 *  [No More Blinding Fog-87342-0-1-1679219937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87342/?tab=files&file_id=369937)
 *  [NPC AI Process Position Fix - NG 69326 1.1.3 2026-08-24T20-58Z L5WQbqh4z.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69326/?tab=files&file_id=794615)
-*  [NPC Perk Storage - SKSE 174259 1.3.0 2026-08-28T22-19Z 587RqTf5y.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174259/?tab=files&file_id=796671)
+*  [NPC Perk Storage - SKSE 174259 1.4.0 2026-09-17T09-22Z HZCMOyshk.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174259/?tab=files&file_id=806514)
 *  [Octagon-28773-1-1-6-1649529304.rar](https://www.nexusmods.com/skyrimspecialedition/mods/28773/?tab=files&file_id=275968)
 *  [Open Animation Replacer 92109 3.2.1 2026-08-31T16-32Z MWx0rveD6.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=798222)
 *  [Opt. 2 - Even Wider Rescaled MCM Menu for SkyUI-22825-1-2-1572528179.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22825/?tab=files&file_id=112005)
@@ -151,12 +152,12 @@
 *  [Paired Animation Improvements 99621 1.0.3 2026-08-31T16-20Z FpnkHZY0N.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=798216)
 *  [Pandora Behaviour Engine-133232-v2-4-0-beta-1730822349.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=559206)
 *  Papyrus Compiler_ScriptCompile.bat
-*  [Papyrus Extender 22854 6.5.1 2026-08-25T23-16Z RHaV1OLNk.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=795172)
+*  [Papyrus Extender 22854 6.5.2 2026-09-05T12-53Z Sx9oEwOl7.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=800720)
 *  [Papyrus Ini Manipulator 65634 1.9.9 2026-08-23T21-53Z cE8hkAmA5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=794098)
 *  [Papyrus Profiler-82770-2-1-0-1712419017.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82770/?tab=files&file_id=488052)
 *  [PapyrusUtil AE SE - Scripting Utility Functions 13048 4.8 2026-08-30T01-51Z OyYrPu3oN.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=797330)
 *  [PEPE Main File 91192 2.3.7.0 2026-08-30T15-35Z 6XybdaK4q.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91192/?tab=files&file_id=797627)
-*  [Photo Mode 91701 3.0.3 2026-08-30T18-57Z 587RqT9WD.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=797719)
+*  [Photo Mode 91701 3.0.4 2026-09-11T10-50Z PuQ2UKvvw.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=803668)
 *  [powerofthree's Tweaks 51073 1.17.1 2026-08-25T00-11Z zYsEpQvXg.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=794717)
 *  [Remove Orphaned Hazards 151075 1.1.0 2026-08-30T07-51Z 9LMpgb2en.7z](https://www.nexusmods.com/skyrimspecialedition/mods/151075/?tab=files&file_id=797458)
 *  [RemoveAllItems Freeze Fix 90734 1.1.1 2026-08-24T21-05Z kATsMWjaX.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90734/?tab=files&file_id=794642)
@@ -165,7 +166,7 @@
 *  [ScaleformTranslationPP 77359 1.10 2026-08-24T11-46Z PuQ2UKSsd.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=794368)
 *  [Show My Time 116486 2.0.0 2026-09-14T08-44Z PuQ2UKmUb.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116486/?tab=files&file_id=805032)
 *  [Simple Dual Sheath for 1.6.629 and newer 50049 1.5.9 2026-08-29T20-25Z 8gJHT4LZB.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=797176)
-*  [SKSE Menu Framework 120352 3.14.1 2026-08-28T16-41Z 6Xybdak8p.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=796511)
+*  [SKSE Menu Framework 120352 3.18 2026-09-17T16-36Z cE8hkAlOT.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=806684)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
 *  [Skyrim Script Extender (SKSE64) Steam 30379 2.3.1 2026-08-27T16-52Z s6Og0dG94.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=795992)
 *  Skyrim_SkyrimPrefs.ini
@@ -183,7 +184,7 @@
 *  [SSEEdit 4.1.5f-164-4-1-5f-1714283656.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=495506)
 *  [Stagger Effect Fix 110508 1.0.4 2026-08-31T14-25Z 31i7IoHNR.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110508/?tab=files&file_id=798156)
 *  steam_api64.dll
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.35.3/Synthesis.zip)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.36.6/Synthesis.zip)
 *  Tools_Archive_Archive.exe
 *  Tools_ArtTools_Blender_bgs_skyrim_tools.zip
 *  Tools_ArtTools_Blender_io_scene_bsfbx_skyrim.zip
@@ -215,7 +216,7 @@
 *  [TrueHUD 62775 1.1.10 2026-08-31T16-21Z 31i7IoHze.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=798218)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  [Ultimate Immersion Toggle - UI Toggle-62117-1-5-1762989213.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62117/?tab=files&file_id=686848)
-*  [Unofficial Skyrim Special Edition Patch 266 4.3.9a 2026-08-31T19-00Z qTl1Sxgc7.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=798295)
+*  [Unofficial Skyrim Special Edition Patch 266 4.3.9c 2026-09-05T22-22Z lNkz9LChN.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=800977)
 *  [USSEP Behaviour Patch-139572-1-1-1737767400.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139572/?tab=files&file_id=587040)
 *  [xEdit.4.1.5c.EXTREMELY.EXPERIMENTAL.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5c/xEdit.4.1.5c.EXTREMELY.EXPERIMENTAL.7z)
 *  [XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=469854)

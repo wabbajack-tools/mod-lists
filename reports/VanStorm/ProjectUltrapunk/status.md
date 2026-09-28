@@ -63,7 +63,7 @@
 *  [Cutscene Weapon Swapper-20743-1-4-1-1745154157.zip](https://www.nexusmods.com/cyberpunk2077/mods/20743/?tab=files&file_id=107189)
 *  [Cyberarms Stutter Fix-28109-0-1-1773051615.rar](https://www.nexusmods.com/cyberpunk2077/mods/28109/?tab=files&file_id=139012)
 *  [Cyberpunk Story Quest Fixes-29152-1-18-0-161605-1789805940.zip](https://www.nexusmods.com/cyberpunk2077/mods/29152/?tab=files&file_id=161605)
-*  [Cyberpunk Ultra Plus v9.3.8-10490-9-3-8-162778-1790483040.zip](https://www.nexusmods.com/cyberpunk2077/mods/10490/?tab=files&file_id=162778)
+*  [Cyberpunk Ultra Plus v9.3.9-10490-9-3-9-162966-1790572740.zip](https://www.nexusmods.com/cyberpunk2077/mods/10490/?tab=files&file_id=162966)
 *  [Cyberpunk Ultra Skin v9.2.1-10490-9-2-1-157603-1787611680.zip](https://www.nexusmods.com/cyberpunk2077/mods/10490/?tab=files&file_id=157603)
 *  [Cyberware-EX-9429-1-5-6-1777717378.zip](https://www.nexusmods.com/cyberpunk2077/mods/9429/?tab=files&file_id=144031)
 *  [Damaged Windshield PT Fix-30002-1-2-1779817288.7z](https://www.nexusmods.com/cyberpunk2077/mods/30002/?tab=files&file_id=146699)
