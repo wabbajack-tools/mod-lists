@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (251)
+### Valid (249)
 *  [A Matter of Time - A HUD clock widget - Settings L-77212-1-0-1-1690823884.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77212/?tab=files&file_id=412753)
 *  [Abjuration Affects Acolytes-73568-1-1-1661086553.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73568/?tab=files&file_id=309161)
 *  [Additional Clockwork-47087-3-0-6-1774574019.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=735524)
@@ -22,7 +22,6 @@
 *  [Auryen's Notes Map Marker-139853-1-0-1737663350.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139853/?tab=files&file_id=586616)
 *  [AutoEatDrink For Lorerim5 181141 1.9 2026-08-09T18-12Z izKcFptZ6.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181141/?tab=files&file_id=787644)
 *  [Autographs-100385-1-3-1724492310.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100385/?tab=files&file_id=534749)
-*  [Bethesda Plugin Manager - Extended 2.5.2 175385 1.3.0 2026-07-06T12-44Z Ae46W7hCc.7z](https://www.nexusmods.com/skyrimspecialedition/mods/175385/?tab=files&file_id=772345)
 *  [Better Cloaks - Version A - Warmth And Armor - No Camo-73116-1-1660213721.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73116/?tab=files&file_id=306548)
 *  [Better Cloaks - Version B -  Warmth Armor and Camo-73116-1-1660213629.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73116/?tab=files&file_id=306547)
 *  [Better Moon and Star Navmesh-110521-1-0-2-1706740473.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110521/?tab=files&file_id=466622)
@@ -58,7 +57,6 @@
 *  [COWBOY - Immersive College-117164-1-2-1713841720.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117164/?tab=files&file_id=493838)
 *  [CRAP FOMOD-106790-3-14-0-1780501045.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106790/?tab=files&file_id=759242)
 *  [Daedric Shrines - LOTD Add-on - No Light Changes-62833-14-1-1689288583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62833/?tab=files&file_id=406770)
-*  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  [Dawnguard Arsenal ISC AOS-116985-1-0-1713360361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116985/?tab=files&file_id=491797)
 *  [Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25094/?tab=files&file_id=89159)
