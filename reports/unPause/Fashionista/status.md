@@ -1,15 +1,15 @@
 ## Validation Report - Fashionista (unPause/Fashionista)
 
 
-### Invalid (1)
-*  [Antitribu_1.1-Repack.zip](https://authored-files.wabbajack.org/Antitribu_1.1-Repack.zip_f9f184c9-157f-4f9a-bd2a-c83665667a0a)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (998)
+### Valid (999)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  a_basetexture.tth
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
+*  [Antitribu_1.1-Repack.zip](https://authored-files.wabbajack.org/Antitribu_1.1-Repack.zip_f9f184c9-157f-4f9a-bd2a-c83665667a0a)
 *  [Aristocratic_nosferatu.rar](https://www.moddb.com/addons/start/195709)
 *  [Art Texture Pack 1.01-75-1-01-1571250154.zip](https://www.nexusmods.com/vampirebloodlines/mods/75/?tab=files&file_id=288)
 *  [asian_gangrel.zip](https://www.moddb.com/addons/start/17574)
