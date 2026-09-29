@@ -1149,7 +1149,7 @@
 *  [Dynamic Armor Variants Extended-175181-v1-7-5-1777141823.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175181/?tab=files&file_id=745819)
 *  [Dynamic Block Hit Rebalanced 183368 1.1 2026-07-01T10-14Z 2Bej58rPK.rar](https://www.nexusmods.com/skyrimspecialedition/mods/183368/?tab=files&file_id=770305)
 *  [Dynamic Block Hit-100570-1-7-1712464631.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100570/?tab=files&file_id=488244)
-*  [Dynamic Bloodpool Framework - Latest Version 172080 1.1.0 2026-07-25T00-22Z Dc5uGkaOG.zip](https://www.nexusmods.com/skyrimspecialedition/mods/172080/?tab=files&file_id=780859)
+*  [Dynamic Bloodpool Framework - Latest Version 172080 1.1.1 2026-09-02T21-36Z yIjvuh1Zg.zip](https://www.nexusmods.com/skyrimspecialedition/mods/172080/?tab=files&file_id=799428)
 *  [Dynamic Bow Animation-89048-1-5-1705724545.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89048/?tab=files&file_id=463082)
 *  [Dynamic Climbable Ladders-108900-1-3-1-1749970439.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108900/?tab=files&file_id=638016)
 *  [Dynamic Collision Adjustment 76783 1.1.1 2026-08-31T16-19Z CmfxYjdUn.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76783/?tab=files&file_id=798213)
