@@ -1,12 +1,12 @@
 ## Validation Report - Kirbykings Modlist (SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [_Fuse00_ArmorLegionary_CBBE.rar](https://www.patreon.com/file?h=162898121&m=692878001)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2753)
+### Valid (2752)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
-*  [_Fuse00_ArmorLegionary_CBBE.rar](https://www.patreon.com/file?h=162898121&m=692878001)
 *  [- Skyrim 202X - 2K-68307-10-5-2-1754266901.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652625)
 *  [.esp replacer-70950-1-1657418363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70950/?tab=files&file_id=297684)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
