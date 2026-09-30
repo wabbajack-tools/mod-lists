@@ -1,11 +1,10 @@
 ## Validation Report - Mages & Vikings (MagesAndVikings/MagesAndVikings)
 
 
-### Invalid (1)
-*  [_Fuse00_ArmorLegionary_CBBE.rar](https://www.patreon.com/file?h=162898121&m=692878001)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3793)
+### Valid (3794)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
@@ -20,6 +19,7 @@
 *  [_Fuse00_ArmorKatari_CBBE_1.1.rar](https://www.patreon.com/file?h=132364303&m=490035123)
 *  [_Fuse00_ArmorKitsuneHunter_CBBE.rar](https://www.patreon.com/file?h=90572432&m=234992512)
 *  [_Fuse00_ArmorKitsuneHunter_VanillaMale.rar](https://www.patreon.com/file?h=90572432&m=234992594)
+*  [_Fuse00_ArmorLegionary_CBBE.rar](https://www.patreon.com/file?h=162898121&m=692878001)
 *  [_Fuse00_ArmorLegionary_VanillaMale.rar](https://www.patreon.com/file?h=162898121&m=692878207)
 *  [_Fuse00_ArmorLeon.rar](https://www.patreon.com/file?h=82636472&m=201999490)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&m=156675442)
