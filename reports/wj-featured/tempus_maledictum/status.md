@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum (wj-featured/tempus_maledictum)
 
 
-### Invalid (1)
-*  [xLODGen.98.7z](https://authored-files.wabbajack.org/xLODGen.98.7z_0df1cd70-3573-47bd-a829-4e40bbab41ac)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2139)
+### Valid (2140)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Merged) Improved Adoptions Multiple Adoptions Version 3.0-4713-3-0-1553792264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4713/?tab=files&file_id=86643)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -2141,6 +2140,7 @@
 *  [Xelzaz Follower Wyrmstooth Patch-62893-1-0-0-1661198775.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=309601)
 *  [Xelzaz Sirenroot Patch-62893-1-0-2-1738404524.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=589737)
 *  [Xelzaz' Telvanni Spellsword Armor Enhanced-88253-1-1-1681236102.zip](https://www.nexusmods.com/skyrimspecialedition/mods/88253/?tab=files&file_id=377379)
+*  [xLODGen.98.7z](https://authored-files.wabbajack.org/xLODGen.98.7z_0df1cd70-3573-47bd-a829-4e40bbab41ac)
 *  [Xp32 Maximum Skeleton lite-69583-1-2-1662491144.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69583/?tab=files&file_id=313833)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-81-1660739371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=308218)
 *  [YesImSure NG-76892-1-7-1665413824.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76892/?tab=files&file_id=323065)

@@ -1,11 +1,10 @@
 ## Validation Report - SkyGround Chronicles (SkyGround_Chronicles/SkyGround)
 
 
-### Invalid (1)
-*  [AnitBourisTrust.zip](https://authored-files.wabbajack.org/AnitBourisTrust.zip_eb59b8e5-c6d3-4c88-b3a3-4fe4b2bd723a)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2814)
+### Valid (2815)
 *  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
@@ -173,6 +172,7 @@
 *  [Animation Motion Revolution-50258-1-5-3-1664395662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=320113)
 *  [Animation Queue Fix-82395-1-0-1-1673338766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348271)
 *  [AnimObject Swapper-75167-1-1-0-1666410165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=325663)
+*  [AnitBourisTrust.zip](https://authored-files.wabbajack.org/AnitBourisTrust.zip_eb59b8e5-c6d3-4c88-b3a3-4fe4b2bd723a)
 *  [Another Mannequin Script Fix (AE.SE)-56543-1-2-1649601491.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56543/?tab=files&file_id=276190)
 *  [Another Riverwood Bridge - Core-163078-1-0-1761863985.zip](https://www.nexusmods.com/skyrimspecialedition/mods/163078/?tab=files&file_id=682064)
 *  [Another Riverwood Bridge - Ivy - NR - Docks-163078-1-0-1770833373.zip](https://www.nexusmods.com/skyrimspecialedition/mods/163078/?tab=files&file_id=720482)
