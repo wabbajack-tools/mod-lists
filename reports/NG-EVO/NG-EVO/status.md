@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1315)
+### Valid (1312)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_HairHilda.rar](https://www.patreon.com/file?h=86395571&m=217122685)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
@@ -102,6 +102,7 @@
 *  [Aura's Inventory Tweaks-68557-4-5-0-1713935718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68557/?tab=files&file_id=494229)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Auto Physics Reset-174098-1-3-1773304783.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174098/?tab=files&file_id=730579)
+*  [AW 3BA presets pack-162809-1-0-1761508235.zip](https://www.nexusmods.com/skyrimspecialedition/mods/162809/?tab=files&file_id=680730)
 *  [B.O.O.B.I.E.S (Immsersive Icons) 2.1.3-89241-2-1-3-1730442940.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89241/?tab=files&file_id=557732)
 *  [Babbling Brooks-159249-1-1-1758488384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/159249/?tab=files&file_id=668148)
 *  [Bank of Ark SE-158-1-05-1756930484.rar](https://www.nexusmods.com/enderalspecialedition/mods/158/?tab=files&file_id=3886)
@@ -148,10 +149,11 @@
 *  [BodySlide Files for HIMBO-147423-1-0-1744601769.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147423/?tab=files&file_id=617075)
 *  [BodySlide Files for HIMBO-152508-2-0-1749901494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152508/?tab=files&file_id=637692)
 *  [Bodyslide Files for HIMBO-155419-1-0-1753512866.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155419/?tab=files&file_id=650263)
-*  [Bodyslide Output 1115 2 2026-09-28T01-29Z 568MePYYZ.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4503)
+*  [Bodyslide Output 1115 2.2 2026-10-02T20-22Z 568MePYY0.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4509)
 *  [Boggarts vs Elves-166996-1-0-1765644112.7z](https://www.nexusmods.com/skyrimspecialedition/mods/166996/?tab=files&file_id=697596)
 *  [Book Covers of Enderal 4K English Version-733-1-1-3-1722903233.rar](https://www.nexusmods.com/enderalspecialedition/mods/733/?tab=files&file_id=2962)
 *  [BOS Color Variance-114607-1-0-7-1740258575.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114607/?tab=files&file_id=597858)
+*  [Bottled Shaders 192816 1.0.4 2026-09-29T15-16Z FpnkHZjR4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192816/?tab=files&file_id=812228)
 *  [Bow Animation Fix-176365-0-1-1775208641.7z](https://www.nexusmods.com/skyrimspecialedition/mods/176365/?tab=files&file_id=738065)
 *  [Breton Apparel - Imperial Renaissance - HIMBO-135362-0-1-1733111256.7z](https://www.nexusmods.com/skyrimspecialedition/mods/135362/?tab=files&file_id=568154)
 *  [Breton Apparel for Mages Robes-934-1-0-1752927203.zip](https://www.nexusmods.com/enderalspecialedition/mods/934/?tab=files&file_id=3733)
@@ -172,6 +174,7 @@
 *  [Camera Noise-77185-1-2-4-1730750133.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77185/?tab=files&file_id=558981)
 *  [Camera Persistence Fixes-94490-1-1-0-1728037952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94490/?tab=files&file_id=548911)
 *  [Candle Flame VFX Edit-137381-1-0-1735255444.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137381/?tab=files&file_id=576353)
+*  [Candle Lag Fix-18774-1-0-0-1630456733.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18774/?tab=files&file_id=225302)
 *  [Cannons 2K-63-1-0-1618088681.7z](https://www.nexusmods.com/enderalspecialedition/mods/63/?tab=files&file_id=256)
 *  [Castle Bleakstar-806-1-0-3-1739826107.zip](https://www.nexusmods.com/enderalspecialedition/mods/806/?tab=files&file_id=3399)
 *  [Casual Pirate Outfit - 3BA-134468-1-02-1732240370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134468/?tab=files&file_id=564759)
@@ -287,9 +290,7 @@
 *  Data_meshes_actors_character_animations_enderal__00e_bedroll_frontexit.hkx
 *  Data_meshes_actors_character_animations_enderal__00e_bedrollfrontexit.hkx
 *  Data_meshes_actors_character_animations_enderal__00e_catch_breath.hkx
-*  Data_meshes_actors_character_animations_enderal__00e_gamblingchairsittingenter.hkx
 *  Data_meshes_actors_character_animations_enderal__00e_gamblingchairsittingidle.hkx
-*  Data_meshes_actors_character_animations_enderal__00e_gamblingchairsittingplaying.hkx
 *  Data_meshes_actors_character_animations_enderal_1hm_shout_exhale_medium.hkx
 *  Data_meshes_actors_character_animations_enderal_bagpipe.hkx
 *  Data_meshes_actors_character_animations_enderal_cannibal_feedcrouching.hkx
@@ -304,13 +305,10 @@
 *  Data_meshes_actors_character_animations_enderal_dancing_belly.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_chacha.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_chinese.hkx
-*  Data_meshes_actors_character_animations_enderal_dancing_onspot_enthusiastic.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_onspot_side.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_onspot_slow.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_samba_a.hkx
-*  Data_meshes_actors_character_animations_enderal_dancing_samba_base.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_sensual_a.hkx
-*  Data_meshes_actors_character_animations_enderal_dancing_sensual_b_base.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_sensual_b.hkx
 *  Data_meshes_actors_character_animations_enderal_dancing_shaman.hkx
 *  Data_meshes_actors_character_animations_enderal_desperate.hkx
@@ -351,10 +349,7 @@
 *  Data_meshes_actors_character_animations_enderal_special_waveover.hkx
 *  Data_meshes_actors_character_animations_enderal_stomp.hkx
 *  Data_meshes_actors_character_animations_enderal_testidle.hkx
-*  Data_meshes_actors_character_animations_enderal_wall_pipesmoking_blaze.hkx
-*  Data_meshes_actors_character_animations_enderal_wall_pipesmoking_enter.hkx
 *  Data_meshes_actors_character_animations_enderal_wall_pipesmoking_exit.hkx
-*  Data_meshes_actors_character_animations_enderal_wall_pipesmoking_loop.hkx
 *  Data_meshes_actors_character_animations_enderal_wall_pipesmoking.hkx
 *  Data_meshes_actors_character_animations_enderal_whirlwindsprint_long - kopie.hkx
 *  Data_meshes_actors_character_animations_enderal_whirlwindsprint_long - original.hkx
@@ -631,6 +626,7 @@
 *  [FLICK for Skyrim 1.5 181603 1.2.0 2026-07-12T01-43Z Ae46W7BXd.7z](https://www.nexusmods.com/skyrimspecialedition/mods/181603/?tab=files&file_id=774825)
 *  [Floating Beehive Fix - Nature of the Wild Lands-144553-1-0-2-1748232558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/144553/?tab=files&file_id=631299)
 *  [Flour Patch (ENG)-509-1-0-0-1671452030.zip](https://www.nexusmods.com/enderalspecialedition/mods/509/?tab=files&file_id=2269)
+*  [Fluffworks - Better Photoreal Foxes-65974-1-0-1649394282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65974/?tab=files&file_id=275572)
 *  [Fluffworks - Fix Patches-173665-1-0-1772281979.7z](https://www.nexusmods.com/skyrimspecialedition/mods/173665/?tab=files&file_id=726509)
 *  [Fluffworks Quality - Horses Specular Fix 156405 1.1 2026-07-23T01-14Z gbrZ4tUNE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/156405/?tab=files&file_id=780090)
 *  [Fluffworks Quality-56361-1-1f-1646241621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56361/?tab=files&file_id=267650)
@@ -844,10 +840,9 @@
 *  [MaxsuBlockOverhaul-V0.24a.7z](https://github.com/max-su-2019/MaxuBlockOverhaul/releases/download/v0.24/MaxsuBlockOverhaul-V0.24a.7z)
 *  [MCM Helper for Enderal-803-1-1-1731407980.7z](https://www.nexusmods.com/enderalspecialedition/mods/803/?tab=files&file_id=3197)
 *  [MCM Helper SE (1.5.97 BACKPORT)-53000-1-4-0-1665228962.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=322447)
+*  [MCM Memory 189722 1.4.0 2026-09-04T14-41Z EwgfAeDc2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/189722/?tab=files&file_id=800179)
 *  [MCM Unlocked - Version 2.1.5 180186 2.1.5 2026-06-17T20-01Z s6Og0dEIX.zip](https://www.nexusmods.com/skyrimspecialedition/mods/180186/?tab=files&file_id=764930)
 *  [Media Keys Fix-92948-1-0-1-1716329765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92948/?tab=files&file_id=503665)
-*  [Medieval Candlehorns and Sconces PBR and CM Hub 182471 1.0 2026-07-20T08-50Z rvwm2B3uT.7z](https://www.nexusmods.com/skyrimspecialedition/mods/182471/?tab=files&file_id=778943)
-*  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
 *  [Medieval Chests HD - SE by Xtudo - SMIM Snowy 2K-106852-1-4-1702509740.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106852/?tab=files&file_id=451646)
 *  [Medieval Mountains   PBR   4k-91559-3-0-1779458702.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91559/?tab=files&file_id=755043)
 *  [Medieval Nordic Fences-121734-2-1780735451.7z](https://www.nexusmods.com/skyrim/mods/121734/?tab=files&file_id=1000382761)
@@ -919,6 +914,7 @@
 *  [NG EVO Auto Tool PBR 1115 1.2 2026-09-24T20-36Z luNwc3d77.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4475)
 *  [NG EVO Grass Cache Output 1115 1 2026-09-24T04-55Z hGfQFtvIa.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4469)
 *  [NGIO - NG (1.6.14) 42161 1.6.14 2026-08-31T05-33Z QRde31FdL.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=797980)
+*  [NIF Preview MO2-2.5.2-137741-0-4-4-1778332339.zip](https://www.nexusmods.com/skyrimspecialedition/mods/137741/?tab=files&file_id=750252)
 *  [Nirnroot A Sound to live by FOMOD-23026-V1-12-1549137572.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23026/?tab=files&file_id=80502)
 *  [No Compass In Dialogue-116120-1-0-0-1712511971.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116120/?tab=files&file_id=488396)
 *  [No ENB Lights-19456-3-6-1624902071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19456/?tab=files&file_id=211568)
@@ -1230,6 +1226,7 @@
 *  [Unofficial Material Fix - Assorted Mesh Fixes Patch-45597-1-11-1615330821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=190529)
 *  [Unofficial Material Fix-21027-1-18-0-1743165030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=610851)
 *  [Unsearched Corpses Indicator-177677-1-3-2-1777011434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/177677/?tab=files&file_id=745239)
+*  [Upper Class Furniture Upgrade - PBR 192991 1.2 2026-09-26T19-53Z s6Og0dkG7.rar](https://www.nexusmods.com/skyrimspecialedition/mods/192991/?tab=files&file_id=810996)
 *  [Upscaling 156952 1.4.0 2026-05-31T10-27Z L5WQbqiov.7z](https://www.nexusmods.com/skyrimspecialedition/mods/156952/?tab=files&file_id=758189)
 *  [Use Or Take SKSE-70868-1-0-1657147987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70868/?tab=files&file_id=296749)
 *  [Utenlands Nordic Tents - Vanilla Replacer-121203-1-2-7-1763313237.rar](https://www.nexusmods.com/skyrimspecialedition/mods/121203/?tab=files&file_id=688204)
