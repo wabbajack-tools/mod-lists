@@ -2,7 +2,7 @@
   "MachineURL": "Stormcrown_VR/Frostbound",
   "Name": "Frostbound",
   "Version": "0.4.0",
-  "ModListHash": "6kXWuH8AWME=",
+  "ModListHash": "Fd6baagVK+M=",
   "Archives": [
     {
       "Status": "Valid",
@@ -8223,32 +8223,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xn0zykJZrQk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Sounds.bsa",
-        "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1538656059,
+        "Hash": "Kn32RyN2Sag=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 214496000,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "xn0zykJZrQk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6n+UdS1Y8jw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67768230,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "6n+UdS1Y8jw="
+          "Hash": "Kn32RyN2Sag="
         }
       }
     },
@@ -8287,16 +8271,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Kn32RyN2Sag=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 214496000,
+        "Hash": "xn0zykJZrQk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1538656059,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "Kn32RyN2Sag="
+          "Hash": "xn0zykJZrQk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6n+UdS1Y8jw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67768230,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "6n+UdS1Y8jw="
         }
       }
     },
