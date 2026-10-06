@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (999)
+### Valid (1032)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  a_basetexture.tth
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
@@ -26,9 +26,11 @@
 *  [Blonde_Malkavian.zip](https://www.moddb.com/addons/start/32806)
 *  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
 *  [Blood Rayne Posters.rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1557)
+*  [Bloodlines audio fix 207 2.2 2026-09-22T05-00Z MwNCqaJT.zip](https://www.nexusmods.com/vampirebloodlines/mods/207/?tab=files&file_id=1630)
 *  [Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=997)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
-*  [BLOODLINES_EXTREME_2.1.5.zip](https://www.moddb.com/downloads/start/132997)
+*  [BLOODLINES_EXTREME_2.1.7.zip](https://www.moddb.com/downloads/start/132997)
+*  [BLOODLINES_EXTREME_v.2.1.7-repack.7z](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_v.2.1.7-repack.7z_b98f481b-c59c-46f3-8661-e5e256dd2e39)
 *  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
 *  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
@@ -49,11 +51,9 @@
 *  [Casual Female Malkavian-267-1-0-1689345021.zip](https://www.nexusmods.com/vampirebloodlines/mods/267/?tab=files&file_id=833)
 *  [Character Eyes Improved-164-16-1719680547.rar](https://www.nexusmods.com/vampirebloodlines/mods/164/?tab=files&file_id=1015)
 *  [Chinatown_vampire.rar](https://www.moddb.com/addons/start/233551)
-*  [Clan Quest Mod - Repack.7z](https://authored-files.wabbajack.org/Clan Quest Mod - Repack.7z_84215957-5b0e-4dbd-b8bd-e6ddc2401a74)
-*  [Clan Quest Mod 4.1 Full Installer-104-4-1-1560788790.exe](https://www.nexusmods.com/vampirebloodlines/mods/104/?tab=files&file_id=248)
 *  [Clan Quest Mod Characters-165-26-1733697490.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1128)
-*  [Clan_Quest_UPgraded - Repack.zip](https://authored-files.wabbajack.org/Clan_Quest_UPgraded - Repack.zip_c5493aeb-177f-41a8-91b5-f96cc2a3d434)
-*  [Clan_Quest_UPgraded_-_Patch_4 - repack.zip](https://authored-files.wabbajack.org/Clan_Quest_UPgraded_-_Patch_4 - repack.zip_eac1bd3e-7c52-4793-bfe2-ee02394c4ec0)
+*  [Clan_Quest_UPgraded_6-Repack.7z](https://authored-files.wabbajack.org/Clan_Quest_UPgraded_6-Repack.7z_4d441643-d32b-453b-919d-d6177557a1ce)
+*  [Clan_Quest_UPgraded_6.exe](https://www.moddb.com/downloads/start/317154)
 *  [Companion Mod - 11.5-234-2-1-1764416630.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1389)
 *  [Companion Mod Core Edition - Repack.zip](https://authored-files.wabbajack.org/Companion Mod Core Edition - Repack.zip_6f9170de-1181-43ea-9149-e7f486f1a319)
 *  [Companion Mod Core Edition (Radio Update)-138-v3-2026-B-1779111847.7z](https://www.nexusmods.com/vampirebloodlines/mods/138/?tab=files&file_id=1544)
@@ -73,6 +73,7 @@
 *  [demonastery_female_t.zip](https://www.moddb.com/addons/start/259066)
 *  [Deranged_Darling.zip](https://www.moddb.com/addons/start/102284)
 *  [Devilspawn Fleshfeast - Horror Tape Reskin(s)-107-1-0-1563029064.zip](https://www.nexusmods.com/vampirebloodlines/mods/107/?tab=files&file_id=254)
+*  [DXVK and DLLs 234 2.4 2026-09-03T16-29Z ADr08nZ2.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1607)
 *  [DXVK and DLLs-234-2-1-1764416548.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1388)
 *  [Dzengrave Brujah-380-2-1763535180.rar](https://www.nexusmods.com/vampirebloodlines/mods/380/?tab=files&file_id=1378)
 *  [E Mesh Edit-238-1-1-1671997987.7z](https://www.nexusmods.com/vampirebloodlines/mods/238/?tab=files&file_id=691)
@@ -318,7 +319,25 @@
 *  Vampire_pack010.vpk
 *  Vampire_pack100.vpk
 *  Vampire_pack101.vpk
+*  Vampire_python_bradbury_bradbury.py
+*  Vampire_python_cemetery_cemetery.py
+*  Vampire_python_chinatown_chinatown.py
+*  Vampire_python_crackhouse_crackhouse.py
+*  Vampire_python_downtown_downtown.py
+*  Vampire_python_fusyndicate_fusyndicate.py
+*  Vampire_python_gallery_gallery.py
+*  Vampire_python_giovanni_giovanni.py
+*  Vampire_python_griffith_griffith.py
+*  Vampire_python_hollywood_hollywood.py
+*  Vampire_python_leopold_leopold.py
+*  Vampire_python_malkavian_malkavian.py
+*  Vampire_python_museum_museum.py
+*  Vampire_python_santamonica_santamonica.py
+*  Vampire_python_temple_temple.py
 *  Vampire_python_theatre_theatre.py
+*  Vampire_python_tutorial_tutorial.py
+*  Vampire_python_ventrue_ventrue.py
+*  Vampire_python_warehouse_warehouse.py
 *  Vampire_sound_character_dlg_chinatown_barabus_line1_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_barabus_line100_col_e.mp3
 *  Vampire_sound_character_dlg_chinatown_barabus_line101_col_e.mp3
@@ -827,6 +846,8 @@
 *  Vampire_sound_character_dlg_downtown la_bishop_vick_line1_col_f.mp3
 *  Vampire_sound_character_dlg_downtown la_bum_disease_male_line11_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_chunk2_line251_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_damsel_line1_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_damsel_line131_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_damsel_line541_col_f.mp3
 *  Vampire_sound_character_dlg_downtown la_prince1_line841_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_prince1_line931_col_e.mp3
@@ -840,6 +861,10 @@
 *  Vampire_sound_character_dlg_downtown la_venus_line231_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line271_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line311_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line341_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line351_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line361_col_e.mp3
+*  Vampire_sound_character_dlg_downtown la_venus_line371_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line381_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line81_col_e.mp3
 *  Vampire_sound_character_dlg_generic_doll1_line1_col_e.mp3
@@ -856,6 +881,7 @@
 *  Vampire_sound_character_dlg_giovanni_adam_line91_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_andrei_line5_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_andrei_line81_col_e.mp3
+*  Vampire_sound_character_dlg_hollywood_ash_line610_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_courier_line1_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_flynn_line401_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_flynn_line411_col_e.mp3
@@ -941,6 +967,13 @@
 *  Vampire_sound_character_dlg_main characters_regent_line561_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_regent_line571_col_e.mp3
 *  Vampire_sound_character_dlg_main characters_regent_line871_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line101_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line161_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line171_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line181_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line191_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line501_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_bertram_line511_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_dennis_line181_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_julius_line111_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_knox_line291_col_f.mp3
@@ -962,6 +995,7 @@
 *  Vampire_sound_character_dlg_santa monica_therese_line381_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_trip_line191_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_vandal_line151_col_e.mp3
+*  Vampire_sound_character_dlg_santa monica_vandal_line61_col_e.mp3
 *  Vampire_sound_music_mission_impossible_combat.mp3
 *  Vampire_sound_music_mission_impossible.mp3
 *  Vampire_sound_radio_radio_loop_1.mp3
@@ -974,7 +1008,6 @@
 *  [vampire_ventrue_-_toreador_beard_male.rar](https://www.moddb.com/addons/start/180082)
 *  [vampire_ventrue_female.rar](https://www.moddb.com/addons/start/220023)
 *  vampire.dat
-*  vampire.exe
 *  [VampireGamepad 410 1 2026-08-08T11-26Z KoaqQbV4.zip](https://www.nexusmods.com/vampirebloodlines/mods/410/?tab=files&file_id=1588)
 *  [vampires males pack-229-1-1663703248.rar](https://www.nexusmods.com/vampirebloodlines/mods/229/?tab=files&file_id=655)
 *  [Ventrue  by Marius217-187-1-1630179822.rar](https://www.nexusmods.com/vampirebloodlines/mods/187/?tab=files&file_id=547)
@@ -987,13 +1020,13 @@
 *  version.inf
 *  [Viking_Embraced.rar](https://www.moddb.com/addons/start/216674)
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
-*  [VTM_The_Final_Nights_1.6_HD_Full.exe](https://www.moddb.com/downloads/start/197397)
 *  [VtmB Antitribu Lasombra black clothes-248-1-0-1678275328.rar](https://www.nexusmods.com/vampirebloodlines/mods/248/?tab=files&file_id=745)
 *  [VTMB HD Overhaul Complete 234 2.4 2026-08-27T17-21Z UIdbpgeC.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1599)
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
 *  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
 *  [VTMBup115.84 80 11.5 2026-09-09T08-50Z pmOMKVgN.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1608)
+*  [VTMBup120.2 80 12.0 2026-10-01T21-02Z ADr08nMv.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1656)
 *  [VV_Posters-194-1-0-1636564291.7z](https://www.nexusmods.com/vampirebloodlines/mods/194/?tab=files&file_id=558)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)

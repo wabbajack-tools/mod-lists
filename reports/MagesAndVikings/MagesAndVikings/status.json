@@ -2,7 +2,7 @@
   "MachineURL": "MagesAndVikings/MagesAndVikings",
   "Name": "Mages \u0026 Vikings",
   "Version": "2.7.4",
-  "ModListHash": "qi8BNe2+gLU=",
+  "ModListHash": "ywUMfu44b7s=",
   "Archives": [
     {
       "Status": "Valid",
@@ -65250,15 +65250,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HB8t9bDda0k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=193863\nfileID=813997",
-        "Name": "SKSE 193863 1.0.0 2026-10-03T13-11Z lNkz9Lv36.zip",
-        "Size": 7173521,
+        "Hash": "KjqgWsakKN0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=193863\nfileID=815282",
+        "Name": "SCN Fix 193863 1.0.1 2026-10-06T02-56Z 4t2yDcT4p.zip",
+        "Size": 7129028,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bottle",
           "Description": "Fixes the ShadowSceneNode crash on cell load and cell transitions.",
-          "FileID": 813997,
+          "FileID": 815282,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/193863/193863-1791032968-1997338951.png",
           "IsNSFW": false,
@@ -78507,6 +78507,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "MhDJueWnro8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 17658991,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "MhDJueWnro8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "W/N0hM4d0Ao=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=133579\nfileID=564581",
         "Name": "Olenveld-133579-1-1-1732202826.zip",
@@ -78560,38 +78576,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m3LEwpI4hcc=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 700871549,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "m3LEwpI4hcc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MhDJueWnro8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 17658991,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "MhDJueWnro8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "7HFZBrSQNwk=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
         "Name": "Data_Skyrim - Textures4.bsa",
@@ -78608,48 +78592,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PDVHLK2W12M=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1345109830,
+        "Hash": "m3LEwpI4hcc=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
+        "Name": "Data_Skyrim - Textures7.bsa",
+        "Size": 700871549,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameFile": "Data\\Skyrim - Textures7.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "PDVHLK2W12M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xT3J6oJEmXA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
-        "Name": "Data_MarketplaceTextures.bsa",
-        "Size": 3224203,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\MarketplaceTextures.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "xT3J6oJEmXA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6n+UdS1Y8jw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67768230,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "6n+UdS1Y8jw="
+          "Hash": "m3LEwpI4hcc="
         }
       }
     },
@@ -78672,6 +78624,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "xT3J6oJEmXA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
+        "Name": "Data_MarketplaceTextures.bsa",
+        "Size": 3224203,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\MarketplaceTextures.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "xT3J6oJEmXA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PDVHLK2W12M=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1345109830,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "PDVHLK2W12M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "RZRHVHedHe0=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
         "Name": "Data_Skyrim - Textures1.bsa",
@@ -78682,6 +78666,22 @@
           "GameFile": "Data\\Skyrim - Textures1.bsa",
           "GameVersion": "1.7.104.0",
           "Hash": "RZRHVHedHe0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6n+UdS1Y8jw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67768230,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "6n+UdS1Y8jw="
         }
       }
     },
