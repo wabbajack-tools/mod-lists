@@ -3466,7 +3466,7 @@
 *  [The Taste of Death - Addon - FOMOD Installer-123173-4b-1744046373.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123173/?tab=files&file_id=614914)
 *  [The White Phial - My version SE by Xtudo-88704-1-1-1680908732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88704/?tab=files&file_id=376167)
 *  [The Windhelm Well FOMOD-128370-1-20-1725676137.zip](https://www.nexusmods.com/skyrimspecialedition/mods/128370/?tab=files&file_id=539491)
-*  [TheWatcher 193387 7 2026-10-05T23-37Z Ks18n0Uk2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/193387/?tab=files&file_id=815233)
+*  [TheWatcher 193387 11 2026-10-08T06-44Z pQ0AZ3Gn3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/193387/?tab=files&file_id=816304)
 *  [Thick braid SMP-62997-1-1643842629.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62997/?tab=files&file_id=261357)
 *  [Thieves Guild Holdup Improvements-160024-1-3-1766997131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160024/?tab=files&file_id=703175)
 *  [Thieves Guild Requirements SE - Settings Loader-58233-3-0-1-1680632983.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58233/?tab=files&file_id=375097)

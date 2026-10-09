@@ -1,11 +1,13 @@
 ## Validation Report - Ascended Fates (AscendedFates/AscendedFatesModlist)
 
 
-### Invalid (1)
+### Invalid (3)
+*  [ENB Binaries.zip](https://authored-files.wabbajack.org/ENB Binaries.zip_de121217-7b23-4dec-80bf-8bc56760f312)
 *  [Immersive Kaidan AIO - V5.0.1.7z](https://drive.google.com/uc?id=1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF&export=download)
+*  [UBE_2.0_SE_Amulets_HDT-SMP.rar](https://authored-files.wabbajack.org/UBE_2.0_SE_Amulets_HDT-SMP.rar_3511a7e2-9a51-4262-a3e7-07fbf24b0402)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1488)
+### Valid (1486)
 *  [-Skyrim 202X 10.5.2 - Architecture PART 1-2347-10-5-2-1753882692.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651339)
 *  [-Skyrim 202X 10.5.2 - Landscape PART 2-2347-10-5-2-1753884060.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651342)
 *  [-Skyrim 202X 10.5.2 - Other PART 3-2347-10-5-2-1753887591.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651363)
@@ -571,7 +573,6 @@
 *  [Embers XD-37085-3-2-0-1767264014.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=704259)
 *  [EmbersXD - Campfire Patch-50883-1-3-1638287753.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50883/?tab=files&file_id=245557)
 *  [EnaPoser SE-123007-4-0-0-1758197945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123007/?tab=files&file_id=666984)
-*  [ENB Binaries.zip](https://authored-files.wabbajack.org/ENB Binaries.zip_de121217-7b23-4dec-80bf-8bc56760f312)
 *  [ENB Dynamic Cubemap Textures-98122-1-01-1733024325.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98122/?tab=files&file_id=567801)
 *  [ENB Extender and Helper-99406-1-4-2-1758988547.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=669889)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
@@ -1397,7 +1398,6 @@
 *  [UBE Ellxe Tavern Maid-108564-1-1704545714.rar](https://www.nexusmods.com/skyrimspecialedition/mods/108564/?tab=files&file_id=458437)
 *  [UBE Plugins For 4 mods-127085-1-1768419581.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127085/?tab=files&file_id=709440)
 *  [UBE Vanilla Armor and Clothes-92989-1-1-fixed-1686298586.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92989/?tab=files&file_id=396237)
-*  [UBE_2.0_SE_Amulets_HDT-SMP.rar](https://authored-files.wabbajack.org/UBE_2.0_SE_Amulets_HDT-SMP.rar_3511a7e2-9a51-4262-a3e7-07fbf24b0402)
 *  [UHD Dawnguard Vampire Eyes - Argonian Khajiit and Human-24722-1-1-1635726282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24722/?tab=files&file_id=238331)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  Ultra.ini
