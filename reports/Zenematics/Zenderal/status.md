@@ -62,7 +62,7 @@
 *  [Attack MCO-DXP-175044-1-6-0-6-1773913408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175044/?tab=files&file_id=732907)
 *  [Audio Overhaul   Enderal Patch-1052-3-1778610049.zip](https://www.nexusmods.com/enderalspecialedition/mods/1052/?tab=files&file_id=4193)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
-*  [Auto Input Switch 54309 1.3.1 2026-08-26T19-19Z 4t2yDcne2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=795566)
+*  [Auto Input Switch-54309-1-1-2-1630404989.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=225158)
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
 *  [Auto Physics Reset-174098-1-3-1773304783.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174098/?tab=files&file_id=730579)
 *  [AVG Main File-84743-2-2-9-4-1767152229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84743/?tab=files&file_id=703882)
