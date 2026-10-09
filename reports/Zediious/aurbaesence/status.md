@@ -1,12 +1,11 @@
 ## Validation Report - Aurbaesence (Zediious/aurbaesence)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Dodge+MCO-DXP+v2.1.21.zip](https://www.distaranimation.com/s/Dodge-MCO-DXP-v2121.zip)
-*  [sforzinda_imitations.7z](https://authored-files.wabbajack.org/sforzinda_imitations.7z_6704c40a-4974-4758-9b7d-86c0e9ab9f23)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2562)
+### Valid (2563)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -1939,6 +1938,7 @@
 *  [Settlements Expanded SE-7777-1-3-1546545748.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7777/?tab=files&file_id=77110)
 *  [SFO (No Grass)-2154-2-72H-1618716771.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2154/?tab=files&file_id=198778)
 *  [sforzinda Imitations CBBE Conversion-54346-1-0-1629670845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54346/?tab=files&file_id=223042)
+*  [sforzinda_imitations.7z](https://authored-files.wabbajack.org/sforzinda_imitations.7z_6704c40a-4974-4758-9b7d-86c0e9ab9f23)
 *  [Shadows Of Sunlight - In Small Exterior World Spaces-41368-0-5-1628816291.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41368/?tab=files&file_id=220750)
 *  [Shae - A High Poly Redguard and Breton Preset-50727-1-1623076008.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50727/?tab=files&file_id=207947)
 *  [shambles (se-ae)-78534-1-1668113165.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78534/?tab=files&file_id=330652)
