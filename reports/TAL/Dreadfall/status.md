@@ -4,7 +4,9 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (893)
+### Valid (910)
+*  [4k Textures 94729 1 2026-07-29T17-15Z xiVvchhPH.zip](https://www.nexusmods.com/fallout4/mods/94729/?tab=files&file_id=405041)
+*  [4K Textures v1.1-17686-1-1-1571208971.rar](https://www.nexusmods.com/fallout4/mods/17686/?tab=files&file_id=168716)
 *  [A Cannibal In Concord-14320-2-1.rar](https://www.nexusmods.com/fallout4/mods/14320/?tab=files&file_id=60741)
 *  [Achievements v1-0-5-12465-1-0-5.7z](https://www.nexusmods.com/fallout4/mods/12465/?tab=files&file_id=108043)
 *  [Addictol 1.7.1 84214 1.7.1 2026-10-06T15-35Z q0wM4yCAk.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=415115)
@@ -16,15 +18,20 @@
 *  [Blair Residence ESL-55064-1-4-1659635935.zip](https://www.nexusmods.com/fallout4/mods/55064/?tab=files&file_id=245579)
 *  [C Horror Ghoul v1.0 ESL Legendary-99528-1-0-1767091065.7z](https://www.nexusmods.com/fallout4/mods/99528/?tab=files&file_id=379148)
 *  [Canary v 1.0.0-44949-1-0-0-1588955837.7z](https://www.nexusmods.com/fallout4/mods/44949/?tab=files&file_id=181383)
+*  [Capital Wasteland Centaurs-59379-1-1649175108.rar](https://www.nexusmods.com/fallout4/mods/59379/?tab=files&file_id=234004)
 *  [Cell Offset Generator-104454-1-1-0-1778871616.7z](https://www.nexusmods.com/fallout4/mods/104454/?tab=files&file_id=397066)
 *  [Claustrophobia v1.5-33199-1-5.rar](https://www.nexusmods.com/fallout4/mods/33199/?tab=files&file_id=136176)
 *  [Collectable Bears-27311-.zip](https://www.nexusmods.com/fallout4/mods/27311/?tab=files&file_id=111768)
+*  [Commonwealth Encounter Pack 77948 1.03 2026-08-02T15-59Z bnEVTOOJu.zip](https://www.nexusmods.com/fallout4/mods/77948/?tab=files&file_id=405588)
 *  [Commonwealth LOD - for 4k-71745-1-3-1687115295.7z](https://www.nexusmods.com/fallout4/mods/71745/?tab=files&file_id=280887)
 *  [Commonwealth LOD - Puddles Removed 4k-71745-1-3-1688348247.7z](https://www.nexusmods.com/fallout4/mods/71745/?tab=files&file_id=282168)
+*  [Community Fixes Merged 74945 4.7.3 2026-09-16T12-13Z 6VzRnT1KV.7z](https://www.nexusmods.com/fallout4/mods/74945/?tab=files&file_id=411719)
 *  [Condition Boy and Girl-56602-2-4-1-1659285043.7z](https://www.nexusmods.com/fallout4/mods/56602/?tab=files&file_id=245202)
 *  [Crafting Highlight Fix 1.11.240 27479 1.11.240 2026-09-06T14-39Z q0wM4yr2z.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=410279)
 *  CreationKit.exe
 *  CreationKit.ini
+*  [CRITTERS 99065 1.2.2 2026-09-10T18-04Z 3TfnOrCUi.7z](https://www.nexusmods.com/fallout4/mods/99065/?tab=files&file_id=410884)
+*  [CRITTERS Patch Hub 99065 1.2.2 2026-09-10T18-04Z DzMlEf9WQ.7z](https://www.nexusmods.com/fallout4/mods/99065/?tab=files&file_id=410885)
 *  [CSEP Presents Home Sick-65349-1-2-1666898226.zip](https://www.nexusmods.com/fallout4/mods/65349/?tab=files&file_id=254778)
 *  cudart64_75.dll
 *  [Damn Apocalypse Combat Module-33812-1-0-2-1667829554.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=256124)
@@ -32,8 +39,11 @@
 *  [Damn Apocalypse Loot Module-33812-1-0-4-h1-1699517431.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293819)
 *  [Damn Apocalypse Power Armor Module-33812-1-0-4-h1-1699517452.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293820)
 *  [Deathclaw Grab Skills-46460-1-3-0-1697717030.7z](https://www.nexusmods.com/fallout4/mods/46460/?tab=files&file_id=292099)
+*  [DLC Item Distribution - All Combined-63914-3-1-1-1778498457.zip](https://www.nexusmods.com/fallout4/mods/63914/?tab=files&file_id=396603)
 *  [Doctor Penske Face Gen Data (LOOSE)-86410-v3-2B-1771044018.7z](https://www.nexusmods.com/fallout4/mods/86410/?tab=files&file_id=385610)
+*  [Dogmeat Lags Behind 107231 1.0 2026-07-22T22-15Z oDXmuBha4.7z](https://www.nexusmods.com/fallout4/mods/107231/?tab=files&file_id=404201)
 *  EditorTips.txt
+*  [Everyone's Best Friend v3.0.0-13459-3-0-0.rar](https://www.nexusmods.com/fallout4/mods/13459/?tab=files&file_id=88106)
 *  [Extended Dialogue Interface 1.11.240 27216 1.11.240 2026-09-01T19-59Z uE0zfLpAO.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=409623)
 *  [Fainthearth Manor New-79556-1-3-1712170027.zip](https://www.nexusmods.com/fallout4/mods/79556/?tab=files&file_id=308977)
 *  [Fallout 4 - Point Lookout-60330-1-1652278869.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237355)
@@ -55,6 +65,7 @@
 *  [FIS - The NEW FallUI Item Sorter-60580-2-1-1654350813.rar](https://www.nexusmods.com/fallout4/mods/60580/?tab=files&file_id=239585)
 *  flexExtRelease_x64.dll
 *  flexRelease_x64.dll
+*  [Floater Fix 94729 1.7.1 2026-08-12T23-31Z 2hTc9pp1f.zip](https://www.nexusmods.com/fallout4/mods/94729/?tab=files&file_id=406965)
 *  [Floaters Initial Release-41180-1-0-1568741570.zip](https://www.nexusmods.com/fallout4/mods/41180/?tab=files&file_id=166883)
 *  flowchartx32.dll
 *  flowchartx64.dll
@@ -71,6 +82,7 @@
 *  [In The Flesh-78628-1-4-1708425298.rar](https://www.nexusmods.com/fallout4/mods/78628/?tab=files&file_id=304226)
 *  installscript.vdf
 *  [Institute Centaurs-41476-1-0-1570555441.zip](https://www.nexusmods.com/fallout4/mods/41476/?tab=files&file_id=168296)
+*  [K-9 Harness - Tactical Body Armor for Dogmeat ESL-17686-1-1-1718415821.rar](https://www.nexusmods.com/fallout4/mods/17686/?tab=files&file_id=322763)
 *  [Keep Standing-46097-1-1-0-1609051297.7z](https://www.nexusmods.com/fallout4/mods/46097/?tab=files&file_id=197666)
 *  [Kelly Household-19974-1-3.zip](https://www.nexusmods.com/fallout4/mods/19974/?tab=files&file_id=105469)
 *  [Kelly Macabre 1.3-41848-1-3-1586644354.zip](https://www.nexusmods.com/fallout4/mods/41848/?tab=files&file_id=179268)
@@ -84,6 +96,7 @@
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
+*  [LIF 63914 3.1.3 2026-10-02T11-34Z 6VzRnT7lE.zip](https://www.nexusmods.com/fallout4/mods/63914/?tab=files&file_id=414075)
 *  [Lore Friendly Names-72235-0-01-1748258642.zip](https://www.nexusmods.com/fallout4/mods/72235/?tab=files&file_id=357294)
 *  Low.ini
 *  [M8r98a4f2's Complex Item Sorter-48826-1-12-0-1692791377.7z](https://www.nexusmods.com/fallout4/mods/48826/?tab=files&file_id=287728)
@@ -113,16 +126,19 @@
 *  Papyrus Compiler_ScriptCompile.bat
 *  Papyrus Compiler_ScriptCompileRelease.bat
 *  Papyrus Compiler_ScriptCompileReleaseFinal.bat
+*  [Pet Feed Call Dogmeat-15565-3-3.7z](https://www.nexusmods.com/fallout4/mods/15565/?tab=files&file_id=89529)
 *  [Pip-Boy Flashlight-10840-5-0-2.rar](https://www.nexusmods.com/fallout4/mods/10840/?tab=files&file_id=65415)
 *  [Point Lookout - Essential Fixes and Additions-86304-1-3-1722931819.zip](https://www.nexusmods.com/fallout4/mods/86304/?tab=files&file_id=329288)
 *  [Portable Junk Recycler Mk 2-54138-v1-3-0-1717580731.7z](https://www.nexusmods.com/fallout4/mods/54138/?tab=files&file_id=321143)
 *  [Previsibines Repair Pack - AE Bundle Support 46403 81.8 2026-07-06T15-39Z SmerDucFK.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=402412)
 *  [Previsibines Repair Pack - Full (1.11.240) 46403 81.9 2026-09-07T18-14Z XMYH04Ocu.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=410469)
+*  [Project NEMEAN A Creature Mod 94729 1.7 2026-07-29T18-47Z kQvLeXXsY.zip](https://www.nexusmods.com/fallout4/mods/94729/?tab=files&file_id=405055)
 *  [Rad Spiders-16241-17-c.zip](https://www.nexusmods.com/fallout4/mods/16241/?tab=files&file_id=81809)
 *  [Radiation Removers ESL v5.2 Installer-29826-5-2-1671212578.7z](https://www.nexusmods.com/fallout4/mods/29826/?tab=files&file_id=260689)
+*  [Random Encounter Framework-60074-1-02-1766005303.zip](https://www.nexusmods.com/fallout4/mods/60074/?tab=files&file_id=377734)
 *  [RAW INPUT - NMM Installer-27019-2-4.zip](https://www.nexusmods.com/fallout4/mods/27019/?tab=files&file_id=139155)
 *  [Real-Force ENB-10085-V1-0.7z](https://www.nexusmods.com/fallout4/mods/10085/?tab=files&file_id=38940)
-*  [Remember Lockpick Angle Updated-42421-1-10-163-1576091580.7z](https://www.nexusmods.com/fallout4/mods/42421/?tab=files&file_id=172429)
+*  [Remember Lockpick Angle NG-96130-1-1-1778531745.zip](https://www.nexusmods.com/fallout4/mods/96130/?tab=files&file_id=396695)
 *  [Reverb and Ambiance Overhaul - ALL DLC-10189-1-6e.zip](https://www.nexusmods.com/fallout4/mods/10189/?tab=files&file_id=73150)
 *  [RobCo Patcher - RD 69798 6.0.5 2026-08-26T23-09Z z23PjGUj8.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=408933)
 *  [rootbuilder.5.1.1.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip)
@@ -138,8 +154,10 @@
 *  [Subway runner dynamic lighting (shadows) V6.1 fixed nav mesh-18639-V7.rar](https://www.nexusmods.com/fallout4/mods/18639/?tab=files&file_id=83722)
 *  [Terrifyer - Ghouls-30610-2-0.7z](https://www.nexusmods.com/fallout4/mods/30610/?tab=files&file_id=125210)
 *  [The Cemetery-53680-1-0-1628249664.zip](https://www.nexusmods.com/fallout4/mods/53680/?tab=files&file_id=214194)
+*  [The haunting-75046-1-6-1731985406.zip](https://www.nexusmods.com/fallout4/mods/75046/?tab=files&file_id=340637)
 *  [The Numbers Stations-30245-1-0.7z](https://www.nexusmods.com/fallout4/mods/30245/?tab=files&file_id=123623)
 *  [The Sewers ESM-45663-2-5-1768584867.zip](https://www.nexusmods.com/fallout4/mods/45663/?tab=files&file_id=381497)
+*  [TheDogsperience-52641-1-0-1642576231.7z](https://www.nexusmods.com/fallout4/mods/52641/?tab=files&file_id=227074)
 *  Tools_Archive2_Archive2.exe
 *  Tools_Archive2_Archive2Interop.dll
 *  Tools_Archive2_Microsoft.WindowsAPICodePack.dll
@@ -176,7 +194,6 @@
 *  Tools_LipGen_GFSDK_GodraysLib.Win32.dll
 *  Tools_LipGen_LipFuzer_LIPFuzer.exe
 *  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_LipGen_LipGenerator_FonixData.cdf
 *  Tools_LipGen_LipGenerator_LipGenerator.exe
 *  Tools_LipGen_LipGenerator_LipGenerator.pdb
 *  Tools_LipGen_Readme.txt
