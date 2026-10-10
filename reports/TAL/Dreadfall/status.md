@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (882)
+### Valid (893)
 *  [A Cannibal In Concord-14320-2-1.rar](https://www.nexusmods.com/fallout4/mods/14320/?tab=files&file_id=60741)
 *  [Achievements v1-0-5-12465-1-0-5.7z](https://www.nexusmods.com/fallout4/mods/12465/?tab=files&file_id=108043)
 *  [Addictol 1.7.1 84214 1.7.1 2026-10-06T15-35Z q0wM4yCAk.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=415115)
@@ -27,17 +27,16 @@
 *  CreationKit.ini
 *  [CSEP Presents Home Sick-65349-1-2-1666898226.zip](https://www.nexusmods.com/fallout4/mods/65349/?tab=files&file_id=254778)
 *  cudart64_75.dll
-*  [Damn Apocalypse - Radiation Module - Point Lookout Patch-33812-1-0-1656718012.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=242145)
 *  [Damn Apocalypse Combat Module-33812-1-0-2-1667829554.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=256124)
 *  [Damn Apocalypse Core Resources-33812-1-0-4-h1-1699517407.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293818)
 *  [Damn Apocalypse Loot Module-33812-1-0-4-h1-1699517431.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293819)
 *  [Damn Apocalypse Power Armor Module-33812-1-0-4-h1-1699517452.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293820)
-*  [Damn Apocalypse Radiation Module-33812-1-0-4-h1-1699517471.zip](https://www.nexusmods.com/fallout4/mods/33812/?tab=files&file_id=293821)
 *  [Deathclaw Grab Skills-46460-1-3-0-1697717030.7z](https://www.nexusmods.com/fallout4/mods/46460/?tab=files&file_id=292099)
 *  [Doctor Penske Face Gen Data (LOOSE)-86410-v3-2B-1771044018.7z](https://www.nexusmods.com/fallout4/mods/86410/?tab=files&file_id=385610)
 *  EditorTips.txt
 *  [Extended Dialogue Interface 1.11.240 27216 1.11.240 2026-09-01T19-59Z uE0zfLpAO.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=409623)
 *  [Fainthearth Manor New-79556-1-3-1712170027.zip](https://www.nexusmods.com/fallout4/mods/79556/?tab=files&file_id=308977)
+*  [Fallout 4 - Point Lookout-60330-1-1652278869.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237355)
 *  [Fallout 4 Script Extender 42147 0.7.9 2026-08-18T14-42Z 2hTc9ppIs.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=407709)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
@@ -65,6 +64,7 @@
 *  [HD Textures-68187-1-4-1714417424.zip](https://www.nexusmods.com/fallout4/mods/68187/?tab=files&file_id=313092)
 *  [High FPS Physics Fix 44798 0.8.23 2026-09-08T20-05Z RgPsZW0Pn.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=410628)
 *  High.ini
+*  [HolyFramework 107870 1.0.30 2026-09-21T08-42Z arQOmDNrT.zip](https://www.nexusmods.com/fallout4/mods/107870/?tab=files&file_id=412381)
 *  [Horrorghouls v2.2 Final release-37419-2-2-1592508640.rar](https://www.nexusmods.com/fallout4/mods/37419/?tab=files&file_id=184719)
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
 *  [Immersive Animation Framework-50555-1-3-2-1671826855.rar](https://www.nexusmods.com/fallout4/mods/50555/?tab=files&file_id=261342)
@@ -90,14 +90,17 @@
 *  [Magic Effect and Spell Engine Fixes - F4SE 83433 3.2 2026-08-20T08-07Z KAmp6bbfQ.zip](https://www.nexusmods.com/fallout4/mods/83433/?tab=files&file_id=407997)
 *  [MAIM Redux FOMOD installer-72235-1-03-1747516758.zip](https://www.nexusmods.com/fallout4/mods/72235/?tab=files&file_id=356558)
 *  [Mannequin Cult-44195-1-01-1586024841.zip](https://www.nexusmods.com/fallout4/mods/44195/?tab=files&file_id=178775)
+*  [MCM Booster - Cache tweak 4 Scourge-84735-1-0-1-1718728868.zip](https://www.nexusmods.com/fallout4/mods/84735/?tab=files&file_id=323394)
 *  [MCM Booster AE V1.1 Beta2 (1.11.240) 99867 1 2026-09-10T16-08Z Pcnih9F0U.7z](https://www.nexusmods.com/fallout4/mods/99867/?tab=files&file_id=410878)
 *  [MCM Booster-56997-1-0-1641058633.rar](https://www.nexusmods.com/fallout4/mods/56997/?tab=files&file_id=225311)
+*  [MCM Categorizer-66311-1-0-1-1669165362.rar](https://www.nexusmods.com/fallout4/mods/66311/?tab=files&file_id=257841)
 *  Medium.ini
 *  [Mod Configuration Menu 1.11.240 21497 1.11.240 2026-09-01T20-02Z OtKdIlice.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=409624)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Monkey Trap HD-6202-1.zip](https://www.nexusmods.com/fallout4/mods/6202/?tab=files&file_id=21246)
 *  msvcp110.dll
 *  msvcr110.dll
+*  [NativeWeathers 109106 1.1.3 2026-09-19T02-40Z seiQXq35B.zip](https://www.nexusmods.com/fallout4/mods/109106/?tab=files&file_id=412068)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
 *  Papyrus Compiler_Antlr3.Runtime.dll
@@ -111,15 +114,22 @@
 *  Papyrus Compiler_ScriptCompileRelease.bat
 *  Papyrus Compiler_ScriptCompileReleaseFinal.bat
 *  [Pip-Boy Flashlight-10840-5-0-2.rar](https://www.nexusmods.com/fallout4/mods/10840/?tab=files&file_id=65415)
+*  [Point Lookout - Essential Fixes and Additions-86304-1-3-1722931819.zip](https://www.nexusmods.com/fallout4/mods/86304/?tab=files&file_id=329288)
+*  [Portable Junk Recycler Mk 2-54138-v1-3-0-1717580731.7z](https://www.nexusmods.com/fallout4/mods/54138/?tab=files&file_id=321143)
 *  [Previsibines Repair Pack - AE Bundle Support 46403 81.8 2026-07-06T15-39Z SmerDucFK.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=402412)
 *  [Previsibines Repair Pack - Full (1.11.240) 46403 81.9 2026-09-07T18-14Z XMYH04Ocu.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=410469)
 *  [Rad Spiders-16241-17-c.zip](https://www.nexusmods.com/fallout4/mods/16241/?tab=files&file_id=81809)
+*  [Radiation Removers ESL v5.2 Installer-29826-5-2-1671212578.7z](https://www.nexusmods.com/fallout4/mods/29826/?tab=files&file_id=260689)
 *  [RAW INPUT - NMM Installer-27019-2-4.zip](https://www.nexusmods.com/fallout4/mods/27019/?tab=files&file_id=139155)
 *  [Real-Force ENB-10085-V1-0.7z](https://www.nexusmods.com/fallout4/mods/10085/?tab=files&file_id=38940)
+*  [Remember Lockpick Angle Updated-42421-1-10-163-1576091580.7z](https://www.nexusmods.com/fallout4/mods/42421/?tab=files&file_id=172429)
 *  [Reverb and Ambiance Overhaul - ALL DLC-10189-1-6e.zip](https://www.nexusmods.com/fallout4/mods/10189/?tab=files&file_id=73150)
 *  [RobCo Patcher - RD 69798 6.0.5 2026-08-26T23-09Z z23PjGUj8.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=408933)
 *  [rootbuilder.5.1.1.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip)
 *  [Runtime Database 108394 1.0.0 2026-08-26T16-16Z vogSNYEPH.zip](https://www.nexusmods.com/fallout4/mods/108394/?tab=files&file_id=408886)
+*  [Scaling Flag Remover AE (F4SE) 107836 1.0 2026-08-09T12-34Z Q8oKHMMrd.zip](https://www.nexusmods.com/fallout4/mods/107836/?tab=files&file_id=406492)
+*  [SCOURGE - NG-60917-1-0-5-1721298750.7z](https://www.nexusmods.com/fallout4/mods/60917/?tab=files&file_id=327120)
+*  [SCOURGE AE (F4SE) 107837 1.0 2026-08-09T12-33Z arQOmDDGE.zip](https://www.nexusmods.com/fallout4/mods/107837/?tab=files&file_id=406491)
 *  [Sinister Ambient Sound-46343-1-1-1595028064.rar](https://www.nexusmods.com/fallout4/mods/46343/?tab=files&file_id=187062)
 *  ssce5564.dll
 *  [StarlightDriveInOverhaul_v1_2-25045-.7z](https://www.nexusmods.com/fallout4/mods/25045/?tab=files&file_id=103209)
@@ -877,6 +887,7 @@
 *  Tools_NIF_Exporter_README.txt
 *  Tools_PapyrusProfileAnalyzer.exe
 *  Tools_PapyrusStackDumpAnalyzer.exe
+*  [True Damage 1.09 FOMOD installer-66071-1-09-1671314792.zip](https://www.nexusmods.com/fallout4/mods/66071/?tab=files&file_id=260831)
 *  [UFO4P Creations Bundle Patches 4598 1.1 2026-08-18T21-45Z Pcnih99ye.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=407778)
 *  Ultra.ini
 *  [Unofficial Fallout 4 Patch 4598 2.2.2a 2026-08-18T21-17Z seiQXqqfJ.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=407774)
