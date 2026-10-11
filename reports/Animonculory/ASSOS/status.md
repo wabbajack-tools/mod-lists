@@ -163,7 +163,7 @@
 *  [No Console Spam 119246 1.2.0 2026-08-21T01-14Z gbrZ4tkQ8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119246/?tab=files&file_id=792552)
 *  [No Furniture Camera 100515 1.0.1 2026-08-31T16-19Z Yj6wQRiXS.7z](https://www.nexusmods.com/skyrimspecialedition/mods/100515/?tab=files&file_id=798214)
 *  [No More Blinding Fog-87342-0-1-1679219937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87342/?tab=files&file_id=369937)
-*  [NPC Perk Storage - SKSE 174259 1.4.0 2026-09-17T09-22Z HZCMOyshk.7z](https://www.nexusmods.com/skyrimspecialedition/mods/174259/?tab=files&file_id=806514)
+*  [NPC Perk Storage - SKSE 174259 1.5.0 2026-10-10T23-11Z 6Xybda8Bo.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174259/?tab=files&file_id=817839)
 *  [Open Animation Replacer 92109 3.2.1 2026-08-31T16-32Z MWx0rveD6.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=798222)
 *  [Optional Quick Start - SE-63953-1-2-2-1771715657.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63953/?tab=files&file_id=724190)
 *  [Optional Vampire Eyes on Vampire-98647-0-5-1775638546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98647/?tab=files&file_id=739737)
