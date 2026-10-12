@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1402)
+### Valid (1861)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [1 - Keep Radiants in the Commonwealth Patch-59019-1-14-1759618371.zip](https://www.nexusmods.com/fallout4/mods/59019/?tab=files&file_id=369219)
 *  [155mm Howitzer M1  4K New-25527-2-0.7z](https://www.nexusmods.com/fallout4/mods/25527/?tab=files&file_id=104842)
@@ -19,12 +19,9 @@
 *  [4k-48321-1-1604869073.rar](https://www.nexusmods.com/fallout4/mods/48321/?tab=files&file_id=194554)
 *  [AA - Scope Overlay Overhaul V1.08 Alpha Recon 101600 1.8 2026-08-03T06-07Z mlHIzEEBm.zip](https://www.nexusmods.com/fallout4/mods/101600/?tab=files&file_id=405678)
 *  [Abandoned Hub-52227-3-3-1716193870.7z](https://www.nexusmods.com/fallout4/mods/52227/?tab=files&file_id=317784)
-*  [Achievements Enabler AE-98809-1-0-0-1764603918.zip](https://www.nexusmods.com/fallout4/mods/98809/?tab=files&file_id=376124)
 *  [Adaptive Combat Tactics 107069 1.0.2 2026-08-23T04-05Z seiQXqqsl.zip](https://www.nexusmods.com/fallout4/mods/107069/?tab=files&file_id=408518)
 *  [Adaptive NPC Aim 107082 1.4.1 2026-09-27T13-50Z Jy54viPzD.zip](https://www.nexusmods.com/fallout4/mods/107082/?tab=files&file_id=413194)
-*  [Addictol 1.6 84214 1.6 2026-09-09T05-50Z Hbu637d2q.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=410686)
-*  [Addictol 1.7 84214 1.7 2026-10-04T01-12Z eHN8M01Y3.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=414655)
-*  [Addictol Crash Logger 84214 1.6 2026-09-09T05-50Z 2hTc9pk1w.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=410685)
+*  [Addictol 1.7.1 84214 1.7.1 2026-10-06T15-35Z q0wM4yCAk.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=415115)
 *  [Addictol Crash Logger 84214 1.7 2026-10-04T01-05Z 2hTc9pKOF.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=414653)
 *  [Address Library - All In One 47327 1.11.240 2026-08-21T23-48Z Hbu6377Rl.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=408268)
 *  [All-In-One 57642 aio-1.8 2026-09-04T04-09Z p5IURVXT2.7z](https://www.nexusmods.com/fallout4/mods/57642/?tab=files&file_id=409874)
@@ -39,7 +36,8 @@
 *  [Animated Coffee Drinking V1.2 (ESP and BA2'S)-104858-1-2-Rev1-1779772536.7z](https://www.nexusmods.com/fallout4/mods/104858/?tab=files&file_id=398218)
 *  [Animated Pip-Boy Light-102694-1-2-1-1775929013.zip](https://www.nexusmods.com/fallout4/mods/102694/?tab=files&file_id=393021)
 *  [Anti Power Armor Rifle-81587-1-0-7-1729998719.zip](https://www.nexusmods.com/fallout4/mods/81587/?tab=files&file_id=338056)
-*  [Arcadia Sands LOD 107474 1 2026-07-29T20-05Z p5IURVVAw.7z](https://www.nexusmods.com/fallout4/mods/107474/?tab=files&file_id=405061)
+*  [Arcadia Sands Main Menu 110043 1 2026-10-12T03-55Z 9Utw5R6fW.7z](https://www.nexusmods.com/fallout4/mods/110043/?tab=files&file_id=415890)
+*  [ArcadiaSandsPRP 107474 2 2026-10-12T00-14Z 4ak7Soi73.7z](https://www.nexusmods.com/fallout4/mods/107474/?tab=files&file_id=415858)
 *  [Armor Penetration Bug Fix - F4SE 73849 1.0.4 2026-09-10T14-10Z OtKdIlisa.zip](https://www.nexusmods.com/fallout4/mods/73849/?tab=files&file_id=410864)
 *  [Armored Vault suit-77469-1-5-1738472619.zip](https://www.nexusmods.com/fallout4/mods/77469/?tab=files&file_id=346956)
 *  [Ashland Station - Optimized-78033-1-03-1-1716814546.rar](https://www.nexusmods.com/fallout4/mods/78033/?tab=files&file_id=319319)
@@ -93,7 +91,9 @@
 *  [CHALLENGES - FNV Style Icons-76347-3-0-0-1737238107.7z](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=345615)
 *  [CHALLENGES-76347-3-0-6-1752815968.7z](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=361651)
 *  [Cinematic Legendary Slow Time-57838-1-0-0-1643962427.7z](https://www.nexusmods.com/fallout4/mods/57838/?tab=files&file_id=228595)
+*  [CK Address Library AIO 51165 0.6-b747 2026-09-11T17-39Z UkCFsgHxf.zip](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=410981)
 *  [CK Platform Extended 0.6-b639-51165-0-6-b639-1773258497.zip](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=389308)
+*  [CK Platform Extended 0.6-b750 51165 0.6-b750 2026-09-21T08-45Z 4ak7Soia7.zip](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=412386)
 *  [Classic Holstered Weapons - v1.10 46101 1.10 2026-08-29T21-30Z lPbx2jwjA.zip](https://www.nexusmods.com/fallout4/mods/46101/?tab=files&file_id=409241)
 *  [Combat AI Empowered - Game Settings Upgrade-72926-1-1-0-1712415653.zip](https://www.nexusmods.com/fallout4/mods/72926/?tab=files&file_id=309273)
 *  [Combat AI Empowered - Reduce Grenade Spam-72951-1-0-3-1714214436.zip](https://www.nexusmods.com/fallout4/mods/72951/?tab=files&file_id=312561)
@@ -152,57 +152,524 @@
 *  [Dak Handmade Assault SMG-78698-1-0-4-1708545558.zip](https://www.nexusmods.com/fallout4/mods/78698/?tab=files&file_id=304374)
 *  [Dak's Ammo Rebalance-77613-2-0-2-1709240061.zip](https://www.nexusmods.com/fallout4/mods/77613/?tab=files&file_id=305261)
 *  [Dak's Throwables-92935-1-0-3-1753466747.zip](https://www.nexusmods.com/fallout4/mods/92935/?tab=files&file_id=362298)
+*  Data_ccacxfo4001-vsuit - main.ba2
+*  Data_ccacxfo4001-vsuit - textures.ba2
+*  Data_ccacxfo4001-vsuit.esl
+*  Data_ccawnfo4001-brandedattire - main.ba2
+*  Data_ccawnfo4001-brandedattire - textures.ba2
+*  Data_ccawnfo4001-brandedattire.esl
+*  Data_ccawnfo4002-factionclothing - main.ba2
+*  Data_ccawnfo4002-factionclothing - textures.ba2
+*  Data_ccawnfo4002-factionclothing.esl
 *  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
+*  Data_ccbgsfo4001-pipboy(black).esl
+*  Data_ccbgsfo4002-pipboy(blue) - main.ba2
+*  Data_ccbgsfo4002-pipboy(blue) - textures.ba2
+*  Data_ccbgsfo4002-pipboy(blue).esl
+*  Data_ccbgsfo4003-pipboy(camo01) - main.ba2
+*  Data_ccbgsfo4003-pipboy(camo01) - textures.ba2
+*  Data_ccbgsfo4003-pipboy(camo01).esl
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
 *  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
+*  Data_ccbgsfo4004-pipboy(camo02).esl
+*  Data_ccbgsfo4005-bluecamo - main.ba2
+*  Data_ccbgsfo4005-bluecamo - textures.ba2
+*  Data_ccbgsfo4005-bluecamo.esl
 *  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
 *  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
+*  Data_ccbgsfo4006-pipboy(chrome).esl
+*  Data_ccbgsfo4008-pipgrn - main.ba2
+*  Data_ccbgsfo4008-pipgrn - textures.ba2
+*  Data_ccbgsfo4008-pipgrn.esl
+*  Data_ccbgsfo4009-piporan - main.ba2
+*  Data_ccbgsfo4009-piporan - textures.ba2
+*  Data_ccbgsfo4009-piporan.esl
+*  Data_ccbgsfo4010-pippnk - main.ba2
+*  Data_ccbgsfo4010-pippnk - textures.ba2
+*  Data_ccbgsfo4010-pippnk.esl
+*  Data_ccbgsfo4011-pippurp - main.ba2
+*  Data_ccbgsfo4011-pippurp - textures.ba2
+*  Data_ccbgsfo4011-pippurp.esl
+*  Data_ccbgsfo4012-pipboy(red) - main.ba2
+*  Data_ccbgsfo4012-pipboy(red) - textures.ba2
+*  Data_ccbgsfo4012-pipboy(red).esl
+*  Data_ccbgsfo4013-piptan - main.ba2
+*  Data_ccbgsfo4013-piptan - textures.ba2
+*  Data_ccbgsfo4013-piptan.esl
+*  Data_ccbgsfo4014-pipboy(white) - main.ba2
+*  Data_ccbgsfo4014-pipboy(white) - textures.ba2
+*  Data_ccbgsfo4014-pipboy(white).esl
+*  Data_ccbgsfo4015-pipyell - main.ba2
+*  Data_ccbgsfo4015-pipyell - textures.ba2
+*  Data_ccbgsfo4015-pipyell.esl
 *  Data_ccBGSFO4016-Prey - Main.ba2
 *  Data_ccBGSFO4016-Prey - Textures.ba2
+*  Data_ccbgsfo4016-prey.esl
 *  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
 *  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
+*  Data_ccbgsfo4018-gaussrifleprototype.esl
 *  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
 *  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
+*  Data_ccbgsfo4019-chinesestealtharmor.esl
 *  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
 *  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
+*  Data_ccbgsfo4020-powerarmorskin(black).esl
+*  Data_ccbgsfo4021-powerarmorskinblue - main.ba2
+*  Data_ccbgsfo4021-powerarmorskinblue - textures.ba2
+*  Data_ccbgsfo4021-powerarmorskinblue.esl
+*  Data_ccbgsfo4022-powerarmorskin(camo01) - main.ba2
+*  Data_ccbgsfo4022-powerarmorskin(camo01) - textures.ba2
+*  Data_ccbgsfo4022-powerarmorskin(camo01).esl
+*  Data_ccbgsfo4023-powerarmorskin(camo02) - main.ba2
+*  Data_ccbgsfo4023-powerarmorskin(camo02) - textures.ba2
+*  Data_ccbgsfo4023-powerarmorskin(camo02).esl
+*  Data_ccbgsfo4024-pacamo03 - main.ba2
+*  Data_ccbgsfo4024-pacamo03 - textures.ba2
+*  Data_ccbgsfo4024-pacamo03.esl
+*  Data_ccbgsfo4025-powerarmorskin(chrome) - main.ba2
+*  Data_ccbgsfo4025-powerarmorskin(chrome) - textures.ba2
+*  Data_ccbgsfo4025-powerarmorskin(chrome).esl
+*  Data_ccbgsfo4027-powerarmorskingreen - main.ba2
+*  Data_ccbgsfo4027-powerarmorskingreen - textures.ba2
+*  Data_ccbgsfo4027-powerarmorskingreen.esl
+*  Data_ccbgsfo4028-powerarmorskinorange - main.ba2
+*  Data_ccbgsfo4028-powerarmorskinorange - textures.ba2
+*  Data_ccbgsfo4028-powerarmorskinorange.esl
+*  Data_ccbgsfo4029-powerarmorskinpink - main.ba2
+*  Data_ccbgsfo4029-powerarmorskinpink - textures.ba2
+*  Data_ccbgsfo4029-powerarmorskinpink.esl
+*  Data_ccbgsfo4030-powerarmorskinpurple - main.ba2
+*  Data_ccbgsfo4030-powerarmorskinpurple - textures.ba2
+*  Data_ccbgsfo4030-powerarmorskinpurple.esl
+*  Data_ccbgsfo4031-powerarmorskinred - main.ba2
+*  Data_ccbgsfo4031-powerarmorskinred - textures.ba2
+*  Data_ccbgsfo4031-powerarmorskinred.esl
+*  Data_ccbgsfo4032-powerarmorskintan - main.ba2
+*  Data_ccbgsfo4032-powerarmorskintan - textures.ba2
+*  Data_ccbgsfo4032-powerarmorskintan.esl
+*  Data_ccbgsfo4033-powerarmorskinwhite - main.ba2
+*  Data_ccbgsfo4033-powerarmorskinwhite - textures.ba2
+*  Data_ccbgsfo4033-powerarmorskinwhite.esl
+*  Data_ccbgsfo4034-powerarmorskinyellow - main.ba2
+*  Data_ccbgsfo4034-powerarmorskinyellow - textures.ba2
+*  Data_ccbgsfo4034-powerarmorskinyellow.esl
+*  Data_ccbgsfo4035-pint - main.ba2
+*  Data_ccbgsfo4035-pint - textures.ba2
+*  Data_ccbgsfo4035-pint.esl
+*  Data_ccbgsfo4036-trnsdg - main.ba2
+*  Data_ccbgsfo4036-trnsdg - textures.ba2
+*  Data_ccbgsfo4036-trnsdg.esl
 *  Data_ccBGSFO4038-HorseArmor - Main.ba2
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
+*  Data_ccbgsfo4038-horsearmor.esl
+*  Data_ccbgsfo4040-vrworkshop01 - main.ba2
+*  Data_ccbgsfo4040-vrworkshop01 - textures.ba2
+*  Data_ccbgsfo4040-vrworkshop01.esl
+*  Data_ccbgsfo4041-doommarinearmor - main.ba2
+*  Data_ccbgsfo4041-doommarinearmor - textures.ba2
+*  Data_ccbgsfo4041-doommarinearmor.esl
+*  Data_ccbgsfo4042-bfg - main.ba2
+*  Data_ccbgsfo4042-bfg - textures.ba2
+*  Data_ccbgsfo4042-bfg.esl
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccbgsfo4045-advarccab - main.ba2
+*  Data_ccbgsfo4045-advarccab - textures.ba2
+*  Data_ccbgsfo4045-advarccab.esl
 *  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccbgsfo4046-tescan.esl
+*  Data_ccbgsfo4047-qthund - main.ba2
+*  Data_ccbgsfo4047-qthund - textures.ba2
+*  Data_ccbgsfo4047-qthund.esl
+*  Data_ccbgsfo4048-dovah - main.ba2
+*  Data_ccbgsfo4048-dovah - textures.ba2
+*  Data_ccbgsfo4048-dovah.esl
+*  Data_ccbgsfo4049-brahminarmor - main.ba2
+*  Data_ccbgsfo4049-brahminarmor - textures.ba2
+*  Data_ccbgsfo4049-brahminarmor.esl
+*  Data_ccbgsfo4050-dgbcoll - main.ba2
+*  Data_ccbgsfo4050-dgbcoll - textures.ba2
+*  Data_ccbgsfo4050-dgbcoll.esl
+*  Data_ccbgsfo4051-dgbox - main.ba2
+*  Data_ccbgsfo4051-dgbox - textures.ba2
+*  Data_ccbgsfo4051-dgbox.esl
+*  Data_ccbgsfo4052-dgdal - main.ba2
+*  Data_ccbgsfo4052-dgdal - textures.ba2
+*  Data_ccbgsfo4052-dgdal.esl
+*  Data_ccbgsfo4053-dggoldr - main.ba2
+*  Data_ccbgsfo4053-dggoldr - textures.ba2
+*  Data_ccbgsfo4053-dggoldr.esl
+*  Data_ccbgsfo4054-dggreatd - main.ba2
+*  Data_ccbgsfo4054-dggreatd - textures.ba2
+*  Data_ccbgsfo4054-dggreatd.esl
+*  Data_ccbgsfo4055-dghusk - main.ba2
+*  Data_ccbgsfo4055-dghusk - textures.ba2
+*  Data_ccbgsfo4055-dghusk.esl
+*  Data_ccbgsfo4056-dglabb - main.ba2
+*  Data_ccbgsfo4056-dglabb - textures.ba2
+*  Data_ccbgsfo4056-dglabb.esl
+*  Data_ccbgsfo4057-dglaby - main.ba2
+*  Data_ccbgsfo4057-dglaby - textures.ba2
+*  Data_ccbgsfo4057-dglaby.esl
+*  Data_ccbgsfo4058-dglabc - main.ba2
+*  Data_ccbgsfo4058-dglabc - textures.ba2
+*  Data_ccbgsfo4058-dglabc.esl
+*  Data_ccbgsfo4059-dgpit - main.ba2
+*  Data_ccbgsfo4059-dgpit - textures.ba2
+*  Data_ccbgsfo4059-dgpit.esl
+*  Data_ccbgsfo4060-dgrot - main.ba2
+*  Data_ccbgsfo4060-dgrot - textures.ba2
+*  Data_ccbgsfo4060-dgrot.esl
+*  Data_ccbgsfo4061-dgshiinu - main.ba2
+*  Data_ccbgsfo4061-dgshiinu - textures.ba2
+*  Data_ccbgsfo4061-dgshiinu.esl
+*  Data_ccbgsfo4062-pippat - main.ba2
+*  Data_ccbgsfo4062-pippat - textures.ba2
+*  Data_ccbgsfo4062-pippat.esl
+*  Data_ccbgsfo4063-papat - main.ba2
+*  Data_ccbgsfo4063-papat - textures.ba2
+*  Data_ccbgsfo4063-papat.esl
+*  Data_ccbgsfo4070-pipabra - main.ba2
+*  Data_ccbgsfo4070-pipabra - textures.ba2
+*  Data_ccbgsfo4070-pipabra.esl
+*  Data_ccbgsfo4071-piparc - main.ba2
+*  Data_ccbgsfo4071-piparc - textures.ba2
+*  Data_ccbgsfo4071-piparc.esl
+*  Data_ccbgsfo4072-pipgrog - main.ba2
+*  Data_ccbgsfo4072-pipgrog - textures.ba2
+*  Data_ccbgsfo4072-pipgrog.esl
+*  Data_ccbgsfo4073-pipmman - main.ba2
+*  Data_ccbgsfo4073-pipmman - textures.ba2
+*  Data_ccbgsfo4073-pipmman.esl
+*  Data_ccbgsfo4074-pipinspect - main.ba2
+*  Data_ccbgsfo4074-pipinspect - textures.ba2
+*  Data_ccbgsfo4074-pipinspect.esl
+*  Data_ccbgsfo4075-pipshroud - main.ba2
+*  Data_ccbgsfo4075-pipshroud - textures.ba2
+*  Data_ccbgsfo4075-pipshroud.esl
+*  Data_ccbgsfo4076-pipmystery - main.ba2
+*  Data_ccbgsfo4076-pipmystery - textures.ba2
+*  Data_ccbgsfo4076-pipmystery.esl
+*  Data_ccbgsfo4077-piprocket - main.ba2
+*  Data_ccbgsfo4077-piprocket - textures.ba2
+*  Data_ccbgsfo4077-piprocket.esl
+*  Data_ccbgsfo4078-pipreily - main.ba2
+*  Data_ccbgsfo4078-pipreily - textures.ba2
+*  Data_ccbgsfo4078-pipreily.esl
+*  Data_ccbgsfo4079-pipvim - main.ba2
+*  Data_ccbgsfo4079-pipvim - textures.ba2
+*  Data_ccbgsfo4079-pipvim.esl
+*  Data_ccbgsfo4080-pippop - main.ba2
+*  Data_ccbgsfo4080-pippop - textures.ba2
+*  Data_ccbgsfo4080-pippop.esl
+*  Data_ccbgsfo4081-pipphenolresin - main.ba2
+*  Data_ccbgsfo4081-pipphenolresin - textures.ba2
+*  Data_ccbgsfo4081-pipphenolresin.esl
+*  Data_ccbgsfo4082-pipprc - main.ba2
+*  Data_ccbgsfo4082-pipprc - textures.ba2
+*  Data_ccbgsfo4082-pipprc.esl
+*  Data_ccbgsfo4083-pipartdeco - main.ba2
+*  Data_ccbgsfo4083-pipartdeco - textures.ba2
+*  Data_ccbgsfo4083-pipartdeco.esl
+*  Data_ccbgsfo4084-pipretro - main.ba2
+*  Data_ccbgsfo4084-pipretro - textures.ba2
+*  Data_ccbgsfo4084-pipretro.esl
+*  Data_ccbgsfo4085-piphawaii - main.ba2
+*  Data_ccbgsfo4085-piphawaii - textures.ba2
+*  Data_ccbgsfo4085-piphawaii.esl
+*  Data_ccbgsfo4086-pipadventure - main.ba2
+*  Data_ccbgsfo4086-pipadventure - textures.ba2
+*  Data_ccbgsfo4086-pipadventure.esl
+*  Data_ccbgsfo4087-piphaida - main.ba2
+*  Data_ccbgsfo4087-piphaida - textures.ba2
+*  Data_ccbgsfo4087-piphaida.esl
+*  Data_ccbgsfo4089-pipsynthwave - main.ba2
+*  Data_ccbgsfo4089-pipsynthwave - textures.ba2
+*  Data_ccbgsfo4089-pipsynthwave.esl
+*  Data_ccbgsfo4090-piptribal - main.ba2
+*  Data_ccbgsfo4090-piptribal - textures.ba2
+*  Data_ccbgsfo4090-piptribal.esl
+*  Data_ccbgsfo4091-as_bats - main.ba2
+*  Data_ccbgsfo4091-as_bats - textures.ba2
+*  Data_ccbgsfo4091-as_bats.esl
+*  Data_ccbgsfo4092-as_camoblue - main.ba2
+*  Data_ccbgsfo4092-as_camoblue - textures.ba2
+*  Data_ccbgsfo4092-as_camoblue.esl
+*  Data_ccbgsfo4093-as_camogreen - main.ba2
+*  Data_ccbgsfo4093-as_camogreen - textures.ba2
+*  Data_ccbgsfo4093-as_camogreen.esl
+*  Data_ccbgsfo4094-as_camotan - main.ba2
+*  Data_ccbgsfo4094-as_camotan - textures.ba2
+*  Data_ccbgsfo4094-as_camotan.esl
+*  Data_ccbgsfo4095-as_childrenofatom - main.ba2
+*  Data_ccbgsfo4095-as_childrenofatom - textures.ba2
+*  Data_ccbgsfo4095-as_childrenofatom.esl
 *  Data_ccBGSFO4096-AS_Enclave - Main.ba2
 *  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
-*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccbgsfo4096-as_enclave.esl
+*  Data_ccbgsfo4097-as_jack-olantern - main.ba2
+*  Data_ccbgsfo4097-as_jack-olantern - textures.ba2
+*  Data_ccbgsfo4097-as_jack-olantern.esl
+*  Data_ccbgsfo4098-as_pickman - main.ba2
+*  Data_ccbgsfo4098-as_pickman - textures.ba2
+*  Data_ccbgsfo4098-as_pickman.esl
+*  Data_ccbgsfo4099-as_reillysrangers - main.ba2
+*  Data_ccbgsfo4099-as_reillysrangers - textures.ba2
+*  Data_ccbgsfo4099-as_reillysrangers.esl
+*  Data_ccbgsfo4101-as_shi - main.ba2
+*  Data_ccbgsfo4101-as_shi - textures.ba2
+*  Data_ccbgsfo4101-as_shi.esl
+*  Data_ccbgsfo4103-as_tunnelsnakes - main.ba2
+*  Data_ccbgsfo4103-as_tunnelsnakes - textures.ba2
+*  Data_ccbgsfo4103-as_tunnelsnakes.esl
+*  Data_ccbgsfo4104-ws_bats - main.ba2
+*  Data_ccbgsfo4104-ws_bats - textures.ba2
+*  Data_ccbgsfo4104-ws_bats.esl
+*  Data_ccbgsfo4105-ws_camoblue - main.ba2
+*  Data_ccbgsfo4105-ws_camoblue - textures.ba2
+*  Data_ccbgsfo4105-ws_camoblue.esl
+*  Data_ccbgsfo4106-ws_camogreen - main.ba2
+*  Data_ccbgsfo4106-ws_camogreen - textures.ba2
+*  Data_ccbgsfo4106-ws_camogreen.esl
+*  Data_ccbgsfo4107-ws_camotan - main.ba2
+*  Data_ccbgsfo4107-ws_camotan - textures.ba2
+*  Data_ccbgsfo4107-ws_camotan.esl
+*  Data_ccbgsfo4108-ws_childrenofatom - main.ba2
+*  Data_ccbgsfo4108-ws_childrenofatom - textures.ba2
+*  Data_ccbgsfo4108-ws_childrenofatom.esl
 *  Data_ccBGSFO4110-WS_Enclave - Main.ba2
 *  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
-*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccbgsfo4110-ws_enclave.esl
+*  Data_ccbgsfo4111-ws_jack-olantern - main.ba2
+*  Data_ccbgsfo4111-ws_jack-olantern - textures.ba2
+*  Data_ccbgsfo4111-ws_jack-olantern.esl
+*  Data_ccbgsfo4112-ws_pickman - main.ba2
+*  Data_ccbgsfo4112-ws_pickman - textures.ba2
+*  Data_ccbgsfo4112-ws_pickman.esl
+*  Data_ccbgsfo4113-ws_reillysrangers - main.ba2
+*  Data_ccbgsfo4113-ws_reillysrangers - textures.ba2
+*  Data_ccbgsfo4113-ws_reillysrangers.esl
+*  Data_ccbgsfo4114-ws_shi - main.ba2
+*  Data_ccbgsfo4114-ws_shi - textures.ba2
+*  Data_ccbgsfo4114-ws_shi.esl
 *  Data_ccBGSFO4115-X02 - Main.ba2
 *  Data_ccBGSFO4115-X02 - Textures.ba2
-*  Data_ccBGSFO4115-X02.esl
+*  Data_ccbgsfo4115-x02.esl
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
-*  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccbgsfo4116-heavyflamer.esl
+*  Data_ccbgsfo4117-capmerc - main.ba2
+*  Data_ccbgsfo4117-capmerc - textures.ba2
+*  Data_ccbgsfo4117-capmerc.esl
+*  Data_ccbgsfo4118-ws_tunnelsnakes - main.ba2
+*  Data_ccbgsfo4118-ws_tunnelsnakes - textures.ba2
+*  Data_ccbgsfo4118-ws_tunnelsnakes.esl
+*  Data_ccbgsfo4119-cyberdog - main.ba2
+*  Data_ccbgsfo4119-cyberdog - textures.ba2
+*  Data_ccbgsfo4119-cyberdog.esl
+*  Data_ccbgsfo4120-poweramorskin(pittraider) - main.ba2
+*  Data_ccbgsfo4120-poweramorskin(pittraider) - textures.ba2
+*  Data_ccbgsfo4120-poweramorskin(pittraider).esl
+*  Data_ccbgsfo4121-poweramorskin(airforce) - main.ba2
+*  Data_ccbgsfo4121-poweramorskin(airforce) - textures.ba2
+*  Data_ccbgsfo4121-poweramorskin(airforce).esl
+*  Data_ccbgsfo4122-poweramorskin(scorchedsierra) - main.ba2
+*  Data_ccbgsfo4122-poweramorskin(scorchedsierra) - textures.ba2
+*  Data_ccbgsfo4122-poweramorskin(scorchedsierra).esl
+*  Data_ccbgsfo4123-poweramorskin(inferno) - main.ba2
+*  Data_ccbgsfo4123-poweramorskin(inferno) - textures.ba2
+*  Data_ccbgsfo4123-poweramorskin(inferno).esl
+*  Data_ccbgsfo4124-poweramorskin(tribalhelmets) - main.ba2
+*  Data_ccbgsfo4124-poweramorskin(tribalhelmets) - textures.ba2
+*  Data_ccbgsfo4124-poweramorskin(tribalhelmets).esl
+*  Data_cccrsfo4001-pipcoa - main.ba2
+*  Data_cccrsfo4001-pipcoa - textures.ba2
+*  Data_cccrsfo4001-pipcoa.esl
+*  Data_cceejfo4001-decorationpack - main.ba2
+*  Data_cceejfo4001-decorationpack - textures.ba2
+*  Data_cceejfo4001-decorationpack.esl
+*  Data_cceejfo4002-nuka - main.ba2
+*  Data_cceejfo4002-nuka - textures.ba2
+*  Data_cceejfo4002-nuka.esl
 *  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
+*  Data_ccfrsfo4001-handmadeshotgun.esl
+*  Data_ccfrsfo4002-antimaterielrifle - main.ba2
+*  Data_ccfrsfo4002-antimaterielrifle - textures.ba2
+*  Data_ccfrsfo4002-antimaterielrifle.esl
+*  Data_ccfrsfo4003-cr75l - main.ba2
+*  Data_ccfrsfo4003-cr75l - textures.ba2
+*  Data_ccfrsfo4003-cr75l.esl
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
+*  Data_ccfsvfo4001-modularmilitarybackpack.esl
 *  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
 *  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
+*  Data_ccfsvfo4002-midcenturymodern.esl
+*  Data_ccfsvfo4003-slocum - main.ba2
+*  Data_ccfsvfo4003-slocum - textures.ba2
+*  Data_ccfsvfo4003-slocum.esl
+*  Data_ccfsvfo4004-vrworkshopgnrplaza - main.ba2
+*  Data_ccfsvfo4004-vrworkshopgnrplaza - textures.ba2
+*  Data_ccfsvfo4004-vrworkshopgnrplaza.esl
+*  Data_ccfsvfo4005-vrdesertisland - main.ba2
+*  Data_ccfsvfo4005-vrdesertisland - textures.ba2
+*  Data_ccfsvfo4005-vrdesertisland.esl
+*  Data_ccfsvfo4006-vrwasteland - main.ba2
+*  Data_ccfsvfo4006-vrwasteland - textures.ba2
+*  Data_ccfsvfo4006-vrwasteland.esl
 *  Data_ccFSVFO4007-Halloween - Main.ba2
 *  Data_ccFSVFO4007-Halloween - Textures.ba2
-*  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccfsvfo4007-halloween.esl
+*  Data_ccgcafo4001-factionws01army - main.ba2
+*  Data_ccgcafo4001-factionws01army - textures.ba2
+*  Data_ccgcafo4001-factionws01army.esl
+*  Data_ccgcafo4002-factionws02acat - main.ba2
+*  Data_ccgcafo4002-factionws02acat - textures.ba2
+*  Data_ccgcafo4002-factionws02acat.esl
+*  Data_ccgcafo4003-factionws03bos - main.ba2
+*  Data_ccgcafo4003-factionws03bos - textures.ba2
+*  Data_ccgcafo4003-factionws03bos.esl
+*  Data_ccgcafo4004-factionws04gun - main.ba2
+*  Data_ccgcafo4004-factionws04gun - textures.ba2
+*  Data_ccgcafo4004-factionws04gun.esl
+*  Data_ccgcafo4005-factionws05hrpink - main.ba2
+*  Data_ccgcafo4005-factionws05hrpink - textures.ba2
+*  Data_ccgcafo4005-factionws05hrpink.esl
+*  Data_ccgcafo4006-factionws06hrshark - main.ba2
+*  Data_ccgcafo4006-factionws06hrshark - textures.ba2
+*  Data_ccgcafo4006-factionws06hrshark.esl
+*  Data_ccgcafo4007-factionws07hrflames - main.ba2
+*  Data_ccgcafo4007-factionws07hrflames - textures.ba2
+*  Data_ccgcafo4007-factionws07hrflames.esl
+*  Data_ccgcafo4008-factionws08inst - main.ba2
+*  Data_ccgcafo4008-factionws08inst - textures.ba2
+*  Data_ccgcafo4008-factionws08inst.esl
+*  Data_ccgcafo4009-factionws09mm - main.ba2
+*  Data_ccgcafo4009-factionws09mm - textures.ba2
+*  Data_ccgcafo4009-factionws09mm.esl
+*  Data_ccgcafo4010-factionws10rr - main.ba2
+*  Data_ccgcafo4010-factionws10rr - textures.ba2
+*  Data_ccgcafo4010-factionws10rr.esl
+*  Data_ccgcafo4011-factionws11vt - main.ba2
+*  Data_ccgcafo4011-factionws11vt - textures.ba2
+*  Data_ccgcafo4011-factionws11vt.esl
+*  Data_ccgcafo4012-factionas01acat - main.ba2
+*  Data_ccgcafo4012-factionas01acat - textures.ba2
+*  Data_ccgcafo4012-factionas01acat.esl
+*  Data_ccgcafo4013-factionas02bos - main.ba2
+*  Data_ccgcafo4013-factionas02bos - textures.ba2
+*  Data_ccgcafo4013-factionas02bos.esl
+*  Data_ccgcafo4014-factionas03gun - main.ba2
+*  Data_ccgcafo4014-factionas03gun - textures.ba2
+*  Data_ccgcafo4014-factionas03gun.esl
+*  Data_ccgcafo4015-factionas04hrpink - main.ba2
+*  Data_ccgcafo4015-factionas04hrpink - textures.ba2
+*  Data_ccgcafo4015-factionas04hrpink.esl
+*  Data_ccgcafo4016-factionas05hrshark - main.ba2
+*  Data_ccgcafo4016-factionas05hrshark - textures.ba2
+*  Data_ccgcafo4016-factionas05hrshark.esl
+*  Data_ccgcafo4017-factionas06inst - main.ba2
+*  Data_ccgcafo4017-factionas06inst - textures.ba2
+*  Data_ccgcafo4017-factionas06inst.esl
+*  Data_ccgcafo4018-factionas07mm - main.ba2
+*  Data_ccgcafo4018-factionas07mm - textures.ba2
+*  Data_ccgcafo4018-factionas07mm.esl
+*  Data_ccgcafo4019-factionas08nuk - main.ba2
+*  Data_ccgcafo4019-factionas08nuk - textures.ba2
+*  Data_ccgcafo4019-factionas08nuk.esl
+*  Data_ccgcafo4020-factionas09rr - main.ba2
+*  Data_ccgcafo4020-factionas09rr - textures.ba2
+*  Data_ccgcafo4020-factionas09rr.esl
+*  Data_ccgcafo4021-factionas10hrflames - main.ba2
+*  Data_ccgcafo4021-factionas10hrflames - textures.ba2
+*  Data_ccgcafo4021-factionas10hrflames.esl
+*  Data_ccgcafo4022-factionas11vt - main.ba2
+*  Data_ccgcafo4022-factionas11vt - textures.ba2
+*  Data_ccgcafo4022-factionas11vt.esl
+*  Data_ccgcafo4023-factionas12army - main.ba2
+*  Data_ccgcafo4023-factionas12army - textures.ba2
+*  Data_ccgcafo4023-factionas12army.esl
+*  Data_ccgcafo4024-instituteplasmaweapons - main.ba2
+*  Data_ccgcafo4024-instituteplasmaweapons - textures.ba2
+*  Data_ccgcafo4024-instituteplasmaweapons.esl
+*  Data_ccgcafo4025-pagunmm - main.ba2
+*  Data_ccgcafo4025-pagunmm - textures.ba2
+*  Data_ccgcafo4025-pagunmm.esl
+*  Data_ccgrcfo4001-pipgreytort - main.ba2
+*  Data_ccgrcfo4001-pipgreytort - textures.ba2
+*  Data_ccgrcfo4002-pipgreenvim - main.ba2
+*  Data_ccgrcfo4002-pipgreenvim - textures.ba2
+*  Data_ccgrcfo4002-pipgreenvim.esl
+*  Data_ccjvdfo4001-holiday - main.ba2
+*  Data_ccjvdfo4001-holiday - textures.ba2
+*  Data_ccjvdfo4001-holiday.esl
+*  Data_cckgjfo4001-bastion - main.ba2
+*  Data_cckgjfo4001-bastion - textures.ba2
+*  Data_cckgjfo4001-bastion.esl
 *  Data_ccOTMFO4001-Remnants - Main.ba2
 *  Data_ccOTMFO4001-Remnants - Textures.ba2
-*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccotmfo4001-remnants.esl
+*  Data_ccqdrfo4001_powerarmorai - main.ba2
+*  Data_ccqdrfo4001_powerarmorai - textures.ba2
+*  Data_ccqdrfo4001_powerarmorai.esl
+*  Data_ccrpsfo4001-scavenger - main.ba2
+*  Data_ccrpsfo4001-scavenger - textures.ba2
+*  Data_ccrpsfo4001-scavenger.esl
+*  Data_ccrzrfo4001-tunnelsnakes - main.ba2
+*  Data_ccrzrfo4001-tunnelsnakes - textures.ba2
+*  Data_ccrzrfo4001-tunnelsnakes.esm
+*  Data_ccrzrfo4002-disintegrate - main.ba2
+*  Data_ccrzrfo4002-disintegrate - textures.ba2
+*  Data_ccrzrfo4002-disintegrate.esl
+*  Data_ccrzrfo4003-pipover - main.ba2
+*  Data_ccrzrfo4003-pipover - textures.ba2
+*  Data_ccrzrfo4003-pipover.esl
+*  Data_ccrzrfo4004-pipinst - main.ba2
+*  Data_ccrzrfo4004-pipinst - textures.ba2
+*  Data_ccrzrfo4004-pipinst.esl
+*  Data_ccsbjfo4001-solarflare - main.ba2
+*  Data_ccsbjfo4001-solarflare - textures.ba2
+*  Data_ccsbjfo4001-solarflare.esl
+*  Data_ccsbjfo4002_manwellrifle - main.ba2
+*  Data_ccsbjfo4002_manwellrifle - textures.ba2
+*  Data_ccsbjfo4002_manwellrifle.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
 *  Data_ccSBJFO4003-Grenade - Textures.ba2
-*  Data_ccSBJFO4003-Grenade.esl
+*  Data_ccsbjfo4003-grenade.esl
+*  Data_ccsbjfo4004-ion - main.ba2
+*  Data_ccsbjfo4004-ion - textures.ba2
+*  Data_ccsbjfo4004-ion.esl
+*  Data_ccswkfo4001-astronautpowerarmor - main.ba2
+*  Data_ccswkfo4001-astronautpowerarmor - textures.ba2
+*  Data_ccswkfo4001-astronautpowerarmor.esm
+*  Data_ccswkfo4002-pipnuka - main.ba2
+*  Data_ccswkfo4002-pipnuka - textures.ba2
+*  Data_ccswkfo4002-pipnuka.esl
+*  Data_ccswkfo4003-pipquan - main.ba2
+*  Data_ccswkfo4003-pipquan - textures.ba2
+*  Data_ccswkfo4003-pipquan.esl
+*  Data_cctosfo4001-neosky - main.ba2
+*  Data_cctosfo4001-neosky - textures.ba2
+*  Data_cctosfo4001-neosky.esm
+*  Data_cctosfo4002_neonflats - main.ba2
+*  Data_cctosfo4002_neonflats - textures.ba2
+*  Data_cctosfo4002_neonflats.esm
+*  Data_ccvltfo4001-homes - main.ba2
+*  Data_ccvltfo4001-homes - textures.ba2
+*  Data_ccvltfo4001-homes.esm
+*  Data_ccygpfo4001-pipcruiser - main.ba2
+*  Data_ccygpfo4001-pipcruiser - textures.ba2
+*  Data_ccygpfo4001-pipcruiser.esl
+*  Data_cczsef04001-bhouse - main.ba2
+*  Data_cczsef04001-bhouse - textures.ba2
+*  Data_cczsef04001-bhouse.esm
+*  Data_cczsefo4002-smanor - main.ba2
+*  Data_cczsefo4002-smanor - textures.ba2
+*  Data_cczsefo4002-smanor.esm
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -290,7 +757,6 @@
 *  [DECENT PLUS 1.1.1-17631-1-1-1.7z](https://www.nexusmods.com/fallout4/mods/17631/?tab=files&file_id=71741)
 *  [Deeper Thoughts with Affinity-Sorted Dialogue - Expressive Curie-25050-1-1b.zip](https://www.nexusmods.com/fallout4/mods/25050/?tab=files&file_id=110824)
 *  [Delta Force - M4A1-103372-1-0-3-1775484068.rar](https://www.nexusmods.com/fallout4/mods/103372/?tab=files&file_id=392437)
-*  [Desperados Main Menu Theme Replacer-45169-Static-1677370132.zip](https://www.nexusmods.com/fallout4/mods/45169/?tab=files&file_id=268585)
 *  [Desperados Overhaul 45169 0.5.0 2026-08-04T13-46Z SmerDuuBF.7z](https://www.nexusmods.com/fallout4/mods/45169/?tab=files&file_id=405822)
 *  [Desperados Overhaul PRP Patch (No LOD) 45169 0.5.0 2026-08-04T13-54Z LKSG8HHMT.7z](https://www.nexusmods.com/fallout4/mods/45169/?tab=files&file_id=405823)
 *  [Detailed Bunkers - ESL-76992-1-0-1-1743809924.zip](https://www.nexusmods.com/fallout4/mods/76992/?tab=files&file_id=352908)
@@ -298,9 +764,8 @@
 *  [Diamond City Lights - ESL flagged ESP-85081-1-1-0-1719516929.rar](https://www.nexusmods.com/fallout4/mods/85081/?tab=files&file_id=324642)
 *  [Diamond City Supplements-75054-2-0-0-1722981755.zip](https://www.nexusmods.com/fallout4/mods/75054/?tab=files&file_id=329335)
 *  [Discharger Pistol-84861-1-0-5-1738095554.zip](https://www.nexusmods.com/fallout4/mods/84861/?tab=files&file_id=346577)
-*  [Disk Cache Enabler-74841-1-0-1695168773.zip](https://www.nexusmods.com/fallout4/mods/74841/?tab=files&file_id=290028)
 *  [DLC Commentary for TFTC v2.5-8704-2-5.zip](https://www.nexusmods.com/fallout4/mods/8704/?tab=files&file_id=105156)
-*  [DMF 107198 1.0Beta-1079iv 2026-08-30T01-10Z FLyfQe6eE.7z](https://www.nexusmods.com/fallout4/mods/107198/?tab=files&file_id=409270)
+*  [DMF - AIO 107198 Beta1.2 2026-10-09T20-19Z VZ2gWdOs4.7z](https://www.nexusmods.com/fallout4/mods/107198/?tab=files&file_id=415512)
 *  [Doctor Penske Face Gen Data (LOOSE)-86410-v3-2B-1771044018.7z](https://www.nexusmods.com/fallout4/mods/86410/?tab=files&file_id=385610)
 *  [Dogmeat - A True Companion - Normal-23139-1-3.zip](https://www.nexusmods.com/fallout4/mods/23139/?tab=files&file_id=140403)
 *  [Dogmeat Lags Behind 107231 1.0 2026-07-22T22-15Z oDXmuBha4.7z](https://www.nexusmods.com/fallout4/mods/107231/?tab=files&file_id=404201)
@@ -350,7 +815,6 @@
 *  [FallUI - Workbench-49300-1-4-1-r2-1667395902.rar](https://www.nexusmods.com/fallout4/mods/49300/?tab=files&file_id=255499)
 *  [Far Object LOD Improvement Project 61884 8.1 2026-08-16T03-36Z lPbx2jj0I.7z](https://www.nexusmods.com/fallout4/mods/61884/?tab=files&file_id=407381)
 *  [Faster Workbench Exit-70013--1-3-1680141051.zip](https://www.nexusmods.com/fallout4/mods/70013/?tab=files&file_id=272346)
-*  [Faster Workshop - AVX2 - Anniversary Edition-100532-1-0-0-1769092473.zip](https://www.nexusmods.com/fallout4/mods/100532/?tab=files&file_id=382395)
 *  [FIS - The NEW FallUI Item Sorter-60580-2-1-1654350813.rar](https://www.nexusmods.com/fallout4/mods/60580/?tab=files&file_id=239585)
 *  [Fixed Gobo Effects-27445-2-1-2-1667131938.zip](https://www.nexusmods.com/fallout4/mods/27445/?tab=files&file_id=255106)
 *  flexExtRelease_x64.dll
@@ -396,14 +860,11 @@
 *  [HP Vanilla Weapons - Main-23566-1-06.7z](https://www.nexusmods.com/fallout4/mods/23566/?tab=files&file_id=130804)
 *  [Hunting Revolver and Ranger Sequoia (Far Harbor version)-37535-1-02hotfix-1550944726.rar](https://www.nexusmods.com/fallout4/mods/37535/?tab=files&file_id=152816)
 *  [Iguanas 106812 3 2026-09-07T18-06Z NuqDBFGZZ.zip](https://www.nexusmods.com/fallout4/mods/106812/?tab=files&file_id=410468)
-*  [IMM - AIO FOMOD v1.4.4-82077-1-4-4-1745289550.7z](https://www.nexusmods.com/fallout4/mods/82077/?tab=files&file_id=354341)
 *  [Immersive Andrew Station - ESL-98284-1-0b-1763397487.7z](https://www.nexusmods.com/fallout4/mods/98284/?tab=files&file_id=374138)
 *  [Immersive Animation Framework-50555-1-3-2-1671826855.rar](https://www.nexusmods.com/fallout4/mods/50555/?tab=files&file_id=261342)
 *  [Immersive Candles BOS-83974-1-1-1717423045.7z](https://www.nexusmods.com/fallout4/mods/83974/?tab=files&file_id=320820)
 *  [Immersive Settlers-23391-1-31.zip](https://www.nexusmods.com/fallout4/mods/23391/?tab=files&file_id=97551)
 *  [ImmersiveCandles-58396--91-1662118866.7z](https://www.nexusmods.com/fallout4/mods/58396/?tab=files&file_id=249148)
-*  [ImprovedBoS 76756 2.1.2 2026-08-30T07-31Z SmerDu22B.zip](https://www.nexusmods.com/fallout4/mods/76756/?tab=files&file_id=409294)
-*  [ImprovedBoS 76756 2.1.3 2026-09-30T09-02Z Gpr9A6Hnh.zip](https://www.nexusmods.com/fallout4/mods/76756/?tab=files&file_id=413479)
 *  [ImprovedGuards 77115 1.3.0 2026-07-02T01-34Z ARl5VnM3c.zip](https://www.nexusmods.com/fallout4/mods/77115/?tab=files&file_id=401937)
 *  [ImprovedInstitute 76757 3.1.1 2026-08-30T07-35Z LKSG8HVVn.zip](https://www.nexusmods.com/fallout4/mods/76757/?tab=files&file_id=409295)
 *  [ImprovedMinutemen 76755 2.1.0-1 2026-07-22T11-30Z SmerDuc1a.zip](https://www.nexusmods.com/fallout4/mods/76755/?tab=files&file_id=404148)
@@ -428,8 +889,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
-*  lex_sscebr.tlx
 *  lex_sscebr2.clx
+*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -554,7 +1015,6 @@
 *  [Shady Motives - eXoPatch 88148 1.1.2 2026-06-28T08-03Z Ej72GKkL0.7z](https://www.nexusmods.com/fallout4/mods/88148/?tab=files&file_id=401623)
 *  [Shady Motives 84389 1.0.5a 2026-06-28T15-18Z mlHIzEYuC.zip](https://www.nexusmods.com/fallout4/mods/84389/?tab=files&file_id=401648)
 *  [sim settelements 2 scrapper-48846-5-106-1769199414.7z](https://www.nexusmods.com/fallout4/mods/48846/?tab=files&file_id=382575)
-*  [Sim Settlements 2 - All Chapters Pack 73394 3.7.0 2026-09-04T17-46Z p5IURVX7H.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=409959)
 *  [Sim Settlements 2 - All Chapters Pack 73394 3.8.0 2026-10-02T08-12Z q0wM4yC2N.zip](https://www.nexusmods.com/fallout4/mods/73394/?tab=files&file_id=413999)
 *  [Sim Settlements 2 - Ruined Homes and Gardens 2-48067-1-2-3-1710186903.7z](https://www.nexusmods.com/fallout4/mods/48067/?tab=files&file_id=306490)
 *  [Sim Settlements 2 - Tech Settlements-49342-1-4-2-1641677949.7z](https://www.nexusmods.com/fallout4/mods/49342/?tab=files&file_id=225963)
@@ -571,7 +1031,6 @@
 *  [SneakRunWalk-88222-1-0-1727995178.rar](https://www.nexusmods.com/fallout4/mods/88222/?tab=files&file_id=335954)
 *  [South Boston Military Checkpoint Radio Toggle-91371-1-0-0-1738966153.7z](https://www.nexusmods.com/fallout4/mods/91371/?tab=files&file_id=347418)
 *  [Spec Ops Pistol-91351-1-0-7-1-1743397707.zip](https://www.nexusmods.com/fallout4/mods/91351/?tab=files&file_id=352440)
-*  [SprintStutteringFix 47760 1.6 2026-08-22T17-41Z 6VzRnTTeW.zip](https://www.nexusmods.com/fallout4/mods/47760/?tab=files&file_id=408433)
 *  [SS2 - Nobody's Leaders 2-57783-2-0-3-1668572856.zip](https://www.nexusmods.com/fallout4/mods/57783/?tab=files&file_id=257103)
 *  [SS2 - Settlers at Play-60443-6-1-1739671456.7z](https://www.nexusmods.com/fallout4/mods/60443/?tab=files&file_id=348149)
 *  [SS2 Addon - Shazbot's Cots-73794-0-0-24-1696350461.7z](https://www.nexusmods.com/fallout4/mods/73794/?tab=files&file_id=290953)
@@ -624,6 +1083,7 @@
 *  Tools_Elric_BSShader.dll
 *  Tools_Elric_BSSystem.dll
 *  Tools_Elric_Configs_KeepExtraData.cfg
+*  Tools_Elric_DDS_to_TGA.bat
 *  Tools_Elric_DotNetMagic2005.dll
 *  Tools_Elric_Elrich.exe
 *  Tools_Elric_ElricInterop.dll
@@ -654,28 +1114,31 @@
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_flat_50_5c5c5c_40x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_glass_40_ffc73d_1x400.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-hard_20_767676_1x100.png
-*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_33_003147_1x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_35_222222_1x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_80_eeeeee_1x100.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_loop_25_000000_21x21.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_4b8e0b_256x240.png
-*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_cccccc_256x240.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.min.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.16.custom.css
+*  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_css_images_ajax-loader.gif
-*  Tools_MaterialEditor_htdocs_css_images_file.gif
-*  Tools_MaterialEditor_htdocs_css_images_minus.gif
+*  Tools_MaterialEditor_htdocs_css_images_folder.gif
 *  Tools_MaterialEditor_htdocs_css_images_treeview-black-line.gif
-*  Tools_MaterialEditor_htdocs_css_images_treeview-default.gif
+*  Tools_MaterialEditor_htdocs_css_images_treeview-default-line.gif
 *  Tools_MaterialEditor_htdocs_css_images_treeview-famfamfam-line.gif
 *  Tools_MaterialEditor_htdocs_css_images_treeview-famfamfam.gif
+*  Tools_MaterialEditor_htdocs_css_images_treeview-gray-line.gif
+*  Tools_MaterialEditor_htdocs_css_images_treeview-red-line.gif
 *  Tools_MaterialEditor_htdocs_css_images_treeview-red.gif
 *  Tools_MaterialEditor_htdocs_css_jquery.treeview.css
 *  Tools_MaterialEditor_htdocs_css_screen.css
-*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ffd27a_256x240.png
-*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ffffff_256x240.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_gloss-wave_35_f6a828_500x100.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_222222_256x240.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ef8c08_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui.spinner.css
-*  Tools_MaterialEditor_htdocs_css_xui-lightness_jquery-ui-1.8.20.custom.css
+*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-icons_ffd27a_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_AUTHORS.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_collapsible.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_custom-icons.html
@@ -876,42 +1339,38 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.css
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.js
 *  Tools_MaterialEditor_htdocs_development-bundle_GPL-LICENSE.txt
+*  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.7.2.js
 *  Tools_MaterialEditor_htdocs_development-bundle_MIT-LICENSE.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_package.json
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_flat_75_ffffff_40x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_55_fbf9ee_1x400.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_65_ffffff_1x400.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_75_dadada_1x400.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_95_fef1ec_1x400.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_highlight-soft_75_cccccc_1x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_2e83ff_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_454545_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_888888_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_cd0a0a_256x240.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.autocomplete.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.base.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.datepicker.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.dialog.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.progressbar.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.selectable.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.slider.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.theme.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_flat_30_cccccc_40x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_highlight-hard_20_0972a5_1x100.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_highlight-soft_33_003147_1x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_highlight-soft_44_444444_1x100.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_loop_25_000000_21x21.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-icons_222222_256x240.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-icons_ffffff_256x240.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.accordion.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.all.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.autocomplete.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.button.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.core.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.datepicker.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.progressbar.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.resizable.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.tabs.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.selectable.css
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.slider.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_images_ui-bg_glass_100_f6f6f6_1x400.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_images_ui-bg_diagonals-thick_20_666666_40x40.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.accordion.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.all.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.autocomplete.css
@@ -927,7 +1386,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.theme.css
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery-ui-i18n.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-af.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ar-DZ.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ar.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-az.js
@@ -940,6 +1398,7 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-de.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-el.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-en-AU.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-en-GB.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-en-NZ.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-eo.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-es.js
@@ -950,11 +1409,10 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-fo.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-fr-CH.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-fr.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ge.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-gl.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-he.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hi.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hr.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hu.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hy.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-id.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-is.js
@@ -963,13 +1421,11 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-kk.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-km.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ko.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-lb.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-lt.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-lv.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-mk.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ml.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ms.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-nl-BE.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-nl.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-no.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-pl.js
@@ -992,13 +1448,17 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-CN.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-HK.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-zh-TW.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery-ui-1.8.20.custom.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.blind.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.bounce.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.clip.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.core.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.explode.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.drop.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.fade.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.highlight.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.pulsate.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.scale.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.slide.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.effects.transfer.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.accordion.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.autocomplete.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.button.js
@@ -1016,12 +1476,10 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.sortable.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.tabs.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.widget.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.blind.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.bounce.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.fade.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.fold.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.pulsate.min.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.explode.min.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.highlight.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.scale.min.js
+*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.slide.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.accordion.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.autocomplete.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.button.min.js
@@ -1040,24 +1498,23 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.tabs.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.widget.min.js
 *  Tools_MaterialEditor_htdocs_favicon.ico
+*  Tools_MaterialEditor_htdocs_images_file.gif
 *  Tools_MaterialEditor_htdocs_images_folder-closed.gif
-*  Tools_MaterialEditor_htdocs_images_folder.gif
 *  Tools_MaterialEditor_htdocs_images_fugue_icons_document.png
 *  Tools_MaterialEditor_htdocs_images_fugue_icons_folder-horizontal-open.png
 *  Tools_MaterialEditor_htdocs_images_fugue_icons_folder-horizontal.png
+*  Tools_MaterialEditor_htdocs_images_minus.gif
 *  Tools_MaterialEditor_htdocs_images_plus.gif
 *  Tools_MaterialEditor_htdocs_images_treeview-black.gif
-*  Tools_MaterialEditor_htdocs_images_treeview-default-line.gif
-*  Tools_MaterialEditor_htdocs_images_treeview-gray-line.gif
+*  Tools_MaterialEditor_htdocs_images_treeview-default.gif
 *  Tools_MaterialEditor_htdocs_images_treeview-gray.gif
-*  Tools_MaterialEditor_htdocs_images_treeview-red-line.gif
 *  Tools_MaterialEditor_htdocs_index.html
 *  Tools_MaterialEditor_htdocs_jqCKWebBuilder.js
 *  Tools_MaterialEditor_htdocs_jqComboBox.js
 *  Tools_MaterialEditor_htdocs_jquery-1.10.2.min.js
 *  Tools_MaterialEditor_htdocs_jquery.bgsdlgeditor.css
 *  Tools_MaterialEditor_htdocs_jquery.bgsdlgeditor.js
-*  Tools_MaterialEditor_htdocs_jquery.cleditor.txt
+*  Tools_MaterialEditor_htdocs_jquery.cleditor.js
 *  Tools_MaterialEditor_htdocs_jquery.jgrowl.css
 *  Tools_MaterialEditor_htdocs_jquery.jgrowl.js
 *  Tools_MaterialEditor_htdocs_jquery.js
@@ -1069,7 +1526,7 @@
 *  Tools_MaterialEditor_htdocs_jquery.treeview2.js
 *  Tools_MaterialEditor_htdocs_js_intro.js
 *  Tools_MaterialEditor_htdocs_js_jquery-1.6.2.min.js
-*  Tools_MaterialEditor_htdocs_js_jquery-1.7.2.js
+*  Tools_MaterialEditor_htdocs_js_jquery-1.7.2.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.8.16.custom.min.js
 *  Tools_MaterialEditor_htdocs_js_jquery-ui-1.8.20.custom.min.js
@@ -1130,7 +1587,6 @@
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_images_ui-icons_bbbbbb_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_images_ui-icons_ededed_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_images_ui-icons_ffcf29_256x240.png
-*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_jquery-ui.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_jquery-ui.min.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_black-tie_jquery.ui.theme.css
@@ -1144,8 +1600,10 @@
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-bg_highlight-soft_80_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-bg_loop_25_000000_21x21.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-icons_a83300_256x240.png
+*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-icons_cccccc_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_jquery-ui-1.10.3.custom.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_jquery-ui-1.10.3.custom.min.css
+*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_animated-overlay.gif
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-bg_flat_30_cccccc_40x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-bg_flat_50_5c5c5c_40x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-bg_glass_20_555555_1x400.png
@@ -1158,6 +1616,7 @@
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-icons_4b8e0b_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-icons_a83300_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-icons_cccccc_256x240.png
+*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_jquery-ui.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_jquery-ui.min.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_jquery.ui.theme.css
@@ -1181,10 +1640,11 @@
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_js_jquery-ui-1.10.3.custom.js
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_js_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_flat_0_aaaaaa_40x100.png
+*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_glass_75_dadada_1x400.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_glass_75_e6e6e6_1x400.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_glass_75_ffffff_1x400.png
+*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_highlight-soft_75_cccccc_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_inset-soft_95_fef1ec_1x100.png
-*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-icons_2e83ff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-icons_454545_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-icons_888888_256x240.png
@@ -1208,7 +1668,6 @@
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.0_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.0_jquery-ui-1.10.0.custom.css
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.0_jquery-ui-1.10.0.custom.min.css
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_animated-overlay.gif
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_diagonals-thick_18_b81900_40x40.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_diagonals-thick_20_666666_40x40.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_flat_10_000000_40x100.png
@@ -1218,25 +1677,27 @@
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_gloss-wave_35_f6a828_500x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_228ef1_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_ef8c08_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_ffd27a_256x240.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_jquery-ui-1.10.3.custom.min.css
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_diagonals-thick_18_b81900_40x40.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_glass_100_f6f6f6_1x400.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_glass_100_fdf5ce_1x400.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_gloss-wave_35_f6a828_500x100.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-icons_228ef1_256x240.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_jquery-ui-1.8.23.custom.css
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-bg_diagonals-thick_20_666666_40x40.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-icons_ef8c08_256x240.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-bg_diagonals-thick_18_b81900_40x40.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-bg_glass_65_ffffff_1x400.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-icons_228ef1_256x240.png
+*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_jquery-ui-1.9.1.custom.min.css
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-bg_flat_10_000000_40x100.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-icons_228ef1_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_jquery-ui-1.8.21.custom.css
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery-ui-i18n.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-af.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ar-DZ.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ar.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-az.js
@@ -1248,7 +1709,6 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-da.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-de.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-el.js
-*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-en-GB.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-eo.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-es.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-et.js
@@ -1258,10 +1718,11 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-fo.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-fr-CH.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-fr.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ge.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-gl.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-he.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hi.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hr.js
-*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hu.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hy.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-id.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-is.js
@@ -1270,10 +1731,12 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-kk.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ko.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-kz.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-lb.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-lt.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-lv.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ml.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ms.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-nl-BE.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-nl.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-no.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-pl.js
@@ -1297,18 +1760,13 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-CN.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-HK.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-zh-TW.js
-*  Tools_MaterialEditor_htdocs_ui_jquery-1.7.2.min.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.10.3.custom.min.js
 *  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.8.16.custom.js
-*  Tools_MaterialEditor_htdocs_ui_jquery-ui-1.8.20.custom.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.cookie.js
-*  Tools_MaterialEditor_htdocs_ui_jquery.effects.clip.js
-*  Tools_MaterialEditor_htdocs_ui_jquery.effects.drop.js
-*  Tools_MaterialEditor_htdocs_ui_jquery.effects.fade.js
+*  Tools_MaterialEditor_htdocs_ui_jquery.effects.explode.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.fold.js
-*  Tools_MaterialEditor_htdocs_ui_jquery.effects.highlight.js
-*  Tools_MaterialEditor_htdocs_ui_jquery.effects.scale.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.effects.shake.js
+*  Tools_MaterialEditor_htdocs_ui_jquery.effects.transfer.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.treeview.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.accordion.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.autocomplete.js
@@ -1325,15 +1783,18 @@
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.selectable.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.slider.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.sortable.js
+*  Tools_MaterialEditor_htdocs_ui_jquery.ui.spinner.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.tabs.js
 *  Tools_MaterialEditor_htdocs_ui_jquery.ui.widget.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.blind.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.bounce.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.clip.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.core.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.drop.min.js
-*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.explode.min.js
-*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.highlight.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fade.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fold.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.pulsate.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.shake.min.js
-*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.slide.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.transfer.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.accordion.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.autocomplete.min.js
@@ -1352,7 +1813,6 @@
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.sortable.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.tabs.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.widget.min.js
-*  Tools_MaterialEditor_htdocs_ui_ui.spinner.js
 *  Tools_NIF_Exporter_BGS_Fallout4Exporter_-_1.2.52.0.exe
 *  Tools_NIF_Exporter_README.txt
 *  Tools_PapyrusProfileAnalyzer.exe
@@ -1393,7 +1853,6 @@
 *  [Wasteland Venturers Sim Settlements 2-48060-1-5-2-1692466152.zip](https://www.nexusmods.com/fallout4/mods/48060/?tab=files&file_id=287295)
 *  [Wattz 3000 mkII 4k Textures-87734-1-1-4-1729366071.zip](https://www.nexusmods.com/fallout4/mods/87734/?tab=files&file_id=337291)
 *  [WD_10mm_Anims-31508-v3-1550850798.rar](https://www.nexusmods.com/fallout4/mods/31508/?tab=files&file_id=152717)
-*  [WeaponDebrisCrashFix 48078 2.0.5 2026-09-13T18-10Z M3Bb7atKY.zip](https://www.nexusmods.com/fallout4/mods/48078/?tab=files&file_id=411322)
 *  [WeaponDebrisCrashFix 48078 2.0.6 2026-09-19T18-34Z KAmp6bZk6.zip](https://www.nexusmods.com/fallout4/mods/48078/?tab=files&file_id=412151)
 *  [weightless ammo robco-86958-2-18-1758250355.zip](https://www.nexusmods.com/fallout4/mods/86958/?tab=files&file_id=368014)
 *  [Wetness Shader Fix-23389-3-6-3-1716206524.7z](https://www.nexusmods.com/fallout4/mods/23389/?tab=files&file_id=317812)
