@@ -150,6 +150,7 @@
 *  [AddItemMenuSE_114_SKSE2019-17563-1-14-1598741692.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17563/?tab=files&file_id=158293)
 *  [Additional Attack - Settings Loader-95592-1-0-1-1696846130.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95592/?tab=files&file_id=432608)
 *  [Additional Attack - SSE-51851-1-1-1633179745.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51851/?tab=files&file_id=232059)
+*  [Additional Clockwork-47087-3-0-6-1774574019.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=735524)
 *  [Additional Dremora Faces - Odin Patch-97946-1-3-1696944442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97946/?tab=files&file_id=432873)
 *  [Additional Dremora Faces-97946-1-3-1696944378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97946/?tab=files&file_id=432871)
 *  [Adventurer Armor-91741-1-0-1684570948.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91741/?tab=files&file_id=390064)
@@ -369,7 +370,6 @@
 *  [Born in a Barn - Curtains for Shacks BOS -Parallax-113432-1-2-1710583495.rar](https://www.nexusmods.com/skyrimspecialedition/mods/113432/?tab=files&file_id=481094)
 *  [BOS Color Variance Use Those Blankets patch 131951 1.0.3 2026-06-28T21-49Z hfH9s6IyO.rar](https://www.nexusmods.com/skyrimspecialedition/mods/131951/?tab=files&file_id=769413)
 *  [Bosmer_House Fixes - Nico-105031-1-0-1712361490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=487850)
-*  [Bottled Shaders 192816 1.0.7 2026-10-05T01-21Z cE8hkADxy.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192816/?tab=files&file_id=814806)
 *  [Boulder in Skyrim-110937-1-2-1718440805.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110937/?tab=files&file_id=511688)
 *  [Bow Rapid Combo V3 - Settings Loader-92696-1-0-1-1685888779.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92696/?tab=files&file_id=394970)
 *  [Bow Rapid Combo v3-89308-1-4-1681883852.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89308/?tab=files&file_id=379811)
@@ -476,6 +476,9 @@
 *  [Cloaks and Capes-2019-1-4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2019/?tab=files&file_id=35552)
 *  [Cloaks of Skyrim SSE - v1.2.1-6369-1-2-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6369/?tab=files&file_id=18422)
 *  [Cloaks of Skyrim Ultra HD-29258-1-0-1569433300.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29258/?tab=files&file_id=108200)
+*  [Clockwork - Particle Lights for ENB Addon-87356-1-2-2-1681462963.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87356/?tab=files&file_id=378128)
+*  [Clockwork Cleaned-55677-1-1631814247.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55677/?tab=files&file_id=228765)
+*  [Clockwork_SSE_v1-0-4155-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4155/?tab=files&file_id=7713)
 *  [Cloth Mannequins SE-32504-1-0-0-1581214876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32504/?tab=files&file_id=123285)
 *  [CO 61 Converus Bugfix-35339-1-01-1588440899.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=137645)
 *  [COCKS - 21-9 Patch-94241-v1-0-1687684743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94241/?tab=files&file_id=400815)
@@ -718,7 +721,6 @@
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -861,7 +863,7 @@
 *  [Dynamic Horse Petting Animations-111767-1-1-1708342632.zip](https://www.nexusmods.com/skyrimspecialedition/mods/111767/?tab=files&file_id=472486)
 *  [Dynamic Looting and Harvesting-114547-1-4-1711768472.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114547/?tab=files&file_id=485551)
 *  [Dynamic Looting and Harvesting-114547-1-7-1715257460.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114547/?tab=files&file_id=499397)
-*  [Dynamic Terrain Deformation Skse 192402 1.1 2026-09-26T18-31Z xDLPwGCJI.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192402/?tab=files&file_id=810975)
+*  [Dynamic Terrain Deformation Skse 192402 1.2 2026-10-11T12-11Z tSBIcEOMj.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192402/?tab=files&file_id=818137)
 *  [Dynamic Things Alternative - Base Object Swapper-60741-0-2-2-1691407264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60741/?tab=files&file_id=414940)
 *  [Dynamic Things-19520-1-40.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19520/?tab=files&file_id=63976)
 *  [DynamicAnimationCasting-65512-1-5-1-1649625800.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65512/?tab=files&file_id=276289)
@@ -1577,7 +1579,7 @@
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
 *  [Modern Female Sitting Overhaul OAR-85599-2-0-1741077172.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85599/?tab=files&file_id=601635)
 *  [Modern Lighting Overhaul 2 (MLO2)-160748-5-3-1774317366.zip](https://www.nexusmods.com/skyrimspecialedition/mods/160748/?tab=files&file_id=734600)
-*  [Modern NPC Pathing 185413 2.4.2 2026-07-20T16-50Z JrECN2Zct.zip](https://www.nexusmods.com/skyrimspecialedition/mods/185413/?tab=files&file_id=779076)
+*  [Modern NPC Pathing 185413 2.5.0 2026-08-16T18-50Z Ks18n0jt3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/185413/?tab=files&file_id=790926)
 *  [Modern Wait Menu-117661-1-00-1715104007.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117661/?tab=files&file_id=498837)
 *  [Modernize - Bug fixes-64776-0-0-1657470830.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64776/?tab=files&file_id=297846)
 *  [Modernize - Vanilla 2.7-64776-2-7-1651365576.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64776/?tab=files&file_id=280704)
@@ -1746,7 +1748,6 @@
 *  [OIL v2 x2048-38684-2-1595767189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38684/?tab=files&file_id=152236)
 *  [Old people are old-140639-1-1-1738545613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140639/?tab=files&file_id=590410)
 *  [Olenveld Revoiced-143279-1-1-1741001976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/143279/?tab=files&file_id=601306)
-*  [Olenveld_Fix_Pack-133579-1-1b-1732412742.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133579/?tab=files&file_id=565427)
 *  [Olenveld_Fix_Pack-133579-1-1c-1743014640.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133579/?tab=files&file_id=610122)
 *  [Olenveld-133579-1-1-1732202826.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133579/?tab=files&file_id=564581)
 *  [On the Mend - A Healing Altar Replacer-132172-1-0-1729942332.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132172/?tab=files&file_id=555651)
@@ -1757,7 +1758,7 @@
 *  [Open Animation Replacer - Math Plugin-92607-1-0-2-1688513668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92607/?tab=files&file_id=403824)
 *  [Open Animation Replacer - RaySense-175498-1-0-1774370738.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175498/?tab=files&file_id=734752)
 *  [Open Animation Replacer-92109-3-0-2-1771880022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=725002)
-*  [Open Shaders 180419 2.17.0 2026-09-29T03-40Z 587RqTLHa.7z](https://www.nexusmods.com/skyrimspecialedition/mods/180419/?tab=files&file_id=812041)
+*  [Open Shaders 180419 2.18.0 2026-10-08T19-56Z XnIqaCgIV.7z](https://www.nexusmods.com/skyrimspecialedition/mods/180419/?tab=files&file_id=816589)
 *  [Optimised Scripts for XPMSSE (for Papyrus Stack Fix 4.8.3)-82774-1-2-0-1675784522.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82774/?tab=files&file_id=357460)
 *  [Orcherza - Preset-105031-2-4-8-1754786453.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=654305)
 *  [Orcish Armors and Weapons Retexture SE-84607-2-0-1-1727196980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84607/?tab=files&file_id=545703)
@@ -1834,7 +1835,6 @@
 *  [Perth House Patch - Nico-105031-1-0-1705038406.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=460511)
 *  [Peryite Shrine 2k-62666-1-0-1643324110.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62666/?tab=files&file_id=259999)
 *  [Pet the cats - SE-50124-2-3-1642954352.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50124/?tab=files&file_id=258924)
-*  [PGPatcher 120946 1.2.0 2026-07-21T06-42Z 587RqTh19.zip](https://www.nexusmods.com/skyrimspecialedition/mods/120946/?tab=files&file_id=779311)
 *  [Phats Purple Glass Arrows ENB Complex parallax Fix-40229-1-0-1676351979.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40229/?tab=files&file_id=359624)
 *  [Photo Mode-91701-1-2-0-1692767905.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=419700)
 *  [Pick Up Radius-69750-1-8-1657358424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69750/?tab=files&file_id=297403)
@@ -2278,7 +2278,7 @@
 *  [Symphonies Of Skyrim - Two Year Anniversary Edition-34234-2-0.rar](https://www.nexusmods.com/skyrim/mods/34234/?tab=files&file_id=1000153178)
 *  [sztkUtil-57863-20220312-1647094009.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57863/?tab=files&file_id=269612)
 *  [TAA Flicker Fixer-76436-1-2-0-1665317246.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76436/?tab=files&file_id=322732)
-*  [Tailor - AE - SE - VR - Unified Plugin-173691-1-2-1772913766.zip](https://www.nexusmods.com/skyrimspecialedition/mods/173691/?tab=files&file_id=728996)
+*  [Tailor - An Outfit and Wig Manager 173691 3.0.1 2026-10-07T22-20Z 8gJHT4Q0Y.zip](https://www.nexusmods.com/skyrimspecialedition/mods/173691/?tab=files&file_id=816144)
 *  [Take A Peek-66908-1-22-1694863541.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66908/?tab=files&file_id=426222)
 *  [Take a Seat - OAR Animations-54193-1-01-1685814645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=394681)
 *  [Tales of Skyrim - Berserkyr Patch Collection-103318-1-8-1733607493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103318/?tab=files&file_id=570090)
