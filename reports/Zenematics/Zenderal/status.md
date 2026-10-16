@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1046)
+### Valid (1045)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
 *  [(SGC) NASC-32996-1-1-1630160159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32996/?tab=files&file_id=224384)
@@ -28,8 +28,8 @@
 *  [4k Farmhouse Fences SE Version 1-38912-1-0-1596335983.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38912/?tab=files&file_id=153295)
 *  [4K textures for the ruins chests urns and a wood-19365-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19365/?tab=files&file_id=65037)
 *  [4thUnknown Minotaurs In Enderal-770-1-01-1723621077.7z](https://www.nexusmods.com/enderalspecialedition/mods/770/?tab=files&file_id=2995)
-*  [A-Pose Fix-168903-v1-1-0-a-1773750324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/168903/?tab=files&file_id=732301)
 *  [A. Tween Menu Overhaul - Classic 143275 1.2.1 2026-09-08T21-10Z Z3mWyIehS.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143275/?tab=files&file_id=802517)
+*  [AddItemMenuSE_113_SKSE2017-17563-1-13-1583560533.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17563/?tab=files&file_id=127608)
 *  [Addon - Eppi Improved Locations-1014-1-3-1772538393.zip](https://www.nexusmods.com/enderalspecialedition/mods/1014/?tab=files&file_id=4089)
 *  [Address Library All in One (1.7.104.0) v13 32444 13 2026-08-27T15-29Z Ae46W7Fw2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=795954)
 *  [Adventurer Armor-91741-1-0-1684570948.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91741/?tab=files&file_id=390064)
@@ -206,7 +206,6 @@
 *  Data_meshes_actors_character_animations_enderal_mt_shout_exhale_long.hkx
 *  Data_meshes_actors_character_animations_enderal_mt_shout_exhale.hkx
 *  Data_meshes_actors_character_animations_enderal_pa_calia_massacre.hkx
-*  Data_meshes_actors_character_animations_enderal_paired_calia_massacre.hkx
 *  Data_meshes_actors_character_animations_enderal_paired_hugb.hkx
 *  Data_meshes_actors_character_animations_enderal_paired_kiss_2female.hkx
 *  Data_meshes_actors_character_animations_enderal_paired_kiss_2male.hkx
@@ -250,7 +249,6 @@
 *  Data_meshes_actors_character_characters female_defaultfemale.hkx
 *  Data_meshes_actors_character_characters_defaultmale.hkx
 *  Data_meshes_animationdatasinglefile.txt
-*  Data_meshes_animationsetdatasinglefile.txt
 *  Data_meshes_terrain_Vyn_vyn.32.-5.9.btr
 *  Data_Report a bug in Enderal SE.url
 *  Data_Scripts_ActiveMagicEffect.pex
@@ -779,6 +777,7 @@
 *  [Pandora Behaviour Engine v5.0.0-beta 133232 5.0.0-beta 2026-10-01T16-11Z pQ0AZ3F4B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=813165)
 *  [Pandora Output - Zenderal 1128 1 2026-10-08T19-40Z tmSNv6ZZK.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4523)
 *  [Pandora Output - Zenderal 1128 3 2026-10-15T21-57Z V3M4qjUU8.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4546)
+*  [Pandora Output - Zenderal 1128 4 2026-10-16T17-56Z AHeqgzhhK.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4549)
 *  [Papyrus Extender-22854-5-10-0-1741317512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=602547)
 *  [Papyrus Ini Manipulator-65634-1-9-8-1773649981.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=731949)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
