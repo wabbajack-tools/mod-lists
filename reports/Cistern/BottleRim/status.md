@@ -1,4 +1,4 @@
-## Validation Report - BottleRim (Cistern/BottleRim)
+## Validation Report - HexRim (Cistern/BottleRim)
 
 
 ### Invalid (0)
