@@ -1916,7 +1916,7 @@
 *  [SkFO SE -Skin Feature Overlays- 4K-20183-1-6-1562446832.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98406)
 *  [SkinnyAstridShadowOutfit_1_Dc5uGk4u3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/183158/?tab=files&file_id=767157)
 *  [SkinnyPeteShadowAssasin_1_L5WQbqNQa.7z](https://www.nexusmods.com/skyrimspecialedition/mods/183398/?tab=files&file_id=767149)
-*  [SKSE Menu Framework 120352 3.18 2026-09-17T16-36Z cE8hkAlOT.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=806684)
+*  [SKSE Menu Framework ALT 120352 3.16-alternative-2 2026-09-20T15-37Z eVtX7JQnJ.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=808313)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
 *  [Sky Reflection Fix-110604-1-0-1-1706805413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110604/?tab=files&file_id=466782)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
