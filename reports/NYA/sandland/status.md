@@ -288,7 +288,7 @@
 *  [Combined Arms Expansion Pack - 1.0.2 - PATCH ONLY-53000-1-0-2-1642602647.7z](https://www.nexusmods.com/fallout4/mods/53000/?tab=files&file_id=227099)
 *  [Combined Arms Expansion Pack - AMD Patch-53000-AMD-1638545241.7z](https://www.nexusmods.com/fallout4/mods/53000/?tab=files&file_id=222947)
 *  [Commonwealth Ballistics - Penetration System-101081-1-6-0-1771062683.zip](https://www.nexusmods.com/fallout4/mods/101081/?tab=files&file_id=385637)
-*  [Commonwealth Captives NPC Patch 1.0.7.7z](https://www.loverslab.com/files/file/19169-commonwealth-captives-more-female-captives/)
+*  [Commonwealth Captives NPC Patch 1.0.9.7z](https://www.loverslab.com/files/file/19169-commonwealth-captives-more-female-captives/)
 *  [Commonwealth Captives v1.12.7z](https://www.loverslab.com/files/file/14493-commonwealth-captives/)
 *  [Commonwealth Cuts 2.5.1-11402-2-5-1-1547056792.rar](https://www.nexusmods.com/fallout4/mods/11402/?tab=files&file_id=149695)
 *  [Commonwealth Encounter Pack - Loose Files-77948-1-00-1706889035.zip](https://www.nexusmods.com/fallout4/mods/77948/?tab=files&file_id=301974)
