@@ -1,0 +1,3855 @@
+{
+  "MachineURL": "kiraMW-MW/MorrowindRekindled",
+  "Name": "Morrowind Rekindled",
+  "Version": "0.51.0",
+  "ModListHash": "BXKsVtBkygc=",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rXDEtl7gdOU=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z",
+        "Name": "Mod.Organizer-2.5.2.7z",
+        "Size": 149660212,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Fxcbq0fwfX4=",
+        "Meta": "[General]\ndirectURL=https://github.com/Juevaso13/wbj-sets/releases/download/Release/OpenMW.0.51.0.7z",
+        "Name": "OpenMW.0.51.0.7z",
+        "Size": 45627292,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Juevaso13/wbj-sets/releases/download/Release/OpenMW.0.51.0.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jyM+Vdfcr1g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57943\nfileID=1000059332",
+        "Name": "Ashfront - Rotheran Rebuilt-57943-1-1-1766101922.zip",
+        "Size": 675237,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anumaril21",
+          "Description": "Overhauls the Dunmer stronghold of Rotheran, expanding on existing themes and implementing a scripted encounter.",
+          "FileID": 1000059332,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57943/57943-1766075794-1912146960.png",
+          "IsNSFW": false,
+          "ModID": 57943,
+          "Name": "Ashfront - Rotheran Rebuilt",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "npLEHFidXDk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58870\nfileID=1000065541",
+        "Name": "Beneath The Permafrost-58870-2-2-1781098956.zip",
+        "Size": 11144530,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Explore a harsh frozen island, buried ruins, and glacial caverns as local fears uncover something ancient beneath the permafrost.",
+          "FileID": 1000065541,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58870/58870-1778360518-549121277.png",
+          "IsNSFW": false,
+          "ModID": 58870,
+          "Name": "Beneath the Permafrost",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ITHlow55khY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57698\nfileID=1000058741",
+        "Name": "Daedra Use Bound Equipment for OpenMW-57698-2-2-0-1764320414.7z",
+        "Size": 5389,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alerom1612",
+          "Description": "Removes Daedra\u0027s weapons and armor after their death.",
+          "FileID": 1000058741,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57698/57698-1761570453-1087098508.png",
+          "IsNSFW": false,
+          "ModID": 57698,
+          "Name": "Daedra Use Bound Equipment for OpenMW",
+          "Version": "2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8xiXiv77FR0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57450\nfileID=1000057709",
+        "Name": "Dreloth Ancestral Tomb-57450-Final-1760651203.zip",
+        "Size": 18926600,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Massive overhaul of Dreloth Ancestral Tomb. Entire Tomb redesigned",
+          "FileID": 1000057709,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57450/57450-1760650971-1233785612.png",
+          "IsNSFW": false,
+          "ModID": 57450,
+          "Name": "Dreloth Ancestral Tomb",
+          "Version": "Final"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TOEPpIMzhVY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59935\nfileID=1000068817",
+        "Name": "Dwemer Underlikgths 59935 1 2026-08-23T04-27Z qJiKJzoC.zip",
+        "Size": 479201,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "A pale Dwemer light, sealed within a brass cylinder. Its charge fades with use, and some say it shines on things best left unseen.",
+          "FileID": 1000068817,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59935/59935-1787489781-756800891.png",
+          "IsNSFW": false,
+          "ModID": 59935,
+          "Name": "Dwemer Underlikgths (Flashlights)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jAPOMdNtnSw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53627\nfileID=1000060897",
+        "Name": "Markgran Forest-53627-2-0-6-1771622473.rar",
+        "Size": 6107548,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "In The Elder Scrolls Arena there was a place called Markgran Forest (since TES III known as a Maar Gan). Discovering this fact felt very unique and interesting to me so I decided to make a mod restoring the idea of a forest in the extremely boring Northern Ashlands ( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)",
+          "FileID": 1000060897,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53627/53627-1697665257-668215105.png",
+          "IsNSFW": false,
+          "ModID": 53627,
+          "Name": "Markgran Forest (Maar Gan Forest)",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V416hPFUuxU=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/openmwplayer/openmwplayer.2.1.1.zip",
+        "Name": "openmwplayer.2.1.1.zip",
+        "Size": 950139,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/openmwplayer/openmwplayer.2.1.1.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VijwysnW6dQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59215\nfileID=1000067292",
+        "Name": "Molag Mar Outskirts - Bonesaint Guardians 59215 1.1 2026-07-20T14-14Z VTIFTxRO.rar",
+        "Size": 19718500,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya Karrel and Ruffin Vangarr",
+          "Description": "It enhances the area around Molag Mar by adding a new temple and a lighthouse with docks. Compatible with all mods that touch Molag Mar.",
+          "FileID": 1000067292,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59215/59215-1780431966-602352917.png",
+          "IsNSFW": false,
+          "ModID": 59215,
+          "Name": "Molag Mar Outskirts - Bonesaints Temple",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eEF7oDfu1To=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60125\nfileID=1000069858",
+        "Name": "Morrowind ReMapped 60125 0.9 2026-09-06T19-52Z muLWu5X9.zip",
+        "Size": 47962644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "Track where you\u0027ve been with a zoomable map, location markers, statuses and notes.",
+          "FileID": 1000069858,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60125/60125-1788707669-1835004294.png",
+          "IsNSFW": false,
+          "ModID": 60125,
+          "Name": "Morrowind ReMapped",
+          "Version": "0.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+vUMaWMOkWg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49131\nfileID=1000066068",
+        "Name": "OAAB - Tombs and Towers 49131 1.4 2026-06-22T19-06Z PjA4jRqw.7z",
+        "Size": 1025119,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Remiros",
+          "Description": "A remake of tombs and velothi towers.",
+          "FileID": 1000066068,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49131/49131-1636125829-705359034.png",
+          "IsNSFW": false,
+          "ModID": 49131,
+          "Name": "OAAB - Tombs and Towers",
+          "Version": "1.3b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ctMY8w2HR4M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51643\nfileID=1000048086",
+        "Name": "OAAB Winged Twilight - Ruffin Vangarr version 2.3-51643-2-3-1730979266.rar",
+        "Size": 37482176,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya - Tizzo - Ruffin Vangarr",
+          "Description": "Meet Ari-Ari, a Winged Twilight who will gladly accompany you on your adventures. Ari-Ari can be found in her house somewhere north of Telasero, the Dunmer Stronghold located to the east of Suran. The mod also features a visual overhaul of Azura\u2019s Shrine using OAAB assets and a new daedric ruin.",
+          "FileID": 1000048086,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51643/51643-1695915660-1933197879.jpeg",
+          "IsNSFW": false,
+          "ModID": 51643,
+          "Name": "OAAB Winged Twilight",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JQmlkXclOEA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45096\nfileID=1000019704",
+        "Name": "1_Patch for Purists-45096-4-0-2-1593803721.7z",
+        "Size": 3562117,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TES3 Community",
+          "Description": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition which attempts to continue where the latest official version of the game left off. Over 9000\u002B bugs still present in the game have been fixed.",
+          "FileID": 1000019704,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45096/45096-1524658434-931520215.png",
+          "IsNSFW": false,
+          "ModID": 45096,
+          "Name": "Patch for Purists",
+          "Version": "4.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Uylbjj2YpDc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54675\nfileID=1000046784",
+        "Name": "SolstheimRumorRewritten 1.1-54675-1-1-1723899703.7z",
+        "Size": 6687,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caran7hir",
+          "Description": "A rewrite of the Solstheim rumor.  Restricted to agents, glass/ebony miners, Nords in Dagon Fel, Khuul citizens and named Imperial Legion Members. Also gave the \u0022my son was sent to Frostmoth\u0022 to 6 unique Imperial commoner npcs. Unique Dialogue added for Nords, the one Khajit in Khuul, Imperial Legion members and parents missing their son.",
+          "FileID": 1000046784,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54675%2F54675-1715878922-717192589.png",
+          "IsNSFW": false,
+          "ModID": 54675,
+          "Name": "Solstheim Rumor Rewritten",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "geaN5ufK/zk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51419\nfileID=1000043974",
+        "Name": "Baan Binif-51419-1-1-1713208228.rar",
+        "Size": 9408473,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Hive Mind",
+          "Description": "Implementation of the official concept art drawing by Michael Kirkbride.",
+          "FileID": 1000043974,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51419/51419-1672507875-873783869.png",
+          "IsNSFW": false,
+          "ModID": 51419,
+          "Name": "Tales from the Ashlands - The Great Hive Baan Binif",
+          "Version": "1.0.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qV8WpgjKzdg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53314\nfileID=1000039537",
+        "Name": "TetheredTelBranoa-53314-1-1-1690913847.7z",
+        "Size": 61715,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Markond",
+          "Description": "An exterior overhaul of Tel Branora and the surrounding island to be more thematic to Mistress Therana.",
+          "FileID": 1000039537,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53314/53314-1690756744-902482026.png",
+          "IsNSFW": false,
+          "ModID": 53314,
+          "Name": "Tethered Tel Branora",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hQ593xhNycI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52885\nfileID=1000039779",
+        "Name": "The Plague Doctor-52885-1-02-1692358717.rar",
+        "Size": 2594597,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya",
+          "Description": "The plague doctor a dark alchemist of ill repute has come to Vvardenfel and brought his morbid experimentations with him. He hides away in a new cave within the Bitter coast.",
+          "FileID": 1000039779,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52885/52885-1684147237-1559449850.png",
+          "IsNSFW": false,
+          "ModID": 52885,
+          "Name": "The Plague Doctor",
+          "Version": "1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kuPS8KoNw6Q=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56829\nfileID=1000056814",
+        "Name": "The Vestiges of Tukushapal-56829-1-1-1757837083.7z",
+        "Size": 6503463,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seelof",
+          "Description": "This mod completely rebuilds and vastly expands the vanilla dungeon combo of Marvani Ancestral Tomb and Tukushapal. Embark on an adventure through water and fire to find the legendary Face of God as well as an ancient weapon that has the power to burn the very gods ...",
+          "FileID": 1000056814,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56829/56829-1748798864-2118212736.jpeg",
+          "IsNSFW": false,
+          "ModID": 56829,
+          "Name": "The Vestiges of Tukushapal",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4PwkZRBXr3E=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55445\nfileID=1000049800",
+        "Name": "Under Masser\u0027s Gaze-55445-1-5-1737819007.7z",
+        "Size": 74805531,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Telvanni Tea Drinkers",
+          "Description": "The disappearance of Mages Guild members is shrouded in mystery. Can you uncover their fate? Follow the clues, which may lead you beyond Nirn itself.",
+          "FileID": 1000049800,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55445/55445-1731273229-676103739.png",
+          "IsNSFW": false,
+          "ModID": 55445,
+          "Name": "Under Masser\u0027s Gaze",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pbTIEbqPQSs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57940\nfileID=1000059320",
+        "Name": "Epoch\u0027s Post Process Shaders - No SMAA-57940-1-14-1766074906.zip",
+        "Size": 2999988,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MOMW Authors",
+          "Description": "An upload of removed OpenMW Post-Processing shaders",
+          "FileID": 1000059320,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57940/57940-1765973790-935691762.png",
+          "IsNSFW": false,
+          "ModID": 57940,
+          "Name": "Archived OpenMW Post Processing Shaders",
+          "Version": "1.14"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VifcvZ6aByM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53400\nfileID=1000065144",
+        "Name": "Arvesa - An Armiger\u0027s Tale-53400-1-6-0-1780391905.7z",
+        "Size": 217842171,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Orion",
+          "Description": "An extensive companion and quest mod that hooks onto Morrowinds Main Quest and offers a serious perspective to the world presented. Team up with a complex character with her own faults, hopes, and dreams.",
+          "FileID": 1000065144,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53400/53400-1692685570-804851439.png",
+          "IsNSFW": false,
+          "ModID": 53400,
+          "Name": "Arvesa - An Armiger\u0027s Tale",
+          "Version": "0.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ctv8mF3jnCs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45250\nfileID=1000008925",
+        "Name": "AshesAndIce1.7z-45250-1-1.7z",
+        "Size": 9747495,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Mythical Beasts",
+          "Description": "Unbeknownst to all, the 6th House spreads its tentacles to Solstheim. When a few difformed creatures are spotted on the island, you are called to investigate and eradicate this new threat across 3 dungeons.",
+          "FileID": 1000008925,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45250-3-1508261848.png",
+          "IsNSFW": false,
+          "ModID": 45250,
+          "Name": "Ashes and Ice",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E5cBwjT1Kvs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57944\nfileID=1000060563",
+        "Name": "Ashfront - Sheogorad-57944-1-31-1770587378.zip",
+        "Size": 30553020,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anumaril21",
+          "Description": "Vanilla-Friendly overhaul of the Sheogorad Region characterized by black sand beaches, geothermal activity, and Nordic settlement.",
+          "FileID": 1000060563,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57944/57944-1766076279-475743456.png",
+          "IsNSFW": false,
+          "ModID": 57944,
+          "Name": "Ashfront - Sheogorad",
+          "Version": "1.31"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e947i3N3Hx4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51060\nfileID=1000047072",
+        "Name": "Bal\u0027laku - Vanilla Friendly Version-51060-2-1-5-1725417206.zip",
+        "Size": 13456869,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kalinter",
+          "Description": "Looming high over the hills of the northern Ashlands, the towers of Bal\u0027laku are an awe-inspiring sight to behold.",
+          "FileID": 1000047072,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51060/51060-1654620924-668400991.png",
+          "IsNSFW": false,
+          "ModID": 51060,
+          "Name": "Bal\u0027laku - The Lonely Towers",
+          "Version": "2.1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c5w3IvbNisc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58870\nfileID=1000064476",
+        "Name": "BtP Splash Screen 1920x1080-58870-1-1779537464.zip",
+        "Size": 1947384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Explore a harsh frozen island, buried ruins, and glacial caverns as local fears uncover something ancient beneath the permafrost.",
+          "FileID": 1000064476,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58870/58870-1778360518-549121277.png",
+          "IsNSFW": false,
+          "ModID": 58870,
+          "Name": "Beneath the Permafrost",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v/ej7liLpDw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60217\nfileID=1000070314",
+        "Name": "Cult Of The Flesh God 60217 1 2026-09-13T20-28Z KH7cHJcY.zip",
+        "Size": 17744024,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "Investigate a string of disappearances in Shipal-Shin and infiltrate a secret cult promising perfection of the mortal flesh.",
+          "FileID": 1000070314,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60217/60217-1789503485-304227740.png",
+          "IsNSFW": false,
+          "ModID": 60217,
+          "Name": "Cult of the Flesh God",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WL8pIMFGZbw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57830\nfileID=1000062150",
+        "Name": "Darkness Over Dunbal-57830-1-2-1774898653.zip",
+        "Size": 297809440,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Ancestral Ghostbusters",
+          "Description": "Embark on a nightmarish quest in the middle of a war between Life and Decay to deliver salvation to a hopeless land",
+          "FileID": 1000062150,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57830/57830-1763902240-1077072763.png",
+          "IsNSFW": false,
+          "ModID": 57830,
+          "Name": "Darkness Over Dunbal",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TYtfZ4YPjQM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56564\nfileID=1000052818",
+        "Name": "Blade of Woe-56564-1-0-1-1747063472.7z",
+        "Size": 138230,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Danae Vennim",
+          "Description": "A quest mod and tomb overhaul that uncovers the fate of a Dark Brotherhood artifact: the Blade of Woe.",
+          "FileID": 1000052818,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56564/56564-1746952264-1026955035.png",
+          "IsNSFW": false,
+          "ModID": 56564,
+          "Name": "Dralas Legacy - The Blade of Woe",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g4iD/73K1Ck=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59953\nfileID=1000069846",
+        "Name": "Dubdilla Remade 59953 2.0 2026-09-06T17-50Z sZJEZrPV.7z",
+        "Size": 9641258,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seelof",
+          "Description": "This mod rebuilds the cave named Dubdilla from scratch and greatly expands it.",
+          "FileID": 1000069846,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59953/59953-1787517803-1755467526.png",
+          "IsNSFW": false,
+          "ModID": 59953,
+          "Name": "Dubdilla Remade",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M/akM8pKXaw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54807\nfileID=1000068250",
+        "Name": "Dwemer Legacy Reforged - Arkngthunch-Sturdumz 54807 2.7.5 2026-08-10T12-05Z sZJEZrMK.rar",
+        "Size": 26766681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "Expansive overhaul for Dwemer Ruins of Arkngthunch-Sturdumz (exteriors with new interiors) inspired by ESO and my imagination ( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)\n\n\n\nMy mod does not alter original Arkngthunch-Sturdumz interior cells so it is compatible with everything!!\n\n\n\nDesigned for OPENMW but works also on vanilla engine.",
+          "FileID": 1000068250,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54807/54807-1717773490-397979101.jpeg",
+          "IsNSFW": false,
+          "ModID": 54807,
+          "Name": "Dwemer Legacy Reforged - Arkngthunch-Sturdumz",
+          "Version": "2.4.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ee7TtS9iXJU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54807\nfileID=1000070726",
+        "Name": "Dwemer Legacy Reforged - Arkngthunch-Sturdumz 54807 2.8.1 2026-09-18T22-01Z muLWu5Oe.rar",
+        "Size": 39942712,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "Expansive overhaul for Dwemer Ruins of Arkngthunch-Sturdumz (exteriors with new interiors) inspired by ESO and my imagination ( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)\n\n\n\nMy mod does not alter original Arkngthunch-Sturdumz interior cells so it is compatible with everything!!\n\n\n\nDesigned for OPENMW but works also on vanilla engine.",
+          "FileID": 1000070726,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54807/54807-1717773490-397979101.jpeg",
+          "IsNSFW": false,
+          "ModID": 54807,
+          "Name": "Dwemer Legacy Reforged - Arkngthunch-Sturdumz",
+          "Version": "2.4.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lzfDGkADTOw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45254\nfileID=1000008817",
+        "Name": "From Ash to Frost 1.0-45254-1-0.7z",
+        "Size": 11227543,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Horny Skulls",
+          "Description": "Angered by the death of their lord and the Nerevarine\u0027s alliance with the East Empire Company, the remnants of the Sixth House has come to Solstheim to deliver salvation to the Nordic people.",
+          "FileID": 1000008817,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45254-0-1508395654.jpg",
+          "IsNSFW": false,
+          "ModID": 45254,
+          "Name": "From Ash to Frost",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IQIAPzp2MKw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45886\nfileID=1000023700",
+        "Name": "Glow in the Dahrk-45886-2-11-2-1617457025.7z",
+        "Size": 7761097,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk and NullCascade",
+          "Description": "This is a modern, pluginless replacement of the old Windows Glow mods with many more features besides! Windows Glow suffered from every mod needing a patch to work with it. Glow in the Dahrk handles this automatically through the meshes themselves with a powerful code by NullCascade which can switch the visible portion of meshes on the fly.",
+          "FileID": 1000023700,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45886/45886-1532322751-262693364.png",
+          "IsNSFW": false,
+          "ModID": 45886,
+          "Name": "Glow in the Dahrk",
+          "Version": "3.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fPPBPbUXzes=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56417\nfileID=1000068065",
+        "Name": "H3lp Yours3lf 56417 0.82 2026-08-05T02-11Z rDfZDUl4.zip",
+        "Size": 86205,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S3ctorOMW",
+          "Description": "Opt-in replacement for the \u0060openmw.self\u0060 module with better ergonomics and performance, along with some additional convenience functions for generating Image Atlasses, tracking objects with the camera, and ported C\u002B\u002B code from OpenMW.",
+          "FileID": 1000068065,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56417/56417-1761344047-235718333.png",
+          "IsNSFW": false,
+          "ModID": 56417,
+          "Name": "H3lp Yours3lf - OpenMW Helper Interfaces",
+          "Version": "0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mPdn08ev4no=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51942\nfileID=1000054135",
+        "Name": "Hla Odai-51942-1-5-1749150496.zip",
+        "Size": 37305443,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Madcrabs",
+          "Description": "Adds a cozy new Hlaalu dock town at the mouth of the Odai River, as well as a few quests within the town. West of Seyda Neen, south of Balmora. Also marbles!",
+          "FileID": 1000054135,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51942/51942-1667278633-2070573322.png",
+          "IsNSFW": false,
+          "ModID": 51942,
+          "Name": "Hla Odai",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sQjzajMR1J4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53395\nfileID=1000040828",
+        "Name": "RPGL_KeelHouse-53395-1-2-1699177042.7z",
+        "Size": 285832,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RandomGlitter aka RandomPal and GlitterGear",
+          "Description": "Moves Joi Ror\u2019s Keelhouse to the TR mainland, gives it a visual update and a small questline to get the house.",
+          "FileID": 1000040828,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53395/53395-1692563754-694440284.jpeg",
+          "IsNSFW": false,
+          "ModID": 53395,
+          "Name": "Keelhouse - A quest and house mod for Tamriel Rebuilt",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XXUNNdi0b1g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42528\nfileID=1000017714",
+        "Name": "LeFemme Armor-42528-1-1-1585496757.zip",
+        "Size": 681148,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bethesda and TheNo1Odor",
+          "Description": "This official plugin adds two new sets of armor, Domina Armor and Gold Armor, specifically designed for female characters.\n\nAlso includes a fix by TheNo1Odor to remove the armour from Sirollus Saccus and place them in a locked container.",
+          "FileID": 1000017714,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42528/42528-1585496919-827506198.jpeg",
+          "IsNSFW": false,
+          "ModID": 42528,
+          "Name": "LeFemm Armor Plugin",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+tMMJSgTFT0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51940\nfileID=1000037163",
+        "Name": "Memento Mori-51940-1-2-6-1681402163.7z",
+        "Size": 33413528,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Gobblin Goblins",
+          "Description": "Discover the Great Ossuaries of Ayem, Seht, and Vehk on the slopes of Red Mountain and their associated catacombs deep beneath the volcano.",
+          "FileID": 1000037163,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51940/51940-1667269084-1756794627.png",
+          "IsNSFW": false,
+          "ModID": 51940,
+          "Name": "Memento Mori",
+          "Version": "1.2.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yeuahCkI5ZU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45384\nfileID=1000054898",
+        "Name": "1_Morrowind Optimization Patch-45384-1-18-0-1751572864.7z",
+        "Size": 30432268,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MOP Team",
+          "Description": "Greatly improves performance and fixes tons of mesh errors.",
+          "FileID": 1000054898,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45384-5-1514396528.jpg",
+          "IsNSFW": false,
+          "ModID": 45384,
+          "Name": "Morrowind Optimization Patch",
+          "Version": "1.17.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ozazJgOeQVY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=43375\nfileID=1000006754",
+        "Name": "Morrowind Watercolored v2-43375-2-0.zip",
+        "Size": 307861857,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PeterBitt",
+          "Description": "This is a texture replacer that gives Morrowind a watercolored look. \r\n\nQuick and easy installation. \r\n\nCovers the whole game.",
+          "FileID": 1000006754,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/43375-10-1475446003.jpg",
+          "IsNSFW": false,
+          "ModID": 43375,
+          "Name": "Morrowind Watercolored v2",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cZoZanP5T8s=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59876\nfileID=1000068493",
+        "Name": "Texture Patches 59876 1 2026-08-16T22-38Z DBQdBRFm.zip",
+        "Size": 187478079,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "Personal Patches for my MW installs",
+          "FileID": 1000068493,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59876/59876-1786919815-2119239062.png",
+          "IsNSFW": false,
+          "ModID": 59876,
+          "Name": "MW Kira\u0027s Various Patches",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dR8ucHLxauU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50393\nfileID=1000041826",
+        "Name": "New Ilunibi-50393-1-4-1704285152.zip",
+        "Size": 12644200,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "seelof",
+          "Description": "This mod rebuilds the mainquest dungeon Ilunibi from scratch to make it larger, more imposing and more interesting to explore. It also adds four new quests for you to discover and embark upon.",
+          "FileID": 1000041826,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50393/50393-1636311241-240867748.png",
+          "IsNSFW": false,
+          "ModID": 50393,
+          "Name": "New Ilunibi",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rPb7/+MvWKk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51687\nfileID=1000032576",
+        "Name": "OAAB Market-51687-1-0-2-1660053527.7z",
+        "Size": 489085,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kalinter",
+          "Description": "Overhauls the Sadrith Mora Market with assets from OAAB Data and Tamriel Rebuilt. Made for the Summer Modjam 2022.",
+          "FileID": 1000032576,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51687/51687-1659803588-1735399362.png",
+          "IsNSFW": false,
+          "ModID": 51687,
+          "Name": "OAAB Market",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+2cpDPPlGCs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53307\nfileID=1000059554",
+        "Name": "Of Melodies and Moonlight-53307-5-9-1766881881.7z",
+        "Size": 104956138,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DetailDevil",
+          "Description": "Surrounded by rumors, a peculiar painter roams the night. Will you help him and become his apprentice? To start the quest, talk to Veradul Dervayn, the artist, who for some odd reason prefers to paint at night. BCOM compatible. The painter will appear after 24 hours the first time you visit him. MWSE and OpenMW compatible.",
+          "FileID": 1000059554,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53307/53307-1693655959-856008895.png",
+          "IsNSFW": false,
+          "ModID": 53307,
+          "Name": "Of Melodies and Moonlight - A Sadrith Mora Artist",
+          "Version": "5.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "szJckhYlYKw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53238\nfileID=1000039992",
+        "Name": "Of Murk and Mussels - A Sadrith Mora Shop 1.4-53238-1-4-1693513875.rar",
+        "Size": 1074500,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DetailDevil and DimNussens",
+          "Description": "This mod adds an unique and detailed salvage shop to Sadrith Mora with a quest and lots of unique clothing and armor assets. BCOM compatible.  Now you have at least three reasons to check this mod out!",
+          "FileID": 1000039992,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53238/53238-1689790382-752535557.png",
+          "IsNSFW": false,
+          "ModID": 53238,
+          "Name": "Of Murk and Mussels - A Sadrith Mora Trader",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fVuMP6U/8oY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52777\nfileID=1000037624",
+        "Name": "Of Musk and Mer - A Sadrith Mora Tale V1.0-52777-1-0-1683070831.rar",
+        "Size": 8735027,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dim and DetailDevil",
+          "Description": "A new shop has opened in Sadrith Mora. People from all over Vvardenfell travel here to purchase the famous Telvanni bug musk. BCOM compatible. Not only will you get an insight into the secrets of bug musk alchemy but you\u0027ll also help the perfumist, Dalmil Seloth, find the culprit who desacrated and plundered the tomb of his family.",
+          "FileID": 1000037624,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52777/52777-1682990602-16858699.png",
+          "IsNSFW": false,
+          "ModID": 52777,
+          "Name": "Of Musk and Mer - A Sadrith Mora Tale",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1bsUPvGBf8s=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45268\nfileID=1000008865",
+        "Name": "PiratesAndPearls1pt0a.7z-45268-1-0a.7z",
+        "Size": 6444243,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Mystical Beasts",
+          "Description": "In the Azura\u2019s Coast lives a lowly fisherman who specialises in working with pearls. If you help him, he will share some information about a treasure.",
+          "FileID": 1000008865,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45268/45268-1509505497-475723382.png",
+          "IsNSFW": false,
+          "ModID": 45268,
+          "Name": "Pearls and Pirates",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mQYP3VVnQWY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53667\nfileID=1000068310",
+        "Name": "Rafael\u0027s Shader Pack 2.0e 53667 2.0e 2026-08-12T12-13Z M4op4PJH.7z",
+        "Size": 23445886,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Many people",
+          "Description": "A postprocess shader pack for OpenMW, making it look better than ever before while still being very Vanilla-friendly",
+          "FileID": 1000068310,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53667/53667-1698515178-108383597.png",
+          "IsNSFW": false,
+          "ModID": 53667,
+          "Name": "Rafael\u0027s Shader Pack",
+          "Version": "1.1b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XNY6QWyABj0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56836\nfileID=1000068635",
+        "Name": "S3maphore 56836 0.94 2026-08-19T22-39Z X1vG1lya.zip",
+        "Size": 68385927,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S3ctor and the Modding-OpenMW Squad",
+          "Description": "S3maphore is a replacement both for OpenMW\u0027s built-in music management system and Dynamic Music, with a focus on flexibility and performance. \n\n\n\nYour music, like you\u0027d never get it anywhere else. (And also faster)",
+          "FileID": 1000068635,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56836/56836-1748865326-1226979087.png",
+          "IsNSFW": false,
+          "ModID": 56836,
+          "Name": "S3maphore - OpenMW Music Management from the Future",
+          "Version": "0.51"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VxByRc9+IEM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000071351",
+        "Name": "Tamriel Rebuilt 26.09.27 42145 26.09.27 2026-09-27T15-05Z rDfZDUrq.7z",
+        "Size": 68228280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000071351,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xB0FrcZPmYQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59927\nfileID=1000068816",
+        "Name": "Tamriel Data (HD) 59927 26.08 2026-08-23T04-15Z 4vY6vjul.7z",
+        "Size": 2746921791,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cross-Project Coordination",
+          "Description": "The High Definition version of the shared asset repository used by Tamriel Rebuilt, Project Tamriel, and other TESIII mods.",
+          "FileID": 1000068816,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59927/59927-1787400244-2081024640.png",
+          "IsNSFW": false,
+          "ModID": 59927,
+          "Name": "Tamriel_Data (HD)",
+          "Version": "26.08"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t9qUpwzXXPk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49171\nfileID=1000056092",
+        "Name": "Tel Aruhn Chronicles-49171-1-5-1755538511.7z",
+        "Size": 41446921,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Lazy Lame Corprus Stalkers",
+          "Description": "Large scale overhaul of Tel Aruhn and Yansirramus Shrine with complete OAAB integration, new quests, and a lot more. A mod submitted for the 2020 Morrowind Modding Madness competition.",
+          "FileID": 1000056092,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49171/49171-1612347767-856918506.png",
+          "IsNSFW": false,
+          "ModID": 49171,
+          "Name": "Tel Aruhn Chronicles",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yrDM8R5BW4M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58514\nfileID=1000063254",
+        "Name": "The Dark Brotherhood Attacks-58514-1-00-1777539096.7z",
+        "Size": 3377487,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266 and Caeris",
+          "Description": "This adds a new quest arc to Tribunal that replaces the randomized Dark Brotherhood attacks. Now the Dark Brotherhood have a very well thought-out plan that will take you into the depths of the completely overhauled Arys Ancestral Tomb.",
+          "FileID": 1000063254,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58514/58514-1777456015-1984020576.png",
+          "IsNSFW": false,
+          "ModID": 58514,
+          "Name": "The Dark Brotherhood Attacks",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IWAhYRsE9BQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57828\nfileID=1000058819",
+        "Name": "The Fiend of Ald Andalor-57828-1-1-1764546341.7z",
+        "Size": 10885897,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team TBD",
+          "Description": "Explore an overhauled and expanded Andalor Ancestral Tomb and conquer the evil that lies within.",
+          "FileID": 1000058819,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57828/57828-1763880722-1278764930.jpg",
+          "IsNSFW": false,
+          "ModID": 57828,
+          "Name": "The Fiend of Ald Andalor",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vgTcyg49Bhk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49366\nfileID=1000023513",
+        "Name": "Cozy Caldera-49366-1-2-1616441247.rar",
+        "Size": 1583981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "Another replacement of a beautiful cute sleepy Caldera.",
+          "FileID": 1000023513,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49366/49366-1614861482-457479589.jpeg",
+          "IsNSFW": false,
+          "ModID": 49366,
+          "Name": "Cozy Caldera",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ONyirclUmXk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49841\nfileID=1000066531",
+        "Name": "SHS Reforged 49841 1.7.1 2026-07-02T23-37Z Le0Pe7Dz.zip",
+        "Size": 12448674,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Naufragous77",
+          "Description": "A complete rebuilt of Bloodmoon barrows.",
+          "FileID": 1000066531,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49841/49841-1621776000-1692149664.png",
+          "IsNSFW": false,
+          "ModID": 49841,
+          "Name": "The Stone Halls of Solstheim - Reforged",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XB40peufQ+Q=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48818\nfileID=1000055811",
+        "Name": "Creatures_RP-48818-3-7-1754824350.7z",
+        "Size": 36059870,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Various",
+          "Description": "Vanilla friendly creatures and undeads expansion mod based on some of the great old creatures mods, TR_data and OAAB_Data",
+          "FileID": 1000055811,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48818/48818-1611403244-2036287253.jpeg",
+          "IsNSFW": false,
+          "ModID": 48818,
+          "Name": "Vanilla friendly creatures and undeads expansion",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k6QpVfebTq4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56037\nfileID=1000052772",
+        "Name": "MVR Medium-HD version-56037-0-96a-1746978102.zip",
+        "Size": 916421497,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "vurt",
+          "Description": "AI retexture for the Morrowind textures which should rival the now more outdated AI upscaling methods. ~3400 textures are done. \n\nI try to be faithful to the original textures as much as i can, but sometimes there will be big changes to make something even more detailed.",
+          "FileID": 1000052772,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56037/56037-1740216692-1839665419.png",
+          "IsNSFW": false,
+          "ModID": 56037,
+          "Name": "Vurt\u0027s Morrowind Visual Resurgence",
+          "Version": "0.96"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CogBCfeh53M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55944\nfileID=1000057286",
+        "Name": "Ald\u0027Ruhn Outskirts - Ancestral Refuge 3.4-55944-3-4-1759328365.rar",
+        "Size": 8157463,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya Karrel_Ruffin Vangarr",
+          "Description": "Adds a cozy old temple to the hill above Ald\u0027Ruhn. Now it serves as a base for the Ancestral mages. Also you can eat and rest there during your pilgrimage.",
+          "FileID": 1000057286,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55944/55944-1739510647-1000780055.jpeg",
+          "IsNSFW": false,
+          "ModID": 55944,
+          "Name": "Ald\u0027Ruhn Outskirts - Ancestral Refuge",
+          "Version": "3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YWGIikE2rf0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50647\nfileID=1000068737",
+        "Name": "AATL Data 50647 0.8 2026-08-21T23-29Z 5VduVa0U.7z",
+        "Size": 45991294,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The AATL Team",
+          "Description": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind\u0027s artifacts list, while adding more quests, items, and artifacts that reflect previous TES titles. This is the resource page for AATL, which contains all new resources used in AATL.",
+          "FileID": 1000068737,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50647/50647-1651369402-417593957.png",
+          "IsNSFW": false,
+          "ModID": 50647,
+          "Name": "AATL Data - An Addendum to Tamrielic Lore Data",
+          "Version": "0.4f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VnHygNN3cGM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50647\nfileID=1000069047",
+        "Name": "AATL Data 50647 0.8a1 2026-08-25T04-12Z 5VduVa45.7z",
+        "Size": 43567092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The AATL Team",
+          "Description": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind\u0027s artifacts list, while adding more quests, items, and artifacts that reflect previous TES titles. This is the resource page for AATL, which contains all new resources used in AATL.",
+          "FileID": 1000069047,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50647/50647-1651369402-417593957.png",
+          "IsNSFW": false,
+          "ModID": 50647,
+          "Name": "AATL Data - An Addendum to Tamrielic Lore Data",
+          "Version": "0.4f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pW/3iWsBMVQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54147\nfileID=1000069045",
+        "Name": "AATL Main 54147 1.5.4 2026-08-25T03-57Z CP9MPLFy.7z",
+        "Size": 70822231,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AATL Team",
+          "Description": "Main page for AATL-Based Mods by the AATL Team.",
+          "FileID": 1000069045,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54147/54147-1707759503-165346023.jpeg",
+          "IsNSFW": false,
+          "ModID": 54147,
+          "Name": "AATL Official Mods",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u+kdHrfpR/Q=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54147\nfileID=1000067459",
+        "Name": "AATL Main 54147 1.4.2 2026-07-24T06-59Z ZdxLdiVX.7z",
+        "Size": 67442099,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AATL Team",
+          "Description": "Main page for AATL-Based Mods by the AATL Team.",
+          "FileID": 1000067459,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54147/54147-1707759503-165346023.jpeg",
+          "IsNSFW": false,
+          "ModID": 54147,
+          "Name": "AATL Official Mods",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cX6dyCX+JaU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54780\nfileID=1000045475",
+        "Name": "Baal Duun-54780-1-4-1717634527.7z",
+        "Size": 6840501,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Juidius - Melchior Dhark - Seelof",
+          "Description": "Embark on a journey to uncover the secrets hidden within the depths of a mythical daedric island",
+          "FileID": 1000045475,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54780/54780-1717314268-1853461457.png",
+          "IsNSFW": false,
+          "ModID": 54780,
+          "Name": "Baal Duun - Cursed Isle of the Four Corners",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JoofzC39e80=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54534\nfileID=1000061129",
+        "Name": "Balmora Outskirts - Stoneflower trading post-54534-1-7-1772268539.rar",
+        "Size": 19112113,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya Karrel_Ruffin Vangarr",
+          "Description": "This mod adds a new cozy trading post/tavern to the outskirts of Balmora. There you can meet a Khajiit bard who sings her native songs, try delicious bantam guar meat, and explore the nearby egg mine...",
+          "FileID": 1000061129,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54534/54534-1717175566-954531948.png",
+          "IsNSFW": false,
+          "ModID": 54534,
+          "Name": "Balmora Outskirts - Stoneflower trading post",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AR67KIdQmyY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57514\nfileID=1000057185",
+        "Name": "Concept Art Scamp Overhaul and Scamping Grounds-57514-1-0-1759036833.rar",
+        "Size": 4043322,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya Karrel",
+          "Description": "Adds scamp variants based on concept art, adds facial animations to the vanilla scamp, unique models for Creeper and Lustidrike and adds an optional new area.",
+          "FileID": 1000057185,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57514/57514-1759043653-732157531.jpg",
+          "IsNSFW": false,
+          "ModID": 57514,
+          "Name": "Concept Art Scamp Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2iv0WLsB9SA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56482\nfileID=1000063488",
+        "Name": "Daedric Akaviri Armor-56482-1-51-1777808507.zip",
+        "Size": 3536523,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya Karrel",
+          "Description": "Explore new Daedric ruins to the east of Urshilaku camp and craft a powerful set of armor with an unusual origin.",
+          "FileID": 1000063488,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56482/56482-1746640388-2139265946.jpeg",
+          "IsNSFW": false,
+          "ModID": 56482,
+          "Name": "Daedric Akaviri Armor",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sq7b+fFtpSU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53305\nfileID=1000057031",
+        "Name": "Draggle-Tail Shack 1.6-53305-1-6-1758640785.rar",
+        "Size": 2218177,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya Karrel",
+          "Description": "Help a dunmer to get some money for his travels by buying his shack in the Bitter Coast. But why is he in such a hurry to get rid of it? For Summer Modjam 2023",
+          "FileID": 1000057031,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53305/53305-1690766091-68794361.jpeg",
+          "IsNSFW": false,
+          "ModID": 53305,
+          "Name": "Draggle-Tail Shack",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V362mWWuTVc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54777\nfileID=1000061432",
+        "Name": "Drinking and Delving-54777-1-3-1773024402.7z",
+        "Size": 4246385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GrumblingVomit_Markond_DimNussens_Kildozery",
+          "Description": "Go on an adventure to obtain a strange relic for an even stranger client.",
+          "FileID": 1000061432,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54777/54777-1717295662-686641515.png",
+          "IsNSFW": false,
+          "ModID": 54777,
+          "Name": "Drinking and Delving",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ugn/286UIP8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49738\nfileID=1000052942",
+        "Name": "2_The Corprusarium experience-49738-1-6-1747266687.7z",
+        "Size": 8054354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Duo Dinamico",
+          "Description": "Overhaul of the corprusarium, making it the creepy place it was meant to be.",
+          "FileID": 1000052942,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49738/49738-1620760277-498921393.gif",
+          "IsNSFW": false,
+          "ModID": 49738,
+          "Name": "The Corprusarium experience",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CvHEYRVM+6g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49771\nfileID=1000054059",
+        "Name": "Graht Morrowind Swamp Trees-49771-4-1-0-1748998334.7z",
+        "Size": 11718167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk and XeroFoxx",
+          "Description": "Adds enormous trees to the Bitter Coast region to provide a dense canopy overheard and large roots jutting out of the ground below.",
+          "FileID": 1000054059,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49771/49771-1621051734-986929199.jpeg",
+          "IsNSFW": false,
+          "ModID": 49771,
+          "Name": "Graht Morrowind Swamp Trees",
+          "Version": "3.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KpY++j8M1mU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52888\nfileID=1000059076",
+        "Name": "Grahtwood Roost-52888-1-3-0-1765252211.7z",
+        "Size": 2327989,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk and Juidius",
+          "Description": "Obtain and improve a cozy treehouse of your own through a short series of quests.",
+          "FileID": 1000059076,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52888/52888-1684176898-1269251446.png",
+          "IsNSFW": false,
+          "ModID": 52888,
+          "Name": "Grahtwood Roost",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "24WSZTPsXz4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46599\nfileID=1000014601",
+        "Name": "Graphic Herbalism MWSE - OpenMW-46599-1-04-1558643353.7z",
+        "Size": 4047614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Stuporstar and Greatness7",
+          "Description": "Now works with OpenMW! MWSE Graphic Herbalism harnesses the power of lua and mesh switchnodes, allowing this mod to be run without an esp or standard scripts. This dramatically optimizes performance compared to older graphic herbalism mods. It also comes with an mod configuration menu to allow you to change settings.",
+          "FileID": 1000014601,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46599/46599-1556987326-522913397.png",
+          "IsNSFW": false,
+          "ModID": 46599,
+          "Name": "Graphic Herbalism - MWSE and OpenMW Edition",
+          "Version": "1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4oFkD0iDfWo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53679\nfileID=1000065065",
+        "Name": "Grey March Dawn-53679-1-2-7-1780287673.7z",
+        "Size": 98683498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Veloths Virtuosos",
+          "Description": "Plunge into an engaging prequel to the events of the TES4:Shivering Isles expansion as the world shivers with Whispers of Jyggalag. The familiar sights of sewers and Thieves Guild operatives quickly unravel as you find yourself caught between two opposing forces while traversing the deepest parts of Vvardenfell.",
+          "FileID": 1000065065,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53679/53679-1699058068-275586858.png",
+          "IsNSFW": false,
+          "ModID": 53679,
+          "Name": "Greymarch Dawn - Whispers of Jyggalag",
+          "Version": "1.0.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FJRZIgNfoZk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53822\nfileID=1000050848",
+        "Name": "Hammerfell Ansei Warrior Armour 1.1-53822-1-1-1740849446.rar",
+        "Size": 47910129,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya",
+          "Description": "Go on an adventure obtain an amazing armour in a Yokudan style.",
+          "FileID": 1000050848,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53822/53822-1702362507-1517281213.png",
+          "IsNSFW": false,
+          "ModID": 53822,
+          "Name": "Hammerfell Ansei Warrior Armour",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yMWOniMTpm4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52898\nfileID=1000052274",
+        "Name": "Caldera Priory and the Depths of Blood and Bone-52898-2-2-1746097813.zip",
+        "Size": 65523052,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "seelof and his minions",
+          "Description": "Caldera Priory has been overrun by the Undead. Do you have the courage and the will to venture into the Depths of Blood and Bone and vanquish the ancient Evil that has taken hold of the lands above?",
+          "FileID": 1000052274,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52898/52898-1684266448-799228486.png",
+          "IsNSFW": false,
+          "ModID": 52898,
+          "Name": "Caldera Priory and the Depths of Blood and Bone",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AETQ1mOGmb4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51938\nfileID=1000036404",
+        "Name": "Tel Eurus-51938-1-55-1678383233.7z",
+        "Size": 60916737,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dreamy Dreamers",
+          "Description": "Investigate a series of attacks on Tel Eurus, follow the clues to uncover the mastermind behind it. Level 10 or higher recommended.",
+          "FileID": 1000036404,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51938/51938-1667435212-1740844133.png",
+          "IsNSFW": false,
+          "ModID": 51938,
+          "Name": "Investigations at Tel Eurus",
+          "Version": "1.55"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HdjOtfDaWPg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53680\nfileID=1000045050",
+        "Name": "Lord of Rebirth-53680-1-6-1-1716422552.7z",
+        "Size": 76224528,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Twinkling Twilights",
+          "Description": "Explore a realm in conflict between undead void pirates and a group of alchemists with members from all over Tamriel. Join one of them or find an alternate path to end the stalemate. Includes new weapons and items to earn as rewards.",
+          "FileID": 1000045050,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53680/53680-1699011444-755242032.png",
+          "IsNSFW": false,
+          "ModID": 53680,
+          "Name": "Lord of Rebirth",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FywA9X9rAZk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46177\nfileID=1000068495",
+        "Name": "OAAB Tel Mora 46177 5.0.0 2026-08-16T23-15Z 5VduVanp.7z",
+        "Size": 4324155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk",
+          "Description": "OAAB Tel Mora enhances the city of Tel Mora by adding new buildings, new quests, detailing the landscape, and more. It accomplishes all this while staying lore friendly and without (in my opinion) going over the top by making the city too big.",
+          "FileID": 1000068495,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46177/46177-1542904088-1269919528.png",
+          "IsNSFW": false,
+          "ModID": 46177,
+          "Name": "OAAB Tel Mora",
+          "Version": "4.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0Oduk2ExiBc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51615\nfileID=1000054138",
+        "Name": "Kogoruhn - Extinct City of Ash and Sulfur-51615-2-9-5-1749157889.rar",
+        "Size": 8154991,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain.",
+          "FileID": 1000054138,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51615/51615-1687541032-734153709.png",
+          "IsNSFW": false,
+          "ModID": 51615,
+          "Name": "Kogoruhn - Extinct City of Ash and Sulfur",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vwLpYEQsMoI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57935\nfileID=1000060519",
+        "Name": "Legacy of the Blades-57935-1-3-1770477599.rar",
+        "Size": 25248955,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya",
+          "Description": "Explore a new cave system that goes from the Bitter Coast all the way to the West Gash and discover its ancient treasure.",
+          "FileID": 1000060519,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57935/57935-1766555940-252545149.jpg",
+          "IsNSFW": false,
+          "ModID": 57935,
+          "Name": "Legacy of the Blades",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wspXL7v4vv0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48659\nfileID=1000022183",
+        "Name": "Concept art Gnisis - Lightweight-48659-3-3-1608375193.7z",
+        "Size": 2424744,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Various",
+          "Description": "Gnisis overhaul based on the amazing HOTV Gnisis but more compatible and with better performance.",
+          "FileID": 1000022183,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48659/48659-1605688696-255525539.jpeg",
+          "IsNSFW": false,
+          "ModID": 48659,
+          "Name": "Lightweight Concept Art Gnisis",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fH1PpGdJ7MU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55615\nfileID=1000067512",
+        "Name": "Morrowind Extended Cut 55615 1.13 2026-07-25T01-10Z 8MahMrAG.7z",
+        "Size": 178904280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caeris",
+          "Description": "A complete story and dialogue overhaul for The Elder Scrolls III: Morrowind.",
+          "FileID": 1000067512,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55615/55615-1740379662-658823402.jpeg",
+          "IsNSFW": false,
+          "ModID": 55615,
+          "Name": "Morrowind Extended Cut",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xm7h6oZnd+I=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55163\nfileID=1000047286",
+        "Name": "Main File-55163-1-1-1726928845.7z",
+        "Size": 5731954,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GVLT",
+          "Description": "Visual overhaul of Hidden Area in Vivec Arena",
+          "FileID": 1000047286,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55163/55163-1724884404-1380163144.jpeg",
+          "IsNSFW": false,
+          "ModID": 55163,
+          "Name": "Web of Mephala Morag Tong Headquarters",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7813ZmBDtRE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49463\nfileID=1000045911",
+        "Name": "Mudcrab Imports (No Better Bodies)-49463-4-2-1719201404.7z",
+        "Size": 45628172,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Billyfighter",
+          "Description": "This mod adds new pirate themed quests, items and locations to Morrowind. Including an Imperial style tradehouse and a shady smugglers\u0027 den where you can embark on several quests and explore new underwater dungeons throughout the seas.",
+          "FileID": 1000045911,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49463/49463-1675408893-936465609.jpeg",
+          "IsNSFW": false,
+          "ModID": 49463,
+          "Name": "Mudcrab Imports",
+          "Version": "4.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wB1SoslX6WQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53473\nfileID=1000065227",
+        "Name": "Devilish Rocky Red Mountain Vanilla Textures-53473-2-3-6-1780500582.7z",
+        "Size": 1422108,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "malbogatra",
+          "Description": "Malbogatra\u0027s \u0022Rocky Red Mountain\u0022 made compatible with important mods such as BCOM, Memento Mori, Red Mountain Reborn ...",
+          "FileID": 1000065227,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53473/53473-1693964381-1684138319.png",
+          "IsNSFW": false,
+          "ModID": 53473,
+          "Name": "Devilish Rocky Red Mountain",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2f62/HZCkwk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59163\nfileID=1000065472",
+        "Name": "No One Expects The Alessian Inquisition-59163-1-1-1780937948.rar",
+        "Size": 4887280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RuffinVangarr and Katya Karrel",
+          "Description": "A new dungeon with the robes of the Alessian Inquisition. (Don\u0027t worry, there are no Monty Python references beyond the name of the mod.)",
+          "FileID": 1000065472,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59163/59163-1780220625-1300226076.png",
+          "IsNSFW": false,
+          "ModID": 59163,
+          "Name": "No one expects the Alessian Inquisition",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BTIGGvJYW1E=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51846\nfileID=1000033181",
+        "Name": "OAAB - Hawia Egg Mine-51846-1-3-1663985985.7z",
+        "Size": 343671,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Juidius Xentao",
+          "Description": "A remake of Hawia egg mine using OAAB assets.",
+          "FileID": 1000033181,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51846/51846-1663871439-1966658016.png",
+          "IsNSFW": false,
+          "ModID": 51846,
+          "Name": "OAAB - Hawia Egg Mine",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fEJYsxjxqM0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59110\nfileID=1000070772",
+        "Name": "OAAB Tombs Extended 59110 1.10 2026-09-19T10-47Z vcU3cKOw.zip",
+        "Size": 169267,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Naufragous77",
+          "Description": "A follow-up mod to Rem\u0027s Tombs and Towers, adding four more tombs.",
+          "FileID": 1000070772,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59110/59110-1779823493-219635173.png",
+          "IsNSFW": false,
+          "ModID": 59110,
+          "Name": "OAAB - Tombs Extended",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tNVW1PpeCIM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49075\nfileID=1000049942",
+        "Name": "OAAB Grazelands-49075-2-2-1-1738285378.7z",
+        "Size": 14991453,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk",
+          "Description": "This mod is an overhaul of Vos and Tel Vos, the land surrounding them, the two nearby egg mines, covering a large portion of the northern Grazelands. Currently, the mod does not cover the entire Grazelands region, but additional work is planned in future updates. The mod includes 16\u002B new quests with approximately 18,000 words of dialogue.",
+          "FileID": 1000049942,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49075/49075-1606316959-1468184376.png",
+          "IsNSFW": false,
+          "ModID": 49075,
+          "Name": "OAAB Grazelands",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j7dx0rOTL4Q=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49042\nfileID=1000071200",
+        "Name": "OAAB_Data 49042 2.7.0 2026-09-25T18-21Z OmEgmwdc.7z",
+        "Size": 108956897,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OAAB_Data Team",
+          "Description": "OAAB_Data is a free-to-use asset repository for the Morrowind Community.",
+          "FileID": 1000071200,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49042/49042-1605537205-589234817.gif",
+          "IsNSFW": false,
+          "ModID": 49042,
+          "Name": "OAAB_Data",
+          "Version": "2.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EtBwdEg7wTY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45399\nfileID=1000053268",
+        "Name": "1_Project Atlas-45399-0-7-5-1747751438.7z",
+        "Size": 199306196,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Project Atlas Team",
+          "Description": "The goal of Project Atlas is to identify the most performance heavy areas of vanilla Morrowind and some popular mods and target high usage/strain meshes in those areas for atlasing. This effort involves reworking the UVs for those meshes and creating texture atlases to cover various sets.",
+          "FileID": 1000053268,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45399/45399-1514933591-770966576.png",
+          "IsNSFW": false,
+          "ModID": 45399,
+          "Name": "Project Atlas",
+          "Version": "0.7.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "++Ixq5cOp8U=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44922\nfileID=1000070347",
+        "Name": "Cyr_Main 44922 26.09a 2026-09-14T08-28Z CP9MPLnj.7z",
+        "Size": 12342755,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ProvinceCyrodiil",
+          "Description": "PRE-ALPHA. Located between the great ports of Cyrodiil, Hammerfell, Valenwood and Summerset, the isle of Stirk offers a safe harbor to the many trade ships that sail on the wide Abecean Sea. Though poor and provincial compared to the mighty cities of Cyrodiil, the island thrives on passing trade and the rich fishing grounds that surround it.",
+          "FileID": 1000070347,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44922-10-1493673501.png",
+          "IsNSFW": false,
+          "ModID": 44922,
+          "Name": "Province Cyrodiil",
+          "Version": "22.12"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RvHri2hBN0M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59493\nfileID=1000069372",
+        "Name": "Questman 1.5 59493 1.5 2026-08-29T11-07Z 8MahMCvO.zip",
+        "Size": 135191,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fixer_m",
+          "Description": "Adds a new in-game menu for keeping track of your quests and journal",
+          "FileID": 1000069372,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59493/59493-1783626533-1427601701.jpg",
+          "IsNSFW": false,
+          "ModID": 59493,
+          "Name": "Questman - Modern Quest Journal (OpenMW)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Od8R4pw0O7s=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49916\nfileID=1000041289",
+        "Name": "Library of Vivec Overhaul - Full-49916-1-4-2-1701607584.zip",
+        "Size": 2933809,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "seelof",
+          "Description": "This mod redesigns the Library of Vivec from scratch to make it look and feel like a true library, with many books added from Tamriel_Data and OAAB_Data for you to read. There are also new NPCs for you to interact with, and two new quests that set you on the hunt for a unique book the resource for which was provided by RubberMan.",
+          "FileID": 1000041289,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49916/49916-1623399140-1902683741.png",
+          "IsNSFW": false,
+          "ModID": 49916,
+          "Name": "ReadMe - Library of Vivec Overhaul",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LtQJ88plCXc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52473\nfileID=1000050850",
+        "Name": "Ruined Molag Mar-52473-1-7-1740853308.rar",
+        "Size": 8259963,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DuoDinamico aka RandomPal and Vegetto",
+          "Description": "Overhaul of Molag Mar",
+          "FileID": 1000050850,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52473/52473-1678295030-798470220.jpeg",
+          "IsNSFW": false,
+          "ModID": 52473,
+          "Name": "Ruined Molag Mar",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "70ceAkfSlDY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59665\nfileID=1000071264",
+        "Name": "S4V3R 59665 1.4 2026-09-26T14-04Z p6TN64L0.zip",
+        "Size": 19350,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S3kshun8 Games",
+          "Description": "Brutally opinionated auto-save framework for OpenMW, with start saves and combat start/stop saves.",
+          "FileID": 1000071264,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59665/59665-1784832663-577050142.png",
+          "IsNSFW": false,
+          "ModID": 59665,
+          "Name": "S4V3R - Simple Automatic Saves",
+          "Version": "1.32"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xZq9wXOOhK4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51932\nfileID=1000033688",
+        "Name": "Secrets of the Crystal City-51932-1-7-1668470055.7z",
+        "Size": 34926252,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ancestral Ashkhans",
+          "Description": "The lost \u0022Crystal City\u0022 of Massama has been discovered by a desperate group of escaped slaves. Through a series of quests, players will learn some of the secrets behind The Curse of Massama while trying to keep the separate factions from killing each other over the raw glass they\u0027ve mined.",
+          "FileID": 1000033688,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51932/51932-1667256966-1319427027.png",
+          "IsNSFW": false,
+          "ModID": 51932,
+          "Name": "Secrets of the Crystal City",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sOg5IOmVoO8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56262\nfileID=1000051884",
+        "Name": "Shroomda Neen 1.1-56262-1-1-1744479799.rar",
+        "Size": 210188,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya_Ruffin_Kalinter",
+          "Description": "Lightweight overhaul of Seyda Neen that adds planters with glowing mushrooms and some clutter. Very compatible and performance friendly. Also adds a trader who sells stylish mushroom hats made by Ruffin Vangarr\uFEFF.",
+          "FileID": 1000051884,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56262/56262-1743269485-861919991.png",
+          "IsNSFW": false,
+          "ModID": 56262,
+          "Name": "Shroomda Neen",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SnkGcUYw2N4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000068851",
+        "Name": "Tamriel Rebuilt 26.08.23 42145 26.08.23 2026-08-23T19-03Z 2G6yGXRI.rar",
+        "Size": 75679387,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000068851,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+jEq7HLTqCY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53673\nfileID=1000041087",
+        "Name": "Terror of Tel Amur-53673-1-0-2-1700536147.7z",
+        "Size": 43781717,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Kwamakaze Kagouti",
+          "Description": "Adds a series of heists and a quest to investigate a mysterious new tower deep in the Molag Amur wilderness",
+          "FileID": 1000041087,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53673/53673-1698788092-317904590.png",
+          "IsNSFW": false,
+          "ModID": 53673,
+          "Name": "Terror of Tel Amur",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VVsdaVkDbVw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55550\nfileID=1000052696",
+        "Name": "The Devil\u0027s Doorstep-55550-1-1-1746793066.rar",
+        "Size": 11925233,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya Karrel",
+          "Description": "A dark adventure featuring a new island and dungeon, new items and enemies!",
+          "FileID": 1000052696,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55550/55550-1734077733-1625260453.png",
+          "IsNSFW": false,
+          "ModID": 55550,
+          "Name": "The Devil\u0027s Doorstep",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6fCwlUeZKkI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59843\nfileID=1000068346",
+        "Name": "The Hex Weaver 59843 1 2026-08-13T10-32Z VTIFTodN.rar",
+        "Size": 7466069,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr_Katya Karrel",
+          "Description": "Search for a magic tower in the West Gash to the north of Caldera and meet with a strange lady who lives there.",
+          "FileID": 1000068346,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59843/59843-1786615948-127107011.png",
+          "IsNSFW": false,
+          "ModID": 59843,
+          "Name": "The Hex Weaver",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "skzRTCHeeaM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46128\nfileID=1000012417",
+        "Name": "The Manifold Spires-46128-1-3-1541201748.7z",
+        "Size": 22378399,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Drama Kwama",
+          "Description": "A mod that adds the Manifold Spires, a new landmass, and an associated quest.",
+          "FileID": 1000012417,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46128/46128-1541061682-1383495847.png",
+          "IsNSFW": false,
+          "ModID": 46128,
+          "Name": "The Manifold Spires",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+EPQzUHRN/c=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46095\nfileID=1000070249",
+        "Name": "Reclaiming Hasimminus 46095 1.1 2026-09-13T03-09Z ZdxLdDUU.zip",
+        "Size": 30212581,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Nordic Chefs",
+          "Description": "Crawl through treacherous mine shafts, face Sixth House Cultists, and build up a town for your Great House!  New quests, people, and town!",
+          "FileID": 1000070249,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46095/46095-1539621923-1058263531.jpeg",
+          "IsNSFW": false,
+          "ModID": 46095,
+          "Name": "The Reclamation of Hasimminus Mine",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "COxrtKZmem4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54652\nfileID=1000044788",
+        "Name": "The Song of the Grazelands - Vanilla Version-54652-1-0-1715716160.zip",
+        "Size": 906311,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kalinter and DimNussens",
+          "Description": "A major landscape overhaul and quest mod for the southwestern corner of the Grazelands. Transforms this area of the map into a land of a rising plateaus and towering trees.",
+          "FileID": 1000044788,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54652/54652-1715716308-1973628992.png",
+          "IsNSFW": false,
+          "ModID": 54652,
+          "Name": "The Song of the Grazelands",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VzRxzKIuezc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57826\nfileID=1000058789",
+        "Name": "The Unhatched-57826-1-1-1-1764478022.7z",
+        "Size": 202110526,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team Netch Fetchers",
+          "Description": "The Unhatched is a lore-friendly quest mod centered on Huleeya, the Morag Tong agent from Vivec, and a dark prophecy rooted in Argonian myth. What begins as an attack rapidly spirals into a journey through ritual murders, Hist visions, dream dungeons, and the ancient religion of the Shadowscales.",
+          "FileID": 1000058789,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57826/57826-1763867270-1020279926.png",
+          "IsNSFW": false,
+          "ModID": 57826,
+          "Name": "The Unhatched",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "K4wX0FQAMNE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50647\nfileID=1000067578",
+        "Name": "AATL Data 50647 0.7e 2026-07-26T11-07Z JxhHxwO1.7z",
+        "Size": 65447975,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The AATL Team",
+          "Description": "Tamrielic Lore is a book in vanilla Morrowind that describes various artifacts seen throughout Morrowind. An Addendum to Tamrielic Lore seeks to expand upon Morrowind\u0027s artifacts list, while adding more quests, items, and artifacts that reflect previous TES titles. This is the resource page for AATL, which contains all new resources used in AATL.",
+          "FileID": 1000067578,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50647/50647-1651369402-417593957.png",
+          "IsNSFW": false,
+          "ModID": 50647,
+          "Name": "AATL Data - An Addendum to Tamrielic Lore Data",
+          "Version": "0.4f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5AhEQCXaOdk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54147\nfileID=1000068461",
+        "Name": "AATL Main 54147 1.5.1 2026-08-16T10-23Z lEK1EsfQ.7z",
+        "Size": 98714810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AATL Team",
+          "Description": "Main page for AATL-Based Mods by the AATL Team.",
+          "FileID": 1000068461,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54147/54147-1707759503-165346023.jpeg",
+          "IsNSFW": false,
+          "ModID": 54147,
+          "Name": "AATL Official Mods",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IHajDtCfyY8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44672\nfileID=1000007093",
+        "Name": "AndranoTombRemastered16-44672-1-6.zip",
+        "Size": 340393,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greatness7 MattTheBagel VvardenfellTribes",
+          "Description": "An overhaul for the second main quest and its associated dungeon.",
+          "FileID": 1000007093,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44672-8-1482602037.png",
+          "IsNSFW": false,
+          "ModID": 44672,
+          "Name": "Andrano Ancestral Tomb Remastered",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sHtK2KTLO6M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57947\nfileID=1000059333",
+        "Name": "Ashfront - Ruined Redaynia-57947-1-1-1766101960.zip",
+        "Size": 1924619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anumaril21",
+          "Description": "Implements the cut village of Ald Redaynia and overhauls the nearby Velothi tower it\u0027s named for, expanding on existing content as well as adding an optional unmarked quest.",
+          "FileID": 1000059333,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57947/57947-1766079980-407717602.png",
+          "IsNSFW": false,
+          "ModID": 57947,
+          "Name": "Ashfront - Ruined Redaynia",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MY0g2ICvK70=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53466\nfileID=1000060840",
+        "Name": "AzurasCoastRedone-53466-1-3-1771473853.7z",
+        "Size": 274704,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Markond",
+          "Description": "Makes the eastern part of Azuras Coast rockier, with Zafirbel Bay getting its own unique parasol mushroom variant.",
+          "FileID": 1000060840,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53466/53466-1693857999-186901336.png",
+          "IsNSFW": false,
+          "ModID": 53466,
+          "Name": "Azuras Coast Redone",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZfbgdZbRTVI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58870\nfileID=1000064611",
+        "Name": "BtP Assets-58870-2-1779744318.zip",
+        "Size": 1837084,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Explore a harsh frozen island, buried ruins, and glacial caverns as local fears uncover something ancient beneath the permafrost.",
+          "FileID": 1000064611,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58870/58870-1778360518-549121277.png",
+          "IsNSFW": false,
+          "ModID": 58870,
+          "Name": "Beneath the Permafrost",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bfjtQrE0Y9k=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53420\nfileID=1000061582",
+        "Name": "Devilish Rocky West Gash Vanilla Textures-53420-2-5-1773349108.7z",
+        "Size": 3736715,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "malbogatra",
+          "Description": "Malbogatra\u0027s Rocky West Gash compatible with BCOM, Caldera Priory, Caldera Mine Expanded, Justice for Khartag ...",
+          "FileID": 1000061582,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53420/53420-1693101459-146938389.png",
+          "IsNSFW": false,
+          "ModID": 53420,
+          "Name": "Devilish Rocky West Gash",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KHAlVQGoRNc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53481\nfileID=1000040103",
+        "Name": "Drethos Ancestral Tomb-53481-1-0-1694207409.zip",
+        "Size": 5276361,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seelof and Melchior Dahrk",
+          "Description": "This mod adds a new dungeon to the Bitter Coast Region: Drethos Ancestral Tomb. Ancient and forgotten, it hides a sad story about loss and grief. Will you find your way through root and rock to uncover both it and an old and forsaken artifact?",
+          "FileID": 1000040103,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53481/53481-1694205326-1376028912.png",
+          "IsNSFW": false,
+          "ModID": 53481,
+          "Name": "Drethos Ancestral Tomb",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GhtHxyv4zJw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59953\nfileID=1000068880",
+        "Name": "Dubdilla Remade 59953 1 2026-08-23T20-45Z JxhHxfEz.7z",
+        "Size": 5900916,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seelof",
+          "Description": "This mod rebuilds the cave named Dubdilla from scratch and greatly expands it.",
+          "FileID": 1000068880,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59953/59953-1787517803-1755467526.png",
+          "IsNSFW": false,
+          "ModID": 59953,
+          "Name": "Dubdilla Remade",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/1CXgI5qih4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49524\nfileID=1000023767",
+        "Name": "Ebonheart The Old Castle-49524-1-0-1617617673.rar",
+        "Size": 642405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "A small visual improvement of Ebonheart turning it into a semblance of an old castle.",
+          "FileID": 1000023767,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49524/49524-1617610186-915980874.jpeg",
+          "IsNSFW": false,
+          "ModID": 49524,
+          "Name": "Ebonheart The Old Castle",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u0L8kJP0GsQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54661\nfileID=1000047526",
+        "Name": "DM_IndalenWoeVanilla-54661-1-2-1728009606.7z",
+        "Size": 1182206,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Markond",
+          "Description": "Elmussa Damori has been suffering nightmares, perhaps you might offer her assistance?",
+          "FileID": 1000047526,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54661%2F54661-1715728614-1482521090.png",
+          "IsNSFW": false,
+          "ModID": 54661,
+          "Name": "The Woe of Indalen Tomb",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BZVvIfdz+rY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51592\nfileID=1000034993",
+        "Name": "Decorated Cantons-51592-1-2-1675362663.7z",
+        "Size": 24538,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DuoDinamico aka RandomPal and Vegetto",
+          "Description": "Lightweight clutter mod that uses planters to fill some empty spaces in Vivec",
+          "FileID": 1000034993,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51592/51592-1657378963-1566789566.jpeg",
+          "IsNSFW": false,
+          "ModID": 51592,
+          "Name": "Less empty cantons of Vivec",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SQpghbXg1ao=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60120\nfileID=1000069806",
+        "Name": "Morrowind ReFormed 60120 1 2026-09-05T22-15Z 8MahMCPS.zip",
+        "Size": 50006,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "An integrated overhaul of Morrowind\u2019s progression, economy, resting, menus and birthsigns, designed to keep an expanded Morrowind rewarding.",
+          "FileID": 1000069806,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60120/60120-1788646274-937428291.png",
+          "IsNSFW": false,
+          "ModID": 60120,
+          "Name": "Morrowind ReFormed - Gameplay and Progression Overhaul",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0eRYJo7OsgE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49369\nfileID=1000023216",
+        "Name": "Cozy Maar Gan-49369-1-0-1614970466.rar",
+        "Size": 170169,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "Another one a small and cozy replacer of the Mystical and Religious Maar Gan in the Ashland style.",
+          "FileID": 1000023216,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49369/49369-1614970300-53285687.jpeg",
+          "IsNSFW": false,
+          "ModID": 49369,
+          "Name": "Mystical and Religious Maar Gan",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BFSnOUIHvZo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54525\nfileID=1000058997",
+        "Name": "Red Wisdom-54525-1-1-1-1765062375.7z",
+        "Size": 1962997,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AFFA - Greatness7 - Melchior Dahrk",
+          "Description": "Embark on a mystical journey as you unravel the ancient prophecy of Red Wisdom. Join forces with wide-eyed Nirani to unlock the hidden truths that lie within the sacred burial sites of the tribes. Explore a new angle to Ashlander lore, confront wild beasts and Daedric interlopers, and piece together the puzzle which may shape the fate of Morrowind.",
+          "FileID": 1000058997,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54525/54525-1714535621-661843187.png",
+          "IsNSFW": false,
+          "ModID": 54525,
+          "Name": "Red Wisdom - An Ashlander Prophecy",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F7+0jr2fDhk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58854\nfileID=1000064406",
+        "Name": "Sound_Data-58854-2-0-1779394417.zip",
+        "Size": 150595360,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Sound_Data is a collection of Custom-Made Sounds and Music Tracks for Morrowind Modders",
+          "FileID": 1000064406,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58854/58854-1777752862-1564373947.jpg",
+          "IsNSFW": false,
+          "ModID": 58854,
+          "Name": "Sound_Data",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UFnRDTWV+po=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55322\nfileID=1000059678",
+        "Name": "SOV_Data-55322-1-1-1767358710.zip",
+        "Size": 22143047,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MassiveJuice",
+          "Description": "SOV_Data is a Morrowind modders\u0027 resource for creating colder, snowy biomes set in the north of Sheogorad and the Sea of Ghosts, or adding more variety to landscapes set in Sheogorad and Azura\u0027s Coast.",
+          "FileID": 1000059678,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55322/55322-1728587915-154813732.png",
+          "IsNSFW": false,
+          "ModID": 55322,
+          "Name": "SOV_Data",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oBGZ4SapqpM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53785\nfileID=1000041444",
+        "Name": "Superior Shulk Eggmine-53785-1-1-0-1702438568.rar",
+        "Size": 5076609,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DreadnaughtVCN",
+          "Description": "Rediscover the Shulk Eggmine and new hidden depths within its bowels. Superior Shulk Eggmine integrates assets from OAAB and TR data. With mysteries and secrets hidden throughout for the keen adventurer or simply aspiring Fighter\u0027s Guild members on their journeys through one of the Fighter\u0027s Guild\u0027s earliest quest locales.",
+          "FileID": 1000041444,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53785/53785-1701585599-755923408.png",
+          "IsNSFW": false,
+          "ModID": 53785,
+          "Name": "Superior Shulk Eggmine -OAAB",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5kx1BJpAwMs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000055904",
+        "Name": "Tamriel Rebuilt 25.08.12-42145-25-08-12-1755040619.7z",
+        "Size": 64586165,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000055904,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OZS/ALd6LPc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57831\nfileID=1000063823",
+        "Name": "The Garden of Dreams-57831-1-4-2-1778293643.7z",
+        "Size": 122430498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Expedition 32",
+          "Description": "Witness the mythical interplay of death and fate manifest across surreal realms as you follow the path of a doomed individual who is determined to escape their fate.",
+          "FileID": 1000063823,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57831/57831-1763921576-1320180364.png",
+          "IsNSFW": false,
+          "ModID": 57831,
+          "Name": "The Garden of Dreams",
+          "Version": "1.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nSclByYSHiQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49435\nfileID=1000023454",
+        "Name": "Fairy Tel Branora-49435-1-0-1616253635.rar",
+        "Size": 601239,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "A small and very cute replacer of the magical Tel Branora.",
+          "FileID": 1000023454,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49435/49435-1616253358-854239103.jpeg",
+          "IsNSFW": false,
+          "ModID": 49435,
+          "Name": "Fairy Tel Branora",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y0wJaepkDRs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56836\nfileID=1000069987",
+        "Name": "S3maphore 56836 0.963 2026-09-09T03-24Z rDfZDUgG.zip",
+        "Size": 68434773,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S3ctor and the Modding-OpenMW Squad",
+          "Description": "S3maphore is a replacement both for OpenMW\u0027s built-in music management system and Dynamic Music, with a focus on flexibility and performance. \n\n\n\nYour music, like you\u0027d never get it anywhere else. (And also faster)",
+          "FileID": 1000069987,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56836/56836-1748865326-1226979087.png",
+          "IsNSFW": false,
+          "ModID": 56836,
+          "Name": "S3maphore - OpenMW Music Management from the Future",
+          "Version": "0.51"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "90QsNdTS16s=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56927\nfileID=1000069104",
+        "Name": "Arvesa - Tamriel Rebuilt 56927 1.5 2026-08-26T04-51Z RntBnSrQ.7z",
+        "Size": 2399088,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mitya Skinny",
+          "Description": "This plug-in gives Arvesa commentary for content in Tamriel Rebuilt.",
+          "FileID": 1000069104,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56927/56927-1749726203-180631184.png",
+          "IsNSFW": false,
+          "ModID": 56927,
+          "Name": "Arvesa - Tamriel Rebuilt",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KcJv8E7F9bc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49308\nfileID=1000023011",
+        "Name": "Cozy Hla Oad adn Gnaar Mok-49308-1-1-1613714903.rar",
+        "Size": 19116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "A small replacer of the villages of the Bitter Coast - Hla Oad and Gnaar Mok, which turns it into cozy fishing villages in the Dunmer style.",
+          "FileID": 1000023011,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49308/49308-1613380615-500774817.jpeg",
+          "IsNSFW": false,
+          "ModID": 49308,
+          "Name": "Cozy Hla Oad and Gnaar Mok",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s5yTIcvZVOc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57968\nfileID=1000059450",
+        "Name": "Forge of Hilbongard Reignited-57968-1-0-1766522253.7z",
+        "Size": 797641,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seelof",
+          "Description": "This mod overhauls and expands the Forge of Hilbongard as well as the adjacent Omaren Ancestral Tomb. Reignite the forge and claim the legendary Skull Crusher for yourself!",
+          "FileID": 1000059450,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57968/57968-1766521609-553896890.jpg",
+          "IsNSFW": false,
+          "ModID": 57968,
+          "Name": "Forge of Hilbongard Reignited",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ak0wKKu5xwE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51326\nfileID=1000031032",
+        "Name": "Gray North - Andavel-Assumanu-51326-1-0-1653464850.rar",
+        "Size": 113069774,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anumaril21",
+          "Description": "Overhauls the Andavel Ancestral Tomb and nearby Assumanu caverns, expanding on existing content as well as adding an optional objective.",
+          "FileID": 1000031032,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51326/51326-1653453212-2000128161.png",
+          "IsNSFW": false,
+          "ModID": 51326,
+          "Name": "Gray North - Andavel-Assumanu",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6zRdvnetWs0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57010\nfileID=1000054692",
+        "Name": "Koal Cave Overhaul-57010-1-0-1750858428.zip",
+        "Size": 4430,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "Turns Koal Cave into a small dreugh lair, befitting of a mighty warlord.",
+          "FileID": 1000054692,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57010/57010-1750857837-414834010.png",
+          "IsNSFW": false,
+          "ModID": 57010,
+          "Name": "Koal Cave Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fIHp04inO00=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59200\nfileID=1000071182",
+        "Name": "Special Creatures Module 59200 1.02 2026-09-25T13-34Z KH7cHJLK.zip",
+        "Size": 1630674,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cybvep",
+          "Description": "Too many creatures and bosses have been neglected. Time to spice things up.",
+          "FileID": 1000071182,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59200/59200-1780342836-1187928073.png",
+          "IsNSFW": false,
+          "ModID": 59200,
+          "Name": "Menacing Creatures and Bosses",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PJ6VKPHiiOQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56619\nfileID=1000053082",
+        "Name": "Sargon Enhanced 1.1-56619-1-1-1747433172.rar",
+        "Size": 88950,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cerebul0n",
+          "Description": "Total visual overhaul of the Fighter\u0027s Guild quest cave, Sargon.",
+          "FileID": 1000053082,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56619/56619-1747352130-1898513470.png",
+          "IsNSFW": false,
+          "ModID": 56619,
+          "Name": "Sargon Cave Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jLiYbRzPfsA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49378\nfileID=1000023516",
+        "Name": "The Quiet Imperial Pelagiad-49378-1-2-2-1616487958.rar",
+        "Size": 1788415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "This is my next little replacer of the beautiful and quiet Pelagiad",
+          "FileID": 1000023516,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49378/49378-1615136483-1292048173.jpeg",
+          "IsNSFW": false,
+          "ModID": 49378,
+          "Name": "The Quiet Imperial Pelagiad",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KlkSR2wqH9o=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57954\nfileID=1000059375",
+        "Name": "Yakin Overhaul-57954-1-0-1766259072.zip",
+        "Size": 5035,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "A minor overhaul of the sixth house base of Yakin.",
+          "FileID": 1000059375,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57954/57954-1766257597-883954442.png",
+          "IsNSFW": false,
+          "ModID": 57954,
+          "Name": "Yakin Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hslBlMzFrSY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51171\nfileID=1000031752",
+        "Name": "Of Eggs and Dwarves_OpenMW-51171-1-3-1655747133.7z",
+        "Size": 752493,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "seelof and Greatness7",
+          "Description": "This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which includes the Eggmine, the Lower Eggmine, the Underground Stream, and Bethamez. It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine ever since the Dwemer ruin was uncovered. Features actual earth quakes!",
+          "FileID": 1000031752,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51171/51171-1651963253-1097842975.jpeg",
+          "IsNSFW": false,
+          "ModID": 51171,
+          "Name": "Of Eggs and Dwarves - Gnisis Eggmine and Bethamez Overhaul",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IF49g38qeLE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59029\nfileID=1000065544",
+        "Name": "Tombs Of Zafirbel Bay-59029-1-1-1781108879.zip",
+        "Size": 226559,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Complete redesign of four ancestral tombs in the Zafirbel Bay region, with new quests, characters, secrets, and stories.",
+          "FileID": 1000065544,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59029/59029-1779162659-982170378.png",
+          "IsNSFW": false,
+          "ModID": 59029,
+          "Name": "Tombs of Zafirbel Bay",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BGbX+TTCMj8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46772\nfileID=1000058998",
+        "Name": "Dura gra-Bol\u0027s House Reclaimed-46772-2-7-1765065813.7z",
+        "Size": 348244,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk",
+          "Description": "This mod started as a simple house mod and expanded into an entire smuggling faction - while still allowing you to choose the high road and be rewarded for killing Dura as instructed. Get to work with Larrius Varro again as he sticks his nose into more of Vvardenfell\u0027s dirty business. Or choose the profitable path of a smuggler and climb the ranks.",
+          "FileID": 1000058998,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46772/46772-1558196896-430481272.png",
+          "IsNSFW": false,
+          "ModID": 46772,
+          "Name": "Dura gra-Bol\u0027s House Reclaimed - And the Grab-All Gang",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x4E0UxZtFYw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58231\nfileID=1000060971",
+        "Name": "Continuo v2 - The Firmament-58231-2-2-1771776315.zip",
+        "Size": 54340,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sch2266",
+          "Description": "Collection of systems overhauls that provide a fresh way to experience Morrowind.",
+          "FileID": 1000060971,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58231/58231-1771188510-1379566805.png",
+          "IsNSFW": false,
+          "ModID": 58231,
+          "Name": "Continuo - A Gameplay Overhaul (OpenMW)",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3IfuhKDVAhs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49338\nfileID=1000023077",
+        "Name": "Cozy Ald\u0027ruhn-49338-1-0-1614193867.rar",
+        "Size": 92083,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "This is another simple replacement that gives Ald\u0027ruhn the atmosphere of an ancient Dunmer city with elements of Velothi and Ashland style.",
+          "FileID": 1000023077,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49338/49338-1614193615-1374224665.jpeg",
+          "IsNSFW": false,
+          "ModID": 49338,
+          "Name": "Cozy Ald\u0027ruhn",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bbp78I6gLbQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56206\nfileID=1000056815",
+        "Name": "The Wake of Hanin - Ibar-Dad Overhaul-56206-1-1-1757837545.7z",
+        "Size": 2577859,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seelof",
+          "Description": "The Wake of Hanin overhauls and expands the vanilla dungeon of Ibar-Dad. Venture into the unfathomable depths of Ibar-Dad and solve two quests to find Mordrin Hanin\u0027s burial chamber and claim all its treasure for yourself!",
+          "FileID": 1000056815,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56206/56206-1742147497-1476939038.jpeg",
+          "IsNSFW": false,
+          "ModID": 56206,
+          "Name": "The Wake of Hanin - Ibar-Dad Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hzNTL2LzjbQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46822\nfileID=1000014719",
+        "Name": "Moonlight on the River-46822-1-1-1559251197.zip",
+        "Size": 101901,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MatthewTheBagel",
+          "Description": "As the Odai River flows into Balmora, it reaches a new shack lived in by a seemingly modest Dark Elf. A perfect retreat for any traveler or adventurer. The house is yours; if you can hold your liquor. Things may turn strange on this silent river sending the player on a unique quest taking you to twisted realities in a vivid new world.",
+          "FileID": 1000014719,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46822/46822-1559200990-1801060743.png",
+          "IsNSFW": false,
+          "ModID": 46822,
+          "Name": "Moonlight on the Odai River",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Loz+bbcS7u4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58193\nfileID=1000060584",
+        "Name": "Nchardahrk Overhaul-58193-1-0-1770653386.zip",
+        "Size": 8835,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "An overhaul of the dwemer ruin of Nchardahrk, turning it into a small oil refinery.",
+          "FileID": 1000060584,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58193/58193-1770652497-1607045765.png",
+          "IsNSFW": false,
+          "ModID": 58193,
+          "Name": "Nchardahrk Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NB/dMbnHtJM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57706\nfileID=1000058023",
+        "Name": "Soulless Summons-57706-1-0-0-1761734267.7z",
+        "Size": 2946,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alerom1612",
+          "Description": "You won\u0027t be able to trap the souls of your summons.",
+          "FileID": 1000058023,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57706/57706-1761733942-823274066.png",
+          "IsNSFW": false,
+          "ModID": 57706,
+          "Name": "Soulless Summons",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nBq70o5baWc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46036\nfileID=1000033869",
+        "Name": "Beware the Sixth House-46036-3-0-2-1669588136.7z",
+        "Size": 9868,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mort",
+          "Description": "Makes the Sixth House the most difficult content in the game. Intended for use with my other rebalance mods.",
+          "FileID": 1000033869,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46036/46036-1536807229-1223621539.png",
+          "IsNSFW": false,
+          "ModID": 46036,
+          "Name": "Beware the Sixth House (Sixth House Overhaul)",
+          "Version": "3.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2/7o5XhbR2w=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49536\nfileID=1000023865",
+        "Name": "Fabulous Suran-49536-1-0-1-1618043189.rar",
+        "Size": 811410,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mika",
+          "Description": "Fabulous and shining with vivid lights Suran is a fresh and colorful mood for your Morrowind.",
+          "FileID": 1000023865,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49536/49536-1617988716-1189527900.jpeg",
+          "IsNSFW": false,
+          "ModID": 49536,
+          "Name": "Fabulous Suran",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zkbDeHvdi4o=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51615\nfileID=1000059995",
+        "Name": "Kogoruhn - Extinct City of Ash and Sulfur-51615-2-9-7-1768339220.rar",
+        "Size": 8163690,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain.",
+          "FileID": 1000059995,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51615/51615-1687541032-734153709.png",
+          "IsNSFW": false,
+          "ModID": 51615,
+          "Name": "Kogoruhn - Extinct City of Ash and Sulfur",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JohqndHhf4Q=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59867\nfileID=1000068445",
+        "Name": "Hlervu Ancestral Tomb - Drinking And Delving 59867 1 2026-08-15T23-51Z qJiKJzCO.zip",
+        "Size": 37986,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "Moves Drinking and Delving\u0027s Verelnim overhaul to Hlervu",
+          "FileID": 1000068445,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59867/59867-1786837805-1513356141.png",
+          "IsNSFW": false,
+          "ModID": 59867,
+          "Name": "Hlervu Ancestral Tomb - Drinking and Delving",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/qJQn6dosk4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59200\nfileID=1000071183",
+        "Name": "TR PT Creatures Module 59200 1.3 2026-09-25T13-35Z hpVSpMYj.zip",
+        "Size": 47372,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cybvep",
+          "Description": "Too many creatures and bosses have been neglected. Time to spice things up.",
+          "FileID": 1000071183,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59200/59200-1780342836-1187928073.png",
+          "IsNSFW": false,
+          "ModID": 59200,
+          "Name": "Menacing Creatures and Bosses",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jEKV1Wu5OWM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54918\nfileID=1000050576",
+        "Name": "Seran Ancestral Tomb Overhaul-54918-1-1-1740130128.zip",
+        "Size": 10116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "Overhauls Seran Ancestral Tomb using OAAB_Data and Tamriel_Data.",
+          "FileID": 1000050576,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54918/54918-1720213788-1889895302.png",
+          "IsNSFW": false,
+          "ModID": 54918,
+          "Name": "Seran Ancestral Tomb Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UXY9UyRZ4Nk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60060\nfileID=1000069488",
+        "Name": "Tamriel ReBalanced - Deadlier Denizens 60060 0.3 2026-08-31T03-03Z M4op4P2y.zip",
+        "Size": 64532,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "Makes hostile Tamriel Rebuilt NPCs fight like they should, with specialized caster archetypes, custom spells, summons, stronger stats, and competent builds.",
+          "FileID": 1000069488,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60060/60060-1788222506-334135527.png",
+          "IsNSFW": false,
+          "ModID": 60060,
+          "Name": "Tamriel ReBalanced - Deadlier Denizens",
+          "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WaxIifEMLVg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54807\nfileID=1000068736",
+        "Name": "Dwemer Legacy Reforged - Arkngthunch-Sturdumz 54807 2.7.6 2026-08-21T23-26Z YUgrUb8P.rar",
+        "Size": 15627749,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "Expansive overhaul for Dwemer Ruins of Arkngthunch-Sturdumz (exteriors with new interiors) inspired by ESO and my imagination ( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)\n\n\n\nMy mod does not alter original Arkngthunch-Sturdumz interior cells so it is compatible with everything!!\n\n\n\nDesigned for OPENMW but works also on vanilla engine.",
+          "FileID": 1000068736,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54807/54807-1717773490-397979101.jpeg",
+          "IsNSFW": false,
+          "ModID": 54807,
+          "Name": "Dwemer Legacy Reforged - Arkngthunch-Sturdumz",
+          "Version": "2.4.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MMaa+uLLbxU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53386\nfileID=1000039769",
+        "Name": "Balmora Arches and a Waterfall-53386-1-0-1692292265.rar",
+        "Size": 4790,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Katya Karrel",
+          "Description": "Enhances the environment around Balmora without landscape edits. Compatible with Beautiful Cities of Morrowind, vanilla Balmora, Stonewood pass (RandomPal\u0027s edit), and with Moonlight on the Odai River. Also with Rocky West Gash (BCOM or Aggressively compatible version).",
+          "FileID": 1000039769,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53386/53386-1692292382-2143007568.jpeg",
+          "IsNSFW": false,
+          "ModID": 53386,
+          "Name": "Balmora Arches and a Waterfall",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fQMMlMpWkBo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48236\nfileID=1000023720",
+        "Name": "Berandas Overhaul 2.1-48236-2-1-1617482099.rar",
+        "Size": 68458,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "seelof",
+          "Description": "This mod overhauls and slightly expands the old Dunmer fortress Berandas near Gnisis. Daedra have claimed Berandas, but other than the few roaming Daedra themselves there is not much evidence of the corruption. With this mod, old daedric structures have risen from the deep to transform the fortress into a proper daedric stronghold.",
+          "FileID": 1000023720,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48236/48236-1590855340-812512384.png",
+          "IsNSFW": false,
+          "ModID": 48236,
+          "Name": "Berandas Overhaul",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DCJZMO1bf2E=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51615\nfileID=1000058854",
+        "Name": "Earthquake script (Optional)-51615-2-9-6-1764627691.rar",
+        "Size": 216,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demanufacturer87",
+          "Description": "While wandering through the desolated landscapes of northern ashlands, Nerevarine comes across the old capital city of Chimer tribe - once known as Kogoruhn. This ancient place, half burried beneath the ash and sulfur is now home of horror which never sleeps... The Sixth House. Discover this terryfying place hidden under the shadow of Red Mountain.",
+          "FileID": 1000058854,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51615/51615-1687541032-734153709.png",
+          "IsNSFW": false,
+          "ModID": 51615,
+          "Name": "Kogoruhn - Extinct City of Ash and Sulfur",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q/LBz5jmZiE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59845\nfileID=1000071143",
+        "Name": "Seyda Neen - Swamp Fever Capital 59845 2 2026-09-24T19-59Z x2p02QIp.rar",
+        "Size": 52671,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jenasto",
+          "Description": "A thorough visual overhaul of Seyda Neen as a wave-swept but active fishing village with Imperial presence. BCOMpatible version available.",
+          "FileID": 1000071143,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59845/59845-1786559687-1881876472.png",
+          "IsNSFW": false,
+          "ModID": 59845,
+          "Name": "Seyda Neen - Swamp Fever Capital",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "szCRXQev6Ck=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55630\nfileID=1000067651",
+        "Name": "Vennin\u0027s Dungeons 55630 1.4.4 2026-07-27T16-49Z KH7cHJQ6.7z",
+        "Size": 186414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vennin",
+          "Description": "A compilation of all of my dungeon mods in a single mod.",
+          "FileID": 1000067651,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55630/55630-1734904366-738367398.png",
+          "IsNSFW": false,
+          "ModID": 55630,
+          "Name": "Vennin\u0027s Dungeons",
+          "Version": "1.4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hXRQH3eED0g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59951\nfileID=1000069024",
+        "Name": "Family Ties 59951 1.3 2026-08-24T22-51Z b7mU7ixj.7z",
+        "Size": 21047,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PikachunoTM",
+          "Description": "In Necrom a shady looking dunmer wants you to travel with him to a nearby cave. Certainly nothing can go wrong.",
+          "FileID": 1000069024,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59951/59951-1787515384-1196447023.png",
+          "IsNSFW": false,
+          "ModID": 59951,
+          "Name": "Family Ties - A Modjam 2026 Mod",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1bCada4vES4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55361\nfileID=1000069048",
+        "Name": "1_AATL Compatibility Patches FOMOD 55361 1.5.4 2026-08-25T04-30Z FsqlsTWU.7z",
+        "Size": 2015462,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AATL Team",
+          "Description": "Compatibility patches for various mods to work with AATL_Data and AATL_Main.",
+          "FileID": 1000069048,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55361/55361-1729415573-746748503.jpeg",
+          "IsNSFW": false,
+          "ModID": 55361,
+          "Name": "AATL Compatibility Patches",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xlzmq2VEkiU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49774\nfileID=1000024809",
+        "Name": "The Weary Vampire-49774-1-0-1-1621290982.7z",
+        "Size": 14120,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OperatorJack",
+          "Description": "This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, \u0022The Weary Vampire.\u0022",
+          "FileID": 1000024809,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49774/49774-1621093253-1145134482.jpeg",
+          "IsNSFW": false,
+          "ModID": 49774,
+          "Name": "The Weary Vampire",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yHomzq/Spr8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44537\nfileID=1000068848",
+        "Name": "Tamriel Data (SD) 44537 26.08 2026-08-23T18-34Z 9AnoA0Zl.7z",
+        "Size": 885319384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cross-Project Coordination",
+          "Description": "Culminating from a year of hard work, Tamriel_Data contains a data unified file structure spearheaded by Project Tamriel and Tamriel Rebuilt as the first adopter.",
+          "FileID": 1000068848,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44537-0-1473792801.jpg",
+          "IsNSFW": false,
+          "ModID": 44537,
+          "Name": "Tamriel_Data",
+          "Version": "9.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1M2txFjB7u8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51079\nfileID=1000058975",
+        "Name": "Aspect of Azura-51079-2-2-1764993933.7z",
+        "Size": 261626,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk",
+          "Description": "Adds a Daedric helm bearing the aspect of Azura which you can acquire through a new quest which starts at the Holamayan Monastery near the Shrine of Azura. Explore the hidden depths below the shrine to become the Champion of Azura!",
+          "FileID": 1000058975,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51079/51079-1651423420-1376142082.jpeg",
+          "IsNSFW": false,
+          "ModID": 51079,
+          "Name": "Aspect of Azura",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yBP6EdtYXCc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=43187\nfileID=1000013574",
+        "Name": "The Island - Aln\u0027Baldrahn-43187-1-30-1551135293.7z",
+        "Size": 94373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Melchior Dahrk",
+          "Description": "This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.",
+          "FileID": 1000013574,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/43187-1-1405472000.png",
+          "IsNSFW": false,
+          "ModID": 43187,
+          "Name": "The Island - Aln\u0027Baldrahn",
+          "Version": "1.30"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nJp4ETMtwsI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56192\nfileID=1000051194",
+        "Name": "Kumarahaz - The Bandit Lair-56192-1-0-1742056377.zip",
+        "Size": 151460,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Darkelfguy",
+          "Description": "To the northeast of Tel Branora, the caverns of Kumarahaz have become a haven for bandits, Dunmer separatists that desire nothing more than to drive the Empire out of Morrowind. Raiding the shores of the Inner Sea, they\u0027ve caught the attention of the Imperial Legion, and now their fate is in your hands.",
+          "FileID": 1000051194,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56192/56192-1742053419-438143070.png",
+          "IsNSFW": false,
+          "ModID": 56192,
+          "Name": "Kumarahaz - The Bandit Lair",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tCVcFJwoMPU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48745\nfileID=1000026670",
+        "Name": "MDMD - More Deadly Morrowind Denizens-48745-1-05-1630634375.rar",
+        "Size": 71162,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "autumn",
+          "Description": "230\u002B NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights.",
+          "FileID": 1000026670,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48745/48745-1598230590-1146720775.png",
+          "IsNSFW": false,
+          "ModID": 48745,
+          "Name": "MDMD - More Deadly Morrowind Denizens",
+          "Version": "1.05"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GX4xtu6A5jA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53463\nfileID=1000056819",
+        "Name": "Balmora Plaza Tree-53463-2-0-1757848086.zip",
+        "Size": 3981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Orestes_the_nwah",
+          "Description": "This mod just adds a single tree with lanterns at Balmora\u0027s plaza. Heddvild\u0027s size should be fixed now, thanks to Mazase",
+          "FileID": 1000056819,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53463/53463-1693785942-1359113873.png",
+          "IsNSFW": false,
+          "ModID": 53463,
+          "Name": "Minor Balmora Overhaul",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kfRb90IXc1I=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44921\nfileID=1000070346",
+        "Name": "Sky_Main 44921 26.09a 2026-09-14T08-25Z PjA4jeOk.7z",
+        "Size": 7663616,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SHOTN Team",
+          "Description": "100\u002B quests, including new regional questlines for the Imperial Guilds, bounty hunting, and miscellaneous quests; 290\u002B exterior cells of hand-crafted landscape; 330\u002B interior cells, including the massive cities of Karthwasten and Dragonstar, towns, camps, and dozens of locations for you to loot in classic TES fashion.",
+          "FileID": 1000070346,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44921-4-1493667940.png",
+          "IsNSFW": false,
+          "ModID": 44921,
+          "Name": "Skyrim Home Of The Nords",
+          "Version": "23.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xOYm5z6PfMg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59665\nfileID=1000067503",
+        "Name": "S4V3R 59665 1.32 2026-07-24T23-51Z 5VduVJkz.zip",
+        "Size": 10368,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S3kshun8 Games",
+          "Description": "Brutally opinionated auto-save framework for OpenMW, with start saves and combat start/stop saves.",
+          "FileID": 1000067503,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59665/59665-1784832663-577050142.png",
+          "IsNSFW": false,
+          "ModID": 59665,
+          "Name": "S4V3R - Simple Automatic Saves",
+          "Version": "1.32"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n2BLrTQWmhk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53577\nfileID=1000052231",
+        "Name": "Llervu Ancestral Tomb Overhaul-53577-2-02-1746025237.zip",
+        "Size": 12214,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "Overhauls Llervu Ancestral Tomb in the West Gash area using OAAB And Tamriel Data.",
+          "FileID": 1000052231,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53577/53577-1740132743-129320229.png",
+          "IsNSFW": false,
+          "ModID": 53577,
+          "Name": "Llervu Ancestral Tomb Expanded",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mHjuE4X842c=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59918\nfileID=1000071364",
+        "Name": "Delta Patch 59918 0.51 2026-09-27T16-52Z kg1zgOkp.zip",
+        "Size": 37326,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "An adventure-focused OpenMW modlist with dangerous exploration, slower progression, new lands, quests, and easy Wabbajack installation. v.3 (and up) includes Tamriel Rebuilt: Poison Song",
+          "FileID": 1000071364,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59918/59918-1787525416-1982246372.png",
+          "IsNSFW": false,
+          "ModID": 59918,
+          "Name": "Morrowind Rekindled Wabbajack Modlist (v.3 - Poison Song Tamriel Rebuilt)",
+          "Version": "0.31"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X+h0CFyXecA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56156\nfileID=1000052232",
+        "Name": "Telvayn Ancestral Tomb Expanded-56156-1-2-1746025462.zip",
+        "Size": 7822,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "Expands upon the relatively boring Telvayn ancestral tomb, as well as giving the two bandits inside a makeover/",
+          "FileID": 1000052232,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56156/56156-1741561056-399106794.png",
+          "IsNSFW": false,
+          "ModID": 56156,
+          "Name": "Telvayn Ancestral Tomb Expanded",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BCnjHEEL+uo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49841\nfileID=1000071006",
+        "Name": "Stone Halls Of Solstheim 49841 1.7.2 2026-09-22T22-14Z c9Ra9Hiw.zip",
+        "Size": 12448285,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Naufragous77",
+          "Description": "A complete rebuilt of Bloodmoon barrows.",
+          "FileID": 1000071006,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49841/49841-1621776000-1692149664.png",
+          "IsNSFW": false,
+          "ModID": 49841,
+          "Name": "The Stone Halls of Solstheim - Reforged",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g1gqKk5mjX0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57525\nfileID=1000071168",
+        "Name": "Basic Chargen (Complete Edition) 57525 3.10 2026-09-25T09-44Z QX42Xtkh.7z",
+        "Size": 30606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caeris",
+          "Description": "A straightforward approach to an alternative start mod, as well as a modders resource.",
+          "FileID": 1000071168,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57525/57525-1759031174-1690080335.jpg",
+          "IsNSFW": false,
+          "ModID": 57525,
+          "Name": "Basic Chargen",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "piu0fECs7n4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59200\nfileID=1000065590",
+        "Name": "VFCUE Menace Addon 59200 1 2026-06-11T17-05Z 8MahMrIO.zip",
+        "Size": 12940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cybvep",
+          "Description": "Too many creatures and bosses have been neglected. Time to spice things up.",
+          "FileID": 1000065590,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59200/59200-1780342836-1187928073.png",
+          "IsNSFW": false,
+          "ModID": 59200,
+          "Name": "Menacing Creatures and Bosses",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XdqidHD15Uk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52013\nfileID=1000062603",
+        "Name": "Wares Ultimate-52013-2-1-3-1775985220.7z",
+        "Size": 9835032,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Danae Aurel",
+          "Description": "Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.",
+          "FileID": 1000062603,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52013/52013-1669939406-137535549.jpeg",
+          "IsNSFW": false,
+          "ModID": 52013,
+          "Name": "Wares Ultimate",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6FHu1k/2T9g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53822\nfileID=1000070142",
+        "Name": "Hammerfell Ansei Warrior Armour 1.11 53822 1.12 2026-09-11T10-50Z gWCfWmBR.zip",
+        "Size": 47801555,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ruffin Vangarr and Katya",
+          "Description": "Go on an adventure obtain an amazing armour in a Yokudan style.",
+          "FileID": 1000070142,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53822/53822-1702362507-1517281213.png",
+          "IsNSFW": false,
+          "ModID": 53822,
+          "Name": "Hammerfell Ansei Warrior Armour",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sVluGlPnzXU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57932\nfileID=1000059248",
+        "Name": "alt orange-57932-0-1-1765821948.7z",
+        "Size": 149381,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eledin",
+          "Description": "High quality fire and particles for fire pits, torches and other fire light sources",
+          "FileID": 1000059248,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57932/57932-1765821569-581403375.png",
+          "IsNSFW": false,
+          "ModID": 57932,
+          "Name": "Improved Fire",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yOuDoEaHbOA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59200\nfileID=1000071180",
+        "Name": "Base Creatures Module 59200 1.3 2026-09-25T13-34Z SNFnNpyr.zip",
+        "Size": 14347,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cybvep",
+          "Description": "Too many creatures and bosses have been neglected. Time to spice things up.",
+          "FileID": 1000071180,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59200/59200-1780342836-1187928073.png",
+          "IsNSFW": false,
+          "ModID": 59200,
+          "Name": "Menacing Creatures and Bosses",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iOGFP3guQuw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58201\nfileID=1000060620",
+        "Name": "Mzahnch Expanded-58201-1-0-1770743343.zip",
+        "Size": 13022,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigBolognaBallz",
+          "Description": "Major overhaul of the dwemer ruin of Mzahnch, turning it into a water purification plant as well as a small military outpost.",
+          "FileID": 1000060620,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58201/58201-1770742829-1647996451.png",
+          "IsNSFW": false,
+          "ModID": 58201,
+          "Name": "Mzahnch Expanded",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1wW0NMTG3+0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59876\nfileID=1000068492",
+        "Name": "Script Patches 59876 1 2026-08-16T22-37Z 3aD5acSX.zip",
+        "Size": 66350,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KiraMW",
+          "Description": "Personal Patches for my MW installs",
+          "FileID": 1000068492,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59876/59876-1786919815-2119239062.png",
+          "IsNSFW": false,
+          "ModID": 59876,
+          "Name": "MW Kira\u0027s Various Patches",
+          "Version": "1"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
+  "Failures": 0,
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/kiraMW-MW/MorrowindRekindled_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/kiraMW-MW/MorrowindRekindled_large.webp"
+}

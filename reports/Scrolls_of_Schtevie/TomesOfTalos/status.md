@@ -520,7 +520,7 @@
 *  [Civil War Lines Expansion-77566-1-1-1721690396.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77566/?tab=files&file_id=523967)
 *  [Clannfears by 4th SSE-37082-1-1591726655.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37082/?tab=files&file_id=144735)
 *  [Classic Sprinting Redone (Anniversary Edition)-20166-2-3-1-1708891434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=474483)
-*  [Cloaks and Capes SMP-55030-1-1-1630724219.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55030/?tab=files&file_id=226010)
+*  [Cloaks and Capes - All In One 2019 1.5 2026-10-01T00-53Z FpnkHZjqm.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2019/?tab=files&file_id=812910)
 *  [Clutter Filter for BTPS-89427-1-0-4-1742681229.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89427/?tab=files&file_id=608558)
 *  [Cold Foreigner - SE by Xtudo - Fixed ESP 3BA-HIMBO-139615-1-2-1737466884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139615/?tab=files&file_id=585885)
 *  [Cold Foreigner (3BA HIMBO) 2K-139157-1-05-1746632889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/139157/?tab=files&file_id=624671)

@@ -589,7 +589,7 @@
 *  [City Trees-35546-11-6-24-1770823939.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35546/?tab=files&file_id=720446)
 *  [Civil War Lines Expansion-77566-1-1-1721690396.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77566/?tab=files&file_id=523967)
 *  [Classic Sprinting Redone (Anniversary Edition)-20166-2-3-1-1708891434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=474483)
-*  [Cloaks and Capes SMP-55030-1-1-1630724219.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55030/?tab=files&file_id=226010)
+*  [Cloaks and Capes - All In One 2019 1.5 2026-10-01T00-53Z FpnkHZjqm.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2019/?tab=files&file_id=812910)
 *  [Clutter Filter for BTPS-89427-1-0-4-1742681229.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89427/?tab=files&file_id=608558)
 *  [COCO 2B Wedding Outfit - CBBE 3BA-26419-3-0-1713914082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26419/?tab=files&file_id=494158)
 *  [COCO Battle Angels - CBBE 3BA-64787-1-0-1647087376.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64787/?tab=files&file_id=269600)

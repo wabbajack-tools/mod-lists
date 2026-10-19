@@ -482,6 +482,7 @@
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-59-1777722398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=747879)
 *  [DynDOLOD_Output.zip](https://authored-files.wabbajack.org/DynDOLOD_Output.zip_9b8c7cbd-9b8a-4e28-8e66-56a48e2f2764)
 *  [EASY MODE - Show Direct Quest Markers-66666-1-05-1658619915.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=301627)
+*  [Eating Animations - Fishing Patch-63309-1-1-1668183863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63309/?tab=files&file_id=330852)
 *  [Eating animations - My HD version SE-44010-6-1-1670205798.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44010/?tab=files&file_id=337731)
 *  [Eating Animations And Sounds SE V1.9.4-42602-1-9-4-1668786874.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42602/?tab=files&file_id=332766)
 *  [Ebony Armors and Weapons Retexture SE - Half Res-83654-2-0-2-1735051273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83654/?tab=files&file_id=575684)
@@ -515,7 +516,7 @@
 *  [Environs - Tundra Farmhouse - Patch Collection-72981-3-0-4-1739050162.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72981/?tab=files&file_id=592438)
 *  [Equipable Ears for Player.-87737-1-1680158768.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87737/?tab=files&file_id=373249)
 *  [ESL version-132196-v1-1729768667.rar](https://www.nexusmods.com/skyrimspecialedition/mods/132196/?tab=files&file_id=555058)
-*  [Essentials Be Gone II-167937-1-0-0-1766599294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/167937/?tab=files&file_id=701706)
+*  [Essentials Be Gone II 167937 2.0.0 2026-09-16T14-55Z 8gJHT4kig.7z](https://www.nexusmods.com/skyrimspecialedition/mods/167937/?tab=files&file_id=806162)
 *  [EVG CLAMBER - Slope Animations 1.0-114753-1-0-1717167372.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114753/?tab=files&file_id=506903)
 *  [EVG Conditional Idles-34006-1-51-1717175145.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=506946)
 *  [Experience - MCM-65880-1-4-0-1719661135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65880/?tab=files&file_id=516064)
@@ -652,7 +653,7 @@
 *  [Ice is Slick 1.0.3.2 - All-in-One 190881 1.0.3.2 2026-09-13T02-58Z n0oTCmH1a.zip](https://www.nexusmods.com/skyrimspecialedition/mods/190881/?tab=files&file_id=804401)
 *  [Icy Mesh Remaster - Icefloes without 2D texture-73381-3-20-1757528215.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73381/?tab=files&file_id=664422)
 *  [Icy Mesh Remaster - IcyFixes 73381 3.40 2026-09-06T12-17Z QRde31GqB.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73381/?tab=files&file_id=801266)
-*  [IDE Dawnguard and Vigilants 188486 1-LATEST 2026-08-15T13-29Z miUDjFOfT.zip](https://www.nexusmods.com/skyrimspecialedition/mods/188486/?tab=files&file_id=790284)
+*  [IDE Dawnguard and Vigilants 188486 1.0.1-LATEST 2026-09-16T13-18Z n0oTCmHhF.zip](https://www.nexusmods.com/skyrimspecialedition/mods/188486/?tab=files&file_id=806137)
 *  [IDE Jorrvaskr 173134 1.0.3-LATEST 2026-08-08T18-35Z bqv3tSQiP.zip](https://www.nexusmods.com/skyrimspecialedition/mods/173134/?tab=files&file_id=787094)
 *  [IDE Thalmor 168432 1.0.4-LATEST 2026-08-11T23-16Z XnIqaC5Ah.zip](https://www.nexusmods.com/skyrimspecialedition/mods/168432/?tab=files&file_id=788689)
 *  [IDE WHITERUN-149724-1-1746902603.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149724/?tab=files&file_id=625737)
@@ -691,6 +692,7 @@
 *  [ISC Cleaned .esp file-78446-2-0-1670731387.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78446/?tab=files&file_id=339518)
 *  [ISC-SRDified Main File-78446-2-2-1-1698505409.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78446/?tab=files&file_id=437740)
 *  [ISL - DESTified Main File-45514-1-4-5-1666488099.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45514/?tab=files&file_id=325906)
+*  [ISL Patch 184763 1 2026-07-08T18-36Z Ae46W7hYY.7z](https://www.nexusmods.com/skyrimspecialedition/mods/184763/?tab=files&file_id=773324)
 *  [Ivy's Riverwood Overhaul-151441-1-4-3-1-1758484092.7z](https://www.nexusmods.com/skyrimspecialedition/mods/151441/?tab=files&file_id=668128)
 *  [Jaxonz MCM Kicker SE-36801-1-1SE-1591760943.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36801/?tab=files&file_id=144799)
 *  [JContainers SE-16495-4-2-9-1705929247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=463765)
@@ -964,7 +966,7 @@
 *  [Reimperialized Fort Frostmoth-134592-1-0-0-1732301330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134592/?tab=files&file_id=564950)
 *  [Relationship Dialogue Overhaul - RDO Final-1187-Final.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1187/?tab=files&file_id=1171)
 *  [Relationship Dialogue Overhaul - Update and MCM 1.0.5-44601-1-0-5-1635353663.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44601/?tab=files&file_id=237381)
-*  [RELight 167186 7.5 2026-09-26T16-38Z MWx0rvH8r.zip](https://www.nexusmods.com/skyrimspecialedition/mods/167186/?tab=files&file_id=810932)
+*  [RELight 167186 7.6 2026-09-29T23-52Z uhRBKsPKK.zip](https://www.nexusmods.com/skyrimspecialedition/mods/167186/?tab=files&file_id=812457)
 *  [RELight Official Light Addon - Alternate 174783 4.4 2026-09-13T23-34Z FpnkHZhea.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174783/?tab=files&file_id=804850)
 *  [Reliquary of Myth - Artifacts of Skyrim-31612-4-8-3-1743090878.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31612/?tab=files&file_id=610458)
 *  [Reliquary of Myth Patch-41254-2-0-1617951163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41254/?tab=files&file_id=197032)
@@ -1060,7 +1062,7 @@
 *  [Skeleton Auto Patch-176724-v1-0-4-1777223954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/176724/?tab=files&file_id=746196)
 *  [Skeleton Enemy Integrated-90692-2-3-1710687069.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90692/?tab=files&file_id=481517)
 *  [Skill Based Dynamic Animations AIO-99842-1-12-1739643156.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99842/?tab=files&file_id=595101)
-*  [SKSE Menu Framework 120352 3.13-Hotfix2 2026-07-09T16-10Z 587RqTYjW.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=773663)
+*  [SKSE Menu Framework 120352 3.18 2026-09-17T16-36Z cE8hkAlOT.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=806684)
 *  [Skyfalls Blue Palace Courtyard-130890-1-3-1-1731582322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130890/?tab=files&file_id=562112)
 *  [SkyInteract-143311-1-0-7-1761003163.zip](https://www.nexusmods.com/skyrimspecialedition/mods/143311/?tab=files&file_id=678585)
 *  [Skyking Whiterun 2k-159113-1-0-1-1757950927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/159113/?tab=files&file_id=666063)
@@ -1075,9 +1077,7 @@
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim Remastered - Caves 2K Non Parallax-38220-1-00-1594583676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files&file_id=150069)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
-*  [Skyrim SE - Project Optimization - NO HOMES - ESL VERSION-14084-1-4-1611044112.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14084/?tab=files&file_id=180452)
 *  Skyrim_Default.ini
-*  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
