@@ -251,7 +251,7 @@
 *  [CritterSpawn Congestion Fix 1.54-67276-1-54-1711522837.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=484532)
 *  [CS Light-138443-2-0-1-1779929946.zip](https://www.nexusmods.com/skyrimspecialedition/mods/138443/?tab=files&file_id=756910)
 *  [CS Potion Lights - ElSopa Potions Redone-170328-1-0-1-1769032937.zip](https://www.nexusmods.com/skyrimspecialedition/mods/170328/?tab=files&file_id=712347)
-*  [Custom Ini And Script 1115 1 2026-10-18T05-23Z HqZdnBGUM.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4556)
+*  [Custom Ini And Script 1115 1.1 2026-10-19T11-49Z avCPIebZf.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4577)
 *  [CVEO - Miggyluv's Eyes-161391-1-0-1761195355.7z](https://www.nexusmods.com/skyrimspecialedition/mods/161391/?tab=files&file_id=679361)
 *  [Daedric Shrines PBR (2K) 186034 1.0.0 2026-07-21T07-56Z Ks18n0E1Z.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186034/?tab=files&file_id=779332)
 *  [Dark Brotherhood Armor SE - CBBE 3BA conversion-57553-2-0-1669933642.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57553/?tab=files&file_id=336534)
