@@ -2,10 +2,4351 @@
   "MachineURL": "Borscht/Borscht",
   "Name": "Borscht",
   "Version": "2.0.6.7",
-  "ModListHash": "ENtWZgzOla0=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "ModListHash": "Zq/Z47bA99Y=",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rXDEtl7gdOU=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z",
+        "Name": "Mod.Organizer-2.5.2.7z",
+        "Size": 149660212,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "soZE9QbVsEU=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2477\nfileID=19875",
+        "Name": "Improving Stashes Loot V.1.6.4 2477 1.6.4 2026-10-01T03-04Z alLTWLOgL.zip",
+        "Size": 581341,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Reliser",
+          "Description": "Tired of risking your life for a loaf of bread and an energy drink, even in \u201Crare\u201D stashes? This mod adds absolutely all of the game\u2019s gear to stashes (including content from Update 2.0) and completely overhauls the reward balance.",
+          "FileID": 19875,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2477/2477-1787862683-1582282057.jpg",
+          "IsNSFW": false,
+          "ModID": 2477,
+          "Name": "Improving Stashes Loot",
+          "Version": "1.6.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4N134J8DXuU=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20171",
+        "Name": "BorschtCompatibilityChecker 2376 2.0.6.6 2026-10-05T20-06Z CN5475y3f.zip",
+        "Size": 19641,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20171,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mDu83rhQgVk=",
+        "Meta": "[General]\ngameName=site\nmodID=1613\nfileID=6640",
+        "Name": "List Exporter for Mod Organizer-1613-2-0-0-1767826619.zip",
+        "Size": 934573,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "A plugin for exporting html, markdown, json, or csv copies of your modlists, useful for documentation when creating Wabbajack modlists.",
+          "FileID": 6640,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/1613/1613-1767826013-958900134.png",
+          "IsNSFW": false,
+          "ModID": 1613,
+          "Name": "Kezyma\u0027s List Exporter for Mod Organizer",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lCJe3i7mhoM=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip",
+        "Name": "rootbuilder.5.1.1.zip",
+        "Size": 957191,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.1.1.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TEiwAoU/q5Q=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1450\nfileID=17754",
+        "Name": "Ace\u0027s Real Flashlight 1450 1.5.1 2026-09-04T23-23Z YLqDlquFr.zip",
+        "Size": 5357509,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FelicheAce",
+          "Description": "This mod overhauls the player flashlight for a more realistic and immersive experience, enhancing visuals without sacrificing the game\u0027s atmosphere.",
+          "FileID": 17754,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1450/1450-1751540335-678316438.png",
+          "IsNSFW": false,
+          "ModID": 1450,
+          "Name": "Ace\u0027s Real Flashlight",
+          "Version": "1.4.4hotfix"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Af5cHlNLH0g=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2839\nfileID=20668",
+        "Name": "Aqua Exitus 1.1.1 2839 1.1.1 2026-10-16T11-27Z YLqDlquPq.zip",
+        "Size": 39393304,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "stantravels",
+          "Description": "Aqua Exitus adds drivable motorboats and a small quest connected to them to S.T.A.L.K.E.R. 2. Explore the Zone\u0027s waterways and discover familiar locations from an entirely new perspective.",
+          "FileID": 20668,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2839/2839-1790941631-2006754002.png",
+          "IsNSFW": false,
+          "ModID": 2839,
+          "Name": "Aqua Exitus",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/BWiCIv84H4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2209\nfileID=17345",
+        "Name": "Integrated Helmet Upgrades 2209 1.5 2026-08-31T13-26Z Z4ce8cXnn.zip",
+        "Size": 6144,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PNR Team",
+          "Description": "The Zone does not favor those who rely on their eyes alone.",
+          "FileID": 17345,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2209/2209-1777943228-854149885.png",
+          "IsNSFW": false,
+          "ModID": 2209,
+          "Name": "AR Goggles",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GLF5xGs9iRM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1583\nfileID=19836",
+        "Name": "Atmospheric Grafity of Zone ENG 2.0 1583 E.2.0 2026-09-30T10-21Z yDk7TkaHT.rar",
+        "Size": 45802218,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "What do we have here?.. My new global retexture is aimed at enhancing the atmosphere of the Zone(1.8 ready)",
+          "FileID": 19836,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1583/1583-1790763494-753839113.jpg",
+          "IsNSFW": false,
+          "ModID": 1583,
+          "Name": "Atmospheric Grafity of Zone",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v7AnnqIdcp4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2963\nfileID=20325",
+        "Name": "betterCratesVanilla 2963 2 2026-10-09T08-40Z hkWNDWYoP.rar",
+        "Size": 1429,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "devryTrost",
+          "Description": "Because have boxes have things inside them. That\u0027s basically the whole point of a box.",
+          "FileID": 20325,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2963/2963-1791531408-1224549472.png",
+          "IsNSFW": false,
+          "ModID": 2963,
+          "Name": "betterCratesVanilla - No more empty boxes",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZgAqLzXB2UE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2561\nfileID=20727",
+        "Name": "CollectOwl V3.6.1 2561 3.6.1 2026-10-17T14-17Z L6ajhaGfO.7z",
+        "Size": 163080219,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Moonvvell",
+          "Description": "CollectOwl adds 237 collectible (and sellable!) items to the Zone: minerals on museum stands, bird feathers, pressed herbarium leaves, butterflies pinned under glass, chess pieces, enamel badges, vintage postcards, dried mushrooms \u2014 twelve complete collections, plus hundreds of little things somebody once carried across the Perimeter.",
+          "FileID": 20727,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2561/2561-1788444473-1599618518.jpg",
+          "IsNSFW": false,
+          "ModID": 2561,
+          "Name": "CollectOwl",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "csBGtUiVxkk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2561\nfileID=18936",
+        "Name": "CollectOwlModels-3.5 2561 3.6 2026-09-18T09-19Z 3tEVgEnu4.7z",
+        "Size": 2163045207,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Moonvvell",
+          "Description": "CollectOwl adds 237 collectible (and sellable!) items to the Zone: minerals on museum stands, bird feathers, pressed herbarium leaves, butterflies pinned under glass, chess pieces, enamel badges, vintage postcards, dried mushrooms \u2014 twelve complete collections, plus hundreds of little things somebody once carried across the Perimeter.",
+          "FileID": 18936,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2561/2561-1788444473-1599618518.jpg",
+          "IsNSFW": false,
+          "ModID": 2561,
+          "Name": "CollectOwl",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zVQ2++a/zTM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2275\nfileID=20696",
+        "Name": "Emission Tornado By BackSinner 2275 2.2 2026-10-17T01-15Z KVr9wrpFL.zip",
+        "Size": 3146004,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BackSinner",
+          "Description": "This mod spawns a Tornado during Emissions that chases the player relentlessly. It adds a whole new layer of tension, stress and terror to every Emission. Think fast. Be smart. Don\u0027t get caught.",
+          "FileID": 20696,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2275/2275-1781306777-614175092.png",
+          "IsNSFW": false,
+          "ModID": 2275,
+          "Name": "Emission Tornado",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tD8avVE3rZs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2830\nfileID=19977",
+        "Name": "Enemy Weapon Attachments Redux V1.3.1 2830 1.3.1 2026-10-02T14-18Z 2UnioncyU.zip",
+        "Size": 1096569,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "IamMrBatman",
+          "Description": "Standalone rebuild of ScepraX\u0027s Enemy Weapon Attachments for v2.0.6: enemy weapons with attachments and upgrades that scale with your rank, rank-based ammo, and optional modules for uniques, armour, artifacts, consumables, money cards, NVGs and more.",
+          "FileID": 19977,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2830/2830-1790372170-692398561.png",
+          "IsNSFW": false,
+          "ModID": 2830,
+          "Name": "Enemy Weapon Attachments Redux",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FBI6NxBwSB4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1428\nfileID=20511",
+        "Name": "Enhanced Combat VFX 1428 2.0 2026-10-12T18-47Z hkWNDWYDc.zip",
+        "Size": 11912021,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FelicheAce",
+          "Description": "Overhauls combat visual effects for a more visceral and impactful experience. Say goodbye to muted flashes and feel the power of every shot with dynamic, high-quality muzzle flashes and smoke effects.",
+          "FileID": 20511,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1428/1428-1750774655-2084747427.png",
+          "IsNSFW": false,
+          "ModID": 1428,
+          "Name": "Enhanced Combat VFX",
+          "Version": "1.2.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4i01FFoJT8c=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2938\nfileID=20381",
+        "Name": "CrosshairID 2938 1.2 2026-10-10T09-22Z X7N8ANH5k.zip",
+        "Size": 1175449,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Komahan",
+          "Description": "Displaying NPC faction when aiming (using the right mouse button)",
+          "FileID": 20381,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2938/2938-1791300334-1324509218.jpg",
+          "IsNSFW": false,
+          "ModID": 2938,
+          "Name": "Faction Identifier - CrosshairID",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "op0BtAGM2p4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2743\nfileID=19485",
+        "Name": "Faction Uniforms - Freedom 2743 1.0.1 2026-09-25T18-38Z GROhYO9CQ.7z",
+        "Size": 695103967,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the Freedom factions uniforms and equipment. Affects the player, npcs, icons, and even includes a few minor bug fixes.",
+          "FileID": 19485,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2743/2743-1789738516-1655678702.png",
+          "IsNSFW": false,
+          "ModID": 2743,
+          "Name": "Faction Uniforms - Freedom",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YEdNgmdZS/w=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2842\nfileID=19992",
+        "Name": "Faction Uniforms - Mercs 2842 1.0.1 2026-10-02T17-56Z m28tJ8IWK.7z",
+        "Size": 316325439,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the Mercenaries faction uniforms and equipment.",
+          "FileID": 19992,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2842/2842-1790710436-1736375532.png",
+          "IsNSFW": false,
+          "ModID": 2842,
+          "Name": "Faction Uniforms - Mercs",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FlpFIea4CMk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2862\nfileID=19811",
+        "Name": "Faction Uniforms - Ward 2862 1 2026-09-29T19-57Z rPKd1KtVL.7z",
+        "Size": 281490681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the Ward\u0027s faction uniforms and equipment.",
+          "FileID": 19811,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2862/2862-1790710059-1592798549.png",
+          "IsNSFW": false,
+          "ModID": 2862,
+          "Name": "Faction Uniforms - Ward",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o4duoir7m8o=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2657\nfileID=18623",
+        "Name": "PointOfNoReturn-RepairSystem 2657 1.2 2026-09-13T22-54Z 5XCFfCk7k.zip",
+        "Size": 44849953,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PNR Team",
+          "Description": "Adds a field repair system with multiple repair kits for weapons, armor, and helmets, allowing you to maintain your gear without constantly returning to a technician.",
+          "FileID": 18623,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2657/2657-1788975997-8145273.jpg",
+          "IsNSFW": false,
+          "ModID": 2657,
+          "Name": "Field Repair System",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lcm/ZdW/1lY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=562\nfileID=17602",
+        "Name": "Fluid Movement and Aiming Overhaul 562 5.0 2026-09-02T22-35Z AZIUFI5g3.zip",
+        "Size": 1129,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "Improves overall movement mechanics and aiming/sensitivity fixes without breaking mod compatibility. Refined vaulting with tuned angles, distance, and obstacle detection, balanced stamina consumption, smoother turning/aiming for 1:1 feel with mouse and water slowdown removed, and improved air control.",
+          "FileID": 17602,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/562/562-1790796198-1273799915.png",
+          "IsNSFW": false,
+          "ModID": 562,
+          "Name": "Fluid Movement and Aiming Overhaul - Better Look Controls - Improved Vaulting - Movement - Stamina - Optional Gameplay Fixes",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hjdFAYS8H70=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2553\nfileID=20177",
+        "Name": "grEdit - Better Weather and Emissions V3.2.3 2553 3.2.3 2026-10-05T22-23Z DjHICHlJe.zip",
+        "Size": 2361746,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OlderGreg",
+          "Description": "Retunes weather odds and emission frequency for every region, base game and Cost of Hope DLC. Five bias presets (Sunny, Cloudy/Foggy, Vanilla Tuned, terrain-aware Zone Realistic, Rainy/Thundery) plus two emission add-ons. Fixes Iron Forest\u0027s confirmed 45% fog outlier. DWO Compatible. 2.0.5 Compatible",
+          "FileID": 20177,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2553/2553-1788191317-832361606.jpg",
+          "IsNSFW": false,
+          "ModID": 2553,
+          "Name": "grEdit - Better Weather and Emissions",
+          "Version": "2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kGWU2mJDoV4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1601\nfileID=19692",
+        "Name": "Green Box for player items 2.0 1601 2.0 2026-09-28T10-42Z 8nmpUmAcm.rar",
+        "Size": 1912020,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Green Box for player items (1.8 ready)",
+          "FileID": 19692,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1601/1601-1755379189-1324267734.jpg",
+          "IsNSFW": false,
+          "ModID": 1601,
+          "Name": "Green Box for player\u0027s stuff by NiutoN",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AgWOhG9nLIE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2257\nfileID=19849",
+        "Name": "I.P.S.F. To UN BLUE COLOUR VEHICLE VERSION 2257 2.0 2026-09-30T16-21Z nJ2ge2ZLT.rar",
+        "Size": 12313558,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "I.P.S.F. to UN Full Colour (Blue Version)",
+          "FileID": 19849,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2257/2257-1790785329-2123001710.png",
+          "IsNSFW": false,
+          "ModID": 2257,
+          "Name": "I.P.S.F. to UN Full Colour",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rXhABrgs9Xo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2889\nfileID=19915",
+        "Name": "Jump1.5x 2889 2 2026-10-01T18-06Z 2UnionctG.zip",
+        "Size": 8931,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HiddenUnknown",
+          "Description": "Triples your jump height (about 1.25 m to 3.75 m) and distance. The jump is scaled like real ballistics, not a floaty moon-jump: gravity is untouched and fall damage is off. No UE4SS or script extender needed. Also includes a no fall damage aspect.",
+          "FileID": 19915,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2889/2889-1790859325-865513892.png",
+          "IsNSFW": false,
+          "ModID": 2889,
+          "Name": "Jump3x",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YiH17fxFBBE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1062\nfileID=17049",
+        "Name": "Merc - Blue Tape 1062 2.0 2026-08-28T20-57Z UeJBEJ9fe.7z",
+        "Size": 15143105,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gerard1111",
+          "Description": "Different colored tapes for \u0022Merc\u0022 and \u0022Trophy\u0022",
+          "FileID": 17049,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1062/1062-1764710603-107372381.png",
+          "IsNSFW": false,
+          "ModID": 1062,
+          "Name": "Tapes for Merc and Trophy  (VS Vintar - VSS Vintorez - AS Lavina - AS Val)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LrK3/3f+sm0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2027\nfileID=19848",
+        "Name": "Mosaic and Murals at Bus Stops 2.0 2027 2.0 2026-09-30T16-05Z pgtwBtUDQ.rar",
+        "Size": 3540842,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Mosaic and murals at bus stops",
+          "FileID": 19848,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2027/2027-1790784431-127853568.jpg",
+          "IsNSFW": false,
+          "ModID": 2027,
+          "Name": "Mosaic and Murals at Bus Stops",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ATK6vzgTl18=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2491\nfileID=17014",
+        "Name": "Mute HoldBreath 2491 1.1 2026-08-28T12-29Z 3tEVgEMb9.zip",
+        "Size": 710868,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FellowDemo",
+          "Description": "Mutes hold breath SFX, just keeping simple inhale/exhale.",
+          "FileID": 17014,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2491/2491-1787898434-1415542092.png",
+          "IsNSFW": false,
+          "ModID": 2491,
+          "Name": "Mute Hold Breath SFX",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6i2QwK686Zk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2037\nfileID=16329",
+        "Name": "zNoWeaponArmorAnomalyDamage_P.zip 2037 2.1 2026-08-23T06-56Z 5XCFfCp2d.zip",
+        "Size": 961,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mad Martian",
+          "Description": "No damage to weapons and armor from anomalies!",
+          "FileID": 16329,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2037/2037-1770713720-460982777.png",
+          "IsNSFW": false,
+          "ModID": 2037,
+          "Name": "No Damage to Weapons and Armor from Anomalies",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xKijmnKSbTs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=939\nfileID=19747",
+        "Name": "OXA - Standard 939 3.0.9 2026-09-29T03-24Z pgtwBtUl7.zip",
+        "Size": 755717236,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oxide",
+          "Description": "Expand your armory: Massively expands the range of attachment options and allows for true customization of your weapon attachments. Want more? Try OXA Prototype for modular weapon components, a new repair system, hundreds of new items, and overhauls of major game mechanics.",
+          "FileID": 19747,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/939/939-1769401293-337731382.png",
+          "IsNSFW": false,
+          "ModID": 939,
+          "Name": "OXA - Oxide\u0027s eXpanded Armory",
+          "Version": "3.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zdgRUBQEgD4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1951\nfileID=19405",
+        "Name": "PDA-tweaks 1951 3.0.4 2026-09-24T10-05Z UeJBEJFrc.zip",
+        "Size": 174740,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rokshocka",
+          "Description": "Quests markers, Hubs, All Player markers, and Arch Anomalies visible at all zoom levels.Total player markers increased to 99.",
+          "FileID": 19405,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1951/1951-1767886927-1666601538.png",
+          "IsNSFW": false,
+          "ModID": 1951,
+          "Name": "PDA-tweaks",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "can/pIWCQMA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1571\nfileID=19054",
+        "Name": "PIR Complete 1571 2.0-BETA3 2026-09-19T10-26Z PwVvSViHc.zip",
+        "Size": 127386182,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PieceMaker085",
+          "Description": "Project Itemization Reborn (PIR) adds many new items for a more diverse and strategic gameplay.",
+          "FileID": 19054,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1571/1571-1788643100-1004873488.jpg",
+          "IsNSFW": false,
+          "ModID": 1571,
+          "Name": "Project Itemization Reborn",
+          "Version": "2.0-BETA2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4sKdfcw3X+U=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1186\nfileID=17839",
+        "Name": "Quieter Anomaly Detector 30dB P 1186 1 2026-09-05T18-25Z X7N8ANH10.zip",
+        "Size": 2691,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "audioburglar",
+          "Description": "This mod replaces the anomaly detections sound to a much lower volume (3,5,10 and 50db difference) so it doesn\u0027t blast into your ear. The sound used is the original one, not the one used in ClaytorYurnero\u0027s mod. The mod was updated for 2.0v by kharybdiz all credits to the GOAT. I had no time to update, sorry guys.",
+          "FileID": 17839,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1186/1186-1737750689-1208977932.gif",
+          "IsNSFW": false,
+          "ModID": 1186,
+          "Name": "Quieter Anomaly Detector (Original Sound)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9v0f8OO+XsE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1744\nfileID=19719",
+        "Name": "RealisticAmmoBox 2.0 1744 2.0 2026-09-28T16-30Z Ep3Pi32Jc.rar",
+        "Size": 1821044,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "The mod changes the texture of the ammo box",
+          "FileID": 19719,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1744/1744-1761600209-572862020.jpg",
+          "IsNSFW": false,
+          "ModID": 1744,
+          "Name": "Realistic Ammo Box by NiutoN",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WquWsprv4Fw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=830\nfileID=16182",
+        "Name": "ShoCified UI CS 2.0 830 2.0 2026-08-21T18-05Z bdzRszHFH.zip",
+        "Size": 2506324,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PieceMaker085",
+          "Description": "UI skin mod aimed to provide a UI experience close to the original Shadow Of Chernobyl UI",
+          "FileID": 16182,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/830/830-1787336005-253353822.jpg",
+          "IsNSFW": false,
+          "ModID": 830,
+          "Name": "ShoCified UI",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aRkSgjSFPGA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1923\nfileID=13550",
+        "Name": "Sota - Classic Mutant Loot (1.8 Ready)-1923-1-0-1767326344.zip",
+        "Size": 634,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sota",
+          "Description": "Brings back the classic mutant loot window and increases the mutant loot distance.",
+          "FileID": 13550,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1923/1923-1767326175-169368447.png",
+          "IsNSFW": false,
+          "ModID": 1923,
+          "Name": "Sota - Classic Mutant Loot (1.8 Ready - bpatch)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6RpRnpI8Ef4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2100\nfileID=17640",
+        "Name": "Sota - Show Stats Values (2.0 Ready) 2100 1.3.1 2026-09-03T08-54Z sMvLGvQHG.zip",
+        "Size": 2066,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sota",
+          "Description": "Numerical stats values \u200B\u200Bfor artifacts and consumables. And also an optional numerical display only for the additional weight of artifacts.",
+          "FileID": 17640,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2100/2100-1772708703-62865133.png",
+          "IsNSFW": false,
+          "ModID": 2100,
+          "Name": "Sota - Show Stats Values (1.8 Ready - bpatch)",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Oq4gbmgw7zA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2781\nfileID=20569",
+        "Name": "ThreatMarks 1.7.0 2781 1.7.0 2026-10-13T20-11Z Z4ce8cXRR.zip",
+        "Size": 597411,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vselenziaurum",
+          "Description": "Faction icon over every human, by suit: red for enemies, known before they shoot; green for friends you have looked at; orange for the rest. Mutants (hollow triangle) and zombies red, ZonePets pets a green paw. 50 m, 200 m aiming. Tap or hold. MCM: key, ranges, aim-only, only enemies, icon size, height, who gets marks, simple icons. No UE4SS.",
+          "FileID": 20569,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2781/2781-1789792331-1636750612.png",
+          "IsNSFW": false,
+          "ModID": 2781,
+          "Name": "Threat Marks",
+          "Version": "1.7.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MgUd4APCdno=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1062\nfileID=17058",
+        "Name": "Trophy - Blue Tape 1062 2.0 2026-08-28T21-28Z pgtwBtGF3.7z",
+        "Size": 12619628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gerard1111",
+          "Description": "Different colored tapes for \u0022Merc\u0022 and \u0022Trophy\u0022",
+          "FileID": 17058,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1062/1062-1764710603-107372381.png",
+          "IsNSFW": false,
+          "ModID": 1062,
+          "Name": "Tapes for Merc and Trophy  (VS Vintar - VSS Vintorez - AS Lavina - AS Val)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vEsWkl+StQE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2362\nfileID=17079",
+        "Name": "Weightless Ammo Grenades and Consumables 2362 2 2026-08-29T01-15Z 5XCFfCpLP.7z",
+        "Size": 1132,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cathyy7 and OlderGreg",
+          "Description": "Each one is separate so you can choose what you want. Uses bpatch as of version 2 so it doesnt overwrite configs.",
+          "FileID": 17079,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2362/2362-1787448234-13780902.png",
+          "IsNSFW": false,
+          "ModID": 2362,
+          "Name": "Variable Weight - Ammo Grenades Artifacts and Consumables",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IRQEc9wltbQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2796\nfileID=19181",
+        "Name": "ZoneLink 1.0 2796 1 2026-09-21T11-59Z 5XCFfCkSg.zip",
+        "Size": 79636,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nimalus",
+          "Description": "Fast travel to discovered locations with no Anti-Rad required or consumed, while preserving distance-based travel time",
+          "FileID": 19181,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2796/2796-1789993393-1395986435.png",
+          "IsNSFW": false,
+          "ModID": 2796,
+          "Name": "ZoneLink - Free Fast Travel to Discovered Locations",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CoTgq2fAMIA=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/profilesync/profilesync.2.2.0.zip",
+        "Name": "profilesync.2.2.0.zip",
+        "Size": 913776,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/profilesync/profilesync.2.2.0.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ib3ePdBokwY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3022\nfileID=20720",
+        "Name": "PiP Scopes 1.0.0 - For Ultra (UE4SS Fix Included) 3022 1 2026-10-17T10-57Z vusaOsSyG.zip",
+        "Size": 7556620,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JCyberkiller",
+          "Description": "This is a real Picture in Picture Mod for Stalker 2. 8 Scopes are supported.",
+          "FileID": 20720,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3022/3022-1792232541-1980034957.png",
+          "IsNSFW": false,
+          "ModID": 3022,
+          "Name": "Picture in Picture Scopes (PIP)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+EZS1SmT3js=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=265\nfileID=19998",
+        "Name": "PRZ PHOTOREALISTIC ZONE 2.4.5H Manual Install 265 2.4.5H 2026-10-02T19-41Z 8nmpUmAhx.zip",
+        "Size": 173651484,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "L00",
+          "Description": "Ultimate STALKER 2 visual overhaul: Best color \u0026amp; lighting - Real time Engine \u0026amp; Lighting changes -  GasMasks - Night-Vision, and more...",
+          "FileID": 19998,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/265/265-1758178959-1249423664.jpg",
+          "IsNSFW": false,
+          "ModID": 265,
+          "Name": "PRZ - PHOTOREALISTIC ZONE 2.2",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6HKGANFNv58=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2820\nfileID=19868",
+        "Name": "True Ledge Grab - Airborne Vaulting 2820 1.7 2026-09-30T23-28Z m28tJ8Iqp.zip",
+        "Size": 2800004,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "True airborne ledge grabbing. Jump at a ledge, hold your Jump key, and vault instead of face-planting into the lip. Modern-style vaulting that makes vanilla hard to go back to.",
+          "FileID": 19868,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2820/2820-1790444575-143026132.png",
+          "IsNSFW": false,
+          "ModID": 2820,
+          "Name": "True Ledge Grab - Airborne Vaulting and Mantle - Fluid Traversal",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a1c5ouphKjY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2802\nfileID=19272",
+        "Name": "CustomSongs 2802 2.0.6.4 2026-09-22T16-49Z IcAJ4AC8H.zip",
+        "Size": 149509670,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "A Stormwrought Audio add-on for Songs of the Zone, adding a collection of new solo acoustic guitar tracks for Skif to play throughout the Zone. Inspired by Ukrainian and Eastern European folk, bard, campfire, classical, and Slavic musical traditions. \u0027Just Skif, a guitar, and whatever passes for peace and quiet in the Zone.",
+          "FileID": 19272,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2802/2802-1790033359-277572659.png",
+          "IsNSFW": false,
+          "ModID": 2802,
+          "Name": "Bard of the Zone",
+          "Version": "2.0.6.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iiyNnvFLCqc=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2717\nfileID=18741",
+        "Name": "CoP Guitar Songs 2717 3 2026-09-15T11-28Z GROhYO9WB.zip",
+        "Size": 3331212,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigChenga",
+          "Description": "Automated Guitar plays all the guitar songs of the zone!",
+          "FileID": 18741,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2717/2717-1789300429-2090449445.jpg",
+          "IsNSFW": false,
+          "ModID": 2717,
+          "Name": "Songs Of The Zone - Automated Guitar",
+          "Version": "4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sk0z5nNcVBI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1617\nfileID=16121",
+        "Name": "Main Files 2.0 READY 1617 4 2026-08-21T00-42Z UeJBEJ9o9.7z",
+        "Size": 440338103,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "Autumn has come to the Zone.The forests are painted in gold and crimson tones, the wind tears off the last leaves, and under your feet there is wet earth and rotten foliage.",
+          "FileID": 16121,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1617/1617-1756502721-114789077.jpg",
+          "IsNSFW": false,
+          "ModID": 1617,
+          "Name": "Autumn Mod by PanKotan UPDATE 2.0 READY",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x7UAt7wXAT0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2417\nfileID=16649",
+        "Name": "FasterConsumables-01 2417 0.1 2026-08-25T15-44Z rPKd1Ka0e.zip",
+        "Size": 27856,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "onikenobi",
+          "Description": "Speeds up animations for consumables by 25%",
+          "FileID": 16649,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2417/2417-1787672598-808750889.png",
+          "IsNSFW": false,
+          "ModID": 2417,
+          "Name": "Faster Consumables",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x+JhAyc7C24=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3029\nfileID=20785",
+        "Name": "InventoryFavoritesAndJunk 0.1.0 3029 0.1.0 2026-10-18T13-21Z e3oKpo8AS.zip",
+        "Size": 74479,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StrangerBro",
+          "Description": "Mark item types as Favorite or Junk, and lock individual weapons, armor and artifacts. Sort marked loot, protect your gear from accidental selling or dropping, and buy Favorites or sell Junk in bulk. Marks are stored in your save.",
+          "FileID": 20785,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3029/3029-1792503798-314231745.png",
+          "IsNSFW": false,
+          "ModID": 3029,
+          "Name": "Inventory Favorites and Junk",
+          "Version": "0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dFFPq5i679E=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2739\nfileID=18715",
+        "Name": "KaimanovLostMemories 2739 1.0.1A 2026-09-15T02-40Z KVr9wrpdy.zip",
+        "Size": 32937441,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaimanov",
+          "Description": "The mod adds sound anomalies to certain regions of the game. These anomalies trigger independently of the player and occur completely at random. Some anomalies are permanent, meaning they are arch-anomalies. The active regions for exploring sound anomalies are Chornobyl-2, Pripyat, and the Brain Scorcher.",
+          "FileID": 18715,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2739/2739-1789439960-1440822424.png",
+          "IsNSFW": false,
+          "ModID": 2739,
+          "Name": "Kaimanov Lost Memories",
+          "Version": "1.0.1A"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rOemh8DPUqw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20866",
+        "Name": "Zzz SortingCompat 2376 2.0.6.8 2026-10-20T15-01Z 8nmpUmAQB.zip",
+        "Size": 4804,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20866,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Bcw2xMUOiwI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3031\nfileID=20835",
+        "Name": "InventoryFilterTabs 0.1.1 3031 0.1.1 2026-10-19T18-08Z Ep3Pi32uQ.zip",
+        "Size": 107447,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StrangerBro",
+          "Description": "Category tabs for your backpack, stash, loot and merchant stock. Filter by item type, sort filtered views with the native S command, and transfer visible stacks without rearranging the main inventory.",
+          "FileID": 20835,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3031/3031-1792502173-2083952425.png",
+          "IsNSFW": false,
+          "ModID": 3031,
+          "Name": "Inventory Filter Tabs",
+          "Version": "0.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DzETpA2N9IY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2988\nfileID=20791",
+        "Name": "InventoryDenseGrid 0.7.4 2988 0.7.4 2026-10-18T16-35Z CN5475yaQ.zip",
+        "Size": 73712,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StrangerBro",
+          "Description": "More items on screen with compact 10- or 12-column inventory grids. Adjustable highlight border opacity and optional in-game MCM settings. Does not increase carry capacity. Requires UE4SS.",
+          "FileID": 20791,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2988/2988-1792502344-1664046338.png",
+          "IsNSFW": false,
+          "ModID": 2988,
+          "Name": "Inventory Dense Grid",
+          "Version": "0.7.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3SqQZ4hmOnE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=484\nfileID=17407",
+        "Name": "Stalker2 Ultra Plus v6.4.2 484 6.4.2 2026-08-31T21-53Z Z4ce8cXqq.zip",
+        "Size": 7620665,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SammiLucia and Lazorr",
+          "Description": "U\u002B for Stalker 2 significantly reduces the amount of noise and improves fidelity while maintaining performance. It is also a long running game of whack-a-patch every time they patch the game.",
+          "FileID": 17407,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/484/484-1733998194-186948471.png",
+          "IsNSFW": false,
+          "ModID": 484,
+          "Name": "Ultra Plus for Stalker 2",
+          "Version": "6.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FJ4Tr4TS9+Q=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1427\nfileID=16075",
+        "Name": "1. AVCR-DLC_SAFE EDITION 1427 2.0.1AVCR 2026-08-20T16-58Z GROhYOfx6.7z",
+        "Size": 94353042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shay",
+          "Description": "Visceral deaths, changed animations, realistic amounts of blood, and more nasty stuff !! Complete packages for easy use and modular packages for choosing what u want!",
+          "FileID": 16075,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1427/1427-1787226369-1082270095.png",
+          "IsNSFW": false,
+          "ModID": 1427,
+          "Name": "Shay\u0027s Audio-Visual Combat Rework (UPDATE OUT NOW - SEE PINNED POST)",
+          "Version": "2.0.1AVCR"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "68wKoP8KYzY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1948\nfileID=18473",
+        "Name": "BloodFX 1948 1.3.1 2026-09-12T12-56Z z9bxvbPQZ.zip",
+        "Size": 320295055,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cazanu",
+          "Description": "Adds a Blood VFX system in combination with Shays death animations",
+          "FileID": 18473,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1948/1948-1767798103-559278924.png",
+          "IsNSFW": false,
+          "ModID": 1948,
+          "Name": "BloodFX Gore Overhaul",
+          "Version": "1.2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V6WnmS7mMlo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1537\nfileID=17277",
+        "Name": "Distinguishable Pill Icons 1537 1.1 2026-08-30T16-09Z qaYH6YZnV.rar",
+        "Size": 53592,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pocketphoenix",
+          "Description": "This mod replaced the inventory Icons for Vinca, Hercules and Psy-Block to make them easier to distinguish. Two versions: White and Colored. Now with a third version, switching the red color to Vinca ;)",
+          "FileID": 17277,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1537/1537-1752930070-1452138896.png",
+          "IsNSFW": false,
+          "ModID": 1537,
+          "Name": "Distinguishable Pill Icons",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ol2CPm0OlEg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2347\nfileID=16231",
+        "Name": "GeigerRemastered -15db 2347 1 2026-08-22T00-21Z L6ajhaFDz.zip",
+        "Size": 23408,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlicQT",
+          "Description": "Remastered the audio for the Geiger. Geiger is deeper, and crunchier and Grounded.",
+          "FileID": 16231,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2347/2347-1787350044-349641446.jpg",
+          "IsNSFW": false,
+          "ModID": 2347,
+          "Name": "Geiger Remastered",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vFgT1ZimQoE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1836\nfileID=16393",
+        "Name": "Main File 2.0 ready 1836 3 2026-08-23T16-28Z kHyfjyUu4.7z",
+        "Size": 16738459,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "Improved puddles in any weather",
+          "FileID": 16393,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1836/1836-1764799857-1167526497.jpg",
+          "IsNSFW": false,
+          "ModID": 1836,
+          "Name": "Improved puddles in any weather UPDATE 2.0 READY",
+          "Version": "0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2pZyfCsIWfQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1771\nfileID=16889",
+        "Name": "Emission Sirens 1771 0.3.0 2026-08-27T12-35Z kHyfjyUfS.zip",
+        "Size": 1453634,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaimanov",
+          "Description": "Added the idea of a siren at the start of the Emission.",
+          "FileID": 16889,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1771/1771-1763232172-2120322333.jpg",
+          "IsNSFW": false,
+          "ModID": 1771,
+          "Name": "Kaimanov and Ace Emission Warning System",
+          "Version": "0.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FqgbepwpRd0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1471\nfileID=16700",
+        "Name": "KaimanovOTHRadarStationDuga 1471 0.0.7 2026-08-25T21-29Z YLqDlqcoZ.zip",
+        "Size": 182527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaimanov",
+          "Description": "Adds visual and sound effects for the \u00ABDuga\u00BB region and the \u00ABBurnt Forest\u00BB region.",
+          "FileID": 16700,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1471/1471-1759939635-892007751.jpg",
+          "IsNSFW": false,
+          "ModID": 1471,
+          "Name": "Kaimanov Over-the-Horizon Radar Station Duga",
+          "Version": "0.0.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H+W6EWb/iEg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2342\nfileID=16142",
+        "Name": "Kynes Commands Console 2.0 2342 2.0 2026-08-21T09-26Z YLqDlqct8.7z",
+        "Size": 518964,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KynesPeace-ZunaSW",
+          "Description": "Just a commands console I made because I don\u0027t wanna wait for updates on other console enablers or UE4SS.",
+          "FileID": 16142,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2342/2342-1787305011-963272284.png",
+          "IsNSFW": false,
+          "ModID": 2342,
+          "Name": "Kynes Commands Console",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gLZldJLSrWI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2225\nfileID=16148",
+        "Name": "Mod Configuration Menu 2.0 2225 2.0 2026-08-21T10-57Z m28tJ8Sqk.7z",
+        "Size": 7161586,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KynesPeace-ZunaSW",
+          "Description": "Adds a menu to allow players to customize their mod settings. Framework for mod authors to put settings for their mods!",
+          "FileID": 16148,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2225/2225-1778661999-1324777146.png",
+          "IsNSFW": false,
+          "ModID": 2225,
+          "Name": "Mod Configuration Menu",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hgDMr5FPqgo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1885\nfileID=16065",
+        "Name": "Remove Background Blur From Inventory 1885 1.0.0 2026-08-20T13-02Z AZIUFIKcR.7z",
+        "Size": 7492,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jzyinq",
+          "Description": "Removes blurred background while inspecting your backpack.",
+          "FileID": 16065,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1885/1885-1765662555-1334514336.jpg",
+          "IsNSFW": false,
+          "ModID": 1885,
+          "Name": "Remove Background Blur from Inventory",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nsbh3XxCcwU=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2499\nfileID=17037",
+        "Name": "Stylized Loading Screens 2499 1 2026-08-28T16-04Z L6ajhaFfG.zip",
+        "Size": 77863960,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JackieR",
+          "Description": "Simple screenshots used as loading screens is meh. This mod styles them to look like paintings.",
+          "FileID": 17037,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2499/2499-1787931324-1154576942.png",
+          "IsNSFW": false,
+          "ModID": 2499,
+          "Name": "Stylized Loading Screens",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AOW5viAkwYg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2011\nfileID=16234",
+        "Name": "260 Models Per Tick 2011 1.2.1 2026-08-22T01-36Z IcAJ4Arn1.zip",
+        "Size": 11446,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LetsWoolgather - SnappyAW",
+          "Description": "Adjusting OnlineDirectorModelsPerTick which from what I can gather is likely related to batch size. This helps smooth out frametime and limit spikes/latency. Currently Vanilla S2 is set to 20, possible due to console limitations or maybe they just forgot to go back and profile after further optimizations.",
+          "FileID": 16234,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2011/2011-1769981835-1896949715.jpg",
+          "IsNSFW": false,
+          "ModID": 2011,
+          "Name": "Frametime Stabilization",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QwgShM4rq5I=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=433\nfileID=12473",
+        "Name": "Better Stamina 3.01-433-3-01-1763948628.zip",
+        "Size": 64284,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "J412536987",
+          "Description": "PATCH 2.0 TESTED - Six Configurations to choose from! Sick of your stamina draining too quickly? This mod overhauls stamina consumption rates to allow you to sprint for longer distances and use less stamina for Melee, Jumping, and Vaulting.",
+          "FileID": 12473,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/433/433-1754922762-1498091850.png",
+          "IsNSFW": false,
+          "ModID": 433,
+          "Name": "Better Stamina Usage (Longer Sprinting - Stamina Overhaul)",
+          "Version": "3.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QKmwce1D94c=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=731\nfileID=17378",
+        "Name": "Tan CAG Style - Vanilla and Monolith 731 2 2026-08-31T16-42Z RqxkLxs6D.zip",
+        "Size": 56150171,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CrabsJohnson",
+          "Description": "A pack of six AR416 retextures with realistic markings for each. Includes replacers for both vanilla and Monolith DLC skins.",
+          "FileID": 17378,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/731/731-1734897428-1938162562.png",
+          "IsNSFW": false,
+          "ModID": 731,
+          "Name": "AR416 Skins Pack - Real Markings and Recolors for Vanilla and Monolith Skins (2.0 Ready)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QtYtBdML8t0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=100\nfileID=18150",
+        "Name": "Axxii\u0027s Stealth Mod for 2.0 100 2.5 2026-09-09T13-35Z kHyfjyLZb.7z",
+        "Size": 4314,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Axxii",
+          "Description": "This mod aims to fix the \u0022stealth\u0022 in this game, making harder for NPCs to spot you on different weather conditions and different player positions (walk, crouch, etc.)",
+          "FileID": 18150,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/100/100-1751587308-750761068.png",
+          "IsNSFW": false,
+          "ModID": 100,
+          "Name": "Axxii\u0027s Stealth Mod (Patch 2.0)",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VzxHLGTrIxg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2907\nfileID=19986",
+        "Name": "betterMelee 2907 1 2026-10-02T16-21Z YLqDlqurR.rar",
+        "Size": 926,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "devryTrost",
+          "Description": "Almost double range, and much more significant damage. You won\u0027t be using the knife against Burers or Exo-Troops, but it will at least take out dogs, now.",
+          "FileID": 19986,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2907/2907-1790957992-902790554.jpg",
+          "IsNSFW": false,
+          "ModID": 2907,
+          "Name": "betterMelee - Melee range Melee Damage",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VYc/G2QUF8U=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1454\nfileID=19701",
+        "Name": "FirstAidRed (2.0) 1454 2.0 2026-09-28T12-58Z Z4ce8cXff.rar",
+        "Size": 3391472,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Retexture changes the appearance of containers in which you can find medicines. (1.8 ready)",
+          "FileID": 19701,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1454/1454-1751596493-1529718897.png",
+          "IsNSFW": false,
+          "ModID": 1454,
+          "Name": "First Aid Retexture By NiutoN",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O2VuZV9vGkQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=562\nfileID=17605",
+        "Name": "FMAO - Gamepad Sensitivity Fix 562 1 2026-09-02T22-36Z z9bxvbPhK.zip",
+        "Size": 940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "Improves overall movement mechanics and aiming/sensitivity fixes without breaking mod compatibility. Refined vaulting with tuned angles, distance, and obstacle detection, balanced stamina consumption, smoother turning/aiming for 1:1 feel with mouse and water slowdown removed, and improved air control.",
+          "FileID": 17605,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/562/562-1790796198-1273799915.png",
+          "IsNSFW": false,
+          "ModID": 562,
+          "Name": "Fluid Movement and Aiming Overhaul - Better Look Controls - Improved Vaulting - Movement - Stamina - Optional Gameplay Fixes",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zha7GzLFI+U=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1895\nfileID=20012",
+        "Name": "Immersive HUD 1895 5.0.2 2026-10-02T22-57Z SzQOdQrnq.7z",
+        "Size": 335310,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jzyinq",
+          "Description": "Immersive Mode, but better. Read the description! Works with controllers too.",
+          "FileID": 20012,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1895/1895-1766325358-1335129273.png",
+          "IsNSFW": false,
+          "ModID": 1895,
+          "Name": "Immersive HUD",
+          "Version": "4.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KALu4YAZXzk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2407\nfileID=16572",
+        "Name": "No-Mutant-Disable-05 2407 0.5 2026-08-24T22-01Z RqxkLxAFa.zip",
+        "Size": 7874,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "onikenobi",
+          "Description": "Mutant roars and grenades no longer disable your movement or slow time",
+          "FileID": 16572,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2407/2407-1787608807-395463627.png",
+          "IsNSFW": false,
+          "ModID": 2407,
+          "Name": "No Disable from Mutants or Grenades",
+          "Version": "0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eeDJKibrFCs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1919\nfileID=17230",
+        "Name": "Sota - Faster Reload ADS Equip (2.0 Ready) 1919 1.4 2026-08-30T11-11Z AZIUFIKQX.zip",
+        "Size": 9336,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sota",
+          "Description": "Speeds up weapon animations: Reload/Unjamming, Aiming, Equip/Unequip. Including DLC weapons.",
+          "FileID": 17230,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1919/1919-1767244118-1412179308.png",
+          "IsNSFW": false,
+          "ModID": 1919,
+          "Name": "Sota - Faster Reload ADS Equip (2.0 Ready - bpatch)",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kttB9BNoZmc=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1935\nfileID=17248",
+        "Name": "Sota - Zero Weight Quest Items (2.0 Ready) 1935 1.2 2026-08-30T12-42Z vusaOsCIK.zip",
+        "Size": 6035,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sota",
+          "Description": "Removes the weight of all quest items using the more compatible {bpatch} method. Also removes patch weight for the Factions Patch mod.",
+          "FileID": 17248,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1935/1935-1772708955-1615881360.png",
+          "IsNSFW": false,
+          "ModID": 1935,
+          "Name": "Sota - Zero Weight Quest Items (1.8 Ready - bpatch)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9rKwU5YV4PU=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1427\nfileID=16654",
+        "Name": "2. AVCR x BLOODFX 1427 2.0.0 2026-08-25T16-22Z 8nmpUmQFY.zip",
+        "Size": 30436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shay",
+          "Description": "Visceral deaths, changed animations, realistic amounts of blood, and more nasty stuff !! Complete packages for easy use and modular packages for choosing what u want!",
+          "FileID": 16654,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1427/1427-1787226369-1082270095.png",
+          "IsNSFW": false,
+          "ModID": 1427,
+          "Name": "Shay\u0027s Audio-Visual Combat Rework (UPDATE OUT NOW - SEE PINNED POST)",
+          "Version": "2.0.1AVCR"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XCRFbdvIq7Q=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2573\nfileID=17547",
+        "Name": "Faster Item Info Panel 2.0 2573 2.0 2026-09-02T13-00Z UeJBEJF5q.7z",
+        "Size": 8691,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KynesPeaceZunaSW",
+          "Description": "Instant item info panel. Why? Because it was too slow and some mods of mine require it to be FAST.",
+          "FileID": 17547,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2573/2573-1788353967-1491371623.png",
+          "IsNSFW": false,
+          "ModID": 2573,
+          "Name": "Faster Item Info Panel",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B8df2Oo+hoE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2856\nfileID=20369",
+        "Name": "Flash Royal Markers 2856 1.0.3 2026-10-09T22-13Z rPKd1Kt0R.zip",
+        "Size": 8880943,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HunterPunk13",
+          "Description": "Marks all 77 upgrade flash drives on the PDA map for the Flash Royal achievement and hides the ones you already found. Find them yourself, inside the game, without a second-screen map.",
+          "FileID": 20369,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2856/2856-1790545331-266647106.jpg",
+          "IsNSFW": false,
+          "ModID": 2856,
+          "Name": "Flash Royal - Flash Drives on the PDA Map",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9EoU16YVREw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3008\nfileID=20694",
+        "Name": "InventoryShiftTransfer 0.10.2 3008 0.10.2 2026-10-16T23-36Z SzQOdQrJa.zip",
+        "Size": 20936,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StrangerBro",
+          "Description": "Hold Shift and sweep the cursor across items to transfer whole stacks in stash, loot and trade screens. The first item transfers immediately; continuous hover starts after a short hold. Requires a compatible UE4SS installation.",
+          "FileID": 20694,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3008/3008-1792503841-187918959.png",
+          "IsNSFW": false,
+          "ModID": 3008,
+          "Name": "Inventory Shift Transfer",
+          "Version": "0.10.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7Hrt53sUdoE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=994\nfileID=18760",
+        "Name": "BlackScopeRingRemoval 994 2.0.2 2026-09-15T18-27Z QbSG9SKJn.zip",
+        "Size": 151249,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "1Armageddon1",
+          "Description": "Removes the hard coded black ring inside zoom scopes when using custom weapon socket positions or custom viewmodel FOVs less than 1.",
+          "FileID": 18760,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/994/994-1735105132-777660180.png",
+          "IsNSFW": false,
+          "ModID": 994,
+          "Name": "Arm\u0027s Zoom Scope and Optic Black Ring Removal 2.0.4 Compatible",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pVHxSASSPxM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2085\nfileID=16815",
+        "Name": "Main 2.0 2085 3 2026-08-26T22-27Z 2UnionzlR.7z",
+        "Size": 327452,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "Removing dust clouds that reduce frame rates and ruin the overall image clarity",
+          "FileID": 16815,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2085/2085-1771780983-1092659727.jpg",
+          "IsNSFW": false,
+          "ModID": 2085,
+          "Name": "Dust clouds removal (FPS boost) 2.0 UPDATE",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ifrl7kaxMPg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2287\nfileID=16166",
+        "Name": "Inventory Walk 2287 2.0 2026-08-21T13-36Z kHyfjyUPP.7z",
+        "Size": 9593,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KynesPeace-ZunaSW",
+          "Description": "Tired of opening your inventory or PDA whiles walking and it stops your character\u0027s movement? Me too. That\u0027s why I did this mod. Walk, and keep your inventory and PDA open.",
+          "FileID": 16166,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2287/2287-1782208224-1665237680.png",
+          "IsNSFW": false,
+          "ModID": 2287,
+          "Name": "Inventory Walk",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5sIZiaLRotI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1301\nfileID=17483",
+        "Name": "1. Living Zone Complete 1301 2.1.0 2026-09-01T20-05Z UeJBEJFKZ.7z",
+        "Size": 74262,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shay",
+          "Description": "The complete and ultimate a-life overhaul for stalker 2, spawn bubble reduced to minimal, lair and faction/mutant movement increased, regional spawns, unlocked factions, unlocked mutants and tons more!",
+          "FileID": 17483,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1301/1301-1765299362-641785968.png",
+          "IsNSFW": false,
+          "ModID": 1301,
+          "Name": "Shay\u0027s Living Zone (UPDATE OUT NOW)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9Nu4K6cMFLE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2059\nfileID=17094",
+        "Name": "CinematicFX 2059 2.0 2026-08-29T03-01Z NfXmIXilx.zip",
+        "Size": 20219038,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cazanu",
+          "Description": "Cinematic more impactfull bullet hits and explosions",
+          "FileID": 17094,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2059/2059-1771418625-1819653750.jpg",
+          "IsNSFW": false,
+          "ModID": 2059,
+          "Name": "CinematicFX",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4S/tuOnIZfs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=147353\nfileID=738948",
+        "Name": "Mod Version Fixer-147353-1-3-1775438558.zip",
+        "Size": 3962,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bottle",
+          "Description": "MO2 Tool to check and update meta data for a users installed mods that fixes version number warnings from Authors that do not update the latest version number correctly on nexus.",
+          "FileID": 738948,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/147353/147353-1744396648-412346185.png",
+          "IsNSFW": false,
+          "ModID": 147353,
+          "Name": "Mod Version Fixer for Mo2 (Mod Organizer 2)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ne8JAUxLC7s=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=877\nfileID=17051",
+        "Name": "Monolith Wpn Retex All-In-One Ver2 877 2.0 2026-08-28T21-03Z UeJBEJ9fg.7z",
+        "Size": 16260780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaedhrosTheSixth",
+          "Description": "Just a simple camo recolor for the Monolith weapons from the deluxe/ultimate editions to something more lore friendly. Updated for game version 2.0.",
+          "FileID": 17051,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/877/877-1734288705-1993993669.jpeg",
+          "IsNSFW": false,
+          "ModID": 877,
+          "Name": "Monolith Weapon Camo Retexture",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4GZdA723Uyw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1648\nfileID=16243",
+        "Name": "Alternative Detector Sizes 1x2 1648 2.0 2026-08-22T07-37Z UeJBEJ9i9.zip",
+        "Size": 354336,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PieceMaker085",
+          "Description": "Alternative inventory slot sizes for Detectors.",
+          "FileID": 16243,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1648/1648-1787384451-937951441.jpg",
+          "IsNSFW": false,
+          "ModID": 1648,
+          "Name": "Alternative Detector Sizes",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TFjHHYtDjuk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2022\nfileID=19153",
+        "Name": "PointOfNoReturn-BackpacksPack 2022 1.7 2026-09-20T23-57Z lh6Cy6x63.zip",
+        "Size": 227205702,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PNR Team",
+          "Description": "In the Zone, a backpack isn\u2019t about style. It\u2019s about survival skills: where your essentials are, how much you can carry, how fast you can grab what matters, and whether a run turns into suffering.",
+          "FileID": 19153,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2022/2022-1770154156-1408631955.jpg",
+          "IsNSFW": false,
+          "ModID": 2022,
+          "Name": "Backpacks",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1aHm48IRAt8=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3045\nfileID=20850",
+        "Name": "BrightHighlight 3045 1 2026-10-20T08-19Z RqxkLxsAm.rar",
+        "Size": 16994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nazukios",
+          "Description": "Brightens up the Hightlight inside your Inventory, when hovering over a Attachment or Ammo, to see what Weapon can use it.",
+          "FileID": 20850,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3045/3045-1792484288-584244186.png",
+          "IsNSFW": false,
+          "ModID": 3045,
+          "Name": "Bright Inventory Highlights",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yZdpYMj8TbA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2404\nfileID=16569",
+        "Name": "Compass on the bottom 2404 1.0 2026-08-24T21-08Z e3oKposGO.zip",
+        "Size": 6023,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FellowDemo",
+          "Description": "Moves the compass to the bottom of the screen",
+          "FileID": 16569,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2404/2404-1787605682-2106965441.png",
+          "IsNSFW": false,
+          "ModID": 2404,
+          "Name": "Compass on the bottom",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yIjTQJgcLhc=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2875\nfileID=19845",
+        "Name": "Faction Uniforms - Monolith 2875 1 2026-09-30T15-39Z uGMlxMzOu.7z",
+        "Size": 469063924,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the Monolith\u0027s faction uniforms and equipment.",
+          "FileID": 19845,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2875/2875-1790782506-1089104789.png",
+          "IsNSFW": false,
+          "ModID": 2875,
+          "Name": "Faction Uniforms - Monolith",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m4B4g4G/YDg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=562\nfileID=17609",
+        "Name": "FMAO - No ADS Aim Block 562 1 2026-09-02T22-39Z UeJBEJFQ3.zip",
+        "Size": 567,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "Improves overall movement mechanics and aiming/sensitivity fixes without breaking mod compatibility. Refined vaulting with tuned angles, distance, and obstacle detection, balanced stamina consumption, smoother turning/aiming for 1:1 feel with mouse and water slowdown removed, and improved air control.",
+          "FileID": 17609,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/562/562-1790796198-1273799915.png",
+          "IsNSFW": false,
+          "ModID": 562,
+          "Name": "Fluid Movement and Aiming Overhaul - Better Look Controls - Improved Vaulting - Movement - Stamina - Optional Gameplay Fixes",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u1vnTZL4ptE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1686\nfileID=16239",
+        "Name": "Larger Consumables 1686 2.01 2026-08-22T05-49Z lh6Cy6mTC.zip",
+        "Size": 492848,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PieceMaker085",
+          "Description": "Changes consumable sprites to a new larger version that is more consistent with the general look of other items",
+          "FileID": 16239,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1686/1686-1787351889-1244748799.jpg",
+          "IsNSFW": false,
+          "ModID": 1686,
+          "Name": "Larger Consumables",
+          "Version": "2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V0PmgQ5OR6A=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=395\nfileID=16303",
+        "Name": "NoHideAndSeek 395 0.0.3 2026-08-22T19-17Z z9bxvbDJi.zip",
+        "Size": 1169,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KeinZantezuken",
+          "Description": "Mod disables invisibility of Bloodsuckers",
+          "FileID": 16303,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/395/395-1732704337-975027548.jpeg",
+          "IsNSFW": false,
+          "ModID": 395,
+          "Name": "No Hide and Seek",
+          "Version": "0.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eBabr/DtLs0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2555\nfileID=17409",
+        "Name": "Quieter Exoskeleton Footsteps (Game v2.0.4) 2555 1 2026-08-31T22-11Z L6ajhaGKQ.zip",
+        "Size": 1619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RUSJONERAP",
+          "Description": "Makes exoskeleton footsteps quieter and less robotic by replacing them with the standard heavy armor sound. Compatible with S.T.A.L.K.E.R. 2 v2.0.4.",
+          "FileID": 17409,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2555/2555-1788214112-2106778584.png",
+          "IsNSFW": false,
+          "ModID": 2555,
+          "Name": "Quieter Exoskeleton Footsteps",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zB95hT+hgzk=",
+        "Meta": "[General]\ndirectURL=https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/x64-latest/dsound-x64.zip",
+        "Name": "dsound-x64.zip",
+        "Size": 3616407,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/x64-latest/dsound-x64.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4fHjoVG1b+o=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2561\nfileID=20207",
+        "Name": "PriceDropVariants 2561 3.6 2026-10-06T13-50Z lh6Cy6x4v.7z",
+        "Size": 232508,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Moonvvell",
+          "Description": "CollectOwl adds 237 collectible (and sellable!) items to the Zone: minerals on museum stands, bird feathers, pressed herbarium leaves, butterflies pinned under glass, chess pieces, enamel badges, vintage postcards, dried mushrooms \u2014 twelve complete collections, plus hundreds of little things somebody once carried across the Perimeter.",
+          "FileID": 20207,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2561/2561-1788444473-1599618518.jpg",
+          "IsNSFW": false,
+          "ModID": 2561,
+          "Name": "CollectOwl",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n00YsaElLBg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=562\nfileID=17608",
+        "Name": "FMAO - No Camera Shake 562 1 2026-09-02T22-38Z bdzRszVWI.zip",
+        "Size": 1028,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "Improves overall movement mechanics and aiming/sensitivity fixes without breaking mod compatibility. Refined vaulting with tuned angles, distance, and obstacle detection, balanced stamina consumption, smoother turning/aiming for 1:1 feel with mouse and water slowdown removed, and improved air control.",
+          "FileID": 17608,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/562/562-1790796198-1273799915.png",
+          "IsNSFW": false,
+          "ModID": 562,
+          "Name": "Fluid Movement and Aiming Overhaul - Better Look Controls - Improved Vaulting - Movement - Stamina - Optional Gameplay Fixes",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Yr3eYNABTgw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2032\nfileID=19834",
+        "Name": "Antonio Correia 2.0 2032 2.0 2026-09-30T10-03Z AZIUFI5cf.rar",
+        "Size": 968738,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Real Murals of ZoneAntonio Correia just yet",
+          "FileID": 19834,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2032/2032-1790664398-2034429029.png",
+          "IsNSFW": false,
+          "ModID": 2032,
+          "Name": "Murals Of The Zone",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nc+eqEcSxeM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2653\nfileID=18205",
+        "Name": "MvvUINotificationFramework.1.1 2653 1.1 2026-09-10T07-44Z oEertemfu.7z",
+        "Size": 113584,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Moonvvell",
+          "Description": "MvvUINotificationFramework (MvvUINF) On-screen notifications for S.T.A.L.K.E.R. 2 Blueprint mods \u2014 a shared toast queue with styles, plus key-based localization, so every mod can show messages that look the same and speak the player\u0027s language.",
+          "FileID": 18205,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2653/2653-1788857365-922800228.jpg",
+          "IsNSFW": false,
+          "ModID": 2653,
+          "Name": "MvvUINotificationFramework",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8piJGmy7tuo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=973\nfileID=13446",
+        "Name": "Rant - Medics Trade More Items-973-2-0-1-1766912667.zip",
+        "Size": 945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rantanplan76",
+          "Description": "Medics sell now more Items like Hercules, Vinca, Psyblocker and all Medkits (higher chance is depending on the Medic Rank)",
+          "FileID": 13446,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/973/973-1734943751-2057735994.jpeg",
+          "IsNSFW": false,
+          "ModID": 973,
+          "Name": "Rant - Medics Trade More Items like Vinca Hercules Psyblock etc",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JaEIKv8azHM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2411\nfileID=18357",
+        "Name": "DLC_Ambient_Combat_Global_Rotation_2_0_5 2411 2 2026-09-11T17-09Z uGMlxMzQ1.zip",
+        "Size": 2150852393,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DooMDM",
+          "Description": "Restores the ambient music replacement for S.T.A.L.K.E.R. 2 Update 2.0. Replaces base game ambient tracks with ambient from MoozE and Omelchuk. DLC music is not changed. \u0417\u0430\u043C\u0435\u043D\u0430 \u0437\u0430\u0433\u043B\u0430\u0432\u043D\u043E\u0439 \u043A\u043E\u043C\u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432 \u043C\u0435\u043D\u044E \u043D\u0430 \u043A\u043E\u043C\u043F\u043E\u0437\u0438\u0446\u0438\u044E \u043E\u0442 MoozE: MoozE - Stalker - Wasteland II",
+          "FileID": 18357,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2411/2411-1787613127-2026413306.png",
+          "IsNSFW": false,
+          "ModID": 2411,
+          "Name": "Replacing ambient with ambient from MoozE and Omelchuk  2.0",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qJQtBxFTMsQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2480\nfileID=17013",
+        "Name": "Skip Prologue 1.1 2480 1.1 2026-08-28T12-16Z kHyfjyUFv.zip",
+        "Size": 820,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hwkmod",
+          "Description": "Skip prologue when starting a new game, and go straight to meet Ritcher.",
+          "FileID": 17013,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2480/2480-1787868504-1539558216.jpg",
+          "IsNSFW": false,
+          "ModID": 2480,
+          "Name": "Skip Prologue (2.0 Ready)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xgHWJkdBYLA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2628\nfileID=19610",
+        "Name": "SurvivalDebuffs 2628 1.4 2026-09-27T11-15Z RqxkLxscn.zip",
+        "Size": 6012,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Komahan",
+          "Description": "Hunger and sleepiness are easy to ignore in vanilla, and food doubles as a pocket medkit. This is not a hardcore mod - it just makes all three matter: real stamina penalties when hungry, tremor and weapon sway when exhausted, and food that heals half as much.",
+          "FileID": 19610,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2628/2628-1788704363-1951758599.png",
+          "IsNSFW": false,
+          "ModID": 2628,
+          "Name": "Survival Debuffs",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n/TjIXq7fcg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1385\nfileID=17950",
+        "Name": "X7 Suit - Black (Skif\u0027s Cinematic) 1385 2.0 2026-09-06T19-37Z sMvLGvQMK.7z",
+        "Size": 40116478,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gerard1111 - TonyShor",
+          "Description": "Retexturing of the X7 armor in two versions : Black (Skif\u0027s Cinematic) Green (Cover Art) and an optional X7 custom version",
+          "FileID": 17950,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1385/1385-1747647963-220903842.png",
+          "IsNSFW": false,
+          "ModID": 1385,
+          "Name": "X7 Suit - Black (Skif\u0027s Cinematic) or Green (Cover Art)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oe2FgJ1ATbQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2406\nfileID=16781",
+        "Name": "FasterLooting-05 2406 0.5 2026-08-26T17-38Z qaYH6YZ6A.zip",
+        "Size": 580767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "onikenobi",
+          "Description": "Hold Shift and mouse over items for faster looting",
+          "FileID": 16781,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2406/2406-1787608286-1546265795.png",
+          "IsNSFW": false,
+          "ModID": 2406,
+          "Name": "Faster Looting",
+          "Version": "0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T7fqBby+HaQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1706\nfileID=16754",
+        "Name": "KaimanovTerrorEmission 1706 0.5.0 2026-08-26T13-38Z HTDA5De5r.zip",
+        "Size": 13637915,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaimanov",
+          "Description": "The modification makes the Emission effect at the Generators more grand.",
+          "FileID": 16754,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1706/1706-1762647079-657494469.jpg",
+          "IsNSFW": false,
+          "ModID": 1706,
+          "Name": "Kaimanov Terror Emission",
+          "Version": "0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cS1kyapHlmY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2291\nfileID=16699",
+        "Name": "KaimanovEmissionLightningStorm 2291 2.0 2026-08-25T21-26Z CN5475t1L.zip",
+        "Size": 663776,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaimanov",
+          "Description": "The modification creates more lightning during an Emission.",
+          "FileID": 16699,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2291/2291-1782611334-1627433884.jpg",
+          "IsNSFW": false,
+          "ModID": 2291,
+          "Name": "Kaimanov Emission Lightning Storm",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c1cELZh3Qqs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1433\nfileID=16112",
+        "Name": "Main File UPDATE 2.0 1433 4 2026-08-20T21-36Z iBgSrgx0a.7z",
+        "Size": 120309587,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "The mod replaces some trees, increasing the number of coniferous trees, bringing the flora closer to that found in the real Chernobyl Zone.",
+          "FileID": 16112,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1433/1433-1778611148-1028100628.jpg",
+          "IsNSFW": false,
+          "ModID": 1433,
+          "Name": "More Realistic Forest (UPDATE 2.0)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zZXQKRWxFFM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2458\nfileID=16913",
+        "Name": "Instant Intel 2458 1 2026-08-27T16-19Z L6ajhaFj9.zip",
+        "Size": 69080,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ckNOMAD",
+          "Description": "Automatically opens newly collected notes and intel in the PDA outside combat, clears the redundant notification, It also lets Tab close the PDA and inventory as well as the escape key. Audio logs and stash discoveries remain uninterrupted.",
+          "FileID": 16913,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2458/2458-1787832211-187306909.png",
+          "IsNSFW": false,
+          "ModID": 2458,
+          "Name": "Instant Intel",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VaA4WHFC8SA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2824\nfileID=19571",
+        "Name": "Faction Uniforms - Corps 2824 1 2026-09-26T21-10Z qaYH6YM9E.7z",
+        "Size": 287171995,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the Corps faction uniforms and equipment.",
+          "FileID": 19571,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2824/2824-1790456004-555390224.png",
+          "IsNSFW": false,
+          "ModID": 2824,
+          "Name": "Faction Uniforms - Corps",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k444SXJAR8E=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2360\nfileID=16348",
+        "Name": "Slightly Slower No Slow Bullets 2360 2 2026-08-23T10-53Z JoU03UdVe.zip",
+        "Size": 535,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElephoontOfTheShapes",
+          "Description": "(UPDATE: Compatibility) Increases bullet velocity by 3x (1.75x optional) while vanilla balance remains the same. Now enemies no longer outwalk bullets, so you don\u0027t have to constantly lead your shots at close to medium range. Grenade launchers are unaffected. Safe to uninstall.",
+          "FileID": 16348,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2360/2360-1787440560-902269879.jpg",
+          "IsNSFW": false,
+          "ModID": 2360,
+          "Name": "Faster Bullet Speed - No More Slow-Motion Bullets",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dXbXJhjF8HA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1674\nfileID=19335",
+        "Name": "Player Gestures 2.2.1 1674 2.2.1 2026-09-23T13-14Z KVr9wrpIi.zip",
+        "Size": 576182,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hwkmod",
+          "Description": "Gestures, Weapon Stances and Sit Anywhere made available to players",
+          "FileID": 19335,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1674/1674-1759425275-947602595.jpg",
+          "IsNSFW": false,
+          "ModID": 1674,
+          "Name": "Gestures - Weapon Stances - Sit Anywhere",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MOMeMvUmERs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2565\nfileID=19385",
+        "Name": "grEdit - Better NPC AI - V3.1.0 - FOMOD 2565 3.1.0 2026-09-24T00-52Z qaYH6YMju.zip",
+        "Size": 452546,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OlderGreg",
+          "Description": "NPCs actually notice you, chase whoever\u0027s actually shooting at them, and stop feeling like reskinned copies of each other. Military types are professionals, bandits run on numbers, snipers actually snipe, suppressors matter, and grenades come out less. Seven files, mix and match, only the base is required. - A-Life mod compatible! 2.0.5 Compatible",
+          "FileID": 19385,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2565/2565-1788289907-447817535.jpg",
+          "IsNSFW": false,
+          "ModID": 2565,
+          "Name": "grEdit - NPC AI Redux",
+          "Version": "2.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "04oL0tjKYTI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2396\nfileID=18273",
+        "Name": "Grounded Combat AIO v0.2.2 - Recommended 2396 0.2.2 2026-09-10T22-31Z X7N8ANHtJ.zip",
+        "Size": 4593,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lutzelodeon",
+          "Description": "Enemy-side combat rebalance for S.T.A.L.K.E.R. 2 v2.0.5. Reduces laser-focused opening fire, excessive NPC weapon reach, and selected health pools. Choose the Recommended or Relaxed AIO, or build a modular setup. Player stats and weapons remain untouched.",
+          "FileID": 18273,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2396/2396-1787947258-1601191378.jpg",
+          "IsNSFW": false,
+          "ModID": 2396,
+          "Name": "Grounded Combat - Modular NPC Accuracy Ballistics and Toughness Rebalance",
+          "Version": "0.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "75kFG14U+RQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2222\nfileID=15534",
+        "Name": "Windows-2222-1-1778622637.rar",
+        "Size": 90499431,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "The mod recreates the flora of the real Chornobyl Zone and is a mix of my various mods.",
+          "FileID": 15534,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2222/2222-1778622395-28116873.jpg",
+          "IsNSFW": false,
+          "ModID": 2222,
+          "Name": "Real Chornobyl Zone By PanKotan",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uL66M6JIB+g=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1642\nfileID=19309",
+        "Name": "Sleeping Bag Mod 3.1 1642 3.1 2026-09-23T05-12Z DjHICHlb9.zip",
+        "Size": 624874,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hwkmod",
+          "Description": "A portable Sleeping Bag with multiple options: Use in shelters only, Campfires, Health regen, Autosave, Sleep time etc...",
+          "FileID": 19309,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1642/1642-1758536278-1582103122.jpg",
+          "IsNSFW": false,
+          "ModID": 1642,
+          "Name": "Sleeping Bag Mod",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OGJglQ/aVkw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1932\nfileID=13617",
+        "Name": "Sota - Increase Dialogue Distance (1.8 Ready)-1932-1-0-1767499564.zip",
+        "Size": 10927,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sota",
+          "Description": "Increases interaction distance with NPCs.",
+          "FileID": 13617,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1932/1932-1772708829-1652810948.png",
+          "IsNSFW": false,
+          "ModID": 1932,
+          "Name": "Sota - Increase Dialogue Distance (1.8 Ready - bpatch)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IEuYbcmcF5E=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2846\nfileID=20199",
+        "Name": "SurvivalHUD 2846 1.5 2026-10-06T09-21Z L6ajhaGc2.zip",
+        "Size": 65528,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Komahan",
+          "Description": "Hunger(satiety) and sleepiness(vigor) bars in the HUD",
+          "FileID": 20199,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2846/2846-1790618561-1532411884.jpg",
+          "IsNSFW": false,
+          "ModID": 2846,
+          "Name": "Survival HUD",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HFA+1iMpKMw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3008\nfileID=20633",
+        "Name": "InventoryFlickerFix 0.3.1 3008 0.3.1 2026-10-15T17-31Z L6ajhaGjf.zip",
+        "Size": 28293,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StrangerBro",
+          "Description": "Hold Shift and sweep the cursor across items to transfer whole stacks in stash, loot and trade screens. The first item transfers immediately; continuous hover starts after a short hold. Requires a compatible UE4SS installation.",
+          "FileID": 20633,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3008/3008-1792503841-187918959.png",
+          "IsNSFW": false,
+          "ModID": 3008,
+          "Name": "Inventory Shift Transfer",
+          "Version": "0.10.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xN3b1+BIV+4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2468\nfileID=18306",
+        "Name": "NoStashAutoSort 2468 0.12 2026-09-11T03-56Z sMvLGvQTj.zip",
+        "Size": 66908,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JohnPreston",
+          "Description": "Stops the personal stash from automatically rearranging its contents whenever the inventory screen opens",
+          "FileID": 18306,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2468/2468-1787839946-245284816.jpg",
+          "IsNSFW": false,
+          "ModID": 2468,
+          "Name": "No Personal Stash Auto Sort",
+          "Version": "0.11"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sXOk7975sBY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2561\nfileID=19398",
+        "Name": "Project Itemization Reborn compatibillity patch 2561 3.5 2026-09-24T07-57Z iBgSrgob0.zip",
+        "Size": 2436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Moonvvell",
+          "Description": "CollectOwl adds 237 collectible (and sellable!) items to the Zone: minerals on museum stands, bird feathers, pressed herbarium leaves, butterflies pinned under glass, chess pieces, enamel badges, vintage postcards, dried mushrooms \u2014 twelve complete collections, plus hundreds of little things somebody once carried across the Perimeter.",
+          "FileID": 19398,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2561/2561-1788444473-1599618518.jpg",
+          "IsNSFW": false,
+          "ModID": 2561,
+          "Name": "CollectOwl",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fllkwe/kpaU=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=19133",
+        "Name": "FNS STALKER2 MO2 Support 2376 2.0.6.4 2026-09-20T15-01Z QbSG9SKS7.zip",
+        "Size": 22002,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 19133,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9db6ZgGCu3M=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2209\nfileID=17346",
+        "Name": "PointOfNoReturn-ArGogglesPack 2209 1.5 2026-08-31T13-31Z SzQOdQrvm.zip",
+        "Size": 205194160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PNR Team",
+          "Description": "The Zone does not favor those who rely on their eyes alone.",
+          "FileID": 17346,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2209/2209-1777943228-854149885.png",
+          "IsNSFW": false,
+          "ModID": 2209,
+          "Name": "AR Goggles",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GG/q6lw7Dok=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2359\nfileID=16309",
+        "Name": "Centered Inventory 2359 2.0 2026-08-22T21-32Z Ep3Pi3uSj.zip",
+        "Size": 6759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FellowDemo",
+          "Description": "Simple mod that centers inventory. Update 2.0 version.",
+          "FileID": 16309,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2359/2359-1787434336-1574447585.png",
+          "IsNSFW": false,
+          "ModID": 2359,
+          "Name": "Centered Inventory 2.0",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nZy+s5ecZJY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2574\nfileID=20168",
+        "Name": "ST_Ambient_V3 2574 3.1 2026-10-05T18-27Z RqxkLxsf4.rar",
+        "Size": 3232875645,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ValeraMETH",
+          "Description": "\u0417\u0430\u043C\u0435\u043D\u044F\u0435\u0442 \u0432\u0430\u043D\u0438\u043B\u044C\u043D\u044B\u0439 \u044D\u043C\u0431\u0438\u0435\u043D\u0442 \u0438\u0433\u0440\u044B",
+          "FileID": 20168,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2574/2574-1788361330-501188521.png",
+          "IsNSFW": false,
+          "ModID": 2574,
+          "Name": "Complete Ambient Music Overhaul (2.0 Ready)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ThqXjKnZNiI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2719\nfileID=20106",
+        "Name": "Faster Knockdown Recovery 2719 1.2 2026-10-04T06-07Z RqxkLxswd.zip",
+        "Size": 14941,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shaggy_One",
+          "Description": "Halves the time it takes to get up from knockdown.",
+          "FileID": 20106,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2719/2719-1789290491-1380165589.jpg",
+          "IsNSFW": false,
+          "ModID": 2719,
+          "Name": "Faster Knockdown Recovery",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iSWgXC1Gg20=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2993\nfileID=20784",
+        "Name": "GutFeeling 1.2.0 2993 1.2.0 2026-10-18T12-30Z HTDA5D6Rv.zip",
+        "Size": 1798280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vselenziaurum",
+          "Description": "The game warns you when a human spots you, but not about mutants. Gut Feeling does: when a boar, dog, bloodsucker or any mutant within 50 m locks onto you while you look away, a whisper comes from its side and the game\u0027s own detection arc blinks towards it and follows it. Mutants in front of you stay quiet. Either switches off in MCM. No UE4SS.",
+          "FileID": 20784,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2993/2993-1791878597-1883272997.png",
+          "IsNSFW": false,
+          "ModID": 2993,
+          "Name": "Gut Feeling. Sense the Mutant Behind You",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M0OOzps9HvA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2610\nfileID=17860",
+        "Name": "NoButtWear 2610 1 2026-09-05T21-16Z V1PsQPgTi.zip",
+        "Size": 908,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gealsander",
+          "Description": "Minor QoL improvement: buttstroke strikes no longer reduce weapon durability",
+          "FileID": 17860,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2610/2610-1788642951-1693403392.png",
+          "IsNSFW": false,
+          "ModID": 2610,
+          "Name": "NoButtWear",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c3nGfxuyMpg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1922\nfileID=20431",
+        "Name": "Parcel Box Clean 1922 2.0 2026-10-11T07-19Z rPKd1KtTe.rar",
+        "Size": 6764071,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Parcel Box Retexture by NiutoN",
+          "FileID": 20431,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1922/1922-1767520662-941897245.png",
+          "IsNSFW": false,
+          "ModID": 1922,
+          "Name": "Parcel Box Retexture by NiutoN",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YZeev0/soq0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1933\nfileID=14484",
+        "Name": "Sota - No Dialogue Zoom (1.8 Ready)-1933-1-2-1770881979.zip",
+        "Size": 4388,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sota",
+          "Description": "Removes zoom during dialogue with NPCs.",
+          "FileID": 14484,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1933/1933-1767503581-56511476.png",
+          "IsNSFW": false,
+          "ModID": 1933,
+          "Name": "Sota - No Dialogue Zoom (1.8 Ready - bpatch)",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yBZmXEa/oEA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2380\nfileID=16467",
+        "Name": "ADS Breath 50 Percent More 2380 1 2026-08-24T09-11Z QbSG9SkhD.zip",
+        "Size": 499,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WoofahRayet",
+          "Description": "ADS for life",
+          "FileID": 16467,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2380/2380-1787550198-1039276650.jpg",
+          "IsNSFW": false,
+          "ModID": 2380,
+          "Name": "Unlimited Breath ADS",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wP24OAjko8I=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20867",
+        "Name": "Zzzz Consumables Prices 2376 2.0.6.8 2026-10-20T15-01Z alLTWLO4b.zip",
+        "Size": 7349,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20867,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mX1X7ABZKgs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1650\nfileID=16123",
+        "Name": "Main File 2.0 READY 1650 4 2026-08-21T01-29Z Ep3Pi3utY.7z",
+        "Size": 437525628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "DEAD ZONE: The Misery inspired ModDead Zone\u0027s atmosphere is one of a cold, hopeless, and gloomy Zone, where everything is permeated with a sense of decay: gray tones, worn textures, muffled sounds, and stifling silence create the feeling of a true nightmare.",
+          "FileID": 16123,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1650/1650-1758590605-365492100.jpg",
+          "IsNSFW": false,
+          "ModID": 1650,
+          "Name": "DEAD ZONE by PanKotan  2.0 UPDATE READY",
+          "Version": "Beta"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VdHwyNakp8Q=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1530\nfileID=18346",
+        "Name": "Main Files 2.0 UPDATE 1530 1.115 2026-09-11T13-47Z AZIUFI5Ty.rar",
+        "Size": 15067136,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kotelok111",
+          "Description": "Experimental mini-mod, which is in addition to my mod on vegetation",
+          "FileID": 18346,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1530/1530-1752950776-1292143450.jpg",
+          "IsNSFW": false,
+          "ModID": 1530,
+          "Name": "Grass pack by PanKotan 2.0 UPDATE Full Rework",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8ukeFWWH7tw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1897\nfileID=16088",
+        "Name": "Silent Stealth Mode for Bloodsuckers 1897 1.0.1 2026-08-20T19-44Z MOu6RuXGD.7z",
+        "Size": 10110,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jzyinq",
+          "Description": "Disables sound when Bloodsucker is entering / exiting stealth mode. More jump scares guaranteed!",
+          "FileID": 16088,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1897/1897-1766491099-1709388821.png",
+          "IsNSFW": false,
+          "ModID": 1897,
+          "Name": "Silent Stealth Mode for Bloodsucker",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "W/Jv3nVZ5Xo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2561\nfileID=20389",
+        "Name": "CollectOwl V3.6 Addon1 2561 3.6 2026-10-10T13-34Z KVr9wrpBG.7z",
+        "Size": 143321959,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Moonvvell",
+          "Description": "CollectOwl adds 237 collectible (and sellable!) items to the Zone: minerals on museum stands, bird feathers, pressed herbarium leaves, butterflies pinned under glass, chess pieces, enamel badges, vintage postcards, dried mushrooms \u2014 twelve complete collections, plus hundreds of little things somebody once carried across the Perimeter.",
+          "FileID": 20389,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2561/2561-1788444473-1599618518.jpg",
+          "IsNSFW": false,
+          "ModID": 2561,
+          "Name": "CollectOwl",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b7UCtXR9l6U=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2813\nfileID=19434",
+        "Name": "Faction Uniforms IPSF 2813 1 2026-09-24T19-10Z m28tJ8IHw.7z",
+        "Size": 475060718,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the IPSF factions uniforms and equipment. Affects the player, npcs, and icons.",
+          "FileID": 19434,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2813/2813-1790279935-1635637232.png",
+          "IsNSFW": false,
+          "ModID": 2813,
+          "Name": "Faction Uniforms - IPSF",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yzv6Zm6XHww=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2432\nfileID=19415",
+        "Name": "Npc Armor Balance 2432 1.2 2026-09-24T13-19Z nJ2ge2ZBb.zip",
+        "Size": 5220,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WillsherT20",
+          "Description": "This mod removes those restrictions. Any NPC rank can now potentially spawn with any armor available to their faction.",
+          "FileID": 19415,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2432/2432-1787747748-1328630414.jpg",
+          "IsNSFW": false,
+          "ModID": 2432,
+          "Name": "NPC Armor Loadout Balance",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9eqUVAQaOlg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2132\nfileID=15049",
+        "Name": "Size LRG-2132-1-00-1775314991.zip",
+        "Size": 912990,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deconstructor",
+          "Description": "Replaces the original fonts with resized ones. Select from 3 preset sizes",
+          "FileID": 15049,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2132/2132-1775314257-149735031.jpg",
+          "IsNSFW": false,
+          "ModID": 2132,
+          "Name": "Resized Fonts",
+          "Version": "1.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T7Iud/hmdfY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2811\nfileID=19462",
+        "Name": "TraderRoulette Vanilla V1.1.0 2811 1.1.0 2026-09-25T08-48Z AZIUFI5lY.zip",
+        "Size": 10816,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ckNOMAD",
+          "Description": "Gives every dedicated trader in the Zone a chance to stock any weapon, attachment or ammunition type. Instead of replacing their existing inventories, it adds a shared random armory pool alongside their usual goods. Each trader keeps their original prices, specialities and standard stock every visit could now uncover something unexpected.",
+          "FileID": 19462,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2811/2811-1790201411-971996370.png",
+          "IsNSFW": false,
+          "ModID": 2811,
+          "Name": "Trader Roulette",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OX03r/d+td4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1664\nfileID=16792",
+        "Name": "unlimited saves for 2.0 1664 1.5 2026-08-26T19-06Z IcAJ4Ar4r.7z",
+        "Size": 995,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "overjoony",
+          "Description": "This mod lets you make 10000 savegames instead of 31",
+          "FileID": 16792,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1664/1664-1759038182-1872170710.png",
+          "IsNSFW": false,
+          "ModID": 1664,
+          "Name": "unlimited saves",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1i8TRaBcRQs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1728\nfileID=17395",
+        "Name": "zArmSellBroken 1728 2.0.1 2026-08-31T18-39Z alLTWLOy3.zip",
+        "Size": 3282,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Armageddon",
+          "Description": "Sell broken/damaged guns to any trader. Random NPCs in the world are untouched but any Trader in any town will buy your broken junk now. Includes 2 versions that makes vendors buy for 70% of value, or vanilla which is around 30%.",
+          "FileID": 17395,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1728/1728-1760852443-2026335260.jpg",
+          "IsNSFW": false,
+          "ModID": 1728,
+          "Name": "Arm\u0027s Sell Broken n Damaged Guns to Traders 2.0.1 Compatible",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+XdXe+BuQRo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=942\nfileID=16402",
+        "Name": "Improved Compass 942 2.0 2026-08-23T18-05Z 8nmpUmQji.zip",
+        "Size": 22791,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fellow_Demo",
+          "Description": "Improve your compass with bolder letters, more directions and color coded arrowsComes in multiple versions: normal / classic fonts, no colored arrows variant.",
+          "FileID": 16402,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/942/942-1734813116-1024951809.png",
+          "IsNSFW": false,
+          "ModID": 942,
+          "Name": "Improved Compass Readability",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "30IdJnBS2nA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1956\nfileID=19695",
+        "Name": "NPC Flashlight Visibility Enhanced - Fixed Crashes 1956 1.3 2026-09-28T11-13Z qaYH6YMGB.zip",
+        "Size": 18120,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zefir",
+          "Description": "Improves NPC visibility at night. Adds a visible glow to the flashlight source and strengthens the light beam, making NPCs easier to spot in the darkness.",
+          "FileID": 19695,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1956/1956-1767985068-869215896.png",
+          "IsNSFW": false,
+          "ModID": 1956,
+          "Name": "NPC Flashlight Visibility Enhanced (FIXED CRASH)",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IAikUAiEpSo=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1764\nfileID=16205",
+        "Name": "ammoBoxIconsEnhanced_v2 1764 2 2026-08-21T21-29Z 5XCFfCpc1.zip",
+        "Size": 2082981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yourbestlawyer",
+          "Description": "Vanilla aesthetic. Better readability. \u27052x Brighter equipment highlight as option.",
+          "FileID": 16205,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1764/1764-1780127140-1271470120.jpg",
+          "IsNSFW": false,
+          "ModID": 1764,
+          "Name": "Vanilla Ammo Boxes Enhanced - UI",
+          "Version": "2.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U436/J9sv88=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20868",
+        "Name": "Zzzz Owl Prices 2376 2.0.6.8 2026-10-20T15-02Z QbSG9SKkh.zip",
+        "Size": 5217,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20868,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3DN3vI56Occ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=275\nfileID=16566",
+        "Name": "Red Shells 275 2.0.2 2026-08-24T20-56Z vusaOsC7B.7z",
+        "Size": 2065960,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Now with more shell colors to choose from. Future To-do in the description for dynamic shells.",
+          "FileID": 16566,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/275/275-1733371930-358682529.png",
+          "IsNSFW": false,
+          "ModID": 275,
+          "Name": "Red Shells - Expanded",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4MHZwDwYQu8=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1407\nfileID=18085",
+        "Name": "Posters of Chornobyl (2.0 GameVersion) 1407 4 2026-09-08T16-37Z tip10pJNl.rar",
+        "Size": 105242059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Replaces old tattered and unreadable posters with new authentic ones from my collectionWork with 1.8 Patch !!!Attention!! New big update! 25.07.2025",
+          "FileID": 18085,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1407/1407-1788885995-1015211409.png",
+          "IsNSFW": false,
+          "ModID": 1407,
+          "Name": "Atmospheric posters of Chornobyl",
+          "Version": "4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8bztMrT2LMs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2409\nfileID=16951",
+        "Name": "FasterAnimations-05 2409 0.5 2026-08-27T21-26Z kHyfjyU9I.zip",
+        "Size": 149181,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "onikenobi",
+          "Description": "Speeds up animations by 25%",
+          "FileID": 16951,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2409/2409-1787609775-260615311.png",
+          "IsNSFW": false,
+          "ModID": 2409,
+          "Name": "Faster Animations",
+          "Version": "0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ztzyROfgMPA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1646\nfileID=18803",
+        "Name": "Pistolnightsights 1646 2.0.6 2026-09-16T17-21Z GROhYO90j.zip",
+        "Size": 119608325,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jintsu",
+          "Description": ". Tritium-illuminated sights increase speed and comfort of aiming in poorly-lit environments.",
+          "FileID": 18803,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1646/1646-1782744584-848908143.jpg",
+          "IsNSFW": false,
+          "ModID": 1646,
+          "Name": "Iron Sight Overhaul",
+          "Version": "2.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Lj/rhmNV8Sg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1646\nfileID=18757",
+        "Name": "nightsights part2 1646 2.0.5 2026-09-15T16-53Z rPKd1KtFP.zip",
+        "Size": 66398169,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jintsu",
+          "Description": ". Tritium-illuminated sights increase speed and comfort of aiming in poorly-lit environments.",
+          "FileID": 18757,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1646/1646-1782744584-848908143.jpg",
+          "IsNSFW": false,
+          "ModID": 1646,
+          "Name": "Iron Sight Overhaul",
+          "Version": "2.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5Q1M9BvBHfs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2011\nfileID=16235",
+        "Name": "140 Models Per Tick 2011 1.2.1 2026-08-22T01-38Z KVr9wrLzB.zip",
+        "Size": 11454,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LetsWoolgather - SnappyAW",
+          "Description": "Adjusting OnlineDirectorModelsPerTick which from what I can gather is likely related to batch size. This helps smooth out frametime and limit spikes/latency. Currently Vanilla S2 is set to 20, possible due to console limitations or maybe they just forgot to go back and profile after further optimizations.",
+          "FileID": 16235,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2011/2011-1769981835-1896949715.jpg",
+          "IsNSFW": false,
+          "ModID": 2011,
+          "Name": "Frametime Stabilization",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+zWU4lw70+w=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=939\nfileID=14415",
+        "Name": "Item Spawn Guide-939-2-10-5-1770499972.zip",
+        "Size": 4038,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oxide",
+          "Description": "Expand your armory: Massively expands the range of attachment options and allows for true customization of your weapon attachments. Want more? Try OXA Prototype for modular weapon components, a new repair system, hundreds of new items, and overhauls of major game mechanics.",
+          "FileID": 14415,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/939/939-1769401293-337731382.png",
+          "IsNSFW": false,
+          "ModID": 939,
+          "Name": "OXA - Oxide\u0027s eXpanded Armory",
+          "Version": "3.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3TuOh/JNDzk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2060\nfileID=16738",
+        "Name": "bbdUI_alternativeQuestItemIcon 2060 1 2026-08-26T11-35Z cFZomZPmh.zip",
+        "Size": 3765,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yourbestlawyer",
+          "Description": "Quest item icon rebuilt from scratch.The inventory and journal icons now match.",
+          "FileID": 16738,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2060/2060-1787744165-2139043391.jpg",
+          "IsNSFW": false,
+          "ModID": 2060,
+          "Name": "Alternative Quest Items Icon - UI",
+          "Version": "2.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XXY95QAMyUw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=441\nfileID=16585",
+        "Name": "All Paks - CHOOSE ONLY ONE v2.7 441 2.7 2026-08-25T01-39Z pgtwBtGYS.7z",
+        "Size": 2623612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SkylineXXC",
+          "Description": "Replaces the default arrow cursor with the classic animated S.T.A.L.K.E.R cursor (with spinning rad icon!)",
+          "FileID": 16585,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/441/441-1787841826-662422477.png",
+          "IsNSFW": false,
+          "ModID": 441,
+          "Name": "(v2.0 Compatible) Classic Stalker Cursor - Spinning Rad",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uCPa2t7pk9E=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2703\nfileID=18558",
+        "Name": "DarkerSevaD 2703 1.1 2026-09-13T11-45Z PwVvSVi5m.7z",
+        "Size": 98892599,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Adjustments to the textures of the Seva-D armor and its icons.",
+          "FileID": 18558,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2703/2703-1789216342-1133120051.jpg",
+          "IsNSFW": false,
+          "ModID": 2703,
+          "Name": "Darker Seva-D",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mg58eKboELk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=3040\nfileID=20833",
+        "Name": "ExplosiveBallons By NiutoN 2.0 3040 2.0 2026-10-19T15-48Z UeJBEJF9g.rar",
+        "Size": 4654800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Explosive Ballons Retexture",
+          "FileID": 20833,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/3040/3040-1792424888-853431448.png",
+          "IsNSFW": false,
+          "ModID": 3040,
+          "Name": "Explosive Ballons Retexture",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HEGvmHFZiZI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2798\nfileID=19734",
+        "Name": "Faction Uniforms - Spark 2798 1.0.1 2026-09-28T20-49Z RqxkLxs23.7z",
+        "Size": 612849385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Simple adjustments made across the Spark factions uniforms and equipment. Affects the player, npcs, icons, and even includes a few minor bug fixes.",
+          "FileID": 19734,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2798/2798-1790084074-1168483402.png",
+          "IsNSFW": false,
+          "ModID": 2798,
+          "Name": "Faction Uniforms - Spark",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pS4Ze/1XZSQ=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2173\nfileID=18014",
+        "Name": "LaserTools 2173 2.4.2 2026-09-07T14-45Z 8nmpUmAqs.zip",
+        "Size": 350857,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rokshocka",
+          "Description": "Rebuilt as a fully native mod - UE4SS is no longer required (remove the old version). The toggle now plays proper laser on/off sounds. Laser is off by default and your choice is remembered during the session but not yet between saves.",
+          "FileID": 18014,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2173/2173-1776419378-2093907420.png",
+          "IsNSFW": false,
+          "ModID": 2173,
+          "Name": "LaserTools",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r4oflHaCerE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=482\nfileID=3639",
+        "Name": "All_BluePrint_Attachment_Ammo_Sell-482-1-0-3-1733335015.zip",
+        "Size": 44363,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CreamPie",
+          "Description": "All blueprint \u0026amp; All attachment \u0026amp; All Ammo Sell",
+          "FileID": 3639,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/482/482-1732867338-1289393822.png",
+          "IsNSFW": false,
+          "ModID": 482,
+          "Name": "All blueprint  All attachment  All Ammo Sell",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t+bub1gUSAY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1493\nfileID=20575",
+        "Name": "Achievements Enabler 1493 2.1.17 2026-10-13T23-44Z KVr9wrpfp.zip",
+        "Size": 1359153,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antrix",
+          "Description": "S2AE is first and foremost an Achievement Enabler, fully bypasses the achievement block for ~Mods, Steam Workshop and mod.io content. Also includes an optional overlay, QoL features and fixes, all disabled by default.",
+          "FileID": 20575,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1493/1493-1752662442-1983245348.png",
+          "IsNSFW": false,
+          "ModID": 1493,
+          "Name": "S2AE - Achievements Enabler. QoL. Fixes.",
+          "Version": "2.1.17"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZwmszmqX4rg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2878\nfileID=19855",
+        "Name": "IDek9x - Tactical Lean 1.0.0 2878 1.0.0 2026-09-30T17-43Z e3oKpo8h3.zip",
+        "Size": 8853,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iDek9x",
+          "Description": "Hold a key and nudge the mouse sideways to lean - no more fighting Z/C with WASD. Uses the game\u0027s own lean (collision, animations and camera intact), keeps your aim free and straightens you up when you let go. Fully configurable.",
+          "FileID": 19855,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2878/2878-1790790174-1961227365.jpg",
+          "IsNSFW": false,
+          "ModID": 2878,
+          "Name": "iDek9x\u0027s - Tactical Lean",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b9StP1C+gag=",
+        "Meta": "[General]\ngameName=site\nmodID=1619\nfileID=6670",
+        "Name": "Hide Buttons - Unlock Edition-1619-1-6-7-1-1768212054.7z",
+        "Size": 840,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sayngwyn",
+          "Description": "Hides the Instance Manager, Sort, and optionally Unlock buttons in the Mod Organizer 2 interface. Made with modlist devs in mind, this can also be for personal list usage.",
+          "FileID": 6670,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/1619/1619-1768093577-1656676862.png",
+          "IsNSFW": false,
+          "ModID": 1619,
+          "Name": "Hide Buttons Mod Organizer 2 Plugin",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q6jLBWx3dTg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2345\nfileID=17576",
+        "Name": "Artifact Carry Weight Rework 2345 3 2026-09-02T16-35Z MOu6Rub0A.zip",
+        "Size": 2175,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rrostayk",
+          "Description": "Carry weight grows through ARTIFACTS, not cheats. Near-vanilla base (70 kg penalty-free, 100 kg hard limit), hidden buff caps (90/140) removed, artifact weight bonuses doubled \u2014 Night Star gives \u002B18/\u002B24, every artifact counts. Weight bar zones redrawn to match. Five tiny official bpatch text patches, no file replacements. Tested on 2.0.",
+          "FileID": 17576,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2345/2345-1787332756-2039001827.png",
+          "IsNSFW": false,
+          "ModID": 2345,
+          "Name": "Artifact Carry Weight Rework",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jDPDnBqpsqk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1447\nfileID=19768",
+        "Name": "Classic Trilogy Flashlight Enhanced 1447 1.8 2026-09-29T10-42Z IcAJ4ACb3.zip",
+        "Size": 1597506,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zefir",
+          "Description": "A flashlight overhaul inspired by the classic trilogy. Provides better visibility than vanilla. Now also enhanced with new features, such as light flicker.",
+          "FileID": 19768,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1447/1447-1752081932-463506246.png",
+          "IsNSFW": false,
+          "ModID": 1447,
+          "Name": "Classic Trilogy Flashlight Enhanced (WORKS IN DLC)",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e5sxxHf7r14=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2032\nfileID=20655",
+        "Name": "Gouzou. Jace 2.1 (fix) 2032 2.1 2026-10-16T07-19Z nJ2ge2ZHI.rar",
+        "Size": 14379475,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Real Murals of ZoneAntonio Correia just yet",
+          "FileID": 20655,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2032/2032-1790664398-2034429029.png",
+          "IsNSFW": false,
+          "ModID": 2032,
+          "Name": "Murals Of The Zone",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tJ0cWmJBBxA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1062\nfileID=17061",
+        "Name": "New Mags 1062 2.0 2026-08-28T22-11Z xYRyaRISp.7z",
+        "Size": 2975612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gerard1111",
+          "Description": "Different colored tapes for \u0022Merc\u0022 and \u0022Trophy\u0022",
+          "FileID": 17061,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1062/1062-1764710603-107372381.png",
+          "IsNSFW": false,
+          "ModID": 1062,
+          "Name": "Tapes for Merc and Trophy  (VS Vintar - VSS Vintorez - AS Lavina - AS Val)",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E2BysROgA+w=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2217\nfileID=17494",
+        "Name": "Psy Indicator 2217 1.3 2026-09-01T21-09Z 9sdYudwL1.zip",
+        "Size": 35710,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PNR Team",
+          "Description": "Small HUD module that adds a separate psy-state bar next to the health and stamina indicators",
+          "FileID": 17494,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2217/2217-1778373046-1921298536.jpg",
+          "IsNSFW": false,
+          "ModID": 2217,
+          "Name": "Psy Indicator",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6NO4rrJCS5I=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1127\nfileID=16418",
+        "Name": "Transparent Death Screen 1127 2.0 2026-08-23T19-21Z KVr9wrL2B.zip",
+        "Size": 6578,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fellow_Demo",
+          "Description": "Simple mod that make death screen transparent.",
+          "FileID": 16418,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1127/1127-1736486980-1422433568.jpeg",
+          "IsNSFW": false,
+          "ModID": 1127,
+          "Name": "Transparent Death Screen",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rU1Qvy3uIrI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2721\nfileID=20767",
+        "Name": "ZST - Zone Standard Time 1.2.5 2721 1.2.5 2026-10-17T23-19Z z9bxvbPij.zip",
+        "Size": 110111918,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dannicroax",
+          "Description": "Have you ever wanted to check the time without opening the PDA, or find your heading without the compass? ZST adds a worn wristwatch with live in-game time and compass bearing. Raise it with Hold or Toggle keybinds, and tune its position and brightness with optional MCM settings.",
+          "FileID": 20767,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2721/2721-1789303934-360718676.png",
+          "IsNSFW": false,
+          "ModID": 2721,
+          "Name": "ZST - Zone Standard Time - A Watch Mod",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F0puuIN/sok=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20870",
+        "Name": "Zzzz PIR Owl Loot Rebalance 2376 2.0.6.8 2026-10-20T15-03Z 8nmpUmAQ9.zip",
+        "Size": 10604,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20870,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hvU1r9ttXUw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=16448",
+        "Name": "Borscht MO2 Theme 2376 2.0.0.1 2026-08-24T01-48Z RqxkLxAfO.zip",
+        "Size": 5355,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 16448,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AF97Q+dwAso=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2516\nfileID=17148",
+        "Name": "25 Fall damage 2516 1 2026-08-29T15-18Z QbSG9SkkB.rar",
+        "Size": 358,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SaNcHiK86",
+          "Description": "Reduces fall damage in S.T.A.L.K.E.R. 2. Includes three options: 25%, 50%, or 75% of the original fall damage. \u0423\u043C\u0435\u043D\u044C\u0448\u0430\u0435\u0442 \u0443\u0440\u043E\u043D \u043E\u0442 \u043F\u0430\u0434\u0435\u043D\u0438\u044F \u0432 S.T.A.L.K.E.R. 2. \u0414\u043E\u0441\u0442\u0443\u043F\u043D\u043E \u0442\u0440\u0438 \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u0430: 25%, 50% \u0438\u043B\u0438 75% \u043E\u0442 \u0438\u0441\u0445\u043E\u0434\u043D\u043E\u0433\u043E \u0443\u0440\u043E\u043D\u0430.",
+          "FileID": 17148,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2516/2516-1788016703-1768971570.png",
+          "IsNSFW": false,
+          "ModID": 2516,
+          "Name": "Less fall damage",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hM7jKoRVc+w=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1574\nfileID=18127",
+        "Name": "ArtifactsandAnomalies 1574 1.4 2026-09-09T07-08Z 5XCFfCkMw.zip",
+        "Size": 83214,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheFatherofPork",
+          "Description": "Hello everyone, this is an artifact rebalance mod that uses vanilla balancing for effects and takes some inspiration from the original S.T.A.L.K.E.R: SoC. Built in is new artifact effects like PSI-Radiation, Health Regen, Stamina Cost Reductions, Increased Bleeding, and Reduced Healing Efficiency. Making Artifacts more interesting and unique.",
+          "FileID": 18127,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1574/1574-1764040967-458418052.png",
+          "IsNSFW": false,
+          "ModID": 1574,
+          "Name": "Artifacts and Anomalies Improved ( 2.0 Ready )",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bm+4j9DwQcc=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2729\nfileID=19521",
+        "Name": "Faction Uniforms - Duty 2729 1.0.5 2026-09-26T03-30Z KVr9wrpxN.7z",
+        "Size": 513689167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "A refashion of the duty faction, featuring small, simple adjustments to uniforms and equipment. Player, NPCs, and Icons are covered.",
+          "FileID": 19521,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2729/2729-1789495314-212827163.png",
+          "IsNSFW": false,
+          "ModID": 2729,
+          "Name": "Faction Uniforms - Duty",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GENXdWimgq8=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2523\nfileID=19354",
+        "Name": "grEdit - Ballistics Redux 5.1.0 - FOMOD 2523 5.1.0 2026-09-23T16-56Z 9sdYudwJj.zip",
+        "Size": 57414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OlderGreg",
+          "Description": "Modular, optional ballistics changes for a tailored experience for all types of stalkers in the zone! - 2.0.5 Compatible",
+          "FileID": 19354,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2523/2523-1788039079-558279707.jpg",
+          "IsNSFW": false,
+          "ModID": 2523,
+          "Name": "grEdit - Ballistics Redux",
+          "Version": "5.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uTe+I0eNsAM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2426\nfileID=16707",
+        "Name": "Improved Bodies Icons 2426 1.0 2026-08-26T01-51Z 5XCFfCpwm.rar",
+        "Size": 1707,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FellowDemo",
+          "Description": "Makes dead bodies icon on the compass yellow.",
+          "FileID": 16707,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2426/2426-1787709075-249311238.png",
+          "IsNSFW": false,
+          "ModID": 2426,
+          "Name": "Improved Dead Bodies Icon",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CM0tSD97hYA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=201\nfileID=17523",
+        "Name": "Post Effect Adjustments 201 2.1 2026-09-02T05-49Z oEertemPI.7z",
+        "Size": 606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Holliday",
+          "Description": "Disables and adjust a handful of screen effects.",
+          "FileID": 17523,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/201/201-1732453580-1006659623.png",
+          "IsNSFW": false,
+          "ModID": 201,
+          "Name": "Post Effect Adjustments",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k5oyPXJcMG4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=35\nfileID=16060",
+        "Name": "Real Longer Days 35 2.2.2 2026-08-20T11-45Z g0iQKiRhR.zip",
+        "Size": 10576,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FelicheAce",
+          "Description": "Take full control over S.T.A.L.K.E.R. 2\u2019s 24-hour day pacing! Make the whole day last longer for a deeply atmospheric survival experience!",
+          "FileID": 16060,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/35/35-1746563691-521921343.png",
+          "IsNSFW": false,
+          "ModID": 35,
+          "Name": "Real Longer Days",
+          "Version": "2.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ncco7HIeUnE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2717\nfileID=19066",
+        "Name": "Songs Of The Zone - MCM Addon 2717 4.1 2026-09-19T12-54Z sMvLGvQIW.zip",
+        "Size": 456507,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigChenga",
+          "Description": "Automated Guitar plays all the guitar songs of the zone!",
+          "FileID": 19066,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2717/2717-1789300429-2090449445.jpg",
+          "IsNSFW": false,
+          "ModID": 2717,
+          "Name": "Songs Of The Zone - Automated Guitar",
+          "Version": "4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lTVBJNZV4lk=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1377\nfileID=16202",
+        "Name": "Tappable Quick Slots 1377 2.0 2026-08-21T21-16Z PwVvSVldp.zip",
+        "Size": 5985,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "chewyraccoons",
+          "Description": "Changes the Quick Slots from hold to tap.",
+          "FileID": 16202,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1377/1377-1751151256-1104187043.png",
+          "IsNSFW": false,
+          "ModID": 1377,
+          "Name": "Tappable Quick Slots",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nguLCL2loEE=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2320\nfileID=17089",
+        "Name": "Weapon Recolor 2320 3 2026-08-29T02-14Z oEertevIJ.zip",
+        "Size": 376219237,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RetroPhantom",
+          "Description": "This mod gives the weapons in list a refined, cinematic visual overhaul \u2014 darker steel, richer contrast, and a more grounded, Zone-worn aesthetic.",
+          "FileID": 17089,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2320/2320-1787971045-1543958399.png",
+          "IsNSFW": false,
+          "ModID": 2320,
+          "Name": "Weapon_Recolor",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "azhAa1vzQZ4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20871",
+        "Name": "Zzzz PIR Prices 2376 2.0.6.8 2026-10-20T15-04Z oEertemvJ.zip",
+        "Size": 10776,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20871,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4BKfuBW7s6k=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2717\nfileID=19017",
+        "Name": "Songs Of The Zone 2717 4.1 2026-09-19T00-46Z X7N8ANHDl.zip",
+        "Size": 634371,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BigChenga",
+          "Description": "Automated Guitar plays all the guitar songs of the zone!",
+          "FileID": 19017,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2717/2717-1789300429-2090449445.jpg",
+          "IsNSFW": false,
+          "ModID": 2717,
+          "Name": "Songs Of The Zone - Automated Guitar",
+          "Version": "4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4aVX6noUzek=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=939\nfileID=13379",
+        "Name": "Quick Start Guide-939-2-9-11-1766506479.zip",
+        "Size": 1451754,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oxide",
+          "Description": "Expand your armory: Massively expands the range of attachment options and allows for true customization of your weapon attachments. Want more? Try OXA Prototype for modular weapon components, a new repair system, hundreds of new items, and overhauls of major game mechanics.",
+          "FileID": 13379,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/939/939-1769401293-337731382.png",
+          "IsNSFW": false,
+          "ModID": 939,
+          "Name": "OXA - Oxide\u0027s eXpanded Armory",
+          "Version": "3.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3BecSMRLdOI=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2514\nfileID=18988",
+        "Name": "NPC Weapon Jamming 1.2.4 2514 1.2.4 2026-09-18T18-21Z sMvLGvQC5.zip",
+        "Size": 177146,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fame2gin",
+          "Description": "Ever wondered why npc weapon does not jam? Enemy weapons now jam like yours do.",
+          "FileID": 18988,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2514/2514-1788003617-81036986.png",
+          "IsNSFW": false,
+          "ModID": 2514,
+          "Name": "NPC Weapon Jamming",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VhQSIVdzwV0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2912\nfileID=20003",
+        "Name": "tinbtb - A-Life Offline Corpses Trimmer 2912 1 2026-10-02T20-38Z oEertemTb.zip",
+        "Size": 860,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tinbtb",
+          "Description": "Trims the amount of dead NPCs produced by a-life scattered through the world. Especially effective at POIs.",
+          "FileID": 20003,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2912/2912-1790973431-1943689642.png",
+          "IsNSFW": false,
+          "ModID": 2912,
+          "Name": "A-Life Offline Bodies Trimmer",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FLbaYwl6pIY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1737\nfileID=12296",
+        "Name": "Ammo MaxStackCount 9999 1.7-1737-0-5-1763571085.zip",
+        "Size": 674,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maksimkin",
+          "Description": "The stacks of ammunition have been increased to 9999",
+          "FileID": 12296,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1737/1737-1761243826-1847418128.png",
+          "IsNSFW": false,
+          "ModID": 1737,
+          "Name": "Ammo MaxStack 9999",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "20zLw9VVaGU=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=822\nfileID=16999",
+        "Name": "LessShyArtifacts 2.0 822 2 2026-08-28T08-24Z xYRyaRICL.zip",
+        "Size": 1794,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DrStalker",
+          "Description": "This mod causes artifacts to become visible at a greater distance, meaning you only need to get within ~7.5 meters for an artifact to show instead of standing right on top of it. Optionally increases the range of all detectors to match the hilka.",
+          "FileID": 16999,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/822/822-1733923788-458907498.jpeg",
+          "IsNSFW": false,
+          "ModID": 822,
+          "Name": "Less Shy Artifacts (Increased Appearance Range and optional Detector Range)",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j0GjtTvGxB4=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1564\nfileID=14809",
+        "Name": "Niuton-PCScreen-Win3 3.0-1564-3-0-1772763675.rar",
+        "Size": 21776,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NiutoN",
+          "Description": "Replace a PC monitor in game from norton comander to Win95 desktop(1.7 ready)",
+          "FileID": 14809,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1564/1564-1772763852-171069974.jpg",
+          "IsNSFW": false,
+          "ModID": 1564,
+          "Name": "PC Monitor replacer By NiutoN",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nNgjEFFeYTM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2376\nfileID=20879",
+        "Name": "Zzzz Repair Kit Prices 2376 2.0.6.7 2026-10-20T19-04Z Z4ce8cXVV.zip",
+        "Size": 2228,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FinFNS",
+          "Description": "",
+          "FileID": 20879,
+          "GameName": "Stalker2",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2376,
+          "Name": "",
+          "Version": "2.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IBZWqxPK1iM=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2442\nfileID=16806",
+        "Name": "IntegratedHelmetPSY 2442 1.0 2026-08-26T21-15Z V1PsQP6A7.zip",
+        "Size": 3516,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DEMIRTEN",
+          "Description": "Annoyed that full body armors don\u0027t have psi resistance? Then this mod is for you.",
+          "FileID": 16806,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2442/2442-1787778072-1226827413.jpg",
+          "IsNSFW": false,
+          "ModID": 2442,
+          "Name": "Integrated Armor Psi Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bchptkT7Tvs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1533\nfileID=17894",
+        "Name": "Any Sideweapon 1533 2.5 2026-09-06T05-06Z 8nmpUmAne.7z",
+        "Size": 1489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "overjoony",
+          "Description": "This mod lets you equip any weapon as a side arm",
+          "FileID": 17894,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1533/1533-1752829030-566358686.png",
+          "IsNSFW": false,
+          "ModID": 1533,
+          "Name": "Any weapon as sidearm",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jjt8cLhdZgw=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2706\nfileID=18498",
+        "Name": "Fluid Aiming Gamepad Version 2706 1 2026-09-12T17-33Z YLqDlquRN.zip",
+        "Size": 1093,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "A lightweight aiming fix. Equal XY sensitivity, no mouse smoothing, and look speed that stays consistent in water, after explosions, and in anomalies.",
+          "FileID": 18498,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2706/2706-1789233908-2082385465.png",
+          "IsNSFW": false,
+          "ModID": 2706,
+          "Name": "Fluid Aiming - Equal XY Sensitivity Fix - Remove Look Slowdown - Optional Gamepad Sensitivity",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7OQx92cfGKA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2605\nfileID=17842",
+        "Name": "OneHitCrates 2605 1 2026-09-05T18-53Z SzQOdQrNz.zip",
+        "Size": 1963,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gealsander",
+          "Description": "A micro quality-of-life mod. Supply crates open with one hit from the rifle butt and break completely on the second hit. Regular wooden crates without supplies break in one hit. OR \u2013 all crates (wooden, metal, and ammo) break with a single hit",
+          "FileID": 17842,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2605/2605-1788643355-770147745.png",
+          "IsNSFW": false,
+          "ModID": 2605,
+          "Name": "One-or-TwoHitCrates",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "arAjFw2vHFs=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1961\nfileID=13851",
+        "Name": "BetterLadder-1961-1-0-0-1768149457.7z",
+        "Size": 453,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Savant231a",
+          "Description": "More looking around, faster going up and going down. bpatch ready.",
+          "FileID": 13851,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1961/1961-1768149317-636562573.jpg",
+          "IsNSFW": false,
+          "ModID": 1961,
+          "Name": "Better Ladder - 1.8.1",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9SJ93CbyD6I=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2950\nfileID=20263",
+        "Name": "tinbtb - No Weapon Push 2950 1 2026-10-07T18-40Z hkWNDWYxD.zip",
+        "Size": 614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tinbtb",
+          "Description": "No more kicking the dropped guns into the oblivion. Guns yanked by Burers stay at your feet!",
+          "FileID": 20263,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2950/2950-1791398395-861654791.png",
+          "IsNSFW": false,
+          "ModID": 2950,
+          "Name": "Disable Skif Kicking and Pushing Dropped Guns",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UwEIjxnb2AY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2706\nfileID=18497",
+        "Name": "Fluid Aiming Main 2706 1 2026-09-12T17-31Z CN5475yjO.zip",
+        "Size": 1062,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "A lightweight aiming fix. Equal XY sensitivity, no mouse smoothing, and look speed that stays consistent in water, after explosions, and in anomalies.",
+          "FileID": 18497,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2706/2706-1789233908-2082385465.png",
+          "IsNSFW": false,
+          "ModID": 2706,
+          "Name": "Fluid Aiming - Equal XY Sensitivity Fix - Remove Look Slowdown - Optional Gamepad Sensitivity",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zlwo+Me6BAg=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=243\nfileID=16740",
+        "Name": "Increased Rewards (x1.25 - x12) v2.0 243 2.0 2026-08-26T12-06Z bdzRszHs0.zip",
+        "Size": 77276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dawingy",
+          "Description": "Oh, you killed two bloodsuckers, take this sticky napkin as a reward. This mod changes the rewards so that they are at least comparable to the cost of ammo, medicine, etc. You can choose the multiplier yourself (x1.25, x1.5, x2, x3, x4, x6, x8, x10, x12) UPDATE 2.0 (212 updated quests)",
+          "FileID": 16740,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/243/243-1732492895-783328441.jpeg",
+          "IsNSFW": false,
+          "ModID": 243,
+          "Name": "Increased Rewards 2.0",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zI/LJ7KoXgA=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2353\nfileID=16395",
+        "Name": "MasterSaveCompassMarkers 2353 2 2026-08-23T16-47Z DjHICHoOe.zip",
+        "Size": 673,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "uber4lenix",
+          "Description": "Allows make autosave, quicksave. Else turn on compass, markers, crosshair (configurable).",
+          "FileID": 16395,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2353/2353-1787411164-2010452588.jpg",
+          "IsNSFW": false,
+          "ModID": 2353,
+          "Name": "Master difficulty quicksaves etc 2.0",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8j8fiTh4iIY=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1782\nfileID=17739",
+        "Name": "Exo Overhaul (2.0 Ready) 1782 1.0 2026-09-04T19-30Z AZIUFI5VS.zip",
+        "Size": 695,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deathlock",
+          "Description": "Allows you to sprint with both Duty Exos and Bulwark Exo without any upgrades. Also brings all four Duty and Freedom suits up to par with Diamond Exo. Sprint only option available if you don\u0027t want the stat changes.",
+          "FileID": 17739,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1782/1782-1763699475-1074750325.png",
+          "IsNSFW": false,
+          "ModID": 1782,
+          "Name": "Duty and Freedom Exo Overhaul (2.0.X Ready)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m8aiRIdS3Vc=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2724\nfileID=18610",
+        "Name": "Fluid Movement Better Water 2724 1 2026-09-13T20-15Z 9sdYudwMi.zip",
+        "Size": 1105,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "v3fish",
+          "Description": "More fluid movement in water. Less slowdown, no instant drown.",
+          "FileID": 18610,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2724/2724-1789330478-1922266740.png",
+          "IsNSFW": false,
+          "ModID": 2724,
+          "Name": "Fluid Movement - Better Water - Less Slowdown - Move in Deep Water - No Instant Drown",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aT462qBpib0=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2626\nfileID=19611",
+        "Name": "MedkitRebirth 2626 1.3 2026-09-27T11-18Z L6ajhaGm6.zip",
+        "Size": 6543,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "COMACH",
+          "Description": "Gives medkits a second life. Vanilla lets you finish the game on basic medkits alone, so healing is now weaker and over time, cost, hunger and sleep. Army and Eco medkits get distinct roles: bleeding, radiation, stamina, carry weight. Bandages and bleeding damage retuned.",
+          "FileID": 19611,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2626/2626-1788700169-1630635415.png",
+          "IsNSFW": false,
+          "ModID": 2626,
+          "Name": "Medkit Rebirth",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yifeR70sfl8=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=1734\nfileID=19626",
+        "Name": "mutantLootFullPrice_Stalker 1734 1.4 2026-09-27T16-59Z 8nmpUmAzr.zip",
+        "Size": 890,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yourbestlawyer",
+          "Description": "You can trade mutant parts with full price (highest vanilla values).",
+          "FileID": 19626,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/1734/1734-1780127223-363675381.jpg",
+          "IsNSFW": false,
+          "ModID": 1734,
+          "Name": "Mutant Loot Full Price - Gameplay",
+          "Version": "2.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qg3zZHr+yas=",
+        "Meta": "[General]\ngameName=Stalker2\nmodID=2598\nfileID=17784",
+        "Name": "No Burer Weapon Pull 2598 1.0 2026-09-05T10-51Z IcAJ4ACNY.zip",
+        "Size": 465,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KremitDev",
+          "Description": "Removes the Burer\u0027s ability to pull the player\u0027s weapon from their hands.",
+          "FileID": 17784,
+          "GameName": "Stalker2",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/6944/images/2598/2598-1788606708-2112438003.png",
+          "IsNSFW": false,
+          "ModID": 2598,
+          "Name": "No Burer Weapon Pull",
+          "Version": "1.0"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Borscht/Borscht_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Borscht/Borscht_large.webp"
 }
