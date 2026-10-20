@@ -43,6 +43,7 @@
 *  [Doctor Penske Face Gen Data (LOOSE)-86410-v3-2B-1771044018.7z](https://www.nexusmods.com/fallout4/mods/86410/?tab=files&file_id=385610)
 *  [Dogmeat Lags Behind 107231 1.0 2026-07-22T22-15Z oDXmuBha4.7z](https://www.nexusmods.com/fallout4/mods/107231/?tab=files&file_id=404201)
 *  EditorTips.txt
+*  [Enhanced Creatures AI Overhaul-78179-2-1-0-1774135768.rar](https://www.nexusmods.com/fallout4/mods/78179/?tab=files&file_id=390451)
 *  [Everyone's Best Friend v3.0.0-13459-3-0-0.rar](https://www.nexusmods.com/fallout4/mods/13459/?tab=files&file_id=88106)
 *  [Extended Dialogue Interface 1.11.240 27216 1.11.240 2026-09-01T19-59Z uE0zfLpAO.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=409623)
 *  [Fainthearth Manor New-79556-1-3-1712170027.zip](https://www.nexusmods.com/fallout4/mods/79556/?tab=files&file_id=308977)
@@ -75,7 +76,7 @@
 *  [HD Textures-68187-1-4-1714417424.zip](https://www.nexusmods.com/fallout4/mods/68187/?tab=files&file_id=313092)
 *  [High FPS Physics Fix 44798 0.8.23 2026-09-08T20-05Z RgPsZW0Pn.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=410628)
 *  High.ini
-*  [HolyFramework 107870 1.0.30 2026-09-21T08-42Z arQOmDNrT.zip](https://www.nexusmods.com/fallout4/mods/107870/?tab=files&file_id=412381)
+*  [HolyFramework 107870 1.10.42 2026-10-15T06-56Z SmerDuEiP.zip](https://www.nexusmods.com/fallout4/mods/107870/?tab=files&file_id=416300)
 *  [Horrorghouls v2.2 Final release-37419-2-2-1592508640.rar](https://www.nexusmods.com/fallout4/mods/37419/?tab=files&file_id=184719)
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
 *  [Immersive Animation Framework-50555-1-3-2-1671826855.rar](https://www.nexusmods.com/fallout4/mods/50555/?tab=files&file_id=261342)
@@ -113,7 +114,7 @@
 *  [Monkey Trap HD-6202-1.zip](https://www.nexusmods.com/fallout4/mods/6202/?tab=files&file_id=21246)
 *  msvcp110.dll
 *  msvcr110.dll
-*  [NativeWeathers 109106 1.1.3 2026-09-19T02-40Z seiQXq35B.zip](https://www.nexusmods.com/fallout4/mods/109106/?tab=files&file_id=412068)
+*  [NativeWeathers 109106 1.3.0 2026-10-15T07-53Z uE0zfLKwX.zip](https://www.nexusmods.com/fallout4/mods/109106/?tab=files&file_id=416319)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
 *  Papyrus Compiler_Antlr3.Runtime.dll
@@ -169,7 +170,6 @@
 *  Tools_Elric_BSResource.dll
 *  Tools_Elric_BSShader.dll
 *  Tools_Elric_BSSystem.dll
-*  Tools_Elric_Configs_KeepExtraData.cfg
 *  Tools_Elric_DDS_to_TGA.bat
 *  Tools_Elric_DotNetMagic2005.dll
 *  Tools_Elric_Elrich.exe
@@ -198,13 +198,22 @@
 *  Tools_LipGen_LipGenerator_LipGenerator.pdb
 *  Tools_LipGen_Readme.txt
 *  Tools_LipGen_ssce5532.dll
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_animated-overlay.gif
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_flat_30_cccccc_40x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_flat_50_5c5c5c_40x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_glass_40_ffc73d_1x400.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-hard_20_0972a5_1x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-hard_20_767676_1x100.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_33_003147_1x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_35_222222_1x100.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_44_444444_1x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_highlight-soft_80_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-bg_loop_25_000000_21x21.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_4b8e0b_256x240.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_a83300_256x240.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_cccccc_256x240.png
+*  Tools_MaterialEditor_htdocs_css_dark-hive_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.10.3.custom.min.css
 *  Tools_MaterialEditor_htdocs_css_dark-hive_jquery-ui-1.8.16.custom.css
@@ -220,12 +229,22 @@
 *  Tools_MaterialEditor_htdocs_css_images_treeview-red.gif
 *  Tools_MaterialEditor_htdocs_css_jquery.treeview.css
 *  Tools_MaterialEditor_htdocs_css_screen.css
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_diagonals-thick_18_b81900_40x40.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_diagonals-thick_20_666666_40x40.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_flat_10_000000_40x100.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_100_f6f6f6_1x400.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_100_fdf5ce_1x400.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_glass_65_ffffff_1x400.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_gloss-wave_35_f6a828_500x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
+*  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui-lightness_images_ui-icons_ef8c08_256x240.png
 *  Tools_MaterialEditor_htdocs_css_ui.spinner.css
+*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-icons_228ef1_256x240.png
 *  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-icons_ffd27a_256x240.png
+*  Tools_MaterialEditor_htdocs_css_xui-lightness_images_ui-icons_ffffff_256x240.png
+*  Tools_MaterialEditor_htdocs_css_xui-lightness_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_development-bundle_AUTHORS.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_collapsible.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_accordion_custom-icons.html
@@ -273,7 +292,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_default.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_dropdown-month-year.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_icon-trigger.html
-*  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_images_calendar.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_inline.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_datepicker_localization.html
@@ -321,11 +339,13 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_effect_easing.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_effect_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_hide_default.html
+*  Tools_MaterialEditor_htdocs_development-bundle_demos_images_calendar.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_demo-config-on-tile.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_demo-config-on.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_demo-spindown-closed.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_demo-spindown-open.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_images_icon-docs-info.gif
+*  Tools_MaterialEditor_htdocs_development-bundle_demos_images_pbar-ani.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_position_cycler.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_position_default.html
@@ -335,7 +355,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_position_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_animated.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_default.html
-*  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_images_pbar-ani.gif
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_index.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_progressbar_resize.html
 *  Tools_MaterialEditor_htdocs_development-bundle_demos_removeClass_default.html
@@ -427,11 +446,16 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_external_qunit.js
 *  Tools_MaterialEditor_htdocs_development-bundle_GPL-LICENSE.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.7.2.js
+*  Tools_MaterialEditor_htdocs_development-bundle_jquery-1.9.1.js
 *  Tools_MaterialEditor_htdocs_development-bundle_MIT-LICENSE.txt
 *  Tools_MaterialEditor_htdocs_development-bundle_package.json
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_flat_0_aaaaaa_40x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_flat_75_ffffff_40x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_55_fbf9ee_1x400.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_75_dadada_1x400.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_75_e6e6e6_1x400.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_glass_95_fef1ec_1x400.png
+*  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-bg_highlight-soft_75_cccccc_1x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_2e83ff_256x240.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_images_ui-icons_454545_256x240.png
@@ -443,10 +467,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.dialog.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.tabs.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_base_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_flat_30_cccccc_40x100.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_highlight-hard_20_0972a5_1x100.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_highlight-soft_33_003147_1x100.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_images_ui-bg_highlight-soft_44_444444_1x100.png
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.accordion.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.all.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.button.css
@@ -456,8 +476,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.selectable.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.slider.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_dark-hive_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_images_ui-bg_diagonals-thick_20_666666_40x40.png
-*  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery-ui-1.8.20.custom.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.accordion.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.all.css
 *  Tools_MaterialEditor_htdocs_development-bundle_themes_ui-lightness_jquery.ui.autocomplete.css
@@ -484,9 +502,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-da.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-de.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-el.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-en-AU.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-en-GB.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-en-NZ.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-eo.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-es.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-et.js
@@ -499,18 +514,15 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-gl.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-he.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hr.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hu.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-hy.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-id.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-is.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-it.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ja.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-kk.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-km.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ko.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-lt.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-lv.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-mk.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ml.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-ms.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_i18n_jquery.ui.datepicker-nl.js
@@ -563,10 +575,6 @@
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.sortable.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.tabs.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_jquery.ui.widget.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.explode.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.highlight.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.scale.min.js
-*  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.effects.slide.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.accordion.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.autocomplete.min.js
 *  Tools_MaterialEditor_htdocs_development-bundle_ui_minified_jquery.ui.button.min.js
@@ -686,11 +694,8 @@
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-bg_highlight-soft_44_444444_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-bg_highlight-soft_80_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-bg_loop_25_000000_21x21.png
-*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-icons_a83300_256x240.png
-*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_images_ui-icons_cccccc_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_jquery-ui-1.10.3.custom.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_dark-hive_jquery-ui-1.10.3.custom.min.css
-*  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_animated-overlay.gif
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-bg_flat_30_cccccc_40x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-bg_flat_50_5c5c5c_40x100.png
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-darkness_images_ui-bg_glass_20_555555_1x400.png
@@ -723,14 +728,9 @@
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-lightness_jquery-ui.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-lightness_jquery-ui.min.css
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_css_ui-lightness_jquery.ui.theme.css
-*  Tools_MaterialEditor_htdocs_ui_1.10.3_js_jquery-1.9.1.js
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_js_jquery-ui-1.10.3.custom.js
 *  Tools_MaterialEditor_htdocs_ui_1.10.3_js_jquery-ui-1.10.3.custom.min.js
-*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_flat_0_aaaaaa_40x100.png
-*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_glass_75_dadada_1x400.png
-*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_glass_75_e6e6e6_1x400.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_glass_75_ffffff_1x400.png
-*  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_highlight-soft_75_cccccc_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-bg_inset-soft_95_fef1ec_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-icons_2e83ff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_bootstrap_images_ui-icons_454545_256x240.png
@@ -764,22 +764,12 @@
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_gloss-wave_35_f6a828_500x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_highlight-soft_100_eeeeee_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_222222_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_228ef1_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_ef8c08_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_ffd27a_256x240.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.10.3_jquery-ui-1.10.3.custom.min.css
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_glass_100_f6f6f6_1x400.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_glass_100_fdf5ce_1x400.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.8.23_jquery-ui-1.8.23.custom.css
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-bg_diagonals-thick_18_b81900_40x40.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-bg_glass_65_ffffff_1x400.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-icons_228ef1_256x240.png
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_images_ui-icons_ffffff_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_1.9.1_jquery-ui-1.9.1.custom.min.css
-*  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-bg_flat_10_000000_40x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-bg_highlight-soft_75_ffe45c_1x100.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_images_ui-icons_228ef1_256x240.png
 *  Tools_MaterialEditor_htdocs_ui_css_ui-lightness_jquery-ui-1.8.21.custom.css
@@ -796,6 +786,9 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-da.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-de.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-el.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-en-AU.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-en-GB.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-en-NZ.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-eo.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-es.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-et.js
@@ -810,17 +803,20 @@
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-he.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hi.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hr.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hu.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-hy.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-id.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-is.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-it.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ja.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-kk.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-km.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ko.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-kz.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-lb.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-lt.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-lv.js
+*  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-mk.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ml.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-ms.js
 *  Tools_MaterialEditor_htdocs_ui_i18n_jquery.ui.datepicker-nl-BE.js
@@ -878,10 +874,14 @@
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.clip.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.core.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.drop.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.explode.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fade.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.fold.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.highlight.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.pulsate.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.scale.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.shake.min.js
+*  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.slide.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.effects.transfer.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.accordion.min.js
 *  Tools_MaterialEditor_htdocs_ui_minified_jquery.ui.autocomplete.min.js
