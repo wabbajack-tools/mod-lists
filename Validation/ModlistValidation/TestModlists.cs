@@ -70,6 +70,8 @@ namespace ModlistValidation
                 Assert.True(e == null, $"Unable to deserialize file \"{invalidReposFile}\"");
                 throw;
             }
+            repositories = repositories.ToDictionary(x => x.Key, x => NormalizeRawUrl(x.Value));
+            invalidRepositories = invalidRepositories.ToDictionary(x => x.Key, x => NormalizeRawUrl(x.Value));
             var repoKeys = new HashSet<string>(repositories.Keys);
             var repoValues = new HashSet<Uri>(repositories.Values);
             var invalidRepoKeys = new HashSet<string>(invalidRepositories.Keys);
@@ -224,6 +226,24 @@ namespace ModlistValidation
             Assert.True(MachineUrlRegex.IsMatch(machineUrl),
                 "MachineUrl/ModlistRepository is not valid! Allowed Characters are: 0-9, A-Z, a-z, _ and - use https://regex101.com/r/cVYtyA/2" +
                 $"to test: \"{machineUrl}\" (\"{name}\")");
+        }
+
+        private static Uri NormalizeRawUrl(Uri url)
+        {
+            if (!url.Host.Equals("raw.githubusercontent.com", StringComparison.OrdinalIgnoreCase))
+                return url;
+
+            var segments = url.AbsolutePath.Split('/');
+            if (segments.Length < 6)
+                return url;
+            if (!segments[3].Equals("refs", StringComparison.OrdinalIgnoreCase))
+                return url;
+            if (!segments[4].Equals("heads", StringComparison.OrdinalIgnoreCase) &&
+                !segments[4].Equals("tags", StringComparison.OrdinalIgnoreCase))
+                return url;
+
+            var path = string.Join('/', segments.Take(3).Concat(segments.Skip(5)));
+            return new Uri(url.GetLeftPart(UriPartial.Authority) + path + url.Query);
         }
 
         private static void ValidateGitHubUri(Uri uri, string name)
