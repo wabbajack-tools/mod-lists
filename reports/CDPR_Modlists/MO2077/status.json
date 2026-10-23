@@ -3,9 +3,402 @@
   "Name": "MO2077",
   "Version": "2.0.1",
   "ModListHash": "aiEFZgCNhg8=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CwllShO1gp4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=429371",
+        "Name": "Root Builder 4.4.4-31720-4-4-4-1695823696.zip",
+        "Size": 856922,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 429371,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "IsNSFW": false,
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Dt+KPWOQ0U4=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2557\nfileID=49983",
+        "Name": "Always First Equip-2557-2-0-1-1695968727.zip",
+        "Size": 30174,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJ_Kovrik",
+          "Description": "Repeats firstEquip animation each time you equip your weapon or press a hotkey. Allows to trigger additional weapon inspection animations: IdleBreak and SafeAction. Highly configurable.",
+          "FileID": 49983,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2557/2557-1620280394-1500347499.jpeg",
+          "IsNSFW": false,
+          "ModID": 2557,
+          "Name": "Always First Equip",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CTcmXbKGobs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=107\nfileID=51640",
+        "Name": "Patch 2.01 - bug fix-107-1-27-1-1696700145.zip",
+        "Size": 34165651,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yamashi",
+          "Description": "Scripting framework for modders and quality of life fixes.",
+          "FileID": 51640,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/107/107-1613641770-185635979.png",
+          "IsNSFW": false,
+          "ModID": 107,
+          "Name": "Cyber Engine Tweaks",
+          "Version": "1.18.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YspOxRlH9hY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7299\nfileID=50556",
+        "Name": "Sit Anywhere 1.2-7299-1-2-1696196422.zip",
+        "Size": 249807,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "This mod lets you sit down almost anywhere you want",
+          "FileID": 50556,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7299/7299-1675284540-215469595.png",
+          "IsNSFW": false,
+          "ModID": 7299,
+          "Name": "Sit Anywhere",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/Cp4eoDteNQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3850\nfileID=49703",
+        "Name": "ACU - Character Customization-3850-2-3-0-1695848139.rar",
+        "Size": 68306,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PotatoOfDoom",
+          "Description": "This mod unlocks the new 1.5 Appearance Change Mirror to completely change your appearance including your voice, facial features and your body. AND allows you to save your character presets",
+          "FileID": 49703,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3850/3850-1645978776-1620937641.png",
+          "IsNSFW": false,
+          "ModID": 3850,
+          "Name": "Appearance Change Unlocker",
+          "Version": "2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rozta2I8eLY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=9214\nfileID=49173",
+        "Name": "better fast travel map-9214-v1-1695407480.zip",
+        "Size": 10634,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yakuzadeso",
+          "Description": "Makes the Fast Travel menu behave more like the Map menu.",
+          "FileID": 49173,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/9214/9214-1695407356-1491595110.png",
+          "IsNSFW": false,
+          "ModID": 9214,
+          "Name": "Better Fast Travel Map - Update 2.0 - Redscript",
+          "Version": "v1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JH2whwcO0Mw=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4197\nfileID=51549",
+        "Name": "TweakXL-4197-1-4-0-1696670752.zip",
+        "Size": 547881,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "TweakDB modifications loader and script extensions",
+          "FileID": 51549,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4197/4197-1648116989-1847614261.jpeg",
+          "IsNSFW": false,
+          "ModID": 4197,
+          "Name": "TweakXL",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DPRnov91QfA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2675\nfileID=51093",
+        "Name": "Immersive First Person-2675-1-4-0-1696452842.zip",
+        "Size": 27473,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bonaniki",
+          "Description": "Improved body presence and free look.",
+          "FileID": 51093,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2675/2675-1625341587-429628205.jpeg",
+          "IsNSFW": false,
+          "ModID": 2675,
+          "Name": "Immersive First Person",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F5+3t08W2L8=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1686\nfileID=6833",
+        "Name": "MO2 - Blue Splash Screen - Lighter Version-1686-1-0-1613522071.zip",
+        "Size": 224883,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Silverthorn1111",
+          "Description": "A new splash screen and 2 icons to use with Mod Organizer 2.",
+          "FileID": 6833,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1686/1686-1613521646-379410641.png",
+          "IsNSFW": false,
+          "ModID": 1686,
+          "Name": "Mod Organizer Splash Screen and Icons for Cyberpunk 2077",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eXQMfcZV+jg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3518\nfileID=49655",
+        "Name": "Native Settings UI 1.95-3518-1-95-1695837277.zip",
+        "Size": 15068,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu",
+          "FileID": 49655,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3518/3518-1638213207-1484439585.png",
+          "IsNSFW": false,
+          "ModID": 3518,
+          "Name": "Native Settings UI",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "20Kn/lXFAfA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=9467\nfileID=50784",
+        "Name": "inf double jump-9467-1-0-0-1-1696336993.zip",
+        "Size": 1249,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yakuzadeso",
+          "Description": "Can double jump infinitely.",
+          "FileID": 50784,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/9467/9467-1696203453-739579919.png",
+          "IsNSFW": false,
+          "ModID": 9467,
+          "Name": "Infinite Double Jump",
+          "Version": "1.0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TLJIeRPx0dY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4198\nfileID=51548",
+        "Name": "ArchiveXL-4198-1-7-0-1696670721.zip",
+        "Size": 561462,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "Archive extension loader",
+          "FileID": 51548,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4198/4198-1648116857-72076015.jpeg",
+          "IsNSFW": false,
+          "ModID": 4198,
+          "Name": "ArchiveXL",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RrXpTWA4msk=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4575\nfileID=44190",
+        "Name": "input_loader.zip-4575-0-1-1-1683848529.zip",
+        "Size": 383198,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jack Humbert",
+          "Description": "This plugin looks for all r6/input/*.xml files and merges them with the appropriate input config file from r6/config/ and saves results to r6/cache/. A configuration file is written to engine/config/platform/pc/input_loader.ini, which tells the game to load the merged .xml files.",
+          "FileID": 44190,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4575/4575-1653846065-507129799.png",
+          "IsNSFW": false,
+          "ModID": 4575,
+          "Name": "Input Loader",
+          "Version": "0.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "49WkypEwEUo=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2913\nfileID=50553",
+        "Name": "Simple Flashlight 2.5-2913-2-5-1696195369.zip",
+        "Size": 93042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "Adds a simple toggleable flashlight to the game.",
+          "FileID": 50553,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2913/2913-1626364366-685442978.png",
+          "IsNSFW": false,
+          "ModID": 2913,
+          "Name": "Simple Flashlight",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rhBuL7FNdZM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2380\nfileID=51552",
+        "Name": "RED4ext-2380-1-17-0-1696670826.zip",
+        "Size": 575898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WopsS",
+          "Description": "A script extender for REDengine 4.",
+          "FileID": 51552,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2380/2380-1618829826-1376548256.png",
+          "IsNSFW": false,
+          "ModID": 2380,
+          "Name": "RED4ext",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Bg5Cj3FbKas=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7780\nfileID=51550",
+        "Name": "Codeware-7780-1-3-0-1696670780.zip",
+        "Size": 444651,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "Script extensions",
+          "FileID": 51550,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7780/7780-1678888364-446201648.jpeg",
+          "IsNSFW": false,
+          "ModID": 7780,
+          "Name": "Codeware",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HO7kslGYlak=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=533\nfileID=9823",
+        "Name": "No Intro Videos-533-0-3-1617042696.7z",
+        "Size": 8283,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJ_Kovrik",
+          "Description": "Disables the game intro videos.",
+          "FileID": 9823,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/533/533-1608996459-230954815.jpeg",
+          "IsNSFW": false,
+          "ModID": 533,
+          "Name": "No Intro Videos",
+          "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zFvFyM69a1I=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1511\nfileID=49786",
+        "Name": "redscript-1511-0-5-16-1695895920.zip",
+        "Size": 954555,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jac3km4",
+          "Description": "Compiler for Cyberpunk2077 scripts",
+          "FileID": 49786,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1511/1511-1612727913-1059595445.png",
+          "IsNSFW": false,
+          "ModID": 1511,
+          "Name": "redscript",
+          "Version": "0.3.4"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/MO2077_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/MO2077_large.webp"
 }
