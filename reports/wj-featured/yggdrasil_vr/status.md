@@ -459,7 +459,7 @@
 *  [Falmer.4k-2k-17224-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17224/?tab=files&file_id=54504)
 *  [Fast Decompress 174643 1.4.2 2026-09-03T08-58Z pQ0AZ3j2f.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174643/?tab=files&file_id=799626)
 *  [Faster File Copy 175531 1.7.1 2026-09-07T10-22Z Ae46W7UO3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175531/?tab=files&file_id=801720)
-*  [Faster Objects 196070 1.0.1 2026-10-22T12-04Z UK35XnG1M.zip](https://www.nexusmods.com/skyrimspecialedition/mods/196070/?tab=files&file_id=824233)
+*  [Faster Objects 196070 1.0.3 2026-10-24T20-07Z qTl1Sxn5I.zip](https://www.nexusmods.com/skyrimspecialedition/mods/196070/?tab=files&file_id=825451)
 *  [Faster Transform SE-15254-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15254/?tab=files&file_id=45888)
 *  [FasterHorses_V_1_1-2003-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2003/?tab=files&file_id=2707)
 *  [FasterLoadscreens 182852 1.0.5.1 2026-09-12T22-13Z miUDjFyiA.zip](https://www.nexusmods.com/skyrimspecialedition/mods/182852/?tab=files&file_id=804296)
