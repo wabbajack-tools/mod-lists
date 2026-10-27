@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1070)
+### Valid (1063)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
 *  [.tri Expression Morphs-71235-3-36c-1683751633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71235/?tab=files&file_id=386760)
@@ -177,7 +177,6 @@
 *  Data_E - Textures1.bsa
 *  Data_E - Textures2.bsa
 *  Data_Enderal - Forgotten Stories.esm
-*  Data_Enderal - Forgotten Stories.ini
 *  Data_Enderal Credits.txt
 *  Data_Enderal SE v2.1.4.4 Changelog.txt
 *  Data_enderal.ico
@@ -313,17 +312,12 @@
 *  Data_SKSE_Plugins_CrashLogger.dll
 *  Data_SKSE_Plugins_EnderalSE.dll
 *  Data_SKSE_Plugins_EnderalSteam.dll
-*  Data_SKSE_Plugins_EnderalSteam.ini
-*  Data_SKSE_Plugins_EnderalVersion.ini
 *  Data_SKSE_Plugins_EngineFixes.dll
 *  Data_SKSE_Plugins_fs_src.zip
 *  Data_SKSE_Plugins_fs_steam_src.zip
 *  Data_SKSE_Plugins_msdia140.dll
 *  Data_SKSE_Plugins_SkyrimRedirector.dll
-*  Data_SKSE_Plugins_SSEDisplayTweaks.ini
 *  Data_SKSE_Plugins_YesImSure.dll
-*  Data_SKSE_Plugins_YesImSure.ini
-*  Data_SKSE_SKSE.ini
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -923,7 +917,6 @@
 *  [Skyrim Flora Overhaul-2154-2-74a-1731351285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2154/?tab=files&file_id=561312)
 *  [Skyrim Vanity System-175182-v1-4-10-1777394364.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175182/?tab=files&file_id=746779)
 *  Skyrim_Default.ini
-*  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  SkyrimSE.exe
 *  [SkyUI-12604-6-11-1778020881.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=749043)
