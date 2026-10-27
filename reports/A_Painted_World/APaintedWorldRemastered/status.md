@@ -356,7 +356,7 @@
 *  [Oblivion Ultra Plus v3.2.3-without_ue4ssfiles-27-3-2-3-1770743887.zip](https://www.nexusmods.com/oblivionremastered/mods/27/?tab=files&file_id=21428)
 *  [Oblivion Unreal Fixes-4676-1-5-0-1753451934.7z](https://www.nexusmods.com/oblivionremastered/mods/4676/?tab=files&file_id=19485)
 *  [OblivionDamageFormulaSkillUncapper (OBSE)-1846-1-3-1-1746667445.7z](https://www.nexusmods.com/oblivionremastered/mods/1846/?tab=files&file_id=8078)
-*  [OblivionPerfFix 1.2.1-beta OBSE64 5709 1.2.1-beta 2026-10-24T09-22Z N98X1bifE.zip](https://www.nexusmods.com/oblivionremastered/mods/5709/?tab=files&file_id=24008)
+*  [OblivionPerfFix 1.2.2-beta OBSE64 5709 1.2.2-beta 2026-10-26T11-08Z R3yx2oAqY.zip](https://www.nexusmods.com/oblivionremastered/mods/5709/?tab=files&file_id=24044)
 *  [OblivionQuickLoot 1.0.0 Steam 5683 1 2026-10-09T09-29Z QZOSNIkHp.zip](https://www.nexusmods.com/oblivionremastered/mods/5683/?tab=files&file_id=23877)
 *  [OBSE-282-0-2-2-1752690481.7z](https://www.nexusmods.com/oblivionremastered/mods/282/?tab=files&file_id=19246)
 *  [OCM 5721 2 2026-10-21T22-59Z GeWOmJf8v.zip](https://www.nexusmods.com/oblivionremastered/mods/5721/?tab=files&file_id=23981)
