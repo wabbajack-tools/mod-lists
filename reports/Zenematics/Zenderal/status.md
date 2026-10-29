@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1069)
+### Valid (1070)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
 *  [.tri Expression Morphs-71235-3-36c-1683751633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71235/?tab=files&file_id=386760)
@@ -616,6 +616,7 @@
 *  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Poly Vanilla Burnt Corpses-150421-1-1-1778182180.rar](https://www.nexusmods.com/skyrimspecialedition/mods/150421/?tab=files&file_id=749730)
+*  [Hit Where You Aim 193960 1.1.2 2026-10-28T15-00Z oPpNfUoKy.7z](https://www.nexusmods.com/skyrimspecialedition/mods/193960/?tab=files&file_id=827867)
 *  [Horizon Fix 184607 0.8.1 2026-10-04T02-25Z kATsMWGu4.zip](https://www.nexusmods.com/skyrimspecialedition/mods/184607/?tab=files&file_id=814358)
 *  [Hot Key Skill-86352-0-8-1688522971.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86352/?tab=files&file_id=403848)
 *  [Hotfix1cForDesaturated-9799-1-0c.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9799/?tab=files&file_id=25976)
