@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1222)
+### Valid (1220)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_HairHilda.rar](https://www.patreon.com/file?h=86395571&m=217122685)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
@@ -285,7 +285,6 @@
 *  Data_SKSE_Plugins_EngineFixes.toml
 *  Data_SKSE_Plugins_fs_steam.dll
 *  Data_SKSE_Plugins_SkyrimRedirector.dll
-*  Data_SKSE_Plugins_SkyrimRedirector.log
 *  Data_SKSE_Plugins_SSEDisplayTweaks.dll
 *  Data_SKSE_Plugins_SSEDisplayTweaks.ini
 *  Data_SKSE_Plugins_YesImSure.dll
@@ -987,7 +986,6 @@
 *  [SKSE Auto Heels-154904-0-0-5-1759002613.zip](https://www.nexusmods.com/skyrimspecialedition/mods/154904/?tab=files&file_id=669951)
 *  [SKSE Menu Framework 120352 3.13-Hotfix2 2026-07-09T16-10Z 587RqTYjW.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120352/?tab=files&file_id=773663)
 *  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
-*  skse64_loader.exe
 *  [Skullbreaker - Blunt Weapon SFX Overhaul-79219-1-1-1702224895.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79219/?tab=files&file_id=450505)
 *  [SkyHUD v090B - Lite Installer-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61304)
 *  [Skyking Alchemy Complex Material-135679-1-0-1739519805.rar](https://www.nexusmods.com/skyrimspecialedition/mods/135679/?tab=files&file_id=594436)
