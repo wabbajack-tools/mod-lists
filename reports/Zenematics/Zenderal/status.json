@@ -1,8 +1,8 @@
 {
   "MachineURL": "Zenematics/Zenderal",
   "Name": "Zenderal",
-  "Version": "0.9",
-  "ModListHash": "AaSgTUBuskA=",
+  "Version": "0.9.1",
+  "ModListHash": "gjDwE0kEwvw=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7066,42 +7066,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/CotiCNXTFw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=144556\nfileID=605040",
-        "Name": "Barstool Exit Animation Fix-144556-1-00-1741847187.rar",
-        "Size": 12462,
+        "Hash": "ggWG3hRitcg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=80232\nfileID=796514",
+        "Name": "Beard Mask Fix 80232 1.0.2 2026-08-28T16-55Z yIjvuhTJ7.7z",
+        "Size": 4776512,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Exalderan",
-          "Description": "Fixes the awkward barstool exit animation by restoring and fixing Skyrim\u2019s intended forward-exit movement. No more weird backward bench exits \u2014 just smooth, natural animations for both male and female characters, exactly as Bethesda originally meant!",
-          "FileID": 605040,
+          "Author": "Parapets",
+          "Description": "Hides facial hair when wearing items using slot 44.",
+          "FileID": 796514,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/144556/144556-1741855199-1296750823.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80232/80232-1670448348-1343601396.png",
           "IsNSFW": false,
-          "ModID": 144556,
-          "Name": "Barstool Exit Animation Fix",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AQcIg95gVlI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74484\nfileID=481665",
-        "Name": "Compass Navigation Overhaul-74484-2-2-0-1710712304.rar",
-        "Size": 582796,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alexsylex",
-          "Description": "This mod adds quality-of-life features and improvements to the compass, seen in games such as The Witcher 3, Horizon Zero Dawn, God of War, etc.",
-          "FileID": 481665,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74484/74484-1662064677-911577158.gif",
-          "IsNSFW": false,
-          "ModID": 74484,
-          "Name": "Compass Navigation Overhaul",
-          "Version": "2.1.1"
+          "ModID": 80232,
+          "Name": "Beard Mask Fix - Beards Use Slot 44 SKSE Plugin",
+          "Version": "1.0.1"
         }
       }
     },
@@ -7123,6 +7102,27 @@
           "ModID": 28,
           "Name": "Craftsman Tools Replacer",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mgV+k4bx6pA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68402\nfileID=346590",
+        "Name": "Creation Collision Fix-68402-1-0-3-1672826382.7z",
+        "Size": 34248,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zhongjiedong",
+          "Description": "Ever used a mod for realistic weapon reach and this happens?",
+          "FileID": 346590,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68402/68402-1653134332-1309282418.jpeg",
+          "IsNSFW": false,
+          "ModID": 68402,
+          "Name": "Creature Collision Fix",
+          "Version": "1.02"
         }
       }
     },
@@ -7268,6 +7268,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Piu1F0DEsNE=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=4\nfileID=17",
+        "Name": "Enderal SE - Crossbows-4-1-07-1614159391.rar",
+        "Size": 23412,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ixion XVII",
+          "Description": "Adds Crossbows to Enderal SE. (english \u002B german)",
+          "FileID": 17,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/4/4-1614159221-259977078.jpeg",
+          "IsNSFW": false,
+          "ModID": 4,
+          "Name": "Enderal SE - Crossbows",
+          "Version": "1.07"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PfP3k9EBwqQ=",
         "Meta": "[General]\ngameName=enderalse\nmodID=799\nfileID=3150",
         "Name": "ERM - Enderal Addon-799-1-0-1729962221.rar",
@@ -7310,21 +7331,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PcbtFyjNHPw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=71235\nfileID=386760",
-        "Name": ".tri Expression Morphs-71235-3-36c-1683751633.7z",
-        "Size": 1083158,
+        "Hash": "/OydKzMTHj8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35785\nfileID=151138",
+        "Name": "Expressive Facegen Morphs SE-35785-1-0-1595174141.7z",
+        "Size": 2628697,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "veracruze",
-          "Description": "Be more expressive! Facial Expressions Replacer for High Poly Head 1.4 by KouLeifoh and default Low Poly Head.",
-          "FileID": 386760,
+          "Author": "Niroku",
+          "Description": "This mod replaces the morphs for the vanilla human and elf character creations and adds a morph for Racemenu.",
+          "FileID": 151138,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71235/71235-1657620240-1797720080.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35785/35785-1604675729-217979873.jpeg",
           "IsNSFW": false,
-          "ModID": 71235,
-          "Name": "Even More Expressive High And Low Poly Facial Animation",
-          "Version": "3.36c"
+          "ModID": 35785,
+          "Name": "Expressive Facegen Morphs SE",
+          "Version": "1.0"
         }
       }
     },
@@ -7541,27 +7562,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Rn4Oc+n5G8s=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=758\nfileID=2956",
-        "Name": "Leor Upscaled 4K-758-1-0-1722625662.rar",
-        "Size": 24194029,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hortophyll",
-          "Description": "Leoran Texture Upscaled 4k",
-          "FileID": 2956,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/758/758-1722625367-344165200.png",
-          "IsNSFW": false,
-          "ModID": 758,
-          "Name": "Leoran Texture Upscaled",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "tV2GhEWq+ug=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=86183\nfileID=365127",
         "Name": "Leviathan Animations II - Greatsword Low Stance-86183-1-0-1677861203.7z",
@@ -7758,48 +7758,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5XvD9bnu66g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46507\nfileID=398923",
-        "Name": "Dwemer Pipework Reworked 5-46507-5-1687095920.rar",
-        "Size": 334164435,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caleb2  - a k a   Anubis",
-          "Description": "Rework of Dwemer pipes and boilers.",
-          "FileID": 398923,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46507/46507-1615012118-1485397878.jpeg",
-          "IsNSFW": false,
-          "ModID": 46507,
-          "Name": "Dwemer Pipework Reworked",
-          "Version": "v5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "be5ZXzwUwWs=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=36\nfileID=160",
-        "Name": "Enderal - Arp-36-2-12-1617504227.7z",
-        "Size": 24669340,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DevourVR",
-          "Description": "Completely redesigned 4K Arp for Enderal SE / VR. There should never be Skyrim Creatures in this old yet new land.\n\n \u0022Overhaul of the slimy, grudge like.. humanoid creatures within Whisperwood / Fogville.\u0022",
-          "FileID": 160,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/36/36-1618985568-1356070936.png",
-          "IsNSFW": false,
-          "ModID": 36,
-          "Name": "Enderal Arp",
-          "Version": "2.12"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "o8ftlKoWfvE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=74887\nfileID=692174",
         "Name": "Precision Creatures-74887-2-42-1764337858.7z",
@@ -7815,27 +7773,6 @@
           "ModID": 74887,
           "Name": "Precision Creatures",
           "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zYkmfmpL188=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=1072\nfileID=4489",
-        "Name": "Pretty Companions Armory 1072 2.0 2026-09-26T00-39Z n70y1G5KZ.zip",
-        "Size": 83434122,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "longlivethehighking",
-          "Description": "Maximum aesthetics, minimum .esp edits \u2013 complete Enderal armor and weapons overhaul.",
-          "FileID": 4489,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/1072/1072-1782694560-1785921992.png",
-          "IsNSFW": false,
-          "ModID": 1072,
-          "Name": "Pretty Enderal Armory",
-          "Version": "1.5"
         }
       }
     },
@@ -7884,42 +7821,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GxWQI/Di+FQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=194024\nfileID=814587",
-        "Name": "Dynamic Animation Casting NG 1.7.104 Update 194024 3.2.5 2026-10-04T16-00Z Dc5uGkxyj.zip",
-        "Size": 361770,
+        "Hash": "mY82Bt1hXVk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=193635\nfileID=814738",
+        "Name": "Reticle Arcs 193635 1.3.0 2026-10-04T22-28Z izKcFpmr3.zip",
+        "Size": 431937,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Duvior",
-          "Description": "Unofficial DLL patch for ArcEarth\u0027s Dynamic Animation Casting - NG, compiled against CommonLibSSE-NG v10.1.0 for Skyrim SE 1.7.104. Also fixes the magicka/stamina/health bar flashing bug. DLL only - requires the original mod.",
-          "FileID": 814587,
+          "Author": "Chiktabba",
+          "Description": "Reticle Arcs is a standalone UI extension for magic and ranged combat that adds progress indicators around the crosshair for bows, spells and more.",
+          "FileID": 814738,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/194024/194024-1791129317-1403851865.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/193635/193635-1790921097-1302195414.png",
           "IsNSFW": false,
-          "ModID": 194024,
-          "Name": "Dynamic Animation Casting NG - 1.7.104 Update",
-          "Version": "1"
+          "ModID": 193635,
+          "Name": "Reticle Arcs",
+          "Version": "1.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xocnjk3+EUA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=795138",
-        "Name": "Security Overhaul SKSE - Lock Variations 58224 4.1.0 2026-08-25T21-28Z kATsMWjm0.7z",
-        "Size": 180751879,
+        "Hash": "CcvL42Y1rms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62781\nfileID=260861",
+        "Name": "Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z",
+        "Size": 358199384,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kreiste-wSkeever-powerofthree",
-          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 795138,
+          "Author": "powerofthree - Kreiste - wSkeever",
+          "Description": "Regional variant lock models for Security Overhaul SKSE - Lock Variations",
+          "FileID": 260861,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1646367643-2022704935.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62781/62781-1646367699-369455140.png",
           "IsNSFW": false,
-          "ModID": 58224,
-          "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "3.2.0"
+          "ModID": 62781,
+          "Name": "Security Overhaul SKSE - Regional Locks",
+          "Version": "1.0.1"
         }
       }
     },
@@ -7962,27 +7899,6 @@
           "ModID": 182638,
           "Name": "Spider SE",
           "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HRiSnViOyMM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=78226\nfileID=709750",
-        "Name": "Sprint Draw And Sheath Fixes-78226-1-4-3-1768485795.rar",
-        "Size": 11759,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Placinta8",
-          "Description": "Fixes incorrect movement speed and doubled footstep sounds after drawing or sheathing an item while sprinting or sneaking.",
-          "FileID": 709750,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78226/78226-1667670134-1028695972.png",
-          "IsNSFW": false,
-          "ModID": 78226,
-          "Name": "Sprint Draw And Sheath Fixes",
-          "Version": "1.4"
         }
       }
     },
@@ -8073,42 +7989,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2M4H6MExMJ0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=192113\nfileID=813722",
-        "Name": "TheosRenderPipeline Standard 0.3.6 192113 0.3.6 2026-10-02T20-05Z MWx0rvVBZ.zip",
-        "Size": 157046292,
+        "Hash": "QOYL8yQNB2c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=192113\nfileID=824373",
+        "Name": "TheosRenderPipeline Standard 0.5.2 192113 0.5.2 2026-10-22T18-49Z GkqKVMF7C.zip",
+        "Size": 423823024,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ThePenguinT",
           "Description": "Steamline licensed DLSS/FrameGen; MFG only on RTX50 cards etc",
-          "FileID": 813722,
+          "FileID": 824373,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/192113/192113-1789623613-908080214.jpg",
           "IsNSFW": false,
           "ModID": 192113,
           "Name": "Theo\u0027s Render Pipeline - DLSS - FrameGen",
           "Version": "0.3.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v4msJNqGQVI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=111788\nfileID=471428",
-        "Name": "TK Dodge Animation Pandora Patch-111788-v0-1-1708089837.7z",
-        "Size": 447953,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "tktk1 and Xing",
-          "Description": "Fixed the problem of rolling in place using the Default TK dodge animation While using the new Behavior Engine Pandora.",
-          "FileID": 471428,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/111788/111788-1708089390-1257373777.png",
-          "IsNSFW": false,
-          "ModID": 111788,
-          "Name": "TK Dodge Animation Pandora Patch",
-          "Version": "v0.1"
         }
       }
     },
@@ -8438,21 +8333,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/OydKzMTHj8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35785\nfileID=151138",
-        "Name": "Expressive Facegen Morphs SE-35785-1-0-1595174141.7z",
-        "Size": 2628697,
+        "Hash": "PcbtFyjNHPw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71235\nfileID=386760",
+        "Name": ".tri Expression Morphs-71235-3-36c-1683751633.7z",
+        "Size": 1083158,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Niroku",
-          "Description": "This mod replaces the morphs for the vanilla human and elf character creations and adds a morph for Racemenu.",
-          "FileID": 151138,
+          "Author": "veracruze",
+          "Description": "Be more expressive! Facial Expressions Replacer for High Poly Head 1.4 by KouLeifoh and default Low Poly Head.",
+          "FileID": 386760,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35785/35785-1604675729-217979873.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71235/71235-1657620240-1797720080.png",
           "IsNSFW": false,
-          "ModID": 35785,
-          "Name": "Expressive Facegen Morphs SE",
-          "Version": "1.0"
+          "ModID": 71235,
+          "Name": "Even More Expressive High And Low Poly Facial Animation",
+          "Version": "3.36c"
         }
       }
     },
@@ -8690,21 +8585,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CcvL42Y1rms=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62781\nfileID=260861",
-        "Name": "Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z",
-        "Size": 358199384,
+        "Hash": "xocnjk3+EUA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=795138",
+        "Name": "Security Overhaul SKSE - Lock Variations 58224 4.1.0 2026-08-25T21-28Z kATsMWjm0.7z",
+        "Size": 180751879,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree - Kreiste - wSkeever",
-          "Description": "Regional variant lock models for Security Overhaul SKSE - Lock Variations",
-          "FileID": 260861,
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
+          "FileID": 795138,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62781/62781-1646367699-369455140.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1646367643-2022704935.png",
           "IsNSFW": false,
-          "ModID": 62781,
-          "Name": "Security Overhaul SKSE - Regional Locks",
-          "Version": "1.0.1"
+          "ModID": 58224,
+          "Name": "Security Overhaul SKSE - Lock Variations",
+          "Version": "3.2.0"
         }
       }
     },
@@ -10298,6 +10193,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GxWQI/Di+FQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=194024\nfileID=814587",
+        "Name": "Dynamic Animation Casting NG 1.7.104 Update 194024 3.2.5 2026-10-04T16-00Z Dc5uGkxyj.zip",
+        "Size": 361770,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Duvior",
+          "Description": "Unofficial DLL patch for ArcEarth\u0027s Dynamic Animation Casting - NG, compiled against CommonLibSSE-NG v10.1.0 for Skyrim SE 1.7.104. Also fixes the magicka/stamina/health bar flashing bug. DLL only - requires the original mod.",
+          "FileID": 814587,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/194024/194024-1791129317-1403851865.png",
+          "IsNSFW": false,
+          "ModID": 194024,
+          "Name": "Dynamic Animation Casting NG - 1.7.104 Update",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "s+m1lcfCDTg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1432\nfileID=9879",
         "Name": "No Spinning Death Animation MERGED-1432-1-31.zip",
@@ -10376,6 +10292,48 @@
           "ModID": 1072,
           "Name": "Pretty Enderal Armory",
           "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HRiSnViOyMM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=78226\nfileID=709750",
+        "Name": "Sprint Draw And Sheath Fixes-78226-1-4-3-1768485795.rar",
+        "Size": 11759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Placinta8",
+          "Description": "Fixes incorrect movement speed and doubled footstep sounds after drawing or sheathing an item while sprinting or sneaking.",
+          "FileID": 709750,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78226/78226-1667670134-1028695972.png",
+          "IsNSFW": false,
+          "ModID": 78226,
+          "Name": "Sprint Draw And Sheath Fixes",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2M4H6MExMJ0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=192113\nfileID=813722",
+        "Name": "TheosRenderPipeline Standard 0.3.6 192113 0.3.6 2026-10-02T20-05Z MWx0rvVBZ.zip",
+        "Size": 157046292,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ThePenguinT",
+          "Description": "Steamline licensed DLSS/FrameGen; MFG only on RTX50 cards etc",
+          "FileID": 813722,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/192113/192113-1789623613-908080214.jpg",
+          "IsNSFW": false,
+          "ModID": 192113,
+          "Name": "Theo\u0027s Render Pipeline - DLSS - FrameGen",
+          "Version": "0.3.7"
         }
       }
     },
@@ -11209,105 +11167,55 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ggWG3hRitcg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=80232\nfileID=796514",
-        "Name": "Beard Mask Fix 80232 1.0.2 2026-08-28T16-55Z yIjvuhTJ7.7z",
-        "Size": 4776512,
+        "Hash": "LX6FHM3B8yY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=184334\nfileID=776505",
+        "Name": "Canidae - A Wolf Replacer - Fluff AF Patch 184334 1.3 2026-07-15T06-32Z 2Bej58STl.7z",
+        "Size": 13669964,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Hides facial hair when wearing items using slot 44.",
-          "FileID": 796514,
+          "Author": "blo0d1k",
+          "Description": "\u0022Canidae - A Wolf Replacer\u0022 with fluffy patch.",
+          "FileID": 776505,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80232/80232-1670448348-1343601396.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/184334/184334-1783275684-685186730.png",
           "IsNSFW": false,
-          "ModID": 80232,
-          "Name": "Beard Mask Fix - Beards Use Slot 44 SKSE Plugin",
-          "Version": "1.0.1"
+          "ModID": 184334,
+          "Name": "Canidae - A Wolf Replacer - Fluff AF Patch",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mgV+k4bx6pA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=68402\nfileID=346590",
-        "Name": "Creation Collision Fix-68402-1-0-3-1672826382.7z",
-        "Size": 34248,
+        "Hash": "fGywJExGPN8=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ImprovedCameraSE-2.0.0.2226-RelWithDebInfo.zip_d9f12fc4-34ef-48e0-880a-b9228fb49f25",
+        "Name": "ImprovedCameraSE-2.0.0.2226-RelWithDebInfo.zip",
+        "Size": 14209068,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zhongjiedong",
-          "Description": "Ever used a mod for realistic weapon reach and this happens?",
-          "FileID": 346590,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68402/68402-1653134332-1309282418.jpeg",
-          "IsNSFW": false,
-          "ModID": 68402,
-          "Name": "Creature Collision Fix",
-          "Version": "1.02"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/ImprovedCameraSE-2.0.0.2226-RelWithDebInfo.zip_d9f12fc4-34ef-48e0-880a-b9228fb49f25"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Piu1F0DEsNE=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=4\nfileID=17",
-        "Name": "Enderal SE - Crossbows-4-1-07-1614159391.rar",
-        "Size": 23412,
+        "Hash": "0FC3EVcd1U8=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=982\nfileID=3948",
+        "Name": "Grievous Rose Enderal Integration-982-1-00-1758307154.7z",
+        "Size": 2080564,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ixion XVII",
-          "Description": "Adds Crossbows to Enderal SE. (english \u002B german)",
-          "FileID": 17,
+          "Author": "LevinLozenges",
+          "Description": "Integrates the Grievous Rose Armor into Enderal, with the set equipped and available from a main story NPC.",
+          "FileID": 3948,
           "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/4/4-1614159221-259977078.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/982/982-1758301644-1580305503.png",
           "IsNSFW": false,
-          "ModID": 4,
-          "Name": "Enderal SE - Crossbows",
-          "Version": "1.07"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mY82Bt1hXVk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=193635\nfileID=814738",
-        "Name": "Reticle Arcs 193635 1.3.0 2026-10-04T22-28Z izKcFpmr3.zip",
-        "Size": 431937,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Chiktabba",
-          "Description": "Reticle Arcs is a standalone UI extension for magic and ranged combat that adds progress indicators around the crosshair for bows, spells and more.",
-          "FileID": 814738,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/193635/193635-1790921097-1302195414.png",
-          "IsNSFW": false,
-          "ModID": 193635,
-          "Name": "Reticle Arcs",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QOYL8yQNB2c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=192113\nfileID=824373",
-        "Name": "TheosRenderPipeline Standard 0.5.2 192113 0.5.2 2026-10-22T18-49Z GkqKVMF7C.zip",
-        "Size": 423823024,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ThePenguinT",
-          "Description": "Steamline licensed DLSS/FrameGen; MFG only on RTX50 cards etc",
-          "FileID": 824373,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/192113/192113-1789623613-908080214.jpg",
-          "IsNSFW": false,
-          "ModID": 192113,
-          "Name": "Theo\u0027s Render Pipeline - DLSS - FrameGen",
-          "Version": "0.3.7"
+          "ModID": 982,
+          "Name": "Grievous Rose Enderal Integration SPID",
+          "Version": "1.00"
         }
       }
     },
@@ -12211,27 +12119,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0FC3EVcd1U8=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=982\nfileID=3948",
-        "Name": "Grievous Rose Enderal Integration-982-1-00-1758307154.7z",
-        "Size": 2080564,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LevinLozenges",
-          "Description": "Integrates the Grievous Rose Armor into Enderal, with the set equipped and available from a main story NPC.",
-          "FileID": 3948,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/982/982-1758301644-1580305503.png",
-          "IsNSFW": false,
-          "ModID": 982,
-          "Name": "Grievous Rose Enderal Integration SPID",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "rMD3tzOq3iI=",
         "Meta": "[General]\ngameName=enderalse\nmodID=735\nfileID=3333",
         "Name": "Loram Waterblade Replacer CM with new base texture-735-1-2a-1737791555.rar",
@@ -12332,34 +12219,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LX6FHM3B8yY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=184334\nfileID=776505",
-        "Name": "Canidae - A Wolf Replacer - Fluff AF Patch 184334 1.3 2026-07-15T06-32Z 2Bej58STl.7z",
-        "Size": 13669964,
+        "Hash": "HRxHveR8lHY=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=158\nfileID=3886",
+        "Name": "Bank of Ark SE-158-1-05-1756930484.rar",
+        "Size": 3979006,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "blo0d1k",
-          "Description": "\u0022Canidae - A Wolf Replacer\u0022 with fluffy patch.",
-          "FileID": 776505,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/184334/184334-1783275684-685186730.png",
+          "Author": "Kelretu and IxionXVII",
+          "Description": "Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank. (eng/ger/rus)",
+          "FileID": 3886,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/158/158-1623850285-234930998.png",
           "IsNSFW": false,
-          "ModID": 184334,
-          "Name": "Canidae - A Wolf Replacer - Fluff AF Patch",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fGywJExGPN8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ImprovedCameraSE-2.0.0.2226-RelWithDebInfo.zip_d9f12fc4-34ef-48e0-880a-b9228fb49f25",
-        "Name": "ImprovedCameraSE-2.0.0.2226-RelWithDebInfo.zip",
-        "Size": 14209068,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/ImprovedCameraSE-2.0.0.2226-RelWithDebInfo.zip_d9f12fc4-34ef-48e0-880a-b9228fb49f25"
+          "ModID": 158,
+          "Name": "Bank of Ark SE",
+          "Version": "1.04"
         }
       }
     },
@@ -12672,6 +12546,27 @@
           "ModID": 355,
           "Name": "EGO SE - Emberlord sells all spells",
           "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "be5ZXzwUwWs=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=36\nfileID=160",
+        "Name": "Enderal - Arp-36-2-12-1617504227.7z",
+        "Size": 24669340,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DevourVR",
+          "Description": "Completely redesigned 4K Arp for Enderal SE / VR. There should never be Skyrim Creatures in this old yet new land.\n\n \u0022Overhaul of the slimy, grudge like.. humanoid creatures within Whisperwood / Fogville.\u0022",
+          "FileID": 160,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/36/36-1618985568-1356070936.png",
+          "IsNSFW": false,
+          "ModID": 36,
+          "Name": "Enderal Arp",
+          "Version": "2.12"
         }
       }
     },
@@ -13252,21 +13147,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HRxHveR8lHY=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=158\nfileID=3886",
-        "Name": "Bank of Ark SE-158-1-05-1756930484.rar",
-        "Size": 3979006,
+        "Hash": "P/VHI36kgEw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=82382\nfileID=348079",
+        "Name": "1Atronach-82382-1-1673278055.7z",
+        "Size": 29805072,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kelretu and IxionXVII",
-          "Description": "Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank. (eng/ger/rus)",
-          "FileID": 3886,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/158/158-1623850285-234930998.png",
+          "Author": "the flame of oblivion",
+          "Description": "Flame Atronach redesign (no .esp)",
+          "FileID": 348079,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/82382/114429-1673277588-942450484.jpeg",
           "IsNSFW": false,
-          "ModID": 158,
-          "Name": "Bank of Ark SE",
-          "Version": "1.04"
+          "ModID": 82382,
+          "Name": "Flame Atronach SE",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9KFHnR+kDp4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1067\nfileID=85745",
+        "Name": "Hvergelmir\u0027s Aesthetics - Beards 5.0.1-1067-5-0-1-1553198800.rar",
+        "Size": 146084381,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hvergelmir",
+          "Description": "The most popular (and only?) beard retexture mod for Skyrim, Beards - from Hvergelmir\u0027s Aesthetic series is now available for Skyrim: Special Edition!\n\nBeards also enables previously unavailable beard styles Bethesda left out of the game (for good reason?)",
+          "FileID": 85745,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1067/1067-1553189272-224658702.jpeg",
+          "IsNSFW": false,
+          "ModID": 1067,
+          "Name": "Beards",
+          "Version": "5.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sRZ4NXHCHpM=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=809\nfileID=4019",
+        "Name": "OII Enderal Patch 2-1-4-809-1-10-1763844241.7z",
+        "Size": 2681938,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LevinLozenges",
+          "Description": "This mod integrates the amazing Oblivion Interaction Icons mod into Enderal, providing icon symbols in place of text on activators, furniture, and flora in the world of Vyn.",
+          "FileID": 4019,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/809/809-1731896418-1903712524.png",
+          "IsNSFW": false,
+          "ModID": 809,
+          "Name": "Oblivion Interaction Icons Enderal Patch",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8v7OMdj6Rq0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=160675\nfileID=755471",
+        "Name": "Sassy SnW - Beard Color Edits-160675-1-0-1779565571.7z",
+        "Size": 13031394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SassiestAssassin",
+          "Description": "Edits Salt and Wind textures to have a little more depth. Covers Vanilla and KS Hairdos.",
+          "FileID": 755471,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/160675/160675-1760132434-1321771333.png",
+          "IsNSFW": false,
+          "ModID": 160675,
+          "Name": "Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos",
+          "Version": "1.02"
         }
       }
     },
@@ -13304,6 +13262,27 @@
           "ModID": 949,
           "Name": "Perfect Pretzels",
           "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v4msJNqGQVI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=111788\nfileID=471428",
+        "Name": "TK Dodge Animation Pandora Patch-111788-v0-1-1708089837.7z",
+        "Size": 447953,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tktk1 and Xing",
+          "Description": "Fixed the problem of rolling in place using the Default TK dodge animation While using the new Behavior Engine Pandora.",
+          "FileID": 471428,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/111788/111788-1708089390-1257373777.png",
+          "IsNSFW": false,
+          "ModID": 111788,
+          "Name": "TK Dodge Animation Pandora Patch",
+          "Version": "v0.1"
         }
       }
     },
@@ -13468,27 +13447,6 @@
           "ModID": 151,
           "Name": "Wellwatch Manor SE",
           "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9KFHnR+kDp4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1067\nfileID=85745",
-        "Name": "Hvergelmir\u0027s Aesthetics - Beards 5.0.1-1067-5-0-1-1553198800.rar",
-        "Size": 146084381,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hvergelmir",
-          "Description": "The most popular (and only?) beard retexture mod for Skyrim, Beards - from Hvergelmir\u0027s Aesthetic series is now available for Skyrim: Special Edition!\n\nBeards also enables previously unavailable beard styles Bethesda left out of the game (for good reason?)",
-          "FileID": 85745,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1067/1067-1553189272-224658702.jpeg",
-          "IsNSFW": false,
-          "ModID": 1067,
-          "Name": "Beards",
-          "Version": "5.0.1"
         }
       }
     },
@@ -14080,20 +14038,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P/VHI36kgEw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=82382\nfileID=348079",
-        "Name": "1Atronach-82382-1-1673278055.7z",
-        "Size": 29805072,
+        "Hash": "1E13dpPT8Lw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=130919\nfileID=584348",
+        "Name": "HFs - Whiterun Brazier V1 - 2K-130919-2-1737119923.zip",
+        "Size": 34342550,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "the flame of oblivion",
-          "Description": "Flame Atronach redesign (no .esp)",
-          "FileID": 348079,
+          "Author": "Halffaces",
+          "Description": "WRBrazier01.nif and WRBrazierbowl01.nif replacers",
+          "FileID": 584348,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/82382/114429-1673277588-942450484.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/130919/130919-1728138270-1657438968.png",
           "IsNSFW": false,
-          "ModID": 82382,
-          "Name": "Flame Atronach SE",
+          "ModID": 130919,
+          "Name": "HFs - Whiterun Brazier",
           "Version": "1"
         }
       }
@@ -14101,41 +14059,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sRZ4NXHCHpM=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=809\nfileID=4019",
-        "Name": "OII Enderal Patch 2-1-4-809-1-10-1763844241.7z",
-        "Size": 2681938,
+        "Hash": "zLp40VMfULA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=175270\nfileID=794672",
+        "Name": "A Dark Warrior\u0027s Tale 175270 1.39 2026-08-24T22-03Z HZCMOy5lw.zip",
+        "Size": 73363248,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LevinLozenges",
-          "Description": "This mod integrates the amazing Oblivion Interaction Icons mod into Enderal, providing icon symbols in place of text on activators, furniture, and flora in the world of Vyn.",
-          "FileID": 4019,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/809/809-1731896418-1903712524.png",
-          "IsNSFW": false,
-          "ModID": 809,
-          "Name": "Oblivion Interaction Icons Enderal Patch",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8v7OMdj6Rq0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=160675\nfileID=755471",
-        "Name": "Sassy SnW - Beard Color Edits-160675-1-0-1779565571.7z",
-        "Size": 13031394,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SassiestAssassin",
-          "Description": "Edits Salt and Wind textures to have a little more depth. Covers Vanilla and KS Hairdos.",
-          "FileID": 755471,
+          "Author": "Kittytail",
+          "Description": "13 New combat abilities and a new quest! Learn what it means to be a Dark Warrior!",
+          "FileID": 794672,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/160675/160675-1760132434-1321771333.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/175270/175270-1774152906-1438532487.png",
           "IsNSFW": false,
-          "ModID": 160675,
-          "Name": "Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos",
+          "ModID": 175270,
+          "Name": "A Dark Warrior\u0027s Tale",
           "Version": "1.02"
         }
       }
@@ -14939,48 +14876,6 @@
           "ModID": 80907,
           "Name": "Sowables of Skyrim - Leeks",
           "Version": "1.02.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1E13dpPT8Lw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=130919\nfileID=584348",
-        "Name": "HFs - Whiterun Brazier V1 - 2K-130919-2-1737119923.zip",
-        "Size": 34342550,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Halffaces",
-          "Description": "WRBrazier01.nif and WRBrazierbowl01.nif replacers",
-          "FileID": 584348,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/130919/130919-1728138270-1657438968.png",
-          "IsNSFW": false,
-          "ModID": 130919,
-          "Name": "HFs - Whiterun Brazier",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zLp40VMfULA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=175270\nfileID=794672",
-        "Name": "A Dark Warrior\u0027s Tale 175270 1.39 2026-08-24T22-03Z HZCMOy5lw.zip",
-        "Size": 73363248,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kittytail",
-          "Description": "13 New combat abilities and a new quest! Learn what it means to be a Dark Warrior!",
-          "FileID": 794672,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/175270/175270-1774152906-1438532487.png",
-          "IsNSFW": false,
-          "ModID": 175270,
-          "Name": "A Dark Warrior\u0027s Tale",
-          "Version": "1.02"
         }
       }
     },
@@ -16333,6 +16228,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "we5+RLONl60=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=59\nfileID=229",
+        "Name": "Enderal SE - Boneripper Replacer (Clannfear)-59-1-00-1617884263.rar",
+        "Size": 24033836,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "4thUnknown",
+          "Description": "Replaces the models Bonerippers with high quality alternatives.",
+          "FileID": 229,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/59/59-1617884064-1339638773.jpeg",
+          "IsNSFW": false,
+          "ModID": 59,
+          "Name": "Boneripper Replacer (Clannfear Variant)",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UtGsGNQcKYs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=139158\nfileID=767125",
         "Name": "Icy Cave Remaster - Ice Material Patch 139158 1.3 2026-06-23T09-25Z lNkz9L7zu.7z",
@@ -16914,6 +16830,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "AQcIg95gVlI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=74484\nfileID=481665",
+        "Name": "Compass Navigation Overhaul-74484-2-2-0-1710712304.rar",
+        "Size": 582796,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alexsylex",
+          "Description": "This mod adds quality-of-life features and improvements to the compass, seen in games such as The Witcher 3, Horizon Zero Dawn, God of War, etc.",
+          "FileID": 481665,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74484/74484-1662064677-911577158.gif",
+          "IsNSFW": false,
+          "ModID": 74484,
+          "Name": "Compass Navigation Overhaul",
+          "Version": "2.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "brQjElR1yGQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=725753",
         "Name": "Engine Fixes - Main File-17230-7-0-20-1772078239.7z",
@@ -17051,21 +16988,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "we5+RLONl60=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=59\nfileID=229",
-        "Name": "Enderal SE - Boneripper Replacer (Clannfear)-59-1-00-1617884263.rar",
-        "Size": 24033836,
+        "Hash": "tyRAIuDL8HI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=184379\nfileID=771889",
+        "Name": "Harbinger Preset M Nord 184379 1 2026-07-05T10-27Z Z3mWyIkmJ.zip",
+        "Size": 3484760,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4thUnknown",
-          "Description": "Replaces the models Bonerippers with high quality alternatives.",
-          "FileID": 229,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/59/59-1617884064-1339638773.jpeg",
+          "Author": "RelentlessZen",
+          "Description": "Nord Male Old Warrior Preset used in my video on \u0022How to Warrior\u0022 in LoreRim made to be used with LoreRim, if you are using LoreRim, all requirements should already be included For those asking LoreRim seems to use BnP - Male Skin, its not a requirement but if you want to mirror the screenshots, there ya go!",
+          "FileID": 771889,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/184379/184379-1783246520-1403140191.png",
           "IsNSFW": false,
-          "ModID": 59,
-          "Name": "Boneripper Replacer (Clannfear Variant)",
-          "Version": "1.00"
+          "ModID": 184379,
+          "Name": "The Harbinger - Nord Male Preset",
+          "Version": "1"
         }
       }
     },
@@ -17790,21 +17727,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tyRAIuDL8HI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=184379\nfileID=771889",
-        "Name": "Harbinger Preset M Nord 184379 1 2026-07-05T10-27Z Z3mWyIkmJ.zip",
-        "Size": 3484760,
+        "Hash": "ZVClMHS2/Gc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=185697\nfileID=777933",
+        "Name": "Mana Del Ray F Altmer 185697 1 2026-07-17T23-42Z eVtX7J984.zip",
+        "Size": 5057103,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "RelentlessZen",
-          "Description": "Nord Male Old Warrior Preset used in my video on \u0022How to Warrior\u0022 in LoreRim made to be used with LoreRim, if you are using LoreRim, all requirements should already be included For those asking LoreRim seems to use BnP - Male Skin, its not a requirement but if you want to mirror the screenshots, there ya go!",
-          "FileID": 771889,
+          "Description": "Female Altmer Character Preset I made while filming my \u0022How to Mage\u0022 Video on the modlist LoreRim.",
+          "FileID": 777933,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/184379/184379-1783246520-1403140191.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/185697/185697-1784331593-1647382970.png",
           "IsNSFW": false,
-          "ModID": 184379,
-          "Name": "The Harbinger - Nord Male Preset",
+          "ModID": 185697,
+          "Name": "Mana Del Rey - Altmer Female - Character Preset",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ASQiT+fQy1I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=9121\nfileID=413653",
+        "Name": "Better Dynamic Snow SE v3.6.0-9121-3-6-0-1691031879.7z",
+        "Size": 14097452,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SparrowPrince - Step Modifications",
+          "Description": "Better Dynamic Snow SE leverages the projected snow textures to ensure objects in snowy area are snow covered. New features provide even more immersion; giving the world a much greater lived-in feel.",
+          "FileID": 413653,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9121/9121-1609737314-1268877921.png",
+          "IsNSFW": false,
+          "ModID": 9121,
+          "Name": "Better Dynamic Snow SE",
+          "Version": "3.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zYkmfmpL188=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=1072\nfileID=4489",
+        "Name": "Pretty Companions Armory 1072 2.0 2026-09-26T00-39Z n70y1G5KZ.zip",
+        "Size": 83434122,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "longlivethehighking",
+          "Description": "Maximum aesthetics, minimum .esp edits \u2013 complete Enderal armor and weapons overhaul.",
+          "FileID": 4489,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/1072/1072-1782694560-1785921992.png",
+          "IsNSFW": false,
+          "ModID": 1072,
+          "Name": "Pretty Enderal Armory",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9N6r1SSwg2g=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=398\nfileID=1766",
+        "Name": "SMIM Windmill Fix-398-1-00-1650545454.rar",
+        "Size": 122783,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ixion XVII",
+          "Description": "Reduces the size of windmills from SMIM.",
+          "FileID": 1766,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/398/398-1650545227-630447200.png",
+          "IsNSFW": false,
+          "ModID": 398,
+          "Name": "SMIM Windmill Fix",
+          "Version": "1.00"
         }
       }
     },
@@ -18466,63 +18466,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZVClMHS2/Gc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=185697\nfileID=777933",
-        "Name": "Mana Del Ray F Altmer 185697 1 2026-07-17T23-42Z eVtX7J984.zip",
-        "Size": 5057103,
+        "Hash": "W8+A1bAnWMg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57245\nfileID=235897",
+        "Name": "Slow Sprint Bug Fix-57245-1-0-1634664801.7z",
+        "Size": 848,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RelentlessZen",
-          "Description": "Female Altmer Character Preset I made while filming my \u0022How to Mage\u0022 Video on the modlist LoreRim.",
-          "FileID": 777933,
+          "Author": "distar66",
+          "Description": "Prevents the bug that slows you down when sheathing",
+          "FileID": 235897,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/185697/185697-1784331593-1647382970.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57245/57245-1634664550-1619330757.jpeg",
           "IsNSFW": false,
-          "ModID": 185697,
-          "Name": "Mana Del Rey - Altmer Female - Character Preset",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ASQiT+fQy1I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=9121\nfileID=413653",
-        "Name": "Better Dynamic Snow SE v3.6.0-9121-3-6-0-1691031879.7z",
-        "Size": 14097452,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SparrowPrince - Step Modifications",
-          "Description": "Better Dynamic Snow SE leverages the projected snow textures to ensure objects in snowy area are snow covered. New features provide even more immersion; giving the world a much greater lived-in feel.",
-          "FileID": 413653,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9121/9121-1609737314-1268877921.png",
-          "IsNSFW": false,
-          "ModID": 9121,
-          "Name": "Better Dynamic Snow SE",
-          "Version": "3.6.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9N6r1SSwg2g=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=398\nfileID=1766",
-        "Name": "SMIM Windmill Fix-398-1-00-1650545454.rar",
-        "Size": 122783,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ixion XVII",
-          "Description": "Reduces the size of windmills from SMIM.",
-          "FileID": 1766,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/398/398-1650545227-630447200.png",
-          "IsNSFW": false,
-          "ModID": 398,
-          "Name": "SMIM Windmill Fix",
-          "Version": "1.00"
+          "ModID": 57245,
+          "Name": "Slow sprint bug fix",
+          "Version": "1.0"
         }
       }
     },
@@ -19031,27 +18989,6 @@
           "ModID": 49035,
           "Name": "Forsworn Minotaurs",
           "Version": "2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "W8+A1bAnWMg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57245\nfileID=235897",
-        "Name": "Slow Sprint Bug Fix-57245-1-0-1634664801.7z",
-        "Size": 848,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "distar66",
-          "Description": "Prevents the bug that slows you down when sheathing",
-          "FileID": 235897,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57245/57245-1634664550-1619330757.jpeg",
-          "IsNSFW": false,
-          "ModID": 57245,
-          "Name": "Slow sprint bug fix",
-          "Version": "1.0"
         }
       }
     },
@@ -19576,6 +19513,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "52MUeOgq6UE=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=60\nfileID=230",
+        "Name": "Ancestral Spirit Replacer (Variant 1)-60-1-00-1617884779.rar",
+        "Size": 19345930,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "4thUnknown",
+          "Description": "Replaces the models Ancestral Spirits with high quality alternatives.",
+          "FileID": 230,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/60/60-1617884545-1203408275.png",
+          "IsNSFW": false,
+          "ModID": 60,
+          "Name": "Ancestral Spirit Replacer (4 Variants)",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7G9zXHfLgFs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=194968\nfileID=818533",
+        "Name": "CCC Customized Close Preset 194968 1 2026-10-12T00-41Z uhRBKsNox.rar",
+        "Size": 1104,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Revenge096",
+          "Description": "Custom Preset",
+          "FileID": 818533,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/194968/194968-1791765259-1157095138.png",
+          "IsNSFW": false,
+          "ModID": 194968,
+          "Name": "Customized Preset For Cinematic Conversation Camera",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Rn4Oc+n5G8s=",
+        "Meta": "[General]\ngameName=enderalse\nmodID=758\nfileID=2956",
+        "Name": "Leor Upscaled 4K-758-1-0-1722625662.rar",
+        "Size": 24194029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hortophyll",
+          "Description": "Leoran Texture Upscaled 4k",
+          "FileID": 2956,
+          "GameName": "EnderalSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/758/758-1722625367-344165200.png",
+          "IsNSFW": false,
+          "ModID": 758,
+          "Name": "Leoran Texture Upscaled",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wUJd2bV2cKk=",
         "Meta": "[General]\ngameName=EnderalSpecialEdition\ngameFile=Data\\meshes\\actors\\character\\character assets female\\skeleton_female.nif",
         "Name": "Data_meshes_actors_character_character assets female_skeleton_female.nif",
@@ -19978,27 +19978,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "52MUeOgq6UE=",
-        "Meta": "[General]\ngameName=enderalse\nmodID=60\nfileID=230",
-        "Name": "Ancestral Spirit Replacer (Variant 1)-60-1-00-1617884779.rar",
-        "Size": 19345930,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4thUnknown",
-          "Description": "Replaces the models Ancestral Spirits with high quality alternatives.",
-          "FileID": 230,
-          "GameName": "EnderalSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3685/images/60/60-1617884545-1203408275.png",
-          "IsNSFW": false,
-          "ModID": 60,
-          "Name": "Ancestral Spirit Replacer (4 Variants)",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TBT2b8AhJv4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=78146\nfileID=328879",
         "Name": "Behavior Data Injector-78146-v0-13-1667564855.7z",
@@ -20120,21 +20099,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7G9zXHfLgFs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=194968\nfileID=818533",
-        "Name": "CCC Customized Close Preset 194968 1 2026-10-12T00-41Z uhRBKsNox.rar",
-        "Size": 1104,
+        "Hash": "/CotiCNXTFw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=144556\nfileID=605040",
+        "Name": "Barstool Exit Animation Fix-144556-1-00-1741847187.rar",
+        "Size": 12462,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Revenge096",
-          "Description": "Custom Preset",
-          "FileID": 818533,
+          "Author": "Exalderan",
+          "Description": "Fixes the awkward barstool exit animation by restoring and fixing Skyrim\u2019s intended forward-exit movement. No more weird backward bench exits \u2014 just smooth, natural animations for both male and female characters, exactly as Bethesda originally meant!",
+          "FileID": 605040,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/194968/194968-1791765259-1157095138.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/144556/144556-1741855199-1296750823.png",
           "IsNSFW": false,
-          "ModID": 194968,
-          "Name": "Customized Preset For Cinematic Conversation Camera",
-          "Version": "1"
+          "ModID": 144556,
+          "Name": "Barstool Exit Animation Fix",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8WZ5Ab1sYkI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5890\nfileID=67821",
+        "Name": "D13 Faster Get Up Stand Up SSE-5890-2-1.7z",
+        "Size": 35628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DarkAngel13 Argonil",
+          "Description": "Did it always bug you that it took ages for dovahkiin, the strongest creature in Skyrim SOOOOOO long to stand up? Well this will make you stand up twice as fast, and it still looks realistic.",
+          "FileID": 67821,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17491-1-1337695730.jpg",
+          "IsNSFW": false,
+          "ModID": 5890,
+          "Name": "D13 Faster GET UP STAND UP animation vanilla friendly SSE",
+          "Version": "2.1"
         }
       }
     },
@@ -20644,21 +20644,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8WZ5Ab1sYkI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5890\nfileID=67821",
-        "Name": "D13 Faster Get Up Stand Up SSE-5890-2-1.7z",
-        "Size": 35628,
+        "Hash": "5XvD9bnu66g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46507\nfileID=398923",
+        "Name": "Dwemer Pipework Reworked 5-46507-5-1687095920.rar",
+        "Size": 334164435,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DarkAngel13 Argonil",
-          "Description": "Did it always bug you that it took ages for dovahkiin, the strongest creature in Skyrim SOOOOOO long to stand up? Well this will make you stand up twice as fast, and it still looks realistic.",
-          "FileID": 67821,
+          "Author": "Caleb2  - a k a   Anubis",
+          "Description": "Rework of Dwemer pipes and boilers.",
+          "FileID": 398923,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17491-1-1337695730.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46507/46507-1615012118-1485397878.jpeg",
           "IsNSFW": false,
-          "ModID": 5890,
-          "Name": "D13 Faster GET UP STAND UP animation vanilla friendly SSE",
-          "Version": "2.1"
+          "ModID": 46507,
+          "Name": "Dwemer Pipework Reworked",
+          "Version": "v5"
         }
       }
     },
