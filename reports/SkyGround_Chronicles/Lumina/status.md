@@ -230,7 +230,7 @@
 *  [B612 - little asteroid of useful UI components-SkyrimSE-127701-1-0-27-0-796458.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127701/?tab=files&file_id=796458)
 *  [BA_BardSongs_FOMOD-47202-1-3-1625966592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47202/?tab=files&file_id=213912)
 *  [Babbling Brooks-159249-1-1-1758488384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/159249/?tab=files&file_id=668148)
-*  [Baked Goods 197744 1.1 2026-11-02T15-26Z CmfxYwIYL.7z](https://www.nexusmods.com/skyrimspecialedition/mods/197744/?tab=files&file_id=831073)
+*  [Baked Goods 197744 1.2 2026-11-03T17-37Z 8gJHTOeyU.7z](https://www.nexusmods.com/skyrimspecialedition/mods/197744/?tab=files&file_id=831648)
 *  [Bandit Lines Expansion-63733-1-09-1704806726.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=459566)
 *  [Bannermist Tower Overhaul 2.0-75262-2-01-1730067524.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75262/?tab=files&file_id=556225)
 *  [Banners of Skyrim 2K-116289-1-1-1714025624.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116289/?tab=files&file_id=494539)
