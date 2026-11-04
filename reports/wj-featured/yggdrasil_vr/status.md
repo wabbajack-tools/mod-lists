@@ -1029,6 +1029,7 @@
 *  [Skyrim Skill Uncapper for VR Edition v1.01-28701-1-01-1567436190.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28701/?tab=files&file_id=105303)
 *  [Skyrim VR Dwarven Ballista Texture Fix-18722-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18722/?tab=files&file_id=60458)
 *  [Skyrim VR ESL-106712-1-2-1710128225.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106712/?tab=files&file_id=479274)
+*  [Skyrim VR ESL-106712-1-3-2-1773195184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106712/?tab=files&file_id=730198)
 *  [Skyrim VR Refocused-32737-1-0-2-1582478819.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32737/?tab=files&file_id=125525)
 *  [Skyrim VR USSEP 4.2.1 and SSE 1.5.97 Compatibility Patch-31673-1-2-1578696926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31673/?tab=files&file_id=119359)
 *  [Skyrim Weapons Expansion - 2k BSA-32500-1-3-1603261629.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=166392)
@@ -1041,7 +1042,6 @@
 *  [SkyrimVR Strange Runes - Spellcasting Enhanced VR Edition-30558-2-5-1574612725.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30558/?tab=files&file_id=114285)
 *  [SkyrimVR Strange Runes - Spellcasting Enhanced VR Palm Edition Update-30558-2-5-1638459910.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30558/?tab=files&file_id=246076)
 *  SkyrimVR.exe
-*  [SkyrimVRESL 106712 1.3.3 2026-10-31T17-10Z Z3mWyIZ6u.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106712/?tab=files&file_id=829797)
 *  [SkyrimVRTools-27782-2-3-BETA-1590789255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27782/?tab=files&file_id=142773)
 *  [Skysan_ELFX_SMIM_Fix.7z-5520-3-06-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5520/?tab=files&file_id=39424)
 *  [SkySight Skins HD with Real Feet Meshes  (HIGH - Recommended)-6580-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=20387)
