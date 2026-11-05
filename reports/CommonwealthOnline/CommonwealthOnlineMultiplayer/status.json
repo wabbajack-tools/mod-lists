@@ -1,8 +1,8 @@
 {
   "MachineURL": "CommonwealthOnline/CommonwealthOnlineMultiplayer",
   "Name": "Commonwealth Online - Multiplayer",
-  "Version": "2.1.3",
-  "ModListHash": "pklmAVWoYW0=",
+  "Version": "2.2.0",
+  "ModListHash": "PkKpmPBW9Vs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -119,6 +119,127 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2mPMe9J8r6k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=110742\nfileID=419205",
+        "Name": "Dynamic Texture LOD 110742 1.0.4 2026-11-04T06-38Z oDXmuBfy7.zip",
+        "Size": 746981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Asciim0v",
+          "Description": "Starfield-style texture management that reduces stutter and increases performance under VRAM pressure",
+          "FileID": 419205,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/110742/110742-1793623614-2098701678.png",
+          "IsNSFW": false,
+          "ModID": 110742,
+          "Name": "Dynamic Texture LOD",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kpragiMzPaU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=418867",
+        "Name": "Addictol 1.8.0 84214 1.8.0 2026-11-02T05-44Z xiVvchwdB.zip",
+        "Size": 14255213,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "perchik71",
+          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
+          "FileID": 418867,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
+          "IsNSFW": false,
+          "ModID": 84214,
+          "Name": "X-Cell Fallout 4",
+          "Version": "1.2-b2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8PYe7A83jwY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=109545\nfileID=419220",
+        "Name": "Faster Startups 1.0.0 109545 1.2.1 2026-11-04T11-33Z iNZoYwFCi.zip",
+        "Size": 424031,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Asciim0v",
+          "Description": "Speeds up boot time until main menu when loading loose files. Supports VR/OG/NG/AE",
+          "FileID": 419220,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/109545/109545-1790890820-801522082.png",
+          "IsNSFW": false,
+          "ModID": 109545,
+          "Name": "Faster Startups",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Tg+zloXPeCA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=110675\nfileID=418235",
+        "Name": "Sun Shadow Sync Fix 110675 1.0.0 2026-10-28T19-58Z UkCFsgXIE.zip",
+        "Size": 415161,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Asciim0v",
+          "Description": "Hides the visible moving of sun shadows and allows you to customise sun shadow behaviour",
+          "FileID": 418235,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/110675/110675-1793218836-1205299268.png",
+          "IsNSFW": false,
+          "ModID": 110675,
+          "Name": "Sun Shadow Sync Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FQbtrXOAj7s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=108653\nfileID=409979",
+        "Name": "MoonMotionFix 108653 1.0.1 2026-09-04T19-56Z hwdYU5Qb0.zip",
+        "Size": 408008,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Fixes the moon\u0027s backwards movement and camera rotation. The moon now rises in the east, sets in the west, and no longer rotates with the camera.",
+          "FileID": 409979,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/108653/108653-1788551684-277404917.png",
+          "IsNSFW": false,
+          "ModID": 108653,
+          "Name": "Moon Motion Fix",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CwYyEna7znU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
+        "Name": "Data_Fallout4 - Interface.ba2",
+        "Size": 489080015,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Interface.ba2",
+          "GameVersion": "1.11.240.0",
+          "Hash": "CwYyEna7znU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "li6moSrzKYY=",
         "Meta": "[General]\ngameName=fallout4\nmodID=107542\nfileID=418439",
         "Name": "Commonwealth Online Launcher.zip",
@@ -134,6 +255,22 @@
           "ModID": 107542,
           "Name": "Commonwealth Online",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9c4IFVDIIkQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Scripts\\Source\\User\\Readme.txt",
+        "Name": "Data_Scripts_Source_User_Readme.txt",
+        "Size": 65,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Scripts\\Source\\User\\Readme.txt",
+          "GameVersion": "1.11.240.0",
+          "Hash": "9c4IFVDIIkQ="
         }
       }
     }
