@@ -2,7 +2,7 @@
   "MachineURL": "CommonwealthOnline/CommonwealthOnlineMultiplayer",
   "Name": "Commonwealth Online - Multiplayer",
   "Version": "2.2.0",
-  "ModListHash": "PkKpmPBW9Vs=",
+  "ModListHash": "TJavqg6gcdU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kpragiMzPaU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=418867",
+        "Name": "Addictol 1.8.0 84214 1.8.0 2026-11-02T05-44Z xiVvchwdB.zip",
+        "Size": 14255213,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "perchik71",
+          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
+          "FileID": 418867,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
+          "IsNSFW": false,
+          "ModID": 84214,
+          "Name": "X-Cell Fallout 4",
+          "Version": "1.2-b2"
         }
       }
     },
@@ -134,27 +155,6 @@
           "ModID": 110742,
           "Name": "Dynamic Texture LOD",
           "Version": "1.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kpragiMzPaU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=418867",
-        "Name": "Addictol 1.8.0 84214 1.8.0 2026-11-02T05-44Z xiVvchwdB.zip",
-        "Size": 14255213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "perchik71",
-          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
-          "FileID": 418867,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
-          "IsNSFW": false,
-          "ModID": 84214,
-          "Name": "X-Cell Fallout 4",
-          "Version": "1.2-b2"
         }
       }
     },
