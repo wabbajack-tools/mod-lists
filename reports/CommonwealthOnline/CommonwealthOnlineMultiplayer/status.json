@@ -2,7 +2,7 @@
   "MachineURL": "CommonwealthOnline/CommonwealthOnlineMultiplayer",
   "Name": "Commonwealth Online - Multiplayer",
   "Version": "2.2.0",
-  "ModListHash": "TJavqg6gcdU=",
+  "ModListHash": "ePpzgxyc6lE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kpragiMzPaU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=418867",
-        "Name": "Addictol 1.8.0 84214 1.8.0 2026-11-02T05-44Z xiVvchwdB.zip",
-        "Size": 14255213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "perchik71",
-          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
-          "FileID": 418867,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
-          "IsNSFW": false,
-          "ModID": 84214,
-          "Name": "X-Cell Fallout 4",
-          "Version": "1.2-b2"
         }
       }
     },
@@ -140,6 +119,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "kpragiMzPaU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84214\nfileID=418867",
+        "Name": "Addictol 1.8.0 84214 1.8.0 2026-11-02T05-44Z xiVvchwdB.zip",
+        "Size": 14255213,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "perchik71",
+          "Description": "Mod for Fallout 4. Various improvements and optimizations.",
+          "FileID": 418867,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84214/84214-1721691612-773329454.jpeg",
+          "IsNSFW": false,
+          "ModID": 84214,
+          "Name": "X-Cell Fallout 4",
+          "Version": "1.2-b2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Tg+zloXPeCA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=110675\nfileID=418235",
+        "Name": "Sun Shadow Sync Fix 110675 1.0.0 2026-10-28T19-58Z UkCFsgXIE.zip",
+        "Size": 415161,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Asciim0v",
+          "Description": "Hides the visible moving of sun shadows and allows you to customise sun shadow behaviour",
+          "FileID": 418235,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/110675/110675-1793218836-1205299268.png",
+          "IsNSFW": false,
+          "ModID": 110675,
+          "Name": "Sun Shadow Sync Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2mPMe9J8r6k=",
         "Meta": "[General]\ngameName=fallout4\nmodID=110742\nfileID=419205",
         "Name": "Dynamic Texture LOD 110742 1.0.4 2026-11-04T06-38Z oDXmuBfy7.zip",
@@ -182,21 +203,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Tg+zloXPeCA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=110675\nfileID=418235",
-        "Name": "Sun Shadow Sync Fix 110675 1.0.0 2026-10-28T19-58Z UkCFsgXIE.zip",
-        "Size": 415161,
+        "Hash": "li6moSrzKYY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=107542\nfileID=418439",
+        "Name": "Commonwealth Online Launcher.zip",
+        "Size": 3084025,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Asciim0v",
-          "Description": "Hides the visible moving of sun shadows and allows you to customise sun shadow behaviour",
-          "FileID": 418235,
+          "Author": "bobbybear007",
+          "Description": "Commonwealth Online is an experimental multiplayer mod for Fallout 4 built around community-hosted dedicated servers. Players can create per-server characters and explore the Commonwealth together with synchronized movement, appearance, clothing, weapons, time, and weather. PvP and limited PvE are functional, while quests, inventories, settlements,",
+          "FileID": 418439,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/110675/110675-1793218836-1205299268.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/107542/107542-1793351571-97251383.jpg",
           "IsNSFW": false,
-          "ModID": 110675,
-          "Name": "Sun Shadow Sync Fix",
-          "Version": "1.0"
+          "ModID": 107542,
+          "Name": "Commonwealth Online",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9c4IFVDIIkQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Scripts\\Source\\User\\Readme.txt",
+        "Name": "Data_Scripts_Source_User_Readme.txt",
+        "Size": 65,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Scripts\\Source\\User\\Readme.txt",
+          "GameVersion": "1.11.240.0",
+          "Hash": "9c4IFVDIIkQ="
         }
       }
     },
@@ -234,43 +271,6 @@
           "GameFile": "Data\\Fallout4 - Interface.ba2",
           "GameVersion": "1.11.240.0",
           "Hash": "CwYyEna7znU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "li6moSrzKYY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=107542\nfileID=418439",
-        "Name": "Commonwealth Online Launcher.zip",
-        "Size": 3084025,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bobbybear007",
-          "Description": "Commonwealth Online is an experimental multiplayer mod for Fallout 4 built around community-hosted dedicated servers. Players can create per-server characters and explore the Commonwealth together with synchronized movement, appearance, clothing, weapons, time, and weather. PvP and limited PvE are functional, while quests, inventories, settlements,",
-          "FileID": 418439,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/107542/107542-1793351571-97251383.jpg",
-          "IsNSFW": false,
-          "ModID": 107542,
-          "Name": "Commonwealth Online",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9c4IFVDIIkQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Scripts\\Source\\User\\Readme.txt",
-        "Name": "Data_Scripts_Source_User_Readme.txt",
-        "Size": 65,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Scripts\\Source\\User\\Readme.txt",
-          "GameVersion": "1.11.240.0",
-          "Hash": "9c4IFVDIIkQ="
         }
       }
     }
