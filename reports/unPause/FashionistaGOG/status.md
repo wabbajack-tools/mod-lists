@@ -1,11 +1,11 @@
 ## Validation Report - Fashionista - GOG (unPause/FashionistaGOG)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [BLOODLINES_EXTREME_2.1.9.zip](https://www.moddb.com/downloads/start/132997)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1992)
-*  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
+### Valid (1662)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Andrei_Zulu_Warform_Animalism_Beastform_v1.12_Made_By_MooCHa.rar](https://www.moddb.com/addons/start/300008)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -30,7 +30,7 @@
 *  [Blood Rayne Posters.rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1557)
 *  [Bloodlines audio fix 207 2.2 2026-09-22T05-00Z MwNCqaJT.zip](https://www.nexusmods.com/vampirebloodlines/mods/207/?tab=files&file_id=1630)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
-*  [BLOODLINES_EXTREME_2.1.8.zip](https://www.moddb.com/downloads/start/132997)
+*  [BLOODLINES_EXTREME_2.1.9 - Repack.7z](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_2.1.9 - Repack.7z_9d84e0f5-331c-4739-80a0-bff2cae8a647)
 *  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
 *  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
@@ -42,8 +42,8 @@
 *  [Brujah opium-335-1-0-1735584083.rar](https://www.nexusmods.com/vampirebloodlines/mods/335/?tab=files&file_id=1143)
 *  [Brujah Replacer - Kit-395-1-5-1771381079.zip](https://www.nexusmods.com/vampirebloodlines/mods/395/?tab=files&file_id=1502)
 *  [Brujah Skin-319-2-0-1722106221.7z](https://www.nexusmods.com/vampirebloodlines/mods/319/?tab=files&file_id=1037)
-*  [CaineCam 436 1.1.0 2026-11-01T21-13Z pmOMKVVc.zip](https://www.nexusmods.com/vampirebloodlines/mods/436/?tab=files&file_id=1732)
-*  [CainePad Loader 432 1.2.0 2026-10-31T22-32Z UIdbpggI.zip](https://www.nexusmods.com/vampirebloodlines/mods/432/?tab=files&file_id=1723)
+*  [CaineCam 436 1.3.1 2026-11-08T22-06Z t8GurPNh.zip](https://www.nexusmods.com/vampirebloodlines/mods/436/?tab=files&file_id=1767)
+*  [CainePad Loader 432 1.3.1 2026-11-08T21-22Z oZs9iBj9.zip](https://www.nexusmods.com/vampirebloodlines/mods/432/?tab=files&file_id=1763)
 *  [Camarilla Edition Reborn (Radio Update)-263-2026-C-radioupdate-1779112593.7z](https://www.nexusmods.com/vampirebloodlines/mods/263/?tab=files&file_id=1545)
 *  [Camarilla Edition Reborn HOTFIX 2-263-2025-I-1766741268.zip](https://www.nexusmods.com/vampirebloodlines/mods/263/?tab=files&file_id=1430)
 *  [Camarilla Edition Reborn-263-2026-A-1774343184.exe](https://www.nexusmods.com/vampirebloodlines/mods/263/?tab=files&file_id=1522)
@@ -142,7 +142,7 @@
 *  [Mercurio Retexture - 4096x2048-156-1-1-1599728978.zip](https://www.nexusmods.com/vampirebloodlines/mods/156/?tab=files&file_id=447)
 *  [Metalhead_Gangrel.rar](https://www.moddb.com/addons/start/216669)
 *  [Mingxiao-213-1-0-1654874420.rar](https://www.nexusmods.com/vampirebloodlines/mods/213/?tab=files&file_id=615)
-*  [Minimap 431 2.0 2026-11-01T01-48Z VElabddf.zip](https://www.nexusmods.com/vampirebloodlines/mods/431/?tab=files&file_id=1728)
+*  [Minimap 431 2.1 2026-11-02T21-24Z GS7XL66B.zip](https://www.nexusmods.com/vampirebloodlines/mods/431/?tab=files&file_id=1741)
 *  [MistressNosferatu-221-2-0-1654877333.rar](https://www.nexusmods.com/vampirebloodlines/mods/221/?tab=files&file_id=624)
 *  [MO2 Basic Game Plugin 438 1.1 2026-11-01T00-15Z E4MsBKKt.7z](https://www.nexusmods.com/vampirebloodlines/mods/438/?tab=files&file_id=1727)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
@@ -191,8 +191,9 @@
 *  [Root Builder 5.0.5-31720-5-0-5-1722935359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=528774)
 *  [Samantha Female Player Replacer-251-1-0-1678950330.zip](https://www.nexusmods.com/vampirebloodlines/mods/251/?tab=files&file_id=752)
 *  [sequined_gown.zip-47-1-3.zip](https://www.nexusmods.com/vampirebloodlines/mods/47/?tab=files&file_id=118)
+*  [Set Malkavians Font to Standard Font-365-1-0-1764834313.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1401)
 *  [Sexy Long Hair Female Toreador by Felizpe V3-63-3-0-1568577739.rar](https://www.nexusmods.com/vampirebloodlines/mods/63/?tab=files&file_id=287)
-*  [Shoulder Cam 430 1.2 2026-10-27T03-36Z MwNCqaa1.zip](https://www.nexusmods.com/vampirebloodlines/mods/430/?tab=files&file_id=1692)
+*  [Shoulder Cam 430 3.4 2026-11-03T07-24Z Lv4ZkHH9.zip](https://www.nexusmods.com/vampirebloodlines/mods/430/?tab=files&file_id=1743)
 *  [silentmasqu.7z](https://authored-files.wabbajack.org/silentmasqu.7z_05b139bd-1e6c-4133-b0f8-356b132f4703)
 *  [silentmasqu.exe](https://www.moddb.com/downloads/start/17610)
 *  [Skin Stefan Salvatore for Ventrue V 3-28-3.rar](https://www.nexusmods.com/vampirebloodlines/mods/28/?tab=files&file_id=74)
@@ -248,7 +249,6 @@
 *  Unofficial_Patch_dlg_chinatown_kiki.dlg
 *  Unofficial_Patch_dlg_chinatown_lufang.dlg
 *  Unofficial_Patch_dlg_chinatown_mandarin.dlg
-*  Unofficial_Patch_dlg_chinatown_ox.dlg
 *  Unofficial_Patch_dlg_chinatown_ricky.dlg
 *  Unofficial_Patch_dlg_chinatown_shu.dlg
 *  Unofficial_Patch_dlg_chinatown_tseng.dlg
@@ -257,7 +257,6 @@
 *  Unofficial_Patch_dlg_chinatown_zhao.dlg
 *  Unofficial_Patch_dlg_chinatown_zygaena.dlg
 *  Unofficial_Patch_dlg_downtown la_bishop_vick.dlg
-*  Unofficial_Patch_dlg_downtown la_bomberman.dlg
 *  Unofficial_Patch_dlg_downtown la_boris.dlg
 *  Unofficial_Patch_dlg_downtown la_bum_disease_female.dlg
 *  Unofficial_Patch_dlg_downtown la_bum_disease_male.dlg
@@ -273,8 +272,6 @@
 *  Unofficial_Patch_dlg_downtown la_junkie_girl.dlg
 *  Unofficial_Patch_dlg_downtown la_larry.dlg
 *  Unofficial_Patch_dlg_downtown la_milligan.dlg
-*  Unofficial_Patch_dlg_downtown la_patty.dlg
-*  Unofficial_Patch_dlg_downtown la_pisha.dlg
 *  Unofficial_Patch_dlg_downtown la_prince1.dlg
 *  Unofficial_Patch_dlg_downtown la_prince2.dlg
 *  Unofficial_Patch_dlg_downtown la_skelter.dlg
@@ -296,27 +293,21 @@
 *  Unofficial_Patch_dlg_giovanni_nadia.dlg
 *  Unofficial_Patch_dlg_giovanni_victor.dlg
 *  Unofficial_Patch_dlg_hollywood_andrei.dlg
-*  Unofficial_Patch_dlg_hollywood_anoncaller.dlg
 *  Unofficial_Patch_dlg_hollywood_ash_lookalike.dlg
 *  Unofficial_Patch_dlg_hollywood_ash.dlg
 *  Unofficial_Patch_dlg_hollywood_courier.dlg
 *  Unofficial_Patch_dlg_hollywood_dhatter.dlg
 *  Unofficial_Patch_dlg_hollywood_flynn.dlg
-*  Unofficial_Patch_dlg_hollywood_gargoyle.dlg
 *  Unofficial_Patch_dlg_hollywood_isaac.dlg
 *  Unofficial_Patch_dlg_hollywood_misti.dlg
-*  Unofficial_Patch_dlg_hollywood_razor.dlg
 *  Unofficial_Patch_dlg_hollywood_romero.dlg
 *  Unofficial_Patch_dlg_hollywood_samantha.dlg
 *  Unofficial_Patch_dlg_hollywood_slater.dlg
 *  Unofficial_Patch_dlg_hollywood_sweeper.dlg
 *  Unofficial_Patch_dlg_hollywood_tommy.dlg
 *  Unofficial_Patch_dlg_hollywood_vv.dlg
-*  Unofficial_Patch_dlg_main characters_bach.dlg
 *  Unofficial_Patch_dlg_main characters_beckett.dlg
 *  Unofficial_Patch_dlg_main characters_caine.dlg
-*  Unofficial_Patch_dlg_main characters_gary.dlg
-*  Unofficial_Patch_dlg_main characters_heather_dead.dlg
 *  Unofficial_Patch_dlg_main characters_heather.dlg
 *  Unofficial_Patch_dlg_main characters_jack_tutorial.dlg
 *  Unofficial_Patch_dlg_main characters_jack.dlg
@@ -329,16 +320,13 @@
 *  Unofficial_Patch_dlg_santa monica_bertram.dlg
 *  Unofficial_Patch_dlg_santa monica_brian.dlg
 *  Unofficial_Patch_dlg_santa monica_cal.dlg
-*  Unofficial_Patch_dlg_santa monica_carson.dlg
 *  Unofficial_Patch_dlg_santa monica_chunk.dlg
 *  Unofficial_Patch_dlg_santa monica_clinic_guard.dlg
 *  Unofficial_Patch_dlg_santa monica_copper.dlg
 *  Unofficial_Patch_dlg_santa monica_danielle.dlg
-*  Unofficial_Patch_dlg_santa monica_dennis.dlg
 *  Unofficial_Patch_dlg_santa monica_doris.dlg
 *  Unofficial_Patch_dlg_santa monica_e.dlg
 *  Unofficial_Patch_dlg_santa monica_jeanette.dlg
-*  Unofficial_Patch_dlg_santa monica_julius.dlg
 *  Unofficial_Patch_dlg_santa monica_killer.dlg
 *  Unofficial_Patch_dlg_santa monica_knox.dlg
 *  Unofficial_Patch_dlg_santa monica_lily.dlg
@@ -373,13 +361,11 @@
 *  Unofficial_Patch_maps_graphs_ch_hub_1.ain
 *  Unofficial_Patch_maps_graphs_ch_temple_2.ain
 *  Unofficial_Patch_maps_graphs_ch_zhaos_1.ain
-*  Unofficial_Patch_maps_graphs_hw_609_1.ain
 *  Unofficial_Patch_maps_graphs_hw_warrens_4.ain
 *  Unofficial_Patch_maps_graphs_la_confession_1.ain
 *  Unofficial_Patch_maps_graphs_la_hub_1.ain
 *  Unofficial_Patch_maps_graphs_la_museum_1.ain
 *  Unofficial_Patch_maps_graphs_la_parkinggarage_1.ain
-*  Unofficial_Patch_maps_graphs_sm_beachhouse_1.ain
 *  Unofficial_Patch_maps_graphs_sm_hub_1.ain
 *  Unofficial_Patch_maps_graphs_sm_hub_2.ain
 *  Unofficial_Patch_maps_graphs_sm_warehouse_1.ain
@@ -406,7 +392,6 @@
 *  Unofficial_Patch_maps_hw_warrens_2.bsp
 *  Unofficial_Patch_maps_hw_warrens_2b.bsp
 *  Unofficial_Patch_maps_hw_warrens_3.bsp
-*  Unofficial_Patch_maps_hw_warrens_4.bsp
 *  Unofficial_Patch_maps_hw_warrens_5.bsp
 *  Unofficial_Patch_maps_la_abandoned_building_1.bsp
 *  Unofficial_Patch_maps_la_bradbury_1.bsp
@@ -455,9 +440,7 @@
 *  Unofficial_Patch_maps_sm_pawnshop_2.bsp
 *  Unofficial_Patch_maps_sm_pier_1.bsp
 *  Unofficial_Patch_maps_sm_shreknet_1.bsp
-*  Unofficial_Patch_maps_sm_smoke_1.bsp
 *  Unofficial_Patch_maps_sm_tattoo.bsp
-*  Unofficial_Patch_maps_sm_vamparena.bsp
 *  Unofficial_Patch_maps_sm_warehouse_1.bsp
 *  Unofficial_Patch_maps_sp_endsequences_a.bsp
 *  Unofficial_Patch_maps_sp_endsequences_b.bsp
@@ -478,15 +461,6 @@
 *  Unofficial_Patch_maps_sp_taxiride.bsp
 *  Unofficial_Patch_maps_sp_theatre.bsp
 *  Unofficial_Patch_maps_sp_tutorial_1.bsp
-*  Unofficial_Patch_materials_art_librarysign1.vmt
-*  Unofficial_Patch_materials_art_librarysign2.vmt
-*  Unofficial_Patch_materials_art_librarysign3.vmt
-*  Unofficial_Patch_materials_brick_bradwndwalit.vmt
-*  Unofficial_Patch_materials_brick_bradwndwblit.vmt
-*  Unofficial_Patch_materials_decals_details_paperk.vmt
-*  Unofficial_Patch_materials_decals_details_paperm.vmt
-*  Unofficial_Patch_materials_decals_details_papern.vmt
-*  Unofficial_Patch_materials_decals_details_paperq.vmt
 *  Unofficial_Patch_materials_decals_pictures_loft002.vmt
 *  Unofficial_Patch_materials_decals_pictures_loft003.vmt
 *  Unofficial_Patch_materials_decals_pictures_loft004.vmt
@@ -530,77 +504,24 @@
 *  Unofficial_Patch_materials_decals_signs_tatw.vmt
 *  Unofficial_Patch_materials_decals_signs_thomas.vmt
 *  Unofficial_Patch_materials_decals_signs_trnsigna.vmt
-*  Unofficial_Patch_materials_decals_structural_parkingcsan.vmt
-*  Unofficial_Patch_materials_decals_structural_parkingdsan.vmt
-*  Unofficial_Patch_materials_ground_ritualgroundc.vmt
-*  Unofficial_Patch_materials_ground_streetbsan.vmt
-*  Unofficial_Patch_materials_ground_streetcsan.vmt
 *  Unofficial_Patch_materials_hud_disciplines_bloodheal_fullbright.vmt
 *  Unofficial_Patch_materials_hud_disciplines_divinelight_fullbright.vmt
 *  Unofficial_Patch_materials_hud_disciplines_holysight_fullbright.vmt
 *  Unofficial_Patch_materials_hud_hotkeywindow.tth
 *  Unofficial_Patch_materials_hud_hotkeywindow.ttz
-*  Unofficial_Patch_materials_hud_hotkeywindow.vmt
 *  Unofficial_Patch_materials_hud_infobar_icons_inventory_full.vmt
 *  Unofficial_Patch_materials_hud_infobar_icons_lockpicking_skill_success.vmt
 *  Unofficial_Patch_materials_hud_infobar_icons_masquerade_enforced.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_garys_film_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_garys_film.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_garys_tape_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_garysphoto_sel.vmt
 *  Unofficial_Patch_materials_hud_inventory_images_general_items_garysphoto.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_invitation_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_invitation.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_nines_file_ws_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_nines_file_ws.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_pearl_of_dubai.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_sewercard_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_sewercard.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_star_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_general_items_star.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_melee_handleclaws_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_ranged_ammo_anaconda_ammo_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_ranged_ammo_anaconda_ammo.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_ranged_ammo_thirtyeight_ammo_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_ranged_ammo_thirtyeight_ammo.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_ranged_grenade_frag_sel.vmt
-*  Unofficial_Patch_materials_hud_inventory_images_weapons_ranged_grenade_frag.vmt
 *  Unofficial_Patch_materials_hud_new_ui_bloodbarfill.tth
 *  Unofficial_Patch_materials_interface_mainmenu_vtm_title.tth
 *  Unofficial_Patch_materials_interface_mainmenu_vtm_title.ttz
-*  Unofficial_Patch_materials_interface_mainmenu_vtm_title.vmt
-*  Unofficial_Patch_materials_interface_sewermap_chinatownhl.vmt
-*  Unofficial_Patch_materials_interface_sewermap_downtownhl.vmt
-*  Unofficial_Patch_materials_interface_sewermap_hollywoodhl.vmt
-*  Unofficial_Patch_materials_interface_sewermap_santamonicahl.vmt
 *  Unofficial_Patch_materials_interface_tipinfoscreen_background_default.tth
 *  Unofficial_Patch_materials_interface_tipinfoscreen_background_default.ttz
 *  Unofficial_Patch_materials_interface_tipinfoscreen_overlay_info.tth
 *  Unofficial_Patch_materials_interface_tipinfoscreen_overlay_info.ttz
-*  Unofficial_Patch_materials_models_character_monster_werewolf_new_ww_body_damaged.vmt
-*  Unofficial_Patch_materials_models_character_monster_wolf_form_2_wolfformbody.vmt
-*  Unofficial_Patch_materials_models_character_monster_wolf_form_2_wolfformeye.vmt
-*  Unofficial_Patch_materials_models_character_monster_wolf_form_2_wolfformfurstuff.vmt
-*  Unofficial_Patch_materials_models_character_monster_wolf_form_2_wolfformtail.vmt
-*  Unofficial_Patch_materials_models_character_monster_wolf_form_2_wolfformtailfur.vmt
-*  Unofficial_Patch_materials_models_character_monster_wolf_form_2_wolfformtailneck.vmt
-*  Unofficial_Patch_materials_models_character_npc_common_citizen_chinatown_female1_gcchina_body.vmt
-*  Unofficial_Patch_materials_models_character_npc_common_cop_copbody.vmt
-*  Unofficial_Patch_materials_models_character_npc_common_cop_copgun.vmt
-*  Unofficial_Patch_materials_models_character_npc_common_cop_copstuff.vmt
-*  Unofficial_Patch_materials_models_character_npc_common_doppleganger_teeth.vmt
-*  Unofficial_Patch_materials_models_character_npc_common_sabbat_henchman_sabhenchmanbod2.vmt
 *  Unofficial_Patch_materials_models_character_npc_unique_chinatown_mandarin_mandaringlasses.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_downtown_sheriff_eyeball_r.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_downtown_vv_vv_body.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_courier_gangma3body.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_flynn_billnbody.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_flynn_billnnhead.vmt
 *  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_kilpatrick_kilpatricklens.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_vandal_andrewbody.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_vandal_andrewhair.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_vandal_andrewhead.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_society_of_leopold_elite_hunter_elite_hunterbody.vmt
 *  Unofficial_Patch_materials_models_character_pc_male_nosferatu_armor2_eyeball_l.vmt
 *  Unofficial_Patch_materials_models_character_pc_male_nosferatu_armor2_eyeball_r.vmt
 *  Unofficial_Patch_materials_models_hands_female_gangrel_FGHandbottom.tth
@@ -614,53 +535,17 @@
 *  Unofficial_Patch_materials_models_items_garys_tape_garys_tape.vmt
 *  Unofficial_Patch_materials_models_items_lillyonbeachphoto_beach.tth
 *  Unofficial_Patch_materials_models_items_lillyonbeachphoto_beach.ttz
-*  Unofficial_Patch_materials_models_scenery_furniture_chinesesigns_chinesesigns.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_computer_computer_caseb.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_computer_computer_monitorb.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_computer_new_keyboard.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_computer_new_monitor.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_computer_new_mousepad.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_fishtank_shell03.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_fishtank_shells.vmt
 *  Unofficial_Patch_materials_models_scenery_furniture_refrigerator_logo.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_refrigerator_refrigerato3.vmt
 *  Unofficial_Patch_materials_models_scenery_furniture_toileta_toiletatanktp.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_tvs_danetv8inch01screen.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_tvs_danetv8inch02screen.vmt
-*  Unofficial_Patch_materials_models_scenery_furniture_tvs_danetv8inch03screen.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_pinupposter_pinup.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_damselposter.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_jeanetteposter.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_minxiaoposter2.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_poster1a.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_poster3a.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_postera.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_tawni_poster.vmt
-*  Unofficial_Patch_materials_models_scenery_misc_posters_vvposter.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_brad_rails_brad_iron1.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_controlpanel_screend.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_controlpanel_screene.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_malkavian_malklifetube_dudv.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_ritual_chamber_ritualwllc.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_ritual_chamber_ritualwlld.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_sewer_computers_center_control.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_sewer_computers_computers_sewer.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_sewer_computers_computers_sewer2.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_sewer_computers_computers_sewer3.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_society_character.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_society_nightstand.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_society_socstairsa.vmt
+*  Unofficial_Patch_materials_models_scenery_misc_bottles_bttla.tth
+*  Unofficial_Patch_materials_models_scenery_misc_bottles_bttla.ttz
+*  Unofficial_Patch_materials_models_scenery_misc_bottles_bttlb.tth
+*  Unofficial_Patch_materials_models_scenery_misc_bottles_bttlb.ttz
+*  Unofficial_Patch_materials_models_scenery_misc_bottles_bttlc.tth
+*  Unofficial_Patch_materials_models_scenery_misc_bottles_bttlc.ttz
 *  Unofficial_Patch_materials_models_scenery_structural_toll_gate_stuff_boothsuper.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_tseng_tsengcornera.vmt
 *  Unofficial_Patch_materials_models_scenery_vehicles_1970chevymalibu_1970chevymalibutexture.vmt
-*  Unofficial_Patch_materials_models_scenery_vehicles_subwaycar_subway3_normal.tth
-*  Unofficial_Patch_materials_models_scenery_vehicles_subwaycar_subway3_normal.ttz
-*  Unofficial_Patch_materials_models_scenery_vehicles_subwaycar_subway3.vmt
 *  Unofficial_Patch_materials_models_scenery_vehicles_yugo_interior.vmt
-*  Unofficial_Patch_materials_models_weapons_ammo_thirtyeight.vmt
-*  Unofficial_Patch_materials_models_weapons_breath_m37_view_shell_metal.vmt
-*  Unofficial_Patch_materials_models_weapons_breath_m37_view_shell.vmt
-*  Unofficial_Patch_materials_models_weapons_handleclaws_handleclaws.vmt
 *  Unofficial_Patch_materials_objects_vesgirle.tth
 *  Unofficial_Patch_materials_objects_vesgirle.ttz
 *  Unofficial_Patch_materials_signs_animated.vmt
@@ -675,11 +560,6 @@
 *  Unofficial_Patch_materials_signs_ohlogo.vmt
 *  Unofficial_Patch_materials_signs_stop.vmt
 *  Unofficial_Patch_materials_sprites_moonchinatown.vmt
-*  Unofficial_Patch_materials_stone_ritualwall.vmt
-*  Unofficial_Patch_materials_stone_ritualwllb.vmt
-*  Unofficial_Patch_materials_tile_cmdoora.vmt
-*  Unofficial_Patch_materials_tile_cmfloora.vmt
-*  Unofficial_Patch_materials_tile_cmfloorc.vmt
 *  Unofficial_Patch_materials_wood_brbdoora.vmt
 *  Unofficial_Patch_models_character_monster_animalism_beastform_animalism_beastform.mdl
 *  Unofficial_Patch_models_character_npc_unique_downtown_igor_vdor.mdl
@@ -695,14 +575,6 @@
 *  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningBird_Green.phy
 *  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningbird.dx80.vtx
 *  Unofficial_Patch_models_scenery_vehicles_lightningbird_lightningbird.mdl
-*  Unofficial_Patch_models_scenery_vehicles_limo_limo_stretch.dx7_2bone.vtx
-*  Unofficial_Patch_models_scenery_vehicles_limo_limo_stretch.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_limo_limo_stretch.mdl
-*  Unofficial_Patch_models_scenery_vehicles_limo_limo.dx7_2bone.vtx
-*  Unofficial_Patch_models_scenery_vehicles_limo_limo.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_limo_limo.mdl
-*  Unofficial_Patch_models_scenery_vehicles_limo_sedan.dx80.vtx
-*  Unofficial_Patch_models_scenery_vehicles_limo_sedan.mdl
 *  Unofficial_Patch_models_scenery_vehicles_omnishpere_copcar.dx80.vtx
 *  Unofficial_Patch_models_scenery_vehicles_omnishpere_copcar.mdl
 *  Unofficial_Patch_models_scenery_vehicles_paneltruck_truck.dx7_2bone.vtx
@@ -712,9 +584,7 @@
 *  Unofficial_Patch_models_scenery_vehicles_yugo_yugo.dx80.vtx
 *  Unofficial_Patch_models_scenery_vehicles_yugo_yugo.mdl
 *  Unofficial_Patch_particles_barrelfireemitter.txt
-*  Unofficial_Patch_particles_blood_guardian_summon_emitter.txt
 *  Unofficial_Patch_particles_embrace_bleeding_neck2.txt
-*  Unofficial_Patch_particles_sparks_warrens_computers_emitter.txt
 *  Unofficial_Patch_python_chinatown_chinatown.py
 *  Unofficial_Patch_python_downtown_downtown.py
 *  Unofficial_Patch_python_fileutil.py
@@ -744,11 +614,8 @@
 *  Unofficial_Patch_python_zvtool_zvtool_util.pyc
 *  Unofficial_Patch_python_zvtool_zvtool.pyc
 *  Unofficial_Patch_resource_gameui_english.txt
-*  Unofficial_Patch_resource_optionssubgameplay.res
-*  Unofficial_Patch_resource_trackerscheme.res
 *  Unofficial_Patch_save_autosave.sav
 *  Unofficial_Patch_save_Vampire-000.sav
-*  Unofficial_Patch_scripts_game_sounds_surfaceproperties.txt
 *  Unofficial_Patch_scripts_kb_act.lst
 *  Unofficial_Patch_scripts_kb_def.lst
 *  Unofficial_Patch_sound_character_dlg_chinatown_yukie_line1_col_e.vcd
@@ -763,28 +630,11 @@
 *  Unofficial_Patch_sound_character_dlg_downtown la_venus_line51_col_f.vcd
 *  Unofficial_Patch_sound_character_dlg_generic_hunter1_line91_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_generic_stop_line21_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_giovanni_mira_line81_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line101_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line111_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line161_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line211_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line221_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line241_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line281_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line287_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line301_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line81_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_hollywood_flynn_line365_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_main characters_bach_line121_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_main characters_jack_line341_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_bertram_line111_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_carson_line51_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_chunk_line61_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_danielle_line41_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_danielle_line81_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_julius_line51_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_malcolm_line111_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_nurse_line31_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line101_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line11_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line21_col_e.vcd
@@ -792,17 +642,9 @@
 *  Unofficial_Patch_sound_character_dlg_santa monica_smoke_line11_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smoke_line31_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smoke_line41_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_stan_gimble_line101_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_stan_gimble_line255_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line17_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line17_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line27_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line27_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_warrens_imalia_line395_col_e.vcd
-*  Unofficial_Patch_sound_character_male_citizen_office person 2_float_1.wav
-*  Unofficial_Patch_sound_character_male_mafia_upset_1.wav
-*  Unofficial_Patch_sound_character_male_unique_tongie_line21_col_e.lip
-*  Unofficial_Patch_sound_character_male_unique_victor_float_3.lip
 *  Unofficial_Patch_sound_cinematic_la_epilogue_epilogue_scene.vcd
 *  Unofficial_Patch_sound_schemes_glaze2.txt
 *  Unofficial_Patch_sound_schemes_hw_warrens_5.txt
@@ -825,7 +667,6 @@
 *  Unofficial_Patch_vdata_hackterminals_bertrams_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_blood_bank_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_carson_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_chateau_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_clinic_administration_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_clinic_cis_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_clinic_security_computer.txt
@@ -839,7 +680,6 @@
 *  Unofficial_Patch_vdata_hackterminals_haven_pc.txt
 *  Unofficial_Patch_vdata_hackterminals_jeanette_laptop.txt
 *  Unofficial_Patch_vdata_hackterminals_kilpatricks_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_krime_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_lucky_pc.txt
 *  Unofficial_Patch_vdata_hackterminals_malcolm_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_milligan_computer.txt
@@ -850,10 +690,8 @@
 *  Unofficial_Patch_vdata_hackterminals_museum_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_netcafe_computer_2.txt
 *  Unofficial_Patch_vdata_hackterminals_netcafe_computer_3.txt
-*  Unofficial_Patch_vdata_hackterminals_netcafe_computer_4.txt
 *  Unofficial_Patch_vdata_hackterminals_netcafe_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_prop_keypad.txt
-*  Unofficial_Patch_vdata_hackterminals_scott_laptop.txt
 *  Unofficial_Patch_vdata_hackterminals_shrekhub1_terminal.txt
 *  Unofficial_Patch_vdata_hackterminals_shrekhub2_terminal.txt
 *  Unofficial_Patch_vdata_hackterminals_shrekhub3_metalop.txt
@@ -865,31 +703,22 @@
 *  Unofficial_Patch_vdata_hackterminals_shrekhub4_terminal6.txt
 *  Unofficial_Patch_vdata_hackterminals_sinbin.txt
 *  Unofficial_Patch_vdata_hackterminals_skyline_apt3.txt
-*  Unofficial_Patch_vdata_hackterminals_skyline_security.txt
-*  Unofficial_Patch_vdata_hackterminals_soc_ext_hack.txt
 *  Unofficial_Patch_vdata_hackterminals_soc_int_hack.txt
 *  Unofficial_Patch_vdata_hackterminals_tawni_terminal.txt
 *  Unofficial_Patch_vdata_hackterminals_therese_pc.txt
 *  Unofficial_Patch_vdata_hackterminals_tutorial_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_ventruetower2_terminal.txt
 *  Unofficial_Patch_vdata_hackterminals_warrens2_computer.txt
-*  Unofficial_Patch_vdata_items_item_a_body_armor - hunter.txt
 *  Unofficial_Patch_vdata_items_item_a_body_armor.txt
-*  Unofficial_Patch_vdata_items_item_a_hvy_cloth - hunter.txt
 *  Unofficial_Patch_vdata_items_item_a_hvy_cloth - vampire.txt
 *  Unofficial_Patch_vdata_items_item_a_hvy_leather - hunter.txt
 *  Unofficial_Patch_vdata_items_item_a_hvy_leather.txt
 *  Unofficial_Patch_vdata_items_item_a_lt_cloth.txt
 *  Unofficial_Patch_vdata_items_item_a_lt_leather - hunter.txt
 *  Unofficial_Patch_vdata_items_item_a_lt_leather.txt
-*  Unofficial_Patch_vdata_items_item_d_holy_light.txt
 *  Unofficial_Patch_vdata_items_item_g_astrolite.txt
-*  Unofficial_Patch_vdata_items_item_g_bach_journal.txt
 *  Unofficial_Patch_vdata_items_item_g_bailbond_receipt.txt
 *  Unofficial_Patch_vdata_items_item_g_bertrams_cd.txt
-*  Unofficial_Patch_vdata_items_item_g_bloodpack.txt
-*  Unofficial_Patch_vdata_items_item_g_bluebloodpack.txt
-*  Unofficial_Patch_vdata_items_item_g_car_stereo.txt
 *  Unofficial_Patch_vdata_items_item_g_cash_box.txt
 *  Unofficial_Patch_vdata_items_item_g_drugs_drug_box.txt
 *  Unofficial_Patch_vdata_items_item_g_drugs_morphine_bottle.txt
@@ -901,86 +730,26 @@
 *  Unofficial_Patch_vdata_items_item_g_gargoyle_book.txt
 *  Unofficial_Patch_vdata_items_item_g_garys_cd.txt
 *  Unofficial_Patch_vdata_items_item_g_garys_film.txt
-*  Unofficial_Patch_vdata_items_item_g_garys_photo.txt
 *  Unofficial_Patch_vdata_items_item_g_garys_tape.txt
-*  Unofficial_Patch_vdata_items_item_g_giovanni_invitation_maria.txt
-*  Unofficial_Patch_vdata_items_item_g_giovanni_invitation_victor.txt
 *  Unofficial_Patch_vdata_items_item_g_hannahs_appt_book.txt
 *  Unofficial_Patch_vdata_items_item_g_horrortape_1.txt
 *  Unofficial_Patch_vdata_items_item_g_horrortape_2.txt
 *  Unofficial_Patch_vdata_items_item_g_idol_cat.txt
-*  Unofficial_Patch_vdata_items_item_g_idol_crane.txt
-*  Unofficial_Patch_vdata_items_item_g_idol_dragon.txt
-*  Unofficial_Patch_vdata_items_item_g_idol_elephant.txt
-*  Unofficial_Patch_vdata_items_item_g_jumbles_flyer.txt
 *  Unofficial_Patch_vdata_items_item_g_keyring.txt
 *  Unofficial_Patch_vdata_items_item_g_larry_briefcase.txt
 *  Unofficial_Patch_vdata_items_item_g_lilly_diary.txt
 *  Unofficial_Patch_vdata_items_item_g_lilly_photo.txt
-*  Unofficial_Patch_vdata_items_item_g_lilly_purse.txt
-*  Unofficial_Patch_vdata_items_item_g_lockpick.txt
 *  Unofficial_Patch_vdata_items_item_g_mercurio_journal.txt
-*  Unofficial_Patch_vdata_items_item_g_milligans_businesscard.txt
 *  Unofficial_Patch_vdata_items_item_g_oh_diary.txt
-*  Unofficial_Patch_vdata_items_item_g_pearl_of_dubai-null.txt
 *  Unofficial_Patch_vdata_items_item_g_pisha_book.txt
 *  Unofficial_Patch_vdata_items_item_g_ring_gold.txt
 *  Unofficial_Patch_vdata_items_item_g_ring_serial_killer_1.txt
-*  Unofficial_Patch_vdata_items_item_g_ring_serial_killer_2-null.txt
 *  Unofficial_Patch_vdata_items_item_g_ring_silver.txt
 *  Unofficial_Patch_vdata_items_item_g_ring03.txt
-*  Unofficial_Patch_vdata_items_item_g_sewerbook_1.txt
-*  Unofficial_Patch_vdata_items_item_g_vampyr_apocrypha.txt
-*  Unofficial_Patch_vdata_items_item_g_vv_photo.txt
-*  Unofficial_Patch_vdata_items_item_g_warrens4_passkey.txt
-*  Unofficial_Patch_vdata_items_item_g_watch_fancy.txt
-*  Unofficial_Patch_vdata_items_item_g_watch_normal.txt
 *  Unofficial_Patch_vdata_items_item_g_wireless_camera_2.txt
-*  Unofficial_Patch_vdata_items_item_i_written.txt
-*  Unofficial_Patch_vdata_items_item_k_ash_cell_key.txt
-*  Unofficial_Patch_vdata_items_item_k_carson_apartment_key.txt
-*  Unofficial_Patch_vdata_items_item_k_clinic_cs_key.txt
-*  Unofficial_Patch_vdata_items_item_k_clinic_maintenance_key.txt
-*  Unofficial_Patch_vdata_items_item_k_clinic_stairs_key.txt
-*  Unofficial_Patch_vdata_items_item_k_empire_jezebel_key.txt
-*  Unofficial_Patch_vdata_items_item_k_empire_mafia_key.txt
-*  Unofficial_Patch_vdata_items_item_k_fu_office_key.txt
-*  Unofficial_Patch_vdata_items_item_k_gallery_noir_key.txt
-*  Unofficial_Patch_vdata_items_item_k_gimble_key.txt
-*  Unofficial_Patch_vdata_items_item_k_hannahs_safe_key.txt
-*  Unofficial_Patch_vdata_items_item_k_key_generic.txt
-*  Unofficial_Patch_vdata_items_item_k_kiki_key.txt
-*  Unofficial_Patch_vdata_items_item_k_lilly_key.txt
-*  Unofficial_Patch_vdata_items_item_k_lucky_star_murder_key.txt
-*  Unofficial_Patch_vdata_items_item_k_malcolm_office_key.txt
-*  Unofficial_Patch_vdata_items_item_k_malkavian_refrigerator_key.txt
-*  Unofficial_Patch_vdata_items_item_k_murietta_key.txt
-*  Unofficial_Patch_vdata_items_item_k_museum_basement_key.txt
-*  Unofficial_Patch_vdata_items_item_k_museum_office_key.txt
-*  Unofficial_Patch_vdata_items_item_k_museum_storage_key.txt
-*  Unofficial_Patch_vdata_items_item_k_museum_storeroom_key.txt
-*  Unofficial_Patch_vdata_items_item_k_netcafe_office_key.txt
-*  Unofficial_Patch_vdata_items_item_k_shrekhub_four_key.txt
-*  Unofficial_Patch_vdata_items_item_k_shrekhub_one_key.txt
-*  Unofficial_Patch_vdata_items_item_k_skyline_haven_key.txt
-*  Unofficial_Patch_vdata_items_item_k_tatoo_parlor_key.txt
-*  Unofficial_Patch_vdata_items_item_k_tawni_apartment_key.txt
-*  Unofficial_Patch_vdata_items_item_k_tutorial_chopshop_stairs_key.txt
-*  Unofficial_Patch_vdata_items_item_p_gargoyle_talisman.txt
 *  Unofficial_Patch_vdata_items_item_p_occult_blood_buff.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_dexterity.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_dodge.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_experience.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_frenzy.txt
 *  Unofficial_Patch_vdata_items_item_p_occult_hacking.txt
 *  Unofficial_Patch_vdata_items_item_p_occult_heal_rate.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_lockpicking.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_obfuscate.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_passive_durations.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_presence.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_regen.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_strength.txt
-*  Unofficial_Patch_vdata_items_item_p_occult_thaum_damage.txt
 *  Unofficial_Patch_vdata_items_item_p_research_hg_computers.txt
 *  Unofficial_Patch_vdata_items_item_p_research_hg_dodge.txt
 *  Unofficial_Patch_vdata_items_item_p_research_hg_firearms.txt
@@ -995,100 +764,34 @@
 *  Unofficial_Patch_vdata_items_item_p_research_mg_security.txt
 *  Unofficial_Patch_vdata_items_item_s_physicshand-null.txt
 *  Unofficial_Patch_vdata_items_item_w_avamp_blade.txt
-*  Unofficial_Patch_vdata_items_item_w_baseball_bat.txt
 *  Unofficial_Patch_vdata_items_item_w_baton.txt
-*  Unofficial_Patch_vdata_items_item_w_bush_hook.txt
 *  Unofficial_Patch_vdata_items_item_w_chang_blade.txt
-*  Unofficial_Patch_vdata_items_item_w_chang_claw.txt
-*  Unofficial_Patch_vdata_items_item_w_chang_energy_ball.txt
-*  Unofficial_Patch_vdata_items_item_w_chang_ghost.txt
-*  Unofficial_Patch_vdata_items_item_w_claws_ghoul.txt
-*  Unofficial_Patch_vdata_items_item_w_claws.txt
 *  Unofficial_Patch_vdata_items_item_w_colt_anaconda.txt
 *  Unofficial_Patch_vdata_items_item_w_crossbow_flaming.txt
 *  Unofficial_Patch_vdata_items_item_w_crossbow.txt
 *  Unofficial_Patch_vdata_items_item_w_deserteagle.txt
-*  Unofficial_Patch_vdata_items_item_w_fireaxe.txt
-*  Unofficial_Patch_vdata_items_item_w_fists.txt
 *  Unofficial_Patch_vdata_items_item_w_flamethrower.txt
-*  Unofficial_Patch_vdata_items_item_w_gargoyle_fist.txt
 *  Unofficial_Patch_vdata_items_item_w_glock_17c.txt
 *  Unofficial_Patch_vdata_items_item_w_grenade_frag.txt
-*  Unofficial_Patch_vdata_items_item_w_hengeyokai_fist.txt
 *  Unofficial_Patch_vdata_items_item_w_ithaca_m_37.txt
-*  Unofficial_Patch_vdata_items_item_w_katana.txt
-*  Unofficial_Patch_vdata_items_item_w_knife.txt
 *  Unofficial_Patch_vdata_items_item_w_mac_10.txt
-*  Unofficial_Patch_vdata_items_item_w_manbat_claw.txt
 *  Unofficial_Patch_vdata_items_item_w_mingxiao_melee.txt
 *  Unofficial_Patch_vdata_items_item_w_mingxiao_spit.txt
-*  Unofficial_Patch_vdata_items_item_w_mingxiao_tentacle.txt
 *  Unofficial_Patch_vdata_items_item_w_occultblade.txt
 *  Unofficial_Patch_vdata_items_item_w_rem_m_700_bach.txt
 *  Unofficial_Patch_vdata_items_item_w_remington_m_700.txt
-*  Unofficial_Patch_vdata_items_item_w_severed_arm.txt
 *  Unofficial_Patch_vdata_items_item_w_sheriff_sword.txt
-*  Unofficial_Patch_vdata_items_item_w_sledgehammer.txt
 *  Unofficial_Patch_vdata_items_item_w_steyr_aug.txt
 *  Unofficial_Patch_vdata_items_item_w_supershotgun.txt
 *  Unofficial_Patch_vdata_items_item_w_thirtyeight.txt
-*  Unofficial_Patch_vdata_items_item_w_tire_iron.txt
-*  Unofficial_Patch_vdata_items_item_w_torch.txt
-*  Unofficial_Patch_vdata_items_item_w_tzimisce_melee.txt
-*  Unofficial_Patch_vdata_items_item_w_tzimisce2_claw.txt
-*  Unofficial_Patch_vdata_items_item_w_tzimisce3_claw.txt
-*  Unofficial_Patch_vdata_items_item_w_unarmed.txt
 *  Unofficial_Patch_vdata_items_item_w_uzi.txt
-*  Unofficial_Patch_vdata_items_item_w_werewolf_attacks.txt
 *  Unofficial_Patch_vdata_items_weapon_physcannon.txt
-*  Unofficial_Patch_vdata_signs_coffee_note.txt
 *  Unofficial_Patch_vdata_signs_empire_note.txt
-*  Unofficial_Patch_vdata_signs_flynns_password.txt
 *  Unofficial_Patch_vdata_signs_fortune_note.txt
-*  Unofficial_Patch_vdata_signs_jump_note.txt
 *  Unofficial_Patch_vdata_signs_library_note.txt
-*  Unofficial_Patch_vdata_signs_malcolm_password_note.txt
-*  Unofficial_Patch_vdata_signs_mercurios_note.txt
 *  Unofficial_Patch_vdata_signs_museum_note.txt
-*  Unofficial_Patch_vdata_signs_newspaper_all.txt
-*  Unofficial_Patch_vdata_signs_newspaper_dane_slaughter.txt
-*  Unofficial_Patch_vdata_signs_newspaper_elizabeth_dane.txt
-*  Unofficial_Patch_vdata_signs_newspaper_johansen2.txt
-*  Unofficial_Patch_vdata_signs_newspaper_museum.txt
-*  Unofficial_Patch_vdata_signs_newspaper_oh_1.txt
-*  Unofficial_Patch_vdata_signs_newspaper_oh_2.txt
-*  Unofficial_Patch_vdata_signs_newspaper_oh_3.txt
-*  Unofficial_Patch_vdata_signs_newspaper_oh_4.txt
-*  Unofficial_Patch_vdata_signs_newspaper_oh_5.txt
-*  Unofficial_Patch_vdata_signs_newspaper_oh_6.txt
-*  Unofficial_Patch_vdata_signs_newspaper_serial_killer.txt
-*  Unofficial_Patch_vdata_signs_newspaper_test.txt
-*  Unofficial_Patch_vdata_signs_newspaper_war_2.txt
-*  Unofficial_Patch_vdata_signs_newspaper_wong_ho_dead.txt
-*  Unofficial_Patch_vdata_signs_oh_fade1.txt
-*  Unofficial_Patch_vdata_signs_pier_note.txt
-*  Unofficial_Patch_vdata_signs_psych_report.txt
-*  Unofficial_Patch_vdata_signs_regents_invitation.txt
-*  Unofficial_Patch_vdata_signs_santamonica_a.txt
-*  Unofficial_Patch_vdata_signs_santamonica_b.txt
-*  Unofficial_Patch_vdata_signs_santamonica_c.txt
-*  Unofficial_Patch_vdata_signs_santamonicasewer1.txt
-*  Unofficial_Patch_vdata_signs_santamonicasewer2.txt
-*  Unofficial_Patch_vdata_signs_sarcophagus.txt
-*  Unofficial_Patch_vdata_signs_shub4_name1.txt
-*  Unofficial_Patch_vdata_signs_shub4_name2.txt
-*  Unofficial_Patch_vdata_signs_shub4_name3.txt
-*  Unofficial_Patch_vdata_signs_shub4_name4.txt
-*  Unofficial_Patch_vdata_signs_shub4_name5.txt
-*  Unofficial_Patch_vdata_signs_sign_test_scripted.txt
-*  Unofficial_Patch_vdata_signs_sign_test.txt
 *  Unofficial_Patch_vdata_signs_sinbin_note.txt
 *  Unofficial_Patch_vdata_signs_sinbin_temp.txt
-*  Unofficial_Patch_vdata_signs_smoke_note.txt
-*  Unofficial_Patch_vdata_signs_tattoo_note.txt
-*  Unofficial_Patch_vdata_signs_temp_intro.txt
-*  Unofficial_Patch_vdata_signs_temp_la.txt
-*  Unofficial_Patch_vdata_signs_tutorial_note.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_animalism1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_animalism2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_animalism3.txt
@@ -1142,7 +845,6 @@
 *  Unofficial_Patch_vdata_signs_tutorial_popup.txt
 *  Unofficial_Patch_vdata_signs_werewolf_note.txt
 *  Unofficial_Patch_vdata_system_charcreatewizard.txt
-*  Unofficial_Patch_vdata_system_chareditor.txt
 *  Unofficial_Patch_vdata_system_clandoc000.txt
 *  Unofficial_Patch_vdata_system_credits.txt
 *  Unofficial_Patch_vdata_system_disciplinetgt_000.txt
@@ -1153,48 +855,20 @@
 *  Unofficial_Patch_vdata_system_feats.txt
 *  Unofficial_Patch_vdata_system_histories000.txt
 *  Unofficial_Patch_vdata_system_infobartypes.txt
-*  Unofficial_Patch_vdata_system_interestingplacetypelist.txt
 *  Unofficial_Patch_vdata_system_items.txt
-*  Unofficial_Patch_vdata_system_levelingtemplate_000.txt
 *  Unofficial_Patch_vdata_system_loadingtips.txt
 *  Unofficial_Patch_vdata_system_mapnames_localized.txt
-*  Unofficial_Patch_vdata_system_npctemplate_ashsewers.txt
-*  Unofficial_Patch_vdata_system_npctemplate_bomberman.txt
-*  Unofficial_Patch_vdata_system_npctemplate_cdc.txt
-*  Unofficial_Patch_vdata_system_npctemplate_crackhouse.txt
-*  Unofficial_Patch_vdata_system_npctemplate_lufang.txt
-*  Unofficial_Patch_vdata_system_npctemplate_malkmansion.txt
-*  Unofficial_Patch_vdata_system_npctemplate_ventruesecurity.txt
 *  Unofficial_Patch_vdata_system_npctemplate000.txt
 *  Unofficial_Patch_vdata_system_npctemplate001.txt
-*  Unofficial_Patch_vdata_system_npctemplate002.txt
 *  Unofficial_Patch_vdata_system_npctemplate004.txt
-*  Unofficial_Patch_vdata_system_npctemplate005.txt
-*  Unofficial_Patch_vdata_system_npctemplate007.txt
-*  Unofficial_Patch_vdata_system_npctemplate008.txt
-*  Unofficial_Patch_vdata_system_npctemplate009.txt
-*  Unofficial_Patch_vdata_system_npctemplate011.txt
 *  Unofficial_Patch_vdata_system_npctemplate012.txt
-*  Unofficial_Patch_vdata_system_npctemplate013.txt
-*  Unofficial_Patch_vdata_system_npctemplate014.txt
-*  Unofficial_Patch_vdata_system_npctemplate015.txt
-*  Unofficial_Patch_vdata_system_npctemplate016.txt
-*  Unofficial_Patch_vdata_system_npctemplate017.txt
-*  Unofficial_Patch_vdata_system_npctemplate018.txt
-*  Unofficial_Patch_vdata_system_npctemplate020.txt
-*  Unofficial_Patch_vdata_system_npctemplate022.txt
-*  Unofficial_Patch_vdata_system_npctemplate023.txt
-*  Unofficial_Patch_vdata_system_npctemplate024.txt
-*  Unofficial_Patch_vdata_system_npctemplate025.txt
 *  Unofficial_Patch_vdata_system_particleimpacttable.txt
 *  Unofficial_Patch_vdata_system_quests_chinatown.txt
 *  Unofficial_Patch_vdata_system_quests_downtown.txt
 *  Unofficial_Patch_vdata_system_quests_hollywood.txt
 *  Unofficial_Patch_vdata_system_quests_santamonica.txt
-*  Unofficial_Patch_vdata_system_rules_tables.txt
 *  Unofficial_Patch_vdata_system_rules.txt
 *  Unofficial_Patch_vdata_system_stats.txt
-*  Unofficial_Patch_vdata_system_strings_internal.txt
 *  Unofficial_Patch_vdata_system_strings.txt
 *  Unofficial_Patch_vdata_system_traiteffects000.txt
 *  Unofficial_Patch_vdata_system_vendors.txt
@@ -1219,8 +893,6 @@
 *  Vampire_maps_ch_hub_1.bsp
 *  Vampire_maps_ch_temple_3.bsp
 *  Vampire_maps_graphs_ch_hub_1.ain
-*  Vampire_maps_graphs_ch_ramen_1.ain
-*  Vampire_maps_graphs_ch_tsengs_1.ain
 *  Vampire_maps_hw_ash_sewer_1.bsp
 *  Vampire_maps_hw_asphole_1.bsp
 *  Vampire_maps_hw_hub_1.bsp
@@ -1935,7 +1607,6 @@
 *  Vampire_sound_character_dlg_santa monica_bertram_line511_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_bertram_line691_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_dennis_line181_col_e.mp3
-*  Vampire_sound_character_dlg_santa monica_jeanette_line681_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_julius_line111_col_e.mp3
 *  Vampire_sound_character_dlg_santa monica_knox_line291_col_f.mp3
 *  Vampire_sound_character_dlg_santa monica_mercurio_line431_col_e.mp3
@@ -1983,10 +1654,10 @@
 *  [VtmB Antitribu Lasombra black clothes-248-1-0-1678275328.rar](https://www.nexusmods.com/vampirebloodlines/mods/248/?tab=files&file_id=745)
 *  [VTMB HD Overhaul Complete 234 2.4 2026-08-27T17-21Z UIdbpgeC.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1599)
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
-*  [VTMB Protean Improved 1.3.1 419 1.3.1 2026-10-31T17-09Z ADr08nnm.zip](https://www.nexusmods.com/vampirebloodlines/mods/419/?tab=files&file_id=1718)
+*  [VTMB Protean Improved 1.3.1 419 1.3.2 2026-11-04T19-32Z kxJn5XbQ.zip](https://www.nexusmods.com/vampirebloodlines/mods/419/?tab=files&file_id=1749)
 *  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
-*  [VTMBup120.2 80 12.0 2026-10-01T21-02Z ADr08nMv.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1656)
+*  [VTMBup120.9 80 12.0 2026-11-05T10-49Z DqeUNf9u.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1751)
 *  [VV_Posters-194-1-0-1636564291.7z](https://www.nexusmods.com/vampirebloodlines/mods/194/?tab=files&file_id=558)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
