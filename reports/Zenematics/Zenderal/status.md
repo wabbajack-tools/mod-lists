@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1086)
+### Valid (1096)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Other PART 3-2347-10-0-1-1710492886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480715)
 *  [.tri Expression Morphs-71235-3-36c-1683751633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71235/?tab=files&file_id=386760)
@@ -47,6 +47,7 @@
 *  [All in one-164549-1-0-3-1776971230.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164549/?tab=files&file_id=745060)
 *  [All in one-164551-1-0-7-1777411393.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164551/?tab=files&file_id=746841)
 *  [Alpha Blood Blending Bug (NG) - Latest Version 149128 1.0.1 2026-09-02T21-09Z 8gJHT4LBO.zip](https://www.nexusmods.com/skyrimspecialedition/mods/149128/?tab=files&file_id=799408)
+*  [Alt Start Jespar's Camp 1152 1 2026-10-29T21-25Z OSyiC8Vbd.zip](https://www.nexusmods.com/enderalspecialedition/mods/1152/?tab=files&file_id=4672)
 *  [AltTabFix 2.0.1 148466 2.0.1 2026-09-24T12-17Z qTl1SxXft.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148466/?tab=files&file_id=810013)
 *  [AmnesiaShrine_v4.00_sse-6-4-00-1745806023.rar](https://www.nexusmods.com/enderalspecialedition/mods/6/?tab=files&file_id=3571)
 *  [Ancestral Spirit Replacer (Variant 1)-60-1-00-1617884779.rar](https://www.nexusmods.com/enderalspecialedition/mods/60/?tab=files&file_id=230)
@@ -103,6 +104,7 @@
 *  [Book Covers of Enderal 4K English Version-733-1-1-3-1722903233.rar](https://www.nexusmods.com/enderalspecialedition/mods/733/?tab=files&file_id=2962)
 *  [Bottled Shaders 192816 1.0.18 2026-10-19T12-24Z tSBIcEars.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192816/?tab=files&file_id=822787)
 *  [Bottled Shaders 192816 1.0.22 2026-10-25T20-15Z tSBIcEa7U.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192816/?tab=files&file_id=826073)
+*  [Bottled Shaders 192816 1.0.27 2026-11-09T00-45Z QRde378Tu.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192816/?tab=files&file_id=834994)
 *  [Bow Charge Plus-59124-0-9-1642820165.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59124/?tab=files&file_id=258562)
 *  [Break Stagger 178745 1.0.2 2026-09-24T22-23Z VMSnJrRBB.zip](https://www.nexusmods.com/skyrimspecialedition/mods/178745/?tab=files&file_id=810224)
 *  [Bridges of Enderal-615-2-0-1715292466.zip](https://www.nexusmods.com/enderalspecialedition/mods/615/?tab=files&file_id=2797)
@@ -315,6 +317,7 @@
 *  Data_SKSE_Plugins_CrashLogger.dll
 *  Data_SKSE_Plugins_EnderalSE.dll
 *  Data_SKSE_Plugins_EnderalSteam.dll
+*  Data_SKSE_Plugins_EngineFixes_SNCT.ini
 *  Data_SKSE_Plugins_EngineFixes.dll
 *  Data_SKSE_Plugins_fs_src.zip
 *  Data_SKSE_Plugins_fs_steam_src.zip
@@ -466,6 +469,7 @@
 *  [Dynamic Sprint-95561-2-5-1733565902.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95561/?tab=files&file_id=569842)
 *  [Dynamic String Distributor 107676 1.5.2 2026-09-30T11-24Z cE8hkADQG.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107676/?tab=files&file_id=812636)
 *  [Dynamic Things Alternative - Base Object Swapper-60741-0-5-1777404773.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60741/?tab=files&file_id=746814)
+*  [Dynamic Wind Framework 177023 1.5 2026-10-26T11-10Z 4t2yDcd4G.7z](https://www.nexusmods.com/skyrimspecialedition/mods/177023/?tab=files&file_id=826442)
 *  [DynDOLOD DLL NG and Scripts 3.00 97720 Alpha-43 2026-09-09T17-15Z 4t2yDc38N.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=802882)
 *  [DynDOLOD Output - Zenderal 1128 5 2026-11-03T00-46Z 8XgWVuj9C.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4700)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-59-1777722398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=747879)
@@ -615,6 +619,7 @@
 *  [HFs - Buttocks rest (BOS) - 1K-146910-1-1743892567.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146910/?tab=files&file_id=614347)
 *  [HFs - Tankard - 1K.zip-124567-1-01-1721631489.zip](https://www.nexusmods.com/skyrimspecialedition/mods/124567/?tab=files&file_id=523703)
 *  [HFs - Whiterun Brazier V1 - 2K-130919-2-1737119923.zip](https://www.nexusmods.com/skyrimspecialedition/mods/130919/?tab=files&file_id=584348)
+*  [HG Hairdos SMP Male pack_01-167408-1-0-0-1766109039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/167408/?tab=files&file_id=699472)
 *  [High poly campfires-26756-1-0-1561469763.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26756/?tab=files&file_id=97198)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
@@ -658,6 +663,7 @@
 *  [JellyFish SkyParkour animations-153098-0-2-1750428124.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153098/?tab=files&file_id=639769)
 *  [JellyFish Ultimate Animated Potions NG-168108-1-0-1766843774.7z](https://www.nexusmods.com/skyrimspecialedition/mods/168108/?tab=files&file_id=702561)
 *  [JellyFishFP DAGGER-140026-1-2b-1765297993.7z](https://www.nexusmods.com/skyrimspecialedition/mods/140026/?tab=files&file_id=696136)
+*  [Jespar Has Better Steel - FOMOD 1156 1.1 2026-10-31T17-28Z Y9jKfJSm5.zip](https://www.nexusmods.com/enderalspecialedition/mods/1156/?tab=files&file_id=4688)
 *  [Joy of Parallax Ships                                 -61808-1.rar](https://www.nexusmods.com/skyrim/mods/61808/?tab=files&file_id=1000143528)
 *  [Joy of Ships-61808-1.rar](https://www.nexusmods.com/skyrim/mods/61808/?tab=files&file_id=1000143474)
 *  [JS Common Cages SE - 2k Textures-68236-1-03-1654316421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68236/?tab=files&file_id=288677)
@@ -687,6 +693,7 @@
 *  [Koralina's Freckles and Moles 2k ESL-62508-1-1-1644249524.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62508/?tab=files&file_id=262465)
 *  [Koralina's Makeup Tweaks 2k ESL-63024-1-12-1644271858.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63024/?tab=files&file_id=262550)
 *  [KS Hairdos SMP-31300-1-5-0-1779021550.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31300/?tab=files&file_id=753284)
+*  [KS Hairdos SSE Male (SMP) 192054 1 2026-09-16T12-56Z uhRBKsi30.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192054/?tab=files&file_id=806133)
 *  [KS Hairdos SSE-6817-1-10-1747506054.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6817/?tab=files&file_id=628148)
 *  [Kurmai's Rug Replacer-676-1-00-1710104356.7z](https://www.nexusmods.com/enderalspecialedition/mods/676/?tab=files&file_id=2699)
 *  [Lamenthia's Marks of Beauty 2k-49845-1-0-1620935505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49845/?tab=files&file_id=203299)
@@ -820,6 +827,7 @@
 *  [Precision 72347 2.0.6 2026-09-01T07-51Z pQ0AZ3jtL.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=798533)
 *  [Precision Creatures-74887-2-42-1764337858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74887/?tab=files&file_id=692174)
 *  [Pretty Aeterna Armory 1072 1 2026-07-02T19-45Z 341CdLAky.zip](https://www.nexusmods.com/enderalspecialedition/mods/1072/?tab=files&file_id=4258)
+*  [Pretty Apothecarii Monastery Armory - FOMOD 1171 1.0 2026-11-07T17-01Z sV63HcB9Z.7z](https://www.nexusmods.com/enderalspecialedition/mods/1171/?tab=files&file_id=4744)
 *  [Pretty Common Armory 1072 2.0 2026-09-26T00-32Z V3M4qjUGs.zip](https://www.nexusmods.com/enderalspecialedition/mods/1072/?tab=files&file_id=4484)
 *  [Pretty Companions Armory 1072 2.0 2026-09-26T00-39Z n70y1G5KZ.zip](https://www.nexusmods.com/enderalspecialedition/mods/1072/?tab=files&file_id=4489)
 *  [Pretty Enderal Armory - Fixes 1072 1.5 2026-08-02T21-09Z UAKHQxNiz.zip](https://www.nexusmods.com/enderalspecialedition/mods/1072/?tab=files&file_id=4355)
@@ -856,10 +864,10 @@
 *  [Regional Debuffs-283-1-01-1635342756.rar](https://www.nexusmods.com/enderalspecialedition/mods/283/?tab=files&file_id=1251)
 *  [Remove Small Rocks v1.1 - High Compatibility-8733-1-1-1598404939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8733/?tab=files&file_id=157668)
 *  [Replace to Step Dodge-15309-3-18-1600780245.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15309/?tab=files&file_id=162059)
+*  [Responsive Grounds 197435 3 2026-11-07T12-07Z 8gJHTOe8S.zip](https://www.nexusmods.com/skyrimspecialedition/mods/197435/?tab=files&file_id=833880)
 *  [Restoration Forms ID To Make Compatibility Mods-1051-1-1-1778500321.7z](https://www.nexusmods.com/enderalspecialedition/mods/1051/?tab=files&file_id=4190)
 *  [Reticle Arcs 193635 1.3.0 2026-10-04T22-28Z izKcFpmr3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/193635/?tab=files&file_id=814738)
 *  [Reverb and Ambiance Overhaul - Enderal SSE-771-1-0-0-1723609932.zip](https://www.nexusmods.com/enderalspecialedition/mods/771/?tab=files&file_id=2993)
-*  [Reversed Z 197770 1.0.5 2026-11-08T19-33Z uhRBK8EKF.zip](https://www.nexusmods.com/skyrimspecialedition/mods/197770/?tab=files&file_id=834777)
 *  [Rhalata Temple-753-1-0-1723051983.zip](https://www.nexusmods.com/enderalspecialedition/mods/753/?tab=files&file_id=2966)
 *  [Road Textures for Blended Roads 2k-85285-1-0-1676857802.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85285/?tab=files&file_id=361495)
 *  [Rudy HQ - Falling Leaves and Needles for ENB Intense SE-25939-1-0-1558486047.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25939/?tab=files&file_id=93165)
@@ -875,6 +883,7 @@
 *  [Sanguine Symphony - Latest Version 148388 1.3.3 2026-08-01T18-09Z kATsMWElO.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148388/?tab=files&file_id=784164)
 *  [Sanguine Symphony - Latest Version 148388 1.3.5 2026-09-02T22-08Z Yj6wQRiSf.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148388/?tab=files&file_id=799454)
 *  [Sassy SnW - Beard Color Edits-160675-1-0-1779565571.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160675/?tab=files&file_id=755471)
+*  [Sassy SnW Retexture - KS Hairdos-160675-1-02-1760152471.7z](https://www.nexusmods.com/skyrimspecialedition/mods/160675/?tab=files&file_id=674433)
 *  [SC - KS Hairdos Retextured - Physics-38820-1-4-2-1596293936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=153215)
 *  [SCAR AE Support 77285 v1.06.2 2026-08-24T20-59Z kATsMWjJj.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77285/?tab=files&file_id=794621)
 *  [SCAR-v2.01.7z](https://github.com/max-su-2019/SCAR/releases/download/v2.01/SCAR-v2.01.7z)
@@ -923,7 +932,6 @@
 *  [Skyrim 3D Furniture-23552-1-9-0-1566328633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23552/?tab=files&file_id=103767)
 *  [Skyrim 3D Rocks-17732-1-0-3-1589157037.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17732/?tab=files&file_id=139229)
 *  [Skyrim Flora Overhaul-2154-2-74a-1731351285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2154/?tab=files&file_id=561312)
-*  [Skyrim Runtime Extender 197769 1.0.3 2026-11-08T05-29Z bqv3tInTH.zip](https://www.nexusmods.com/skyrimspecialedition/mods/197769/?tab=files&file_id=834338)
 *  [Skyrim Vanity System-175182-v1-4-10-1777394364.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175182/?tab=files&file_id=746779)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
@@ -1089,5 +1097,7 @@
 *  [Zenderal - Patch Collection 1128 1.7 2026-11-03T01-12Z 8XgWVuj9m.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4704)
 *  [Zenderal - Patch Collection 1128 1.8 2026-11-06T16-53Z UAKHQxNuj.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4729)
 *  [Zenderal - Patch Collection 1128 1.9 2026-11-09T00-53Z F5p6KvDcX.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4752)
+*  [Zenderal - Patch Collection 1128 2.0 2026-11-09T15-44Z DYc920OyK.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4755)
+*  [Zenderal - Patch Collection 1128 2.1 2026-11-09T21-48Z M1WtTFKsl.zip](https://www.nexusmods.com/enderalspecialedition/mods/1128/?tab=files&file_id=4758)
 *  [Zodd'S Tactiacal Crossbows 190415 1 2026-09-02T04-58Z uhRBKso7J.zip](https://www.nexusmods.com/skyrimspecialedition/mods/190415/?tab=files&file_id=799003)
 *  [Zodd'S Tactiacal Crossbows Sneak 190415 1 2026-09-02T04-58Z OyYrPu3A6.zip](https://www.nexusmods.com/skyrimspecialedition/mods/190415/?tab=files&file_id=799004)
