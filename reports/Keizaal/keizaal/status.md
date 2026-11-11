@@ -417,7 +417,7 @@
 *  [Intro Scenes Only Once-22028-1-0-1545346180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22028/?tab=files&file_id=75783)
 *  [Inventory Interface Information Injector (SE)-85702-1-1-0-1713968718.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=494324)
 *  [JContainers SE-16495-4-2-9-1705929247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=463765)
-*  [Journeyman - A Fast Travel Overhaul-92220-1-1-5-1740448300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92220/?tab=files&file_id=598765)
+*  [Journeyman - A Fast Travel Overhaul 92220 1.2.0 2026-07-03T00-35Z Ks18n026Q.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92220/?tab=files&file_id=771024)
 *  [Just Blood-46501-1-3-1754305406.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46501/?tab=files&file_id=652767)
 *  [Keizaal DynDOLOD Output.zip](https://github.com/Keizaal/Keizaal/releases/download/9.0.0/Keizaal.DynDOLOD.Output.zip)
 *  [Keizaal Exclusives.zip](https://github.com/Keizaal/Keizaal/releases/download/9.0.0/Keizaal.Exclusives.zip)
