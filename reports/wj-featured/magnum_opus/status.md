@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1229)
+### Valid (1227)
 *  [.44 Magnum Ammo Replacer-86687-1-0-1724533172.zip](https://www.nexusmods.com/fallout4/mods/86687/?tab=files&file_id=331529)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [01. 4estGimp - WTTO Injection Robco-65815--96-1718565815.7z](https://www.nexusmods.com/fallout4/mods/65815/?tab=files&file_id=323056)
@@ -644,8 +644,6 @@
 *  [Lively's Previs.7z](https://authored-files.wabbajack.org/Lively's Previs.7z_f6fdda78-5b83-42d8-8cd7-7a166b9199de)
 *  [llamaCompanionHeather v2.7-23273-2-7-1708129443.zip](https://www.nexusmods.com/fallout4/mods/23273/?tab=files&file_id=303800)
 *  [Locked and Loaded - Gunners Addon-91724-1-1-1740228531.rar](https://www.nexusmods.com/fallout4/mods/91724/?tab=files&file_id=348639)
-*  Logs_BNet_BNet.0.log
-*  Logs_Script_EditorPapyrus.0.log
 *  [Look At Me IE x White-45704-Final-1661877503.zip](https://www.nexusmods.com/fallout4/mods/45704/?tab=files&file_id=248800)
 *  [Looks Menu Customization Compendium-24830-v10.rar](https://www.nexusmods.com/fallout4/mods/24830/?tab=files&file_id=101255)
 *  [Looks Menu Customization Compendium-3815-v10-1580630878.zip](https://www.nexusmods.com/fallout4/mods/3815/?tab=files&file_id=175228)
