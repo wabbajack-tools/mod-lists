@@ -59,7 +59,7 @@
 *  [BG2 Mouse Cursors (Pak)-1923-1-2p-1725904215.zip](https://www.nexusmods.com/baldursgate3/mods/1923/?tab=files&file_id=70176)
 *  [BG3 Camera Raycast Fix 26249 1.0.1 2026-10-31T16-44Z ymMexgW4Q.zip](https://www.nexusmods.com/baldursgate3/mods/26249/?tab=files&file_id=134342)
 *  [BG3-MO2-Unofficial-Plugin 0.7.5-1268-0-7-5-1748011864.zip](https://www.nexusmods.com/site/mods/1268/?tab=files&file_id=5317)
-*  [BG3-MO2-Unofficial-Plugin.1.2.0.zip](https://github.com/Alvadus/BG3-MO2-Unofficial-Plugin/releases/download/1.2.0/BG3-MO2-Unofficial-Plugin.1.2.0.zip)
+*  [BG3-MO2-Unofficial-Plugin 1.2.1 1268 1.2.1 2026-11-05T11-00Z 5RV1lUfRq.zip](https://www.nexusmods.com/site/mods/1268/?tab=files&file_id=12549)
 *  [BG3EE Custom Loading Screen No Dice 15305 1 2026-09-21T17-20Z ujr7w4vEv.7z](https://www.nexusmods.com/baldursgate3/mods/15305/?tab=files&file_id=131065)
 *  [BG3SE-Updater-20261012.zip](https://github.com/Norbyte/bg3se/releases/download/v33/BG3SE-Updater-20261012.zip)
 *  [Bigger Text Font-12132-1-0-1726195816.zip](https://www.nexusmods.com/baldursgate3/mods/12132/?tab=files&file_id=70776)
