@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (773)
+### Valid (774)
 *  [1st Person Greatsword Idle Animation Fix-75031-1-0-1662823053.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75031/?tab=files&file_id=314995)
 *  [3D Coin Piles - SE by Xtudo - COIN Default-113152-3-6-1779967807.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113152/?tab=files&file_id=757027)
 *  [3D Coin Piles - SE by Xtudo - Septim HD-113152-1-1709645408.7z](https://www.nexusmods.com/skyrimspecialedition/mods/113152/?tab=files&file_id=477218)
@@ -638,6 +638,7 @@
 *  [SkyPatcher - Ronan's Gourmet Patches-119817-2-03-3-1-1778617364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/119817/?tab=files&file_id=751512)
 *  [Skyrim Cut Content Restoration v2.4.2-90744-2-4-3-1777417338.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90744/?tab=files&file_id=746867)
 *  [Skyrim Extended Cut - Saints and Seducers 72772 1.1.3 2026-08-21T16-00Z pQ0AZ3hU8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=792806)
+*  [Skyrim Remastered - Optimized (Part 1)-134352-1-1-1750069975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/134352/?tab=files&file_id=638476)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
