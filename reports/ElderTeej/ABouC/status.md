@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (919)
+### Valid (940)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [12.7mm Carbine - Munitions-103690-1-0-2Reupload-1776903624.zip](https://www.nexusmods.com/fallout4/mods/103690/?tab=files&file_id=394417)
 *  [2.1.0 CBBE BODY AND BODYSLIDES 2K TEXTURES-22431-2-1-0-1709119821.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=305065)
@@ -36,9 +36,10 @@
 *  [4K Pipboy-3747-1-0-1725229836.7z](https://www.nexusmods.com/fallout4/mods/3747/?tab=files&file_id=332530)
 *  [512 Standalone Hair Colors (1 ESP)-21365-2-0.zip](https://www.nexusmods.com/fallout4/mods/21365/?tab=files&file_id=90716)
 *  [A Bountiful Commonwealth - Bodyslide Outputs 98039 1.0.0 2026-09-10T21-06Z 86DAb3Wcl.7z](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=410896)
-*  [A Bountiful Commonwealth - LODGen-98039-1-0-0a-1762726757.7z](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=373031)
+*  [A Bountiful Commonwealth - FOLIP Output 98039 1.1.1 2026-11-15T17-13Z tCAJxPufh.zip](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=421131)
+*  [A Bountiful Commonwealth - LODGen 98039 1.1.1 2026-11-16T00-27Z 3TfnOrvz7.7z](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=421176)
 *  [A Bountiful Commonwealth - Nevernude Bodyslides-98039-1-0-0-1762726310.7z](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=373028)
-*  [A Bountiful Commonwealth - TexGen Output-98039-1-0-0a-1762726189.zip](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=373027)
+*  [A Bountiful Commonwealth - TexGen Output 98039 1.1.1 2026-11-15T17-33Z kQvLeXnd7.zip](https://www.nexusmods.com/fallout4/mods/98039/?tab=files&file_id=421134)
 *  [ACR-W17 version 1.2.1a (Main)-26302-v1-2-1a.rar](https://www.nexusmods.com/fallout4/mods/26302/?tab=files&file_id=109718)
 *  [ActiveEffects.zip-32735-1-2-6-1656801902.zip](https://www.nexusmods.com/fallout4/mods/32735/?tab=files&file_id=242275)
 *  [Addictol 1.7.1 84214 1.7.1 2026-10-06T15-35Z q0wM4yCAk.zip](https://www.nexusmods.com/fallout4/mods/84214/?tab=files&file_id=415115)
@@ -196,7 +197,27 @@
 *  [CWM14 105723 1.0.6 2026-06-14T13-55Z LKSG8H6EJ.zip](https://www.nexusmods.com/fallout4/mods/105723/?tab=files&file_id=400461)
 *  [Dak-Laser RCW FNV-FaceGen-94048-v1-3-1750249013.7z](https://www.nexusmods.com/fallout4/mods/94048/?tab=files&file_id=359345)
 *  [Dak's Weapons On Super Mutants FOMOD-86530-1-6-5-1753464937.zip](https://www.nexusmods.com/fallout4/mods/86530/?tab=files&file_id=362294)
+*  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
+*  Data_ccbgsfo4044-hellfirepowerarmor.esl
+*  Data_ccBGSFO4046-TesCan - Main.ba2
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
+*  Data_ccbgsfo4046-tescan.esl
+*  Data_ccBGSFO4115-X02 - Main.ba2
+*  Data_ccBGSFO4115-X02 - Textures.ba2
+*  Data_ccbgsfo4115-x02.esl
+*  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
+*  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
+*  Data_ccbgsfo4116-heavyflamer.esl
+*  Data_ccFSVFO4007-Halloween - Main.ba2
+*  Data_ccFSVFO4007-Halloween - Textures.ba2
+*  Data_ccfsvfo4007-halloween.esl
+*  Data_ccOTMFO4001-Remnants - Main.ba2
+*  Data_ccOTMFO4001-Remnants - Textures.ba2
+*  Data_ccotmfo4001-remnants.esl
 *  Data_ccSBJFO4003-Grenade - Main.ba2
+*  Data_ccSBJFO4003-Grenade - Textures.ba2
+*  Data_ccsbjfo4003-grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -294,7 +315,7 @@
 *  [DTG_LeveledListIntegration-45070-2-0-1613600727.7z](https://www.nexusmods.com/fallout4/mods/45070/?tab=files&file_id=201765)
 *  [Dull 2K 1.2-2174-1-2.zip](https://www.nexusmods.com/fallout4/mods/2174/?tab=files&file_id=7042)
 *  [Dynamic Activation Key-75679-1-5-0-1727620273.7z](https://www.nexusmods.com/fallout4/mods/75679/?tab=files&file_id=335568)
-*  [DynDOLOD 3.00-68518-Alpha-196-1757405466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=663926)
+*  [DynDOLOD 3.00 68518 Alpha-219 2026-11-12T09-41Z QRde378UT.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=837226)
 *  [EBT_Basic v101-212-1-01.7z](https://www.nexusmods.com/fallout4/mods/212/?tab=files&file_id=54175)
 *  [ECO-67679-5-0-6-1778235718.zip](https://www.nexusmods.com/fallout4/mods/67679/?tab=files&file_id=396212)
 *  [Editor's Choice v2-21331-2-0-1560296915.zip](https://www.nexusmods.com/fallout4/mods/21331/?tab=files&file_id=159696)
@@ -329,7 +350,7 @@
 *  [Fabulous Fire Extinguisher NO LOGO-70706-1-0-1686898102.rar](https://www.nexusmods.com/fallout4/mods/70706/?tab=files&file_id=280588)
 *  [Fallout 4 - Point Lookout Companions-60330-1-1652390733.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237449)
 *  [Fallout 4 - Point Lookout-60330-1-1652278869.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237355)
-*  [Fallout 4 Community Shaders 109442 0.4.1 2026-10-22T09-30Z ARl5VnWJx.zip](https://www.nexusmods.com/fallout4/mods/109442/?tab=files&file_id=417362)
+*  [Fallout 4 Community Shaders 109442 0.5.1 2026-11-05T07-52Z NuqDBFLxv.zip](https://www.nexusmods.com/fallout4/mods/109442/?tab=files&file_id=419334)
 *  [Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=242233)
 *  [Fallout 4 Scopes Framework-30644-v1-4-1.7z](https://www.nexusmods.com/fallout4/mods/30644/?tab=files&file_id=134584)
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
