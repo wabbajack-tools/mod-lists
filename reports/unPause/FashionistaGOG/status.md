@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1657)
+### Valid (1664)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Andrei_Zulu_Warform_Animalism_Beastform_v1.12_Made_By_MooCHa.rar](https://www.moddb.com/addons/start/300008)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -29,9 +29,11 @@
 *  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
 *  [Blood Rayne Posters.rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1557)
 *  [Bloodlines audio fix 207 2.2 2026-09-22T05-00Z MwNCqaJT.zip](https://www.nexusmods.com/vampirebloodlines/mods/207/?tab=files&file_id=1630)
+*  [Bloodlines Script Extender 445 0.6.3 2026-11-13T16-42Z P36Lz9Fi.zip](https://www.nexusmods.com/vampirebloodlines/mods/445/?tab=files&file_id=1806)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
 *  [BLOODLINES_EXTREME_2.2.1 - Repack.7z](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_2.2.1 - Repack.7z_bd3f9a2a-3c56-41ba-8c77-6dc53ef25571)
 *  [BLOODLINES_EXTREME_2.2.1.zip](https://www.moddb.com/downloads/start/132997)
+*  [BLOODLINES_EXTREME_2.2.11.zip](https://www.moddb.com/downloads/start/132997)
 *  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
 *  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
@@ -43,15 +45,18 @@
 *  [Brujah opium-335-1-0-1735584083.rar](https://www.nexusmods.com/vampirebloodlines/mods/335/?tab=files&file_id=1143)
 *  [Brujah Replacer - Kit-395-1-5-1771381079.zip](https://www.nexusmods.com/vampirebloodlines/mods/395/?tab=files&file_id=1502)
 *  [Brujah Skin-319-2-0-1722106221.7z](https://www.nexusmods.com/vampirebloodlines/mods/319/?tab=files&file_id=1037)
-*  [CaineCam 436 1.4.0 2026-11-10T22-37Z lM8FDjwX.zip](https://www.nexusmods.com/vampirebloodlines/mods/436/?tab=files&file_id=1781)
-*  [CaineLight 442 1.1.0 2026-11-11T04-45Z z0HkuGUW.zip](https://www.nexusmods.com/vampirebloodlines/mods/442/?tab=files&file_id=1783)
-*  [CainePad Loader 432 1.4.0 2026-11-10T22-35Z inRGPwfH.zip](https://www.nexusmods.com/vampirebloodlines/mods/432/?tab=files&file_id=1778)
-*  [CaineSub Loader 437 1.2.0 2026-11-10T22-30Z KoaqQbZr.zip](https://www.nexusmods.com/vampirebloodlines/mods/437/?tab=files&file_id=1777)
+*  [CaineCam 436 1.5.2 2026-11-15T02-01Z MwNCqayd.zip](https://www.nexusmods.com/vampirebloodlines/mods/436/?tab=files&file_id=1816)
+*  [CaineHud 439 1.2.1 2026-11-15T20-24Z XhitZ4Jm.zip](https://www.nexusmods.com/vampirebloodlines/mods/439/?tab=files&file_id=1831)
+*  [CaineLight 442 1.8.0 2026-11-15T15-06Z oZs9iBwF.zip](https://www.nexusmods.com/vampirebloodlines/mods/442/?tab=files&file_id=1825)
+*  [CainePad Loader 432 1.5.1 2026-11-15T02-02Z pmOMKVb6.zip](https://www.nexusmods.com/vampirebloodlines/mods/432/?tab=files&file_id=1817)
+*  [CaineSub 437 1.3.0 2026-11-16T08-25Z ZjPrnJti.zip](https://www.nexusmods.com/vampirebloodlines/mods/437/?tab=files&file_id=1833)
+*  [CaineWorld 448 1.2.0 2026-11-15T21-16Z kxJn5XZd.zip](https://www.nexusmods.com/vampirebloodlines/mods/448/?tab=files&file_id=1832)
 *  [Camarilla_Edition_Reborn.1.exe](https://www.moddb.com/downloads/start/312734)
 *  [Carpet Texture Pack-152-1-0-1598207727.zip](https://www.nexusmods.com/vampirebloodlines/mods/152/?tab=files&file_id=423)
 *  [Carthian Damsel-225-1-01-1663357231.zip](https://www.nexusmods.com/vampirebloodlines/mods/225/?tab=files&file_id=651)
 *  [Casual Female Malkavian-267-1-0-1689345021.zip](https://www.nexusmods.com/vampirebloodlines/mods/267/?tab=files&file_id=833)
 *  [Character Eyes Improved-164-16-1719680547.rar](https://www.nexusmods.com/vampirebloodlines/mods/164/?tab=files&file_id=1015)
+*  [Cheat Menu 434 0.5 2026-11-03T02-17Z RzI76WW5.zip](https://www.nexusmods.com/vampirebloodlines/mods/434/?tab=files&file_id=1742)
 *  [Chinatown_vampire.rar](https://www.moddb.com/addons/start/233551)
 *  [Clan_Quest_UPgraded_6-Repack.7z](https://authored-files.wabbajack.org/Clan_Quest_UPgraded_6-Repack.7z_4d441643-d32b-453b-919d-d6177557a1ce)
 *  [Clan_Quest_UPgraded_6.exe](https://www.moddb.com/downloads/start/317154)
@@ -497,6 +502,8 @@
 *  Unofficial_Patch_materials_decals_signs_tatw.vmt
 *  Unofficial_Patch_materials_decals_signs_thomas.vmt
 *  Unofficial_Patch_materials_decals_signs_trnsigna.vmt
+*  Unofficial_Patch_materials_ground_streetbsan.vmt
+*  Unofficial_Patch_materials_ground_streetcsan.vmt
 *  Unofficial_Patch_materials_hud_disciplines_bloodheal_fullbright.vmt
 *  Unofficial_Patch_materials_hud_disciplines_divinelight_fullbright.vmt
 *  Unofficial_Patch_materials_hud_disciplines_holysight_fullbright.vmt
