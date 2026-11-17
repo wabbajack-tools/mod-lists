@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1220)
+### Valid (1226)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_HairHilda.rar](https://www.patreon.com/file?h=86395571&m=217122685)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
@@ -97,10 +97,12 @@
 *  [AudioOcclusion 184748 1.1.3 2026-09-06T05-07Z OyYrPuWlN.zip](https://www.nexusmods.com/skyrimspecialedition/mods/184748/?tab=files&file_id=801112)
 *  [Aura's Inventory Tweaks-68557-4-5-0-1713935718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68557/?tab=files&file_id=494229)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
+*  [AURORA v5 x2048-6021-5-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6021/?tab=files&file_id=14898)
 *  [Auto Physics Reset-174098-1-3-1773304783.zip](https://www.nexusmods.com/skyrimspecialedition/mods/174098/?tab=files&file_id=730579)
 *  [Automatic CRDW - MANUAL INSTALL - MO2 Plugin 189151 1.2.7 2026-08-23T05-04Z izKcFprfu.zip](https://www.nexusmods.com/skyrimspecialedition/mods/189151/?tab=files&file_id=793720)
 *  [AW 3BA presets pack-162809-1-0-1761508235.zip](https://www.nexusmods.com/skyrimspecialedition/mods/162809/?tab=files&file_id=680730)
 *  [B.O.O.B.I.E.S (Immsersive Icons) 2.1.3-89241-2-1-3-1730442940.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89241/?tab=files&file_id=557732)
+*  [B.O.O.B.I.E.S Books 196745 1 2026-10-26T20-12Z qTl1Sxq1f.zip](https://www.nexusmods.com/skyrimspecialedition/mods/196745/?tab=files&file_id=826691)
 *  [Babbling Brooks-159249-1-1-1758488384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/159249/?tab=files&file_id=668148)
 *  [Bank of Ark SE-158-1-05-1756930484.rar](https://www.nexusmods.com/enderalspecialedition/mods/158/?tab=files&file_id=3886)
 *  [Barstool Exit Animation Fix-144556-1-00-1741847187.rar](https://www.nexusmods.com/skyrimspecialedition/mods/144556/?tab=files&file_id=605040)
@@ -242,6 +244,7 @@
 *  [Court Wizard Robes Variations Full Res-128600-2-2-1759897733.zip](https://www.nexusmods.com/skyrimspecialedition/mods/128600/?tab=files&file_id=673495)
 *  [Crackling Fire-137631-1-2-1737581799.7z](https://www.nexusmods.com/skyrimspecialedition/mods/137631/?tab=files&file_id=586317)
 *  [Crafting Categories for SkyUI-81409-1-1-1-1713865527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81409/?tab=files&file_id=493920)
+*  [Crash Fix Compendium 198155 1.6.0 2026-11-13T12-54Z 8gJHTOgVx.zip](https://www.nexusmods.com/skyrimspecialedition/mods/198155/?tab=files&file_id=837910)
 *  [CrashLogger-59818-1-24-0-1782605772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=769017)
 *  [CRDW SE 186434 1.1.4 2026-08-01T17-04Z PuQ2UKyWP.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186434/?tab=files&file_id=784138)
 *  [Crimson Ranger Armor - PBR-158181-1-0-1756653189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/158181/?tab=files&file_id=661116)
@@ -281,10 +284,12 @@
 *  Data_SKSE_Plugins_EnderalSE.ini
 *  Data_SKSE_Plugins_EnderalSteam.ini
 *  Data_SKSE_Plugins_EnderalVersion.ini
+*  Data_SKSE_Plugins_EngineFixes_preload.txt
 *  Data_SKSE_Plugins_EngineFixes.dll
 *  Data_SKSE_Plugins_EngineFixes.toml
 *  Data_SKSE_Plugins_fs_steam.dll
 *  Data_SKSE_Plugins_SkyrimRedirector.dll
+*  Data_SKSE_Plugins_SkyrimRedirector.log
 *  Data_SKSE_Plugins_SSEDisplayTweaks.dll
 *  Data_SKSE_Plugins_SSEDisplayTweaks.ini
 *  Data_SKSE_Plugins_YesImSure.dll
@@ -414,6 +419,7 @@
 *  [Enderal - Donkey (Female and Male Version)-107-2-61-1663645727.7z](https://www.nexusmods.com/enderalspecialedition/mods/107/?tab=files&file_id=2093)
 *  [Enderal - Donkey (Optional Saddle Pad)-107-2-61-1663645893.7z](https://www.nexusmods.com/enderalspecialedition/mods/107/?tab=files&file_id=2095)
 *  [Enderal - Fixed Mesh Lighting-826-0-9-1736242118.rar](https://www.nexusmods.com/enderalspecialedition/mods/826/?tab=files&file_id=3297)
+*  [Enderal - One Moon-1008-1-0-1767943551.rar](https://www.nexusmods.com/enderalspecialedition/mods/1008/?tab=files&file_id=4041)
 *  [Enderal Enchanting Stations-1059-1-1779572488.7z](https://www.nexusmods.com/enderalspecialedition/mods/1059/?tab=files&file_id=4206)
 *  [Enderal Fluffworks - Cow-798-1-0-1729899586.7z](https://www.nexusmods.com/enderalspecialedition/mods/798/?tab=files&file_id=3147)
 *  Enderal Launcher.exe
@@ -444,7 +450,6 @@
 *  [Enderal Tracking Tool SE-72-2-0-1618394807.zip](https://www.nexusmods.com/enderalspecialedition/mods/72/?tab=files&file_id=301)
 *  [Enderal Upscale Project (2K version)-126-1-0-1621063358.7z](https://www.nexusmods.com/enderalspecialedition/mods/126/?tab=files&file_id=592)
 *  Enderal_default.ini
-*  EnderalLauncher_system_images_cp_novelnew_01.jpg
 *  [EnderalNOTWL-1033-1-1-1-1778880475.7z](https://www.nexusmods.com/enderalspecialedition/mods/1033/?tab=files&file_id=4195)
 *  EnderalPrefs_default.ini
 *  [Engine Fixes - Main File-17230-7-0-20-1772078239.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=725753)
@@ -719,7 +724,6 @@
 *  [Main archive-154073-1-0-1751574907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/154073/?tab=files&file_id=643838)
 *  [Main File-147423-1-0-1744601613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/147423/?tab=files&file_id=617073)
 *  [Main File-155419-1-0-1753512831.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155419/?tab=files&file_id=650262)
-*  [Main file-216-1-1627545674.zip](https://www.nexusmods.com/enderalspecialedition/mods/216/?tab=files&file_id=931)
 *  [Mandragora Sprouts for Enderal-618-1-00-1702721804.7z](https://www.nexusmods.com/enderalspecialedition/mods/618/?tab=files&file_id=2585)
 *  [MaxsuBlockOverhaul-V0.24a.7z](https://github.com/max-su-2019/MaxuBlockOverhaul/releases/download/v0.24/MaxsuBlockOverhaul-V0.24a.7z)
 *  [MCM Helper for Enderal-803-1-1-1731407980.7z](https://www.nexusmods.com/enderalspecialedition/mods/803/?tab=files&file_id=3197)
@@ -756,6 +760,7 @@
 *  [Modern Hay PBR 2k-155815-1-1753818227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/155815/?tab=files&file_id=651165)
 *  [Modern NPC Overhaul 1078 1.0.1 2026-08-12T19-45Z 568MePYu3.zip](https://www.nexusmods.com/enderalspecialedition/mods/1078/?tab=files&file_id=4385)
 *  [Modern Wait Menu 117661 2.1.0 2026-06-15T15-42Z pQ0AZ3Nbt.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117661/?tab=files&file_id=764038)
+*  [Modified Optimal Gaze NG 198200 1.1.0 2026-11-07T05-39Z UK35Xqp9z.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198200/?tab=files&file_id=833717)
 *  [Modular SMP Hairstyles-93608-1-031-1712415755.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93608/?tab=files&file_id=488035)
 *  [Moon Monk for Kilean Outfit-934-1-0-1752927454.zip](https://www.nexusmods.com/enderalspecialedition/mods/934/?tab=files&file_id=3741)
 *  [Moon Monk's Robes - 2K-82495-1-2-1731869060.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82495/?tab=files&file_id=563342)
@@ -1088,6 +1093,7 @@
 *  [TexGen Output 1115 1.2 2026-10-25T19-51Z QgRn6NEBy.7z](https://www.nexusmods.com/enderalspecialedition/mods/1115/?tab=files&file_id=4640)
 *  [Thalgard Tree Replacer PBR 1112 1.0 2026-09-05T20-57Z ClmuoVqnP.zip](https://www.nexusmods.com/enderalspecialedition/mods/1112/?tab=files&file_id=4439)
 *  [The Fat Leoran Signage Restoration-421-1-0-1669602969.7z](https://www.nexusmods.com/enderalspecialedition/mods/421/?tab=files&file_id=2204)
+*  [The Fourth Wall 197923 1.1.2 2026-11-07T03-07Z 2Bej5RENu.zip](https://www.nexusmods.com/skyrimspecialedition/mods/197923/?tab=files&file_id=833669)
 *  [The G.O.A.T fix-906-1-1750019594.7z](https://www.nexusmods.com/enderalspecialedition/mods/906/?tab=files&file_id=3647)
 *  [The Handy Icon Collection Collective-90508-1-7-0-1736494302.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90508/?tab=files&file_id=581428)
 *  [The Notice Board Redefined for Enderal-153-1-0-1623259613.rar](https://www.nexusmods.com/enderalspecialedition/mods/153/?tab=files&file_id=688)
