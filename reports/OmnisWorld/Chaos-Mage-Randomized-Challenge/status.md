@@ -1,11 +1,10 @@
 ## Validation Report - Chaos Mage (OmnisWorld/Chaos-Mage-Randomized-Challenge)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_7e7ae020-e256-4013-8681-425327cbde00)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2840)
+### Valid (2841)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorCamarilla_CBBE.rar](https://www.patreon.com/file?h=144649737&m=572422884)
 *  [_Fuse00_ArmorCamarilla_Vanilla male.rar](https://www.patreon.com/file?h=144649737&m=572422940)
@@ -902,6 +901,7 @@
 *  [ENB Mesh Fixes-97412-1-1-1614591611.7z](https://www.nexusmods.com/skyrim/mods/97412/?tab=files&file_id=1000333442)
 *  [ENB Terrain Blending Fix-140041-1-1-0-1737995352.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140041/?tab=files&file_id=588062)
 *  [ENB Worldspace Weatherlists-101697-1-1-1720734794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101697/?tab=files&file_id=520059)
+*  [enbseries_skyrimse_v0504.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0504.zip_7e7ae020-e256-4013-8681-425327cbde00)
 *  [Enchantable Special Item Fix - Dawnguard Arsenal-91173-1-1-1683906889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91173/?tab=files&file_id=387368)
 *  [Enchantable Special Item Fix-65154-1-0-2-1664574060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=320587)
 *  [Engine Fixes - Main File-17230-7-0-19-1758815363.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=669323)
