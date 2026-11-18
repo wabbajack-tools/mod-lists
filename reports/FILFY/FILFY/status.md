@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4317)
+### Valid (4318)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -1550,7 +1550,6 @@
 *  [Faster Archives 197523 1.1.1 2026-11-14T16-27Z cE8hksEAB.7z](https://www.nexusmods.com/skyrimspecialedition/mods/197523/?tab=files&file_id=838738)
 *  [Faster Cell Lookup 178777 1.7 2026-07-02T15-27Z lNkz9Ldzc.zip](https://www.nexusmods.com/skyrimspecialedition/mods/178777/?tab=files&file_id=770845)
 *  [Faster File Copy 175531 1.7 2026-07-15T13-17Z 587RqTEiR.zip](https://www.nexusmods.com/skyrimspecialedition/mods/175531/?tab=files&file_id=776639)
-*  [Faster HDT-SMP-57339-2-5-1-1728377043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=550156)
 *  [Faster Objects 196070 1.0.3 2026-10-24T20-07Z qTl1Sxn5I.zip](https://www.nexusmods.com/skyrimspecialedition/mods/196070/?tab=files&file_id=825451)
 *  [Faster Textures 198583 1.0.2 2026-11-14T10-24Z yIjvuBIuy.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198583/?tab=files&file_id=838550)
 *  [FasterLoadscreens 182852 1.0.4.1 2026-07-25T12-44Z 6XybdaGU9.zip](https://www.nexusmods.com/skyrimspecialedition/mods/182852/?tab=files&file_id=781073)
@@ -1605,7 +1604,6 @@
 *  [file_statistics-157776-2-0-1756316625.7z](https://www.nexusmods.com/skyrimspecialedition/mods/157776/?tab=files&file_id=659822)
 *  [FILFY - Output - Bodyslide - 2.7.2.3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=747207)
 *  [FILFY - Output - DynDOLOD - 2.7.2.4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=747240)
-*  [FILFY - Output - Nemesis.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=745786)
 *  [Final Farewell - 1.0.7-127894-1-0-7-1753411426.zip](https://www.nexusmods.com/skyrimspecialedition/mods/127894/?tab=files&file_id=649956)
 *  [Fire Ignites Arrows-118544-1-1-1715758153_52adb08695ba731e3721cc26e03ae57b76bcb157d881b40e7a9433ce61ee59c4_.rar](https://www.nexusmods.com/skyrimspecialedition/mods/118544/?tab=files&file_id=501273)
 *  [Fire Ignites Arrows-118544-1-1-2-1723829743.rar](https://www.nexusmods.com/skyrimspecialedition/mods/118544/?tab=files&file_id=532115)
@@ -1680,6 +1678,7 @@
 *  [Frozen in Time - Snow Elf Waifu Mod-39732-0-29-1-1753060508.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39732/?tab=files&file_id=648900)
 *  [FSLE - More Locations-120995-1-0-1718024324.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120995/?tab=files&file_id=510212)
 *  [FSLE - Unique Abilities-120995-1-0-1718024635.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120995/?tab=files&file_id=510213)
+*  [FSMP 4.1.1 57339 4.1.1 2026-08-26T19-57Z izKcFpr1Z.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57339/?tab=files&file_id=795580)
 *  [FTFY - SkyKing's Unique Signs-115494-1-1-0-1713172112.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115494/?tab=files&file_id=490968)
 *  [FTFY - YourMom and RaceCompatibility-119708-1-0-0-1716009272.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119708/?tab=files&file_id=502264)
 *  [Fur Shader Armors addon-109194-4-1-8-1744916427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109194/?tab=files&file_id=618316)
@@ -1778,6 +1777,7 @@
 *  [Glowing Argonian Eyes SE-31600-1-0-1578357309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31600/?tab=files&file_id=118915)
 *  [Goam's Elven Ears - BnP version-99528-1-0-1693598358.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99528/?tab=files&file_id=422577)
 *  [Goam's Elven Ears - Proper RaceMenu Integration-122236-1-0-2-1719014782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/122236/?tab=files&file_id=513758)
+*  [Goat's RaceMenu Overlay FPS Helper 199063 1.0.0 2026-11-14T07-07Z XnIqaSnJp.zip](https://www.nexusmods.com/skyrimspecialedition/mods/199063/?tab=files&file_id=838475)
 *  [Goblins - BS Bruma Patch-32182-2-2-0-1639748667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32182/?tab=files&file_id=249826)
 *  [Goblins and Riekrs - My textures SE by Xtudo - 2K-95182-1-1688652736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95182/?tab=files&file_id=404287)
 *  [goblins and riekrs (se-ae)-95101-1-1688576428.rar](https://www.nexusmods.com/skyrimspecialedition/mods/95101/?tab=files&file_id=404057)
@@ -2431,8 +2431,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
+*  lex_sscebr.tlx
 *  lex_sscebr2.clx
-*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -2536,7 +2536,7 @@
 *  [Male-Female Bigger(er) Argonian Tails-92841-2-1685899411.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92841/?tab=files&file_id=395019)
 *  [Mana - The Pocket Mammoth-94592-1-1688068308.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94592/?tab=files&file_id=402283)
 *  [Mannaz 3.0.1-87219-3-0-1-1689266411.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87219/?tab=files&file_id=406689)
-*  [Map Menu Clouds Fix 187452 1.1 2026-08-11T12-44Z uhRBKsvSi.zip](https://www.nexusmods.com/skyrimspecialedition/mods/187452/?tab=files&file_id=788463)
+*  [Map Menu Clouds Fix 187452 2 2026-08-11T12-44Z uhRBKsvSi.zip](https://www.nexusmods.com/skyrimspecialedition/mods/187452/?tab=files&file_id=788463)
 *  [Map Menu Extension 188483 1 2026-08-16T19-56Z Ae46W79Ci.zip](https://www.nexusmods.com/skyrimspecialedition/mods/188483/?tab=files&file_id=790945)
 *  [Map Menu Extention Add On FOMOD 190175 1.1 2026-10-30T21-00Z Dc5uGkDOz.7z](https://www.nexusmods.com/skyrimspecialedition/mods/190175/?tab=files&file_id=829219)
 *  [Mari's flora - Low-45952-1-2-1618220838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45952/?tab=files&file_id=197656)
@@ -2727,6 +2727,7 @@
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
 *  [Nemesis Creature Behaivour - WereWolf Addon-45966-1-4-1679764789.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=371954)
 *  [Nemesis Creature Behaivour Compatiblity-45966-1-4-1679764715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=371953)
+*  [Nemesis Output - 2.7.1.0-115534-2-7-1-0-1777134682.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=745786)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Nether Dragon Breath Optimization-23723-6-6-0-1702134285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=450174)
 *  [Nether's Elana - Chooey's Choice-152550-1-0-1-1750087845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/152550/?tab=files&file_id=638551)
@@ -2995,7 +2996,7 @@
 *  [PEPE Main File-91192-2-2-4-6-1766689366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91192/?tab=files&file_id=702049)
 *  [Perfectly Valid Wards-153401-1-0-3-1750874481.7z](https://www.nexusmods.com/skyrimspecialedition/mods/153401/?tab=files&file_id=641611)
 *  [Perform The Black Sacrament-101217-1-2-1696315843.zip](https://www.nexusmods.com/skyrimspecialedition/mods/101217/?tab=files&file_id=430831)
-*  [Perk Adjuster-127999-2-1-0-1725798943.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127999/?tab=files&file_id=679625)
+*  [Perk Adjuster-127999-2-1-1-1761253571.7z](https://www.nexusmods.com/skyrimspecialedition/mods/127999/?tab=files&file_id=679625)
 *  [Persistent Favorites-118174-1-0-6-1771713282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118174/?tab=files&file_id=724185)
 *  [Persistent Relations-167904-1-0-1766549734.zip](https://www.nexusmods.com/skyrimspecialedition/mods/167904/?tab=files&file_id=701527)
 *  [Peryite Revoiced - The Only Cure Patch-146986-1-0-1743979069.zip](https://www.nexusmods.com/skyrimspecialedition/mods/146986/?tab=files&file_id=614666)
