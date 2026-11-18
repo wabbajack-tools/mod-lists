@@ -1,11 +1,12 @@
 ## Validation Report - Ascended Fates (AscendedFates/AscendedFatesModlist)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [Immersive Kaidan AIO - V5.0.1.7z](https://drive.google.com/uc?id=1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF&export=download)
+*  [ParallaxD3DCompiler.zip](https://authored-files.wabbajack.org/ParallaxD3DCompiler.zip_8308929b-5250-4669-a2fe-a9ba9fb35e73)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1488)
+### Valid (1487)
 *  [-Skyrim 202X 10.5.2 - Architecture PART 1-2347-10-5-2-1753882692.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651339)
 *  [-Skyrim 202X 10.5.2 - Landscape PART 2-2347-10-5-2-1753884060.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651342)
 *  [-Skyrim 202X 10.5.2 - Other PART 3-2347-10-5-2-1753887591.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=651363)
@@ -1038,7 +1039,6 @@
 *  [PapyrusUtil TFC Fix-162625-1-0-0-1761353455.zip](https://www.nexusmods.com/skyrimspecialedition/mods/162625/?tab=files&file_id=680078)
 *  [Parallax Addon for Rudy HQ Nordic Ruins-86900-1-0-1678651971.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86900/?tab=files&file_id=368005)
 *  [PARALLAX VERSION-72401-1-02-1659264512.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72401/?tab=files&file_id=303557)
-*  [ParallaxD3DCompiler.zip](https://authored-files.wabbajack.org/ParallaxD3DCompiler.zip_8308929b-5250-4669-a2fe-a9ba9fb35e73)
 *  [Particle Patch-65720-1-4-0-1768587034.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=710208)
 *  [Patch - SkyHUD v090B-463-0-90-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=65410)
 *  [Patch for Helgen Reborn-9005-1-1701139569.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=446746)
