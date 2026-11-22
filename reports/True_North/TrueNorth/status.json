@@ -1,8 +1,8 @@
 {
   "MachineURL": "True_North/TrueNorth",
   "Name": "True North",
-  "Version": "7.1.2",
-  "ModListHash": "wkgX/mscJ8s=",
+  "Version": "7.1.3",
+  "ModListHash": "51rM6sMY3tU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3343,27 +3343,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qlLeTO7lva4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64278\nfileID=283304",
-        "Name": "Select Your Season-64278-1-2-1652416358.7z",
-        "Size": 8484,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "isoku and Janquel",
-          "Description": "Experience different seasons by starting your game on a different date. (Really \u0022select your date\u0022, but GOTTA RIDE THAT SEASON TRAIN WHOOOO)",
-          "FileID": 283304,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64278/64278-1645924637-1385329055.png",
-          "IsNSFW": false,
-          "ModID": 64278,
-          "Name": "Select Your Season",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "4YREuUoY+xc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=111430\nfileID=476373",
         "Name": "Vibrant Weapons EAE-111430-1-2-0-1709413366.7z",
@@ -5453,6 +5432,27 @@
           "ModID": 62775,
           "Name": "TrueHUD - HUD Additions",
           "Version": "1.1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qlLeTO7lva4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64278\nfileID=283304",
+        "Name": "Select Your Season-64278-1-2-1652416358.7z",
+        "Size": 8484,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "isoku and Janquel",
+          "Description": "Experience different seasons by starting your game on a different date. (Really \u0022select your date\u0022, but GOTTA RIDE THAT SEASON TRAIN WHOOOO)",
+          "FileID": 283304,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64278/64278-1645924637-1385329055.png",
+          "IsNSFW": false,
+          "ModID": 64278,
+          "Name": "Select Your Season",
+          "Version": "1.2"
         }
       }
     },
@@ -26656,48 +26656,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RZRHVHedHe0=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511492648,
+        "Hash": "6n+UdS1Y8jw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67768230,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "RZRHVHedHe0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xT3J6oJEmXA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
-        "Name": "Data_MarketplaceTextures.bsa",
-        "Size": 3224203,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\MarketplaceTextures.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "xT3J6oJEmXA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7HFZBrSQNwk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1265325033,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "7HFZBrSQNwk="
+          "Hash": "6n+UdS1Y8jw="
         }
       }
     },
@@ -26720,6 +26688,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "7HFZBrSQNwk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
+        "Name": "Data_Skyrim - Textures4.bsa",
+        "Size": 1265325033,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures4.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "7HFZBrSQNwk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xT3J6oJEmXA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\MarketplaceTextures.bsa",
+        "Name": "Data_MarketplaceTextures.bsa",
+        "Size": 3224203,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\MarketplaceTextures.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "xT3J6oJEmXA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PDVHLK2W12M=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
         "Name": "Data_Skyrim - Textures2.bsa",
@@ -26736,6 +26736,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "RZRHVHedHe0=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1511492648,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "RZRHVHedHe0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xn0zykJZrQk=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Sounds.bsa",
         "Name": "Data_Skyrim - Sounds.bsa",
@@ -26746,22 +26762,6 @@
           "GameFile": "Data\\Skyrim - Sounds.bsa",
           "GameVersion": "1.7.104.0",
           "Hash": "xn0zykJZrQk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6n+UdS1Y8jw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67768230,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "6n+UdS1Y8jw="
         }
       }
     }
