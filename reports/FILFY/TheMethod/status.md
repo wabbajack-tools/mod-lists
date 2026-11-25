@@ -617,7 +617,7 @@
 *  [Fluid Motion - Pathing 1.2 194680 1.2 2026-10-17T19-18Z izKcFpoOV.zip](https://www.nexusmods.com/skyrimspecialedition/mods/194680/?tab=files&file_id=821868)
 *  [Follower Stats-159406-1-0-12-1766336390.zip](https://www.nexusmods.com/skyrimspecialedition/mods/159406/?tab=files&file_id=700496)
 *  [FollowerParkour 186033 3.2 2026-10-09T00-37Z Ae46W7KJa.zip](https://www.nexusmods.com/skyrimspecialedition/mods/186033/?tab=files&file_id=816675)
-*  [FOMOD Plus For MO2 2.5.2 2088 1.20.0 2026-07-07T13-41Z QeX7iLwK0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141001/?tab=files&file_id=725877)
+*  [FOMOD Plus for MO2 2.5.2-141001-1-20-1-1772117856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/141001/?tab=files&file_id=725877)
 *  [Food and Drink Have Descriptions-107292-2-8-1742569439.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107292/?tab=files&file_id=608027)
 *  [Forget Spell 51125 1.3.2 2026-09-06T13-06Z izKcFpSFu.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=801284)
 *  [Forgotten Containers (CID) - CC Fishing-105838-1-4-1-1706377327.zip](https://www.nexusmods.com/skyrimspecialedition/mods/105838/?tab=files&file_id=465407)
@@ -746,8 +746,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
+*  lex_sscebr.tlx
 *  lex_sscebr2.clx
-*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
@@ -1032,7 +1032,7 @@
 *  [Simple Wearable Lanterns Remastered 2k PBR 183581 1 2026-07-01T02-55Z bqv3tSLRb.zip](https://www.nexusmods.com/skyrimspecialedition/mods/183581/?tab=files&file_id=770230)
 *  [Simplicity of Sea - Water Color Tweaks-148761-1-0-0-1745810859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/148761/?tab=files&file_id=621750)
 *  [Simplicity of Seeding-94428-0-7-1-1749407522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94428/?tab=files&file_id=635948)
-*  [Simplicity of Snow Sulfur Ash Moss 192910 0.6 2026-11-19T10-57Z FpnkHMkL6.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192910/?tab=files&file_id=841430)
+*  [Simplicity of Snow Sulfur Ash Moss 192910 0.6.1 2026-11-24T20-22Z lNkz9pzCZ.7z](https://www.nexusmods.com/skyrimspecialedition/mods/192910/?tab=files&file_id=844625)
 *  [Simply Order Summons-66919-0-12-1-1744747057.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66919/?tab=files&file_id=617649)
 *  [Sink Or Swim NG-78610-1-9-1668230874.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78610/?tab=files&file_id=331014)
 *  [Sink-Or-Swim-42962-1-8-1611534519.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42962/?tab=files&file_id=181626)
