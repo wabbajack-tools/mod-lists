@@ -4,8 +4,9 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1664)
+### Valid (1653)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
+*  [Ancient Lore - Beckett Retexture-115-1-1565440102.zip](https://www.nexusmods.com/vampirebloodlines/mods/115/?tab=files&file_id=271)
 *  [Andrei_Zulu_Warform_Animalism_Beastform_v1.12_Made_By_MooCHa.rar](https://www.moddb.com/addons/start/300008)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
 *  [Antitribu_1.1-Repack.zip](https://authored-files.wabbajack.org/Antitribu_1.1-Repack.zip_f9f184c9-157f-4f9a-bd2a-c83665667a0a)
@@ -29,10 +30,9 @@
 *  [Blood Countess Ventrue and Lasombra by Felizpe V3-51-3-0-1546091611.rar](https://www.nexusmods.com/vampirebloodlines/mods/51/?tab=files&file_id=164)
 *  [Blood Rayne Posters.rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1557)
 *  [Bloodlines audio fix 207 2.2 2026-09-22T05-00Z MwNCqaJT.zip](https://www.nexusmods.com/vampirebloodlines/mods/207/?tab=files&file_id=1630)
-*  [Bloodlines Script Extender 445 0.6.3 2026-11-13T16-42Z P36Lz9Fi.zip](https://www.nexusmods.com/vampirebloodlines/mods/445/?tab=files&file_id=1806)
+*  [Bloodlines Script Extender 445 0.7 2026-11-20T01-33Z KoaqQbMC.zip](https://www.nexusmods.com/vampirebloodlines/mods/445/?tab=files&file_id=1839)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
 *  [BLOODLINES_EXTREME_2.2.1 - Repack.7z](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_2.2.1 - Repack.7z_bd3f9a2a-3c56-41ba-8c77-6dc53ef25571)
-*  [BLOODLINES_EXTREME_2.2.1.zip](https://www.moddb.com/downloads/start/132997)
 *  [BLOODLINES_EXTREME_2.2.11.zip](https://www.moddb.com/downloads/start/132997)
 *  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
@@ -45,37 +45,43 @@
 *  [Brujah opium-335-1-0-1735584083.rar](https://www.nexusmods.com/vampirebloodlines/mods/335/?tab=files&file_id=1143)
 *  [Brujah Replacer - Kit-395-1-5-1771381079.zip](https://www.nexusmods.com/vampirebloodlines/mods/395/?tab=files&file_id=1502)
 *  [Brujah Skin-319-2-0-1722106221.7z](https://www.nexusmods.com/vampirebloodlines/mods/319/?tab=files&file_id=1037)
-*  [CaineCam 436 1.5.2 2026-11-15T02-01Z MwNCqayd.zip](https://www.nexusmods.com/vampirebloodlines/mods/436/?tab=files&file_id=1816)
-*  [CaineHud 439 1.2.1 2026-11-15T20-24Z XhitZ4Jm.zip](https://www.nexusmods.com/vampirebloodlines/mods/439/?tab=files&file_id=1831)
+*  [CaineCam 436 1.6.0 2026-11-26T01-26Z 9rTHGR6z.zip](https://www.nexusmods.com/vampirebloodlines/mods/436/?tab=files&file_id=1858)
+*  [CaineHud 439 1.3.3 2026-11-26T01-27Z xbAflhjJ.zip](https://www.nexusmods.com/vampirebloodlines/mods/439/?tab=files&file_id=1859)
 *  [CaineLight 442 1.8.0 2026-11-15T15-06Z oZs9iBwF.zip](https://www.nexusmods.com/vampirebloodlines/mods/442/?tab=files&file_id=1825)
-*  [CainePad Loader 432 1.5.1 2026-11-15T02-02Z pmOMKVb6.zip](https://www.nexusmods.com/vampirebloodlines/mods/432/?tab=files&file_id=1817)
-*  [CaineSub 437 1.3.0 2026-11-16T08-25Z ZjPrnJti.zip](https://www.nexusmods.com/vampirebloodlines/mods/437/?tab=files&file_id=1833)
-*  [CaineWorld 448 1.2.0 2026-11-15T21-16Z kxJn5XZd.zip](https://www.nexusmods.com/vampirebloodlines/mods/448/?tab=files&file_id=1832)
+*  [CainePad Loader 432 1.7.0 2026-11-26T01-29Z vV5jxYhO.zip](https://www.nexusmods.com/vampirebloodlines/mods/432/?tab=files&file_id=1860)
+*  [CaineSub 437 1.4.1 2026-11-25T23-59Z pmOMKVb2.zip](https://www.nexusmods.com/vampirebloodlines/mods/437/?tab=files&file_id=1856)
+*  [CaineWorld 448 1.2.1 2026-11-26T01-25Z nfzS3trs.zip](https://www.nexusmods.com/vampirebloodlines/mods/448/?tab=files&file_id=1857)
 *  [Camarilla_Edition_Reborn.1.exe](https://www.moddb.com/downloads/start/312734)
 *  [Carpet Texture Pack-152-1-0-1598207727.zip](https://www.nexusmods.com/vampirebloodlines/mods/152/?tab=files&file_id=423)
 *  [Carthian Damsel-225-1-01-1663357231.zip](https://www.nexusmods.com/vampirebloodlines/mods/225/?tab=files&file_id=651)
 *  [Casual Female Malkavian-267-1-0-1689345021.zip](https://www.nexusmods.com/vampirebloodlines/mods/267/?tab=files&file_id=833)
 *  [Character Eyes Improved-164-16-1719680547.rar](https://www.nexusmods.com/vampirebloodlines/mods/164/?tab=files&file_id=1015)
-*  [Cheat Menu 434 0.5 2026-11-03T02-17Z RzI76WW5.zip](https://www.nexusmods.com/vampirebloodlines/mods/434/?tab=files&file_id=1742)
+*  [Cheat Menu 434 0.6 2026-11-18T19-22Z IHKBm2EA.zip](https://www.nexusmods.com/vampirebloodlines/mods/434/?tab=files&file_id=1838)
 *  [Chinatown_vampire.rar](https://www.moddb.com/addons/start/233551)
 *  [Clan_Quest_UPgraded_6-Repack.7z](https://authored-files.wabbajack.org/Clan_Quest_UPgraded_6-Repack.7z_4d441643-d32b-453b-919d-d6177557a1ce)
 *  [Clan_Quest_UPgraded_6.exe](https://www.moddb.com/downloads/start/317154)
+*  [Clan_Quest_UPgraded_Patch_10.exe](https://www.moddb.com/downloads/start/321235)
+*  [Clan_Quest_UPgraded_Patch_9 - Repack.zip](https://authored-files.wabbajack.org/Clan_Quest_UPgraded_Patch_9 - Repack.zip_edd062da-6cf3-4cf1-a1f2-c9b54cc0aa5c)
+*  [Clan_Quest_UPgraded_Patch_9.exe](https://www.moddb.com/downloads/start/319189)
 *  [Companion Mod Models-383-alpha-0-1-1764714074.zip](https://www.nexusmods.com/vampirebloodlines/mods/383/?tab=files&file_id=1398)
 *  [Companion_Mod_Core_Edition_v4 - Repack.7z](https://authored-files.wabbajack.org/Companion_Mod_Core_Edition_v4 - Repack.7z_e3668ef2-0eb9-4e1a-b9aa-0bd6c28c79a6)
 *  [Companion_Mod_Core_Edition_v4.exe](https://www.moddb.com/downloads/start/282830)
 *  [Computer Greeting-365-1-0-1764834066.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1400)
+*  [ConversationSubtitlesOnly 1.2 449 1.2 2026-11-15T13-25Z QiyWsMq3.zip](https://www.nexusmods.com/vampirebloodlines/mods/449/?tab=files&file_id=1823)
 *  [Corporate Goth Tremere-327-1-2-1762662636.rar](https://www.nexusmods.com/vampirebloodlines/mods/327/?tab=files&file_id=1355)
 *  [Corporate Goth Ventrue - male-52-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/52/?tab=files&file_id=133)
 *  [Corporate Goth Ventrue-327-1-2-1762662537.rar](https://www.nexusmods.com/vampirebloodlines/mods/327/?tab=files&file_id=1354)
 *  [Cybergoth Girl-81-2-1553964828.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=184)
 *  [Dalls_Vampire_v2-4-v2-0.7z](https://www.nexusmods.com/vampirebloodlines/mods/4/?tab=files&file_id=132)
 *  [Damon Salvatore Tremere V.5-29-5.rar](https://www.nexusmods.com/vampirebloodlines/mods/29/?tab=files&file_id=84)
+*  [Damsel retext-19-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/19/?tab=files&file_id=25)
 *  dbghelp.dll
 *  [demonastery_female_t.zip](https://www.moddb.com/addons/start/259066)
 *  [Deranged_Darling.zip](https://www.moddb.com/addons/start/102284)
 *  [DXVK and DLLs 234 2.4 2026-09-03T16-29Z ADr08nZ2.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1607)
 *  [Dzengrave Brujah-380-2-1763535180.rar](https://www.nexusmods.com/vampirebloodlines/mods/380/?tab=files&file_id=1378)
 *  [E Mesh Edit-238-1-1-1671997987.7z](https://www.nexusmods.com/vampirebloodlines/mods/238/?tab=files&file_id=691)
+*  [Engine Fixes and Tweaks 446 1.3 2026-11-25T11-11Z cTVK2Up1.zip](https://www.nexusmods.com/vampirebloodlines/mods/446/?tab=files&file_id=1846)
 *  [Executable Icon Fixer.7z](https://www.nexusmods.com/site/mods/1996/?tab=files&file_id=8185)
 *  [Fashionista Main Menu-365-0-0-1-1761803218.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1323)
 *  [Fem Joker Malkavian Skin-44-.zip](https://www.nexusmods.com/vampirebloodlines/mods/44/?tab=files&file_id=110)
@@ -84,7 +90,7 @@
 *  [Female Malkavian Outfit Replacer-259-v1-1-1684767973.zip](https://www.nexusmods.com/vampirebloodlines/mods/259/?tab=files&file_id=800)
 *  [Female_Malkavian_Armor_0_Reskin.zip](https://www.moddb.com/addons/start/287743)
 *  [Female_Tremere_Skin_Set_by_Neisseria.rar](https://www.moddb.com/addons/start/48304)
-*  [Fixes Adjustments 1.3 420 1.3 2026-11-06T16-11Z pmOMKVXe.zip](https://www.nexusmods.com/vampirebloodlines/mods/420/?tab=files&file_id=1755)
+*  [Fixes Adjustments 1.4 420 1.4 2026-11-18T08-04Z hOn8j5A3.zip](https://www.nexusmods.com/vampirebloodlines/mods/420/?tab=files&file_id=1837)
 *  [FmPc-220-2-0-1654877046.rar](https://www.nexusmods.com/vampirebloodlines/mods/220/?tab=files&file_id=623)
 *  [Food Texture Pack-53-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/53/?tab=files&file_id=134)
 *  [Furniture Texture Pack - Base Pack 1.1-88-1-1-1594389794.zip](https://www.nexusmods.com/vampirebloodlines/mods/88/?tab=files&file_id=408)
@@ -97,6 +103,7 @@
 *  [Gangrel_Male_Reskin.zip](https://www.moddb.com/addons/start/25615)
 *  [Gerri Dandridge (Fright Night 2 New Blood) for Ventrue-50-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/50/?tab=files&file_id=126)
 *  [Golden_Rose_v1.5.7z](https://www.moddb.com/addons/start/299724)
+*  [Goth Outfit - No Bracers-73-1-1548586811.zip](https://www.nexusmods.com/vampirebloodlines/mods/73/?tab=files&file_id=167)
 *  [HandsomeNosferatu.1.rar](https://www.moddb.com/addons/start/174198)
 *  [HD Grounds morestuff-34-v1-2.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=75)
 *  [HD Grounds part 2-34-v1-21.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=76)
@@ -104,6 +111,11 @@
 *  [Hooded Nosferatu v1.1-100-v1-1-1557952530.rar](https://www.nexusmods.com/vampirebloodlines/mods/100/?tab=files&file_id=239)
 *  [HunterB-350-26-03-2025-1748136552.zip](https://www.nexusmods.com/vampirebloodlines/mods/350/?tab=files&file_id=1218)
 *  [HunterC (light-skinned hunter)-350-29-05-2025-1748542992.zip](https://www.nexusmods.com/vampirebloodlines/mods/350/?tab=files&file_id=1222)
+*  [Imalia-214-1-0-1654874825.rar](https://www.nexusmods.com/vampirebloodlines/mods/214/?tab=files&file_id=616)
+*  [Interactive Lockpicking 450 1.0 2026-11-20T02-23Z inRGPw9V.zip](https://www.nexusmods.com/vampirebloodlines/mods/450/?tab=files&file_id=1840)
+*  [Isaac-17-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/17/?tab=files&file_id=23)
+*  [Jeanette and therese retexture-14-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/14/?tab=files&file_id=19)
+*  [Jeanette mesh edit-222-1-1655221165.7z](https://www.nexusmods.com/vampirebloodlines/mods/222/?tab=files&file_id=626)
 *  [Jenya's female toreador pc-149-1-0-1594830583.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=412)
 *  [LA By Night - Repack.zip](https://authored-files.wabbajack.org/LA By Night - Repack.zip_e2b1c1c0-2a41-4b19-8f2b-5cd5bd928633)
 *  [LA_by_Night_-_Patch_2.5.6a_hotfix.exe](https://www.moddb.com/downloads/start/313966)
@@ -142,6 +154,7 @@
 *  [MalkGirl-7-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/7/?tab=files&file_id=6)
 *  [materials.1.rar](https://www.moddb.com/addons/start/195088)
 *  [MavenCousland Toreador male-379-1-1762749156.zip](https://www.nexusmods.com/vampirebloodlines/mods/379/?tab=files&file_id=1360)
+*  [Maximillian strauss retexture-21-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/21/?tab=files&file_id=27)
 *  [Mercurio Retexture - 4096x2048-156-1-1-1599728978.zip](https://www.nexusmods.com/vampirebloodlines/mods/156/?tab=files&file_id=447)
 *  [Metalhead_Gangrel.rar](https://www.moddb.com/addons/start/216669)
 *  [Mingxiao-213-1-0-1654874420.rar](https://www.nexusmods.com/vampirebloodlines/mods/213/?tab=files&file_id=615)
@@ -154,6 +167,7 @@
 *  [Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1267)
 *  [Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1265)
 *  [Music HUSHED-368-1-0-1762028492.7z](https://www.nexusmods.com/vampirebloodlines/mods/368/?tab=files&file_id=1330)
+*  [neck seam FIX-14-.zip](https://www.nexusmods.com/vampirebloodlines/mods/14/?tab=files&file_id=21)
 *  [Neonate Gangrel 408 1 2026-07-09T06-09Z NWgpcFfK.rar](https://www.nexusmods.com/vampirebloodlines/mods/408/?tab=files&file_id=1582)
 *  [Neu Ventrue-371-1-1762325963.rar](https://www.nexusmods.com/vampirebloodlines/mods/371/?tab=files&file_id=1339)
 *  [New Badass Prince LaCroix-56-1-1540324215.rar](https://www.nexusmods.com/vampirebloodlines/mods/56/?tab=files&file_id=139)
@@ -180,11 +194,14 @@
 *  [Optional Art and Immersion-234-2-2-1770217647.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1488)
 *  [overhauled first-person hands models-271-1-1-1695148376.zip](https://www.nexusmods.com/vampirebloodlines/mods/271/?tab=files&file_id=876)
 *  [Pc for Brujah Male by Marius217-132-1-1584673201.rar](https://www.nexusmods.com/vampirebloodlines/mods/132/?tab=files&file_id=357)
+*  [Petrea's Remastered Textures-144-0-1-1590850460.rar](https://www.nexusmods.com/vampirebloodlines/mods/144/?tab=files&file_id=398)
+*  [Pisha retexture-15-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/15/?tab=files&file_id=20)
 *  [Player Characters Improved-163-7-1741784862.rar](https://www.nexusmods.com/vampirebloodlines/mods/163/?tab=files&file_id=1194)
 *  [Posters 2D.rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1558)
 *  [Posters Mod-231-1-0-1665492400.zip](https://www.nexusmods.com/vampirebloodlines/mods/231/?tab=files&file_id=662)
 *  [Prelude Characters-165-30-1761641912.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1313)
 *  [Prelude Male Hunter Improved-370-1-1762071923.rar](https://www.nexusmods.com/vampirebloodlines/mods/370/?tab=files&file_id=1335)
+*  [Pretty as a Flower - A Lily Reskin-130-1-0-1583063947.7z](https://www.nexusmods.com/vampirebloodlines/mods/130/?tab=files&file_id=354)
 *  [Profile Sync-60690-2-2-0-1767828121.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60690/?tab=files&file_id=706651)
 *  [ProudStannerman Toreador-376-1-1762488690.rar](https://www.nexusmods.com/vampirebloodlines/mods/376/?tab=files&file_id=1348)
 *  [ProudStannerman Tremere-376-1-1762480761.rar](https://www.nexusmods.com/vampirebloodlines/mods/376/?tab=files&file_id=1347)
@@ -204,6 +221,7 @@
 *  [Street Sign Texture Pack-106-1-0-1-1594482809.zip](https://www.nexusmods.com/vampirebloodlines/mods/106/?tab=files&file_id=410)
 *  [Subtle Female Malkavian-1-1-01.7z](https://www.nexusmods.com/vampirebloodlines/mods/1/?tab=files&file_id=1)
 *  [Sweet Heather by Skeletoff-212-1-2-1654873880.rar](https://www.nexusmods.com/vampirebloodlines/mods/212/?tab=files&file_id=614)
+*  [Tainted Love - A Heather Skin Pack-73-1-1548527293.zip](https://www.nexusmods.com/vampirebloodlines/mods/73/?tab=files&file_id=166)
 *  [terrible nosferatu-243-1-0-1673418331.7z](https://www.nexusmods.com/vampirebloodlines/mods/243/?tab=files&file_id=696)
 *  [The Crow Malkavian 1.1-331-1-1-1733951998.zip](https://www.nexusmods.com/vampirebloodlines/mods/331/?tab=files&file_id=1129)
 *  [The Final Nights Characters-165-25-1730823364.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1104)
@@ -793,53 +811,24 @@
 *  Unofficial_Patch_vdata_signs_museum_note.txt
 *  Unofficial_Patch_vdata_signs_sinbin_note.txt
 *  Unofficial_Patch_vdata_signs_sinbin_temp.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_animalism1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_animalism2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_animalism3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_auspex1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_blood_buff1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_bloodpool1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_brujahdisc1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_computers2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_containers1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dementation1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_dementation2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dementation3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dialogue_nosferatu.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_disciplines1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_dominate1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_dominate2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_dominate3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_animalism_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_animalism_2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dementation_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dementation_2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dominate_1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dominate_2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_obfuscate_1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_fail_potence_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fortitude2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_gangreldisc1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_get1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_inspection2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_malkaviandisc1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_masquerade1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_masquerade3.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_moving1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_nosferatudisc1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_obfuscate2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_obfuscate4.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_potence1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_potence2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_presence2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_protean2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_questlog1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_rangedcombat1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_rangedcombat2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_thaumaturgy1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_thaumaturgy2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_thaumaturgy3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_tireiron1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_toreadordisc1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_tremeredisc1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_ventruedisc1.txt
@@ -848,7 +837,6 @@
 *  Unofficial_Patch_vdata_system_charcreatewizard.txt
 *  Unofficial_Patch_vdata_system_clandoc000.txt
 *  Unofficial_Patch_vdata_system_credits.txt
-*  Unofficial_Patch_vdata_system_disciplinetgt_000.txt
 *  Unofficial_Patch_vdata_system_disciplinetgt_001.txt
 *  Unofficial_Patch_vdata_system_disciplinetgt_002.txt
 *  Unofficial_Patch_vdata_system_disciplinetgt_004.txt
@@ -1659,6 +1647,7 @@
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
 *  [VTMBup120.11 80 12.0.11 2026-11-11T14-24Z UIdbpgHv.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1785)
 *  [VV_Posters-194-1-0-1636564291.7z](https://www.nexusmods.com/vampirebloodlines/mods/194/?tab=files&file_id=558)
+*  [VV-18-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/18/?tab=files&file_id=24)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
 *  [War_Games.exe](https://www.moddb.com/downloads/start/304323)
